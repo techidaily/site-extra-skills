@@ -1,7 +1,7 @@
 ---
 title: "\"Spice Up Social Media - Create Memes on Kapwing for 2024\""
-date: 2024-05-29 22:38:24
-updated: 2024-05-31 12:49:55
+date: 2024-05-31T07:39:29.073Z
+updated: 2024-06-01T07:39:29.073Z
 tags: 
   - screen-recording
   - ai video
@@ -168,4 +168,5 @@ In the Meme world, there are numerous tools available for creating memes. Among 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

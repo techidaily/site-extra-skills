@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Apple Podcast Submission Process"
-date: 2024-05-26 23:11:55
-updated: 2024-05-29 10:11:48
+date: 2024-05-31T07:36:27.079Z
+updated: 2024-06-01T07:36:27.079Z
 tags: 
   - screen-recording
   - ai video
@@ -260,4 +260,5 @@ This article discusses what it takes to get featured on the Apple Podcasts podca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

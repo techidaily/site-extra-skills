@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quick & Convenient Video Edits in Windows 11 Photos"
-date: 2024-05-29 16:14:42
-updated: 2024-05-30 12:37:23
+date: 2024-05-31T07:38:46.808Z
+updated: 2024-06-01T07:38:46.808Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

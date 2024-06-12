@@ -1,7 +1,7 @@
 ---
 title: "Pinnacle Color Balance Pro for 2024"
-date: 2024-05-28 18:21:48
-updated: 2024-05-29 10:25:19
+date: 2024-05-31T07:36:43.513Z
+updated: 2024-06-01T07:36:43.513Z
 tags: 
   - screen-recording
   - ai video
@@ -463,4 +463,5 @@ With apps like Filmora, color correcting is simple and quick to do on mobile dev
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

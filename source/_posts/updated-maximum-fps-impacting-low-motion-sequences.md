@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Maximum FPS Impacting Low-Motion Sequences\""
-date: 2024-05-25 11:18:23
-updated: 2024-05-28 11:43:14
+date: 2024-05-31T07:41:07.526Z
+updated: 2024-06-01T07:41:07.526Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ There is no definite answer to which is the best frame rate for slow motion. It 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

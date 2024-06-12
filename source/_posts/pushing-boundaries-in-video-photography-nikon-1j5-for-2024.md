@@ -1,7 +1,7 @@
 ---
 title: "\"Pushing Boundaries in Video Photography - Nikon 1J5 for 2024\""
-date: 2024-05-29 12:24:38
-updated: 2024-05-30 10:54:47
+date: 2024-05-31T07:40:46.234Z
+updated: 2024-06-01T07:40:46.234Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Realistic Quantum Leaps  A VFX Perspective for 2024\""
-date: 2024-05-27 10:50:52
-updated: 2024-05-30 11:22:58
+date: 2024-05-31T07:37:19.924Z
+updated: 2024-06-01T07:37:19.924Z
 tags: 
   - screen-recording
   - ai video
@@ -520,4 +520,5 @@ Create for you and add different effects and experiment with new features. You w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

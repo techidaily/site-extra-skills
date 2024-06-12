@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master Selective Blurry Effects in Digital Imagery"
-date: 2024-05-26 18:39:17
-updated: 2024-05-28 11:56:31
+date: 2024-05-31T07:41:13.288Z
+updated: 2024-06-01T07:41:13.288Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

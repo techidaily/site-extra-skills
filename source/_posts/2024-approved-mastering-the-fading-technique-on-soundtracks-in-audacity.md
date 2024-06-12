@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Fading Technique on Soundtracks in Audacity\""
-date: 2024-05-26 14:28:15
-updated: 2024-05-28 12:50:23
+date: 2024-05-31T07:39:31.815Z
+updated: 2024-06-01T07:39:31.815Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ You may access a variety of tools and services on the platform known as Audacity
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

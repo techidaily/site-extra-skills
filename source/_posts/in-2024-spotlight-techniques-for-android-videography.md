@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Spotlight Techniques for Android Videography"
-date: 2024-05-28 23:55:28
-updated: 2024-05-31 10:31:10
+date: 2024-05-31T07:40:27.856Z
+updated: 2024-06-01T07:40:27.856Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ If you need to adjust the brightness of your video, a video editing app like Fil
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

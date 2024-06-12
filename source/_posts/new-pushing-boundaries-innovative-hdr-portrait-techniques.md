@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pushing Boundaries  Innovative HDR Portrait Techniques\""
-date: 2024-05-27 20:25:22
-updated: 2024-05-30 11:56:50
+date: 2024-05-31T07:40:31.283Z
+updated: 2024-06-01T07:40:31.283Z
 tags: 
   - screen-recording
   - ai video
@@ -287,4 +287,5 @@ It is not as difficult as it seems to shoot an HDR portrait. We have made it as 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

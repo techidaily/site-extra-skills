@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Photo Text Edits  Online & App Guide\""
-date: 2024-05-26 18:45:31
-updated: 2024-05-28 11:31:10
+date: 2024-05-31T07:40:55.397Z
+updated: 2024-06-01T07:40:55.397Z
 tags: 
   - screen-recording
   - ai video
@@ -470,4 +470,5 @@ The best illustration of images is not possible without adding typography to the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

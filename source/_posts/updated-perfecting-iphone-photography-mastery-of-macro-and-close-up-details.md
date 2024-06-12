@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Perfecting iPhone Photography  Mastery of Macro and Close-Up Details\""
-date: 2024-05-28 19:12:12
-updated: 2024-05-29 10:40:31
+date: 2024-05-31T07:38:24.797Z
+updated: 2024-06-01T07:38:24.797Z
 tags: 
   - screen-recording
   - ai video
@@ -534,4 +534,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

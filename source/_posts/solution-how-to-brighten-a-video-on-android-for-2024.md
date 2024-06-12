@@ -1,7 +1,7 @@
 ---
 title: "[Solution] How to Brighten a Video on Android for 2024"
-date: 2024-05-28 13:35:41
-updated: 2024-05-31 10:22:32
+date: 2024-05-31T07:40:00.108Z
+updated: 2024-06-01T07:40:00.108Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ If you need to adjust the brightness of your video, a video editing app like Fil
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

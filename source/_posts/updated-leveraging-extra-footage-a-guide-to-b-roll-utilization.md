@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Leveraging Extra Footage  A Guide to B Roll Utilization\""
-date: 2024-05-25 12:38:14
-updated: 2024-05-28 12:16:56
+date: 2024-05-31T07:38:32.076Z
+updated: 2024-06-01T07:38:32.076Z
 tags: 
   - screen-recording
   - ai video
@@ -106,4 +106,5 @@ We sincerely hope that this post will be of use to you in making your films more
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

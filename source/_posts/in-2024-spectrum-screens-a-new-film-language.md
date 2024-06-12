@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Spectrum Screens  A New Film Language\""
-date: 2024-05-29 13:27:44
-updated: 2024-05-31 10:58:35
+date: 2024-05-31T07:36:40.099Z
+updated: 2024-06-01T07:36:40.099Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

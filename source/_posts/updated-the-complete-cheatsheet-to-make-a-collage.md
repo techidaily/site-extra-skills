@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Complete Cheatsheet to Make a Collage"
-date: 2024-05-25 12:22:20
-updated: 2024-05-28 12:50:46
+date: 2024-05-31T07:40:52.185Z
+updated: 2024-06-01T07:40:52.185Z
 tags: 
   - screen-recording
   - ai video
@@ -1166,4 +1166,5 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

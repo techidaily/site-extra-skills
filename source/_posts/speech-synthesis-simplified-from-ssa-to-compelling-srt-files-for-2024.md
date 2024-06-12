@@ -1,7 +1,7 @@
 ---
 title: "\"Speech Synthesis Simplified  From SSA to Compelling SRT Files for 2024\""
-date: 2024-05-28 17:32:49
-updated: 2024-05-31 11:46:26
+date: 2024-05-31T07:41:42.744Z
+updated: 2024-06-01T07:41:42.744Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ If you still have questions in your mind, leave them in the comment section belo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

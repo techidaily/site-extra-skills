@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  StoryBoard Pro for Win8\""
-date: 2024-05-28 13:55:33
-updated: 2024-05-31 12:26:38
+date: 2024-05-31T07:37:28.537Z
+updated: 2024-06-01T07:37:28.537Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

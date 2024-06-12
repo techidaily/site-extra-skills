@@ -1,7 +1,7 @@
 ---
 title: "\"Navigate with Ease  Must-Know Win11 Tricks for 2024\""
-date: 2024-05-27 14:28:38
-updated: 2024-05-29 12:37:58
+date: 2024-05-31T07:36:36.886Z
+updated: 2024-06-01T07:36:36.886Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

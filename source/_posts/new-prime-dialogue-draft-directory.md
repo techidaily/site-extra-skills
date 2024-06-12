@@ -1,7 +1,7 @@
 ---
 title: "[New] Prime Dialogue Draft Directory"
-date: 2024-05-29 18:49:29
-updated: 2024-05-30 10:19:27
+date: 2024-05-31T07:39:29.651Z
+updated: 2024-06-01T07:39:29.651Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ To write a video script quickly, you should use templates, which are designed to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Securing Privacy  Efficient Blur Techniques in Images for 2024\""
-date: 2024-05-29 10:29:40
-updated: 2024-05-30 12:38:25
+date: 2024-05-31T07:39:04.463Z
+updated: 2024-06-01T07:39:04.463Z
 tags: 
   - screen-recording
   - ai video
@@ -478,4 +478,5 @@ Focal blur is a radial effect that warps the dimensions of your picture a little
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

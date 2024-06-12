@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Photo Extraction Techniques for Windows 11 Videos"
-date: 2024-05-28 21:38:14
-updated: 2024-05-29 11:43:25
+date: 2024-05-31T07:37:56.252Z
+updated: 2024-06-01T07:37:56.252Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

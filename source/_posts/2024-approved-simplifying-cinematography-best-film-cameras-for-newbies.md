@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Simplifying Cinematography  Best Film Cameras for Newbies\""
-date: 2024-05-28 14:48:15
-updated: 2024-05-31 11:47:18
+date: 2024-05-31T07:39:43.450Z
+updated: 2024-06-01T07:39:43.450Z
 tags: 
   - screen-recording
   - ai video
@@ -734,4 +734,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

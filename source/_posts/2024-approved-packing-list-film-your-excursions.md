@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Packing List  Film Your Excursions\""
-date: 2024-05-26 16:59:33
-updated: 2024-05-29 12:27:44
+date: 2024-05-31T07:37:17.819Z
+updated: 2024-06-01T07:37:17.819Z
 tags: 
   - screen-recording
   - ai video
@@ -170,4 +170,5 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Guide to Basic PS Color Correction\""
-date: 2024-05-30 19:38:51
-updated: 2024-05-31 12:17:24
+date: 2024-05-31T07:36:38.957Z
+updated: 2024-06-01T07:36:38.957Z
 tags: 
   - screen-recording
   - ai video
@@ -646,4 +646,5 @@ IV. The paint tool offers you different brushes depending on the function. For e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

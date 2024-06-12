@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating Screen Magnification in MS Teams"
-date: 2024-05-26 22:18:46
-updated: 2024-05-29 11:24:49
+date: 2024-05-31T07:41:28.006Z
+updated: 2024-06-01T07:41:28.006Z
 tags: 
   - screen-recording
   - ai video
@@ -123,4 +123,5 @@ With Zoom and Teams, you can do most business from different places thanks to it
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

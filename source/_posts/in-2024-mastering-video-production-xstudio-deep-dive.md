@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Video Production  XStudio Deep Dive\""
-date: 2024-05-27 19:33:47
-updated: 2024-05-28 12:55:32
+date: 2024-05-31T07:38:14.630Z
+updated: 2024-06-01T07:38:14.630Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ We hope this review helped resolve your queries, and you can now decide whether 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

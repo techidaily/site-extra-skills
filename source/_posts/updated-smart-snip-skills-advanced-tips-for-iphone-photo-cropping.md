@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Smart Snip Skills  Advanced Tips for iPhone Photo Cropping\""
-date: 2024-05-29 13:29:45
-updated: 2024-05-31 10:27:51
+date: 2024-05-31T07:38:02.749Z
+updated: 2024-06-01T07:38:02.749Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

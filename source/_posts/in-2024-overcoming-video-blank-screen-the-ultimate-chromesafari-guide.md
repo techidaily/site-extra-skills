@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Overcoming Video Blank Screen  The Ultimate Chrome/Safari Guide\""
-date: 2024-05-27 11:47:32
-updated: 2024-05-29 11:39:30
+date: 2024-05-31T07:36:07.395Z
+updated: 2024-06-01T07:36:07.395Z
 tags: 
   - screen-recording
   - ai video
@@ -526,4 +526,5 @@ You can rename the video and alter the location where you save it if you wish to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

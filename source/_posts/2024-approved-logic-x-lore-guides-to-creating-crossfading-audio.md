@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Logic X Lore  Guides to Creating Crossfading Audio\""
-date: 2024-05-25 13:50:39
-updated: 2024-05-28 12:35:33
+date: 2024-05-31T07:38:09.310Z
+updated: 2024-06-01T07:38:09.310Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

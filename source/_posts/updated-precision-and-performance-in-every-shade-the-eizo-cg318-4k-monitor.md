@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Precision and Performance in Every Shade – The EIZO CG318-4K Monitor\""
-date: 2024-05-26 21:51:36
-updated: 2024-05-29 10:18:52
+date: 2024-05-31T07:41:40.301Z
+updated: 2024-06-01T07:41:40.301Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

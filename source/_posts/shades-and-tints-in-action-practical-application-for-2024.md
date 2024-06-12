@@ -1,7 +1,7 @@
 ---
 title: "\"Shades & Tints in Action  Practical Application for 2024\""
-date: 2024-05-27 14:21:57
-updated: 2024-05-30 11:20:40
+date: 2024-05-31T07:41:50.017Z
+updated: 2024-06-01T07:41:50.017Z
 tags: 
   - screen-recording
   - ai video
@@ -94,4 +94,5 @@ By including this into your thought process when creating videos with [Filmora](
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Premiere Pro  Fullscreen Mode Essentials\""
-date: 2024-05-25 18:14:33
-updated: 2024-05-28 10:39:56
+date: 2024-05-31T07:38:53.277Z
+updated: 2024-06-01T07:38:53.277Z
 tags: 
   - screen-recording
   - ai video
@@ -227,4 +227,5 @@ In addition, it enables you to collaborate with partners if you are working on a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating Through SRT Freeze in Adobe Premiere Projects"
-date: 2024-05-27 16:29:29
-updated: 2024-05-29 11:42:20
+date: 2024-05-31T07:36:36.694Z
+updated: 2024-06-01T07:36:36.694Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ That being said, if you want to save yourself from unwanted errors during the ex
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

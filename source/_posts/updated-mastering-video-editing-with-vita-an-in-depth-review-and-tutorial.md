@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Video Editing with Vita  An In-Depth Review & Tutorial\""
-date: 2024-05-26 14:12:49
-updated: 2024-05-28 12:59:17
+date: 2024-05-31T07:38:06.803Z
+updated: 2024-06-01T07:38:06.803Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ So, the conclusion is that Vita App is a great free tool to make your videos mor
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

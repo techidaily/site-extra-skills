@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering the Art of Action Shots with GoPro"
-date: 2024-05-25 17:36:22
-updated: 2024-05-28 12:57:34
+date: 2024-05-31T07:38:52.945Z
+updated: 2024-06-01T07:38:52.945Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

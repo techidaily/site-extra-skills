@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Narratives Galore  Top 20 Storytelling Channels of the Year\""
-date: 2024-05-28 20:48:58
-updated: 2024-05-29 11:45:43
+date: 2024-05-31T07:35:58.982Z
+updated: 2024-06-01T07:35:58.982Z
 tags: 
   - screen-recording
   - ai video
@@ -192,4 +192,5 @@ All in all, these were some of the best storytelling YouTube channels that every
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

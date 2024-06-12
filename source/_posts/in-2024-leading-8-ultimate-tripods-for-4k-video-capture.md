@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leading 8 Ultimate Tripods for 4K Video Capture"
-date: 2024-05-25 23:16:49
-updated: 2024-05-28 11:14:56
+date: 2024-05-31T07:36:28.683Z
+updated: 2024-06-01T07:36:28.683Z
 tags: 
   - screen-recording
   - ai video
@@ -894,4 +894,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

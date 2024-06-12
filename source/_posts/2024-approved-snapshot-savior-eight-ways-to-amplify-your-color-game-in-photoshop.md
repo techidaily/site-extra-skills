@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Snapshot Savior  Eight Ways to Amplify Your Color Game in Photoshop\""
-date: 2024-05-30 15:37:15
-updated: 2024-05-31 11:38:50
+date: 2024-05-31T07:37:12.049Z
+updated: 2024-06-01T07:37:12.049Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Apply the gradient by clicking within the shapes. Click “OK” to save your ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

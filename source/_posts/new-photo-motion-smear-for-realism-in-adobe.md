@@ -1,7 +1,7 @@
 ---
 title: "[New] Photo Motion Smear for Realism in Adobe"
-date: 2024-05-26 18:52:33
-updated: 2024-05-29 11:12:25
+date: 2024-05-31T07:41:18.770Z
+updated: 2024-06-01T07:41:18.770Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

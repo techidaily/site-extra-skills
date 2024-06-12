@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Romantic Recitals  Perfect Love Songs for Your Proposal Moment\""
-date: 2024-05-29 18:29:51
-updated: 2024-05-30 12:49:50
+date: 2024-05-31T07:39:48.897Z
+updated: 2024-06-01T07:39:48.897Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Photo Edits  Skewed Caption Creation for 2024\""
-date: 2024-05-26 11:28:33
-updated: 2024-05-29 11:18:21
+date: 2024-05-31T07:41:10.592Z
+updated: 2024-06-01T07:41:10.592Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

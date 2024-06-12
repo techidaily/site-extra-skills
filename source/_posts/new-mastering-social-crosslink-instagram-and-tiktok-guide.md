@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Social Crosslink  Instagram & TikTok Guide\""
-date: 2024-05-25 12:29:20
-updated: 2024-05-28 10:58:49
+date: 2024-05-31T07:38:49.616Z
+updated: 2024-06-01T07:38:49.616Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ Using both platforms will take your business or content to a new height. It may 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

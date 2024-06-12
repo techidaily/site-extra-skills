@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Video Quality with Yi 4K Action Camera"
-date: 2024-05-25 20:36:23
-updated: 2024-05-28 11:26:58
+date: 2024-05-31T07:40:38.561Z
+updated: 2024-06-01T07:40:38.561Z
 tags: 
   - screen-recording
   - ai video
@@ -458,4 +458,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

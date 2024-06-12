@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quadcopter Showdown  DJI Pro and Hero 4 Black\""
-date: 2024-05-27 14:13:54
-updated: 2024-05-30 11:33:41
+date: 2024-05-31T07:40:49.668Z
+updated: 2024-06-01T07:40:49.668Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

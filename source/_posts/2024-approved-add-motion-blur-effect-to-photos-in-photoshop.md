@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Add Motion Blur Effect to Photos in Photoshop\""
-date: 2024-05-28 19:27:25
-updated: 2024-05-29 11:22:15
+date: 2024-05-31T07:36:46.312Z
+updated: 2024-06-01T07:36:46.312Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

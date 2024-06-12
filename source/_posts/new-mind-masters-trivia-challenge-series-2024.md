@@ -1,7 +1,7 @@
 ---
 title: "[New] Mind Masters' Trivia Challenge Series 2024"
-date: 2024-05-27 10:29:35
-updated: 2024-05-28 11:11:20
+date: 2024-05-31T07:36:18.080Z
+updated: 2024-06-01T07:36:18.080Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ We hope you've found this article helpful and that now you know where to watch i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

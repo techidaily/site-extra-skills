@@ -1,7 +1,7 @@
 ---
 title: "Mastering Image Transformation with Effective Use of 3D LUT in PS for 2024"
-date: 2024-05-27 19:37:34
-updated: 2024-05-28 12:38:29
+date: 2024-05-31T07:38:58.690Z
+updated: 2024-06-01T07:38:58.690Z
 tags: 
   - screen-recording
   - ai video
@@ -842,4 +842,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

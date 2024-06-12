@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Precision Projecting  Leading 4K Displays for Video Artists\""
-date: 2024-05-28 11:38:44
-updated: 2024-05-29 10:51:59
+date: 2024-05-31T07:37:23.098Z
+updated: 2024-06-01T07:37:23.098Z
 tags: 
   - screen-recording
   - ai video
@@ -822,4 +822,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

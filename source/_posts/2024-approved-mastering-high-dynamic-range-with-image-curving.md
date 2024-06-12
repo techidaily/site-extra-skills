@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering High Dynamic Range with Image Curving\""
-date: 2024-05-27 16:20:54
-updated: 2024-05-28 10:17:34
+date: 2024-05-31T07:38:54.180Z
+updated: 2024-06-01T07:38:54.180Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

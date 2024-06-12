@@ -1,7 +1,7 @@
 ---
 title: "\"Quitting LinkedIn  How To Close Your Account Properly for 2024\""
-date: 2024-05-27 15:26:43
-updated: 2024-05-30 11:15:37
+date: 2024-05-31T07:41:00.095Z
+updated: 2024-06-01T07:41:00.095Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

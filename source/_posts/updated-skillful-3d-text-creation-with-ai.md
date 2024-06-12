@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Skillful 3D Text Creation with AI"
-date: 2024-05-28 15:54:20
-updated: 2024-05-31 10:44:19
+date: 2024-05-31T07:41:13.374Z
+updated: 2024-06-01T07:41:13.374Z
 tags: 
   - screen-recording
   - ai video
@@ -144,4 +144,5 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

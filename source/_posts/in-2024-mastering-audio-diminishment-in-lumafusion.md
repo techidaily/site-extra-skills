@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Audio Diminishment in Lumafusion"
-date: 2024-05-25 17:44:25
-updated: 2024-05-28 10:12:21
+date: 2024-05-31T07:40:56.428Z
+updated: 2024-06-01T07:40:56.428Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

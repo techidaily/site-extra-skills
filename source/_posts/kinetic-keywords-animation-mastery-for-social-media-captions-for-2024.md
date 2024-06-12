@@ -1,7 +1,7 @@
 ---
 title: "\"Kinetic Keywords  Animation Mastery for Social Media Captions for 2024\""
-date: 2024-05-25 15:36:13
-updated: 2024-05-28 12:32:21
+date: 2024-05-31T07:38:01.577Z
+updated: 2024-06-01T07:38:01.577Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ The success or failure of your Instagram company depends in large part on engage
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

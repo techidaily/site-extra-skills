@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-By-Step Instructions for Crafting & Installing WhatsApp Alerts\""
-date: 2024-05-28 15:17:18
-updated: 2024-05-31 12:50:14
+date: 2024-05-31T07:40:41.045Z
+updated: 2024-06-01T07:40:41.045Z
 tags: 
   - screen-recording
   - ai video
@@ -365,4 +365,5 @@ Hopefully, you got enlightened reading our article and can easily do WhatsApp ri
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

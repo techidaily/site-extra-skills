@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sky's Best Pixels Face-Off  DJi Inspire 1 & GoPro Fusion Mini\""
-date: 2024-05-29 16:55:25
-updated: 2024-05-31 12:45:48
+date: 2024-05-31T07:37:26.264Z
+updated: 2024-06-01T07:37:26.264Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

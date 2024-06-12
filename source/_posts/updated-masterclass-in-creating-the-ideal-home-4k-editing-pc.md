@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Masterclass in Creating the Ideal Home 4K Editing PC"
-date: 2024-05-27 20:43:24
-updated: 2024-05-28 10:38:19
+date: 2024-05-31T07:38:38.626Z
+updated: 2024-06-01T07:38:38.626Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

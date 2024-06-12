@@ -1,7 +1,7 @@
 ---
 title: "\"Pro Tools for Creatives  Comprehensively Evaluating AE Plugins for 2024\""
-date: 2024-05-28 12:15:19
-updated: 2024-05-30 12:46:42
+date: 2024-05-31T07:41:39.441Z
+updated: 2024-06-01T07:41:39.441Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ On its own After Effects comes with so many post-production effects and features
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

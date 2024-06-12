@@ -1,7 +1,7 @@
 ---
 title: "[New] Penning Powerful Stories with a Camera Lens"
-date: 2024-05-27 15:22:47
-updated: 2024-05-29 12:55:27
+date: 2024-05-31T07:40:14.590Z
+updated: 2024-06-01T07:40:14.590Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ So, the last words for this educational post are that, as we all know, writing a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

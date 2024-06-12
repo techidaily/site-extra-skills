@@ -1,7 +1,7 @@
 ---
 title: "Perfect Sharpness Control on Photos with PC/Mobile for 2024"
-date: 2024-05-28 14:42:31
-updated: 2024-05-29 12:18:14
+date: 2024-05-31T07:37:18.364Z
+updated: 2024-06-01T07:37:18.364Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

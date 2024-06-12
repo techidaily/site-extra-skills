@@ -1,7 +1,7 @@
 ---
 title: "[New] Pioneering the Use of Film in Educational Methodologies"
-date: 2024-05-26 16:10:12
-updated: 2024-05-29 11:29:13
+date: 2024-05-31T07:41:02.404Z
+updated: 2024-06-01T07:41:02.404Z
 tags: 
   - screen-recording
   - ai video
@@ -97,4 +97,5 @@ More and more research supporting the advantages of blended learning will suppor
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

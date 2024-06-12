@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating New Realities  A Guide to Metaverse & Multiverse\""
-date: 2024-05-26 12:49:32
-updated: 2024-05-29 11:24:19
+date: 2024-05-31T07:37:40.787Z
+updated: 2024-06-01T07:37:40.787Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Hope lies in the fact that the formation of the Metaverse vs. Multiverse discour
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

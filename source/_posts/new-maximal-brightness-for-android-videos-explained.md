@@ -1,7 +1,7 @@
 ---
 title: "[New] Maximal Brightness for Android Videos Explained"
-date: 2024-05-26 18:17:11
-updated: 2024-05-28 11:25:21
+date: 2024-05-31T07:39:28.076Z
+updated: 2024-06-01T07:39:28.076Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ If you need to adjust the brightness of your video, a video editing app like Fil
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

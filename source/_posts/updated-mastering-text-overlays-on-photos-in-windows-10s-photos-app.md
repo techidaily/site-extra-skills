@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Text Overlays on Photos in Windows 10'S Photos App"
-date: 2024-05-25 19:43:57
-updated: 2024-05-28 11:52:50
+date: 2024-05-31T07:39:08.633Z
+updated: 2024-06-01T07:39:08.633Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

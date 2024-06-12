@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Optimizing Video Production in Windows 11 Workflows\""
-date: 2024-05-26 10:33:18
-updated: 2024-05-29 12:19:49
+date: 2024-05-31T07:40:44.942Z
+updated: 2024-06-01T07:40:44.942Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

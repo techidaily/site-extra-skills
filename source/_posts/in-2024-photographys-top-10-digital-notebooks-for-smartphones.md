@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Photography's Top 10 Digital Notebooks for Smartphones"
-date: 2024-05-27 16:45:56
-updated: 2024-05-29 10:22:38
+date: 2024-05-31T07:36:41.648Z
+updated: 2024-06-01T07:36:41.648Z
 tags: 
   - screen-recording
   - ai video
@@ -485,4 +485,5 @@ It's now a difficult task if you want to add text to your photos. Instead, it's 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

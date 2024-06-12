@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Modern Photography's Dynamic Range Capabilities"
-date: 2024-05-27 11:19:22
-updated: 2024-05-28 11:53:44
+date: 2024-05-31T07:39:40.587Z
+updated: 2024-06-01T07:39:40.587Z
 tags: 
   - screen-recording
   - ai video
@@ -241,4 +241,5 @@ Auto HDR will make sure both shadows and highlights are in focus, while Smart HD
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

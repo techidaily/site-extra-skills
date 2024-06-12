@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quantum HDR 101  A Complete Breakdown\""
-date: 2024-05-29 21:43:27
-updated: 2024-05-30 12:54:40
+date: 2024-05-31T07:39:15.017Z
+updated: 2024-06-01T07:39:15.017Z
 tags: 
   - screen-recording
   - ai video
@@ -202,4 +202,5 @@ All essential information anyone could want to know about Quantum HDR has been d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Mechanics  An Introduction to GoPro Time-Lapse\""
-date: 2024-05-26 21:58:42
-updated: 2024-05-28 11:45:10
+date: 2024-05-31T07:41:29.765Z
+updated: 2024-06-01T07:41:29.765Z
 tags: 
   - screen-recording
   - ai video
@@ -176,4 +176,5 @@ GoPro cameras are ideal for time-lapse photography thanks to their small size, w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

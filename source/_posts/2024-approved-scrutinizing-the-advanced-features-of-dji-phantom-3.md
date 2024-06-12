@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Scrutinizing the Advanced Features of DJI Phantom 3\""
-date: 2024-05-29 10:48:31
-updated: 2024-05-30 10:35:20
+date: 2024-05-31T07:40:27.621Z
+updated: 2024-06-01T07:40:27.621Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

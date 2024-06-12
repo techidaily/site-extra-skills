@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Your Picture's Focus with Gaussian Blur\""
-date: 2024-05-27 13:15:57
-updated: 2024-05-29 12:52:29
+date: 2024-05-31T07:38:15.973Z
+updated: 2024-06-01T07:38:15.973Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

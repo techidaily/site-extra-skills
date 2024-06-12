@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Drone Flight  Optimal LiPo Battery Selection\""
-date: 2024-05-26 14:35:27
-updated: 2024-05-28 11:22:21
+date: 2024-05-31T07:41:51.596Z
+updated: 2024-06-01T07:41:51.596Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

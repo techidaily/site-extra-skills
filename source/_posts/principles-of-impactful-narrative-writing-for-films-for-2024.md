@@ -1,7 +1,7 @@
 ---
 title: "Principles of Impactful Narrative Writing for Films for 2024"
-date: 2024-05-27 19:58:58
-updated: 2024-05-30 11:12:44
+date: 2024-05-31T07:38:22.176Z
+updated: 2024-06-01T07:38:22.176Z
 tags: 
   - screen-recording
   - ai video
@@ -229,4 +229,5 @@ In conclusion, Dialogue and Narrative Script are the most common types of script
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

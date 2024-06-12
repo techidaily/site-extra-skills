@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Scripting Quantum Leap Cinematography"
-date: 2024-05-27 13:35:59
-updated: 2024-05-30 11:57:27
+date: 2024-05-31T07:40:10.977Z
+updated: 2024-06-01T07:40:10.977Z
 tags: 
   - screen-recording
   - ai video
@@ -520,4 +520,5 @@ Create for you and add different effects and experiment with new features. You w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

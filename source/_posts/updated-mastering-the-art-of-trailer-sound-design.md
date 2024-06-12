@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering the Art of Trailer Sound Design"
-date: 2024-05-27 10:40:29
-updated: 2024-05-28 11:47:44
+date: 2024-05-31T07:41:23.761Z
+updated: 2024-06-01T07:41:23.761Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ Selecting and editing music in your trailer can be unexpectedly challenging, but
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

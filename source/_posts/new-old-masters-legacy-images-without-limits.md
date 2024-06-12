@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Old Masters' Legacy  Images Without Limits\""
-date: 2024-05-26 18:42:20
-updated: 2024-05-29 12:20:26
+date: 2024-05-31T07:36:44.259Z
+updated: 2024-06-01T07:36:44.259Z
 tags: 
   - screen-recording
   - ai video
@@ -287,4 +287,5 @@ Conversely, public domain art is copyright free and does not require you to make
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

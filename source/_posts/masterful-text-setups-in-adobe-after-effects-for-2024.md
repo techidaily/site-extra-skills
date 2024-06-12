@@ -1,7 +1,7 @@
 ---
 title: "Masterful Text Setups in Adobe After Effects for 2024"
-date: 2024-05-25 13:26:36
-updated: 2024-05-28 11:14:59
+date: 2024-05-31T07:36:59.991Z
+updated: 2024-06-01T07:36:59.991Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ If you decide to use Adobe After Effects to add text effects to your video, we h
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

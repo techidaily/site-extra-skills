@@ -1,7 +1,7 @@
 ---
 title: "\"Spectral Synergy  Using Color Theories Effectively for 2024\""
-date: 2024-05-29 22:29:18
-updated: 2024-05-31 10:33:47
+date: 2024-05-31T07:39:29.823Z
+updated: 2024-06-01T07:39:29.823Z
 tags: 
   - screen-recording
   - ai video
@@ -94,4 +94,5 @@ By including this into your thought process when creating videos with [Filmora](
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Professional Vision  Optimizing Video Lighting Techniques for 2024\""
-date: 2024-05-29 14:36:23
-updated: 2024-05-30 11:13:15
+date: 2024-05-31T07:40:28.895Z
+updated: 2024-06-01T07:40:28.895Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

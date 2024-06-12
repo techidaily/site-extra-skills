@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Photograph Dating Techniques\""
-date: 2024-05-25 17:36:23
-updated: 2024-05-28 12:44:18
+date: 2024-05-31T07:40:34.979Z
+updated: 2024-06-01T07:40:34.979Z
 tags: 
   - screen-recording
   - ai video
@@ -575,4 +575,5 @@ Hopefully, these steps will be helpful if you ever want to **add a date** or **e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

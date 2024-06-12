@@ -1,7 +1,7 @@
 ---
 title: "[New] Key 10 Efficient Online Subtitle Editors"
-date: 2024-05-26 18:30:55
-updated: 2024-05-28 11:18:22
+date: 2024-05-31T07:36:14.858Z
+updated: 2024-06-01T07:36:14.858Z
 tags: 
   - screen-recording
   - ai video
@@ -618,4 +618,5 @@ To auto-subtitle a video, you can use the speech-to-text or the **“Auto Subtit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

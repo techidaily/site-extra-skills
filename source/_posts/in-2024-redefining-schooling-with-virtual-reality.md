@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Redefining Schooling with Virtual Reality"
-date: 2024-05-28 16:46:38
-updated: 2024-05-30 12:16:11
+date: 2024-05-31T07:39:56.549Z
+updated: 2024-06-01T07:39:56.549Z
 tags: 
   - screen-recording
   - ai video
@@ -178,4 +178,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

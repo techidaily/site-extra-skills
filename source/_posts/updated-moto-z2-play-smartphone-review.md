@@ -1,7 +1,7 @@
 ---
 title: "[Updated] MOTO Z2 Play Smartphone Review"
-date: 2024-05-28 18:54:46
-updated: 2024-05-29 12:22:50
+date: 2024-05-31T07:41:47.687Z
+updated: 2024-06-01T07:41:47.687Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Masterful Podcast Descriptions  Strategies and Case Studies\""
-date: 2024-05-25 11:56:40
-updated: 2024-05-28 10:50:55
+date: 2024-05-31T07:39:36.242Z
+updated: 2024-06-01T07:39:36.242Z
 tags: 
   - screen-recording
   - ai video
@@ -491,4 +491,5 @@ WITH [JENNA FISCHER](https://www.earwolf.com/person/jenna-fischer/) AND [ANGELA 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

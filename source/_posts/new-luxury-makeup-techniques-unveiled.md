@@ -1,7 +1,7 @@
 ---
 title: "[New] Luxury Makeup Techniques Unveiled"
-date: 2024-05-27 13:21:20
-updated: 2024-05-28 10:32:48
+date: 2024-05-31T07:38:43.153Z
+updated: 2024-06-01T07:38:43.153Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

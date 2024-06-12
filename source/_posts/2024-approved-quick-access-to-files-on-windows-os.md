@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Access to Files on Windows OS\""
-date: 2024-05-27 10:57:21
-updated: 2024-05-30 10:10:26
+date: 2024-05-31T07:38:17.650Z
+updated: 2024-06-01T07:38:17.650Z
 tags: 
   - screen-recording
   - ai video
@@ -114,4 +114,5 @@ This guidepost is another testament that your PC has massive hidden abilities. W
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

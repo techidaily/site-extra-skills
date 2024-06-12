@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] SJ7 Elevates Action Cinematography  In Depth Review of Its Star 4K Camera\""
-date: 2024-05-29 14:31:58
-updated: 2024-05-31 11:59:40
+date: 2024-05-31T07:40:39.112Z
+updated: 2024-06-01T07:40:39.112Z
 tags: 
   - screen-recording
   - ai video
@@ -694,4 +694,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

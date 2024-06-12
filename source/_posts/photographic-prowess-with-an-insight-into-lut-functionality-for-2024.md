@@ -1,7 +1,7 @@
 ---
 title: "Photographic Prowess with an Insight Into LUT Functionality for 2024"
-date: 2024-05-28 18:49:32
-updated: 2024-05-29 11:30:53
+date: 2024-05-31T07:36:47.728Z
+updated: 2024-06-01T07:36:47.728Z
 tags: 
   - screen-recording
   - ai video
@@ -133,4 +133,5 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

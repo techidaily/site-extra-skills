@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Walkthrough  Incorporating Subtitles in MP4s\""
-date: 2024-05-30 14:54:44
-updated: 2024-05-31 11:35:49
+date: 2024-05-31T07:41:29.484Z
+updated: 2024-06-01T07:41:29.484Z
 tags: 
   - screen-recording
   - ai video
@@ -326,4 +326,5 @@ Gone are the days when adding SRT to MP4 was considered a very difficult task. N
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

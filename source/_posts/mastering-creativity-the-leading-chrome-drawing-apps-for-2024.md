@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Creativity  The Leading Chrome Drawing Apps for 2024\""
-date: 2024-05-26 16:21:13
-updated: 2024-05-28 12:43:30
+date: 2024-05-31T07:41:39.117Z
+updated: 2024-06-01T07:41:39.117Z
 tags: 
   - screen-recording
   - ai video
@@ -570,4 +570,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

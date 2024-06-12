@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Panopticon Perspective Analysis"
-date: 2024-05-27 13:37:45
-updated: 2024-05-29 11:11:24
+date: 2024-05-31T07:41:20.512Z
+updated: 2024-06-01T07:41:20.512Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

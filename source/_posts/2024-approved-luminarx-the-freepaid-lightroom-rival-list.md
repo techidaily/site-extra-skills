@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  LuminarX  The Free/Paid Lightroom Rival List\""
-date: 2024-05-27 17:36:24
-updated: 2024-05-28 10:43:18
+date: 2024-05-31T07:38:30.631Z
+updated: 2024-06-01T07:38:30.631Z
 tags: 
   - screen-recording
   - ai video
@@ -1426,4 +1426,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

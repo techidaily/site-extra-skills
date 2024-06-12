@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Nikon D500  Revolutionizing 4K DSLR Photography\""
-date: 2024-05-27 10:55:47
-updated: 2024-05-29 11:56:11
+date: 2024-05-31T07:39:53.908Z
+updated: 2024-06-01T07:39:53.908Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

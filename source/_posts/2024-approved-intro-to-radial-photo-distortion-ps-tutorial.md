@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Intro to Radial Photo Distortion  PS Tutorial\""
-date: 2024-05-26 13:30:34
-updated: 2024-05-27 11:48:34
+date: 2024-05-31T07:39:52.233Z
+updated: 2024-06-01T07:39:52.233Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

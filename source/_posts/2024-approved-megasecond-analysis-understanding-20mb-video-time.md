@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  MegaSecond Analysis  Understanding 20Mb Video Time\""
-date: 2024-05-25 22:33:31
-updated: 2024-05-28 10:13:33
+date: 2024-05-31T07:41:07.713Z
+updated: 2024-06-01T07:41:07.713Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

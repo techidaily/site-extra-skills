@@ -1,7 +1,7 @@
 ---
 title: "Instagram's Guide to Intellectual Property in Music for 2024"
-date: 2024-05-26 14:54:55
-updated: 2024-05-27 10:10:25
+date: 2024-05-31T07:37:55.747Z
+updated: 2024-06-01T07:37:55.747Z
 tags: 
   - screen-recording
   - ai video
@@ -202,4 +202,5 @@ Hopefully, you’ve found this article helpful and can now understand the dos an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

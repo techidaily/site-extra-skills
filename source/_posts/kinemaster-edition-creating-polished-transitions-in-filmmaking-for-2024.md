@@ -1,7 +1,7 @@
 ---
 title: "\"Kinemaster Edition  Creating Polished Transitions in Filmmaking for 2024\""
-date: 2024-05-27 20:11:40
-updated: 2024-05-28 10:10:37
+date: 2024-05-31T07:37:55.766Z
+updated: 2024-06-01T07:37:55.766Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Thus, in this guide, you learned how to add transition effect in Kinemaster and 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

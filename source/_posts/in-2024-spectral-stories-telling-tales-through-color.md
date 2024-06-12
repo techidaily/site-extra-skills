@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Spectral Stories  Telling Tales Through Color\""
-date: 2024-05-29 22:37:43
-updated: 2024-05-31 10:14:36
+date: 2024-05-31T07:37:15.689Z
+updated: 2024-06-01T07:37:15.689Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

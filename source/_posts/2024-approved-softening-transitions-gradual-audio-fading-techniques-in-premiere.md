@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Softening Transitions  Gradual Audio Fading Techniques in Premiere\""
-date: 2024-05-29 11:49:13
-updated: 2024-05-31 11:21:14
+date: 2024-05-31T07:39:17.042Z
+updated: 2024-06-01T07:39:17.042Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ With this guide, you can easily understand the complete procedure for editing a 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

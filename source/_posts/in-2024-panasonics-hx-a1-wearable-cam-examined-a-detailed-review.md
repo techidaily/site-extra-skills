@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Panasonic’s HX-A1 Wearable Cam Examined - A Detailed Review\""
-date: 2024-05-27 22:28:16
-updated: 2024-05-29 12:59:25
+date: 2024-05-31T07:41:26.546Z
+updated: 2024-06-01T07:41:26.546Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

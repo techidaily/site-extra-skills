@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Perfecting the Art of Compelling Mosaic Imagery"
-date: 2024-05-27 10:37:25
-updated: 2024-05-29 12:11:22
+date: 2024-05-31T07:41:49.639Z
+updated: 2024-06-01T07:41:49.639Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Canva is probably the easiest most known Digital Design software available onlin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

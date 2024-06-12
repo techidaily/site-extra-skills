@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Nikon J5 Unleashed  Embracing 4K Camera Technology\""
-date: 2024-05-28 21:10:11
-updated: 2024-05-29 10:30:49
+date: 2024-05-31T07:41:51.125Z
+updated: 2024-06-01T07:41:51.125Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

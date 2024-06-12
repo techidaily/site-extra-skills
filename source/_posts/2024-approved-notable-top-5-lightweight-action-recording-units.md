@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Notable Top 5 Lightweight Action Recording Units\""
-date: 2024-05-28 10:13:51
-updated: 2024-05-29 11:52:53
+date: 2024-05-31T07:36:09.600Z
+updated: 2024-06-01T07:36:09.600Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

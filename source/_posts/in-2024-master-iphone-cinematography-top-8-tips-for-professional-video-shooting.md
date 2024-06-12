@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Master iPhone Cinematography  Top 8 Tips for Professional Video Shooting\""
-date: 2024-05-25 23:49:54
-updated: 2024-05-28 10:48:32
+date: 2024-05-31T07:40:41.100Z
+updated: 2024-06-01T07:40:41.100Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

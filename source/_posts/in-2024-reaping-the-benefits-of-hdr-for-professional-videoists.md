@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Reaping the Benefits of HDR for Professional Videoists"
-date: 2024-05-28 19:26:10
-updated: 2024-05-30 10:35:13
+date: 2024-05-31T07:37:15.674Z
+updated: 2024-06-01T07:37:15.674Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ SDR quality is available in most televisions, monitors, and photography platform
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Social Media Savvy  Your Guide to Success\""
-date: 2024-05-28 18:13:36
-updated: 2024-05-31 12:35:37
+date: 2024-05-31T07:40:17.319Z
+updated: 2024-06-01T07:40:17.319Z
 tags: 
   - screen-recording
   - ai video
@@ -159,4 +159,5 @@ We hope this post has given you some ideas of how to get started with your SMM s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

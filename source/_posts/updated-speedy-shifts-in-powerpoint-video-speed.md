@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Speedy Shifts in PowerPoint Video Speed"
-date: 2024-05-29 12:24:58
-updated: 2024-05-31 12:19:40
+date: 2024-05-31T07:38:29.799Z
+updated: 2024-06-01T07:38:29.799Z
 tags: 
   - screen-recording
   - ai video
@@ -650,4 +650,5 @@ Some most common reasons for this issue include:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

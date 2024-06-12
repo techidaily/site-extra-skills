@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Reaper Remixing Rituals  Volume Control Chronicles\""
-date: 2024-05-29 18:45:34
-updated: 2024-05-30 10:56:13
+date: 2024-05-31T07:40:58.049Z
+updated: 2024-06-01T07:40:58.049Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

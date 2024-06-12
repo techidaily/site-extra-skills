@@ -1,7 +1,7 @@
 ---
 title: "\"Rhythm in Reels  The Essentials of iPhone Video Making for 2024\""
-date: 2024-05-28 12:23:44
-updated: 2024-05-30 11:37:55
+date: 2024-05-31T07:38:27.871Z
+updated: 2024-06-01T07:38:27.871Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

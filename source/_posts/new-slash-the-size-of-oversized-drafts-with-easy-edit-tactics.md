@@ -1,7 +1,7 @@
 ---
 title: "[New] Slash the Size of Oversized Drafts with Easy Edit Tactics"
-date: 2024-05-28 21:39:13
-updated: 2024-05-31 12:55:26
+date: 2024-05-31T07:40:49.437Z
+updated: 2024-06-01T07:40:49.437Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Thus, you can use an excellent third-party video editor named Wondershare Filmor
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

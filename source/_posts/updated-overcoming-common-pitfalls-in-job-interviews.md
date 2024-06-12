@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Overcoming Common Pitfalls in Job Interviews"
-date: 2024-05-26 22:55:43
-updated: 2024-05-29 11:39:13
+date: 2024-05-31T07:37:32.393Z
+updated: 2024-06-01T07:37:32.393Z
 tags: 
   - screen-recording
   - ai video
@@ -100,4 +100,5 @@ Make a YouTube opening that's decent enough to get you started rather than aimin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

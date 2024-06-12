@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Stop the Stop-Start  Prevent Freezing on Photo Booth\""
-date: 2024-05-28 17:19:59
-updated: 2024-05-31 10:11:34
+date: 2024-05-31T07:39:33.912Z
+updated: 2024-06-01T07:39:33.912Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ Select the file type that best suits the project you're working on from the Form
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

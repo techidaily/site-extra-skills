@@ -1,7 +1,7 @@
 ---
 title: "Mastering 4K with the New Nikon D500 Camera for 2024"
-date: 2024-05-27 14:42:50
-updated: 2024-05-28 12:15:44
+date: 2024-05-31T07:39:15.554Z
+updated: 2024-06-01T07:39:15.554Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

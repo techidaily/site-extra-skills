@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Smooth Video in Every Shot  Prime Mobile Cameras With OIS\""
-date: 2024-05-28 21:37:31
-updated: 2024-05-31 10:29:15
+date: 2024-05-31T07:39:15.783Z
+updated: 2024-06-01T07:39:15.783Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Since you don't always have a camera to capture smooth videos, having an OIS cam
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

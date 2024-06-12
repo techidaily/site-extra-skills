@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Inside the Metaverse  Discovering 6 In-Depth Models\""
-date: 2024-05-25 16:29:42
-updated: 2024-05-27 12:28:40
+date: 2024-05-31T07:38:14.551Z
+updated: 2024-06-01T07:38:14.551Z
 tags: 
   - screen-recording
   - ai video
@@ -430,4 +430,5 @@ Metaverse is still under development but several companies have already started 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

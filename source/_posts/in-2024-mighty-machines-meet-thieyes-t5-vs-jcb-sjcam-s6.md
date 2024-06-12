@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mighty Machines Meet  Thieye's T5 Vs JCB SJCAM S6\""
-date: 2024-05-26 12:56:31
-updated: 2024-05-28 11:42:38
+date: 2024-05-31T07:37:25.267Z
+updated: 2024-06-01T07:37:25.267Z
 tags: 
   - screen-recording
   - ai video
@@ -466,4 +466,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

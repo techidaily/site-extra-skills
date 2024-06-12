@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Simplified Editing for Clean-Cut Canvas Photos\""
-date: 2024-05-28 13:39:12
-updated: 2024-05-31 12:48:25
+date: 2024-05-31T07:37:38.000Z
+updated: 2024-06-01T07:37:38.000Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Hopefully, you've found this article helpful and can now optimize your images in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

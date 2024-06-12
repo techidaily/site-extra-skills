@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Prepping for the Latest MacOS Big Sur Update"
-date: 2024-05-27 14:38:13
-updated: 2024-05-30 10:43:56
+date: 2024-05-31T07:40:29.950Z
+updated: 2024-06-01T07:40:29.950Z
 tags: 
   - screen-recording
   - ai video
@@ -402,4 +402,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

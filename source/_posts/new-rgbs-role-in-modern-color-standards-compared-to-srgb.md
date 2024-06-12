@@ -1,7 +1,7 @@
 ---
 title: "[New] Rgb's Role in Modern Color Standards Compared to Srgb"
-date: 2024-05-29 10:54:52
-updated: 2024-05-30 11:17:52
+date: 2024-05-31T07:40:34.650Z
+updated: 2024-06-01T07:40:34.650Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ As a digital photographer, your main focus can be an artistic expression rather 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

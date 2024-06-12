@@ -1,7 +1,7 @@
 ---
 title: "Secure Image Privacy with Blur Features for 2024"
-date: 2024-05-27 23:49:40
-updated: 2024-05-30 12:25:12
+date: 2024-05-31T07:39:10.152Z
+updated: 2024-06-01T07:39:10.152Z
 tags: 
   - screen-recording
   - ai video
@@ -606,4 +606,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

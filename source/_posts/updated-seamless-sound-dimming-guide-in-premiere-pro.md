@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Seamless Sound Dimming Guide in Premiere Pro"
-date: 2024-05-29 18:12:56
-updated: 2024-05-30 12:39:11
+date: 2024-05-31T07:36:38.934Z
+updated: 2024-06-01T07:36:38.934Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ With this guide, you can easily understand the complete procedure for editing a 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

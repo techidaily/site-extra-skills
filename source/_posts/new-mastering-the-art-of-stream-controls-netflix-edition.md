@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering the Art of Stream Controls - Netflix Edition\""
-date: 2024-05-25 23:21:22
-updated: 2024-05-28 11:52:22
+date: 2024-05-31T07:41:34.277Z
+updated: 2024-06-01T07:41:34.277Z
 tags: 
   - screen-recording
   - ai video
@@ -518,4 +518,5 @@ Netflix allows you to adjust the playback speed of the video to 0.75x and 0.5x t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

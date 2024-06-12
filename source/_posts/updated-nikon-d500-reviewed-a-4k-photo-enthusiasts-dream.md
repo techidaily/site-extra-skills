@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Nikon D500 Reviewed  A 4K Photo Enthusiast's Dream\""
-date: 2024-05-28 13:39:17
-updated: 2024-05-29 10:56:12
+date: 2024-05-31T07:41:45.261Z
+updated: 2024-06-01T07:41:45.261Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Samsung Galaxy S8  In-Depth 4K Phone Analysis\""
-date: 2024-05-27 17:50:31
-updated: 2024-05-30 12:27:26
+date: 2024-05-31T07:37:26.947Z
+updated: 2024-06-01T07:37:26.947Z
 tags: 
   - screen-recording
   - ai video
@@ -546,4 +546,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

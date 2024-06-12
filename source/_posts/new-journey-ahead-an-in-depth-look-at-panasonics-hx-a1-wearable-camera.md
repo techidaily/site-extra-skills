@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Journey Ahead - An In-Depth Look at Panasonic’s HX-A1 Wearable Camera\""
-date: 2024-05-27 18:40:13
-updated: 2024-05-28 11:15:30
+date: 2024-05-31T07:39:35.439Z
+updated: 2024-06-01T07:39:35.439Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

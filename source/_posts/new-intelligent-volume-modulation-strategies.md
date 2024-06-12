@@ -1,7 +1,7 @@
 ---
 title: "[New] Intelligent Volume Modulation Strategies"
-date: 2024-05-24 19:28:56
-updated: 2024-05-27 11:26:54
+date: 2024-05-31T07:37:23.744Z
+updated: 2024-06-01T07:37:23.744Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ In essence, Ableton just refuses to display fades on certain songs. Fades won't 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

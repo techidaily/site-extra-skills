@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pivot Between Pro  DJi Action & GoPro Max 360\""
-date: 2024-05-28 23:14:31
-updated: 2024-05-29 11:54:40
+date: 2024-05-31T07:40:55.874Z
+updated: 2024-06-01T07:40:55.874Z
 tags: 
   - screen-recording
   - ai video
@@ -546,4 +546,5 @@ Don't have much time to go through an extensive product review? Here's a quick s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

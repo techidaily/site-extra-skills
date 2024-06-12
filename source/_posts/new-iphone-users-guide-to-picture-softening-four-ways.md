@@ -1,7 +1,7 @@
 ---
 title: "[New] IPhone Users' Guide to Picture Softening (Four Ways)"
-date: 2024-05-27 13:30:17
-updated: 2024-05-28 10:47:12
+date: 2024-05-31T07:41:28.557Z
+updated: 2024-06-01T07:41:28.557Z
 tags: 
   - screen-recording
   - ai video
@@ -448,4 +448,5 @@ Blurring the background in a photo ensures that the main subject remains in the 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

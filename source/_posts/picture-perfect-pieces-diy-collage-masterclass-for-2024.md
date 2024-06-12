@@ -1,7 +1,7 @@
 ---
 title: "\"Picture Perfect Pieces  DIY Collage Masterclass for 2024\""
-date: 2024-05-26 21:17:25
-updated: 2024-05-29 11:13:53
+date: 2024-05-31T07:35:58.849Z
+updated: 2024-06-01T07:35:58.849Z
 tags: 
   - screen-recording
   - ai video
@@ -730,4 +730,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

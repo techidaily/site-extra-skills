@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Isolating Photographs Within Windows 10 Movie Files"
-date: 2024-05-25 19:41:13
-updated: 2024-05-28 12:35:38
+date: 2024-05-31T07:41:34.520Z
+updated: 2024-06-01T07:41:34.520Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

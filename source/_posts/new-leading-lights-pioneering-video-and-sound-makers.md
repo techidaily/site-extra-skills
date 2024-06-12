@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Leading Lights  Pioneering Video & Sound Makers\""
-date: 2024-05-25 22:29:19
-updated: 2024-05-28 12:12:47
+date: 2024-05-31T07:39:49.303Z
+updated: 2024-06-01T07:39:49.303Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ Thus, you had an interesting discussion on the best online audio to video maker 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

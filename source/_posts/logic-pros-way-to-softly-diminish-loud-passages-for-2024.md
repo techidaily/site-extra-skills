@@ -1,7 +1,7 @@
 ---
 title: "Logic Pro's Way to Softly Diminish Loud Passages for 2024"
-date: 2024-05-26 22:43:11
-updated: 2024-05-28 10:24:43
+date: 2024-05-31T07:41:14.600Z
+updated: 2024-06-01T07:41:14.600Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ Apple's Logic Pro X is not compatible with Windows-based computers. Therefore, i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

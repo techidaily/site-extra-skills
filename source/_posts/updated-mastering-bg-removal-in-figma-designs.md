@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering BG Removal in Figma Designs"
-date: 2024-05-27 18:23:35
-updated: 2024-05-28 12:28:46
+date: 2024-05-31T07:41:32.937Z
+updated: 2024-06-01T07:41:32.937Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

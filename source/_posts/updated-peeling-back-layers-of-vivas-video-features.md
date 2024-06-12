@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Peeling Back Layers of Viva's Video Features"
-date: 2024-05-28 19:15:57
-updated: 2024-05-29 10:20:16
+date: 2024-05-31T07:39:28.267Z
+updated: 2024-06-01T07:39:28.267Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ Hopefully, you find this guide helpful and can now create fantastic videos using
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

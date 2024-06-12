@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Starting Point  Decoding Display Resolution Basics\""
-date: 2024-05-28 15:39:51
-updated: 2024-05-31 12:20:54
+date: 2024-05-31T07:37:02.443Z
+updated: 2024-06-01T07:37:02.443Z
 tags: 
   - screen-recording
   - ai video
@@ -366,4 +366,5 @@ After sharing a lot of information about video resolutions, this article conclud
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

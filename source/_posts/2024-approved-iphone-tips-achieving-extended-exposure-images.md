@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  IPhone Tips  Achieving Extended Exposure Images\""
-date: 2024-05-27 18:57:15
-updated: 2024-05-28 12:27:33
+date: 2024-05-31T07:36:34.937Z
+updated: 2024-06-01T07:36:34.937Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

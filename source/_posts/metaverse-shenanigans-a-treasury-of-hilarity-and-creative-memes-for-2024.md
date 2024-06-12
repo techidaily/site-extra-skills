@@ -1,7 +1,7 @@
 ---
 title: "\"Metaverse Shenanigans  A Treasury of Hilarity and Creative Memes for 2024\""
-date: 2024-05-26 19:34:17
-updated: 2024-05-28 10:25:42
+date: 2024-05-31T07:37:00.791Z
+updated: 2024-06-01T07:37:00.791Z
 tags: 
   - screen-recording
   - ai video
@@ -726,4 +726,5 @@ Furthermore, I hope you have no questions in selecting Filmora as an online imag
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

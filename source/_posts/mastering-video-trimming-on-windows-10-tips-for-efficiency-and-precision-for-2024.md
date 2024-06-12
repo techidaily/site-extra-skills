@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Video Trimming on Windows 10  Tips for Efficiency and Precision for 2024\""
-date: 2024-05-26 19:12:26
-updated: 2024-05-28 12:30:29
+date: 2024-05-31T07:37:36.182Z
+updated: 2024-06-01T07:37:36.182Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

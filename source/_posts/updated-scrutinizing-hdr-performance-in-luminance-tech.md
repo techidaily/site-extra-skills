@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Scrutinizing HDR Performance in Luminance Tech"
-date: 2024-05-28 16:12:32
-updated: 2024-05-30 10:53:54
+date: 2024-05-31T07:38:37.916Z
+updated: 2024-06-01T07:38:37.916Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ In addition to that, if you're looking to edit HDR videos with high quality, we 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

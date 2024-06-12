@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Snap Up on Details with VideoLeap's Advanced Zooming"
-date: 2024-05-29 11:20:49
-updated: 2024-05-31 12:30:16
+date: 2024-05-31T07:38:49.219Z
+updated: 2024-06-01T07:38:49.219Z
 tags: 
   - screen-recording
   - ai video
@@ -129,4 +129,5 @@ Videoleap is one of the leading video editing platforms available out there. The
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

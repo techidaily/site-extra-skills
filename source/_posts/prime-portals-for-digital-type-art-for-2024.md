@@ -1,7 +1,7 @@
 ---
 title: "Prime Portals for Digital Type Art for 2024"
-date: 2024-05-27 15:56:40
-updated: 2024-05-30 10:40:35
+date: 2024-05-31T07:37:28.908Z
+updated: 2024-06-01T07:37:28.908Z
 tags: 
   - screen-recording
   - ai video
@@ -487,4 +487,5 @@ Hopefully, you've found this article helpful and can now get the proper 3D fonts
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

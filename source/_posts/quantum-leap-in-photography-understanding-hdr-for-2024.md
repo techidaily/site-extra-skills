@@ -1,7 +1,7 @@
 ---
 title: "\"Quantum Leap in Photography  Understanding HDR for 2024\""
-date: 2024-05-27 11:43:31
-updated: 2024-05-30 10:30:18
+date: 2024-05-31T07:37:46.199Z
+updated: 2024-06-01T07:37:46.199Z
 tags: 
   - screen-recording
   - ai video
@@ -202,4 +202,5 @@ All essential information anyone could want to know about Quantum HDR has been d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

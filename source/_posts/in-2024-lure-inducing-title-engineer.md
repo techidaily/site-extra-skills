@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Lure-Inducing Title Engineer\""
-date: 2024-05-26 22:37:17
-updated: 2024-05-28 10:51:24
+date: 2024-05-31T07:40:52.335Z
+updated: 2024-06-01T07:40:52.335Z
 tags: 
   - screen-recording
   - ai video
@@ -145,4 +145,5 @@ Clickbait headlines are often sensationalistic, deceptive, or downright absurd. 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Pioneering Simple Sound Shifts in PUBG"
-date: 2024-05-27 16:55:20
-updated: 2024-05-29 12:56:44
+date: 2024-05-31T07:36:29.993Z
+updated: 2024-06-01T07:36:29.993Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ There are so many ways to change your voice in PUBG games, just suit it with you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Pro Techniques for Professional Iphone Shots"
-date: 2024-05-27 15:30:25
-updated: 2024-05-30 10:42:32
+date: 2024-05-31T07:41:35.852Z
+updated: 2024-06-01T07:41:35.852Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

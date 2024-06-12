@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Picture-in-Picture Features in Firefox\""
-date: 2024-05-28 14:27:50
-updated: 2024-05-29 11:38:52
+date: 2024-05-31T07:38:32.731Z
+updated: 2024-06-01T07:38:32.731Z
 tags: 
   - screen-recording
   - ai video
@@ -137,4 +137,5 @@ Picture-in-Picture is a nice feature that helps you increase productivity while 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

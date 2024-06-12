@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Integrating Timestamps Into Your Images"
-date: 2024-05-25 16:51:30
-updated: 2024-05-27 12:33:25
+date: 2024-05-31T07:41:20.036Z
+updated: 2024-06-01T07:41:20.036Z
 tags: 
   - screen-recording
   - ai video
@@ -575,4 +575,5 @@ Hopefully, these steps will be helpful if you ever want to **add a date** or **e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

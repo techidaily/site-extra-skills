@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Shadows & Highlights Through Photoshop Curves"
-date: 2024-05-26 22:28:47
-updated: 2024-05-28 10:52:40
+date: 2024-05-31T07:41:17.422Z
+updated: 2024-06-01T07:41:17.422Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

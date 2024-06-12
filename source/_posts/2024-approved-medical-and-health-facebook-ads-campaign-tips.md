@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Medical And Health Facebook Ads Campaign Tips\""
-date: 2024-05-26 18:19:22
-updated: 2024-05-28 12:37:51
+date: 2024-05-31T07:40:44.907Z
+updated: 2024-06-01T07:40:44.907Z
 tags: 
   - screen-recording
   - ai video
@@ -180,4 +180,5 @@ We hope this blog post was informative and helpful. If you have any questions, f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

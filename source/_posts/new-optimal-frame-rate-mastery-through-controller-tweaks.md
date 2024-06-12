@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimal Frame Rate Mastery Through Controller Tweaks"
-date: 2024-05-28 23:13:32
-updated: 2024-05-29 12:19:48
+date: 2024-05-31T07:36:54.143Z
+updated: 2024-06-01T07:36:54.143Z
 tags: 
   - screen-recording
   - ai video
@@ -704,4 +704,5 @@ So, decide wisely.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leveraging Video Production  Microsoft's Movie Maker for Windows 11\""
-date: 2024-05-27 15:45:57
-updated: 2024-05-28 10:12:53
+date: 2024-05-31T07:38:33.933Z
+updated: 2024-06-01T07:38:33.933Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ In this article, you have learned about various video editors available on Windo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

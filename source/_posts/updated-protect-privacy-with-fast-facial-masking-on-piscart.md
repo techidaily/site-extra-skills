@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Protect Privacy with Fast Facial Masking on PiscArt"
-date: 2024-05-28 22:47:55
-updated: 2024-05-30 11:12:50
+date: 2024-05-31T07:40:31.522Z
+updated: 2024-06-01T07:40:31.522Z
 tags: 
   - screen-recording
   - ai video
@@ -478,4 +478,5 @@ Focal blur is a radial effect that warps the dimensions of your picture a little
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

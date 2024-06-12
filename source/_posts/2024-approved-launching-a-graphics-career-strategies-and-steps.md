@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Launching a Graphics Career  Strategies and Steps\""
-date: 2024-05-25 15:39:28
-updated: 2024-05-28 11:26:14
+date: 2024-05-31T07:37:08.597Z
+updated: 2024-06-01T07:37:08.597Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ The world of graphic design depends on relationships with other people to advanc
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

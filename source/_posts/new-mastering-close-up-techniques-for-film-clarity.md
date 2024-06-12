@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Close-Up Techniques for Film Clarity\""
-date: 2024-05-25 16:36:48
-updated: 2024-05-28 10:47:14
+date: 2024-05-31T07:37:04.063Z
+updated: 2024-06-01T07:37:04.063Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ Now you can see how to zoom in/out videos on Kinemaster. You can practice it on 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

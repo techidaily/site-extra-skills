@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Picture-in-Picture on Safari's Ecosystem\""
-date: 2024-05-26 13:13:32
-updated: 2024-05-29 10:19:47
+date: 2024-05-31T07:40:12.279Z
+updated: 2024-06-01T07:40:12.279Z
 tags: 
   - screen-recording
   - ai video
@@ -153,4 +153,5 @@ Aside from Safari, the Picture-in-Picture mode is available in other standard pr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

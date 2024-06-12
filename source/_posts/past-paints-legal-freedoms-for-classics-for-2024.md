@@ -1,7 +1,7 @@
 ---
 title: "\"Past Paints  Legal Freedoms for Classics for 2024\""
-date: 2024-05-26 11:31:16
-updated: 2024-05-29 11:10:35
+date: 2024-05-31T07:41:35.285Z
+updated: 2024-06-01T07:41:35.285Z
 tags: 
   - screen-recording
   - ai video
@@ -287,4 +287,5 @@ Conversely, public domain art is copyright free and does not require you to make
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

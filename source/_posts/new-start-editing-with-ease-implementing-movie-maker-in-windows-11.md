@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Start Editing with Ease  Implementing Movie Maker in Windows 11\""
-date: 2024-05-29 18:26:36
-updated: 2024-05-31 11:37:25
+date: 2024-05-31T07:40:16.396Z
+updated: 2024-06-01T07:40:16.396Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ In this article, you have learned about various video editors available on Windo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

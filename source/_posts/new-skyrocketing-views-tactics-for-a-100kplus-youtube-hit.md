@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Skyrocketing Views  Tactics for a 100K+ YouTube Hit\""
-date: 2024-05-28 14:44:22
-updated: 2024-05-31 10:38:13
+date: 2024-05-31T07:41:11.597Z
+updated: 2024-06-01T07:41:11.597Z
 tags: 
   - screen-recording
   - ai video
@@ -142,4 +142,5 @@ We hope this post has helped you get more views for your YouTube videos! If you 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

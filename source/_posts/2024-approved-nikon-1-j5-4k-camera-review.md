@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Nikon 1 J5 4K Camera Review\""
-date: 2024-05-28 11:13:42
-updated: 2024-05-29 12:19:11
+date: 2024-05-31T07:40:01.197Z
+updated: 2024-06-01T07:40:01.197Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

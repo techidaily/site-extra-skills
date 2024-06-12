@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Reimagined Analysis  New Developments in Sony's S6500 BD/HD\""
-date: 2024-05-29 10:45:56
-updated: 2024-05-30 10:59:51
+date: 2024-05-31T07:39:56.367Z
+updated: 2024-06-01T07:39:56.367Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

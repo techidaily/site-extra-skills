@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pushing Imagery Boundaries  Mastering PS Distortion Methods\""
-date: 2024-05-28 12:39:36
-updated: 2024-05-30 12:41:47
+date: 2024-05-31T07:38:51.032Z
+updated: 2024-06-01T07:38:51.032Z
 tags: 
   - screen-recording
   - ai video
@@ -882,4 +882,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

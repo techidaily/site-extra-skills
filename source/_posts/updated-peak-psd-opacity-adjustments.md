@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Peak PSD Opacity Adjustments"
-date: 2024-05-27 21:16:29
-updated: 2024-05-29 12:23:29
+date: 2024-05-31T07:39:58.532Z
+updated: 2024-06-01T07:39:58.532Z
 tags: 
   - screen-recording
   - ai video
@@ -152,4 +152,5 @@ These PSD Text effect files are available for free download, and they're also a 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

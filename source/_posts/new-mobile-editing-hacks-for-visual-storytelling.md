@@ -1,7 +1,7 @@
 ---
 title: "[New] Mobile Editing Hacks for Visual Storytelling"
-date: 2024-05-25 19:30:47
-updated: 2024-05-28 10:57:16
+date: 2024-05-31T07:38:52.965Z
+updated: 2024-06-01T07:38:52.965Z
 tags: 
   - screen-recording
   - ai video
@@ -485,4 +485,5 @@ It's now a difficult task if you want to add text to your photos. Instead, it's 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

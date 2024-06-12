@@ -1,7 +1,7 @@
 ---
 title: "\"Sizing Up Show Content  Optimal Episode Count for 2024\""
-date: 2024-05-30 12:13:44
-updated: 2024-05-31 10:10:44
+date: 2024-05-31T07:37:51.149Z
+updated: 2024-06-01T07:37:51.149Z
 tags: 
   - screen-recording
   - ai video
@@ -911,4 +911,5 @@ Overall, it is important to carefully plan the episode length for your podcast c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

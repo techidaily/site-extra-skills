@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Optical Opus  The Elite List of 8K Cameras\""
-date: 2024-05-28 12:11:38
-updated: 2024-05-29 11:53:57
+date: 2024-05-31T07:40:07.926Z
+updated: 2024-06-01T07:40:07.926Z
 tags: 
   - screen-recording
   - ai video
@@ -546,4 +546,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

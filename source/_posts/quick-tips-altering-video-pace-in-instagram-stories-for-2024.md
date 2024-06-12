@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Tips  Altering Video Pace in Instagram Stories for 2024\""
-date: 2024-05-27 14:52:47
-updated: 2024-05-30 11:38:29
+date: 2024-05-31T07:38:46.592Z
+updated: 2024-06-01T07:38:46.592Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ We have answered the frequently asked question, "how to do slow motion on Instag
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

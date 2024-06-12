@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Direct Controls  Full Guide to PowerDirector 2024\""
-date: 2024-05-25 21:58:26
-updated: 2024-05-28 11:55:54
+date: 2024-05-31T07:36:35.554Z
+updated: 2024-06-01T07:36:35.554Z
 tags: 
   - screen-recording
   - ai video
@@ -209,4 +209,5 @@ Now that you have learned how you can try editing another movie and uploading yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

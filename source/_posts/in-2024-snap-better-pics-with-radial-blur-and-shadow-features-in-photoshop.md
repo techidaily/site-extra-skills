@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Snap Better Pics with Radial Blur and Shadow Features in Photoshop"
-date: 2024-05-30 15:48:27
-updated: 2024-05-31 12:43:46
+date: 2024-05-31T07:36:26.106Z
+updated: 2024-06-01T07:36:26.106Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

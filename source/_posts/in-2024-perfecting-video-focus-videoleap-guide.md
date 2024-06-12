@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Perfecting Video Focus  Videoleap Guide\""
-date: 2024-05-27 15:40:57
-updated: 2024-05-29 11:41:38
+date: 2024-05-31T07:40:16.153Z
+updated: 2024-06-01T07:40:16.153Z
 tags: 
   - screen-recording
   - ai video
@@ -129,4 +129,5 @@ Videoleap is one of the leading video editing platforms available out there. The
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

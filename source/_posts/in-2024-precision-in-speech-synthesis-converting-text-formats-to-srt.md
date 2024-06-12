@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Precision in Speech Synthesis  Converting Text Formats to SRT\""
-date: 2024-05-28 14:25:42
-updated: 2024-05-29 11:49:46
+date: 2024-05-31T07:39:47.595Z
+updated: 2024-06-01T07:39:47.595Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ If you still have questions in your mind, leave them in the comment section belo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

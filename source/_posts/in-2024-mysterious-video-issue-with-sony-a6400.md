@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mysterious Video Issue with Sony A6400"
-date: 2024-05-27 13:46:30
-updated: 2024-05-29 12:26:23
+date: 2024-05-31T07:39:45.982Z
+updated: 2024-06-01T07:39:45.982Z
 tags: 
   - screen-recording
   - ai video
@@ -450,4 +450,5 @@ Knowing why you can’t see videos on Sony A6400 is essential because it allows 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

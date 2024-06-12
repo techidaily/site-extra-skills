@@ -1,7 +1,7 @@
 ---
 title: "[New] Key Features of Mozilla's Innovative Popup Window"
-date: 2024-05-27 17:42:29
-updated: 2024-05-28 10:46:15
+date: 2024-05-31T07:37:04.045Z
+updated: 2024-06-01T07:37:04.045Z
 tags: 
   - screen-recording
   - ai video
@@ -137,4 +137,5 @@ Picture-in-Picture is a nice feature that helps you increase productivity while 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

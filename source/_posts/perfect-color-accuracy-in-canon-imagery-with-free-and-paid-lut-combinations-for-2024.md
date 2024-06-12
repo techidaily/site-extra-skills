@@ -1,7 +1,7 @@
 ---
 title: "Perfect Color Accuracy in Canon Imagery with Free & Paid LUT Combinations for 2024"
-date: 2024-05-26 23:19:55
-updated: 2024-05-29 10:47:14
+date: 2024-05-31T07:37:11.669Z
+updated: 2024-06-01T07:37:11.669Z
 tags: 
   - screen-recording
   - ai video
@@ -180,4 +180,5 @@ Surf the above discussed free and paid version of LUTS and bring out the best in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

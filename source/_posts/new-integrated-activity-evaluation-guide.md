@@ -1,7 +1,7 @@
 ---
 title: "[New] Integrated Activity Evaluation Guide"
-date: 2024-05-24 18:23:21
-updated: 2024-05-27 11:17:46
+date: 2024-05-31T07:36:46.691Z
+updated: 2024-06-01T07:36:46.691Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Alight Motion editing app has lived up to the expectation of being the first mot
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

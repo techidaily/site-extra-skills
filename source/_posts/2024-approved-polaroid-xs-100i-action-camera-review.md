@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Polaroid XS 100I Action Camera Review\""
-date: 2024-05-28 18:44:35
-updated: 2024-05-29 12:54:39
+date: 2024-05-31T07:40:28.354Z
+updated: 2024-06-01T07:40:28.354Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

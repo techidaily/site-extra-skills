@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Photo Wizards  Perfecting Silhouette Art\""
-date: 2024-05-26 16:10:24
-updated: 2024-05-28 10:56:48
+date: 2024-05-31T07:38:39.363Z
+updated: 2024-06-01T07:38:39.363Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

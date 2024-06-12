@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Social Media Connections  Instagram & TikTok\""
-date: 2024-05-25 21:41:37
-updated: 2024-05-28 11:39:51
+date: 2024-05-31T07:39:46.124Z
+updated: 2024-06-01T07:39:46.124Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ Using both platforms will take your business or content to a new height. It may 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

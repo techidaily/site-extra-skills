@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pro Photography Meets Canva  Exclusive Editing Secrets\""
-date: 2024-05-27 11:56:16
-updated: 2024-05-30 10:55:51
+date: 2024-05-31T07:36:15.923Z
+updated: 2024-06-01T07:36:15.923Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ Anyone can learn photo editing skills if they are provided with accurate guideli
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

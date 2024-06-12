@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Song Rights on Social Media"
-date: 2024-05-26 10:19:58
-updated: 2024-05-29 12:28:53
+date: 2024-05-31T07:36:15.561Z
+updated: 2024-06-01T07:36:15.561Z
 tags: 
   - screen-recording
   - ai video
@@ -202,4 +202,5 @@ Hopefully, you’ve found this article helpful and can now understand the dos an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, IPhone Filmmaking Masterclass  8 Steps to Pro Video Excellence\""
-date: 2024-05-24 22:36:11
-updated: 2024-05-27 12:17:44
+date: 2024-05-31T07:40:58.734Z
+updated: 2024-06-01T07:40:58.734Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

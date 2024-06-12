@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Social Metaverse Titles  Top 10 Multiplayer Classics\""
-date: 2024-05-30 17:49:56
-updated: 2024-05-31 12:42:36
+date: 2024-05-31T07:36:40.587Z
+updated: 2024-06-01T07:36:40.587Z
 tags: 
   - screen-recording
   - ai video
@@ -542,4 +542,5 @@ These Facebook virtual reality games are the doors to the following significant 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

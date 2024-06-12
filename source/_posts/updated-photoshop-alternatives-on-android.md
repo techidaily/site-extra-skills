@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Photoshop Alternatives on Android"
-date: 2024-05-28 21:15:53
-updated: 2024-05-29 10:44:38
+date: 2024-05-31T07:40:00.264Z
+updated: 2024-06-01T07:40:00.264Z
 tags: 
   - screen-recording
   - ai video
@@ -432,4 +432,5 @@ Many photo editing apps have introduced themselves in the market and online plat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

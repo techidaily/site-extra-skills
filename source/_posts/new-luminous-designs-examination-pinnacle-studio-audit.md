@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Luminous Designs Examination  Pinnacle Studio Audit\""
-date: 2024-05-26 23:13:54
-updated: 2024-05-28 12:31:22
+date: 2024-05-31T07:38:17.978Z
+updated: 2024-06-01T07:38:17.978Z
 tags: 
   - screen-recording
   - ai video
@@ -90,4 +90,5 @@ There were already some decent audio editing features in  Studio. The audio part
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

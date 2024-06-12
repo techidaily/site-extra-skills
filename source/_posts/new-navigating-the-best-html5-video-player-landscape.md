@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating the Best HTML5 Video Player Landscape"
-date: 2024-05-26 10:38:46
-updated: 2024-05-29 11:40:39
+date: 2024-05-31T07:39:27.286Z
+updated: 2024-06-01T07:39:27.286Z
 tags: 
   - screen-recording
   - ai video
@@ -610,4 +610,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

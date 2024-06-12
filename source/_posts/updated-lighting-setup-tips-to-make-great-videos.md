@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Lighting Setup Tips to Make Great Videos"
-date: 2024-05-29 10:43:51
-updated: 2024-05-30 10:16:50
+date: 2024-05-31T07:39:45.492Z
+updated: 2024-06-01T07:39:45.492Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

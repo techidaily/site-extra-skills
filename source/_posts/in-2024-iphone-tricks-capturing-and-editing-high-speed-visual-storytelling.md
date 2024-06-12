@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, IPhone Tricks  Capturing & Editing High-Speed Visual Storytelling\""
-date: 2024-05-26 19:34:14
-updated: 2024-05-28 12:45:48
+date: 2024-05-31T07:38:55.246Z
+updated: 2024-06-01T07:38:55.246Z
 tags: 
   - screen-recording
   - ai video
@@ -526,4 +526,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

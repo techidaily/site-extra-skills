@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Integrating Microsoft's Azure Transcription Service in Code"
-date: 2024-05-26 16:42:17
-updated: 2024-05-27 10:19:53
+date: 2024-05-31T07:41:02.952Z
+updated: 2024-06-01T07:41:02.952Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ In that case, use a more straightforward option like Google Docs to dictate text
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

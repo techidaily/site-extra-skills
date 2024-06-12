@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Smart Tech Unveiled  Moto Z2 Deep Dive\""
-date: 2024-05-30 17:51:13
-updated: 2024-05-31 12:52:12
+date: 2024-05-31T07:36:00.163Z
+updated: 2024-06-01T07:36:00.163Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

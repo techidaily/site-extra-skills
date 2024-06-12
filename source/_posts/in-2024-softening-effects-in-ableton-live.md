@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Softening Effects in Ableton Live"
-date: 2024-05-29 11:39:44
-updated: 2024-05-31 11:17:35
+date: 2024-05-31T07:39:58.941Z
+updated: 2024-06-01T07:39:58.941Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ In essence, Ableton just refuses to display fades on certain songs. Fades won't 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

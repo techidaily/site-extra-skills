@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Preserving the Past in Motion  Photo to Video Transition\""
-date: 2024-05-27 20:45:31
-updated: 2024-05-30 12:56:25
+date: 2024-05-31T07:40:51.866Z
+updated: 2024-06-01T07:40:51.866Z
 tags: 
   - screen-recording
   - ai video
@@ -594,4 +594,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

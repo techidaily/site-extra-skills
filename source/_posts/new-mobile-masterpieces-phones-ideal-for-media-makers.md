@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mobile Masterpieces  Phones Ideal for Media Makers\""
-date: 2024-05-27 10:37:49
-updated: 2024-05-28 11:15:39
+date: 2024-05-31T07:39:14.923Z
+updated: 2024-06-01T07:39:14.923Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Joining a live cohort where you can learn the methods, tactics, and resources th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

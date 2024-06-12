@@ -1,7 +1,7 @@
 ---
 title: "\"[New] New Horizons in Graphic Design Post-ACID\""
-date: 2024-05-26 23:11:26
-updated: 2024-05-29 12:24:29
+date: 2024-05-31T07:40:56.644Z
+updated: 2024-06-01T07:40:56.644Z
 tags: 
   - screen-recording
   - ai video
@@ -190,4 +190,5 @@ However, ACID Pro is expensive, and some users might not be able to afford it. W
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

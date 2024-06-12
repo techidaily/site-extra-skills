@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering the Skies  A Guide to Using Syma X8C\""
-date: 2024-05-25 17:49:47
-updated: 2024-05-28 12:33:22
+date: 2024-05-31T07:41:08.930Z
+updated: 2024-06-01T07:41:08.930Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

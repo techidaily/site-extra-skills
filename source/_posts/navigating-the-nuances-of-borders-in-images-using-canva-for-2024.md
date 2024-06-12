@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Nuances of Borders in Images Using Canva for 2024"
-date: 2024-05-28 15:28:33
-updated: 2024-05-29 11:29:24
+date: 2024-05-31T07:41:35.906Z
+updated: 2024-06-01T07:41:35.906Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Hopefully, you've found this article helpful and can now optimize your images in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

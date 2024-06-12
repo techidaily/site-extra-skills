@@ -1,7 +1,7 @@
 ---
 title: "\"Polaroid XS Review  Capturing Life in Full HD for 2024\""
-date: 2024-05-28 19:32:14
-updated: 2024-05-29 12:17:51
+date: 2024-05-31T07:41:40.051Z
+updated: 2024-06-01T07:41:40.051Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Layer Chords over PPT Slides"
-date: 2024-05-27 20:13:23
-updated: 2024-05-28 11:53:12
+date: 2024-05-31T07:40:30.440Z
+updated: 2024-06-01T07:40:30.440Z
 tags: 
   - screen-recording
   - ai video
@@ -576,4 +576,5 @@ So, we're now concluding on how to add music to PowerPoint along with describing
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

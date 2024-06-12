@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering the Mix  Adding, Cropping & Adjusting Audio in Canva for 2024\""
-date: 2024-05-27 16:33:44
-updated: 2024-05-28 10:32:17
+date: 2024-05-31T07:41:38.162Z
+updated: 2024-06-01T07:41:38.162Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ All these details will help you understand how to add music on Canva without any
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Plot Pointers Institute - Quintessential Quotient\""
-date: 2024-05-28 14:48:10
-updated: 2024-05-29 11:36:56
+date: 2024-05-31T07:37:42.687Z
+updated: 2024-06-01T07:37:42.687Z
 tags: 
   - screen-recording
   - ai video
@@ -561,4 +561,5 @@ In conclusion, these were some of our recommendations for storyteller academies.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

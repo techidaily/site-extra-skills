@@ -1,7 +1,7 @@
 ---
 title: "Luts Guide to Professional Movie Coloring for 2024"
-date: 2024-05-27 10:28:51
-updated: 2024-05-28 12:14:54
+date: 2024-05-31T07:40:26.930Z
+updated: 2024-06-01T07:40:26.930Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ In summary, we've seen some different color grading LUTs that simplify the color
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

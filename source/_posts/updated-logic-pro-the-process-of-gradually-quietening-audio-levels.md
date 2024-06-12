@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Logic Pro  The Process of Gradually Quietening Audio Levels\""
-date: 2024-05-27 20:56:39
-updated: 2024-05-28 11:48:28
+date: 2024-05-31T07:36:14.281Z
+updated: 2024-06-01T07:36:14.281Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ Apple's Logic Pro X is not compatible with Windows-based computers. Therefore, i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

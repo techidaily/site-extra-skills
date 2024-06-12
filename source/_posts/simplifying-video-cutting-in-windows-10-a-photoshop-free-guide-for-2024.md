@@ -1,7 +1,7 @@
 ---
 title: "\"Simplifying Video Cutting in Windows 10  A Photoshop-Free Guide for 2024\""
-date: 2024-05-30 15:57:20
-updated: 2024-05-31 11:17:50
+date: 2024-05-31T07:37:01.806Z
+updated: 2024-06-01T07:37:01.806Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

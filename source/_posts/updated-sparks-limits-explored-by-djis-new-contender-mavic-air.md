@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Spark's Limits Explored by DJI's New Contender, Mavic Air"
-date: 2024-05-30 20:32:28
-updated: 2024-05-31 11:55:21
+date: 2024-05-31T07:41:34.721Z
+updated: 2024-06-01T07:41:34.721Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

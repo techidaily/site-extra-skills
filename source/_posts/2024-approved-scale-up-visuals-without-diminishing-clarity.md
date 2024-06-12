@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Scale Up Visuals Without Diminishing Clarity\""
-date: 2024-05-28 19:32:38
-updated: 2024-05-30 10:48:47
+date: 2024-05-31T07:36:19.365Z
+updated: 2024-06-01T07:36:19.365Z
 tags: 
   - screen-recording
   - ai video
@@ -674,4 +674,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

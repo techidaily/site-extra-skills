@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Softening Audio  FL Basics\""
-date: 2024-05-28 21:22:20
-updated: 2024-05-31 12:18:45
+date: 2024-05-31T07:39:41.298Z
+updated: 2024-06-01T07:39:41.298Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

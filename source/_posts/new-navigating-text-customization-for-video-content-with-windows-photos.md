@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Text Customization for Video Content with Windows Photos"
-date: 2024-05-26 17:41:36
-updated: 2024-05-29 12:24:34
+date: 2024-05-31T07:40:37.116Z
+updated: 2024-06-01T07:40:37.116Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

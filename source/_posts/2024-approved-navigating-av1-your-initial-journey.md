@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating AV1  Your Initial Journey\""
-date: 2024-05-26 14:43:21
-updated: 2024-05-29 10:54:46
+date: 2024-05-31T07:41:13.498Z
+updated: 2024-06-01T07:41:13.498Z
 tags: 
   - screen-recording
   - ai video
@@ -345,4 +345,5 @@ No. YouTube applies extra compression to your videos regardless of the codec you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

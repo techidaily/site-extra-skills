@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Online Partnerships  Crafting Brand Joint Ventures on YouTube\""
-date: 2024-05-26 11:18:20
-updated: 2024-05-29 11:14:28
+date: 2024-05-31T07:38:41.587Z
+updated: 2024-06-01T07:38:41.587Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ When doing a brand collaboration, you must remember don’t lose hope, your firs
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

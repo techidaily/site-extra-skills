@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimal 5 Filters for Deep Blue Cinematography"
-date: 2024-05-27 20:36:13
-updated: 2024-05-29 12:57:41
+date: 2024-05-31T07:37:51.906Z
+updated: 2024-06-01T07:37:51.906Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

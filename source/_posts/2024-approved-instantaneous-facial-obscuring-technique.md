@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Instantaneous Facial Obscuring Technique\""
-date: 2024-05-24 22:44:41
-updated: 2024-05-27 12:59:33
+date: 2024-05-31T07:40:30.816Z
+updated: 2024-06-01T07:40:30.816Z
 tags: 
   - screen-recording
   - ai video
@@ -478,4 +478,5 @@ Focal blur is a radial effect that warps the dimensions of your picture a little
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

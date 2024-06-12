@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Tips for Overcoming Adobe Premiere's SRT Export Issues\""
-date: 2024-05-29 20:41:11
-updated: 2024-05-30 10:27:36
+date: 2024-05-31T07:38:42.096Z
+updated: 2024-06-01T07:38:42.096Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ That being said, if you want to save yourself from unwanted errors during the ex
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

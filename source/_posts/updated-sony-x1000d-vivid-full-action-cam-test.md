@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sony X1000D Vivid - Full Action Cam Test\""
-date: 2024-05-28 17:49:34
-updated: 2024-05-31 10:55:29
+date: 2024-05-31T07:41:50.214Z
+updated: 2024-06-01T07:41:50.214Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

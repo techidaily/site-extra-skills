@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Convert Live Photo to Video"
-date: 2024-05-25 19:58:50
-updated: 2024-05-28 12:37:31
+date: 2024-05-31T07:37:30.485Z
+updated: 2024-06-01T07:37:30.485Z
 tags: 
   - screen-recording
   - ai video
@@ -538,4 +538,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

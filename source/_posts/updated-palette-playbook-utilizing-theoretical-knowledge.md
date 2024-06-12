@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Palette Playbook  Utilizing Theoretical Knowledge\""
-date: 2024-05-28 15:37:55
-updated: 2024-05-29 10:49:26
+date: 2024-05-31T07:40:52.108Z
+updated: 2024-06-01T07:40:52.108Z
 tags: 
   - screen-recording
   - ai video
@@ -94,4 +94,5 @@ By including this into your thought process when creating videos with [Filmora](
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

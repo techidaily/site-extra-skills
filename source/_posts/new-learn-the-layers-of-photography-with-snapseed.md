@@ -1,7 +1,7 @@
 ---
 title: "[New] Learn the Layers of Photography with Snapseed"
-date: 2024-05-26 10:55:45
-updated: 2024-05-28 12:16:53
+date: 2024-05-31T07:38:48.868Z
+updated: 2024-06-01T07:38:48.868Z
 tags: 
   - screen-recording
   - ai video
@@ -136,4 +136,5 @@ Are you tired of using various photo editors and still cannot achieve the desire
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating the Complexities of Photo-HDR in Photoshop for 2024\""
-date: 2024-05-27 20:28:28
-updated: 2024-05-29 10:45:46
+date: 2024-05-31T07:39:19.778Z
+updated: 2024-06-01T07:39:19.778Z
 tags: 
   - screen-recording
   - ai video
@@ -455,4 +455,5 @@ We've also explained the different key features of Photoshop, and if perhaps you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

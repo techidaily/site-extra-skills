@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Background Removal in Images Using Canva"
-date: 2024-05-27 14:31:24
-updated: 2024-05-28 11:40:29
+date: 2024-05-31T07:36:50.576Z
+updated: 2024-06-01T07:36:50.576Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Hopefully, you've found this article helpful and can now optimize your images in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

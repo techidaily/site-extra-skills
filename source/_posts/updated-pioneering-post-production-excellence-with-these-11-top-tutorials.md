@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pioneering Post-Production Excellence with These 11 Top Tutorials\""
-date: 2024-05-27 13:59:22
-updated: 2024-05-29 11:16:42
+date: 2024-05-31T07:38:55.721Z
+updated: 2024-06-01T07:38:55.721Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ In short, we've touched on many different color grading tutorials that simplify 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

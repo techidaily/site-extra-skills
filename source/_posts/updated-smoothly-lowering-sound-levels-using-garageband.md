@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Smoothly Lowering Sound Levels Using Garageband"
-date: 2024-05-30 18:16:38
-updated: 2024-05-31 11:57:26
+date: 2024-05-31T07:39:46.458Z
+updated: 2024-06-01T07:39:46.458Z
 tags: 
   - screen-recording
   - ai video
@@ -150,4 +150,5 @@ According to the survey, one of the most searched topics is **how to fade music 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

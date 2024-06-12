@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quick DIY Cinematic Techniques Every Hobbyist Should Know"
-date: 2024-05-28 20:19:47
-updated: 2024-05-30 10:50:56
+date: 2024-05-31T07:36:20.770Z
+updated: 2024-06-01T07:36:20.770Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Experiment with other props at home and see which hack evolved from them. You ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

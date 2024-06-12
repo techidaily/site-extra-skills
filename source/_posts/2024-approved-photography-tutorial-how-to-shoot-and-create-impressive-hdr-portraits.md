@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Photography Tutorial  How to Shoot and Create Impressive HDR Portraits\""
-date: 2024-05-28 11:11:24
-updated: 2024-05-29 10:29:43
+date: 2024-05-31T07:36:46.457Z
+updated: 2024-06-01T07:36:46.457Z
 tags: 
   - screen-recording
   - ai video
@@ -287,4 +287,5 @@ It is not as difficult as it seems to shoot an HDR portrait. We have made it as 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

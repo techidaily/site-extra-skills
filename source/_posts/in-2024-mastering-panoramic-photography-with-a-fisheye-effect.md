@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Panoramic Photography with a Fisheye Effect"
-date: 2024-05-26 17:29:15
-updated: 2024-05-28 12:56:54
+date: 2024-05-31T07:39:00.114Z
+updated: 2024-06-01T07:39:00.114Z
 tags: 
   - screen-recording
   - ai video
@@ -290,4 +290,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

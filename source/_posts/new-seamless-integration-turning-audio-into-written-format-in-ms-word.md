@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Seamless Integration  Turning Audio Into Written Format in MS Word\""
-date: 2024-05-28 13:59:45
-updated: 2024-05-30 10:25:50
+date: 2024-05-31T07:38:15.615Z
+updated: 2024-06-01T07:38:15.615Z
 tags: 
   - screen-recording
   - ai video
@@ -312,4 +312,5 @@ Microsoft Word's speech-to-text feature is not perfect, but it can be a huge tim
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

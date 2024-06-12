@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Speech to Text Powered by Microsoft Word  Your Pathway to Efficient Workflow Management\""
-date: 2024-05-30 23:44:58
-updated: 2024-05-31 10:43:31
+date: 2024-05-31T07:41:30.976Z
+updated: 2024-06-01T07:41:30.976Z
 tags: 
   - screen-recording
   - ai video
@@ -312,4 +312,5 @@ Microsoft Word's speech-to-text feature is not perfect, but it can be a huge tim
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

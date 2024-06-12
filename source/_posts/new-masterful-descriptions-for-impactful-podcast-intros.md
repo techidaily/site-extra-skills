@@ -1,7 +1,7 @@
 ---
 title: "[New] Masterful Descriptions for Impactful Podcast Intros"
-date: 2024-05-25 11:46:47
-updated: 2024-05-28 12:52:26
+date: 2024-05-31T07:37:21.306Z
+updated: 2024-06-01T07:37:21.306Z
 tags: 
   - screen-recording
   - ai video
@@ -491,4 +491,5 @@ WITH [JENNA FISCHER](https://www.earwolf.com/person/jenna-fischer/) AND [ANGELA 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

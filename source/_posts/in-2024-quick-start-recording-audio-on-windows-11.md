@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quick Start  Recording Audio on Windows 11\""
-date: 2024-05-27 21:31:57
-updated: 2024-05-30 12:52:38
+date: 2024-05-31T07:37:50.733Z
+updated: 2024-06-01T07:37:50.733Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ We have how to record audio on Windows 10 using free as well as premium software
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

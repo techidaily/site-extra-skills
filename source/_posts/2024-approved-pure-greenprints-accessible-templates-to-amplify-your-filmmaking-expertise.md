@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pure Greenprints  Accessible Templates to Amplify Your Filmmaking Expertise\""
-date: 2024-05-27 10:45:22
-updated: 2024-05-30 11:12:27
+date: 2024-05-31T07:38:06.213Z
+updated: 2024-06-01T07:38:06.213Z
 tags: 
   - screen-recording
   - ai video
@@ -192,4 +192,5 @@ Using a green screen template for your project outweighs other processes. Howeve
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Perfect Your Photos with Text  Tips for Adding Titles in Microsoft Photos\""
-date: 2024-05-26 23:11:45
-updated: 2024-05-29 10:53:31
+date: 2024-05-31T07:38:19.866Z
+updated: 2024-06-01T07:38:19.866Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

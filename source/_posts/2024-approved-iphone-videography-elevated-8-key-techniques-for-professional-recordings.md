@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  IPhone Videography Elevated  8 Key Techniques for Professional Recordings\""
-date: 2024-05-26 14:13:21
-updated: 2024-05-28 12:55:59
+date: 2024-05-31T07:40:28.299Z
+updated: 2024-06-01T07:40:28.299Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

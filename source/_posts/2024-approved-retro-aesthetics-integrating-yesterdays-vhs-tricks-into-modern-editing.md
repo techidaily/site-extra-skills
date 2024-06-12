@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Retro Aesthetics  Integrating Yesterday’s VHS Tricks Into Modern Editing\""
-date: 2024-05-29 12:31:51
-updated: 2024-05-30 11:36:52
+date: 2024-05-31T07:36:10.503Z
+updated: 2024-06-01T07:36:10.503Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ To apply the **80s VHS effects**, you can take assistance from Wondershare Filmo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

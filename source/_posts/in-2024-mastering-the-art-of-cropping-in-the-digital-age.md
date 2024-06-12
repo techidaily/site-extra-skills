@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering the Art of Cropping in the Digital Age"
-date: 2024-05-27 14:28:51
-updated: 2024-05-28 12:13:21
+date: 2024-05-31T07:41:43.155Z
+updated: 2024-06-01T07:41:43.155Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ This article has been quite conclusive in offering proper online tools to crop i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

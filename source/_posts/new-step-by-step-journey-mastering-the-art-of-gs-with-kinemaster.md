@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Journey  Mastering the Art of GS with KineMaster\""
-date: 2024-05-30 21:51:39
-updated: 2024-05-31 11:37:29
+date: 2024-05-31T07:41:18.811Z
+updated: 2024-06-01T07:41:18.811Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ Hopefully, you've found this guide helpful, and now you have enough information 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Sculpting Success in Visual Communications for 2024"
-date: 2024-05-29 16:29:13
-updated: 2024-05-30 12:41:23
+date: 2024-05-31T07:36:51.071Z
+updated: 2024-06-01T07:36:51.071Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ The world of graphic design depends on relationships with other people to advanc
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

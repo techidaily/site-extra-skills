@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Master Guide  Crafting Perfect Collages\""
-date: 2024-05-27 12:36:39
-updated: 2024-05-28 11:38:12
+date: 2024-05-31T07:39:00.672Z
+updated: 2024-06-01T07:39:00.672Z
 tags: 
   - screen-recording
   - ai video
@@ -1166,4 +1166,5 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

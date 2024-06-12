@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Master the Art of Moving Shots  A Handbook for Hero5 Time-Lapse Photography\""
-date: 2024-05-27 12:22:13
-updated: 2024-05-28 10:58:26
+date: 2024-05-31T07:39:53.328Z
+updated: 2024-06-01T07:39:53.328Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

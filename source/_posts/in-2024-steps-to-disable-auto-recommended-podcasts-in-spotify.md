@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Steps to Disable Auto-Recommended Podcasts in Spotify\""
-date: 2024-05-30 16:24:18
-updated: 2024-05-31 12:30:27
+date: 2024-05-31T07:37:25.431Z
+updated: 2024-06-01T07:37:25.431Z
 tags: 
   - screen-recording
   - ai video
@@ -130,4 +130,5 @@ So, now you know **how to remove a podcast from your shows on Spotify**. Whether
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

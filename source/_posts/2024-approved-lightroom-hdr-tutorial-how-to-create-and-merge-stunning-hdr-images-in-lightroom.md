@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Lightroom HDR Tutorial How to Create and Merge Stunning HDR Images in Lightroom\""
-date: 2024-05-25 10:50:15
-updated: 2024-05-28 12:49:38
+date: 2024-05-31T07:38:02.830Z
+updated: 2024-06-01T07:38:02.830Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Before using the HDR effect through Lightroom for stacked photo editing and merg
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

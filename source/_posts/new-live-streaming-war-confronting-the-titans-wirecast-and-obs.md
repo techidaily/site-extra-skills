@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Live Streaming War  Confronting the Titans, Wirecast & OBS\""
-date: 2024-05-26 14:14:36
-updated: 2024-05-28 10:12:16
+date: 2024-05-31T07:39:12.365Z
+updated: 2024-06-01T07:39:12.365Z
 tags: 
   - screen-recording
   - ai video
@@ -370,4 +370,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Premiere Pro  Mastering Full-Screen Views\""
-date: 2024-05-28 19:32:16
-updated: 2024-05-30 10:46:39
+date: 2024-05-31T07:39:59.935Z
+updated: 2024-06-01T07:39:59.935Z
 tags: 
   - screen-recording
   - ai video
@@ -227,4 +227,5 @@ In addition, it enables you to collaborate with partners if you are working on a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

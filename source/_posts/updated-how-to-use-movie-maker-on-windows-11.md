@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Use Movie Maker on Windows 11"
-date: 2024-05-27 14:23:42
-updated: 2024-05-29 10:14:12
+date: 2024-05-31T07:39:56.950Z
+updated: 2024-06-01T07:39:56.950Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ In this article, you have learned about various video editors available on Windo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Color Grading with GoPro Studio for 2024"
-date: 2024-05-26 19:51:14
-updated: 2024-05-28 12:22:53
+date: 2024-05-31T07:39:24.607Z
+updated: 2024-06-01T07:39:24.607Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

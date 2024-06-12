@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Smart Scale for Visual Content"
-date: 2024-05-30 21:36:40
-updated: 2024-05-31 12:51:25
+date: 2024-05-31T07:38:23.181Z
+updated: 2024-06-01T07:38:23.181Z
 tags: 
   - screen-recording
   - ai video
@@ -503,4 +503,5 @@ In many situations, we are needed to zoom edit the videos and this is where such
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

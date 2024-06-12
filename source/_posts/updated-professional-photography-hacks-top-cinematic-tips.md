@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Professional Photography Hacks  Top Cinematic Tips\""
-date: 2024-05-27 16:50:58
-updated: 2024-05-30 12:12:48
+date: 2024-05-31T07:41:51.991Z
+updated: 2024-06-01T07:41:51.991Z
 tags: 
   - screen-recording
   - ai video
@@ -230,4 +230,5 @@ After filming the videos, edit them using [Wondershare Filmora](https://tools.te
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

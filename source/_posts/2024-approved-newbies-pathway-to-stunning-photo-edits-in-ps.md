@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Newbie's Pathway to Stunning Photo Edits in PS\""
-date: 2024-05-27 22:29:43
-updated: 2024-05-29 12:44:39
+date: 2024-05-31T07:39:53.828Z
+updated: 2024-06-01T07:39:53.828Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ Without any doubt, Adobe Photoshop is one of the notorious tools to conduct adva
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

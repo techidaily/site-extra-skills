@@ -1,7 +1,7 @@
 ---
 title: "\"Slowly Fading the Beat  A Pro Guide for Audio Easing for 2024\""
-date: 2024-05-29 20:43:35
-updated: 2024-05-31 12:24:58
+date: 2024-05-31T07:36:20.701Z
+updated: 2024-06-01T07:36:20.701Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ With this guide, you can easily understand the complete procedure for editing a 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

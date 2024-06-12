@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Invisible Intensity  Covert Volume Reduction in Garageband\""
-date: 2024-05-24 14:42:39
-updated: 2024-05-27 12:48:12
+date: 2024-05-31T07:36:51.504Z
+updated: 2024-06-01T07:36:51.504Z
 tags: 
   - screen-recording
   - ai video
@@ -150,4 +150,5 @@ According to the survey, one of the most searched topics is **how to fade music 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

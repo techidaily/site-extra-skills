@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Digital Media  XML/TTML Conversion Guide for SRT\""
-date: 2024-05-26 15:26:53
-updated: 2024-05-28 10:55:27
+date: 2024-05-31T07:36:19.238Z
+updated: 2024-06-01T07:36:19.238Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ If you still have questions in your mind, leave them in the comment section belo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Premiere Illustrator Adjustments\""
-date: 2024-05-28 22:23:17
-updated: 2024-05-30 10:47:32
+date: 2024-05-31T07:38:21.672Z
+updated: 2024-06-01T07:38:21.672Z
 tags: 
   - screen-recording
   - ai video
@@ -152,4 +152,5 @@ These PSD Text effect files are available for free download, and they're also a 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

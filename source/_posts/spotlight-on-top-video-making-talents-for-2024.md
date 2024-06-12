@@ -1,7 +1,7 @@
 ---
 title: "Spotlight on Top Video Making Talents for 2024"
-date: 2024-05-29 13:36:24
-updated: 2024-05-31 10:49:48
+date: 2024-05-31T07:41:16.554Z
+updated: 2024-06-01T07:41:16.554Z
 tags: 
   - screen-recording
   - ai video
@@ -206,4 +206,5 @@ For a good outcome of your video, you have to make it a point that you hire a sk
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

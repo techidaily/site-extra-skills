@@ -1,7 +1,7 @@
 ---
 title: "\"Perceiving Beyond  Understanding AR's Impact for 2024\""
-date: 2024-05-28 18:55:33
-updated: 2024-05-29 12:35:52
+date: 2024-05-31T07:37:49.555Z
+updated: 2024-06-01T07:37:49.555Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

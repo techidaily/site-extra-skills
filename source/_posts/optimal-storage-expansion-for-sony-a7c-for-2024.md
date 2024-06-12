@@ -1,7 +1,7 @@
 ---
 title: "Optimal Storage Expansion for Sony A7C for 2024"
-date: 2024-05-28 15:17:35
-updated: 2024-05-29 11:56:34
+date: 2024-05-31T07:37:23.833Z
+updated: 2024-06-01T07:37:23.833Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

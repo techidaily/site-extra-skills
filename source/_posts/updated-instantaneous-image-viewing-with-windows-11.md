@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Instantaneous Image Viewing with Windows 11"
-date: 2024-05-25 16:12:48
-updated: 2024-05-27 11:14:49
+date: 2024-05-31T07:41:25.393Z
+updated: 2024-06-01T07:41:25.393Z
 tags: 
   - screen-recording
   - ai video
@@ -331,4 +331,5 @@ Access the **Default Apps** menu from the **Settings** option of your OS. Then, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

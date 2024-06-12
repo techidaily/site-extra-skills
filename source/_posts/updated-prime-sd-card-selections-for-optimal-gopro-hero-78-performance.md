@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Prime SD Card Selections for Optimal GoPro Hero 7/8 Performance"
-date: 2024-05-29 14:41:29
-updated: 2024-05-30 12:34:49
+date: 2024-05-31T07:39:17.687Z
+updated: 2024-06-01T07:39:17.687Z
 tags: 
   - screen-recording
   - ai video
@@ -442,4 +442,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

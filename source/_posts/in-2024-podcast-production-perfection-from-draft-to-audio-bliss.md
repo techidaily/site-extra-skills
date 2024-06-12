@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Podcast Production Perfection  From Draft to Audio Bliss\""
-date: 2024-05-26 22:55:33
-updated: 2024-05-29 10:36:10
+date: 2024-05-31T07:37:40.172Z
+updated: 2024-06-01T07:37:40.172Z
 tags: 
   - screen-recording
   - ai video
@@ -389,4 +389,5 @@ The crux of our discussion is that a compelling podcast script makes it simple t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

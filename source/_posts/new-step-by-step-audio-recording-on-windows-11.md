@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Audio Recording on Windows 11\""
-date: 2024-05-28 16:34:58
-updated: 2024-05-31 11:35:25
+date: 2024-05-31T07:37:06.665Z
+updated: 2024-06-01T07:37:06.665Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ We have how to record audio on Windows 10 using free as well as premium software
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

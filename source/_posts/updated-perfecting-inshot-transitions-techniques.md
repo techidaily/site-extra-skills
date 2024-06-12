@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfecting Inshot Transitions Techniques"
-date: 2024-05-28 15:24:28
-updated: 2024-05-29 10:14:34
+date: 2024-05-31T07:37:12.658Z
+updated: 2024-06-01T07:37:12.658Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastery of Text Effects  Best Practices in AE\""
-date: 2024-05-27 14:31:46
-updated: 2024-05-28 11:10:59
+date: 2024-05-31T07:40:11.455Z
+updated: 2024-06-01T07:40:11.455Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ Motion title is a dynamic text effect template available in After Effects throug
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

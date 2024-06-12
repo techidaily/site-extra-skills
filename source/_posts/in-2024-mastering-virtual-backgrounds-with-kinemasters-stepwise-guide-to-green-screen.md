@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Virtual Backgrounds with Kinemaster's Stepwise Guide to Green Screen"
-date: 2024-05-26 16:26:41
-updated: 2024-05-28 11:36:11
+date: 2024-05-31T07:36:00.028Z
+updated: 2024-06-01T07:36:00.028Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ Hopefully, you've found this guide helpful, and now you have enough information 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering iPhone's HDR  A Photography Essential\""
-date: 2024-05-27 19:18:23
-updated: 2024-05-28 11:21:30
+date: 2024-05-31T07:40:01.158Z
+updated: 2024-06-01T07:40:01.158Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

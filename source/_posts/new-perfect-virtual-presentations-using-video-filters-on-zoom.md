@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfect Virtual Presentations  Using Video Filters on Zoom\""
-date: 2024-05-28 14:10:42
-updated: 2024-05-29 11:46:48
+date: 2024-05-31T07:37:30.569Z
+updated: 2024-06-01T07:37:30.569Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ You must have heard that Zoom lets you use a virtual background to make your vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

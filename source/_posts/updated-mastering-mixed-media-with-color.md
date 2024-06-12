@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Mixed Media with Color"
-date: 2024-05-25 10:32:13
-updated: 2024-05-28 12:55:19
+date: 2024-05-31T07:38:37.815Z
+updated: 2024-06-01T07:38:37.815Z
 tags: 
   - screen-recording
   - ai video
@@ -94,4 +94,5 @@ By including this into your thought process when creating videos with [Filmora](
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

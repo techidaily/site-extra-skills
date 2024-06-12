@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Old to New  Crafting a Video Journey From Classic Photos\""
-date: 2024-05-26 10:31:36
-updated: 2024-05-29 12:48:26
+date: 2024-05-31T07:40:26.528Z
+updated: 2024-06-01T07:40:26.528Z
 tags: 
   - screen-recording
   - ai video
@@ -594,4 +594,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

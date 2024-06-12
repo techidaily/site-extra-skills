@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Video Production with PowerDirector '24"
-date: 2024-05-27 15:38:29
-updated: 2024-05-28 10:16:55
+date: 2024-05-31T07:39:10.823Z
+updated: 2024-06-01T07:39:10.823Z
 tags: 
   - screen-recording
   - ai video
@@ -209,4 +209,5 @@ Now that you have learned how you can try editing another movie and uploading yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

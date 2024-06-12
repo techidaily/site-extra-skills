@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Refining Images  How to Use the Eraser Tool in PSX\""
-date: 2024-05-29 11:16:15
-updated: 2024-05-30 12:35:42
+date: 2024-05-31T07:40:01.532Z
+updated: 2024-06-01T07:40:01.532Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ Hopefully, you can use the tools in Phoshop with ease and remove images' backgro
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

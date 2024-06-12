@@ -1,7 +1,7 @@
 ---
 title: "\"Masterclass in Cross-Platform Content Sharing  Instagram + TikTok for 2024\""
-date: 2024-05-27 10:33:48
-updated: 2024-05-28 11:19:38
+date: 2024-05-31T07:41:13.792Z
+updated: 2024-06-01T07:41:13.792Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ Using both platforms will take your business or content to a new height. It may 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

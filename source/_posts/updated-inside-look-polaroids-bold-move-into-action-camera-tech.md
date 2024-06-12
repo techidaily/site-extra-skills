@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Inside Look  Polaroid's Bold Move Into Action Camera Tech\""
-date: 2024-05-24 12:18:33
-updated: 2024-05-27 12:45:58
+date: 2024-05-31T07:40:31.389Z
+updated: 2024-06-01T07:40:31.389Z
 tags: 
   - screen-recording
   - ai video
@@ -394,4 +394,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

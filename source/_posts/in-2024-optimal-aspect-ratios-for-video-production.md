@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Optimal Aspect Ratios for Video Production"
-date: 2024-05-27 20:19:54
-updated: 2024-05-29 11:17:53
+date: 2024-05-31T07:40:41.111Z
+updated: 2024-06-01T07:40:41.111Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Having your video tested on multiple devices will allow you to see a preview of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

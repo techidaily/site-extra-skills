@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Premier Pro Fullscreen Techniques Compendium\""
-date: 2024-05-27 19:59:38
-updated: 2024-05-29 10:40:30
+date: 2024-05-31T07:38:07.009Z
+updated: 2024-06-01T07:38:07.009Z
 tags: 
   - screen-recording
   - ai video
@@ -227,4 +227,5 @@ In addition, it enables you to collaborate with partners if you are working on a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

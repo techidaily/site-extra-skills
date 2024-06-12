@@ -1,7 +1,7 @@
 ---
 title: "Is Luminance's HDR Suitable for Production for 2024"
-date: 2024-05-26 21:21:34
-updated: 2024-05-28 11:46:13
+date: 2024-05-31T07:40:56.577Z
+updated: 2024-06-01T07:40:56.577Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ In addition to that, if you're looking to edit HDR videos with high quality, we 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

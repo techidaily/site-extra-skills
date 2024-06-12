@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Make 360 Videos with iPhone"
-date: 2024-05-25 17:52:17
-updated: 2024-05-28 12:24:38
+date: 2024-05-31T07:41:13.812Z
+updated: 2024-06-01T07:41:13.812Z
 tags: 
   - screen-recording
   - ai video
@@ -342,4 +342,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

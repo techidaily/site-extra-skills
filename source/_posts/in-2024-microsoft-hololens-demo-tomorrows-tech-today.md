@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Microsoft HoloLens Demo – Tomorrow’s Tech Today"
-date: 2024-05-27 23:45:33
-updated: 2024-05-28 11:32:23
+date: 2024-05-31T07:41:17.668Z
+updated: 2024-06-01T07:41:17.668Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Perfecting Fading Audio Tracks Through Audacity's Tools"
-date: 2024-05-26 14:52:10
-updated: 2024-05-29 11:51:51
+date: 2024-05-31T07:40:24.614Z
+updated: 2024-06-01T07:40:24.614Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ You may access a variety of tools and services on the platform known as Audacity
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

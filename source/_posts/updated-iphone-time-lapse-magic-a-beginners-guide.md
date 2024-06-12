@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Time-Lapse Magic  A Beginner’s Guide\""
-date: 2024-05-27 13:31:40
-updated: 2024-05-28 10:25:57
+date: 2024-05-31T07:39:47.178Z
+updated: 2024-06-01T07:39:47.178Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

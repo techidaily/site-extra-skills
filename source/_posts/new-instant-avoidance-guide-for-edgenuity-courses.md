@@ -1,7 +1,7 @@
 ---
 title: "[New] Instant Avoidance Guide for Edgenuity Courses"
-date: 2024-05-24 23:58:18
-updated: 2024-05-27 11:57:18
+date: 2024-05-31T07:36:39.437Z
+updated: 2024-06-01T07:36:39.437Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Edgenuity is a great learning program. Not having a skip button makes it, so stu
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

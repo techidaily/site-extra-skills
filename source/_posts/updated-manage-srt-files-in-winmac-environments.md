@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Manage SRT Files in Win/Mac Environments"
-date: 2024-05-26 17:46:27
-updated: 2024-05-28 10:34:17
+date: 2024-05-31T07:40:42.338Z
+updated: 2024-06-01T07:40:42.338Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ The above listed are several ways by which an SRT subtitle file can be opened on
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Open and Play SRT on Different Platforms"
-date: 2024-05-26 12:53:59
-updated: 2024-05-29 11:25:42
+date: 2024-05-31T07:39:40.970Z
+updated: 2024-06-01T07:39:40.970Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ The above listed are several ways by which an SRT subtitle file can be opened on
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

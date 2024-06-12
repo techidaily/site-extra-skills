@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Srgb Adoption Over Traditional Rgb Techniques"
-date: 2024-05-30 16:46:22
-updated: 2024-05-31 12:44:37
+date: 2024-05-31T07:37:02.808Z
+updated: 2024-06-01T07:37:02.808Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ As a digital photographer, your main focus can be an artistic expression rather 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

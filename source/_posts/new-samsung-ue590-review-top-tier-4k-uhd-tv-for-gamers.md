@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Samsung UE590 Review - Top-Tier 4K UHD TV for Gamers\""
-date: 2024-05-27 23:57:30
-updated: 2024-05-30 10:18:11
+date: 2024-05-31T07:37:04.243Z
+updated: 2024-06-01T07:37:04.243Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

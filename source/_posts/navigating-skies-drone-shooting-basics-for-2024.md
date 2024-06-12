@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating Skies  Drone Shooting Basics for 2024\""
-date: 2024-05-27 22:36:41
-updated: 2024-05-29 10:58:13
+date: 2024-05-31T07:40:12.167Z
+updated: 2024-06-01T07:40:12.167Z
 tags: 
   - screen-recording
   - ai video
@@ -466,4 +466,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

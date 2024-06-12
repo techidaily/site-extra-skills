@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Premier Mobile Platforms for Enhanced DJi Cinematography\""
-date: 2024-05-27 20:37:10
-updated: 2024-05-29 10:43:46
+date: 2024-05-31T07:36:32.566Z
+updated: 2024-06-01T07:36:32.566Z
 tags: 
   - screen-recording
   - ai video
@@ -450,4 +450,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

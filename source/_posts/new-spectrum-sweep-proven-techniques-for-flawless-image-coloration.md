@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Spectrum Sweep  Proven Techniques for Flawless Image Coloration\""
-date: 2024-05-28 17:47:32
-updated: 2024-05-31 10:44:51
+date: 2024-05-31T07:41:36.092Z
+updated: 2024-06-01T07:41:36.092Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Apply the gradient by clicking within the shapes. Click “OK” to save your ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

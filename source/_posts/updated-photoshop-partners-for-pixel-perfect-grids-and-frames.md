@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Photoshop Partners for Pixel-Perfect Grids and Frames\""
-date: 2024-05-26 15:33:22
-updated: 2024-05-29 12:22:39
+date: 2024-05-31T07:38:21.446Z
+updated: 2024-06-01T07:38:21.446Z
 tags: 
   - screen-recording
   - ai video
@@ -798,4 +798,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Loop Maker Assembly for 2024"
-date: 2024-05-25 16:10:15
-updated: 2024-05-28 11:13:12
+date: 2024-05-31T07:36:13.236Z
+updated: 2024-06-01T07:36:13.236Z
 tags: 
   - screen-recording
   - ai video
@@ -436,4 +436,5 @@ If you have long admired the boomerang videos that you see on social media and h
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

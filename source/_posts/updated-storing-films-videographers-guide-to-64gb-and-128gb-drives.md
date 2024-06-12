@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Storing Films  Videographers' Guide to 64GB and 128GB Drives\""
-date: 2024-05-30 19:48:19
-updated: 2024-05-31 12:34:39
+date: 2024-05-31T07:38:55.802Z
+updated: 2024-06-01T07:38:55.802Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ A wide range of softwares and applications help with video compressing features 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

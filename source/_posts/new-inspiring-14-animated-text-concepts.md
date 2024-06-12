@@ -1,7 +1,7 @@
 ---
 title: "[New] Inspiring 14 Animated Text Concepts"
-date: 2024-05-24 19:30:13
-updated: 2024-05-27 11:22:34
+date: 2024-05-31T07:38:21.202Z
+updated: 2024-06-01T07:38:21.202Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ We have discussed all the common type of text animations that are used to create
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

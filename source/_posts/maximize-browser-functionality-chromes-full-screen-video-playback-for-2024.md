@@ -1,7 +1,7 @@
 ---
 title: "\"Maximize Browser Functionality  Chrome's Full-Screen Video Playback for 2024\""
-date: 2024-05-27 15:43:39
-updated: 2024-05-28 12:38:14
+date: 2024-05-31T07:37:28.001Z
+updated: 2024-06-01T07:37:28.001Z
 tags: 
   - screen-recording
   - ai video
@@ -155,4 +155,5 @@ Picture-in-Picture is a feature on computers that is developing widely across th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

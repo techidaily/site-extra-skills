@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Hero 10  Ultimate Guide for L-Slow Cinematography\""
-date: 2024-05-25 10:16:10
-updated: 2024-05-28 12:59:15
+date: 2024-05-31T07:40:53.699Z
+updated: 2024-06-01T07:40:53.699Z
 tags: 
   - screen-recording
   - ai video
@@ -598,4 +598,5 @@ In addition, we've included some helpful pointers which will make filming slow-m
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

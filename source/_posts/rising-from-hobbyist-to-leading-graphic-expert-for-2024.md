@@ -1,7 +1,7 @@
 ---
 title: "Rising From Hobbyist to Leading Graphic Expert for 2024"
-date: 2024-05-28 11:56:30
-updated: 2024-05-30 11:34:45
+date: 2024-05-31T07:41:40.125Z
+updated: 2024-06-01T07:41:40.125Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ The world of graphic design depends on relationships with other people to advanc
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

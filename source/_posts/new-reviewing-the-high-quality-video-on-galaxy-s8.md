@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reviewing the High-Quality Video on Galaxy S8\""
-date: 2024-05-27 15:54:29
-updated: 2024-05-30 11:43:59
+date: 2024-05-31T07:40:47.704Z
+updated: 2024-06-01T07:40:47.704Z
 tags: 
   - screen-recording
   - ai video
@@ -546,4 +546,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

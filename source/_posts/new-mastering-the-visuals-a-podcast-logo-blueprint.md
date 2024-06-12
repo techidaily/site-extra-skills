@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering the Visuals  A Podcast Logo Blueprint\""
-date: 2024-05-27 19:28:45
-updated: 2024-05-28 10:39:52
+date: 2024-05-31T07:40:55.057Z
+updated: 2024-06-01T07:40:55.057Z
 tags: 
   - screen-recording
   - ai video
@@ -405,4 +405,5 @@ Dont forget to share this article with your friends and family members looking t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

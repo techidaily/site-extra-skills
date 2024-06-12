@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Luxury Levels  Screen Brightness on Android\""
-date: 2024-05-26 23:12:47
-updated: 2024-05-28 10:46:31
+date: 2024-05-31T07:40:04.013Z
+updated: 2024-06-01T07:40:04.013Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ If you need to adjust the brightness of your video, a video editing app like Fil
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

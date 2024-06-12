@@ -1,7 +1,7 @@
 ---
 title: "[New] Integrating Color Grading Techniques with Luts"
-date: 2024-05-26 13:38:23
-updated: 2024-05-27 12:48:12
+date: 2024-05-31T07:39:06.599Z
+updated: 2024-06-01T07:39:06.599Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ In summary, we've seen some different color grading LUTs that simplify the color
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

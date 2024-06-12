@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Restoring Classic Photo Viewing on the Modern Windows 11\""
-date: 2024-05-29 14:21:15
-updated: 2024-05-30 11:54:48
+date: 2024-05-31T07:37:17.936Z
+updated: 2024-06-01T07:37:17.936Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

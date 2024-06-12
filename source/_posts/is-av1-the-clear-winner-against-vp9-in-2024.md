@@ -1,7 +1,7 @@
 ---
 title: "Is AV1 The Clear Winner Against VP9, In 2024"
-date: 2024-05-26 17:23:48
-updated: 2024-05-28 12:14:31
+date: 2024-05-31T07:37:24.548Z
+updated: 2024-06-01T07:37:24.548Z
 tags: 
   - screen-recording
   - ai video
@@ -146,4 +146,5 @@ We hope this AV1 vs VP9 comparison article has dispelled all your fears about us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

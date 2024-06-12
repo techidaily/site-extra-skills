@@ -1,7 +1,7 @@
 ---
 title: "[New] Sketch Whimsical Graphics on Giphy"
-date: 2024-05-30 19:52:37
-updated: 2024-05-31 11:49:48
+date: 2024-05-31T07:41:16.390Z
+updated: 2024-06-01T07:41:16.390Z
 tags: 
   - screen-recording
   - ai video
@@ -134,4 +134,5 @@ Additionally, Giphy offers a Giphy Cam software that enables users to create cus
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

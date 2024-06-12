@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Instant Conferencing  Zoom in the Eyes of Gmail\""
-date: 2024-05-25 20:10:29
-updated: 2024-05-27 12:33:50
+date: 2024-05-31T07:41:36.208Z
+updated: 2024-06-01T07:41:36.208Z
 tags: 
   - screen-recording
   - ai video
@@ -240,4 +240,5 @@ In a nutshell, so that everyone can arrive on time, you would be able to easily 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

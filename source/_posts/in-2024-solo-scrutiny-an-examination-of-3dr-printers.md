@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Solo Scrutiny  An Examination of '3DR' Printers\""
-date: 2024-05-28 15:41:46
-updated: 2024-05-31 10:19:16
+date: 2024-05-31T07:35:58.497Z
+updated: 2024-06-01T07:35:58.497Z
 tags: 
   - screen-recording
   - ai video
@@ -366,4 +366,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

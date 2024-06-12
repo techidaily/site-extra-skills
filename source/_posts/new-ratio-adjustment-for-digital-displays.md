@@ -1,7 +1,7 @@
 ---
 title: "[New] Ratio Adjustment for Digital Displays"
-date: 2024-05-28 16:31:54
-updated: 2024-05-30 12:48:42
+date: 2024-05-31T07:37:59.236Z
+updated: 2024-06-01T07:37:59.236Z
 tags: 
   - screen-recording
   - ai video
@@ -986,4 +986,5 @@ When you go to the "DVD" tab, you will notice various aspect ratio options. Swit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

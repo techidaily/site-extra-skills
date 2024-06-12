@@ -1,7 +1,7 @@
 ---
 title: "[New] Take Portrait Photo with Your Old iPhone X/8 Plus/7 Plus"
-date: 2024-05-25 16:12:31
-updated: 2024-05-28 12:21:56
+date: 2024-05-31T07:37:14.123Z
+updated: 2024-06-01T07:37:14.123Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

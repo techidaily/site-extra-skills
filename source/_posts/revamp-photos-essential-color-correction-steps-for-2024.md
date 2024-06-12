@@ -1,7 +1,7 @@
 ---
 title: "\"Revamp Photos  Essential Color Correction Steps for 2024\""
-date: 2024-05-29 16:37:37
-updated: 2024-05-30 12:33:58
+date: 2024-05-31T07:36:22.276Z
+updated: 2024-06-01T07:36:22.276Z
 tags: 
   - screen-recording
   - ai video
@@ -646,4 +646,5 @@ IV. The paint tool offers you different brushes depending on the function. For e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

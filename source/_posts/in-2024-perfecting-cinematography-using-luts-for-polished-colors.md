@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Perfecting Cinematography  Using Luts for Polished Colors\""
-date: 2024-05-28 20:32:40
-updated: 2024-05-29 10:23:20
+date: 2024-05-31T07:36:04.255Z
+updated: 2024-06-01T07:36:04.255Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ In summary, we've seen some different color grading LUTs that simplify the color
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

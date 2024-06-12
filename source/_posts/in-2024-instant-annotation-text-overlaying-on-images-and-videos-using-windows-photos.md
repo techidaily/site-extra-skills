@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Instant Annotation  Text Overlaying on Images & Videos Using Windows Photos\""
-date: 2024-05-24 11:47:34
-updated: 2024-05-27 11:51:42
+date: 2024-05-31T07:38:52.677Z
+updated: 2024-06-01T07:38:52.677Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

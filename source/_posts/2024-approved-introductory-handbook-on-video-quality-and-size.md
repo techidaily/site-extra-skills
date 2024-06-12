@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Introductory Handbook on Video Quality and Size\""
-date: 2024-05-25 23:34:30
-updated: 2024-05-27 11:22:27
+date: 2024-05-31T07:40:05.980Z
+updated: 2024-06-01T07:40:05.980Z
 tags: 
   - screen-recording
   - ai video
@@ -366,4 +366,5 @@ After sharing a lot of information about video resolutions, this article conclud
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Premiere Smart Goggles Craftsmen\""
-date: 2024-05-27 18:39:10
-updated: 2024-05-30 10:27:59
+date: 2024-05-31T07:37:57.182Z
+updated: 2024-06-01T07:37:57.182Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

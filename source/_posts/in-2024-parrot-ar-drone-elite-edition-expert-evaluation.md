@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Parrot AR Drone Elite Edition – Expert Evaluation"
-date: 2024-05-28 18:25:25
-updated: 2024-05-29 12:21:20
+date: 2024-05-31T07:39:44.286Z
+updated: 2024-06-01T07:39:44.286Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

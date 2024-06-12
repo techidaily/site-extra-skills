@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Samsung K850U BD+ 2023 Assessment"
-date: 2024-05-29 10:59:12
-updated: 2024-05-30 10:59:23
+date: 2024-05-31T07:37:17.686Z
+updated: 2024-06-01T07:37:17.686Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

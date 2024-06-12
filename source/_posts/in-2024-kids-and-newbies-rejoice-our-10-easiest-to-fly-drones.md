@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Kids & Newbies Rejoice! Our 10 Easiest-to-Fly Drones\""
-date: 2024-05-27 11:23:12
-updated: 2024-05-28 11:44:50
+date: 2024-05-31T07:38:59.183Z
+updated: 2024-06-01T07:38:59.183Z
 tags: 
   - screen-recording
   - ai video
@@ -414,4 +414,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Prodigious Plotlines in Audio Playwriting"
-date: 2024-05-27 23:47:35
-updated: 2024-05-30 11:40:35
+date: 2024-05-31T07:37:06.867Z
+updated: 2024-06-01T07:37:06.867Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ This article will teach you everything you need to know about radio and audio dr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

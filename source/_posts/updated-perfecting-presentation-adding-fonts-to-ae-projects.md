@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Perfecting Presentation  Adding Fonts to AE Projects\""
-date: 2024-05-27 18:13:39
-updated: 2024-05-29 11:40:46
+date: 2024-05-31T07:37:12.674Z
+updated: 2024-06-01T07:37:12.674Z
 tags: 
   - screen-recording
   - ai video
@@ -129,4 +129,5 @@ The article discussed the detailed process of **how to add font to Adobe After E
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

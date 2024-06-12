@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Luts Implementation for Cinematographic Coloring"
-date: 2024-05-25 10:11:23
-updated: 2024-05-28 11:59:33
+date: 2024-05-31T07:37:05.120Z
+updated: 2024-06-01T07:37:05.120Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ In summary, we've seen some different color grading LUTs that simplify the color
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

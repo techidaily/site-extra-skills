@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Introduction to Kinetic Graphic Principles"
-date: 2024-05-26 14:13:10
-updated: 2024-05-27 12:55:43
+date: 2024-05-31T07:36:21.859Z
+updated: 2024-06-01T07:36:21.859Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

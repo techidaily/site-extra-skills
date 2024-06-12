@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sony Xperia XZ Premium  An Odyssey Into Ultra HD Phones\""
-date: 2024-05-30 22:47:29
-updated: 2024-05-31 12:10:56
+date: 2024-05-31T07:40:52.698Z
+updated: 2024-06-01T07:40:52.698Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

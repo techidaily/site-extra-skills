@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Peeling Back Layers of the Metaverse with 6 Studies"
-date: 2024-05-26 23:38:10
-updated: 2024-05-29 10:12:10
+date: 2024-05-31T07:38:29.679Z
+updated: 2024-06-01T07:38:29.679Z
 tags: 
   - screen-recording
   - ai video
@@ -430,4 +430,5 @@ Metaverse is still under development but several companies have already started 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

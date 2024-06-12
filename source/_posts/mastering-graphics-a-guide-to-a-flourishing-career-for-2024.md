@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Graphics  A Guide to a Flourishing Career for 2024\""
-date: 2024-05-27 22:31:46
-updated: 2024-05-28 11:39:58
+date: 2024-05-31T07:37:40.353Z
+updated: 2024-06-01T07:37:40.353Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ The world of graphic design depends on relationships with other people to advanc
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

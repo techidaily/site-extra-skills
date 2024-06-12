@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] M1 Pro to M1 Max  Assessing the Leap in Apple's Chip Design\""
-date: 2024-05-27 10:14:11
-updated: 2024-05-28 12:22:11
+date: 2024-05-31T07:40:22.327Z
+updated: 2024-06-01T07:40:22.327Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

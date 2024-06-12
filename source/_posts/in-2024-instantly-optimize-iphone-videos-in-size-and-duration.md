@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Instantly Optimize iPhone Videos in Size and Duration"
-date: 2024-05-25 11:56:12
-updated: 2024-05-27 12:11:10
+date: 2024-05-31T07:38:02.947Z
+updated: 2024-06-01T07:38:02.947Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

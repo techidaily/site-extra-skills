@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfecting the Art of Audio in Audacity Professionally"
-date: 2024-05-27 14:34:47
-updated: 2024-05-29 10:22:14
+date: 2024-05-31T07:37:59.535Z
+updated: 2024-06-01T07:37:59.535Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ Simply select the necessary file format from the drop-down box that appears next
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Sharpen Your Shots  Easy Cropping Methods with iPhone for 2024\""
-date: 2024-05-28 17:25:42
-updated: 2024-05-31 12:32:50
+date: 2024-05-31T07:38:13.200Z
+updated: 2024-06-01T07:38:13.200Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

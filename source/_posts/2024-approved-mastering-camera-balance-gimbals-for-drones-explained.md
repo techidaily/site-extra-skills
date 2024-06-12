@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Camera Balance  Gimbals for Drones Explained\""
-date: 2024-05-25 13:15:20
-updated: 2024-05-28 12:45:35
+date: 2024-05-31T07:36:13.700Z
+updated: 2024-06-01T07:36:13.700Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

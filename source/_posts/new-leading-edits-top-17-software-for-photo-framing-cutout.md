@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Leading Edits  Top 17 Software for Photo Framing Cutout\""
-date: 2024-05-26 16:55:42
-updated: 2024-05-28 11:29:23
+date: 2024-05-31T07:38:27.696Z
+updated: 2024-06-01T07:38:27.696Z
 tags: 
   - screen-recording
   - ai video
@@ -941,4 +941,5 @@ Hopefully, this guide helped you find what you were looking for. These are 17 of
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

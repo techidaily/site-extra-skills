@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Subtitle Craft with The Best Online Resources Today"
-date: 2024-05-25 18:44:39
-updated: 2024-05-28 10:38:31
+date: 2024-05-31T07:40:23.023Z
+updated: 2024-06-01T07:40:23.023Z
 tags: 
   - screen-recording
   - ai video
@@ -618,4 +618,5 @@ To auto-subtitle a video, you can use the speech-to-text or the **“Auto Subtit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

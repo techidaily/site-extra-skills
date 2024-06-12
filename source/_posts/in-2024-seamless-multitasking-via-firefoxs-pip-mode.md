@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Seamless Multitasking via Firefox's PIP Mode"
-date: 2024-05-29 22:18:55
-updated: 2024-05-30 10:54:34
+date: 2024-05-31T07:41:23.318Z
+updated: 2024-06-01T07:41:23.318Z
 tags: 
   - screen-recording
   - ai video
@@ -137,4 +137,5 @@ Picture-in-Picture is a nice feature that helps you increase productivity while 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide  Importing Audio for InShot Edits for 2024\""
-date: 2024-05-29 22:39:56
-updated: 2024-05-31 10:14:13
+date: 2024-05-31T07:37:16.036Z
+updated: 2024-06-01T07:37:16.036Z
 tags: 
   - screen-recording
   - ai video
@@ -454,4 +454,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

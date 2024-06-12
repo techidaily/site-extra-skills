@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Nikon D500 at a Glance  The Frontiers of 4K HD\""
-date: 2024-05-26 15:47:22
-updated: 2024-05-29 12:51:17
+date: 2024-05-31T07:39:43.354Z
+updated: 2024-06-01T07:39:43.354Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

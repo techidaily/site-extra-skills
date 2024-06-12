@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quick Fix for Background Removal in Figma Projects"
-date: 2024-05-28 16:55:13
-updated: 2024-05-30 10:32:28
+date: 2024-05-31T07:36:30.029Z
+updated: 2024-06-01T07:36:30.029Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Radiance Routines  Pro Tips for Video Illumination\""
-date: 2024-05-28 13:45:57
-updated: 2024-05-30 10:58:56
+date: 2024-05-31T07:39:46.406Z
+updated: 2024-06-01T07:39:46.406Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Masterclass in Making Panzoids for 2024"
-date: 2024-05-27 23:26:59
-updated: 2024-05-28 11:16:57
+date: 2024-05-31T07:38:10.571Z
+updated: 2024-06-01T07:38:10.571Z
 tags: 
   - screen-recording
   - ai video
@@ -340,4 +340,5 @@ Yes, you can use Panzoid for creating intro videos for YouTube. Panzoid comes wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

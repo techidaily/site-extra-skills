@@ -1,7 +1,7 @@
 ---
 title: "[New] Maximize Your Viewing Experience with YouTube Scaling"
-date: 2024-05-27 19:40:48
-updated: 2024-05-28 12:19:48
+date: 2024-05-31T07:41:30.882Z
+updated: 2024-06-01T07:41:30.882Z
 tags: 
   - screen-recording
   - ai video
@@ -142,4 +142,5 @@ There are several ways you can zoom into YouTube videos to check out the desired
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

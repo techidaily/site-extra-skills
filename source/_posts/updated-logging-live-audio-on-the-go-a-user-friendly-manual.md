@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Logging Live Audio On-the-Go  A User-Friendly Manual\""
-date: 2024-05-27 10:37:56
-updated: 2024-05-28 12:20:37
+date: 2024-05-31T07:41:11.679Z
+updated: 2024-06-01T07:41:11.679Z
 tags: 
   - screen-recording
   - ai video
@@ -804,4 +804,5 @@ Recording your internet radio works great when you do it in the right and best w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

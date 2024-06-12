@@ -1,7 +1,7 @@
 ---
 title: "Minute Drama Framework Plan for 2024"
-date: 2024-05-27 18:46:38
-updated: 2024-05-28 11:27:10
+date: 2024-05-31T07:40:31.132Z
+updated: 2024-06-01T07:40:31.132Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Perfecting Altered Text Aesthetics in Visual Media for 2024"
-date: 2024-05-27 12:22:17
-updated: 2024-05-29 11:28:27
+date: 2024-05-31T07:39:47.798Z
+updated: 2024-06-01T07:39:47.798Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

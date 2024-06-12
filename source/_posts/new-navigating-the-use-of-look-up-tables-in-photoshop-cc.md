@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating the Use of Look-Up Tables in Photoshop CC\""
-date: 2024-05-28 10:51:39
-updated: 2024-05-29 11:22:17
+date: 2024-05-31T07:37:21.344Z
+updated: 2024-06-01T07:37:21.344Z
 tags: 
   - screen-recording
   - ai video
@@ -582,4 +582,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

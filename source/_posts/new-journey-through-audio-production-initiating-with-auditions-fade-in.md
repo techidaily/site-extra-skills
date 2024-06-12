@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Journey Through Audio Production  Initiating with Audition’s Fade In\""
-date: 2024-05-27 16:59:21
-updated: 2024-05-28 12:51:53
+date: 2024-05-31T07:36:18.034Z
+updated: 2024-06-01T07:36:18.034Z
 tags: 
   - screen-recording
   - ai video
@@ -153,4 +153,5 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

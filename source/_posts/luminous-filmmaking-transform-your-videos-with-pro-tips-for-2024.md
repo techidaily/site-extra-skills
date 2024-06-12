@@ -1,7 +1,7 @@
 ---
 title: "\"Luminous Filmmaking  Transform Your Videos with Pro Tips for 2024\""
-date: 2024-05-27 14:57:30
-updated: 2024-05-28 11:57:53
+date: 2024-05-31T07:37:32.135Z
+updated: 2024-06-01T07:37:32.135Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Keyboard Shortcuts That Power Up Win11"
-date: 2024-05-26 15:47:56
-updated: 2024-05-28 10:44:33
+date: 2024-05-31T07:39:17.314Z
+updated: 2024-06-01T07:39:17.314Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

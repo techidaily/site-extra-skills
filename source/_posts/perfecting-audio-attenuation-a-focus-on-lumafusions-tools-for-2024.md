@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting Audio Attenuation  A Focus on Lumafusion's Tools for 2024\""
-date: 2024-05-26 23:54:10
-updated: 2024-05-29 10:58:18
+date: 2024-05-31T07:38:29.588Z
+updated: 2024-06-01T07:38:29.588Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

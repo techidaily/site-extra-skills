@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Inside Microsoft's Visionary HoloLens Innovation\""
-date: 2024-05-24 15:45:55
-updated: 2024-05-27 11:42:24
+date: 2024-05-31T07:38:10.954Z
+updated: 2024-06-01T07:38:10.954Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Background Extraction in Figma Designs Easily for 2024"
-date: 2024-05-28 16:23:21
-updated: 2024-05-29 10:29:11
+date: 2024-05-31T07:38:48.855Z
+updated: 2024-06-01T07:38:48.855Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

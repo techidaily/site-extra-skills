@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Picsart Guide  Discreetly Mask Faces\""
-date: 2024-05-28 17:24:30
-updated: 2024-05-29 11:18:41
+date: 2024-05-31T07:37:28.616Z
+updated: 2024-06-01T07:37:28.616Z
 tags: 
   - screen-recording
   - ai video
@@ -478,4 +478,5 @@ Focal blur is a radial effect that warps the dimensions of your picture a little
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

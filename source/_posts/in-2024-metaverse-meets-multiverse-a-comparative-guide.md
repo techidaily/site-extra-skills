@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Metaverse Meets Multiverse  A Comparative Guide\""
-date: 2024-05-26 18:39:50
-updated: 2024-05-28 12:38:44
+date: 2024-05-31T07:37:14.733Z
+updated: 2024-06-01T07:37:14.733Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Hope lies in the fact that the formation of the Metaverse vs. Multiverse discour
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

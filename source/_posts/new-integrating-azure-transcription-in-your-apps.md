@@ -1,7 +1,7 @@
 ---
 title: "[New] Integrating Azure Transcription in Your Apps"
-date: 2024-05-24 18:34:46
-updated: 2024-05-27 11:26:37
+date: 2024-05-31T07:41:08.848Z
+updated: 2024-06-01T07:41:08.848Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ In that case, use a more straightforward option like Google Docs to dictate text
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

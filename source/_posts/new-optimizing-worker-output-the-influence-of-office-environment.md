@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Optimizing Worker Output  The Influence of Office Environment\""
-date: 2024-05-27 21:35:37
-updated: 2024-05-29 11:29:41
+date: 2024-05-31T07:37:06.608Z
+updated: 2024-06-01T07:37:06.608Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

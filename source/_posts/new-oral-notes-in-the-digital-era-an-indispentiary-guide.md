@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Oral Notes in the Digital Era  An Indispentiary Guide\""
-date: 2024-05-27 12:43:10
-updated: 2024-05-29 12:12:58
+date: 2024-05-31T07:39:52.619Z
+updated: 2024-06-01T07:39:52.619Z
 tags: 
   - screen-recording
   - ai video
@@ -219,4 +219,5 @@ Voice Memos is a helpful tool for iOS and Mac users. You can easily record audio
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

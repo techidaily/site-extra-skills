@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Real-Time Videography Scaler\""
-date: 2024-05-28 17:25:12
-updated: 2024-05-30 11:31:15
+date: 2024-05-31T07:37:59.617Z
+updated: 2024-06-01T07:37:59.617Z
 tags: 
   - screen-recording
   - ai video
@@ -503,4 +503,5 @@ In many situations, we are needed to zoom edit the videos and this is where such
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

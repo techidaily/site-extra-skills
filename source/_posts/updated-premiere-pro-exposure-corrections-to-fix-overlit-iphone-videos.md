@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Premiere Pro Exposure Corrections to Fix Overlit iPhone Videos"
-date: 2024-05-29 10:47:14
-updated: 2024-05-30 12:23:12
+date: 2024-05-31T07:38:14.215Z
+updated: 2024-06-01T07:38:14.215Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Overall, it is possible for the HDR quality videos captured with an iPhone 12 ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

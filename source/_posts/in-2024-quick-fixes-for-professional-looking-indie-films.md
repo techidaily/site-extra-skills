@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quick Fixes for Professional-Looking Indie Films\""
-date: 2024-05-27 10:29:26
-updated: 2024-05-30 11:27:45
+date: 2024-05-31T07:38:12.092Z
+updated: 2024-06-01T07:38:12.092Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Experiment with other props at home and see which hack evolved from them. You ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

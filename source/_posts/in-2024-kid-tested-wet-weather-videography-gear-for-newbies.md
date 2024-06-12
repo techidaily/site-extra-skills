@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Kid-Tested Wet Weather Videography Gear for Newbies\""
-date: 2024-05-25 16:25:18
-updated: 2024-05-28 11:23:47
+date: 2024-05-31T07:41:44.807Z
+updated: 2024-06-01T07:41:44.807Z
 tags: 
   - screen-recording
   - ai video
@@ -950,4 +950,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

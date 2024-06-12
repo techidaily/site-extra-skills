@@ -1,7 +1,7 @@
 ---
 title: "[New] Quick Tips for Transcribing Audio to Text Using Microsoft Word"
-date: 2024-05-27 17:29:23
-updated: 2024-05-30 10:42:28
+date: 2024-05-31T07:38:47.335Z
+updated: 2024-06-01T07:38:47.335Z
 tags: 
   - screen-recording
   - ai video
@@ -312,4 +312,5 @@ Microsoft Word's speech-to-text feature is not perfect, but it can be a huge tim
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

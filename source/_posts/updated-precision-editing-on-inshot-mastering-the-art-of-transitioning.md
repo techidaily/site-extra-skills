@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Precision Editing on Inshot  Mastering the Art of Transitioning\""
-date: 2024-05-27 20:49:32
-updated: 2024-05-29 11:26:52
+date: 2024-05-31T07:39:34.158Z
+updated: 2024-06-01T07:39:34.158Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Secrets to Mastering Canva  10 Insider Tips for Editors\""
-date: 2024-05-28 22:16:26
-updated: 2024-05-30 12:48:30
+date: 2024-05-31T07:40:11.051Z
+updated: 2024-06-01T07:40:11.051Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ Anyone can learn photo editing skills if they are provided with accurate guideli
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Pixels  A Guide to the 11 Best Edits for Color Balance\""
-date: 2024-05-27 20:51:41
-updated: 2024-05-29 12:44:11
+date: 2024-05-31T07:37:09.523Z
+updated: 2024-06-01T07:37:09.523Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ In short, we've touched on many different color grading tutorials that simplify 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

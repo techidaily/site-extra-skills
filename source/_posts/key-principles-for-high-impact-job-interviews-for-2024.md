@@ -1,7 +1,7 @@
 ---
 title: "\"Key Principles For High-Impact Job Interviews for 2024\""
-date: 2024-05-27 23:29:50
-updated: 2024-05-28 12:40:53
+date: 2024-05-31T07:39:21.330Z
+updated: 2024-06-01T07:39:21.330Z
 tags: 
   - screen-recording
   - ai video
@@ -100,4 +100,5 @@ Make a YouTube opening that's decent enough to get you started rather than aimin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

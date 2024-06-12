@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leveraging Windows 11 for Professional-Grade Video Crafting\""
-date: 2024-05-26 17:30:11
-updated: 2024-05-28 11:32:13
+date: 2024-05-31T07:40:38.310Z
+updated: 2024-06-01T07:40:38.310Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ocean's Bounty - Best Cameras for Anglers\""
-date: 2024-05-26 14:23:37
-updated: 2024-05-29 11:21:58
+date: 2024-05-31T07:40:44.804Z
+updated: 2024-06-01T07:40:44.804Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

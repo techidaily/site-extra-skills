@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, IPhone Photo Perfection  Implement These 10 Composition Tenets\""
-date: 2024-05-26 16:36:11
-updated: 2024-05-28 11:51:39
+date: 2024-05-31T07:37:09.648Z
+updated: 2024-06-01T07:37:09.648Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sony's Shutterbug  Fixing the No-Video Fiasco\""
-date: 2024-05-29 11:36:36
-updated: 2024-05-31 10:14:51
+date: 2024-05-31T07:36:05.754Z
+updated: 2024-06-01T07:36:05.754Z
 tags: 
   - screen-recording
   - ai video
@@ -450,4 +450,5 @@ Knowing why you can’t see videos on Sony A6400 is essential because it allows 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

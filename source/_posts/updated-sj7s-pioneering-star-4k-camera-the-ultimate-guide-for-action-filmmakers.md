@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] SJ7's Pioneering Star 4K Camera - The Ultimate Guide for Action Filmmakers\""
-date: 2024-05-30 18:50:11
-updated: 2024-05-31 11:16:30
+date: 2024-05-31T07:38:23.153Z
+updated: 2024-06-01T07:38:23.153Z
 tags: 
   - screen-recording
   - ai video
@@ -694,4 +694,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

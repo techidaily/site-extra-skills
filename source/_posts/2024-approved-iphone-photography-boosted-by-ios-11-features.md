@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  IPhone Photography Boosted by iOS 11 Features\""
-date: 2024-05-27 17:48:56
-updated: 2024-05-28 11:37:53
+date: 2024-05-31T07:38:07.700Z
+updated: 2024-06-01T07:38:07.700Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

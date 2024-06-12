@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through GoPro's Burst Recording Options for 2024"
-date: 2024-05-28 21:58:56
-updated: 2024-05-29 12:14:59
+date: 2024-05-31T07:40:55.742Z
+updated: 2024-06-01T07:40:55.742Z
 tags: 
   - screen-recording
   - ai video
@@ -198,4 +198,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

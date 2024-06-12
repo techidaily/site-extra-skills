@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sticker Creation From GIFs  A Step-by-Step Tutorial for Discs and Chats\""
-date: 2024-05-28 17:17:17
-updated: 2024-05-31 12:26:48
+date: 2024-05-31T07:37:54.273Z
+updated: 2024-06-01T07:37:54.273Z
 tags: 
   - screen-recording
   - ai video
@@ -208,4 +208,5 @@ Also, while doing this conversion, make customizations based on the type of comm
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

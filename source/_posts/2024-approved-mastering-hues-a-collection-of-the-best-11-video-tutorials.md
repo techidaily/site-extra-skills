@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Hues  A Collection of the Best 11 Video Tutorials\""
-date: 2024-05-26 23:29:37
-updated: 2024-05-28 10:48:24
+date: 2024-05-31T07:41:38.808Z
+updated: 2024-06-01T07:41:38.808Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ In short, we've touched on many different color grading tutorials that simplify 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] PS5/Xbox Series X  Elite Console Companion Screens\""
-date: 2024-05-29 12:15:59
-updated: 2024-05-30 12:10:59
+date: 2024-05-31T07:36:34.042Z
+updated: 2024-06-01T07:36:34.042Z
 tags: 
   - screen-recording
   - ai video
@@ -554,4 +554,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

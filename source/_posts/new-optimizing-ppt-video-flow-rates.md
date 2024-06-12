@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimizing PPT Video Flow Rates"
-date: 2024-05-28 11:45:22
-updated: 2024-05-29 11:12:36
+date: 2024-05-31T07:40:11.514Z
+updated: 2024-06-01T07:40:11.514Z
 tags: 
   - screen-recording
   - ai video
@@ -650,4 +650,5 @@ Some most common reasons for this issue include:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

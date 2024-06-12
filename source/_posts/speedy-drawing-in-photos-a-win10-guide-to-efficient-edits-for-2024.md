@@ -1,7 +1,7 @@
 ---
 title: "\"Speedy Drawing in Photos  A Win10 Guide to Efficient Edits for 2024\""
-date: 2024-05-29 16:21:53
-updated: 2024-05-31 10:53:17
+date: 2024-05-31T07:38:01.037Z
+updated: 2024-06-01T07:38:01.037Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Simplified Steps  Capturing Breathtaking Time-Lapses on Black Hero5\""
-date: 2024-05-28 18:52:14
-updated: 2024-05-31 10:54:57
+date: 2024-05-31T07:38:05.651Z
+updated: 2024-06-01T07:38:05.651Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

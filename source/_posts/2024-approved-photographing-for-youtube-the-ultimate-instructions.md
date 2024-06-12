@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Photographing for YouTube  The Ultimate Instructions\""
-date: 2024-05-26 18:37:38
-updated: 2024-05-29 12:30:19
+date: 2024-05-31T07:37:28.434Z
+updated: 2024-06-01T07:37:28.434Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ By the time you are done reading this article, you should be able to upload a ph
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

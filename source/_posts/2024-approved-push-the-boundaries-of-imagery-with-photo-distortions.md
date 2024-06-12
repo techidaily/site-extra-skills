@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Push the Boundaries of Imagery with Photo Distortions\""
-date: 2024-05-27 20:21:12
-updated: 2024-05-30 12:28:27
+date: 2024-05-31T07:35:57.956Z
+updated: 2024-06-01T07:35:57.956Z
 tags: 
   - screen-recording
   - ai video
@@ -882,4 +882,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

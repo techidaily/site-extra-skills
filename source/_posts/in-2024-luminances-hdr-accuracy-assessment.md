@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Luminance's HDR Accuracy Assessment"
-date: 2024-05-27 16:18:15
-updated: 2024-05-28 10:37:14
+date: 2024-05-31T07:36:54.722Z
+updated: 2024-06-01T07:36:54.722Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ In addition to that, if you're looking to edit HDR videos with high quality, we 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Seeing Beyond the Ordinary with AR"
-date: 2024-05-27 22:18:54
-updated: 2024-05-30 11:11:50
+date: 2024-05-31T07:36:32.770Z
+updated: 2024-06-01T07:36:32.770Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Solving iPhone X's Identity Crisis  Fixing Face ID Failures\""
-date: 2024-05-30 21:17:58
-updated: 2024-05-31 10:34:21
+date: 2024-05-31T07:37:48.076Z
+updated: 2024-06-01T07:37:48.076Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Pivotal Moments in Figure Skating '22 Highlights"
-date: 2024-05-26 10:51:41
-updated: 2024-05-29 10:37:34
+date: 2024-05-31T07:38:31.350Z
+updated: 2024-06-01T07:38:31.350Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

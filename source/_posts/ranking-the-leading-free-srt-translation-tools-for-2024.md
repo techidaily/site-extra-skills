@@ -1,7 +1,7 @@
 ---
 title: "Ranking the Leading Free SRT Translation Tools for 2024"
-date: 2024-05-28 23:23:27
-updated: 2024-05-30 11:16:36
+date: 2024-05-31T07:37:38.035Z
+updated: 2024-06-01T07:37:38.035Z
 tags: 
   - screen-recording
   - ai video
@@ -898,4 +898,5 @@ If you want to try another one, then make sure to keep the pointers explained ab
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

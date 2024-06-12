@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Camera Basics  Top 8 Recommendations\""
-date: 2024-05-25 21:34:37
-updated: 2024-05-28 12:54:25
+date: 2024-05-31T07:40:56.453Z
+updated: 2024-06-01T07:40:56.453Z
 tags: 
   - screen-recording
   - ai video
@@ -734,4 +734,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

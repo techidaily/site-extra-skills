@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Integrative Motion Analysis Compendium"
-date: 2024-05-24 14:28:36
-updated: 2024-05-27 10:25:55
+date: 2024-05-31T07:41:29.585Z
+updated: 2024-06-01T07:41:29.585Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Alight Motion editing app has lived up to the expectation of being the first mot
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

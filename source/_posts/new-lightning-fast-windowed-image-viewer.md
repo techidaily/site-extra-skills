@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Lightning-Fast Windowed Image Viewer\""
-date: 2024-05-26 17:11:56
-updated: 2024-05-28 10:43:20
+date: 2024-05-31T07:36:52.545Z
+updated: 2024-06-01T07:36:52.545Z
 tags: 
   - screen-recording
   - ai video
@@ -331,4 +331,5 @@ Access the **Default Apps** menu from the **Settings** option of your OS. Then, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

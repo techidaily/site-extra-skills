@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Navigating Close Shots  Avoiding Distortion in Videoleap Videos\""
-date: 2024-05-27 15:19:31
-updated: 2024-05-29 10:51:49
+date: 2024-05-31T07:36:07.769Z
+updated: 2024-06-01T07:36:07.769Z
 tags: 
   - screen-recording
   - ai video
@@ -129,4 +129,5 @@ Videoleap is one of the leading video editing platforms available out there. The
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

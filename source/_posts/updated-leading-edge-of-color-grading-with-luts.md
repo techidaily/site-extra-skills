@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Leading Edge of Color Grading with LUTs"
-date: 2024-05-27 16:16:36
-updated: 2024-05-28 11:55:50
+date: 2024-05-31T07:41:41.071Z
+updated: 2024-06-01T07:41:41.071Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ To download the app, visit the official website of 3D LUT Creator at:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

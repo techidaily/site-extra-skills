@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Prime Mobile Clips  10 Video Phones Rated High\""
-date: 2024-05-28 11:48:50
-updated: 2024-05-30 11:17:51
+date: 2024-05-31T07:39:30.764Z
+updated: 2024-06-01T07:39:30.764Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Joining a live cohort where you can learn the methods, tactics, and resources th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

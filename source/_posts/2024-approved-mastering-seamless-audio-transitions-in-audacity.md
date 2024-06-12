@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Seamless Audio Transitions in Audacity\""
-date: 2024-05-27 20:11:55
-updated: 2024-05-28 11:13:55
+date: 2024-05-31T07:40:06.009Z
+updated: 2024-06-01T07:40:06.009Z
 tags: 
   - screen-recording
   - ai video
@@ -188,4 +188,5 @@ In summary, Audacity is a free audio tool that's really simple to use. By utiliz
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

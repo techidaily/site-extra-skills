@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Photoshop Wizardry for Bending Photos"
-date: 2024-05-26 11:31:44
-updated: 2024-05-29 11:47:22
+date: 2024-05-31T07:40:29.880Z
+updated: 2024-06-01T07:40:29.880Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

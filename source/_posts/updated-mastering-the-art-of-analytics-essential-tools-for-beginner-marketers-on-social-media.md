@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering the Art of Analytics  Essential Tools for Beginner Marketers on Social Media\""
-date: 2024-05-26 19:55:32
-updated: 2024-05-28 11:32:18
+date: 2024-05-31T07:39:35.712Z
+updated: 2024-06-01T07:39:35.712Z
 tags: 
   - screen-recording
   - ai video
@@ -175,4 +175,5 @@ Just remember, consistently and genuinely caring about your audience is what wil
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

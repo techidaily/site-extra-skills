@@ -1,7 +1,7 @@
 ---
 title: "[New] Sonic Artistry and Video Prowess in Sony's Xperia XZ"
-date: 2024-05-28 22:18:54
-updated: 2024-05-31 12:21:45
+date: 2024-05-31T07:37:53.595Z
+updated: 2024-06-01T07:37:53.595Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Radial Magic  Transforming Ordinary Photos Into Art for 2024\""
-date: 2024-05-27 19:21:33
-updated: 2024-05-30 10:55:39
+date: 2024-05-31T07:41:40.106Z
+updated: 2024-06-01T07:41:40.106Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Pro Video & Photography  Harnessing the Power of Hero5 Black for 2024\""
-date: 2024-05-27 16:18:17
-updated: 2024-05-30 11:38:11
+date: 2024-05-31T07:39:32.276Z
+updated: 2024-06-01T07:39:32.276Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfecting Pro Photography  IPhone's Best Light Tactics\""
-date: 2024-05-28 13:27:55
-updated: 2024-05-29 11:58:59
+date: 2024-05-31T07:36:11.632Z
+updated: 2024-06-01T07:36:11.632Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

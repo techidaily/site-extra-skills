@@ -1,7 +1,7 @@
 ---
 title: "Spectral Rgb Vs Srgb Formats for 2024"
-date: 2024-05-29 20:11:44
-updated: 2024-05-31 11:37:58
+date: 2024-05-31T07:40:41.499Z
+updated: 2024-06-01T07:40:41.499Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ As a digital photographer, your main focus can be an artistic expression rather 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

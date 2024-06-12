@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Master iPhone Cams with These Hacks"
-date: 2024-05-26 20:54:57
-updated: 2024-05-28 10:40:39
+date: 2024-05-31T07:38:03.761Z
+updated: 2024-06-01T07:38:03.761Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

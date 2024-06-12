@@ -1,7 +1,7 @@
 ---
 title: "[New] Perfect Photo Motion Blur with Adobe Photoshop Tips"
-date: 2024-05-27 22:43:35
-updated: 2024-05-29 10:19:26
+date: 2024-05-31T07:38:53.000Z
+updated: 2024-06-01T07:38:53.000Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Smartphone Showdown  10 Titans of Content Creation\""
-date: 2024-05-29 11:56:45
-updated: 2024-05-31 12:48:49
+date: 2024-05-31T07:40:54.934Z
+updated: 2024-06-01T07:40:54.934Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Joining a live cohort where you can learn the methods, tactics, and resources th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

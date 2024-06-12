@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Navigating the World of LUT-Based Color Correction\""
-date: 2024-05-27 20:37:26
-updated: 2024-05-29 11:19:40
+date: 2024-05-31T07:36:46.209Z
+updated: 2024-06-01T07:36:46.209Z
 tags: 
   - screen-recording
   - ai video
@@ -133,4 +133,5 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

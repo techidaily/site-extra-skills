@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Flight  A Complete Review of the DJI Inspire 2 Drone\""
-date: 2024-05-27 23:19:32
-updated: 2024-05-28 11:51:51
+date: 2024-05-31T07:40:05.187Z
+updated: 2024-06-01T07:40:05.187Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

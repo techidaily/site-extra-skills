@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Professional Filmmaking Secrets  The Ultimate Guide to 11 Color Edits\""
-date: 2024-05-29 13:26:49
-updated: 2024-05-30 11:29:30
+date: 2024-05-31T07:41:49.711Z
+updated: 2024-06-01T07:41:49.711Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ In short, we've touched on many different color grading tutorials that simplify 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

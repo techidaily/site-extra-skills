@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Refine Your Images Quickly - Free/Paid LUT Options for Canon\""
-date: 2024-05-27 15:11:41
-updated: 2024-05-30 12:43:53
+date: 2024-05-31T07:40:56.539Z
+updated: 2024-06-01T07:40:56.539Z
 tags: 
   - screen-recording
   - ai video
@@ -180,4 +180,5 @@ Surf the above discussed free and paid version of LUTS and bring out the best in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

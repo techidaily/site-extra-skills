@@ -1,7 +1,7 @@
 ---
 title: "\"SRT Transition  The Ultimate SUBCAP Guide for 2024\""
-date: 2024-05-28 11:43:32
-updated: 2024-05-31 12:44:16
+date: 2024-05-31T07:36:57.724Z
+updated: 2024-06-01T07:36:57.724Z
 tags: 
   - screen-recording
   - ai video
@@ -543,4 +543,5 @@ If you are facing issues opening and playing SRT subtitle files on your device, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

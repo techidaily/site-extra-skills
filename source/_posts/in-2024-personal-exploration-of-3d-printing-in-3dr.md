@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Personal Exploration of 3D Printing in '3DR'"
-date: 2024-05-27 10:47:26
-updated: 2024-05-29 10:49:34
+date: 2024-05-31T07:39:12.170Z
+updated: 2024-06-01T07:39:12.170Z
 tags: 
   - screen-recording
   - ai video
@@ -366,4 +366,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

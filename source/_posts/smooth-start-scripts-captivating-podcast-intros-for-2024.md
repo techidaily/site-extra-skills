@@ -1,7 +1,7 @@
 ---
 title: "\"Smooth Start Scripts  Captivating Podcast Intros for 2024\""
-date: 2024-05-28 14:17:14
-updated: 2024-05-31 12:51:42
+date: 2024-05-31T07:37:52.794Z
+updated: 2024-06-01T07:37:52.794Z
 tags: 
   - screen-recording
   - ai video
@@ -428,4 +428,5 @@ And hopefully, after going over the crux and tips mentioned above, you will be a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

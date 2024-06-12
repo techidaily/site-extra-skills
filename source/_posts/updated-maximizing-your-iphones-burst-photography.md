@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Maximizing Your iPhone's Burst Photography"
-date: 2024-05-25 12:19:14
-updated: 2024-05-28 10:37:21
+date: 2024-05-31T07:40:30.642Z
+updated: 2024-06-01T07:40:30.642Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

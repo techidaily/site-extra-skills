@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Milliseconds & Megabits  Deconstructing 20MB Videos\""
-date: 2024-05-27 15:43:20
-updated: 2024-05-28 11:44:29
+date: 2024-05-31T07:36:45.954Z
+updated: 2024-06-01T07:36:45.954Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Simplifying Video Editing with Windows Movie Maker for Windows 8 Users"
-date: 2024-05-29 12:32:55
-updated: 2024-05-31 12:19:31
+date: 2024-05-31T07:36:20.821Z
+updated: 2024-06-01T07:36:20.821Z
 tags: 
   - screen-recording
   - ai video
@@ -123,4 +123,5 @@ If you are looking for an alternative that can replace windows movie maker with 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

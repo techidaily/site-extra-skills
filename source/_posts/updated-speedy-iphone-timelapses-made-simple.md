@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Speedy iPhone Timelapses Made Simple"
-date: 2024-05-28 19:26:12
-updated: 2024-05-31 12:15:46
+date: 2024-05-31T07:36:28.390Z
+updated: 2024-06-01T07:36:28.390Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

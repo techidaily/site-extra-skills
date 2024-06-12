@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Spectrum Signatures  Filmmaker's Guide to Adjustment\""
-date: 2024-05-29 15:39:28
-updated: 2024-05-31 10:46:34
+date: 2024-05-31T07:36:59.683Z
+updated: 2024-06-01T07:36:59.683Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

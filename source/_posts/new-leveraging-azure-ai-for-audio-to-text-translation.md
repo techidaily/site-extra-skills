@@ -1,7 +1,7 @@
 ---
 title: "[New] Leveraging Azure AI for Audio to Text Translation"
-date: 2024-05-25 11:32:31
-updated: 2024-05-28 12:36:30
+date: 2024-05-31T07:37:09.159Z
+updated: 2024-06-01T07:37:09.159Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ In that case, use a more straightforward option like Google Docs to dictate text
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

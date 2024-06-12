@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quantity of Videos on 128GB Storage Media"
-date: 2024-05-27 19:41:22
-updated: 2024-05-30 10:18:55
+date: 2024-05-31T07:36:03.737Z
+updated: 2024-06-01T07:36:03.737Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ A wide range of softwares and applications help with video compressing features 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

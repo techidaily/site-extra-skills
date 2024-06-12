@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Podcasts Vs. YouTube  Making an Informed Media Decision\""
-date: 2024-05-27 19:42:17
-updated: 2024-05-29 10:37:43
+date: 2024-05-31T07:40:46.648Z
+updated: 2024-06-01T07:40:46.648Z
 tags: 
   - screen-recording
   - ai video
@@ -562,4 +562,5 @@ If you prefer to create playful and exciting content, then vlogs might be more y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

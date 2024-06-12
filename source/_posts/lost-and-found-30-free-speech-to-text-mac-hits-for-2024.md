@@ -1,7 +1,7 @@
 ---
 title: "\"Lost and Found  30 Free Speech-to-Text Mac Hits for 2024\""
-date: 2024-05-26 20:13:42
-updated: 2024-05-28 11:29:52
+date: 2024-05-31T07:36:05.083Z
+updated: 2024-06-01T07:36:05.083Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ A 2017 Stanford study states that speech to text is about[three times faster tha
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

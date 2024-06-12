@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Instagram Group Photography for 2024"
-date: 2024-05-26 17:48:45
-updated: 2024-05-28 11:53:19
+date: 2024-05-31T07:41:02.320Z
+updated: 2024-06-01T07:41:02.320Z
 tags: 
   - screen-recording
   - ai video
@@ -670,4 +670,5 @@ Grids, quite simply, is an Instagram Feed organizer. It’s perfect for making t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

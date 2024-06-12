@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shape-Shifting Photos  Creating Effective Warps & Curves in PS\""
-date: 2024-05-29 10:49:48
-updated: 2024-05-30 11:17:20
+date: 2024-05-31T07:37:02.974Z
+updated: 2024-06-01T07:37:02.974Z
 tags: 
   - screen-recording
   - ai video
@@ -882,4 +882,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Spotlight Synthesis  Blending Lights for Video Excellence\""
-date: 2024-05-28 23:47:42
-updated: 2024-05-31 11:40:56
+date: 2024-05-31T07:40:02.912Z
+updated: 2024-06-01T07:40:02.912Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

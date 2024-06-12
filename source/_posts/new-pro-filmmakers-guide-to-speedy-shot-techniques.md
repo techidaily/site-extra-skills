@@ -1,7 +1,7 @@
 ---
 title: "[New] Pro Filmmaker's Guide to Speedy Shot Techniques"
-date: 2024-05-27 10:27:38
-updated: 2024-05-30 12:48:48
+date: 2024-05-31T07:41:32.745Z
+updated: 2024-06-01T07:41:32.745Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Experiment with other props at home and see which hack evolved from them. You ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

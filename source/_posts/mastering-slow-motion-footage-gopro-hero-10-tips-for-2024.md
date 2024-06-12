@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Slow-Motion Footage  GoPro Hero 10 Tips for 2024\""
-date: 2024-05-25 11:49:13
-updated: 2024-05-28 11:11:19
+date: 2024-05-31T07:40:37.022Z
+updated: 2024-06-01T07:40:37.022Z
 tags: 
   - screen-recording
   - ai video
@@ -598,4 +598,5 @@ In addition, we've included some helpful pointers which will make filming slow-m
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

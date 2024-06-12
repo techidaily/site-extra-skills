@@ -1,7 +1,7 @@
 ---
 title: "[New] PUBG Voice Transformation Hacks"
-date: 2024-05-29 12:47:30
-updated: 2024-05-30 10:52:22
+date: 2024-05-31T07:36:09.222Z
+updated: 2024-06-01T07:36:09.222Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ There are so many ways to change your voice in PUBG games, just suit it with you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

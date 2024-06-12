@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Photo Pinnacle  Top Tripods for Android & iPhones\""
-date: 2024-05-26 14:35:47
-updated: 2024-05-29 10:45:48
+date: 2024-05-31T07:36:46.439Z
+updated: 2024-06-01T07:36:46.439Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

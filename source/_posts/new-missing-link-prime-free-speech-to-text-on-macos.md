@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Missing Link  Prime Free Speech to Text on macOS\""
-date: 2024-05-27 23:18:49
-updated: 2024-05-28 12:31:24
+date: 2024-05-31T07:37:40.391Z
+updated: 2024-06-01T07:37:40.391Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ A 2017 Stanford study states that speech to text is about[three times faster tha
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

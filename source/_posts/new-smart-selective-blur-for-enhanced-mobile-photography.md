@@ -1,7 +1,7 @@
 ---
 title: "[New] Smart Selective Blur for Enhanced Mobile Photography"
-date: 2024-05-28 13:56:16
-updated: 2024-05-31 10:47:31
+date: 2024-05-31T07:38:04.997Z
+updated: 2024-06-01T07:38:04.997Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Samsung Galaxy S8  Setting New Standards for 4K Video\""
-date: 2024-05-27 10:31:39
-updated: 2024-05-30 10:11:27
+date: 2024-05-31T07:39:57.536Z
+updated: 2024-06-01T07:39:57.536Z
 tags: 
   - screen-recording
   - ai video
@@ -546,4 +546,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating Photo & Video Files in Windows 10 Like a Pro"
-date: 2024-05-27 11:55:21
-updated: 2024-05-29 10:15:32
+date: 2024-05-31T07:37:31.954Z
+updated: 2024-06-01T07:37:31.954Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

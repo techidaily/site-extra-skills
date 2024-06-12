@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Perfecting Pitched Lines  Writing Natural Conversations\""
-date: 2024-05-28 20:35:21
-updated: 2024-05-29 10:17:39
+date: 2024-05-31T07:37:24.952Z
+updated: 2024-06-01T07:37:24.952Z
 tags: 
   - screen-recording
   - ai video
@@ -229,4 +229,5 @@ In conclusion, Dialogue and Narrative Script are the most common types of script
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

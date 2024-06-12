@@ -1,7 +1,7 @@
 ---
 title: "Master Photographer's Techniques for Onscreen Cutting for 2024"
-date: 2024-05-25 23:19:16
-updated: 2024-05-28 12:11:56
+date: 2024-05-31T07:36:05.096Z
+updated: 2024-06-01T07:36:05.096Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ This article has been quite conclusive in offering proper online tools to crop i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

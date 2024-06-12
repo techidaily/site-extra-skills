@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Six Best Cinematography Tools in UHD Space\""
-date: 2024-05-28 20:38:41
-updated: 2024-05-31 11:54:40
+date: 2024-05-31T07:38:08.715Z
+updated: 2024-06-01T07:38:08.715Z
 tags: 
   - screen-recording
   - ai video
@@ -634,4 +634,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

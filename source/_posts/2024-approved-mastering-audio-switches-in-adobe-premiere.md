@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Audio Switches in Adobe Premiere\""
-date: 2024-05-27 12:21:38
-updated: 2024-05-28 11:31:59
+date: 2024-05-31T07:41:38.793Z
+updated: 2024-06-01T07:41:38.793Z
 tags: 
   - screen-recording
   - ai video
@@ -235,4 +235,5 @@ In a nutshell, it's important to use the right program to customize the fade in/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

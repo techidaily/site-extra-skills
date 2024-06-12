@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pre-Purchase  Key Facts Every Drone Buyer Should Know\""
-date: 2024-05-28 11:54:52
-updated: 2024-05-29 10:37:24
+date: 2024-05-31T07:38:54.244Z
+updated: 2024-06-01T07:38:54.244Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

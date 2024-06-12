@@ -1,7 +1,7 @@
 ---
 title: "Secret Tips for Stunning Sketches & Scans for 2024"
-date: 2024-05-28 10:49:15
-updated: 2024-05-30 11:49:21
+date: 2024-05-31T07:37:51.118Z
+updated: 2024-06-01T07:37:51.118Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ Without any doubt, Adobe Photoshop is one of the notorious tools to conduct adva
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

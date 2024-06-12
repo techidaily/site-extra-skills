@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sculpting Brilliance  A Deep Dive Into HDR in Lightroom\""
-date: 2024-05-28 20:47:59
-updated: 2024-05-30 10:58:56
+date: 2024-05-31T07:39:34.462Z
+updated: 2024-06-01T07:39:34.462Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Before using the HDR effect through Lightroom for stacked photo editing and merg
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

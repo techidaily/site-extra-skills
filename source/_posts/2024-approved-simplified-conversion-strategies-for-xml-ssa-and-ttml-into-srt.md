@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Simplified Conversion Strategies for XML, SSA & TTML Into SRT\""
-date: 2024-05-29 13:43:10
-updated: 2024-05-31 10:42:21
+date: 2024-05-31T07:38:52.638Z
+updated: 2024-06-01T07:38:52.638Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ If you still have questions in your mind, leave them in the comment section belo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

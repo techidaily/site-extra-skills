@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Inside Out  A Thorough Examination of DJI Phantom 4\""
-date: 2024-05-25 10:29:31
-updated: 2024-05-27 10:23:36
+date: 2024-05-31T07:36:47.769Z
+updated: 2024-06-01T07:36:47.769Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

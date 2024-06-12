@@ -1,7 +1,7 @@
 ---
 title: "\"Pro-Level Video Edits Made Simple in Windows 11 for 2024\""
-date: 2024-05-29 10:12:49
-updated: 2024-05-30 12:48:12
+date: 2024-05-31T07:38:16.487Z
+updated: 2024-06-01T07:38:16.487Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

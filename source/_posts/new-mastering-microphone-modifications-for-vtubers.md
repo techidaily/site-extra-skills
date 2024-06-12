@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Microphone Modifications for VTubers"
-date: 2024-05-26 10:12:49
-updated: 2024-05-28 10:18:13
+date: 2024-05-31T07:37:15.787Z
+updated: 2024-06-01T07:37:15.787Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Surviving the fierce competition in the Vtube industry can be challenging if you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

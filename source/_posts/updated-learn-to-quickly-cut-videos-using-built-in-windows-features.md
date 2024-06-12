@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Learn to Quickly Cut Videos Using Built-In Windows Features\""
-date: 2024-05-25 18:25:26
-updated: 2024-05-28 11:29:48
+date: 2024-05-31T07:41:08.357Z
+updated: 2024-06-01T07:41:08.357Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

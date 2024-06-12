@@ -1,7 +1,7 @@
 ---
 title: "\"Shade Smarts  Mastering the Art of Color Correction with Speed for 2024\""
-date: 2024-05-28 10:15:30
-updated: 2024-05-30 10:14:28
+date: 2024-05-31T07:41:19.654Z
+updated: 2024-06-01T07:41:19.654Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Apply the gradient by clicking within the shapes. Click “OK” to save your ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

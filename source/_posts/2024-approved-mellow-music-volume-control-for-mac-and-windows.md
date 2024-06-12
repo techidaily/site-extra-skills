@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mellow Music Volume Control for Mac & Windows\""
-date: 2024-05-25 22:24:27
-updated: 2024-05-28 12:36:58
+date: 2024-05-31T07:37:47.300Z
+updated: 2024-06-01T07:37:47.300Z
 tags: 
   - screen-recording
   - ai video
@@ -212,4 +212,5 @@ Adding fade music effects is not only about making money or trying to add spine 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Isolating Still Images From Motion in Windows 11 Photos"
-date: 2024-05-27 10:44:36
-updated: 2024-05-28 12:46:16
+date: 2024-05-31T07:36:34.440Z
+updated: 2024-06-01T07:36:34.440Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

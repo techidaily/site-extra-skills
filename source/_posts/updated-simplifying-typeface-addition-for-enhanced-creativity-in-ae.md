@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Simplifying Typeface Addition for Enhanced Creativity in AE"
-date: 2024-05-28 15:48:29
-updated: 2024-05-31 10:49:29
+date: 2024-05-31T07:39:42.408Z
+updated: 2024-06-01T07:39:42.408Z
 tags: 
   - screen-recording
   - ai video
@@ -129,4 +129,5 @@ The article discussed the detailed process of **how to add font to Adobe After E
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Photoshop Tutorial  Creating 3D Text Illusions\""
-date: 2024-05-28 12:37:56
-updated: 2024-05-29 10:50:54
+date: 2024-05-31T07:41:03.450Z
+updated: 2024-06-01T07:41:03.450Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

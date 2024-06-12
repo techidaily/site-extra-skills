@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leading Six Innovative Full Frame Cinematographers"
-date: 2024-05-26 15:49:22
-updated: 2024-05-28 11:44:10
+date: 2024-05-31T07:36:49.879Z
+updated: 2024-06-01T07:36:49.879Z
 tags: 
   - screen-recording
   - ai video
@@ -634,4 +634,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

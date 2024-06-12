@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfect Your Editing  Full Mastery of FCP\""
-date: 2024-05-28 15:44:14
-updated: 2024-05-29 10:23:44
+date: 2024-05-31T07:40:33.775Z
+updated: 2024-06-01T07:40:33.775Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ Hopefully, it is quite clear to you now "What is Final Cut Pro"? You know the ke
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

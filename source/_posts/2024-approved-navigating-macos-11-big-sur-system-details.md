@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating MacOS 11 Big Sur - System Details\""
-date: 2024-05-27 19:55:44
-updated: 2024-05-29 12:17:59
+date: 2024-05-31T07:36:02.199Z
+updated: 2024-06-01T07:36:02.199Z
 tags: 
   - screen-recording
   - ai video
@@ -402,4 +402,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

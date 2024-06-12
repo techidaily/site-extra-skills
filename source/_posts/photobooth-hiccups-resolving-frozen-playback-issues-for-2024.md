@@ -1,7 +1,7 @@
 ---
 title: "\"Photobooth Hiccups  Resolving Frozen Playback Issues for 2024\""
-date: 2024-05-28 20:30:38
-updated: 2024-05-29 12:42:13
+date: 2024-05-31T07:41:45.988Z
+updated: 2024-06-01T07:41:45.988Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ Select the file type that best suits the project you're working on from the Form
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

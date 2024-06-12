@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Photo Realism in Artwork  Illustrator Motion Magic\""
-date: 2024-05-28 10:23:55
-updated: 2024-05-29 12:43:49
+date: 2024-05-31T07:39:03.527Z
+updated: 2024-06-01T07:39:03.527Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ There are several ways to loop a video on Vimeo. The best way out is to go for V
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

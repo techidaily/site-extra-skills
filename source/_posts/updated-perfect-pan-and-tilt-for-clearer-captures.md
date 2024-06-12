@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfect Pan & Tilt for Clearer Captures"
-date: 2024-05-27 10:28:57
-updated: 2024-05-29 12:28:25
+date: 2024-05-31T07:38:41.080Z
+updated: 2024-06-01T07:38:41.080Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

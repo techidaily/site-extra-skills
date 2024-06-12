@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Lifting Large Loads - Drone Power Rankings\""
-date: 2024-05-27 19:15:43
-updated: 2024-05-28 10:53:31
+date: 2024-05-31T07:37:22.012Z
+updated: 2024-06-01T07:37:22.012Z
 tags: 
   - screen-recording
   - ai video
@@ -490,4 +490,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

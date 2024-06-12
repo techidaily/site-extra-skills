@@ -1,7 +1,7 @@
 ---
 title: "\"Spectral Time-Freeze Instruction for 2024\""
-date: 2024-05-29 12:42:20
-updated: 2024-05-31 11:40:36
+date: 2024-05-31T07:40:59.182Z
+updated: 2024-06-01T07:40:59.182Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ As filmmakers and video lovers, we have come up with some solid examples of time
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

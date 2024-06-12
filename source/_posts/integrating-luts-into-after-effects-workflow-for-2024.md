@@ -1,7 +1,7 @@
 ---
 title: "Integrating LUTs Into After Effects Workflow for 2024"
-date: 2024-05-26 14:41:15
-updated: 2024-05-27 11:31:36
+date: 2024-05-31T07:38:15.457Z
+updated: 2024-06-01T07:38:15.457Z
 tags: 
   - screen-recording
   - ai video
@@ -410,4 +410,5 @@ Adobe After Effects allows you to use LUTs on multiple clips. However, you need 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Solo Podcast Production for Top Spots for 2024"
-date: 2024-05-25 16:35:38
-updated: 2024-05-28 11:34:26
+date: 2024-05-31T07:37:44.423Z
+updated: 2024-06-01T07:37:44.423Z
 tags: 
   - screen-recording
   - ai video
@@ -521,4 +521,5 @@ If you're planning to do a solo podcast, you need to create a clear outline of w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

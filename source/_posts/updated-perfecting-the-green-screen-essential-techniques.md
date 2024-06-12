@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Perfecting the Green Screen  Essential Techniques\""
-date: 2024-05-28 20:21:18
-updated: 2024-05-29 11:15:59
+date: 2024-05-31T07:37:10.128Z
+updated: 2024-06-01T07:37:10.128Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pitch Perfect  Crafting Characters' Spoken Language\""
-date: 2024-05-28 23:47:23
-updated: 2024-05-29 10:52:15
+date: 2024-05-31T07:41:43.372Z
+updated: 2024-06-01T07:41:43.372Z
 tags: 
   - screen-recording
   - ai video
@@ -229,4 +229,5 @@ In conclusion, Dialogue and Narrative Script are the most common types of script
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

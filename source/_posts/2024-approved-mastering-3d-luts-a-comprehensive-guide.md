@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering 3D LUTs  A Comprehensive Guide\""
-date: 2024-05-27 18:45:10
-updated: 2024-05-28 11:36:32
+date: 2024-05-31T07:37:35.025Z
+updated: 2024-06-01T07:37:35.025Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ To download the app, visit the official website of 3D LUT Creator at:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

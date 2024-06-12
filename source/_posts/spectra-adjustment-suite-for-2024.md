@@ -1,7 +1,7 @@
 ---
 title: "Spectra Adjustment Suite for 2024"
-date: 2024-05-30 11:33:48
-updated: 2024-05-31 10:58:19
+date: 2024-05-31T07:41:32.885Z
+updated: 2024-06-01T07:41:32.885Z
 tags: 
   - screen-recording
   - ai video
@@ -463,4 +463,5 @@ With apps like Filmora, color correcting is simple and quick to do on mobile dev
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

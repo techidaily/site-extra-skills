@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leading 10 Lenses Revolutionizing Photography"
-date: 2024-05-27 14:16:34
-updated: 2024-05-28 12:52:18
+date: 2024-05-31T07:39:49.061Z
+updated: 2024-06-01T07:39:49.061Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Another query arises after taking a look at these new camera lens prices. Is it 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

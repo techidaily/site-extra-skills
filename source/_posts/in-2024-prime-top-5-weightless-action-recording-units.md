@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Prime Top 5 Weightless Action Recording Units"
-date: 2024-05-27 11:30:14
-updated: 2024-05-30 11:15:32
+date: 2024-05-31T07:38:59.242Z
+updated: 2024-06-01T07:38:59.242Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Scripted Time Warps  A Cinematic Approach\""
-date: 2024-05-27 14:51:47
-updated: 2024-05-30 12:38:47
+date: 2024-05-31T07:37:04.959Z
+updated: 2024-06-01T07:37:04.959Z
 tags: 
   - screen-recording
   - ai video
@@ -520,4 +520,5 @@ Create for you and add different effects and experiment with new features. You w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering 360-Degree Edits in Adobe Premiere Pro\""
-date: 2024-05-26 17:19:31
-updated: 2024-05-28 11:43:45
+date: 2024-05-31T07:37:13.130Z
+updated: 2024-06-01T07:37:13.130Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

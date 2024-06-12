@@ -1,7 +1,7 @@
 ---
 title: "[New] Perfecting Small Details on Google Meet Screen"
-date: 2024-05-27 21:52:10
-updated: 2024-05-29 12:53:47
+date: 2024-05-31T07:41:39.240Z
+updated: 2024-06-01T07:41:39.240Z
 tags: 
   - screen-recording
   - ai video
@@ -95,4 +95,5 @@ You may show additional information on your Google Meet by zooming in and out. O
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

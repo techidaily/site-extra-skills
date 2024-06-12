@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Key Gear for Broadcast Engineers and Directors"
-date: 2024-05-25 19:40:50
-updated: 2024-05-28 10:43:57
+date: 2024-05-31T07:39:39.877Z
+updated: 2024-06-01T07:39:39.877Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

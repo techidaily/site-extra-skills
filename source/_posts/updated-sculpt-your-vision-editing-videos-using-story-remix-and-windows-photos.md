@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sculpt Your Vision  Editing Videos Using Story Remix and Windows Photos\""
-date: 2024-05-27 16:54:20
-updated: 2024-05-30 11:29:10
+date: 2024-05-31T07:36:17.564Z
+updated: 2024-06-01T07:36:17.564Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

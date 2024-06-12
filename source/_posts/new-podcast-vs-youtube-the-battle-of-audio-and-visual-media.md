@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Podcast vs YouTube  The Battle of Audio and Visual Media\""
-date: 2024-05-26 19:52:23
-updated: 2024-05-29 12:50:14
+date: 2024-05-31T07:36:48.423Z
+updated: 2024-06-01T07:36:48.423Z
 tags: 
   - screen-recording
   - ai video
@@ -562,4 +562,5 @@ If you prefer to create playful and exciting content, then vlogs might be more y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

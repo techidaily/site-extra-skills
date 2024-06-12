@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Live Streaming Showdown  OBS vs Wirecast Faceoff\""
-date: 2024-05-25 19:15:29
-updated: 2024-05-28 12:38:48
+date: 2024-05-31T07:36:53.753Z
+updated: 2024-06-01T07:36:53.753Z
 tags: 
   - screen-recording
   - ai video
@@ -370,4 +370,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

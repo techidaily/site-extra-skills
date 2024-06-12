@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Insider Insights  Unpacking the DJI Phantom 3 Pro Features\""
-date: 2024-05-25 16:28:41
-updated: 2024-05-27 11:46:37
+date: 2024-05-31T07:41:22.328Z
+updated: 2024-06-01T07:41:22.328Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Kicking Off with Keyframe Quality Controls"
-date: 2024-05-27 14:59:26
-updated: 2024-05-28 12:35:34
+date: 2024-05-31T07:38:59.410Z
+updated: 2024-06-01T07:38:59.410Z
 tags: 
   - screen-recording
   - ai video
@@ -366,4 +366,5 @@ After sharing a lot of information about video resolutions, this article conclud
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

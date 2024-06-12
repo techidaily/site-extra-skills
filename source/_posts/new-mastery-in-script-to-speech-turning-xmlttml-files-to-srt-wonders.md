@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastery in Script-to-Speech  Turning XML/TTML Files to SRT Wonders\""
-date: 2024-05-27 16:34:59
-updated: 2024-05-28 11:11:36
+date: 2024-05-31T07:36:34.479Z
+updated: 2024-06-01T07:36:34.479Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ If you still have questions in your mind, leave them in the comment section belo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

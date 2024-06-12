@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Playwrights' Tactics  Creating Compelling Dialogues\""
-date: 2024-05-27 12:33:43
-updated: 2024-05-29 11:21:40
+date: 2024-05-31T07:36:59.005Z
+updated: 2024-06-01T07:36:59.005Z
 tags: 
   - screen-recording
   - ai video
@@ -229,4 +229,5 @@ In conclusion, Dialogue and Narrative Script are the most common types of script
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

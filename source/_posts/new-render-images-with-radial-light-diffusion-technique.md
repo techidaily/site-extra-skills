@@ -1,7 +1,7 @@
 ---
 title: "[New] Render Images with Radial Light Diffusion Technique"
-date: 2024-05-28 18:55:33
-updated: 2024-05-30 10:50:26
+date: 2024-05-31T07:38:50.566Z
+updated: 2024-06-01T07:38:50.566Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

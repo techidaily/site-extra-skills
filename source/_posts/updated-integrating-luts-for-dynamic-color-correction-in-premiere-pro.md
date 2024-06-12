@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Integrating LUTs for Dynamic Color Correction in Premiere Pro"
-date: 2024-05-25 23:37:53
-updated: 2024-05-27 12:48:22
+date: 2024-05-31T07:40:09.940Z
+updated: 2024-06-01T07:40:09.940Z
 tags: 
   - screen-recording
   - ai video
@@ -117,4 +117,5 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

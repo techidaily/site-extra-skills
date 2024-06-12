@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Photo to Pixellated Panels Pro  Windows & Mac Edition\""
-date: 2024-05-28 16:48:31
-updated: 2024-05-29 12:52:54
+date: 2024-05-31T07:41:01.444Z
+updated: 2024-06-01T07:41:01.444Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

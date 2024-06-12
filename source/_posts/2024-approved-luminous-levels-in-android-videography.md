@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Luminous Levels in Android Videography\""
-date: 2024-05-25 22:14:22
-updated: 2024-05-28 11:59:42
+date: 2024-05-31T07:41:13.468Z
+updated: 2024-06-01T07:41:13.468Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ If you need to adjust the brightness of your video, a video editing app like Fil
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pro Photography Insiders  Top Picks for 6 Premium 4K DSLRs\""
-date: 2024-05-27 10:17:38
-updated: 2024-05-30 11:50:15
+date: 2024-05-31T07:41:46.585Z
+updated: 2024-06-01T07:41:46.585Z
 tags: 
   - screen-recording
   - ai video
@@ -642,4 +642,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

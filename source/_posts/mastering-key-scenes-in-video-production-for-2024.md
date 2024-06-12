@@ -1,7 +1,7 @@
 ---
 title: "Mastering Key Scenes in Video Production for 2024"
-date: 2024-05-25 11:18:56
-updated: 2024-05-28 12:28:51
+date: 2024-05-31T07:37:36.915Z
+updated: 2024-06-01T07:37:36.915Z
 tags: 
   - screen-recording
   - ai video
@@ -758,4 +758,5 @@ For macOS 10.14 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

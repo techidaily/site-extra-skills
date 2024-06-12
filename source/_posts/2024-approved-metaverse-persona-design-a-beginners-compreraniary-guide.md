@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Metaverse Persona Design  A Beginner's Compreraniary Guide\""
-date: 2024-05-26 13:19:31
-updated: 2024-05-28 11:17:35
+date: 2024-05-31T07:37:30.930Z
+updated: 2024-06-01T07:37:30.930Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ After this technological evolution took the internet on a storm, we often hear t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

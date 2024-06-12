@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Starting Point for Motion Visual Effects"
-date: 2024-05-28 13:33:37
-updated: 2024-05-31 12:13:56
+date: 2024-05-31T07:37:36.559Z
+updated: 2024-06-01T07:37:36.559Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

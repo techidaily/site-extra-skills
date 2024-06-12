@@ -1,7 +1,7 @@
 ---
 title: "\"Soft Shadows on Smiles  Introducing Motion Blur to Faces in Photos with Picsart for 2024\""
-date: 2024-05-30 13:30:33
-updated: 2024-05-31 11:20:10
+date: 2024-05-31T07:40:30.612Z
+updated: 2024-06-01T07:40:30.612Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ This article has provided a comprehensive guide on how to do motion blur on Pics
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Starting with Hauls  A Step-by-Step Editing Manual\""
-date: 2024-05-29 10:55:30
-updated: 2024-05-31 11:33:21
+date: 2024-05-31T07:37:31.655Z
+updated: 2024-06-01T07:37:31.655Z
 tags: 
   - screen-recording
   - ai video
@@ -184,4 +184,5 @@ And if you're looking for a simple but powerful video editor for Personal Comput
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

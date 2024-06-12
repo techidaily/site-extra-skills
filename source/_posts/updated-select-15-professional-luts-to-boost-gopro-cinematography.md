@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Select 15 Professional LUTs to Boost GoPro Cinematography"
-date: 2024-05-28 13:27:56
-updated: 2024-05-30 12:35:13
+date: 2024-05-31T07:41:42.045Z
+updated: 2024-06-01T07:41:42.045Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ Use the above discussed GoPro LUTs to enhance the overall look. Connect with the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

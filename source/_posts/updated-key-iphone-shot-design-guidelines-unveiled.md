@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Key iPhone Shot Design Guidelines Unveiled"
-date: 2024-05-26 12:19:57
-updated: 2024-05-28 11:49:36
+date: 2024-05-31T07:41:18.958Z
+updated: 2024-06-01T07:41:18.958Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

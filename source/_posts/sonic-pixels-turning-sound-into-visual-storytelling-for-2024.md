@@ -1,7 +1,7 @@
 ---
 title: "\"Sonic Pixels  Turning Sound Into Visual Storytelling for 2024\""
-date: 2024-05-29 15:39:13
-updated: 2024-05-31 12:19:34
+date: 2024-05-31T07:40:14.112Z
+updated: 2024-06-01T07:40:14.112Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

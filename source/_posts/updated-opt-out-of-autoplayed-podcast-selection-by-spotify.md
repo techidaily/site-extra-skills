@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Opt-Out of Autoplayed Podcast Selection by Spotify\""
-date: 2024-05-27 10:48:29
-updated: 2024-05-29 10:51:33
+date: 2024-05-31T07:36:02.005Z
+updated: 2024-06-01T07:36:02.005Z
 tags: 
   - screen-recording
   - ai video
@@ -130,4 +130,5 @@ So, now you know **how to remove a podcast from your shows on Spotify**. Whether
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Leveraging Patient Stories  A Guide to Powerful Videography\""
-date: 2024-05-26 17:35:36
-updated: 2024-05-28 10:39:11
+date: 2024-05-31T07:39:13.531Z
+updated: 2024-06-01T07:39:13.531Z
 tags: 
   - screen-recording
   - ai video
@@ -116,4 +116,5 @@ If you're looking to boost your sales with testimonial videos, then you need to 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

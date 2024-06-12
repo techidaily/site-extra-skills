@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Minuscule Cinematic Design"
-date: 2024-05-25 12:24:21
-updated: 2024-05-28 10:11:37
+date: 2024-05-31T07:37:10.565Z
+updated: 2024-06-01T07:37:10.565Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

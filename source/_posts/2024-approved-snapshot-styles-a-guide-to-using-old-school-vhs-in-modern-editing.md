@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Snapshot Styles  A Guide to Using Old-School VHS in Modern Editing\""
-date: 2024-05-30 15:22:58
-updated: 2024-05-31 10:37:43
+date: 2024-05-31T07:36:39.920Z
+updated: 2024-06-01T07:36:39.920Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ To apply the **80s VHS effects**, you can take assistance from Wondershare Filmo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

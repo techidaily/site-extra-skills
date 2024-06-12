@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Integrating Secondary Shots  A Filmmaker's Blueprint\""
-date: 2024-05-24 15:53:53
-updated: 2024-05-27 12:50:50
+date: 2024-05-31T07:39:19.847Z
+updated: 2024-06-01T07:39:19.847Z
 tags: 
   - screen-recording
   - ai video
@@ -106,4 +106,5 @@ We sincerely hope that this post will be of use to you in making your films more
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Revolutionize Visual Storytelling by Incorporating CG Central's Look-Up Tables (Luts)\""
-date: 2024-05-28 15:58:22
-updated: 2024-05-30 10:43:38
+date: 2024-05-31T07:39:25.188Z
+updated: 2024-06-01T07:39:25.188Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ In summary, we've seen some different color grading LUTs that simplify the color
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

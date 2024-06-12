@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Professional Radial Effects  Step-by-Step Guide for Photoshop Experts\""
-date: 2024-05-27 18:39:52
-updated: 2024-05-30 10:44:33
+date: 2024-05-31T07:36:59.468Z
+updated: 2024-06-01T07:36:59.468Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

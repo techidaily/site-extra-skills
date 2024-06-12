@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sculpting Soundscapes  The Fading Trick\""
-date: 2024-05-28 18:52:56
-updated: 2024-05-30 11:22:32
+date: 2024-05-31T07:36:25.466Z
+updated: 2024-06-01T07:36:25.466Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ In essence, Ableton just refuses to display fades on certain songs. Fades won't 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

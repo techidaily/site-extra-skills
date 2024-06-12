@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Motorola's Genius  In-Depth Review of Z2 Play\""
-date: 2024-05-27 10:10:50
-updated: 2024-05-29 11:14:19
+date: 2024-05-31T07:39:41.682Z
+updated: 2024-06-01T07:39:41.682Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

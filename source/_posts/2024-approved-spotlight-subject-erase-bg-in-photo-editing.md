@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Spotlight Subject, Erase Bg in Photo Editing\""
-date: 2024-05-28 18:20:41
-updated: 2024-05-31 10:19:28
+date: 2024-05-31T07:38:49.390Z
+updated: 2024-06-01T07:38:49.390Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ Hopefully, this article and video can help you create ideal images!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

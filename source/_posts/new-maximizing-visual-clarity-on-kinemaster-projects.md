@@ -1,7 +1,7 @@
 ---
 title: "[New] Maximizing Visual Clarity on Kinemaster Projects"
-date: 2024-05-26 17:46:43
-updated: 2024-05-28 12:51:23
+date: 2024-05-31T07:37:39.645Z
+updated: 2024-06-01T07:37:39.645Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ Now you can see how to zoom in/out videos on Kinemaster. You can practice it on 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

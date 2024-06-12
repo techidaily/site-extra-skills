@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pro Video Cameras Rated - Your Guide to the Best\""
-date: 2024-05-27 10:41:22
-updated: 2024-05-30 12:17:39
+date: 2024-05-31T07:38:28.636Z
+updated: 2024-06-01T07:38:28.636Z
 tags: 
   - screen-recording
   - ai video
@@ -1566,4 +1566,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

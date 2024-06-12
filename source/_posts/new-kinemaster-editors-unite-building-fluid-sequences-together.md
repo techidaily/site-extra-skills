@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Kinemaster Editors Unite  Building Fluid Sequences Together\""
-date: 2024-05-25 18:20:34
-updated: 2024-05-28 12:31:20
+date: 2024-05-31T07:40:59.907Z
+updated: 2024-06-01T07:40:59.907Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Thus, in this guide, you learned how to add transition effect in Kinemaster and 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

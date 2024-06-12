@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Overcoming Technical Hurdles in iPhone X's Facial Detection"
-date: 2024-05-26 12:38:36
-updated: 2024-05-29 10:25:34
+date: 2024-05-31T07:38:12.910Z
+updated: 2024-06-01T07:38:12.910Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

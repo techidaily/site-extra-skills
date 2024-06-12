@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimal 6 Solutions for Video Captioning"
-date: 2024-05-26 20:31:35
-updated: 2024-05-29 10:56:38
+date: 2024-05-31T07:36:14.115Z
+updated: 2024-06-01T07:36:14.115Z
 tags: 
   - screen-recording
   - ai video
@@ -347,4 +347,5 @@ Use the above video translator to make your video stand out!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

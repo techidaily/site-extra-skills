@@ -1,7 +1,7 @@
 ---
 title: "[New] Leading Graphics for High Res Media Creation"
-date: 2024-05-25 19:22:57
-updated: 2024-05-28 11:13:57
+date: 2024-05-31T07:36:53.414Z
+updated: 2024-06-01T07:36:53.414Z
 tags: 
   - screen-recording
   - ai video
@@ -630,4 +630,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

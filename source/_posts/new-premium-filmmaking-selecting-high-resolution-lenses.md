@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Premium Filmmaking  Selecting High-Resolution Lenses\""
-date: 2024-05-29 13:11:10
-updated: 2024-05-30 11:43:40
+date: 2024-05-31T07:39:45.342Z
+updated: 2024-06-01T07:39:45.342Z
 tags: 
   - screen-recording
   - ai video
@@ -898,4 +898,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

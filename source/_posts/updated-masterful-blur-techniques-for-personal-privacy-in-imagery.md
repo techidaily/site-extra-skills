@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Masterful Blur Techniques for Personal Privacy in Imagery"
-date: 2024-05-27 17:27:23
-updated: 2024-05-28 12:18:59
+date: 2024-05-31T07:41:27.074Z
+updated: 2024-06-01T07:41:27.074Z
 tags: 
   - screen-recording
   - ai video
@@ -1030,4 +1030,5 @@ Step 13: Once you are satisfied with your edits, click File at the upper left si
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

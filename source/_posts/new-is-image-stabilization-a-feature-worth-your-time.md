@@ -1,7 +1,7 @@
 ---
 title: "[New] Is Image Stabilization a Feature Worth Your Time?"
-date: 2024-05-26 14:11:52
-updated: 2024-05-28 12:54:19
+date: 2024-05-31T07:41:22.552Z
+updated: 2024-06-01T07:41:22.552Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

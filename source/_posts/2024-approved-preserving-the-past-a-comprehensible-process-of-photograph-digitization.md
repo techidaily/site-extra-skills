@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Preserving the Past  A Comprehensible Process of Photograph Digitization\""
-date: 2024-05-29 16:50:18
-updated: 2024-05-30 11:10:10
+date: 2024-05-31T07:41:25.626Z
+updated: 2024-06-01T07:41:25.626Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

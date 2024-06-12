@@ -1,7 +1,7 @@
 ---
 title: "\"Nexus Core Systems  Single Screen, High Definition Touch for 2024\""
-date: 2024-05-27 20:41:37
-updated: 2024-05-29 10:11:14
+date: 2024-05-31T07:39:40.457Z
+updated: 2024-06-01T07:39:40.457Z
 tags: 
   - screen-recording
   - ai video
@@ -606,4 +606,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

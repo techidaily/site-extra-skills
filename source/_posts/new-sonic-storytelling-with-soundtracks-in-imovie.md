@@ -1,7 +1,7 @@
 ---
 title: "[New] Sonic Storytelling with Soundtracks in iMovie"
-date: 2024-05-29 22:34:51
-updated: 2024-05-31 10:21:53
+date: 2024-05-31T07:40:03.248Z
+updated: 2024-06-01T07:40:03.248Z
 tags: 
   - screen-recording
   - ai video
@@ -638,4 +638,5 @@ Should you discover that iMovie might not be for you, Filmora is a great startin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

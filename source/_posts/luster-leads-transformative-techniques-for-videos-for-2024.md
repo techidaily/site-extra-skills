@@ -1,7 +1,7 @@
 ---
 title: "\"Luster Leads  Transformative Techniques for Videos for 2024\""
-date: 2024-05-26 22:32:48
-updated: 2024-05-28 11:44:28
+date: 2024-05-31T07:40:21.273Z
+updated: 2024-06-01T07:40:21.273Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

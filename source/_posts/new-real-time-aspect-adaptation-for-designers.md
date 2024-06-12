@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Real-Time Aspect Adaptation for Designers\""
-date: 2024-05-28 14:51:14
-updated: 2024-05-30 11:13:14
+date: 2024-05-31T07:37:52.728Z
+updated: 2024-06-01T07:37:52.728Z
 tags: 
   - screen-recording
   - ai video
@@ -986,4 +986,5 @@ When you go to the "DVD" tab, you will notice various aspect ratio options. Swit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

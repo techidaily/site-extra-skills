@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Master Class  Review of DJI Inspire 2\""
-date: 2024-05-25 18:45:12
-updated: 2024-05-28 12:56:47
+date: 2024-05-31T07:37:20.578Z
+updated: 2024-06-01T07:37:20.578Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating the Metaverse with a Quick Avatar Design"
-date: 2024-05-28 19:15:36
-updated: 2024-05-29 10:50:15
+date: 2024-05-31T07:38:45.637Z
+updated: 2024-06-01T07:38:45.637Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ After this technological evolution took the internet on a storm, we often hear t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

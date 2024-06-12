@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Live Streamer Showdown  Pick Your Champion Between Wirecast and OBS\""
-date: 2024-05-26 16:28:13
-updated: 2024-05-28 12:18:58
+date: 2024-05-31T07:37:04.614Z
+updated: 2024-06-01T07:37:04.614Z
 tags: 
   - screen-recording
   - ai video
@@ -370,4 +370,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

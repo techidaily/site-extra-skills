@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sony BDP- S3700 Review - Updated\""
-date: 2024-05-29 21:46:21
-updated: 2024-05-31 12:25:58
+date: 2024-05-31T07:37:05.798Z
+updated: 2024-06-01T07:37:05.798Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

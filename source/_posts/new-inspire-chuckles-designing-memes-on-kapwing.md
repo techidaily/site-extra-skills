@@ -1,7 +1,7 @@
 ---
 title: "[New] Inspire Chuckles – Designing Memes on Kapwing"
-date: 2024-05-24 17:27:26
-updated: 2024-05-27 12:17:25
+date: 2024-05-31T07:37:09.877Z
+updated: 2024-06-01T07:37:09.877Z
 tags: 
   - screen-recording
   - ai video
@@ -168,4 +168,5 @@ In the Meme world, there are numerous tools available for creating memes. Among 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

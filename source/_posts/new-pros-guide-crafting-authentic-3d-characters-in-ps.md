@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pro's Guide  Crafting Authentic 3D Characters in PS\""
-date: 2024-05-28 17:15:39
-updated: 2024-05-30 12:18:56
+date: 2024-05-31T07:37:21.396Z
+updated: 2024-06-01T07:37:21.396Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

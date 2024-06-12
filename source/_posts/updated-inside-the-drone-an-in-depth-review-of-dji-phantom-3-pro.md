@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Inside the Drone  An In-Depth Review of DJI Phantom 3 Pro\""
-date: 2024-05-25 15:19:15
-updated: 2024-05-27 12:39:32
+date: 2024-05-31T07:36:57.741Z
+updated: 2024-06-01T07:36:57.741Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

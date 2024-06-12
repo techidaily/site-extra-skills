@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering the Art of Using Multiframe in Browsing - Edge Edition\""
-date: 2024-05-27 16:42:40
-updated: 2024-05-28 10:15:51
+date: 2024-05-31T07:38:39.981Z
+updated: 2024-06-01T07:38:39.981Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ PIP on Android and desktop is now a native utility feature on Microsoft Edge tha
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

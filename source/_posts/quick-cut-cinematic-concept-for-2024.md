@@ -1,7 +1,7 @@
 ---
 title: "Quick Cut Cinematic Concept for 2024"
-date: 2024-05-27 12:22:30
-updated: 2024-05-30 10:41:12
+date: 2024-05-31T07:36:27.409Z
+updated: 2024-06-01T07:36:27.409Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

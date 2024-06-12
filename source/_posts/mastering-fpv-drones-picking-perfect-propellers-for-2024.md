@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering FPV Drones  Picking Perfect Propellers for 2024\""
-date: 2024-05-25 14:48:23
-updated: 2024-05-28 12:55:43
+date: 2024-05-31T07:38:48.841Z
+updated: 2024-06-01T07:38:48.841Z
 tags: 
   - screen-recording
   - ai video
@@ -366,4 +366,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

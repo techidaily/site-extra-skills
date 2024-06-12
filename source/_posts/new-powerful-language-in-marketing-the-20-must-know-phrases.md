@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Powerful Language in Marketing - The 20 Must-Know Phrases\""
-date: 2024-05-28 19:37:53
-updated: 2024-05-29 10:10:27
+date: 2024-05-31T07:39:31.345Z
+updated: 2024-06-01T07:39:31.345Z
 tags: 
   - screen-recording
   - ai video
@@ -194,4 +194,5 @@ Now that you have the best marketing words and phrases in your vocabulary, it's 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

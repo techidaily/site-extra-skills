@@ -1,7 +1,7 @@
 ---
 title: "[New] Key Concepts of Interactive Storytelling"
-date: 2024-05-26 22:46:53
-updated: 2024-05-28 11:44:38
+date: 2024-05-31T07:38:26.114Z
+updated: 2024-06-01T07:38:26.114Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ Everybody has a narrative, but the craft of digital storytelling can transform a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

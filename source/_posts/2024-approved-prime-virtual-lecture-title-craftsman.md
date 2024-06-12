@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Prime Virtual Lecture Title Craftsman\""
-date: 2024-05-29 20:36:41
-updated: 2024-05-30 10:25:18
+date: 2024-05-31T07:38:41.416Z
+updated: 2024-06-01T07:38:41.416Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Are you having trouble coming up with a title for your most recent webinar? Ther
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

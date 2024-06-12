@@ -1,7 +1,7 @@
 ---
 title: "Masterclass in Media Magic with Magix Video Pro X for 2024"
-date: 2024-05-26 21:32:55
-updated: 2024-05-28 11:51:32
+date: 2024-05-31T07:36:28.861Z
+updated: 2024-06-01T07:36:28.861Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ Gratitude for reading.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

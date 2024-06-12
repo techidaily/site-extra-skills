@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Integrating Harmonious Sounds Into Your Canva Videos\""
-date: 2024-05-26 18:46:49
-updated: 2024-05-27 10:37:20
+date: 2024-05-31T07:38:40.389Z
+updated: 2024-06-01T07:38:40.389Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ All these details will help you understand how to add music on Canva without any
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

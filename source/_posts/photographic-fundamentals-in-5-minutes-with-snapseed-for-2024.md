@@ -1,7 +1,7 @@
 ---
 title: "Photographic Fundamentals in 5 Minutes with Snapseed for 2024"
-date: 2024-05-28 12:55:26
-updated: 2024-05-29 10:22:33
+date: 2024-05-31T07:37:24.806Z
+updated: 2024-06-01T07:37:24.806Z
 tags: 
   - screen-recording
   - ai video
@@ -136,4 +136,5 @@ Are you tired of using various photo editors and still cannot achieve the desire
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Storage Sizing  Film Duration in GB\""
-date: 2024-05-28 10:18:14
-updated: 2024-05-31 12:49:20
+date: 2024-05-31T07:37:39.314Z
+updated: 2024-06-01T07:37:39.314Z
 tags: 
   - screen-recording
   - ai video
@@ -584,4 +584,5 @@ You can also compress your video online without finding and downloading any soft
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

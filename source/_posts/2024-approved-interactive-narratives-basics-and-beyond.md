@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Interactive Narratives Basics and Beyond\""
-date: 2024-05-24 22:55:16
-updated: 2024-05-27 10:55:10
+date: 2024-05-31T07:39:06.246Z
+updated: 2024-06-01T07:39:06.246Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ Everybody has a narrative, but the craft of digital storytelling can transform a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

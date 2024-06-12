@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Professional Audio Techniques in Audacity"
-date: 2024-05-28 11:44:34
-updated: 2024-05-30 10:27:53
+date: 2024-05-31T07:36:41.365Z
+updated: 2024-06-01T07:36:41.365Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ Simply select the necessary file format from the drop-down box that appears next
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

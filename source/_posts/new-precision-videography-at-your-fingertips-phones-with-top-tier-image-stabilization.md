@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Precision Videography at Your Fingertips  Phones with Top-Tier Image Stabilization\""
-date: 2024-05-27 13:51:41
-updated: 2024-05-29 11:49:42
+date: 2024-05-31T07:36:42.638Z
+updated: 2024-06-01T07:36:42.638Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Since you don't always have a camera to capture smooth videos, having an OIS cam
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

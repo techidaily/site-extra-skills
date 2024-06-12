@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfect Proportions for Professional Videos"
-date: 2024-05-26 18:10:28
-updated: 2024-05-29 10:14:22
+date: 2024-05-31T07:40:12.568Z
+updated: 2024-06-01T07:40:12.568Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Having your video tested on multiple devices will allow you to see a preview of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

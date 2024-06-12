@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Scriptwriting  The Creative Process\""
-date: 2024-05-29 17:33:38
-updated: 2024-05-30 12:21:21
+date: 2024-05-31T07:38:20.971Z
+updated: 2024-06-01T07:38:20.971Z
 tags: 
   - screen-recording
   - ai video
@@ -183,4 +183,5 @@ The article has provided the most information about screenplays and how to write
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

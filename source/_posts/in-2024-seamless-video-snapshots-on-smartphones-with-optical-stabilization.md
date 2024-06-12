@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Seamless Video Snapshots on Smartphones with Optical Stabilization"
-date: 2024-05-27 15:15:36
-updated: 2024-05-30 11:27:25
+date: 2024-05-31T07:40:39.363Z
+updated: 2024-06-01T07:40:39.363Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Since you don't always have a camera to capture smooth videos, having an OIS cam
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

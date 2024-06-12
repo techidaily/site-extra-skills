@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Instagram Stories  Learn to Modify Video Velocity\""
-date: 2024-05-24 19:57:20
-updated: 2024-05-27 12:27:12
+date: 2024-05-31T07:40:04.238Z
+updated: 2024-06-01T07:40:04.238Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ We have answered the frequently asked question, "how to do slow motion on Instag
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

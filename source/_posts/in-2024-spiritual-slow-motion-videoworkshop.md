@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Spiritual Slow-Motion Videoworkshop\""
-date: 2024-05-28 13:32:58
-updated: 2024-05-31 12:58:37
+date: 2024-05-31T07:38:28.412Z
+updated: 2024-06-01T07:38:28.412Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ As filmmakers and video lovers, we have come up with some solid examples of time
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

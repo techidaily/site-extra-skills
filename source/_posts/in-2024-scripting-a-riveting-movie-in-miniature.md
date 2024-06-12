@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Scripting a Riveting Movie-in-Miniature\""
-date: 2024-05-27 14:35:53
-updated: 2024-05-30 11:16:43
+date: 2024-05-31T07:41:11.389Z
+updated: 2024-06-01T07:41:11.389Z
 tags: 
   - screen-recording
   - ai video
@@ -200,4 +200,5 @@ The conclusion is that the trailer is undoubtedly an integral part of any movie 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

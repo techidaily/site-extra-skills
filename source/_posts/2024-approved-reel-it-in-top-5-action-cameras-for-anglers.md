@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Reel It In  Top 5 Action Cameras for Anglers\""
-date: 2024-05-29 15:36:29
-updated: 2024-05-30 12:18:40
+date: 2024-05-31T07:36:18.508Z
+updated: 2024-06-01T07:36:18.508Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximizing iPhone Camera Quality with HDR for 2024"
-date: 2024-05-25 18:12:17
-updated: 2024-05-28 11:25:15
+date: 2024-05-31T07:37:45.998Z
+updated: 2024-06-01T07:37:45.998Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

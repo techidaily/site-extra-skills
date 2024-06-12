@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Visual Effects  A Detailed Kinemaster Green Screen Tutorial for 2024\""
-date: 2024-05-27 17:39:31
-updated: 2024-05-28 12:12:56
+date: 2024-05-31T07:37:59.098Z
+updated: 2024-06-01T07:37:59.098Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ Hopefully, you've found this guide helpful, and now you have enough information 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

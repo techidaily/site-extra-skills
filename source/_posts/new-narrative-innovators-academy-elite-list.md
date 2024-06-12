@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Narrative Innovators Academy - Elite List\""
-date: 2024-05-26 16:38:47
-updated: 2024-05-29 10:30:25
+date: 2024-05-31T07:40:57.457Z
+updated: 2024-06-01T07:40:57.457Z
 tags: 
   - screen-recording
   - ai video
@@ -561,4 +561,5 @@ In conclusion, these were some of our recommendations for storyteller academies.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

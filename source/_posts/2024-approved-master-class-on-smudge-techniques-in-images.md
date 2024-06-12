@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Master Class on Smudge Techniques in Images\""
-date: 2024-05-26 19:26:35
-updated: 2024-05-28 11:11:18
+date: 2024-05-31T07:40:57.942Z
+updated: 2024-06-01T07:40:57.942Z
 tags: 
   - screen-recording
   - ai video
@@ -606,4 +606,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

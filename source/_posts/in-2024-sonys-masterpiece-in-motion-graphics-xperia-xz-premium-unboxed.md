@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sony's Masterpiece in Motion Graphics  Xperia XZ Premium Unboxed\""
-date: 2024-05-30 22:51:12
-updated: 2024-05-31 11:38:46
+date: 2024-05-31T07:39:11.465Z
+updated: 2024-06-01T07:39:11.465Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

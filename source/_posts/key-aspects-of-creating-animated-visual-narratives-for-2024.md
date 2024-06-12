@@ -1,7 +1,7 @@
 ---
 title: "Key Aspects of Creating Animated Visual Narratives for 2024"
-date: 2024-05-27 20:13:37
-updated: 2024-05-28 12:35:35
+date: 2024-05-31T07:38:59.275Z
+updated: 2024-06-01T07:38:59.275Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

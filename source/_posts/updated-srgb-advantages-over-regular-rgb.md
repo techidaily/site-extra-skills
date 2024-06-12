@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Srgb Advantages Over Regular Rgb"
-date: 2024-05-30 21:22:50
-updated: 2024-05-31 10:55:48
+date: 2024-05-31T07:37:43.212Z
+updated: 2024-06-01T07:37:43.212Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ As a digital photographer, your main focus can be an artistic expression rather 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Metaverse Marketing Techniques"
-date: 2024-05-25 17:36:28
-updated: 2024-05-28 10:58:12
+date: 2024-05-31T07:39:48.775Z
+updated: 2024-06-01T07:39:48.775Z
 tags: 
   - screen-recording
   - ai video
@@ -414,4 +414,5 @@ Marketing in the Metaverse is the next trending thing in the world of digital ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

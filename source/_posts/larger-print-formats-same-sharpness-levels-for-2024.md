@@ -1,7 +1,7 @@
 ---
 title: "Larger Print Formats, Same Sharpness Levels for 2024"
-date: 2024-05-27 17:48:28
-updated: 2024-05-28 11:32:18
+date: 2024-05-31T07:38:51.246Z
+updated: 2024-06-01T07:38:51.246Z
 tags: 
   - screen-recording
   - ai video
@@ -674,4 +674,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

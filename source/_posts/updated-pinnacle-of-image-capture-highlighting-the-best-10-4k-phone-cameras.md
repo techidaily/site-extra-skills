@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pinnacle of Image Capture  Highlighting the Best 10 4K Phone Cameras\""
-date: 2024-05-28 20:40:16
-updated: 2024-05-29 11:48:59
+date: 2024-05-31T07:36:19.887Z
+updated: 2024-06-01T07:36:19.887Z
 tags: 
   - screen-recording
   - ai video
@@ -586,4 +586,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

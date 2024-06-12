@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Pioneering Color Grading with 3D LUTs"
-date: 2024-05-27 19:26:49
-updated: 2024-05-29 10:20:35
+date: 2024-05-31T07:40:05.554Z
+updated: 2024-06-01T07:40:05.554Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ To download the app, visit the official website of 3D LUT Creator at:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

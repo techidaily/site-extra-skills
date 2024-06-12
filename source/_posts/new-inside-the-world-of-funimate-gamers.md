@@ -1,7 +1,7 @@
 ---
 title: "[New] Inside the World of Funimate Gamers"
-date: 2024-05-24 12:10:51
-updated: 2024-05-27 12:25:37
+date: 2024-05-31T07:40:09.733Z
+updated: 2024-06-01T07:40:09.733Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Funimate is one of the greatest fun video editing applications, allowing you to 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

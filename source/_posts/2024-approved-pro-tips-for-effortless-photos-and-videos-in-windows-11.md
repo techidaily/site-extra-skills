@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pro Tips for Effortless Photos & Videos in Windows 11\""
-date: 2024-05-29 23:51:14
-updated: 2024-05-30 10:31:57
+date: 2024-05-31T07:35:58.350Z
+updated: 2024-06-01T07:35:58.350Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

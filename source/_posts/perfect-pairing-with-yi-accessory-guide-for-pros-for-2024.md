@@ -1,7 +1,7 @@
 ---
 title: "\"Perfect Pairing with YI  Accessory Guide for Pros for 2024\""
-date: 2024-05-26 14:21:35
-updated: 2024-05-29 10:30:18
+date: 2024-05-31T07:38:05.024Z
+updated: 2024-06-01T07:38:05.024Z
 tags: 
   - screen-recording
   - ai video
@@ -878,4 +878,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

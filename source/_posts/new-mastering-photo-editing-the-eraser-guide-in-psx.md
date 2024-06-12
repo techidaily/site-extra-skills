@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Photo Editing  The Eraser Guide in PSX\""
-date: 2024-05-26 11:11:59
-updated: 2024-05-28 11:39:37
+date: 2024-05-31T07:38:07.337Z
+updated: 2024-06-01T07:38:07.337Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ Hopefully, you can use the tools in Phoshop with ease and remove images' backgro
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

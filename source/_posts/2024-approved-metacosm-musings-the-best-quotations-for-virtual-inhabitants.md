@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Metacosm Musings  The Best Quotations for Virtual Inhabitants\""
-date: 2024-05-25 23:11:59
-updated: 2024-05-28 10:13:35
+date: 2024-05-31T07:37:53.107Z
+updated: 2024-06-01T07:37:53.107Z
 tags: 
   - screen-recording
   - ai video
@@ -846,4 +846,5 @@ Therefore, meta or some other organization hoping to get into the metaverse have
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

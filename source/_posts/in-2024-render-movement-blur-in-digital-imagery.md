@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Render Movement Blur in Digital Imagery"
-date: 2024-05-28 15:40:10
-updated: 2024-05-30 12:57:32
+date: 2024-05-31T07:36:46.618Z
+updated: 2024-06-01T07:36:46.618Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

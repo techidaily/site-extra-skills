@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Investigating the Sudden Angle Shift in Instagrams Videos\""
-date: 2024-05-25 11:58:37
-updated: 2024-05-27 11:23:43
+date: 2024-05-31T07:38:14.337Z
+updated: 2024-06-01T07:38:14.337Z
 tags: 
   - screen-recording
   - ai video
@@ -498,4 +498,5 @@ You can easily rotate your videos according to the guidelines of the social medi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

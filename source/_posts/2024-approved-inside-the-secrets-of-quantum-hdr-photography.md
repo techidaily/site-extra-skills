@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Inside the Secrets of Quantum HDR Photography\""
-date: 2024-05-26 12:11:23
-updated: 2024-05-27 12:15:44
+date: 2024-05-31T07:39:10.402Z
+updated: 2024-06-01T07:39:10.402Z
 tags: 
   - screen-recording
   - ai video
@@ -202,4 +202,5 @@ All essential information anyone could want to know about Quantum HDR has been d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

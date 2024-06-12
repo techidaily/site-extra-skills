@@ -1,7 +1,7 @@
 ---
 title: "[New] Journey Camera Setup for Aspiring Cinephiles"
-date: 2024-05-25 19:17:36
-updated: 2024-05-28 12:32:21
+date: 2024-05-31T07:39:12.325Z
+updated: 2024-06-01T07:39:12.325Z
 tags: 
   - screen-recording
   - ai video
@@ -170,4 +170,5 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

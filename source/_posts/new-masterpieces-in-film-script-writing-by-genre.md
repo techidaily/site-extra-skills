@@ -1,7 +1,7 @@
 ---
 title: "[New] Masterpieces in Film Script Writing, By Genre"
-date: 2024-05-27 10:41:47
-updated: 2024-05-28 11:39:13
+date: 2024-05-31T07:40:59.972Z
+updated: 2024-06-01T07:40:59.972Z
 tags: 
   - screen-recording
   - ai video
@@ -565,4 +565,5 @@ Creating video content that can potentially go viral is no longer a complicated 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

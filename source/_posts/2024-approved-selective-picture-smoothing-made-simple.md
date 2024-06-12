@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Selective Picture Smoothing Made Simple\""
-date: 2024-05-27 12:26:10
-updated: 2024-05-30 12:47:49
+date: 2024-05-31T07:39:17.018Z
+updated: 2024-06-01T07:39:17.018Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

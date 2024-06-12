@@ -1,7 +1,7 @@
 ---
 title: "Journey to Immersive Storytelling with IOS and VR for 2024"
-date: 2024-05-27 10:47:26
-updated: 2024-05-28 11:18:41
+date: 2024-05-31T07:39:19.736Z
+updated: 2024-06-01T07:39:19.736Z
 tags: 
   - screen-recording
   - ai video
@@ -366,4 +366,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

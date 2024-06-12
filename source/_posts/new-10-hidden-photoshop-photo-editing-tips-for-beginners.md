@@ -1,7 +1,7 @@
 ---
 title: "[New] 10 Hidden Photoshop Photo Editing Tips for Beginners"
-date: 2024-05-28 19:34:52
-updated: 2024-05-29 12:25:23
+date: 2024-05-31T07:40:38.705Z
+updated: 2024-06-01T07:40:38.705Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ Without any doubt, Adobe Photoshop is one of the notorious tools to conduct adva
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

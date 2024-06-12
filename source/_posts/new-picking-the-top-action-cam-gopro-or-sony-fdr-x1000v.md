@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Picking the Top Action Cam  GoPro or Sony FDR-X1000V?\""
-date: 2024-05-26 16:20:38
-updated: 2024-05-29 11:34:10
+date: 2024-05-31T07:40:25.411Z
+updated: 2024-06-01T07:40:25.411Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

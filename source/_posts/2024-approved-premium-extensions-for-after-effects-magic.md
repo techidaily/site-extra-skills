@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Premium Extensions for After Effects Magic\""
-date: 2024-05-28 16:53:54
-updated: 2024-05-30 12:41:41
+date: 2024-05-31T07:40:11.934Z
+updated: 2024-06-01T07:40:11.934Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ On its own After Effects comes with so many post-production effects and features
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

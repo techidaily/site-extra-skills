@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Simplify Broadcasting  Merge OBS and Streamlabs (Mac)\""
-date: 2024-05-29 10:13:19
-updated: 2024-05-31 11:20:23
+date: 2024-05-31T07:41:04.045Z
+updated: 2024-06-01T07:41:04.045Z
 tags: 
   - screen-recording
   - ai video
@@ -474,4 +474,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

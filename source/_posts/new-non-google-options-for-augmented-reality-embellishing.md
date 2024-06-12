@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Non-Google Options for Augmented Reality Embellishing\""
-date: 2024-05-28 19:48:29
-updated: 2024-05-29 10:20:58
+date: 2024-05-31T07:41:17.962Z
+updated: 2024-06-01T07:41:17.962Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ Google AR Stickers are great for enhancing your photos and videos. Too bad it's 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

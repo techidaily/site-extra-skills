@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering iPhone Video Merging Techniques"
-date: 2024-05-26 19:23:49
-updated: 2024-05-28 12:28:10
+date: 2024-05-31T07:35:57.841Z
+updated: 2024-06-01T07:35:57.841Z
 tags: 
   - screen-recording
   - ai video
@@ -474,4 +474,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

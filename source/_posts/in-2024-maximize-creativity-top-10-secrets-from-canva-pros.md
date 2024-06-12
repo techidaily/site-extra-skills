@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Maximize Creativity - Top 10 Secrets From Canva Pros\""
-date: 2024-05-26 17:34:48
-updated: 2024-05-28 11:46:43
+date: 2024-05-31T07:38:58.526Z
+updated: 2024-06-01T07:38:58.526Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ Anyone can learn photo editing skills if they are provided with accurate guideli
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

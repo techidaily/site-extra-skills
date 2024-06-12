@@ -1,7 +1,7 @@
 ---
 title: "\"[New] IPhone Tips  Achieving Extended Exposure Images\""
-date: 2024-05-27 20:21:57
-updated: 2024-05-28 12:13:56
+date: 2024-05-31T07:41:33.571Z
+updated: 2024-06-01T07:41:33.571Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

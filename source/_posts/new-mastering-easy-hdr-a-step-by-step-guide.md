@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Easy HDR  A Step-by-Step Guide\""
-date: 2024-05-25 21:24:47
-updated: 2024-05-28 10:59:22
+date: 2024-05-31T07:37:11.577Z
+updated: 2024-06-01T07:37:11.577Z
 tags: 
   - screen-recording
   - ai video
@@ -285,4 +285,5 @@ There you have it. Easy HDR is arguably the most-beginner friendly program to ed
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

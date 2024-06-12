@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Photo Savvy with an iPhone  Ideal Perspectives Uncovered\""
-date: 2024-05-27 18:54:39
-updated: 2024-05-29 10:22:35
+date: 2024-05-31T07:37:45.438Z
+updated: 2024-06-01T07:37:45.438Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

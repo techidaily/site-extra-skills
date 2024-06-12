@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leading Heavy-Duty UAVs for Maximum Carry Capacity\""
-date: 2024-05-26 20:46:20
-updated: 2024-05-28 12:59:57
+date: 2024-05-31T07:36:34.113Z
+updated: 2024-06-01T07:36:34.113Z
 tags: 
   - screen-recording
   - ai video
@@ -490,4 +490,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

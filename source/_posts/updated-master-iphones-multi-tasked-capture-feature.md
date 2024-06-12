@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Master iPhone's Multi-Tasked Capture Feature\""
-date: 2024-05-27 13:46:58
-updated: 2024-05-28 10:43:13
+date: 2024-05-31T07:37:24.903Z
+updated: 2024-06-01T07:37:24.903Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

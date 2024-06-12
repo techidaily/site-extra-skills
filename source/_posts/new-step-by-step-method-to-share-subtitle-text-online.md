@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Method to Share Subtitle Text Online\""
-date: 2024-05-28 14:31:13
-updated: 2024-05-31 10:24:44
+date: 2024-05-31T07:38:15.645Z
+updated: 2024-06-01T07:38:15.645Z
 tags: 
   - screen-recording
   - ai video
@@ -295,4 +295,5 @@ However, when you're looking to edit SRT subtitle file, the best thing to do is 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

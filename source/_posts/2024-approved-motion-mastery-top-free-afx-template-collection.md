@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Motion Mastery  Top Free AFX Template Collection\""
-date: 2024-05-26 12:46:29
-updated: 2024-05-29 11:11:32
+date: 2024-05-31T07:39:27.618Z
+updated: 2024-06-01T07:39:27.618Z
 tags: 
   - screen-recording
   - ai video
@@ -337,4 +337,5 @@ Step4 You can then use the “Effects Window” to change the color as desired.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

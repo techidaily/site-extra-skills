@@ -1,7 +1,7 @@
 ---
 title: "[New] [Premium Editing] Enhance iPhone HDR with These Four Master Techniques in Adobe"
-date: 2024-05-28 20:26:32
-updated: 2024-05-30 12:26:25
+date: 2024-05-31T07:40:05.782Z
+updated: 2024-06-01T07:40:05.782Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Overall, it is possible for the HDR quality videos captured with an iPhone 12 ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

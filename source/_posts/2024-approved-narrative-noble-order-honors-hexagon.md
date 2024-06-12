@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Narrative Noble Order - Honor's Hexagon\""
-date: 2024-05-28 16:25:18
-updated: 2024-05-29 12:34:43
+date: 2024-05-31T07:41:43.772Z
+updated: 2024-06-01T07:41:43.772Z
 tags: 
   - screen-recording
   - ai video
@@ -561,4 +561,5 @@ In conclusion, these were some of our recommendations for storyteller academies.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

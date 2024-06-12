@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Digital Compositing with KineMaster's GS Capabilities"
-date: 2024-05-27 10:24:40
-updated: 2024-05-28 12:22:42
+date: 2024-05-31T07:36:53.876Z
+updated: 2024-06-01T07:36:53.876Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ Hopefully, you've found this guide helpful, and now you have enough information 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

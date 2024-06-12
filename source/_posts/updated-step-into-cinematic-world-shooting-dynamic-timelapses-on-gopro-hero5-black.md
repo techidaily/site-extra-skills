@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step Into Cinematic World  Shooting Dynamic Timelapses on GoPro Hero5 Black\""
-date: 2024-05-28 14:31:45
-updated: 2024-05-31 10:24:41
+date: 2024-05-31T07:39:11.998Z
+updated: 2024-06-01T07:39:11.998Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

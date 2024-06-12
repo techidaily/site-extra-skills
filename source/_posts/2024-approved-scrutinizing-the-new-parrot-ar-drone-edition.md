@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Scrutinizing the New Parrot AR Drone Edition\""
-date: 2024-05-28 22:56:40
-updated: 2024-05-30 12:33:20
+date: 2024-05-31T07:38:29.100Z
+updated: 2024-06-01T07:38:29.100Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

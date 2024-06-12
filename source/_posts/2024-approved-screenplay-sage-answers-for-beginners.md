@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Screenplay Sage  Answers for Beginners\""
-date: 2024-05-28 20:24:19
-updated: 2024-05-30 12:42:32
+date: 2024-05-31T07:37:08.665Z
+updated: 2024-06-01T07:37:08.665Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ We hope you have found the answer to your question. If you still have any querie
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

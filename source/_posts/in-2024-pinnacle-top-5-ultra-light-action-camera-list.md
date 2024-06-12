@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pinnacle Top 5 Ultra-Light Action Camera List\""
-date: 2024-05-28 17:47:59
-updated: 2024-05-29 11:15:55
+date: 2024-05-31T07:37:34.448Z
+updated: 2024-06-01T07:37:34.448Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

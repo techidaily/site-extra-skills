@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Max Effects for Vector Files\""
-date: 2024-05-27 21:18:37
-updated: 2024-05-28 11:24:30
+date: 2024-05-31T07:37:13.704Z
+updated: 2024-06-01T07:37:13.704Z
 tags: 
   - screen-recording
   - ai video
@@ -152,4 +152,5 @@ These PSD Text effect files are available for free download, and they're also a 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

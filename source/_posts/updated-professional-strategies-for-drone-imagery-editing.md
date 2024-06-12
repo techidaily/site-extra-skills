@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Professional Strategies for Drone Imagery Editing"
-date: 2024-05-27 15:11:51
-updated: 2024-05-30 11:55:58
+date: 2024-05-31T07:41:12.484Z
+updated: 2024-06-01T07:41:12.484Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

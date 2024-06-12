@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Scrutinizing High Dynamic Range  Insights From Luminance\""
-date: 2024-05-27 22:12:18
-updated: 2024-05-30 10:54:42
+date: 2024-05-31T07:39:26.476Z
+updated: 2024-06-01T07:39:26.476Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ In addition to that, if you're looking to edit HDR videos with high quality, we 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

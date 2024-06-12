@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplicity in Skewing Photographic Content"
-date: 2024-05-29 22:45:38
-updated: 2024-05-31 11:53:12
+date: 2024-05-31T07:40:23.157Z
+updated: 2024-06-01T07:40:23.157Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

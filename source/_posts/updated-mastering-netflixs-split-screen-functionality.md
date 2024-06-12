@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Netflix's Split Screen Functionality"
-date: 2024-05-26 10:58:15
-updated: 2024-05-28 12:17:54
+date: 2024-05-31T07:39:52.189Z
+updated: 2024-06-01T07:39:52.189Z
 tags: 
   - screen-recording
   - ai video
@@ -141,4 +141,5 @@ Now that you know how to use PiP on your device, you can now enjoy binge-watchin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

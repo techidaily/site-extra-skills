@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Microsoft Unveils Future  A 3D Reality With HoloLens\""
-date: 2024-05-25 16:15:17
-updated: 2024-05-28 12:18:13
+date: 2024-05-31T07:36:10.870Z
+updated: 2024-06-01T07:36:10.870Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

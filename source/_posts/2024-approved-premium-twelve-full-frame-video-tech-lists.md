@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Premium Twelve Full Frame Video Tech Lists\""
-date: 2024-05-27 20:34:42
-updated: 2024-05-30 10:49:51
+date: 2024-05-31T07:35:58.332Z
+updated: 2024-06-01T07:35:58.332Z
 tags: 
   - screen-recording
   - ai video
@@ -634,4 +634,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

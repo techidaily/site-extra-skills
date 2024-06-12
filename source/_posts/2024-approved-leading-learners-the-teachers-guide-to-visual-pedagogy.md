@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leading Learners  The Teacher's Guide to Visual Pedagogy\""
-date: 2024-05-27 22:35:38
-updated: 2024-05-28 12:48:27
+date: 2024-05-31T07:36:49.662Z
+updated: 2024-06-01T07:36:49.662Z
 tags: 
   - screen-recording
   - ai video
@@ -97,4 +97,5 @@ More and more research supporting the advantages of blended learning will suppor
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

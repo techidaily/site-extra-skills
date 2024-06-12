@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 10 Key Tips to Design Podcast Cover Art"
-date: 2024-05-28 16:36:40
-updated: 2024-05-29 10:27:41
+date: 2024-05-31T07:36:38.770Z
+updated: 2024-06-01T07:36:38.770Z
 tags: 
   - screen-recording
   - ai video
@@ -283,4 +283,5 @@ However, your podcast cover image can outshine competitors if you work on all th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

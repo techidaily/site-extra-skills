@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Dynamic Graphic Techniques for 2024"
-date: 2024-05-24 22:54:35
-updated: 2024-05-27 12:38:20
+date: 2024-05-31T07:37:54.892Z
+updated: 2024-06-01T07:37:54.892Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

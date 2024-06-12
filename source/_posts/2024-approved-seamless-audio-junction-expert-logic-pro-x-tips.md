@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Seamless Audio Junction  Expert Logic Pro X Tips\""
-date: 2024-05-28 10:38:42
-updated: 2024-05-30 10:50:59
+date: 2024-05-31T07:39:30.181Z
+updated: 2024-06-01T07:39:30.181Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

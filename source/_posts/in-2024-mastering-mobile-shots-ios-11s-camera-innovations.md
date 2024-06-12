@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Mobile Shots  IOS 11'S Camera Innovations\""
-date: 2024-05-26 17:31:55
-updated: 2024-05-28 10:26:43
+date: 2024-05-31T07:39:26.987Z
+updated: 2024-06-01T07:39:26.987Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

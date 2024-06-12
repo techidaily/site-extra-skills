@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Listener Attention Span Vs. Episode Count  The Podcast Puzzle\""
-date: 2024-05-25 12:17:19
-updated: 2024-05-28 10:38:57
+date: 2024-05-31T07:35:58.619Z
+updated: 2024-06-01T07:35:58.619Z
 tags: 
   - screen-recording
   - ai video
@@ -911,4 +911,5 @@ Overall, it is important to carefully plan the episode length for your podcast c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Journey Through the Metaverse  6 Illustrative Examples\""
-date: 2024-05-27 18:28:28
-updated: 2024-05-28 10:53:13
+date: 2024-05-31T07:40:43.481Z
+updated: 2024-06-01T07:40:43.481Z
 tags: 
   - screen-recording
   - ai video
@@ -430,4 +430,5 @@ Metaverse is still under development but several companies have already started 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

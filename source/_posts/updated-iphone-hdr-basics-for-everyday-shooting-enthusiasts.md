@@ -1,7 +1,7 @@
 ---
 title: "[Updated] IPhone HDR Basics for Everyday Shooting Enthusiasts"
-date: 2024-05-25 21:10:50
-updated: 2024-05-27 12:47:52
+date: 2024-05-31T07:37:11.035Z
+updated: 2024-06-01T07:37:11.035Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ This article perfectly sums up all the information you need in order to capture 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

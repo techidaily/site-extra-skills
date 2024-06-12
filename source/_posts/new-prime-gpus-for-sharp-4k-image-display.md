@@ -1,7 +1,7 @@
 ---
 title: "[New] Prime GPUs for Sharp 4K Image Display"
-date: 2024-05-28 22:23:51
-updated: 2024-05-30 10:36:11
+date: 2024-05-31T07:37:54.261Z
+updated: 2024-06-01T07:37:54.261Z
 tags: 
   - screen-recording
   - ai video
@@ -822,4 +822,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

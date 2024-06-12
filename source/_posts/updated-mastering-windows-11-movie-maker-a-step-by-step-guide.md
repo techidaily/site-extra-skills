@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Windows 11 Movie Maker  A Step-by-Step Guide\""
-date: 2024-05-27 19:42:15
-updated: 2024-05-28 11:59:34
+date: 2024-05-31T07:37:45.557Z
+updated: 2024-06-01T07:37:45.557Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ In this article, you have learned about various video editors available on Windo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

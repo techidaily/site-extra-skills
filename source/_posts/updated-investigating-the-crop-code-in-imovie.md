@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Investigating the Crop Code in iMovie"
-date: 2024-05-24 12:15:42
-updated: 2024-05-27 12:50:24
+date: 2024-05-31T07:36:56.929Z
+updated: 2024-06-01T07:36:56.929Z
 tags: 
   - screen-recording
   - ai video
@@ -228,4 +228,5 @@ Click the Text /Credit icon to add opening titles, end credits, or subtitles to 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Masterclass in 3D Color Grading with Custom LUTs for 2024"
-date: 2024-05-27 12:43:15
-updated: 2024-05-28 10:33:49
+date: 2024-05-31T07:41:11.425Z
+updated: 2024-06-01T07:41:11.425Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ To download the app, visit the official website of 3D LUT Creator at:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

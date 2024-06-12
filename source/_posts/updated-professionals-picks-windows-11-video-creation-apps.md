@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Professionals' Picks  Windows 11 Video Creation Apps\""
-date: 2024-05-29 10:28:12
-updated: 2024-05-30 11:29:12
+date: 2024-05-31T07:41:32.223Z
+updated: 2024-06-01T07:41:32.223Z
 tags: 
   - screen-recording
   - ai video
@@ -1686,4 +1686,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

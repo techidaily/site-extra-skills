@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplified Guide to Accurate Profile Ages on TikTok"
-date: 2024-05-29 15:23:42
-updated: 2024-05-31 12:25:56
+date: 2024-05-31T07:39:10.051Z
+updated: 2024-06-01T07:39:10.051Z
 tags: 
   - screen-recording
   - ai video
@@ -124,4 +124,5 @@ Protecting underage teens and kids from the negative side of the internet is imp
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

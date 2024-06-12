@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Hero5 Black  Pro Photography & Cinematography Techniques\""
-date: 2024-05-27 22:24:49
-updated: 2024-05-28 11:43:31
+date: 2024-05-31T07:37:36.764Z
+updated: 2024-06-01T07:37:36.764Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

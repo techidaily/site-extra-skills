@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering the Art of Bulk Video Import on TikTok"
-date: 2024-05-26 19:55:12
-updated: 2024-05-28 11:27:12
+date: 2024-05-31T07:39:31.989Z
+updated: 2024-06-01T07:39:31.989Z
 tags: 
   - screen-recording
   - ai video
@@ -608,4 +608,5 @@ Click the Export button when you're sure there's nothing else you want to do wit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

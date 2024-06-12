@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Making Magic Mobile  Best Phones for Media Crafting\""
-date: 2024-05-27 23:26:11
-updated: 2024-05-28 12:24:20
+date: 2024-05-31T07:37:09.339Z
+updated: 2024-06-01T07:37:09.339Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Joining a live cohort where you can learn the methods, tactics, and resources th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

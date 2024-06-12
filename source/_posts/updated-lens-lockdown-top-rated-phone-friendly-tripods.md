@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Lens Lockdown  Top-Rated Phone-Friendly Tripods\""
-date: 2024-05-25 13:42:49
-updated: 2024-05-28 10:32:10
+date: 2024-05-31T07:39:19.242Z
+updated: 2024-06-01T07:39:19.242Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

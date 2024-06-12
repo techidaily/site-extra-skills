@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pioneering Typography Online  A Curated List of The Best 9 Websites for Innovative Texts\""
-date: 2024-05-28 16:10:16
-updated: 2024-05-29 10:17:14
+date: 2024-05-31T07:38:40.012Z
+updated: 2024-06-01T07:38:40.012Z
 tags: 
   - screen-recording
   - ai video
@@ -487,4 +487,5 @@ Hopefully, you've found this article helpful and can now get the proper 3D fonts
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

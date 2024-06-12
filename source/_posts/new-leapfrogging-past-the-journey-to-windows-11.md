@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Leapfrogging Past  The Journey to Windows 11\""
-date: 2024-05-27 13:33:10
-updated: 2024-05-28 10:12:41
+date: 2024-05-31T07:36:06.571Z
+updated: 2024-06-01T07:36:06.571Z
 tags: 
   - screen-recording
   - ai video
@@ -702,4 +702,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

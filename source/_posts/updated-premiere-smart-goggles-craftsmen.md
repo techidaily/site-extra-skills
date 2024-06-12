@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Premiere Smart Goggles Craftsmen"
-date: 2024-05-28 21:56:47
-updated: 2024-05-30 11:18:45
+date: 2024-05-31T07:37:22.538Z
+updated: 2024-06-01T07:37:22.538Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

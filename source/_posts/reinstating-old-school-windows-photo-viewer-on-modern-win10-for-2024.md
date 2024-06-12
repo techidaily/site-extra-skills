@@ -1,7 +1,7 @@
 ---
 title: "\"Reinstating Old-School Windows Photo Viewer on Modern Win10 for 2024\""
-date: 2024-05-28 23:35:25
-updated: 2024-05-30 11:48:19
+date: 2024-05-31T07:36:36.189Z
+updated: 2024-06-01T07:36:36.189Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

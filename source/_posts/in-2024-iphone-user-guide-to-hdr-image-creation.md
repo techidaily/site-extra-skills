@@ -1,7 +1,7 @@
 ---
 title: "In 2024, IPhone User Guide to HDR Image Creation"
-date: 2024-05-25 12:12:23
-updated: 2024-05-28 12:34:33
+date: 2024-05-31T07:39:34.394Z
+updated: 2024-06-01T07:39:34.394Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ This article perfectly sums up all the information you need in order to capture 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

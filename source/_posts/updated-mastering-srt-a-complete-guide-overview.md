@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering SRT  A Complete Guide Overview\""
-date: 2024-05-26 16:25:47
-updated: 2024-05-28 12:13:59
+date: 2024-05-31T07:41:07.507Z
+updated: 2024-06-01T07:41:07.507Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ That being said, if you plan on using SRT for your videos you can employ the sim
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

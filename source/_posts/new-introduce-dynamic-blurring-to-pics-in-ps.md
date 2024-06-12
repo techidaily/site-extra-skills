@@ -1,7 +1,7 @@
 ---
 title: "[New] Introduce Dynamic Blurring to Pics in PS"
-date: 2024-05-25 16:38:11
-updated: 2024-05-27 10:36:24
+date: 2024-05-31T07:40:44.416Z
+updated: 2024-06-01T07:40:44.416Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Leading the Charge in Mac/Win SRT Modifications"
-date: 2024-05-26 15:39:18
-updated: 2024-05-28 10:24:38
+date: 2024-05-31T07:36:57.776Z
+updated: 2024-06-01T07:36:57.776Z
 tags: 
   - screen-recording
   - ai video
@@ -724,4 +724,5 @@ Multiple helpful software is available for Mac and Windows users to make changes
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

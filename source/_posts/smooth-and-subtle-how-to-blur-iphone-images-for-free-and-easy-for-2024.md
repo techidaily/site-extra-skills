@@ -1,7 +1,7 @@
 ---
 title: "\"Smooth and Subtle  How to Blur iPhone Images for Free & Easy for 2024\""
-date: 2024-05-28 13:32:12
-updated: 2024-05-31 12:33:14
+date: 2024-05-31T07:41:50.828Z
+updated: 2024-06-01T07:41:50.828Z
 tags: 
   - screen-recording
   - ai video
@@ -448,4 +448,5 @@ Blurring the background in a photo ensures that the main subject remains in the 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

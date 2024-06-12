@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Leveraging PIP for Multitasking in Edge Browser"
-date: 2024-05-27 17:26:15
-updated: 2024-05-28 11:15:11
+date: 2024-05-31T07:38:07.524Z
+updated: 2024-06-01T07:38:07.524Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ PIP on Android and desktop is now a native utility feature on Microsoft Edge tha
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

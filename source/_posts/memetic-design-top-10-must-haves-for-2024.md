@@ -1,7 +1,7 @@
 ---
 title: "\"Memetic Design  Top 10 Must-Haves for 2024\""
-date: 2024-05-25 11:50:13
-updated: 2024-05-28 12:32:46
+date: 2024-05-31T07:39:22.183Z
+updated: 2024-06-01T07:39:22.183Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ In summary, without some of the internet's funniest memes, there would be an une
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

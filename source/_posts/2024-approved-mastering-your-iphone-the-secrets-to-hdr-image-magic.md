@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Your iPhone  The Secrets to HDR Image Magic\""
-date: 2024-05-27 21:19:21
-updated: 2024-05-28 12:35:50
+date: 2024-05-31T07:41:01.217Z
+updated: 2024-06-01T07:41:01.217Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ This article perfectly sums up all the information you need in order to capture 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

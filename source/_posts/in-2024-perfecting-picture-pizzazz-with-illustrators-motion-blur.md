@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Perfecting Picture Pizzazz with Illustrator's Motion Blur"
-date: 2024-05-26 19:46:37
-updated: 2024-05-29 11:11:19
+date: 2024-05-31T07:40:26.875Z
+updated: 2024-06-01T07:40:26.875Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ There are several ways to loop a video on Vimeo. The best way out is to go for V
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

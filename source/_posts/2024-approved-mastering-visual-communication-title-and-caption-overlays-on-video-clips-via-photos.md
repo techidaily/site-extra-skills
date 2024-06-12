@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Visual Communication  Title & Caption Overlays on Video Clips via Photos\""
-date: 2024-05-27 10:59:32
-updated: 2024-05-28 10:22:16
+date: 2024-05-31T07:40:51.421Z
+updated: 2024-06-01T07:40:51.421Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

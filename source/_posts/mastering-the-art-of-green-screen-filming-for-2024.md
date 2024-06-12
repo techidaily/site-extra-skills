@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Green Screen Filming for 2024"
-date: 2024-05-27 10:37:27
-updated: 2024-05-28 12:59:50
+date: 2024-05-31T07:37:09.827Z
+updated: 2024-06-01T07:37:09.827Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

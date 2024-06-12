@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step Into 3D  Designing Layered, Textured Texts PSX\""
-date: 2024-05-29 20:14:48
-updated: 2024-05-31 12:49:43
+date: 2024-05-31T07:39:59.168Z
+updated: 2024-06-01T07:39:59.168Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

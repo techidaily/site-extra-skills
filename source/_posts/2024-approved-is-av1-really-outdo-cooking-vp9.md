@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Is AV1 Really Outdo Cooking VP9?\""
-date: 2024-05-25 13:26:10
-updated: 2024-05-28 11:51:27
+date: 2024-05-31T07:38:20.820Z
+updated: 2024-06-01T07:38:20.820Z
 tags: 
   - screen-recording
   - ai video
@@ -146,4 +146,5 @@ We hope this AV1 vs VP9 comparison article has dispelled all your fears about us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

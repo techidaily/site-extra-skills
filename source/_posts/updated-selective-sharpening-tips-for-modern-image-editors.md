@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Selective Sharpening Tips for Modern Image Editors"
-date: 2024-05-29 13:54:21
-updated: 2024-05-30 11:47:47
+date: 2024-05-31T07:36:08.717Z
+updated: 2024-06-01T07:36:08.717Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

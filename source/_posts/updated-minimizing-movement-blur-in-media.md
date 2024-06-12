@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Minimizing Movement Blur in Media"
-date: 2024-05-26 13:34:27
-updated: 2024-05-28 10:57:14
+date: 2024-05-31T07:41:13.308Z
+updated: 2024-06-01T07:41:13.308Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ That's why awareness can go a long way towards helping you catch potential probl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

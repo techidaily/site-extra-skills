@@ -1,7 +1,7 @@
 ---
 title: "Logic Pro X Guide to Cohesive Track Transitions for 2024"
-date: 2024-05-26 17:31:11
-updated: 2024-05-28 11:51:15
+date: 2024-05-31T07:41:09.812Z
+updated: 2024-06-01T07:41:09.812Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

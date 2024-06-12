@@ -1,7 +1,7 @@
 ---
 title: "[New] Perfect Your Mobile Photography with Targeted Blurs"
-date: 2024-05-27 10:24:17
-updated: 2024-05-29 10:12:41
+date: 2024-05-31T07:39:56.755Z
+updated: 2024-06-01T07:39:56.755Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

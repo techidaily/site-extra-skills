@@ -1,7 +1,7 @@
 ---
 title: "Snippet Screenplay Guide for 2024"
-date: 2024-05-29 19:21:51
-updated: 2024-05-31 10:13:29
+date: 2024-05-31T07:41:09.982Z
+updated: 2024-06-01T07:41:09.982Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

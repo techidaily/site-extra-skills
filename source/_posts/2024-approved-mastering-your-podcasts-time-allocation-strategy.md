@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Your Podcast's Time Allocation Strategy\""
-date: 2024-05-27 18:57:18
-updated: 2024-05-28 12:18:39
+date: 2024-05-31T07:36:27.612Z
+updated: 2024-06-01T07:36:27.612Z
 tags: 
   - screen-recording
   - ai video
@@ -911,4 +911,5 @@ Overall, it is important to carefully plan the episode length for your podcast c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

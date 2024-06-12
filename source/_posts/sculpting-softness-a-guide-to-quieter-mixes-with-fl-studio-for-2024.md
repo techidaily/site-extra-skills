@@ -1,7 +1,7 @@
 ---
 title: "\"Sculpting Softness  A Guide to Quieter Mixes with FL Studio for 2024\""
-date: 2024-05-29 10:39:17
-updated: 2024-05-30 10:44:46
+date: 2024-05-31T07:36:31.444Z
+updated: 2024-06-01T07:36:31.444Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

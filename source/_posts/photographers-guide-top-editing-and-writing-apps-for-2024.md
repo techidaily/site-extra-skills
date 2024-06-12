@@ -1,7 +1,7 @@
 ---
 title: "\"Photographer's Guide  Top Editing & Writing Apps for 2024\""
-date: 2024-05-28 17:51:59
-updated: 2024-05-29 12:49:21
+date: 2024-05-31T07:38:40.817Z
+updated: 2024-06-01T07:38:40.817Z
 tags: 
   - screen-recording
   - ai video
@@ -485,4 +485,5 @@ It's now a difficult task if you want to add text to your photos. Instead, it's 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

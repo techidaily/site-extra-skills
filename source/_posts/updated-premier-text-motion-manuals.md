@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Premier Text Motion Manuals"
-date: 2024-05-27 19:58:42
-updated: 2024-05-30 10:57:51
+date: 2024-05-31T07:39:14.346Z
+updated: 2024-06-01T07:39:14.346Z
 tags: 
   - screen-recording
   - ai video
@@ -100,4 +100,5 @@ As the saying goes, the more the merrier and the more presets you have, the more
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

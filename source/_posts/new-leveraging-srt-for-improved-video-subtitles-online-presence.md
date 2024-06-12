@@ -1,7 +1,7 @@
 ---
 title: "[New] Leveraging SRT for Improved Video Subtitles Online Presence"
-date: 2024-05-27 23:49:41
-updated: 2024-05-28 11:59:55
+date: 2024-05-31T07:35:58.586Z
+updated: 2024-06-01T07:35:58.586Z
 tags: 
   - screen-recording
   - ai video
@@ -295,4 +295,5 @@ However, when you're looking to edit SRT subtitle file, the best thing to do is 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

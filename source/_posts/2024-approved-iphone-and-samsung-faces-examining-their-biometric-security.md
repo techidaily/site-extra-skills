@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  IPhone & Samsung Faces  Examining Their Biometric Security\""
-date: 2024-05-25 19:26:50
-updated: 2024-05-28 12:30:48
+date: 2024-05-31T07:38:56.630Z
+updated: 2024-06-01T07:38:56.630Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

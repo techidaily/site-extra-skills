@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Newbie's Guide to Vlogging  Gear and Software Insights\""
-date: 2024-05-27 20:20:46
-updated: 2024-05-29 11:26:47
+date: 2024-05-31T07:37:55.602Z
+updated: 2024-06-01T07:37:55.602Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

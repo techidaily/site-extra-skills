@@ -1,7 +1,7 @@
 ---
 title: "[New] Leading 12 Free Video Trimming Apps for Android Users"
-date: 2024-05-27 15:45:38
-updated: 2024-05-28 11:36:38
+date: 2024-05-31T07:37:21.286Z
+updated: 2024-06-01T07:37:21.286Z
 tags: 
   - screen-recording
   - ai video
@@ -718,4 +718,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

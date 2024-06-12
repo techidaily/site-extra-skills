@@ -1,7 +1,7 @@
 ---
 title: "Maximizing HDR Photography Capabilities on iPhone for 2024"
-date: 2024-05-26 17:52:37
-updated: 2024-05-28 11:41:10
+date: 2024-05-31T07:37:54.130Z
+updated: 2024-06-01T07:37:54.130Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ This article perfectly sums up all the information you need in order to capture 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

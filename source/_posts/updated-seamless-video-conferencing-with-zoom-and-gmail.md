@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Seamless Video Conferencing with Zoom & Gmail"
-date: 2024-05-28 15:22:48
-updated: 2024-05-30 11:12:57
+date: 2024-05-31T07:41:37.082Z
+updated: 2024-06-01T07:41:37.082Z
 tags: 
   - screen-recording
   - ai video
@@ -240,4 +240,5 @@ In a nutshell, so that everyone can arrive on time, you would be able to easily 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

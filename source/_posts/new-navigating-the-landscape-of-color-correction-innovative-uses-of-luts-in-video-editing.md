@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating the Landscape of Color Correction  Innovative Uses of LUTs in Video Editing\""
-date: 2024-05-26 14:22:28
-updated: 2024-05-29 11:13:32
+date: 2024-05-31T07:38:29.436Z
+updated: 2024-06-01T07:38:29.436Z
 tags: 
   - screen-recording
   - ai video
@@ -117,4 +117,5 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

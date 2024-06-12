@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step  Applying the Cartoon Face Filter in Snapchat\""
-date: 2024-05-29 10:54:31
-updated: 2024-05-31 11:31:27
+date: 2024-05-31T07:36:38.168Z
+updated: 2024-06-01T07:36:38.168Z
 tags: 
   - screen-recording
   - ai video
@@ -482,4 +482,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

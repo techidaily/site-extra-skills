@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Real-Time Resizing Techniques for Designers\""
-date: 2024-05-27 12:50:17
-updated: 2024-05-30 10:21:18
+date: 2024-05-31T07:39:08.410Z
+updated: 2024-06-01T07:39:08.410Z
 tags: 
   - screen-recording
   - ai video
@@ -986,4 +986,5 @@ When you go to the "DVD" tab, you will notice various aspect ratio options. Swit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Lightroom Guide  Creating & Merging Stunning HDR Images\""
-date: 2024-05-27 20:26:47
-updated: 2024-05-28 12:28:57
+date: 2024-05-31T07:37:31.521Z
+updated: 2024-06-01T07:37:31.521Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Before using the HDR effect through Lightroom for stacked photo editing and merg
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

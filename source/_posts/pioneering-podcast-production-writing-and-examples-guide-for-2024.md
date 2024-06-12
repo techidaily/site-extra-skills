@@ -1,7 +1,7 @@
 ---
 title: "\"Pioneering Podcast Production  Writing & Examples Guide for 2024\""
-date: 2024-05-27 23:55:22
-updated: 2024-05-29 11:43:46
+date: 2024-05-31T07:36:16.557Z
+updated: 2024-06-01T07:36:16.557Z
 tags: 
   - screen-recording
   - ai video
@@ -389,4 +389,5 @@ The crux of our discussion is that a compelling podcast script makes it simple t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

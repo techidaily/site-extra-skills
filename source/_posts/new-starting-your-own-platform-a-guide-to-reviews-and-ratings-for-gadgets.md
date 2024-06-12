@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Starting Your Own Platform  A Guide to Reviews and Ratings for Gadgets\""
-date: 2024-05-28 10:21:12
-updated: 2024-05-31 12:49:36
+date: 2024-05-31T07:38:50.581Z
+updated: 2024-06-01T07:38:50.581Z
 tags: 
   - screen-recording
   - ai video
@@ -161,4 +161,5 @@ Even though the company want influencers to be fair and honest, they also expect
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

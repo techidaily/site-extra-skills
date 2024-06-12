@@ -1,7 +1,7 @@
 ---
 title: "\"LG VR 360 Review  A New Dimension of Gaming for 2024\""
-date: 2024-05-26 20:25:45
-updated: 2024-05-28 11:29:41
+date: 2024-05-31T07:36:01.663Z
+updated: 2024-06-01T07:36:01.663Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

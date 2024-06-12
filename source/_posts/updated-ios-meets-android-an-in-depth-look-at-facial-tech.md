@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IOS Meets Android  An In-Depth Look at Facial Tech\""
-date: 2024-05-26 22:33:28
-updated: 2024-05-27 12:57:45
+date: 2024-05-31T07:37:38.160Z
+updated: 2024-06-01T07:37:38.160Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

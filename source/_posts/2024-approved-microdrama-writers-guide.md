@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Microdrama Writers Guide\""
-date: 2024-05-25 15:56:35
-updated: 2024-05-28 10:32:38
+date: 2024-05-31T07:39:57.122Z
+updated: 2024-06-01T07:39:57.122Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

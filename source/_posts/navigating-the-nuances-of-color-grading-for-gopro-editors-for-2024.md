@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Nuances of Color Grading for GoPro Editors for 2024"
-date: 2024-05-28 16:17:16
-updated: 2024-05-29 11:16:50
+date: 2024-05-31T07:39:05.023Z
+updated: 2024-06-01T07:39:05.023Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

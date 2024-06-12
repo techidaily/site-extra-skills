@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Nikon's Bold Move Into 4K with The Innovative J5 Model\""
-date: 2024-05-26 14:45:34
-updated: 2024-05-29 11:47:41
+date: 2024-05-31T07:37:59.568Z
+updated: 2024-06-01T07:37:59.568Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

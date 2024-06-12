@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Introduction to Moving Visual Content"
-date: 2024-05-24 12:56:48
-updated: 2024-05-27 11:41:56
+date: 2024-05-31T07:41:47.550Z
+updated: 2024-06-01T07:41:47.550Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

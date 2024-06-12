@@ -1,7 +1,7 @@
 ---
 title: "Lowering Sounds' Strength Progressively with Lumafusion for 2024"
-date: 2024-05-25 15:51:17
-updated: 2024-05-28 10:23:10
+date: 2024-05-31T07:40:48.372Z
+updated: 2024-06-01T07:40:48.372Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

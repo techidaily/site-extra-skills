@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigate Web with Ease Using Edge's Split Screen Feature"
-date: 2024-05-27 22:22:37
-updated: 2024-05-29 11:24:41
+date: 2024-05-31T07:36:38.364Z
+updated: 2024-06-01T07:36:38.364Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ PIP on Android and desktop is now a native utility feature on Microsoft Edge tha
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Master Your YouTube Settings - Stop Auto-Play Videos\""
-date: 2024-05-25 13:47:31
-updated: 2024-05-28 11:22:23
+date: 2024-05-31T07:36:23.966Z
+updated: 2024-06-01T07:36:23.966Z
 tags: 
   - screen-recording
   - ai video
@@ -171,4 +171,5 @@ You can use a third-party app blocker to prevent advertising content across all 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

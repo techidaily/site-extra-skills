@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Firefox Multitasking with FFXP for 2024"
-date: 2024-05-27 12:25:48
-updated: 2024-05-28 10:13:54
+date: 2024-05-31T07:36:13.249Z
+updated: 2024-06-01T07:36:13.249Z
 tags: 
   - screen-recording
   - ai video
@@ -137,4 +137,5 @@ Picture-in-Picture is a nice feature that helps you increase productivity while 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

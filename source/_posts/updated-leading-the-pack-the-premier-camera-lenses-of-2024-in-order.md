@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Leading the Pack  The Premier Camera Lenses of 2024, in Order\""
-date: 2024-05-26 10:14:25
-updated: 2024-05-28 12:20:38
+date: 2024-05-31T07:41:49.327Z
+updated: 2024-06-01T07:41:49.327Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Another query arises after taking a look at these new camera lens prices. Is it 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

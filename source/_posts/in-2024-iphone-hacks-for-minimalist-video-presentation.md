@@ -1,7 +1,7 @@
 ---
 title: "In 2024, IPhone Hacks for Minimalist Video Presentation"
-date: 2024-05-24 10:46:11
-updated: 2024-05-27 10:50:26
+date: 2024-05-31T07:40:00.423Z
+updated: 2024-06-01T07:40:00.423Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

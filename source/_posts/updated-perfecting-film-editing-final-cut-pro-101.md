@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Perfecting Film Editing  Final Cut Pro 101\""
-date: 2024-05-28 13:27:26
-updated: 2024-05-29 10:26:36
+date: 2024-05-31T07:36:27.530Z
+updated: 2024-06-01T07:36:27.530Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ Hopefully, it is quite clear to you now "What is Final Cut Pro"? You know the ke
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

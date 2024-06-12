@@ -1,7 +1,7 @@
 ---
 title: "\"[New] OBS and Wirecast Bout  Which Broadcast Tool Is King?\""
-date: 2024-05-27 20:44:54
-updated: 2024-05-29 11:25:42
+date: 2024-05-31T07:37:32.259Z
+updated: 2024-06-01T07:37:32.259Z
 tags: 
   - screen-recording
   - ai video
@@ -370,4 +370,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

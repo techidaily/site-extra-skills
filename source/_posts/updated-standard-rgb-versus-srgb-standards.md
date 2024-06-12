@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Standard Rgb Versus Srgb Standards"
-date: 2024-05-28 16:54:34
-updated: 2024-05-31 10:11:19
+date: 2024-05-31T07:36:52.094Z
+updated: 2024-06-01T07:36:52.094Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ As a digital photographer, your main focus can be an artistic expression rather 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

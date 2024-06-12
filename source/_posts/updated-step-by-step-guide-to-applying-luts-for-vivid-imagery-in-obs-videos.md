@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Guide to Applying LUTs for Vivid Imagery in OBS Videos\""
-date: 2024-05-29 19:12:46
-updated: 2024-05-31 12:37:57
+date: 2024-05-31T07:39:20.214Z
+updated: 2024-06-01T07:39:20.214Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ As a result, adding professionalism to your talents is now even easier and more 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

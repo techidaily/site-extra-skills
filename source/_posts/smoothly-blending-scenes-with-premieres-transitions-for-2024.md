@@ -1,7 +1,7 @@
 ---
 title: "Smoothly Blending Scenes with Premiere's Transitions for 2024"
-date: 2024-05-29 13:21:11
-updated: 2024-05-31 11:31:53
+date: 2024-05-31T07:38:59.650Z
+updated: 2024-06-01T07:38:59.650Z
 tags: 
   - screen-recording
   - ai video
@@ -235,4 +235,5 @@ In a nutshell, it's important to use the right program to customize the fade in/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

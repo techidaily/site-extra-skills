@@ -1,7 +1,7 @@
 ---
 title: "Peak Color Alignment Tool for 2024"
-date: 2024-05-28 19:28:18
-updated: 2024-05-29 11:55:31
+date: 2024-05-31T07:38:59.605Z
+updated: 2024-06-01T07:38:59.605Z
 tags: 
   - screen-recording
   - ai video
@@ -463,4 +463,5 @@ With apps like Filmora, color correcting is simple and quick to do on mobile dev
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

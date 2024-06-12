@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Professional Strategies  Converting XML/SSA/TTML to Dynamic SRTs\""
-date: 2024-05-29 14:20:47
-updated: 2024-05-30 11:59:43
+date: 2024-05-31T07:41:18.004Z
+updated: 2024-06-01T07:41:18.004Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ If you still have questions in your mind, leave them in the comment section belo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Mastery in FREE Graphics  Top Online Resource Directory for 2024\""
-date: 2024-05-27 16:58:50
-updated: 2024-05-28 11:45:59
+date: 2024-05-31T07:40:46.018Z
+updated: 2024-06-01T07:40:46.018Z
 tags: 
   - screen-recording
   - ai video
@@ -177,4 +177,5 @@ Raster files are bitmap images that you cannot alter according to size or scale.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

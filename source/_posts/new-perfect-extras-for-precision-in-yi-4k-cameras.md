@@ -1,7 +1,7 @@
 ---
 title: "[New] Perfect Extras for Precision in YI 4K Cameras"
-date: 2024-05-27 22:44:58
-updated: 2024-05-29 11:19:50
+date: 2024-05-31T07:37:52.688Z
+updated: 2024-06-01T07:37:52.688Z
 tags: 
   - screen-recording
   - ai video
@@ -878,4 +878,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

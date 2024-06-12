@@ -1,7 +1,7 @@
 ---
 title: "[New] Pinnacle Story Planning Website"
-date: 2024-05-26 14:18:23
-updated: 2024-05-29 11:20:51
+date: 2024-05-31T07:37:53.476Z
+updated: 2024-06-01T07:37:53.476Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ To write a video script quickly, you should use templates, which are designed to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

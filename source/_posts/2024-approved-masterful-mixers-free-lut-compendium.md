@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterful Mixers' Free LUT Compendium\""
-date: 2024-05-27 17:21:31
-updated: 2024-05-28 11:12:25
+date: 2024-05-31T07:36:32.531Z
+updated: 2024-06-01T07:36:32.531Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ The LUTs are a great way to add-up effects to your photos and videos. We have in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

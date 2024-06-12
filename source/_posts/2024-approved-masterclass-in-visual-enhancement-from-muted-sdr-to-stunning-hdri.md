@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterclass in Visual Enhancement  From Muted SDR to Stunning HDRI\""
-date: 2024-05-26 17:52:47
-updated: 2024-05-28 11:52:28
+date: 2024-05-31T07:41:13.482Z
+updated: 2024-06-01T07:41:13.482Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ You can choose a proper way, like a video editor or encoder to convert the SDR v
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

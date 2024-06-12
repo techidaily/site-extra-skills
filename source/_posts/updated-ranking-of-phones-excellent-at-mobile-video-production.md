@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ranking of Phones Excellent at Mobile Video Production"
-date: 2024-05-27 16:19:40
-updated: 2024-05-30 10:34:20
+date: 2024-05-31T07:38:43.541Z
+updated: 2024-06-01T07:38:43.541Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Joining a live cohort where you can learn the methods, tactics, and resources th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

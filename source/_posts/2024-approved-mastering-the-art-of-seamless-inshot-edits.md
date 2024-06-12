@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Art of Seamless Inshot Edits\""
-date: 2024-05-26 15:36:15
-updated: 2024-05-28 11:24:10
+date: 2024-05-31T07:36:07.135Z
+updated: 2024-06-01T07:36:07.135Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

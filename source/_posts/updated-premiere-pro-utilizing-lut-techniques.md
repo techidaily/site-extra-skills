@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Premiere Pro  Utilizing LUT Techniques\""
-date: 2024-05-27 22:45:21
-updated: 2024-05-30 11:30:57
+date: 2024-05-31T07:39:17.665Z
+updated: 2024-06-01T07:39:17.665Z
 tags: 
   - screen-recording
   - ai video
@@ -117,4 +117,5 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

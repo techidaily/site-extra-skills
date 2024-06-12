@@ -1,7 +1,7 @@
 ---
 title: "Leading Picture Data Holders for 2024"
-date: 2024-05-27 10:59:41
-updated: 2024-05-28 12:20:36
+date: 2024-05-31T07:41:40.818Z
+updated: 2024-06-01T07:41:40.818Z
 tags: 
   - screen-recording
   - ai video
@@ -510,4 +510,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Skin the Subject, Eradicate Bg in Affinity"
-date: 2024-05-30 11:51:14
-updated: 2024-05-31 12:53:21
+date: 2024-05-31T07:37:08.359Z
+updated: 2024-06-01T07:37:08.359Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ Hopefully, this article and video can help you create ideal images!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

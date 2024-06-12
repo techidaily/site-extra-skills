@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Masterclass in Cutting-Edge Windows 11 Apps\""
-date: 2024-05-27 19:52:54
-updated: 2024-05-28 10:35:12
+date: 2024-05-31T07:39:22.804Z
+updated: 2024-06-01T07:39:22.804Z
 tags: 
   - screen-recording
   - ai video
@@ -1686,4 +1686,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

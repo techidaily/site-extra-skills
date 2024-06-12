@@ -1,7 +1,7 @@
 ---
 title: "Peak Craft Space 25 Appraisal for 2024"
-date: 2024-05-27 13:35:21
-updated: 2024-05-29 12:56:46
+date: 2024-05-31T07:36:29.053Z
+updated: 2024-06-01T07:36:29.053Z
 tags: 
   - screen-recording
   - ai video
@@ -90,4 +90,5 @@ There were already some decent audio editing features in  Studio. The audio part
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

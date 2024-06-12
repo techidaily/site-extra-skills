@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Precision and Panache  Advanced TikTok Editing Skills\""
-date: 2024-05-28 10:20:22
-updated: 2024-05-29 11:39:40
+date: 2024-05-31T07:37:22.260Z
+updated: 2024-06-01T07:37:22.260Z
 tags: 
   - screen-recording
   - ai video
@@ -176,4 +176,5 @@ creating, you should take pride in that! A new adventure is waiting for you.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

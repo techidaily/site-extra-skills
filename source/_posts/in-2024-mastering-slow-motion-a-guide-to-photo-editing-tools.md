@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Slow-Motion  A Guide to Photo Editing Tools\""
-date: 2024-05-27 18:20:51
-updated: 2024-05-28 10:50:51
+date: 2024-05-31T07:40:59.741Z
+updated: 2024-06-01T07:40:59.741Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

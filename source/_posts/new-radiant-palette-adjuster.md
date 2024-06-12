@@ -1,7 +1,7 @@
 ---
 title: "[New] Radiant Palette Adjuster"
-date: 2024-05-28 13:40:20
-updated: 2024-05-30 12:27:15
+date: 2024-05-31T07:37:42.928Z
+updated: 2024-06-01T07:37:42.928Z
 tags: 
   - screen-recording
   - ai video
@@ -463,4 +463,5 @@ With apps like Filmora, color correcting is simple and quick to do on mobile dev
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

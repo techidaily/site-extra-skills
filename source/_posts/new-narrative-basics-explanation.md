@@ -1,7 +1,7 @@
 ---
 title: "[New] Narrative Basics Explanation"
-date: 2024-05-27 10:47:24
-updated: 2024-05-29 10:47:36
+date: 2024-05-31T07:38:20.352Z
+updated: 2024-06-01T07:38:20.352Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ The value of storytelling can help you increase customer engagement and establis
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

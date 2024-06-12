@@ -1,7 +1,7 @@
 ---
 title: "Kinemaster's Journey Through Seamless Segmentation for 2024"
-date: 2024-05-25 21:20:31
-updated: 2024-05-28 12:35:23
+date: 2024-05-31T07:38:48.801Z
+updated: 2024-06-01T07:38:48.801Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Thus, in this guide, you learned how to add transition effect in Kinemaster and 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

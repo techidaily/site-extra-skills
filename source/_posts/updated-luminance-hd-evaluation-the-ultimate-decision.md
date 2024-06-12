@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Luminance-HD Evaluation  The Ultimate Decision?\""
-date: 2024-05-26 21:23:45
-updated: 2024-05-28 11:39:15
+date: 2024-05-31T07:39:43.205Z
+updated: 2024-06-01T07:39:43.205Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ In addition to that, if you're looking to edit HDR videos with high quality, we 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

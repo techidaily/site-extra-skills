@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering the Art of Memetics  A 9GAG Creator's Manual\""
-date: 2024-05-25 21:19:47
-updated: 2024-05-28 10:24:17
+date: 2024-05-31T07:40:12.824Z
+updated: 2024-06-01T07:40:12.824Z
 tags: 
   - screen-recording
   - ai video
@@ -150,4 +150,5 @@ Memes are a fantastic way to communicate with friends, family, and colleagues. T
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

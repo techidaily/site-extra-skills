@@ -1,7 +1,7 @@
 ---
 title: "\"[New] SRT File Handling on Cross-Platform Operating Systems\""
-date: 2024-05-30 14:45:38
-updated: 2024-05-31 11:51:23
+date: 2024-05-31T07:40:59.133Z
+updated: 2024-06-01T07:40:59.133Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ The above listed are several ways by which an SRT subtitle file can be opened on
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

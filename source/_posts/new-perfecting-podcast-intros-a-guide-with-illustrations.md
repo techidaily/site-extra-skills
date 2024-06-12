@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfecting Podcast Intros  A Guide with Illustrations\""
-date: 2024-05-28 18:13:45
-updated: 2024-05-29 11:26:23
+date: 2024-05-31T07:41:15.476Z
+updated: 2024-06-01T07:41:15.476Z
 tags: 
   - screen-recording
   - ai video
@@ -491,4 +491,5 @@ WITH [JENNA FISCHER](https://www.earwolf.com/person/jenna-fischer/) AND [ANGELA 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

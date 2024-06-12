@@ -1,7 +1,7 @@
 ---
 title: "Interactive Video Magnification System for 2024"
-date: 2024-05-24 22:26:23
-updated: 2024-05-27 12:32:59
+date: 2024-05-31T07:39:42.876Z
+updated: 2024-06-01T07:39:42.876Z
 tags: 
   - screen-recording
   - ai video
@@ -503,4 +503,5 @@ In many situations, we are needed to zoom edit the videos and this is where such
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

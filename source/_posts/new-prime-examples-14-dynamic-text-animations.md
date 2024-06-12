@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Prime Examples  14 Dynamic Text Animations\""
-date: 2024-05-28 18:43:30
-updated: 2024-05-30 12:56:36
+date: 2024-05-31T07:36:42.655Z
+updated: 2024-06-01T07:36:42.655Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ We have discussed all the common type of text animations that are used to create
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

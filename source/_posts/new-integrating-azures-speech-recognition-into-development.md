@@ -1,7 +1,7 @@
 ---
 title: "[New] Integrating Azure’s Speech Recognition Into Development"
-date: 2024-05-25 13:25:12
-updated: 2024-05-27 10:51:24
+date: 2024-05-31T07:39:09.872Z
+updated: 2024-06-01T07:39:09.872Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ In that case, use a more straightforward option like Google Docs to dictate text
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

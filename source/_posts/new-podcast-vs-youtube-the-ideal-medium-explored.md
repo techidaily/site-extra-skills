@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Podcast vs YouTube  The Ideal Medium Explored\""
-date: 2024-05-28 17:24:16
-updated: 2024-05-29 12:28:36
+date: 2024-05-31T07:40:10.596Z
+updated: 2024-06-01T07:40:10.596Z
 tags: 
   - screen-recording
   - ai video
@@ -562,4 +562,5 @@ If you prefer to create playful and exciting content, then vlogs might be more y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

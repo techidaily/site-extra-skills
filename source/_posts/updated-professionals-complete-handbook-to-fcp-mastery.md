@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Professional's Complete Handbook to FCP Mastery"
-date: 2024-05-27 22:41:48
-updated: 2024-05-30 10:52:57
+date: 2024-05-31T07:36:41.384Z
+updated: 2024-06-01T07:36:41.384Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ Hopefully, it is quite clear to you now "What is Final Cut Pro"? You know the ke
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Step-By-Step Guide to Writing Captivating Docu-Scripts for 2024\""
-date: 2024-05-28 18:26:33
-updated: 2024-05-31 12:38:50
+date: 2024-05-31T07:37:29.859Z
+updated: 2024-06-01T07:37:29.859Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ So, the last words for this educational post are that, as we all know, writing a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

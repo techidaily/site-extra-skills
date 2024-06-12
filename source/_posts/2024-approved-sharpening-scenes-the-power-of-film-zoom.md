@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sharpening Scenes  The Power of Film Zoom\""
-date: 2024-05-29 15:34:21
-updated: 2024-05-31 12:53:36
+date: 2024-05-31T07:38:24.181Z
+updated: 2024-06-01T07:38:24.181Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ Now you can see how to zoom in/out videos on Kinemaster. You can practice it on 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

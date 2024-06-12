@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating the World of Digital Backdrops  A Beginner's Guide to Chroma Keying\""
-date: 2024-05-28 22:32:27
-updated: 2024-05-29 10:31:40
+date: 2024-05-31T07:40:19.799Z
+updated: 2024-06-01T07:40:19.799Z
 tags: 
   - screen-recording
   - ai video
@@ -1166,4 +1166,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

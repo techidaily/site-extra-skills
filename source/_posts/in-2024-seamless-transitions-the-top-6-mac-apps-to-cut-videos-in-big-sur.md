@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Seamless Transitions  The Top 6 Mac Apps to Cut Videos in Big Sur\""
-date: 2024-05-27 11:51:10
-updated: 2024-05-30 10:54:47
+date: 2024-05-31T07:40:53.232Z
+updated: 2024-06-01T07:40:53.232Z
 tags: 
   - screen-recording
   - ai video
@@ -566,4 +566,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

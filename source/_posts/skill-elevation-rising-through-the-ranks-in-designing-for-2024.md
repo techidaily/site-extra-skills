@@ -1,7 +1,7 @@
 ---
 title: "\"Skill Elevation  Rising Through the Ranks in Designing for 2024\""
-date: 2024-05-30 16:49:44
-updated: 2024-05-31 12:33:22
+date: 2024-05-31T07:36:24.740Z
+updated: 2024-06-01T07:36:24.740Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ The world of graphic design depends on relationships with other people to advanc
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

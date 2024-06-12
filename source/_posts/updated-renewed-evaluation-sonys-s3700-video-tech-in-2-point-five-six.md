@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Renewed Evaluation  Sony's S3700 Video Tech in 2 Point-Five Six\""
-date: 2024-05-29 16:42:59
-updated: 2024-05-30 12:24:42
+date: 2024-05-31T07:38:10.138Z
+updated: 2024-06-01T07:38:10.138Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

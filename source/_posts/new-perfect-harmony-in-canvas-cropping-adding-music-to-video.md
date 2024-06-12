@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfect Harmony in Canvas  Cropping, Adding Music to Video\""
-date: 2024-05-26 21:27:32
-updated: 2024-05-29 12:24:39
+date: 2024-05-31T07:41:04.977Z
+updated: 2024-06-01T07:41:04.977Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ All these details will help you understand how to add music on Canva without any
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

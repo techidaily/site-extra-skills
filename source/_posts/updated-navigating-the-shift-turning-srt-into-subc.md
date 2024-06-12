@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Navigating the Shift  Turning SRT Into SUBC\""
-date: 2024-05-28 10:52:33
-updated: 2024-05-29 12:18:34
+date: 2024-05-31T07:35:59.738Z
+updated: 2024-06-01T07:35:59.738Z
 tags: 
   - screen-recording
   - ai video
@@ -543,4 +543,5 @@ If you are facing issues opening and playing SRT subtitle files on your device, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

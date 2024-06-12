@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Peering Into the Past  Publicly Shared Masterpieces\""
-date: 2024-05-27 11:43:39
-updated: 2024-05-29 11:11:52
+date: 2024-05-31T07:41:27.713Z
+updated: 2024-06-01T07:41:27.713Z
 tags: 
   - screen-recording
   - ai video
@@ -287,4 +287,5 @@ Conversely, public domain art is copyright free and does not require you to make
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

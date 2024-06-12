@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Movements  Intova X's Video Excellence\""
-date: 2024-05-26 21:57:26
-updated: 2024-05-28 12:35:12
+date: 2024-05-31T07:39:36.530Z
+updated: 2024-06-01T07:39:36.530Z
 tags: 
   - screen-recording
   - ai video
@@ -402,4 +402,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Masterful Text Effects in Adobe After Effects"
-date: 2024-05-25 21:52:29
-updated: 2024-05-28 10:53:24
+date: 2024-05-31T07:36:06.105Z
+updated: 2024-06-01T07:36:06.105Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ On its own After Effects comes with so many post-production effects and features
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

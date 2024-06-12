@@ -1,7 +1,7 @@
 ---
 title: "[New] Prime Additions for Newbie GoPro Photographers"
-date: 2024-05-29 11:48:12
-updated: 2024-05-30 12:12:42
+date: 2024-05-31T07:41:47.368Z
+updated: 2024-06-01T07:41:47.368Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ In case if you need a system to easily transfer your footage from GoPro camera t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

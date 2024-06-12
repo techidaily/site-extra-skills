@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Seamless Transitions  Shooting Smooth Time-Lapse with Hero5\""
-date: 2024-05-28 17:56:45
-updated: 2024-05-30 11:31:31
+date: 2024-05-31T07:38:10.287Z
+updated: 2024-06-01T07:38:10.287Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

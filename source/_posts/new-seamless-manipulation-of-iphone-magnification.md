@@ -1,7 +1,7 @@
 ---
 title: "[New] Seamless Manipulation of iPhone Magnification"
-date: 2024-05-28 19:27:55
-updated: 2024-05-30 10:32:25
+date: 2024-05-31T07:40:49.412Z
+updated: 2024-06-01T07:40:49.412Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

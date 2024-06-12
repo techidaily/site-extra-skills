@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Crossfades  A Premiere Pro Guide\""
-date: 2024-05-27 11:56:49
-updated: 2024-05-28 10:23:56
+date: 2024-05-31T07:38:02.342Z
+updated: 2024-06-01T07:38:02.342Z
 tags: 
   - screen-recording
   - ai video
@@ -235,4 +235,5 @@ In a nutshell, it's important to use the right program to customize the fade in/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

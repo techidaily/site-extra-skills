@@ -1,7 +1,7 @@
 ---
 title: "[New] Peak Visionary Workspace Appraisal"
-date: 2024-05-27 11:39:37
-updated: 2024-05-29 10:59:10
+date: 2024-05-31T07:36:35.237Z
+updated: 2024-06-01T07:36:35.237Z
 tags: 
   - screen-recording
   - ai video
@@ -90,4 +90,5 @@ There were already some decent audio editing features in  Studio. The audio part
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick-Fire Photos with iPhone Burst Feature\""
-date: 2024-05-27 16:21:22
-updated: 2024-05-30 10:45:40
+date: 2024-05-31T07:38:16.420Z
+updated: 2024-06-01T07:38:16.420Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

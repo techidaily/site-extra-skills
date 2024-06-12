@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Nostalgic Narratives  Capturing Moments with XiPhone\""
-date: 2024-05-26 21:53:28
-updated: 2024-05-29 12:33:56
+date: 2024-05-31T07:37:36.993Z
+updated: 2024-06-01T07:37:36.993Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering the Art of Editing in GarageBand"
-date: 2024-05-27 10:20:34
-updated: 2024-05-28 12:49:12
+date: 2024-05-31T07:38:44.240Z
+updated: 2024-06-01T07:38:44.240Z
 tags: 
   - screen-recording
   - ai video
@@ -511,4 +511,5 @@ However, if you're looking to edit podcasts on Windows, a tool like Filmora supp
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

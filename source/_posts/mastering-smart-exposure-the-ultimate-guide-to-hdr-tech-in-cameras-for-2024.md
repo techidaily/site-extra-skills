@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Smart Exposure  The Ultimate Guide to HDR Tech in Cameras for 2024\""
-date: 2024-05-26 20:50:29
-updated: 2024-05-28 12:44:24
+date: 2024-05-31T07:41:03.855Z
+updated: 2024-06-01T07:41:03.855Z
 tags: 
   - screen-recording
   - ai video
@@ -241,4 +241,5 @@ Auto HDR will make sure both shadows and highlights are in focus, while Smart HD
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Volume Reduction in Audio Designs Using Logic Pro for 2024"
-date: 2024-05-27 19:16:17
-updated: 2024-05-28 11:13:23
+date: 2024-05-31T07:41:21.918Z
+updated: 2024-06-01T07:41:21.918Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ Apple's Logic Pro X is not compatible with Windows-based computers. Therefore, i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

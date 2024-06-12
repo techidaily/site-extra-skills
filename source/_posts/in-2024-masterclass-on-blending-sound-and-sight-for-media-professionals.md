@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Masterclass on Blending Sound & Sight for Media Professionals"
-date: 2024-05-27 21:56:21
-updated: 2024-05-28 11:52:44
+date: 2024-05-31T07:39:45.091Z
+updated: 2024-06-01T07:39:45.091Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

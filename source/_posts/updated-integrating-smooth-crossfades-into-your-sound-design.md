@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Integrating Smooth Crossfades Into Your Sound Design"
-date: 2024-05-24 20:37:10
-updated: 2024-05-27 11:16:27
+date: 2024-05-31T07:38:30.378Z
+updated: 2024-06-01T07:38:30.378Z
 tags: 
   - screen-recording
   - ai video
@@ -188,4 +188,5 @@ In summary, Audacity is a free audio tool that's really simple to use. By utiliz
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

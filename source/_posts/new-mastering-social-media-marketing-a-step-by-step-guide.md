@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Social Media Marketing  A Step-by-Step Guide\""
-date: 2024-05-27 15:25:48
-updated: 2024-05-28 10:43:21
+date: 2024-05-31T07:37:50.044Z
+updated: 2024-06-01T07:37:50.044Z
 tags: 
   - screen-recording
   - ai video
@@ -159,4 +159,5 @@ We hope this post has given you some ideas of how to get started with your SMM s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

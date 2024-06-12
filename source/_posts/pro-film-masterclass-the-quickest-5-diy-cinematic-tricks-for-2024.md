@@ -1,7 +1,7 @@
 ---
 title: "\"Pro-Film Masterclass  The Quickest 5 DIY Cinematic Tricks for 2024\""
-date: 2024-05-28 15:55:15
-updated: 2024-05-30 10:37:33
+date: 2024-05-31T07:38:11.628Z
+updated: 2024-06-01T07:38:11.628Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Experiment with other props at home and see which hack evolved from them. You ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

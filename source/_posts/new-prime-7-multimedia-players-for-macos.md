@@ -1,7 +1,7 @@
 ---
 title: "[New] Prime 7 Multimedia Players for MacOS"
-date: 2024-05-29 22:29:40
-updated: 2024-05-30 12:20:10
+date: 2024-05-31T07:37:21.383Z
+updated: 2024-06-01T07:37:21.383Z
 tags: 
   - screen-recording
   - ai video
@@ -566,4 +566,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

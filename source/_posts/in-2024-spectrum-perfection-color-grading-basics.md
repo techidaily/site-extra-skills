@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Spectrum Perfection  Color Grading Basics\""
-date: 2024-05-28 14:14:11
-updated: 2024-05-31 11:43:46
+date: 2024-05-31T07:36:40.082Z
+updated: 2024-06-01T07:36:40.082Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

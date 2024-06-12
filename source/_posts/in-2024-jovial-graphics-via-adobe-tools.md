@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Jovial Graphics via Adobe Tools"
-date: 2024-05-26 13:32:59
-updated: 2024-05-28 11:30:28
+date: 2024-05-31T07:38:14.582Z
+updated: 2024-06-01T07:38:14.582Z
 tags: 
   - screen-recording
   - ai video
@@ -184,4 +184,5 @@ There are a number of different tools available on internet for meme making. And
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

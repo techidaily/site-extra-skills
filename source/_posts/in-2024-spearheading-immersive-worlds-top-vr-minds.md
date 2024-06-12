@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Spearheading Immersive Worlds  Top VR Minds\""
-date: 2024-05-30 14:11:23
-updated: 2024-05-31 11:20:28
+date: 2024-05-31T07:36:33.521Z
+updated: 2024-06-01T07:36:33.521Z
 tags: 
   - screen-recording
   - ai video
@@ -446,4 +446,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Guide to Pairing Your Camera Gimbal\""
-date: 2024-05-28 19:16:17
-updated: 2024-05-31 11:50:42
+date: 2024-05-31T07:38:10.936Z
+updated: 2024-06-01T07:38:10.936Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

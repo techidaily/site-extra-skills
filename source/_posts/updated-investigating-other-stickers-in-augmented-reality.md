@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Investigating Other Stickers in Augmented Reality"
-date: 2024-05-25 11:26:44
-updated: 2024-05-27 12:59:34
+date: 2024-05-31T07:41:05.088Z
+updated: 2024-06-01T07:41:05.088Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ Google AR Stickers are great for enhancing your photos and videos. Too bad it's 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

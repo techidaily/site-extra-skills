@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Dynamic Range with iPhone Cameras"
-date: 2024-05-26 15:51:12
-updated: 2024-05-28 11:18:43
+date: 2024-05-31T07:39:30.422Z
+updated: 2024-06-01T07:39:30.422Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ This article perfectly sums up all the information you need in order to capture 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

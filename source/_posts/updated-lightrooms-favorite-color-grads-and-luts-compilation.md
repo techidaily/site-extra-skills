@@ -1,7 +1,7 @@
 ---
 title: "[Updated] LightRoom's Favorite Color Grads and LUTs Compilation"
-date: 2024-05-26 16:42:51
-updated: 2024-05-28 10:56:56
+date: 2024-05-31T07:38:05.155Z
+updated: 2024-06-01T07:38:05.155Z
 tags: 
   - screen-recording
   - ai video
@@ -604,4 +604,5 @@ Therefore, you had an informative journey about the Lightroom LUTs in detail. A 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

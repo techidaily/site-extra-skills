@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Lens Tricks  Editing Secrets to Photo Wonders\""
-date: 2024-05-26 15:35:46
-updated: 2024-05-28 10:21:41
+date: 2024-05-31T07:38:23.207Z
+updated: 2024-06-01T07:38:23.207Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ You can try the photography editing tips mentioned above to enhance your images 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

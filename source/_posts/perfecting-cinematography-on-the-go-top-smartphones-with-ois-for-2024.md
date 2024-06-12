@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting Cinematography on the Go  Top Smartphones with OIS for 2024\""
-date: 2024-05-27 16:45:17
-updated: 2024-05-29 12:17:37
+date: 2024-05-31T07:37:29.717Z
+updated: 2024-06-01T07:37:29.717Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Since you don't always have a camera to capture smooth videos, having an OIS cam
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

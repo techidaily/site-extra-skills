@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Luminous Color Corrector Kit"
-date: 2024-05-25 18:23:35
-updated: 2024-05-28 10:32:11
+date: 2024-05-31T07:41:25.721Z
+updated: 2024-06-01T07:41:25.721Z
 tags: 
   - screen-recording
   - ai video
@@ -463,4 +463,5 @@ With apps like Filmora, color correcting is simple and quick to do on mobile dev
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

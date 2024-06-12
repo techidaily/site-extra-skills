@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Instagram's Sideways Video Phenomenon - Investigation Required\""
-date: 2024-05-24 13:44:49
-updated: 2024-05-27 12:57:19
+date: 2024-05-31T07:40:45.866Z
+updated: 2024-06-01T07:40:45.866Z
 tags: 
   - screen-recording
   - ai video
@@ -498,4 +498,5 @@ You can easily rotate your videos according to the guidelines of the social medi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

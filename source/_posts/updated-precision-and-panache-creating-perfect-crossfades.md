@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Precision and Panache  Creating Perfect Crossfades\""
-date: 2024-05-28 17:11:25
-updated: 2024-05-29 11:10:19
+date: 2024-05-31T07:40:24.024Z
+updated: 2024-06-01T07:40:24.024Z
 tags: 
   - screen-recording
   - ai video
@@ -235,4 +235,5 @@ In a nutshell, it's important to use the right program to customize the fade in/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

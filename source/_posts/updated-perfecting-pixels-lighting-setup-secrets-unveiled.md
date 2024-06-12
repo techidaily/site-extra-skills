@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Perfecting Pixels  Lighting Setup Secrets Unveiled\""
-date: 2024-05-28 16:42:29
-updated: 2024-05-29 10:26:32
+date: 2024-05-31T07:39:48.802Z
+updated: 2024-06-01T07:39:48.802Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

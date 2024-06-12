@@ -1,7 +1,7 @@
 ---
 title: "\"Perfect Pitch in Words  Crafting Captivating Podcast Episodes for 2024\""
-date: 2024-05-28 12:36:38
-updated: 2024-05-29 11:12:50
+date: 2024-05-31T07:40:27.092Z
+updated: 2024-06-01T07:40:27.092Z
 tags: 
   - screen-recording
   - ai video
@@ -389,4 +389,5 @@ The crux of our discussion is that a compelling podcast script makes it simple t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

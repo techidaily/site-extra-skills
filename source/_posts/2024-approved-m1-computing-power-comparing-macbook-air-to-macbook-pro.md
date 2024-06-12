@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  M1 Computing Power  Comparing MacBook Air to MacBook Pro\""
-date: 2024-05-27 10:57:14
-updated: 2024-05-28 12:54:39
+date: 2024-05-31T07:38:50.935Z
+updated: 2024-06-01T07:38:50.935Z
 tags: 
   - screen-recording
   - ai video
@@ -910,4 +910,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

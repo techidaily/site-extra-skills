@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Seamless Edits  Navigating Photoshop’s Eraser Function\""
-date: 2024-05-27 17:12:37
-updated: 2024-05-30 11:40:27
+date: 2024-05-31T07:37:34.152Z
+updated: 2024-06-01T07:37:34.152Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ Hopefully, you can use the tools in Phoshop with ease and remove images' backgro
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

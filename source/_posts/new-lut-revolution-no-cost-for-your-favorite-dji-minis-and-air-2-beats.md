@@ -1,7 +1,7 @@
 ---
 title: "[New] LUT Revolution – No Cost for Your Favorite DJI Minis & Air 2 Beats"
-date: 2024-05-25 22:11:49
-updated: 2024-05-28 11:15:25
+date: 2024-05-31T07:36:53.429Z
+updated: 2024-06-01T07:36:53.429Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ Thus, you had an elaborate discussion on the DJI LUTS in detail, and you can use
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

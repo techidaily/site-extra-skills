@@ -1,7 +1,7 @@
 ---
 title: "[New] Progressive Audio Softening Methods"
-date: 2024-05-29 22:52:34
-updated: 2024-05-30 12:51:14
+date: 2024-05-31T07:38:10.705Z
+updated: 2024-06-01T07:38:10.705Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  PicArt's Quick Shield for Facial Features\""
-date: 2024-05-27 23:54:27
-updated: 2024-05-29 12:16:23
+date: 2024-05-31T07:38:57.459Z
+updated: 2024-06-01T07:38:57.459Z
 tags: 
   - screen-recording
   - ai video
@@ -478,4 +478,5 @@ Focal blur is a radial effect that warps the dimensions of your picture a little
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

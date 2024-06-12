@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pro-Level Text Templates for Adobe AE\""
-date: 2024-05-27 11:32:37
-updated: 2024-05-30 10:10:15
+date: 2024-05-31T07:38:55.120Z
+updated: 2024-06-01T07:38:55.120Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ If you decide to use Adobe After Effects to add text effects to your video, we h
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

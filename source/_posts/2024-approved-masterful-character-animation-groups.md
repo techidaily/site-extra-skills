@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterful Character Animation Groups\""
-date: 2024-05-25 13:46:47
-updated: 2024-05-28 11:33:51
+date: 2024-05-31T07:37:56.289Z
+updated: 2024-06-01T07:37:56.289Z
 tags: 
   - screen-recording
   - ai video
@@ -100,4 +100,5 @@ As the saying goes, the more the merrier and the more presets you have, the more
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

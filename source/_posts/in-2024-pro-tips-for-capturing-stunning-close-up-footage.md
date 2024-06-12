@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pro Tips for Capturing Stunning Close-Up Footage\""
-date: 2024-05-27 18:44:20
-updated: 2024-05-30 10:44:45
+date: 2024-05-31T07:37:20.376Z
+updated: 2024-06-01T07:37:20.376Z
 tags: 
   - screen-recording
   - ai video
@@ -394,4 +394,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Layers of Cinematic Dialogue Design"
-date: 2024-05-25 13:34:12
-updated: 2024-05-28 12:36:34
+date: 2024-05-31T07:37:28.238Z
+updated: 2024-06-01T07:37:28.238Z
 tags: 
   - screen-recording
   - ai video
@@ -183,4 +183,5 @@ The article has provided the most information about screenplays and how to write
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

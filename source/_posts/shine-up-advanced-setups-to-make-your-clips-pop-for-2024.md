@@ -1,7 +1,7 @@
 ---
 title: "\"Shine Up  Advanced Setups to Make Your Clips Pop for 2024\""
-date: 2024-05-28 14:29:37
-updated: 2024-05-31 10:41:50
+date: 2024-05-31T07:41:16.524Z
+updated: 2024-06-01T07:41:16.524Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

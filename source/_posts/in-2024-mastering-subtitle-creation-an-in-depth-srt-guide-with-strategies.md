@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Subtitle Creation  An In-Depth SRT Guide with Strategies\""
-date: 2024-05-25 10:23:18
-updated: 2024-05-28 10:18:11
+date: 2024-05-31T07:38:14.616Z
+updated: 2024-06-01T07:38:14.616Z
 tags: 
   - screen-recording
   - ai video
@@ -324,4 +324,5 @@ You can create SRT on Windows using Notepad or on Mac using TextEdit. However, t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Simplify Complex Designs by Mastering Figma's Backdrop Cleansing"
-date: 2024-05-29 19:14:59
-updated: 2024-05-31 12:46:38
+date: 2024-05-31T07:39:49.963Z
+updated: 2024-06-01T07:39:49.963Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

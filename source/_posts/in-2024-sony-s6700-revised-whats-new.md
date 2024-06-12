@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sony S6700 Revised - What's New?\""
-date: 2024-05-28 11:17:20
-updated: 2024-05-31 11:42:20
+date: 2024-05-31T07:40:24.465Z
+updated: 2024-06-01T07:40:24.465Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

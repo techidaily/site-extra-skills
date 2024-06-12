@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Windows 10 Tutorial for Simple Video Trimming\""
-date: 2024-05-27 12:14:20
-updated: 2024-05-30 11:16:55
+date: 2024-05-31T07:36:32.603Z
+updated: 2024-06-01T07:36:32.603Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

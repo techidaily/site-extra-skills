@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Navigating Color Grading  Using LUTs to Refine Your Work in AE\""
-date: 2024-05-26 10:18:10
-updated: 2024-05-29 12:40:39
+date: 2024-05-31T07:36:14.694Z
+updated: 2024-06-01T07:36:14.694Z
 tags: 
   - screen-recording
   - ai video
@@ -410,4 +410,5 @@ Adobe After Effects allows you to use LUTs on multiple clips. However, you need 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

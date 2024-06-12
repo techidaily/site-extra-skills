@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Moto Cam's Best  Top 5 Hats for Riders\""
-date: 2024-05-28 21:10:30
-updated: 2024-05-29 12:56:43
+date: 2024-05-31T07:41:41.976Z
+updated: 2024-06-01T07:41:41.976Z
 tags: 
   - screen-recording
   - ai video
@@ -342,4 +342,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

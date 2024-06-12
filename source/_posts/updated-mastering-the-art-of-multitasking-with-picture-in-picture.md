@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering the Art of Multitasking with Picture In Picture"
-date: 2024-05-27 13:45:29
-updated: 2024-05-28 10:55:46
+date: 2024-05-31T07:37:13.418Z
+updated: 2024-06-01T07:37:13.418Z
 tags: 
   - screen-recording
   - ai video
@@ -153,4 +153,5 @@ Aside from Safari, the Picture-in-Picture mode is available in other standard pr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

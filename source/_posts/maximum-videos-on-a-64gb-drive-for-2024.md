@@ -1,7 +1,7 @@
 ---
 title: "Maximum Videos on a 64GB Drive for 2024"
-date: 2024-05-25 10:42:15
-updated: 2024-05-28 11:16:40
+date: 2024-05-31T07:38:49.582Z
+updated: 2024-06-01T07:38:49.582Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ A wide range of softwares and applications help with video compressing features 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Professional Photography Hacks  Perfecting Motion Blur with Adobe Tools for 2024\""
-date: 2024-05-29 18:46:13
-updated: 2024-05-30 10:21:43
+date: 2024-05-31T07:39:22.371Z
+updated: 2024-06-01T07:39:22.371Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sound Mastery  Pro Tips for Effective Audiovisual Blending (Audacity)\""
-date: 2024-05-30 19:13:59
-updated: 2024-05-31 10:37:56
+date: 2024-05-31T07:37:32.329Z
+updated: 2024-06-01T07:37:32.329Z
 tags: 
   - screen-recording
   - ai video
@@ -188,4 +188,5 @@ In summary, Audacity is a free audio tool that's really simple to use. By utiliz
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

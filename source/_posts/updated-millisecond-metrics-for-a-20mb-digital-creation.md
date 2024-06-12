@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Millisecond Metrics for a 20MB Digital Creation"
-date: 2024-05-25 13:41:54
-updated: 2024-05-28 10:10:12
+date: 2024-05-31T07:40:30.659Z
+updated: 2024-06-01T07:40:30.659Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

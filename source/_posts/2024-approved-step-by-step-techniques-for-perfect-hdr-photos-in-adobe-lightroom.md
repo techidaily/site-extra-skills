@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step Techniques for Perfect HDR Photos in Adobe Lightroom\""
-date: 2024-05-28 16:41:29
-updated: 2024-05-31 11:52:51
+date: 2024-05-31T07:36:21.847Z
+updated: 2024-06-01T07:36:21.847Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Before using the HDR effect through Lightroom for stacked photo editing and merg
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

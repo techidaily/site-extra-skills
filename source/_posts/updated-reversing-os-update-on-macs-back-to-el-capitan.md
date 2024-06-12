@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Reversing OS Update on Macs  Back to El Capitan\""
-date: 2024-05-29 21:13:14
-updated: 2024-05-30 12:40:53
+date: 2024-05-31T07:39:41.590Z
+updated: 2024-06-01T07:39:41.590Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

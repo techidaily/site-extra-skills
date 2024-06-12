@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Novice-Friendly Approach to Crafting NFTs Today\""
-date: 2024-05-27 20:24:21
-updated: 2024-05-29 11:38:15
+date: 2024-05-31T07:41:14.444Z
+updated: 2024-06-01T07:41:14.444Z
 tags: 
   - screen-recording
   - ai video
@@ -610,4 +610,5 @@ Finally, we would like to conclude the queries about the NFT marketplace. Indeed
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

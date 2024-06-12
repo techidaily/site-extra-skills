@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Making Classroom Content  Video Editing Insights\""
-date: 2024-05-27 12:27:35
-updated: 2024-05-28 12:59:32
+date: 2024-05-31T07:38:03.444Z
+updated: 2024-06-01T07:38:03.444Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

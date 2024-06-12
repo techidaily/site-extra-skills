@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Optimize Accessibility  Top Free Speech Conversion Tools for MacOS\""
-date: 2024-05-26 15:28:27
-updated: 2024-05-29 11:29:36
+date: 2024-05-31T07:37:17.649Z
+updated: 2024-06-01T07:37:17.650Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ A 2017 Stanford study states that speech to text is about[three times faster tha
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

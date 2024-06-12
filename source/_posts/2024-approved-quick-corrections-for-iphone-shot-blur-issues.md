@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Corrections for iPhone Shot Blur Issues\""
-date: 2024-05-27 12:20:26
-updated: 2024-05-30 11:27:11
+date: 2024-05-31T07:36:23.447Z
+updated: 2024-06-01T07:36:23.447Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

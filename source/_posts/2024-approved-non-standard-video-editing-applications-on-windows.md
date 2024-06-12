@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Non-Standard Video Editing Applications on WIndows\""
-date: 2024-05-27 17:41:37
-updated: 2024-05-29 12:32:40
+date: 2024-05-31T07:39:14.579Z
+updated: 2024-06-01T07:39:14.579Z
 tags: 
   - screen-recording
   - ai video
@@ -112,4 +112,5 @@ A unique production may be made by modifying and combining audio, image, and vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

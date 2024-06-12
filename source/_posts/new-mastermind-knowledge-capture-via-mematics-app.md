@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastermind Knowledge Capture via Mematic's App"
-date: 2024-05-26 11:22:58
-updated: 2024-05-28 11:22:24
+date: 2024-05-31T07:40:04.953Z
+updated: 2024-06-01T07:40:04.953Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ In this article, we have seen the applications and efficiency of Mematic meme ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

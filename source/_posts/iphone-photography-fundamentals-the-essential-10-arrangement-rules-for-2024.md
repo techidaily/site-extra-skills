@@ -1,7 +1,7 @@
 ---
 title: "\"IPhone Photography Fundamentals  The Essential 10 Arrangement Rules for 2024\""
-date: 2024-05-25 23:31:27
-updated: 2024-05-28 11:32:24
+date: 2024-05-31T07:39:56.601Z
+updated: 2024-06-01T07:39:56.601Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

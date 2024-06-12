@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Masterpiece in Motion Capture  Sony's X1000 Action Gear\""
-date: 2024-05-25 19:44:27
-updated: 2024-05-28 11:21:54
+date: 2024-05-31T07:37:02.698Z
+updated: 2024-06-01T07:37:02.698Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

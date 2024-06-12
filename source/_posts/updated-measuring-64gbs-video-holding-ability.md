@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Measuring 64Gb's Video Holding Ability"
-date: 2024-05-26 13:36:51
-updated: 2024-05-28 10:15:44
+date: 2024-05-31T07:38:26.440Z
+updated: 2024-06-01T07:38:26.440Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ A wide range of softwares and applications help with video compressing features 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

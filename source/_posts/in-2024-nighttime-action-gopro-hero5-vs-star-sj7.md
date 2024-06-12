@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Nighttime Action  GoPro Hero5 vs Star SJ7\""
-date: 2024-05-26 16:36:38
-updated: 2024-05-29 12:34:39
+date: 2024-05-31T07:35:59.188Z
+updated: 2024-06-01T07:35:59.188Z
 tags: 
   - screen-recording
   - ai video
@@ -598,4 +598,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

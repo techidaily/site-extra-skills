@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide to Linking OBS & Streamlabs (Mac)\""
-date: 2024-05-30 23:13:48
-updated: 2024-05-31 10:10:24
+date: 2024-05-31T07:41:06.588Z
+updated: 2024-06-01T07:41:06.588Z
 tags: 
   - screen-recording
   - ai video
@@ -474,4 +474,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

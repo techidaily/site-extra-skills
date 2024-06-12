@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterclass on Premiere Pro  Fullscreen Mode Finesse\""
-date: 2024-05-25 10:25:41
-updated: 2024-05-28 10:33:29
+date: 2024-05-31T07:39:57.087Z
+updated: 2024-06-01T07:39:57.087Z
 tags: 
   - screen-recording
   - ai video
@@ -227,4 +227,5 @@ In addition, it enables you to collaborate with partners if you are working on a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

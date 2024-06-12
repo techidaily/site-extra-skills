@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quantum HDR's Role in Modern Photography Trends"
-date: 2024-05-29 14:44:54
-updated: 2024-05-30 10:47:47
+date: 2024-05-31T07:37:13.573Z
+updated: 2024-06-01T07:37:13.573Z
 tags: 
   - screen-recording
   - ai video
@@ -202,4 +202,5 @@ All essential information anyone could want to know about Quantum HDR has been d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Approach to Crafting 3D Text in Photoshop\""
-date: 2024-05-28 15:10:12
-updated: 2024-05-31 10:43:33
+date: 2024-05-31T07:41:28.018Z
+updated: 2024-06-01T07:41:28.018Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

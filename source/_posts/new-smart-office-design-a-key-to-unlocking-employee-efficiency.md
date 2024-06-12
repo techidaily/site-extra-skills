@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Smart Office Design  A Key to Unlocking Employee Efficiency\""
-date: 2024-05-29 11:45:26
-updated: 2024-05-31 11:35:41
+date: 2024-05-31T07:39:16.613Z
+updated: 2024-06-01T07:39:16.613Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

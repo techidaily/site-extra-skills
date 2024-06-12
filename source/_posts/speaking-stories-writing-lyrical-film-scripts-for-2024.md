@@ -1,7 +1,7 @@
 ---
 title: "\"Speaking Stories  Writing Lyrical Film Scripts for 2024\""
-date: 2024-05-28 13:40:35
-updated: 2024-05-31 12:59:16
+date: 2024-05-31T07:36:08.569Z
+updated: 2024-06-01T07:36:08.569Z
 tags: 
   - screen-recording
   - ai video
@@ -229,4 +229,5 @@ In conclusion, Dialogue and Narrative Script are the most common types of script
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

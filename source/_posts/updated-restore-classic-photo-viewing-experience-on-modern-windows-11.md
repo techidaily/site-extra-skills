@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Restore Classic Photo Viewing Experience on Modern Windows 11"
-date: 2024-05-28 22:34:47
-updated: 2024-05-30 10:50:38
+date: 2024-05-31T07:41:07.632Z
+updated: 2024-06-01T07:41:07.632Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Prime Add-Ons  The Best New Filmmaker’s Starter List\""
-date: 2024-05-29 23:56:43
-updated: 2024-05-30 12:52:26
+date: 2024-05-31T07:38:58.737Z
+updated: 2024-06-01T07:38:58.737Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ In case if you need a system to easily transfer your footage from GoPro camera t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

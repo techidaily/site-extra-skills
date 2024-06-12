@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Standout 80S Visual Tricks to Enhance Films"
-date: 2024-05-28 19:49:12
-updated: 2024-05-31 10:55:41
+date: 2024-05-31T07:37:54.535Z
+updated: 2024-06-01T07:37:54.535Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ To apply the **80s VHS effects**, you can take assistance from Wondershare Filmo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

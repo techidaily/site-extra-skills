@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Palette Power  Skillful Color Adjustment\""
-date: 2024-05-28 16:48:30
-updated: 2024-05-29 12:30:21
+date: 2024-05-31T07:40:00.212Z
+updated: 2024-06-01T07:40:00.212Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

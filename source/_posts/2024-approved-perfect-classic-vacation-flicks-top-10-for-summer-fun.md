@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Classic Vacation Flicks  Top 10 for Summer Fun\""
-date: 2024-05-28 11:35:37
-updated: 2024-05-29 10:26:37
+date: 2024-05-31T07:40:45.764Z
+updated: 2024-06-01T07:40:45.764Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

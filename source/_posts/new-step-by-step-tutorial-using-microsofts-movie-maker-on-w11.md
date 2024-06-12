@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-By-Step Tutorial  Using Microsoft's Movie Maker on W11\""
-date: 2024-05-30 19:37:15
-updated: 2024-05-31 11:21:30
+date: 2024-05-31T07:39:04.389Z
+updated: 2024-06-01T07:39:04.389Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ In this article, you have learned about various video editors available on Windo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

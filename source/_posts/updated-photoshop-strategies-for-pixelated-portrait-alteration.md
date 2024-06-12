@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Photoshop Strategies for Pixelated Portrait Alteration"
-date: 2024-05-27 22:43:19
-updated: 2024-05-29 12:47:58
+date: 2024-05-31T07:41:02.662Z
+updated: 2024-06-01T07:41:02.662Z
 tags: 
   - screen-recording
   - ai video
@@ -1030,4 +1030,5 @@ Step 13: Once you are satisfied with your edits, click File at the upper left si
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Peak Craft Studio 25 Overview"
-date: 2024-05-26 12:51:34
-updated: 2024-05-29 12:22:41
+date: 2024-05-31T07:37:42.023Z
+updated: 2024-06-01T07:37:42.023Z
 tags: 
   - screen-recording
   - ai video
@@ -90,4 +90,5 @@ There were already some decent audio editing features in  Studio. The audio part
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

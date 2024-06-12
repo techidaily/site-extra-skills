@@ -1,7 +1,7 @@
 ---
 title: "\"Master the Spectrum  Advanced HDR Tips for Lightroom Pro for 2024\""
-date: 2024-05-27 15:30:31
-updated: 2024-05-28 10:44:52
+date: 2024-05-31T07:40:46.782Z
+updated: 2024-06-01T07:40:46.782Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Before using the HDR effect through Lightroom for stacked photo editing and merg
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

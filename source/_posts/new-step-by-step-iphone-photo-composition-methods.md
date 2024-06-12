@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step iPhone Photo Composition Methods\""
-date: 2024-05-28 20:50:51
-updated: 2024-05-31 12:31:26
+date: 2024-05-31T07:40:23.183Z
+updated: 2024-06-01T07:40:23.183Z
 tags: 
   - screen-recording
   - ai video
@@ -694,4 +694,5 @@ p>**●** Read our general tips for making a collage (on your iPhone or otherwis
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

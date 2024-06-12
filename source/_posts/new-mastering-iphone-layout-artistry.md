@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering iPhone Layout Artistry"
-date: 2024-05-25 15:45:46
-updated: 2024-05-28 11:54:52
+date: 2024-05-31T07:40:31.202Z
+updated: 2024-06-01T07:40:31.202Z
 tags: 
   - screen-recording
   - ai video
@@ -694,4 +694,5 @@ p>**●** Read our general tips for making a collage (on your iPhone or otherwis
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

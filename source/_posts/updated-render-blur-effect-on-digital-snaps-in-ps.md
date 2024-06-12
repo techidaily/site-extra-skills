@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Render Blur Effect on Digital Snaps in PS"
-date: 2024-05-28 14:44:19
-updated: 2024-05-30 11:55:13
+date: 2024-05-31T07:39:25.829Z
+updated: 2024-06-01T07:39:25.829Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

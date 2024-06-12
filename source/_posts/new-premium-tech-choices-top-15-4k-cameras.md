@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Premium Tech Choices  Top 15 4K Cameras\""
-date: 2024-05-27 23:16:45
-updated: 2024-05-30 12:30:26
+date: 2024-05-31T07:36:06.693Z
+updated: 2024-06-01T07:36:06.693Z
 tags: 
   - screen-recording
   - ai video
@@ -914,4 +914,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

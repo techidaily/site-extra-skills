@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Revolutionizing Your Visuals with Expert Color Techniques"
-date: 2024-05-28 14:15:20
-updated: 2024-05-30 11:55:21
+date: 2024-05-31T07:36:19.997Z
+updated: 2024-06-01T07:36:19.997Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ In short, we've touched on many different color grading tutorials that simplify 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

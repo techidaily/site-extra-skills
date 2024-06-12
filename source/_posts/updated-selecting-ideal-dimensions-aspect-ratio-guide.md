@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Selecting Ideal Dimensions  Aspect Ratio Guide\""
-date: 2024-05-28 14:45:37
-updated: 2024-05-30 12:24:29
+date: 2024-05-31T07:36:32.435Z
+updated: 2024-06-01T07:36:32.435Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Having your video tested on multiple devices will allow you to see a preview of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Inside the Drone World  Detailed Look at DJI Phantom 4\""
-date: 2024-05-25 11:56:44
-updated: 2024-05-27 12:37:22
+date: 2024-05-31T07:38:00.485Z
+updated: 2024-06-01T07:38:00.485Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Typography & Layout  The Top 10 For AE for 2024\""
-date: 2024-05-26 20:13:56
-updated: 2024-05-28 11:59:39
+date: 2024-05-31T07:36:55.847Z
+updated: 2024-06-01T07:36:55.847Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ If you decide to use Adobe After Effects to add text effects to your video, we h
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

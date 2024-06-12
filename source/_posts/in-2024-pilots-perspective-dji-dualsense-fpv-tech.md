@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pilot's Perspective  DJI DualSense FPV Tech\""
-date: 2024-05-27 17:47:47
-updated: 2024-05-29 10:16:34
+date: 2024-05-31T07:41:11.936Z
+updated: 2024-06-01T07:41:11.936Z
 tags: 
   - screen-recording
   - ai video
@@ -402,4 +402,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

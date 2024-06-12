@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Narrative Nuance  A Guide to Crafting Compelling Film Dialogues\""
-date: 2024-05-26 13:18:51
-updated: 2024-05-29 10:49:19
+date: 2024-05-31T07:38:14.783Z
+updated: 2024-06-01T07:38:14.783Z
 tags: 
   - screen-recording
   - ai video
@@ -229,4 +229,5 @@ In conclusion, Dialogue and Narrative Script are the most common types of script
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

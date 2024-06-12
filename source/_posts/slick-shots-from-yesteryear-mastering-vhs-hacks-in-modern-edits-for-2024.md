@@ -1,7 +1,7 @@
 ---
 title: "\"Slick Shots From Yesteryear  Mastering VHS Hacks in Modern Edits for 2024\""
-date: 2024-05-29 20:53:53
-updated: 2024-05-31 11:46:39
+date: 2024-05-31T07:41:28.693Z
+updated: 2024-06-01T07:41:28.693Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ To apply the **80s VHS effects**, you can take assistance from Wondershare Filmo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

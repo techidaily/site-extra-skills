@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Meet Your New Favorites  Top 5 Video Creators & Soundtrack Artists\""
-date: 2024-05-25 20:52:17
-updated: 2024-05-28 11:39:55
+date: 2024-05-31T07:37:55.514Z
+updated: 2024-06-01T07:37:55.514Z
 tags: 
   - screen-recording
   - ai video
@@ -618,4 +618,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

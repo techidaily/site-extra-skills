@@ -1,7 +1,7 @@
 ---
 title: "[Updated] IPhone Explores High Dynamic Range Photography"
-date: 2024-05-25 13:54:13
-updated: 2024-05-27 11:46:26
+date: 2024-05-31T07:39:26.620Z
+updated: 2024-06-01T07:39:26.620Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ This article perfectly sums up all the information you need in order to capture 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

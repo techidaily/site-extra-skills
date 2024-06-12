@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Story Tempo  Adjusting Video Speed in Instagram\""
-date: 2024-05-25 12:27:15
-updated: 2024-05-28 12:25:38
+date: 2024-05-31T07:37:31.568Z
+updated: 2024-06-01T07:37:31.568Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ We have answered the frequently asked question, "how to do slow motion on Instag
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

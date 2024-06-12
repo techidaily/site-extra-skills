@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastery in Digital Media  Srgb Preference\""
-date: 2024-05-25 15:32:17
-updated: 2024-05-28 11:57:42
+date: 2024-05-31T07:40:10.512Z
+updated: 2024-06-01T07:40:10.512Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ As a digital photographer, your main focus can be an artistic expression rather 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

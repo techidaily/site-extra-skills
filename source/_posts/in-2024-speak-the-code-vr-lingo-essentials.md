@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Speak the Code  VR Lingo Essentials\""
-date: 2024-05-28 11:46:12
-updated: 2024-05-31 11:23:54
+date: 2024-05-31T07:40:24.482Z
+updated: 2024-06-01T07:40:24.482Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

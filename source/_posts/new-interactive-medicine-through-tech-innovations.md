@@ -1,7 +1,7 @@
 ---
 title: "[New] Interactive Medicine Through Tech Innovations"
-date: 2024-05-24 18:39:13
-updated: 2024-05-27 12:24:27
+date: 2024-05-31T07:37:50.837Z
+updated: 2024-06-01T07:37:50.837Z
 tags: 
   - screen-recording
   - ai video
@@ -210,4 +210,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

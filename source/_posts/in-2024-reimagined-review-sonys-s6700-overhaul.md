@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Reimagined Review  Sony's S6700 Overhaul\""
-date: 2024-05-28 14:40:33
-updated: 2024-05-30 12:36:24
+date: 2024-05-31T07:39:17.213Z
+updated: 2024-06-01T07:39:17.213Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

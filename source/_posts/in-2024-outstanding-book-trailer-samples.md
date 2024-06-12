@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Outstanding Book Trailer Samples"
-date: 2024-05-28 19:10:13
-updated: 2024-05-29 12:59:33
+date: 2024-05-31T07:36:08.887Z
+updated: 2024-06-01T07:36:08.887Z
 tags: 
   - screen-recording
   - ai video
@@ -176,4 +176,5 @@ This article concludes that book trailers mean a lot in this digital era. To gen
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

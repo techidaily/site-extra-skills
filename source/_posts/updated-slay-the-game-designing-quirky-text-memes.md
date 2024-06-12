@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Slay the Game  Designing Quirky Text Memes\""
-date: 2024-05-30 21:27:18
-updated: 2024-05-31 10:53:21
+date: 2024-05-31T07:38:39.491Z
+updated: 2024-06-01T07:38:39.491Z
 tags: 
   - screen-recording
   - ai video
@@ -178,4 +178,5 @@ Generating text memes on your device is no more an issue if you have no prior ex
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

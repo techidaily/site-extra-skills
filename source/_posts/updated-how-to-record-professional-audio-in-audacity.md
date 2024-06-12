@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How To Record Professional Audio In Audacity"
-date: 2024-05-27 17:25:40
-updated: 2024-05-30 12:47:29
+date: 2024-05-31T07:39:12.519Z
+updated: 2024-06-01T07:39:12.519Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ Simply select the necessary file format from the drop-down box that appears next
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

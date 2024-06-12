@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Art with Sony FDR-X1000V Action Footage\""
-date: 2024-05-27 23:34:47
-updated: 2024-05-28 11:16:29
+date: 2024-05-31T07:37:52.250Z
+updated: 2024-06-01T07:37:52.250Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Sound Capture in Windows 11\""
-date: 2024-05-27 22:45:12
-updated: 2024-05-28 12:45:48
+date: 2024-05-31T07:41:51.103Z
+updated: 2024-06-01T07:41:51.103Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ We have how to record audio on Windows 10 using free as well as premium software
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] SJCam S6 Legend Action Camera Complete Review"
-date: 2024-05-29 19:39:41
-updated: 2024-05-31 10:13:54
+date: 2024-05-31T07:40:45.635Z
+updated: 2024-06-01T07:40:45.635Z
 tags: 
   - screen-recording
   - ai video
@@ -570,4 +570,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

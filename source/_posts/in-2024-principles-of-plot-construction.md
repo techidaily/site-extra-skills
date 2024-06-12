@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Principles of Plot Construction"
-date: 2024-05-27 18:35:26
-updated: 2024-05-30 10:35:22
+date: 2024-05-31T07:40:00.594Z
+updated: 2024-06-01T07:40:00.594Z
 tags: 
   - screen-recording
   - ai video
@@ -183,4 +183,5 @@ The article has provided the most information about screenplays and how to write
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

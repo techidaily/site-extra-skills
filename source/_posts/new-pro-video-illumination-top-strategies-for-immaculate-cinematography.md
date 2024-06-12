@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pro Video Illumination  Top Strategies for Immaculate Cinematography\""
-date: 2024-05-27 14:48:57
-updated: 2024-05-30 10:13:51
+date: 2024-05-31T07:38:36.877Z
+updated: 2024-06-01T07:38:36.877Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

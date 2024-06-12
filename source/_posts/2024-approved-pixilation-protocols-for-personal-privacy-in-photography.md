@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pixilation Protocols for Personal Privacy in Photography\""
-date: 2024-05-27 22:53:36
-updated: 2024-05-29 11:21:46
+date: 2024-05-31T07:40:48.134Z
+updated: 2024-06-01T07:40:48.134Z
 tags: 
   - screen-recording
   - ai video
@@ -1030,4 +1030,5 @@ Step 13: Once you are satisfied with your edits, click File at the upper left si
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

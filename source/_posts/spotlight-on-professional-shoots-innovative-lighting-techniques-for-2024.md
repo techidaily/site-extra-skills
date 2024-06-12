@@ -1,7 +1,7 @@
 ---
 title: "\"Spotlight on Professional Shoots  Innovative Lighting Techniques for 2024\""
-date: 2024-05-30 12:43:35
-updated: 2024-05-31 10:36:42
+date: 2024-05-31T07:38:38.546Z
+updated: 2024-06-01T07:38:38.546Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

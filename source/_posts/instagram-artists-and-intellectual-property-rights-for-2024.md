@@ -1,7 +1,7 @@
 ---
 title: "Instagram Artists & Intellectual Property Rights for 2024"
-date: 2024-05-24 22:57:56
-updated: 2024-05-27 10:28:21
+date: 2024-05-31T07:40:01.449Z
+updated: 2024-06-01T07:40:01.449Z
 tags: 
   - screen-recording
   - ai video
@@ -202,4 +202,5 @@ Hopefully, you’ve found this article helpful and can now understand the dos an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

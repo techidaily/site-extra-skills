@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  SharpViewZoomX7  Professional Photo Size Controls\""
-date: 2024-05-29 23:37:42
-updated: 2024-05-31 12:49:50
+date: 2024-05-31T07:38:55.934Z
+updated: 2024-06-01T07:38:55.934Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Speedy Visual Scan of Your Pictures on Win11"
-date: 2024-05-29 23:16:40
-updated: 2024-05-31 11:31:38
+date: 2024-05-31T07:36:11.172Z
+updated: 2024-06-01T07:36:11.172Z
 tags: 
   - screen-recording
   - ai video
@@ -331,4 +331,5 @@ Access the **Default Apps** menu from the **Settings** option of your OS. Then, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Logo Innovations  Branding Your Podcast Visually\""
-date: 2024-05-27 13:19:35
-updated: 2024-05-28 12:25:15
+date: 2024-05-31T07:41:46.812Z
+updated: 2024-06-01T07:41:46.812Z
 tags: 
   - screen-recording
   - ai video
@@ -405,4 +405,5 @@ Dont forget to share this article with your friends and family members looking t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

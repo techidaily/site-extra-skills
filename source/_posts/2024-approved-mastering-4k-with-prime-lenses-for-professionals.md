@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering 4K with Prime Lenses for Professionals\""
-date: 2024-05-25 14:50:59
-updated: 2024-05-28 12:43:35
+date: 2024-05-31T07:40:48.111Z
+updated: 2024-06-01T07:40:48.111Z
 tags: 
   - screen-recording
   - ai video
@@ -898,4 +898,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

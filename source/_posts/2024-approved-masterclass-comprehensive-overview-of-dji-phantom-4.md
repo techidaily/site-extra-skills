@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterclass  Comprehensive Overview of DJI Phantom 4\""
-date: 2024-05-26 13:53:34
-updated: 2024-05-28 11:41:33
+date: 2024-05-31T07:36:02.181Z
+updated: 2024-06-01T07:36:02.181Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

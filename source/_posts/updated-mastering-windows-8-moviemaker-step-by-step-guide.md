@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Windows 8 Moviemaker  Step-by-Step Guide\""
-date: 2024-05-27 20:13:38
-updated: 2024-05-28 12:58:45
+date: 2024-05-31T07:39:59.377Z
+updated: 2024-06-01T07:39:59.377Z
 tags: 
   - screen-recording
   - ai video
@@ -123,4 +123,5 @@ If you are looking for an alternative that can replace windows movie maker with 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

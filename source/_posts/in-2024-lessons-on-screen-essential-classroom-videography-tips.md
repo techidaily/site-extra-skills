@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Lessons on Screen  Essential Classroom Videography Tips\""
-date: 2024-05-25 22:15:31
-updated: 2024-05-28 12:54:18
+date: 2024-05-31T07:38:55.963Z
+updated: 2024-06-01T07:38:55.963Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

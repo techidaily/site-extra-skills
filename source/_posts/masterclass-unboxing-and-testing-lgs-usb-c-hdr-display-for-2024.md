@@ -1,7 +1,7 @@
 ---
 title: "\"Masterclass  Unboxing and Testing LG's USB-C HDR Display for 2024\""
-date: 2024-05-27 22:44:28
-updated: 2024-05-28 10:13:42
+date: 2024-05-31T07:39:00.289Z
+updated: 2024-06-01T07:39:00.289Z
 tags: 
   - screen-recording
   - ai video
@@ -546,4 +546,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

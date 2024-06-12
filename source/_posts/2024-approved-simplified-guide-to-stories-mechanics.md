@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Simplified Guide to Stories' Mechanics\""
-date: 2024-05-30 10:14:43
-updated: 2024-05-31 12:47:53
+date: 2024-05-31T07:38:53.544Z
+updated: 2024-06-01T07:38:53.544Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ The value of storytelling can help you increase customer engagement and establis
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

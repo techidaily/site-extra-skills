@@ -1,7 +1,7 @@
 ---
 title: "How to Write Amazing Podcast Descriptions (With Examples) for 2024"
-date: 2024-05-26 15:54:50
-updated: 2024-05-29 12:58:11
+date: 2024-05-31T07:40:03.785Z
+updated: 2024-06-01T07:40:03.785Z
 tags: 
   - screen-recording
   - ai video
@@ -491,4 +491,5 @@ WITH [JENNA FISCHER](https://www.earwolf.com/person/jenna-fischer/) AND [ANGELA 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

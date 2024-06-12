@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Journey Into the Metaverse  Constructing an Authentic Avatar\""
-date: 2024-05-27 13:20:27
-updated: 2024-05-28 12:18:34
+date: 2024-05-31T07:40:44.436Z
+updated: 2024-06-01T07:40:44.436Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ After this technological evolution took the internet on a storm, we often hear t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

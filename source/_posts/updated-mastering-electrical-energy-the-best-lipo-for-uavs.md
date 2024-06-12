@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Electrical Energy  The Best LiPo for UAVs\""
-date: 2024-05-26 18:38:27
-updated: 2024-05-28 12:47:17
+date: 2024-05-31T07:37:38.182Z
+updated: 2024-06-01T07:37:38.182Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

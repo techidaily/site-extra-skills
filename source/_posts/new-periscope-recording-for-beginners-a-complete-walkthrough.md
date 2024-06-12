@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Periscope Recording for Beginners  A Complete Walkthrough\""
-date: 2024-05-28 11:41:10
-updated: 2024-05-29 11:53:23
+date: 2024-05-31T07:41:09.916Z
+updated: 2024-06-01T07:41:09.916Z
 tags: 
   - screen-recording
   - ai video
@@ -374,4 +374,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

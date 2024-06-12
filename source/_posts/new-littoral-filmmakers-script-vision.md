@@ -1,7 +1,7 @@
 ---
 title: "[New] Littoral Filmmaker's Script Vision"
-date: 2024-05-26 18:23:53
-updated: 2024-05-28 11:53:53
+date: 2024-05-31T07:40:16.293Z
+updated: 2024-06-01T07:40:16.293Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

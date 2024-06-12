@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Smooth Shifts  Audio Transition Wisdom From Sonar by Platinum\""
-date: 2024-05-29 12:30:21
-updated: 2024-05-31 12:53:48
+date: 2024-05-31T07:39:18.516Z
+updated: 2024-06-01T07:39:18.516Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

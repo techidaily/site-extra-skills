@@ -1,7 +1,7 @@
 ---
 title: "[New] Leading Video Cameras of the Year, 2024 Edition"
-date: 2024-05-25 15:57:53
-updated: 2024-05-28 11:12:27
+date: 2024-05-31T07:38:48.131Z
+updated: 2024-06-01T07:38:48.131Z
 tags: 
   - screen-recording
   - ai video
@@ -238,4 +238,5 @@ To sum things up besides the specifications of this camera, we find this one of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

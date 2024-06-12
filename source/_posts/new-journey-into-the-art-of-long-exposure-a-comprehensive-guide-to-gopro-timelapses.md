@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Journey Into the Art of Long-Exposure  A Comprehensive Guide to GoPro Timelapses\""
-date: 2024-05-26 10:57:17
-updated: 2024-05-28 12:33:46
+date: 2024-05-31T07:38:25.319Z
+updated: 2024-06-01T07:38:25.319Z
 tags: 
   - screen-recording
   - ai video
@@ -176,4 +176,5 @@ GoPro cameras are ideal for time-lapse photography thanks to their small size, w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

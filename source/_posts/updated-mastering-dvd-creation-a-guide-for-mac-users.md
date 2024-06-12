@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering DVD Creation  A Guide for Mac Users\""
-date: 2024-05-25 19:23:48
-updated: 2024-05-28 10:32:14
+date: 2024-05-31T07:39:11.074Z
+updated: 2024-06-01T07:39:11.074Z
 tags: 
   - screen-recording
   - ai video
@@ -374,4 +374,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

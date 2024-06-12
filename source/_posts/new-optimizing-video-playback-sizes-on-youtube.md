@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimizing Video Playback Sizes on YouTube"
-date: 2024-05-27 12:20:25
-updated: 2024-05-29 12:20:59
+date: 2024-05-31T07:41:26.782Z
+updated: 2024-06-01T07:41:26.782Z
 tags: 
   - screen-recording
   - ai video
@@ -142,4 +142,5 @@ There are several ways you can zoom into YouTube videos to check out the desired
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

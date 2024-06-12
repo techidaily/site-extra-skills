@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfecting Your Green Screen Workflow with KineMaster"
-date: 2024-05-28 20:35:20
-updated: 2024-05-29 12:45:57
+date: 2024-05-31T07:41:22.187Z
+updated: 2024-06-01T07:41:22.187Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ Hopefully, you've found this guide helpful, and now you have enough information 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

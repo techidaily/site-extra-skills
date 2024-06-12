@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Close-Up Views on MS Teams\""
-date: 2024-05-26 13:44:12
-updated: 2024-05-28 12:25:37
+date: 2024-05-31T07:36:18.822Z
+updated: 2024-06-01T07:36:18.822Z
 tags: 
   - screen-recording
   - ai video
@@ -123,4 +123,5 @@ With Zoom and Teams, you can do most business from different places thanks to it
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quick Guide  Fusing Photos Into a Book with Mac\""
-date: 2024-05-29 23:38:21
-updated: 2024-05-30 11:49:36
+date: 2024-05-31T07:41:16.648Z
+updated: 2024-06-01T07:41:16.648Z
 tags: 
   - screen-recording
   - ai video
@@ -1206,4 +1206,5 @@ Turbo Collage is a software for **Mac photos collage** making. It’s actually a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

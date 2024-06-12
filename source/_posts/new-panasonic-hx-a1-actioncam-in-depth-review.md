@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Panasonic HX-A1 ActionCam  In-Depth Review\""
-date: 2024-05-27 20:29:46
-updated: 2024-05-29 11:45:59
+date: 2024-05-31T07:37:14.993Z
+updated: 2024-06-01T07:37:14.993Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

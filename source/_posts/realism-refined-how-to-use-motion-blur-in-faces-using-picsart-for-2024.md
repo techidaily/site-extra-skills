@@ -1,7 +1,7 @@
 ---
 title: "\"Realism Refined  How to Use Motion Blur in Faces Using Picsart for 2024\""
-date: 2024-05-28 22:53:19
-updated: 2024-05-30 10:29:14
+date: 2024-05-31T07:40:09.909Z
+updated: 2024-06-01T07:40:09.909Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ This article has provided a comprehensive guide on how to do motion blur on Pics
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Master Your First PS Project  10 Easy Tips\""
-date: 2024-05-25 14:57:19
-updated: 2024-05-28 12:46:26
+date: 2024-05-31T07:36:14.451Z
+updated: 2024-06-01T07:36:14.451Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ Without any doubt, Adobe Photoshop is one of the notorious tools to conduct adva
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

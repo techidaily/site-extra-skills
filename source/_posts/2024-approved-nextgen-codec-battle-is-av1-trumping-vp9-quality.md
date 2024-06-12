@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  NextGen Codec Battle  Is AV1 Trumping VP9 Quality?\""
-date: 2024-05-26 22:12:35
-updated: 2024-05-29 11:22:45
+date: 2024-05-31T07:40:48.974Z
+updated: 2024-06-01T07:40:48.974Z
 tags: 
   - screen-recording
   - ai video
@@ -146,4 +146,5 @@ We hope this AV1 vs VP9 comparison article has dispelled all your fears about us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

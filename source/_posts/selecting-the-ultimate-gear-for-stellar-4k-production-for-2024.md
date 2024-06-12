@@ -1,7 +1,7 @@
 ---
 title: "Selecting the Ultimate Gear for Stellar 4K Production for 2024"
-date: 2024-05-28 13:55:22
-updated: 2024-05-30 11:11:57
+date: 2024-05-31T07:39:15.111Z
+updated: 2024-06-01T07:39:15.111Z
 tags: 
   - screen-recording
   - ai video
@@ -898,4 +898,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

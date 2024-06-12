@@ -1,7 +1,7 @@
 ---
 title: "[New] Lightened Transition Tactics"
-date: 2024-05-27 20:35:15
-updated: 2024-05-28 12:24:58
+date: 2024-05-31T07:41:04.749Z
+updated: 2024-06-01T07:41:04.749Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ Thus, in this guide, you learned how to add fade-in Premiere and proper edits to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

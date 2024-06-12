@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Selective Sights  Best macOS Sierra Video Editors\""
-date: 2024-05-28 19:21:58
-updated: 2024-05-30 11:48:49
+date: 2024-05-31T07:40:58.601Z
+updated: 2024-06-01T07:40:58.601Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

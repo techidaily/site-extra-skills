@@ -1,7 +1,7 @@
 ---
 title: "\"Luminous Layers  The Grader's Path to Perfection for 2024\""
-date: 2024-05-27 22:42:49
-updated: 2024-05-28 12:39:53
+date: 2024-05-31T07:40:36.184Z
+updated: 2024-06-01T07:40:36.184Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

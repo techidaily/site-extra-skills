@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sony's Vision Captured - Complete Review of FDR-X1000V\""
-date: 2024-05-30 23:59:45
-updated: 2024-05-31 12:38:21
+date: 2024-05-31T07:36:56.504Z
+updated: 2024-06-01T07:36:56.504Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

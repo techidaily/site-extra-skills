@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Light on Shadows  Techniques for Depth in Illustrator\""
-date: 2024-05-25 14:15:51
-updated: 2024-05-28 10:44:50
+date: 2024-05-31T07:40:03.992Z
+updated: 2024-06-01T07:40:03.992Z
 tags: 
   - screen-recording
   - ai video
@@ -144,4 +144,5 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

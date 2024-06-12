@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] SRS Adjustment Guide  Boosting Performance on Both Platforms\""
-date: 2024-05-30 13:40:47
-updated: 2024-05-31 12:32:10
+date: 2024-05-31T07:40:59.447Z
+updated: 2024-06-01T07:40:59.447Z
 tags: 
   - screen-recording
   - ai video
@@ -724,4 +724,5 @@ Multiple helpful software is available for Mac and Windows users to make changes
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

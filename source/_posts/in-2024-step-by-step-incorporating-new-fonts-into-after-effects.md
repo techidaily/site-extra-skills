@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step  Incorporating New Fonts Into After Effects\""
-date: 2024-05-28 20:36:17
-updated: 2024-05-31 10:16:52
+date: 2024-05-31T07:39:09.042Z
+updated: 2024-06-01T07:39:09.042Z
 tags: 
   - screen-recording
   - ai video
@@ -129,4 +129,5 @@ The article discussed the detailed process of **how to add font to Adobe After E
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

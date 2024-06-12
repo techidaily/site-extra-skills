@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Motion Photography with the Latest Yi Technology"
-date: 2024-05-25 16:36:17
-updated: 2024-05-28 11:28:15
+date: 2024-05-31T07:37:19.223Z
+updated: 2024-06-01T07:37:19.223Z
 tags: 
   - screen-recording
   - ai video
@@ -458,4 +458,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

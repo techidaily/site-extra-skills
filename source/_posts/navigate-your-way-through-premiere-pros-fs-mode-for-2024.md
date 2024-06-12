@@ -1,7 +1,7 @@
 ---
 title: "Navigate Your Way Through Premiere Pro's FS Mode for 2024"
-date: 2024-05-26 14:42:58
-updated: 2024-05-29 12:50:25
+date: 2024-05-31T07:40:03.127Z
+updated: 2024-06-01T07:40:03.127Z
 tags: 
   - screen-recording
   - ai video
@@ -227,4 +227,5 @@ In addition, it enables you to collaborate with partners if you are working on a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

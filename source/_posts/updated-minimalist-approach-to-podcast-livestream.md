@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Minimalist Approach to Podcast Livestream"
-date: 2024-05-25 18:36:26
-updated: 2024-05-28 10:46:28
+date: 2024-05-31T07:41:31.216Z
+updated: 2024-06-01T07:41:31.216Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ Live streaming is a new world for content creators. Even though they don't have 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

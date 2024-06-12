@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quick Guide  Applying On-Screen Captions to Photos Videos\""
-date: 2024-05-29 18:26:28
-updated: 2024-05-30 11:22:49
+date: 2024-05-31T07:40:17.497Z
+updated: 2024-06-01T07:40:17.497Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

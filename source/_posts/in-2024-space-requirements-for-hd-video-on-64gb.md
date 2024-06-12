@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Space Requirements for HD Video on 64GB?"
-date: 2024-05-30 20:50:26
-updated: 2024-05-31 11:41:56
+date: 2024-05-31T07:37:38.652Z
+updated: 2024-06-01T07:37:38.652Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ A wide range of softwares and applications help with video compressing features 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 
