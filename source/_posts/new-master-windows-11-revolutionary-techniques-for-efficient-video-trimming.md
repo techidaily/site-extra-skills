@@ -1,0 +1,114 @@
+---
+title: "\"[New] Master Window's 11  Revolutionary Techniques for Efficient Video Trimming\""
+date: 2024-06-20T05:08:50.644Z
+updated: 2024-06-21T05:08:50.644Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes [New] Master Window's 11: Revolutionary Techniques for Efficient Video Trimming\""
+excerpt: "\"This Article Describes [New] Master Window's 11: Revolutionary Techniques for Efficient Video Trimming\""
+keywords: "Master Trimming,RevTrim VidTech,Winvid Efficiency,TrimPro Window's,TrimMaster Quick,Video Cutting Wins,TechEdge Trimming"
+thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4cf3e7d146e6c0272a50f3335.jpg
+---
+
+## Master Window's 11: Revolutionary Techniques for Efficient Video Trimming
+
+# How to Trim Video in Windows 10 Photos Easily
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+You have got your brand new Windows 10 computer and want to try your hands on video editing. But, you are unsure of using a built-in tool to do that or getting a third-party tool for that matter. Well, let us clear the air and confusion for you. If you want to trim the videos as well and chop off unwanted parts from them, you don't have to download anything.
+
+The in-built editor in Windows 10 Photos can do that for you. Through this article, we would introduce how to trim videos in Windows 10 Photos and another good news is we will add a bonus tip for you, i.e. trimming your video with VLC as well. So, cheers! Get ready to create amazing videos with this awesome tool.
+
+* [**Part1: How to trim video in Windows 10 Photos**](#part1)
+* [**Part2: How to trim video in Windows 10 with VLC**](#part2)
+
+## Part 1: How to trim video in Windows 10 Photos
+
+When you talk about video trimming apps on Windows 10 PC, Photos is the only built-in app capable of doing so. Whether you want to do away with the awkward starting of your video or want to club multiple video clips, get Photos on work for that. Basic level editing is possible with Photos, for additional video editing.
+
+Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab) –
+
+**Step 1**: On your Windows 10 system, go to 'File Explorer' and find the desired video. Right-tap on the video and then choose 'Open With' the 'Photos' option. The alternative method includes going to the 'Start' menu and opening the 'Photos' app. Find the video and open it.
+
+**Step 2**: Tap on the video to access the menu bar. Once the menu bar appears at the top hit the **Edit and Create** \> **Trim**.
+
+![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/photos-trim.jpg)
+
+**Step 3**: On the bottom part of the screen, there are three circles. The start and end of the markers clips are represented by two small white circles. For chopping off the unwanted portions you need to drag and adjust the marker circles. The movement of markers shows a text denoting the total selected length of the clip over the marker. The larger marker represents the present spot of your video clip. Make sure to drag around and adjust the video for including all the important parts within the video.
+
+![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
+
+**Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
+
+## Part 2: How to trim video in Windows 10 with VLC
+
+Well, as we promised you in the beginning, it's time for the bonus tip! You have understood how to trim videos in Windows 10 Photos, let's explore VLC's magic. When Windows 10 Photos allows you basic level easy trimming for advanced features you can try [VLC](https://www.videolan.org/). For operating systems other than Windows, such as Fedora, Ubuntu, or Mac you won't be able to use Windows 10 Photos, so VLC is a good option for cross-platform video editing.
+
+It is important to update VLC to the latest version to explore the complete features of this application. It supports a wide range of multimedia files for editing videos as well as streaming protocols and video discs.
+
+Here comes the step by step guide to trim video in VLC –
+
+1. Once you update and install the latest version of the VLC media player on your Windows or another computer, launch it and go to the 'View' menu for activating the 'Advanced controls' option.
+
+![trim videos in windows 10 using VLC](https://images.wondershare.com/filmora/article-images/vlc-trim-video.jpg)
+
+1. Upon activation of the 'Advanced controls' option, four additional buttons appear over the VLC media player's play/pause button. Now, you got to add the video by 'Open File'. Well, you can also do that by dragging and dropping the video as well.
+2. Select the position from where you want to keep the video and hit the play and record button together.
+3. Now, tap the 'Record' button again where you want to stop the recording. This clip automatically gets saved as an MP4 media file. You can find it within the 'Libraries/Videos' folder if it's a Windows 7 PC.
+
+Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
+
+## Conclusion
+
+From the above article, we found that **trimming video in VLC and Windows 10 Photos** has its own set of advantages. While in Windows 10 Photos, you get the ease of operation for trimming the clip, VLC is a bit time taking. But, when it comes to more features in video editing, VLC certainly has better brownie points. But finally, it's your call to pick what suits you for your video editing needs. If you want to trim video easily, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-journey-from-gifs-to-stickers-perfect-instructions-for-all-chat-platforms/"><u>[Updated] Journey From GIFs to Stickers  Perfect Instructions for All Chat Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sticker-creation-from-gifs-a-step-by-step-tutorial-for-discs-and-chats/"><u>[New] Sticker Creation From GIFs  A Step-by-Step Tutorial for Discs and Chats</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sharpen-up-discover-the-best-online-photo-fixers/"><u>[New] Sharpen Up! Discover the Best Online Photo Fixers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-no-experience-no-obstacle-the-ultimate-guide-to-profits-on-reddit/"><u>[New] No Experience? No Obstacle  The Ultimate Guide to Profits on Reddit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-solutions-transforming-images-into-videos-for-2024/"><u>Optimal Solutions  Transforming Images Into Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-3d-cinema-at-home-best-3d-blu-ray-systems/"><u>[Updated] Seamless 3D Cinema at Home  Best 3D Blu-Ray Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-snowball-rally-highlights-from-the-beijing-games-2022/"><u>In 2024, Snowball Rally  Highlights From the Beijing Games, 2022</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leveraging-innovative-features-a-guide-to-implementing-speech-inputs-in-powerpoint/"><u>[New] Leveraging Innovative Features  A Guide to Implementing Speech Inputs in PowerPoint</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pinnacle-chroma-modifier/"><u>2024 Approved  Pinnacle Chroma Modifier</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-top-20-strategies-for-boosting-fb-ads-via-video-content/"><u>2024 Approved  Top 20 Strategies for Boosting FB Ads via Video Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/instagram-video-sharing-essentials-for-2024/"><u>Instagram Video Sharing Essentials for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-in-this-article-you-will-find-ten-of-the-best-and-most-trusted-video-editing-applications-that-do-support-4k-videos-including-both-free-4k-a/"><u>Updated In 2024, In This Article, You Will Find Ten of the Best and Most Trusted Video Editing Applications that Do Support 4K Videos, Including Both Free 4K and Paid 4K Video Editing Software for You to Choose</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-multi-display-mode-an-in-depth-guide-to-pip-on-edge-for-2024/"><u>Mastering Multi-Display Mode  An In-Depth Guide to PIP on Edge for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-s17-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo S17 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-brighten-your-surroundings-with-21plus-collage-wonders/"><u>[Updated] Brighten Your Surroundings with 21+ Collage Wonders</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-framing-speed-the-hyperlapse-video-methods/"><u>[New] Framing Speed  The Hyperlapse Video Methods</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-how-to-flip-a-video-online-top-tools-and-tricks/"><u>Updated How to Flip a Video Online Top Tools and Tricks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-smart-8-plus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Smart 8 Plus to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-decoding-the-core-contrasts-between-youtube-and-dailymention/"><u>[New] In 2024, Decoding the Core Contrasts Between YouTube and DailyMention</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
