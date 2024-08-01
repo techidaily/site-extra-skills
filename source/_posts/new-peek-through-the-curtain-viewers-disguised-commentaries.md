@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Peek Through the Curtain  Viewers' Disguised Commentaries\""
-date: 2024-05-31T07:39:59.119Z
-updated: 2024-06-01T07:39:59.119Z
+date: 2024-07-31T09:20:33.228Z
+updated: 2024-08-01T09:20:33.228Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Peek Through the Curtain: Viewers' Disguised Commentaries\""
 excerpt: "\"This Article Describes [New] Peek Through the Curtain: Viewers' Disguised Commentaries\""
 keywords: "\"Viewer Insights,Hidden Reviews,Behind-the-Screen Feedback,Covert Critiques,Stealth Viewing Comments,Secret Audience Opinions,Concealed Commentary\""
-thumbnail: https://www.lifewire.com/thmb/QRXV0UeTXIr-6aFMAG_UhB6Snr4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/samsungvoiceassistant-1c59910bc4614b2a8531fc5b7a754e7d.jpg
+thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad0c19a044a9d73401964e5e7.jpg
 ---
 
 ## Peek Through the Curtain: Viewers' Disguised Commentaries
@@ -65,6 +65,9 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -85,6 +88,9 @@ Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
@@ -93,12 +99,18 @@ Step3 Click the **Comments** section.
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
@@ -115,6 +127,9 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -165,6 +180,9 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -181,6 +199,9 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
@@ -189,16 +210,25 @@ Step2 Scroll down a little bit and click the **More** button.
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
@@ -215,6 +245,9 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -247,6 +280,9 @@ Because understanding how to comment is only one aspect of the issue; very impor
 
 Try making a joke, pointing out something amusing, providing helpful information, or expressing sympathy or concern for a fan. Additionally, a simple thumbs-up or heart can go a long way to demonstrate that you are paying attention even if you aren't feeling very friendly (we all have bad days, it's OK!).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Did you know what a Highlighted comment is?
 
 A highlighted comment on YouTube aims to draw the content creator's attention with an automated feature.
@@ -283,3 +319,50 @@ Additionally, video creators can manually highlight commenters to mark them for 
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-conquer-social-media-optimal-video-converters-for-twitters/"><u>[New] Conquer Social Media  Optimal Video Converters for Twitters</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-crafting-captivating-tiktoks-mastering-the-use-of-pre-designed-templates-for-2024/"><u>[New] Crafting Captivating TikToks  Mastering the Use of Pre-Designed Templates for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-elite-guide-exceptional-instagram-hlv-designers/"><u>[New] In 2024, Elite Guide  Exceptional Instagram HLV Designers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-hidden-drain-unearthing-deceptive-likes-costs/"><u>[New] In 2024, The Hidden Drain  Unearthing Deceptive Likes' Costs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-logic-pros-way-to-softly-diminish-loud-passages/"><u>[New] Logic Pro's Way to Softly Diminish Loud Passages</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfect-proportions-for-professional-videos/"><u>[New] Perfect Proportions for Professional Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-samsungs-rival-the-leading-cameras-to-match-your-gear-360-needs/"><u>[New] Samsung’s Rival  The Leading Cameras to Match Your Gear 360 Needs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-secrets-of-the-trade-in-sourcing-professional-filmmakers/"><u>[New] Secrets of the Trade in Sourcing Professional Filmmakers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-softening-playlist-sounds-on-pcmac-systems/"><u>[New] Softening Playlist Sounds on PC/Mac Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beyond-single-pictures-creating-a-story-with-montages/"><u>[Updated] Beyond Single Pictures  Creating a Story with Montages</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unlocking-the-power-of-music-in-engaging-video-content/"><u>[Updated] In 2024, Unlocking the Power of Music in Engaging Video Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-instagrams-secrets-for-creating-must-watch-unboxings/"><u>[Updated] Instagram's Secrets for Creating Must-Watch Unboxings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-collage-creation/"><u>[Updated] Mastering the Art of Collage Creation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quest-conquerors-best-of-the-role-playing-worlds-for-2024/"><u>[Updated] Quest Conquerors  Best of the Role-Playing Worlds for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-stealth-mode-a-guide-to-living-large-unlabeled/"><u>[Updated] Stealth Mode  A Guide to Living Large, Unlabeled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-steps-to-secure-clear-image-collections/"><u>[Updated] Steps to Secure, Clear Image Collections</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-first-timers-manual-for-cool-mac-crafted-youtube-clips/"><u>2024 Approved  First-Timer's Manual for Cool, Mac-Crafted YouTube Clips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterful-character-animation-groups/"><u>2024 Approved  Masterful Character Animation Groups</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-peak-performance-audio-organizer-android/"><u>2024 Approved  Peak Performance Audio Organizer, Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pixtra-photo-editor-deep-dive/"><u>2024 Approved  Pixtra Photo Editor Deep Dive</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-poll-power-players-guide-quintessential-voting-simulations/"><u>2024 Approved  Poll Power Players' Guide  Quintessential Voting Simulations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prodigious-editing-power-utilizing-inshot-on-devices/"><u>2024 Approved  Prodigious Editing Power  Utilizing Inshot on Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-reactivate-and-enhance-photo-viewing-with-ease-win-11/"><u>2024 Approved  Reactivate and Enhance Photo Viewing with Ease (Win 11)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sierra-navigating-desktop-drives-with-ease/"><u>2024 Approved  Sierra  Navigating Desktop, Drives with Ease</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sound-sculpting-crafting-harmony-in-audiovox-studio/"><u>2024 Approved  Sound Sculpting  Crafting Harmony in Audiovox Studio</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/androids-step-by-step-to-rotate-and-unite-video-files-for-2024/"><u>Android's Step-by-Step to Rotate & Unite Video Files for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ptualists-engineering-marvel-online-worlds/"><u>Conceptualists Engineering Marvel Online Worlds</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-novice-to-pro-steps-for-social-success/"><u>From Novice to Pro  Steps for Social Success</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-eliminate-background-in-picsart-for-2024/"><u>How to Eliminate Background in Picsart for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-action-cams-that-keep-moving-steady/"><u>In 2024, Leading Action Cams That Keep Moving Steady</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterful-text-effects-in-adobe-after-effects/"><u>In 2024, Masterful Text Effects in Adobe After Effects</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mediacutmaster-review-in-depth-evaluation/"><u>In 2024, MediaCutMaster Review – In-Depth Evaluation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-next-gen-media-masters-5-top-mac-videography-apps/"><u>In 2024, Next-Gen Media Masters  5 Top Mac Videography Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-13-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 13 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/optimizing-video-output-the-adobe-presenter-way-for-2024/"><u>Optimizing Video Output  The Adobe Presenter Way for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/precision-in-panorama-steadying-the-gopro-sight-for-2024/"><u>Precision in Panorama  Steadying the GoPro Sight for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reviving-the-past-essential-vhs-visuals-in-todays-edits-for-2024/"><u>Reviving the Past  Essential VHS Visuals in Today's Edits for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revolutionize-your-recording-experience-top-18-cam-tools-showcase-for-2024/"><u>Revolutionize Your Recording Experience - Top 18 Cam Tools Showcase for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secure-stock-images-avoiding-watermarks-for-2024/"><u>Secure Stock Images  Avoiding Watermarks for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/shadowy-time-lapse-recording-methods-for-2024/"><u>Shadowy Time-Lapse Recording Methods for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/social-network-video-download-for-audio-conversion-for-2024/"><u>Social Network Video Download for Audio Conversion for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-v30t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme V30T without Them Knowing | Dr.fone</u></a></li>
+</ul></div>

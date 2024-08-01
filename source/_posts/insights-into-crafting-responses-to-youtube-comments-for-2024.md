@@ -1,7 +1,7 @@
 ---
 title: "Insights Into Crafting Responses to YouTube Comments for 2024"
-date: 2024-05-31T07:38:31.009Z
-updated: 2024-06-01T07:38:31.009Z
+date: 2024-07-31T07:45:35.708Z
+updated: 2024-08-01T07:45:35.708Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Insights Into Crafting Responses to YouTube Comments for 2024"
 excerpt: "This Article Describes Insights Into Crafting Responses to YouTube Comments for 2024"
 keywords: "YouTubE Comment Response Tips,Effective YouTube Reply Skills,Engaging with YouTube Comments,Best Practices in Video Comment Replies,Crafting YouTube Responses Well,Respond to YoutUBe Feedback,Comment Strategy for YouTube Videos"
-thumbnail: https://www.lifewire.com/thmb/S3IxQc5NbiBIm6W598sDgxnzjls=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Screenshot2023-09-12at10.38.12AM-c9f8329847a4488fafe26b1496a3c9bd.png
+thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b4aa1a37bd43c93403b74a19.png
 ---
 
 ## Insights Into Crafting Responses to YouTube Comments
@@ -28,6 +28,9 @@ Unfortunately, when it comes to comment, YouTube can be a little clunky and time
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## What is YouTube Comment
 
 YouTube comments are an opportunity for the site's 1.7 million unique monthly visitors to share what they love, hate or simply must troll. It's like the internet own personal Thunderdome, but while it can be a place for negativity, YouTube comments can also be a powerful opportunity for positive community building and engagement.
@@ -36,6 +39,13 @@ Not only does it show your fans followers that you care about what they have to 
 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## Advantage of YouTube comments
 
 If you're wondering whether you really need to monitor your YouTube comments, here are three compelling reasons why you should:
@@ -54,6 +64,9 @@ Each comment you leave is another reference and exposure to your brand (and a ch
 
 Step1 Below the video itself, find the comment section.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
@@ -72,10 +85,16 @@ To manage your comments on YouTube using a PC, the operating system does not mat
 
 Step1 Open your chosen browser, head to YouTube, then sign in to your Google/YouTube account if not already signed in.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
 Step3 From the drop down menu, select “History”.
@@ -114,6 +133,9 @@ Comments history also contains the link to the video where you've left the comme
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -148,3 +170,72 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-funimate-unlocking-the-secrets-of-easy-downloads/"><u>[New] 2024 Approved  Funimate  Unlocking the Secrets of Easy Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-ingredients-to-inspiration-cooking-videos-for-2024/"><u>[New] From Ingredients to Inspiration  Cooking Videos for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-step-by-step-the-ultimate-4-methods-for-gameplay-screens/"><u>[New] In 2024, Step-By-Step  The Ultimate 4 Methods for Gameplay Screens</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-key-steps-for-flawless-audio-segmentation/"><u>[New] Key Steps for Flawless Audio Segmentation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-kinemasters-guide-to-fluid-film-segments/"><u>[New] Kinemaster's Guide to Fluid Film Segments</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-liveoutnow-an-in-depth-look-at-effortless-podcast-live-streaming/"><u>[New] LiveOutNow  An In-Depth Look at Effortless Podcast Live Streaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterful-mixing-video-and-melody-combinations-on-win11/"><u>[New] Masterful Mixing  Video & Melody Combinations on Win11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-easy-hdr-a-step-by-step-guide/"><u>[New] Mastering Easy HDR  A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-in-video-narrations-a-step-by-step-guide/"><u>[New] Mastering In-Video Narrations  A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-crafting-compelling-video-testimonials/"><u>[New] Mastering the Art of Crafting Compelling Video Testimonials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-video-capture-the-premier-18-cameras-for-professionals/"><u>[New] Mastering Video Capture  The Premier 18 Cameras for Professionals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-stepwise-approach-to-srt-file-creation-brilliance/"><u>[New] Stepwise Approach to SRT File Creation Brilliance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-webcam-perfection-in-live-streaming-and-recording-for-2024/"><u>[New] WebCam Perfection in Live-Streaming and Recording for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-top-25-instagram-hashtags-to-get-likes-and-followers/"><u>[Updated] 2024 Approved  Top 25 Instagram Hashtags to Get Likes and Followers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-boost-engagement-syncing-youtube-and-facebook/"><u>[Updated] Boost Engagement  Syncing YouTube and Facebook</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-find-hidden-fb-watch-video-tile-for-2024/"><u>[Updated] Find Hidden FB Watch Video Tile for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-the-peak-content-igtvs-leaders/"><u>[Updated] In 2024, Navigating the Peak Content  IGTV's Leaders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inverting-media-flow-apple-device-technique/"><u>[Updated] Inverting Media Flow  Apple Device Technique</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-the-art-of-persuasion-top-30-video-strategies/"><u>[Updated] Master the Art of Persuasion  Top 30 Video Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-minute-by-minute-srt-conversion-to-text-txt/"><u>[Updated] Mastering Minute-by-Minute SRT Conversion to Text (TXT)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-shapes-and-lines-essential-software-to-know-today/"><u>[Updated] Mastering Shapes and Lines  Essential Software to Know Today</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-must-haves-for-capturing-movies-on-the-move-for-2024/"><u>[Updated] Must-Haves for Capturing Movies on the Move for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-rapid-film-techniques-make-your-own-studio-at-home/"><u>[Updated] Rapid Film Techniques  Make Your Own Studio At Home</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-speech-to-text-device-review/"><u>[Updated] Speech-to-Text Device Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-speech-to-text-technology-absolutely-gratuitous/"><u>[Updated] Speech-to-Text Technology, Absolutely Gratuitous</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-to-perfect-close-up-cinematic-shots/"><u>[Updated] Step-by-Step Guide to Perfect Close-Up Cinematic Shots</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-list-the-top-10-thrilling-action-packed-games-for-2024/"><u>[Updated] Ultimate List  The Top 10 Thrilling Action-Packed Games for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unidentified-user-strategies-for-accessing-instagram-stories-on-desktopmobile-for-2024/"><u>[Updated] Unidentified User Strategies for Accessing Instagram Stories on Desktop/Mobile for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-image-transformations-today/"><u>2024 Approved  Master Image Transformations Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-narrating-real-life-how-to-write-engaging-docu-scripts/"><u>2024 Approved  Narrating Real Life  How to Write Engaging Docu-Scripts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-no-8-virtual-pixel-mashup-software/"><u>2024 Approved  No. 8 Virtual Pixel Mashup Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-pair-of-timers-ios-and-android-wedding-clock-essentials/"><u>2024 Approved  Perfect Pair of Timers  IOS & Android Wedding Clock Essentials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-perks-for-your-gopro-camera/"><u>2024 Approved  Premier Perks for Your GoPro Camera</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premiere-scenarios-in-eight-movie-types/"><u>2024 Approved  Premiere Scenarios in Eight Movie Types</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-reinstate-precise-sound-in-zoom-chats/"><u>2024 Approved  Reinstate Precise Sound in Zoom Chats</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-podcast-journey-from-creation-to-google-submission/"><u>2024 Approved  Seamless Podcast Journey  From Creation to Google Submission</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-speed-on-thin-ice-top-performances-from-the-olympics/"><u>2024 Approved  Speed on Thin Ice  Top Performances From the Olympics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-vllo-feedback-compilation/"><u>2024 Approved  VLLO Feedback Compilation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/achieving-comprehensive-participant-visualization-on-meet/"><u>Achieving Comprehensive Participant Visualization on Meet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-6s-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 6s Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-motorola-moto-g23-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Motorola Moto G23 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/encrypting-lives-techniques-to-mask-personal-information-for-2024/"><u>Encrypting Lives  Techniques to Mask Personal Information for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-vivo-y78-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Vivo Y78 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy XCover 6 Pro Tactical Edition to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-inspirational-movies-for-momentum-and-self-belief/"><u>In 2024, Inspirational Movies for Momentum and Self-Belief</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-inspire-your-physical-endeavors-the-most-motivating-track-list-for-gym-goers/"><u>In 2024, Inspire Your Physical Endeavors  The Most Motivating Track List for Gym Goers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-minuscule-cinematic-design/"><u>In 2024, Minuscule Cinematic Design</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mold-personal-memes-that-resonate/"><u>In 2024, Mold Personal Memes That Resonate</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-next-gen-gaming-horizon-upcoming-bests-in-playstation-vr/"><u>In 2024, Next-Gen Gaming Horizon  Upcoming Bests in PlayStation VR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-nows-vr-device-showcase-and-analysis/"><u>In 2024, Now’s VR Device Showcase & Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-your-srt-craft-a-compreran-guide-to-tips-and-tricks/"><u>In 2024, Perfecting Your SRT Craft  A Compreran Guide to Tips & Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premiere-seminar-title-assembler/"><u>In 2024, Premiere Seminar Title Assembler</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-recharge-and-reflect-top-ideas-for-combining-podcast-listening-and-tasks/"><u>In 2024, Recharge and Reflect  Top Ideas for Combining Podcast Listening & Tasks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revamped-podcast-chats-attracting-true-fans/"><u>In 2024, Revamped Podcast Chats  Attracting True Fans</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sleek-design-and-stunning-video-quality-in-sony-xperia-xz/"><u>In 2024, Sleek Design and Stunning Video Quality in Sony Xperia XZ</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-xiaomi-redmi-k70-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Xiaomi Redmi K70 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ultimate-guide-using-old-school-film-tricks-today/"><u>In 2024, Ultimate Guide  Using Old-School Film Tricks Today</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-nokia-c22-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Nokia C22? Fixed | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/limit-win-10-display-extensiveness/"><u>Limit WIN 10 Display Extensiveness</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-basic-tone-alterations-in-ps-for-2024/"><u>Mastering Basic Tone Alterations in PS for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/real-time-videoimage-editing-easy-3dlut-use-for-2024/"><u>Real-Time Video/Image Editing  Easy 3DLUT Use for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/rejuvenate-your-pictures-the-most-powerful-10-online-edits-for-2024/"><u>Rejuvenate Your Pictures  The Most Powerful 10 Online Edits for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721450826525-troubleshooting-iphones-control-center-top-8-fixes-that-work/"><u>Troubleshooting iPhone's Control Center: Top 8 Fixes That Work!</u></a></li>
+</ul></div>

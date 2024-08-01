@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Single-Out Focal Point Using Affinity\""
-date: 2024-05-31T07:37:49.194Z
-updated: 2024-06-01T07:37:49.194Z
+date: 2024-07-31T07:01:36.730Z
+updated: 2024-08-01T07:01:36.730Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Single-Out Focal Point Using Affinity\""
 excerpt: "\"This Article Describes In 2024, Single-Out Focal Point Using Affinity\""
 keywords: "Podcast Launch Day Strategies,Prime Podcast Start Times,Best Days for Podcast Premier,Optimal Podcast Debut Periods,Ideal Podcast Release Dates,Perfect Podcast Opening Hours,Top Podcast Inauguration Moments"
-thumbnail: https://www.lifewire.com/thmb/M8nTiwLLAFZesyB_EbKXIxGR1nU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1148422594-c785d515e0a34d2dba107f88fb475071.jpg
+thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816dfbd913fea0d2186dd349bdd.jpg
 ---
 
 ## Single-Out Focal Point Using Affinity
@@ -22,10 +22,16 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -42,6 +48,9 @@ Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and 
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -56,6 +65,9 @@ Step5 In the last step, press the **"Delete"** key on your keyboard to remove th
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -81,10 +93,18 @@ Step5 In this last step, you must deselect the outline around your subject. For 
 
 Finally, click **"File"** and select the **"Export"** option from the drop-down menu. Then, in the Export Settings menu, choose PNG and click **"Export"** to save your file on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -119,6 +139,9 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -175,3 +198,39 @@ Hopefully, this article and video can help you create ideal images!
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-biz-game-youtube-channels-that-succeeded/"><u>[New] In 2024, Elevate Your Biz Game  YouTube Channels That Succeeded</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphones-easy-guide-merge-music-and-video-without-spending-a-dime/"><u>[New] IPhone's Easy Guide  Merge Music and Video Without Spending a Dime</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mac-video-excellence-the-creme-de-la-liste-for-sierra-users/"><u>[New] Mac Video Excellence  The Crème De La Liste for Sierra Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-make-your-own-meme/"><u>[New] Make Your Own Meme</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-soundscape-dilution-via-audacity-tools/"><u>[New] Navigating Soundscape Dilution via Audacity Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-tips-for-removing-persistent-youtube-channels-mobilepc-for-2024/"><u>[Updated] Expert Tips for Removing Persistent Youtube Channels (Mobile/PC) for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-live-stream-to-file-top-performing-obs-recording-tools-for-2024/"><u>[Updated] Live Stream to File  Top Performing OBS Recording Tools for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-macs-visionary-picks-the-10-elite-monitors-with-4k/"><u>[Updated] Mac's Visionary Picks  The #10 Elite Monitors with 4K</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-peering-into-the-future-lg-tv-bp550-2023-review/"><u>[Updated] Peering Into the Future  LG TV BP550 2023 Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pros-guide-to-capturing-every-angle/"><u>[Updated] Pro's Guide to Capturing Every Angle</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-finest-9-digital-places-for-harvesting-futuristic-3d-typefaces-for-2024/"><u>[Updated] The Finest 9 Digital Places for Harvesting Futuristic 3D Typefaces for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-framework-for-cost-analysis-in-music-video-making/"><u>2024 Approved  Framework for Cost Analysis in Music Video Making</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastery-in-making-single-stream-live-events-stand-out/"><u>2024 Approved  Mastery in Making Single-Stream LIVE Events Stand Out</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pickup-or-something-else-unveiling-best-android-photo-editor/"><u>2024 Approved  PickUp or Something Else? Unveiling Best Android Photo Editor</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-windows-based-podcast-options/"><u>2024 Approved  Premium Windows-Based Podcast Options</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-audio-integration-essential-tips-for-podcasters/"><u>2024 Approved  Pro Audio Integration  Essential Tips for Podcasters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-proven-picks-the-top-5-online-title-makers-you-need-to-know/"><u>2024 Approved  Proven Picks  The Top 5 Online Title Makers You Need to Know</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spark-imagination-with-the-top-drawing-apps-on-android-devices/"><u>2024 Approved  Spark Imagination with the Top Drawing Apps on Android Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-best-free-voice-changer-for-valorant-you-should-have-a-try/"><u>In 2024, Best Free Voice Changer for Valorant You Should Have a Try</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-vivo-y100t-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y100t Lock Screen Password</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-lightrooms-1-lut-picks-essential-conversion-tools/"><u>In 2024, Lightroom's #1 LUT Picks – Essential Conversion Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-action-an-insight-into-sj-cam-s6/"><u>In 2024, Mastering Action  An Insight Into SJ-CAM S6</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-iphone-x-secure-access-restoring-biometric-lock/"><u>In 2024, Mastering iPhone X Secure Access  Restoring Biometric Lock</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-merging-yt-chorus-with-visual-storytelling/"><u>In 2024, Merging YT Chorus with Visual Storytelling</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-scripting-a-riveting-movie-in-miniature/"><u>In 2024, Scripting a Riveting Movie-in-Miniature</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-secret-strategies-to-outshine-with-canva-photos/"><u>In 2024, Secret Strategies to Outshine with Canva Photos</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterclass-in-3d-color-grading-with-custom-luts-for-2024/"><u>Masterclass in 3D Color Grading with Custom LUTs for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-money-top-stock-focused-yt/"><u>Mastering Money  Top Stock-Focused YT</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-slow-motion-a-guide-to-photo-editing-tools-for-2024/"><u>Mastering Slow-Motion  A Guide to Photo Editing Tools for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-15-plus-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 15 Plus from iCloud</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  MegaSecond Analysis  Understanding 20Mb Video Time\""
-date: 2024-05-31T07:41:07.713Z
-updated: 2024-06-01T07:41:07.713Z
+date: 2024-07-31T10:33:15.648Z
+updated: 2024-08-01T10:33:15.648Z
 tags: 
   - screen-recording
   - ai video
@@ -80,6 +80,9 @@ Run Video Editor after installing it. Then, on your computer, click the "Import"
 
 * **Choose a video to watch.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
 
 Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
@@ -152,12 +155,18 @@ Run Video Editor after installing it. Then, on your computer, click the "Import"
 
 * **Choose a video to watch.**
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
 
 Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
 
 * **Change the video or audio file's bitrate.**
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
@@ -168,6 +177,9 @@ Take note that Lowering the bitrate can help you compress your media files. The 
 
 * Magisto ( Supports IOS, Android, Online )
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
 
 Magisto, which is owned by Vimeo, allows you to create amazing videos in three simple steps: You'll start by selecting your video editing style (the type of story you want to tell), then the photos and video clips you want to include, and finally, music from Magisto's built-in library.
@@ -176,12 +188,18 @@ This user-friendly app uses artificial intelligence (AI) to organize your footag
 
 * ActivePresenter ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
 
 * Openshot ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 
 OpenShot is a free and versatile video editing and creation program. You may use the software to create professional-looking movies out of your photos, videos, and music files. Subtitles, special effects, and transitions can all be readily added. The videos that are made can be exported to DVD, Xbox 360, Vimeo, YouTube, and a variety of other formats.
@@ -216,6 +234,9 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -240,6 +261,9 @@ Take note that Lowering the bitrate can help you compress your media files. The 
 
 * Magisto ( Supports IOS, Android, Online )
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
 
 Magisto, which is owned by Vimeo, allows you to create amazing videos in three simple steps: You'll start by selecting your video editing style (the type of story you want to tell), then the photos and video clips you want to include, and finally, music from Magisto's built-in library.
@@ -254,6 +278,9 @@ ActivePresenter is a watermark-free screen recorder and video editor. Screencast
 
 * Openshot ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 
 OpenShot is a free and versatile video editing and creation program. You may use the software to create professional-looking movies out of your photos, videos, and music files. Subtitles, special effects, and transitions can all be readily added. The videos that are made can be exported to DVD, Xbox 360, Vimeo, YouTube, and a variety of other formats.
@@ -288,6 +315,9 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -312,6 +342,9 @@ Take note that Lowering the bitrate can help you compress your media files. The 
 
 * Magisto ( Supports IOS, Android, Online )
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-4.jpg)
 
 Magisto, which is owned by Vimeo, allows you to create amazing videos in three simple steps: You'll start by selecting your video editing style (the type of story you want to tell), then the photos and video clips you want to include, and finally, music from Magisto's built-in library.
@@ -382,3 +415,46 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-igtv-essentials-an-in-depth-look-at-content-strategies/"><u>[New] 2024 Approved  IGTV Essentials  An In-Depth Look at Content Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-interactive-visual-exchange-android-iphone/"><u>[New] Interactive Visual Exchange  Android-iPhone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-gopro-advanced-cinematic-skills/"><u>[New] Mastering GoPro  Advanced Cinematic Skills</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-online-tale-creation-fundamentals/"><u>[New] Mastering Online Tale Creation Fundamentals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-melody-migration-transitioning-playlists-across-platforms/"><u>[New] Melody Migration  Transitioning Playlists Across Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-best-airdate-strategy/"><u>[New] Navigating the Best Airdate Strategy</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-world-of-advanced-lut-design/"><u>[New] Navigating the World of Advanced LUT Design</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pinnacle-of-picture-perfection-10-screens/"><u>[New] Pinnacle of Picture Perfection – #10 Screens</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-pro-filmmakers-guide-to-speedy-shot-techniques-for-2024/"><u>[New] Pro Filmmaker's Guide to Speedy Shot Techniques for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-renewed-list-of-questions-to-inspire-podcast-attendees/"><u>[New] Renewed List of Questions to Inspire Podcast Attendees</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplified-guide-to-burning-audio-from-cds-using-wmp/"><u>[New] Simplified Guide to Burning Audio From Cds Using WMP</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-instructions-for-legit-free-vlc-player-download-on-macos/"><u>[Updated] Instructions for Legit Free VLC Player Download on macOS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimize-sound-clarity-top-audio-interface-recommendations/"><u>[Updated] Optimize Sound Clarity  Top Audio Interface Recommendations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revealed-the-best-10-in-4k-no-hassle/"><u>[Updated] Revealed  The Best 10 in 4K, No Hassle</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sound-of-skype-find-and-save-ringtones-easily/"><u>[Updated] Sound of Skype  Find and Save Ringtones Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-camera-lens-to-screen-your-step-by-step-guide-to-gopro-video-mastery/"><u>2024 Approved  From Camera Lens to Screen  Your Step-by-Step Guide to GoPro Video Mastery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instatrends-update-staying-ahead-with-fresh-reel-ideas/"><u>2024 Approved  InstaTrends Update  Staying Ahead with Fresh Reel Ideas</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-single-platform-livestreaming-unveiling-onestream-techniques/"><u>2024 Approved  Mastering Single-Platform Livestreaming  Unveiling OneStream Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-scan-and-select-from-these-premium-10-sources-of-vectors/"><u>2024 Approved  Scan and Select From These Premium 10 Sources of Vectors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unlocking-the-best-vr-experience-in-drone-aerial-sports/"><u>2024 Approved  Unlocking the Best VR Experience in Drone Aerial Sports</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-redmi-note-13-proplus-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi Redmi Note 13 Pro+ 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-integrated-content-the-brands-on-youtube-movement/"><u>In 2024, Integrated Content  The Brands on YouTube Movement</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-introduction-to-stories-essence-and-art/"><u>In 2024, Introduction to Stories' Essence and Art</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-making-a-buzz-aesthetic-strategies-for-podcast-brands/"><u>In 2024, Making a Buzz  Aesthetic Strategies for Podcast Brands</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterful-color-grading-explore-these-7-methods/"><u>In 2024, Masterful Color Grading  Explore These 7 Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-one-mans-quest-with-3d-tech-3dr-analysis/"><u>In 2024, One Man's Quest with 3D Tech  '3DR' Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-camera-gimbals-summary-1-10-iphoneandroiddslr-compared/"><u>In 2024, Optimal Camera Gimbals Summary  #1-#10 iPhone/Android/DSLR Compared</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-puzzled-by-my-videos-rotating-appearance-on-instagram/"><u>In 2024, Puzzled by My Video’s Rotating Appearance on Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/luster-leads-transformative-techniques-for-videos-for-2024/"><u>Luster Leads  Transformative Techniques for Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-angular-video-arrangement-on-android-devices-for-2024/"><u>Mastering Angular Video Arrangement on Android Devices for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigate-hdri-windows-powered-editing-wonders-for-2024/"><u>Navigate HDRI  Windows-Powered Editing Wonders for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-camcorders-transforming-podcast-engagement-for-2024/"><u>Optimal Camcorders Transforming Podcast Engagement for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pioneering-success-a-guide-to-prolific-youtubers-growth-for-2024/"><u>Pioneering Success  A Guide to Prolific Youtubers' Growth for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-artistry-summary-intense-pinnacle-studio-review-2023-for-2024/"><u>Prime Artistry Summary  Intense Pinnacle Studio Review 2023 for 2024</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-infinix-hot-40i-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Infinix Hot 40i</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/starting-simple-a-practical-approach-to-becoming-an-e-review-expert-for-2024/"><u>Starting Simple  A Practical Approach to Becoming an E-Review Expert for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/stepping-into-business-mode-register-as-an-instagram-corp-page/"><u>Stepping Into Business Mode  Register as an Instagram Corp Page</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-10-historical-youtube-hubs-essential-viewing-for-students-and-enthusiasts/"><u>Top 10 Historical YouTube Hubs  Essential Viewing For Students & Enthusiasts</u></a></li>
+</ul></div>

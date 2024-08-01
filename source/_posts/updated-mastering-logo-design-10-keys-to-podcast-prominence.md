@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Logo Design  10 Keys to Podcast Prominence\""
-date: 2024-05-31T07:39:54.562Z
-updated: 2024-06-01T07:39:54.562Z
+date: 2024-07-31T09:15:26.136Z
+updated: 2024-08-01T09:15:26.136Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Mastering Logo Design: 10 Keys to Podcast Prominence\""
 excerpt: "\"This Article Describes [Updated] Mastering Logo Design: 10 Keys to Podcast Prominence\""
 keywords: "Logo Design Mastery,Podcast Promotion Tips,Key Principles in Logos,Effective Brand Identity,Logo Creation Insights,Podcast Marketing Strategies,Visual Communication Fundamentals"
-thumbnail: https://www.lifewire.com/thmb/Yem3HIULZftUxBFec7M2Dhovrnw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/googlemeet-a87010251a134a7194b0767e843d5694.jpg
+thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b350de1df5ec61d6fc21bf535.jpg
 ---
 
 ## Mastering Logo Design: 10 Keys to Podcast Prominence
@@ -22,8 +22,14 @@ Research suggests people make up their mind within 90 seconds after the initial 
 
 In this guide, we will guide you to design a stunning and unique podcast cover. But before that, we will acquaint you with all the necessary elements of an eye-catching podcast cover image.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![podcast cover image](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Round-Up 10 Tips to Design Podcast Cover Art
 
 These are not tips but 101 guides on podcast cover-making. All the ten key points mentioned here will enable you to create a podcast cover image that stands out and catch the user’s attention.
@@ -55,6 +61,10 @@ Nevertheless, there are some platforms that have different requirements. For ins
 
 **Note**: The thing to remember is to design podcast covers for all platforms with different requirements. It may seem daunting, but limitations and provisions often unleash a person’s creativity. Needless to say, if you are a professional podcaster and your teammates responsible for podcast cover making, then you can leave it to them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### 2\. Straight to the point
 
 ![podcast straight to the point image](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-3.jpg)
@@ -69,6 +79,9 @@ Here are some examples to help you think in the “straight to the point” fash
 
 **Example #1 ― Entrepreneurs like it simple, plain, and sophisticated.**
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![podcast straight to the point image](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-4.jpg)
 
 The above podcast cover designs are related to business. If you carefully review each of them, you will find the human element. The human element is a necessary factor in business-related podcasts. It is what allows business professionals to connect with the experts and attracts them to the podcasts.
@@ -87,10 +100,16 @@ Swearing and inappropriate imagery is part of today’s taboo culture. However, 
 
 Not to mention, using explicit languages is also restricted by podcast directories, like Apple Podcast and Spotify. So, you may also get banned for using offensive words or imagery in your podcast cover photos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![podcast explicit covers](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-6.jpg)
 
 The recent policies of podcast directories like Apple Podcast have changed drastically. For instance, you could have gotten away with using asterisk marks in some words (like sh\*t); however, it is not the case today. Your podcast will receive multiple notifications from the platform managers to remove the banner, and in some cases, the directories can also ban you from the platform. So, it is best to play it safe and use professional language, at least in the podcast cover photos.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Color Matters
 
 There are trends in book cover design and movie cover design, and then comes the trends in podcast cover design. You will be surprised to know the amount of time each podcaster spent on deciding the right color for the cover art.
@@ -113,6 +132,9 @@ Today, almost all domains in the podcast world use the red color and combine it 
 
 Blue is the color of trust, competency, and quality. To loosely translate its psychological effects on an average human, blue creates a sense of dependability, logic, and peace. So, if your podcast is on medical topics or something calm, a blue podcast cover photo is the way to go.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![podcast blue covers](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-9.jpg)
 
 There are numerous other examples like this. For instance, even black ink on a grey palette is a trend. After studying their psychological effects on your users, you can choose from any number of colors and combinations.
@@ -125,6 +147,9 @@ A debate that long started at the advent of the internet and is still continuing
 
 For instance, serif fonts have long been used in newspapers, magazines, and even web pages. That is why most users associate serif fonts with classical, nostalgic, and often professional or formal. And it is thus suitable when you are creating a professional podcast discussing business, education, and so on.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![podcast typography covers](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-10.jpg)
 
 Sans serif is the new thing. It is all about throwing the tradition of using Serif fonts out of the window and using a fun and exciting and allowing users to read conveniently on the web-pages.
@@ -135,6 +160,9 @@ But typography does not mean it's all about the font itself. The size of the fon
 
 Additionally, you should focus on blending the typography with imagery. The combination of both often becomes messy and unreadable; of course, the creativity lies in
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Unique and high-resolution images
 
 A unique picture is what differentiates you from others. A user can easily locate and revisit your episodes if you use a unique-looking podcast cover. However, in addition to the unique design of the podcast cover, you should also ensure it is in high resolution.
@@ -192,14 +220,23 @@ Step1 Download and Install the Filmora Video Editor on your Mac or Windows compu
 
 Step2 Launch the installed app and click Create a New Project. Then, click Stock Media at the top.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create podcast cover photo filmora 1](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-12.jpg)
 
 Step3 You should see a list of the royalty-free image platforms that are supported on Filmora on the left side of the screen. Click a preferred platform (We used Unsplash for this stepwise guide.) and type Podcast in the search bar. Then, drag-n-drop a preferred photo that you wish to use for your podcast cover photo to the Timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![create podcast cover photo filmora 2](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-13.jpg)
 
 Step4 Navigate to the top of the timeline and click the Text icon. Then, select Quick Text or 3D Text, depending on your requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![create podcast cover photo filmora 3](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-14.jpg)
 
 Step5 A pop-up window should appear on your screen. Click Title > Basic > then enter the title of your podcast show in the relevant area. After that, adjust the font, font size, and text color. You can also make the text animated by clicking Animation at the top of the pop-up.
@@ -239,24 +276,43 @@ Step1 Download and Install the Filmora Video Editor on your Mac or Windows compu
 
 Step2 Launch the installed app and click Create a New Project. Then, click Stock Media at the top.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![create podcast cover photo filmora 1](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-12.jpg)
 
 Step3 You should see a list of the royalty-free image platforms that are supported on Filmora on the left side of the screen. Click a preferred platform (We used Unsplash for this stepwise guide.) and type Podcast in the search bar. Then, drag-n-drop a preferred photo that you wish to use for your podcast cover photo to the Timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![create podcast cover photo filmora 2](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-13.jpg)
 
 Step4 Navigate to the top of the timeline and click the Text icon. Then, select Quick Text or 3D Text, depending on your requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create podcast cover photo filmora 3](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-14.jpg)
 
 Step5 A pop-up window should appear on your screen. Click Title > Basic > then enter the title of your podcast show in the relevant area. After that, adjust the font, font size, and text color. You can also make the text animated by clicking Animation at the top of the pop-up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![create podcast cover photo filmora 4](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-15.jpg)
 
 Step6 Once you complete the settings. Click OK > Export. Then, from the pop-up that appears, enter the file name in the relevant area and select a preferred location to save the p\[ocast cover photo. Then, click Export to finish.
 
 ![create podcast cover photo filmora 5](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Summing Up
 
 Hopefully, you have a clear idea of what elements to manage in your podcast cover and how to make a podcast with Filmora. Retain that there is no such thing as a perfect podcast cover photo.
@@ -285,3 +341,45 @@ However, your podcast cover image can outshine competitors if you work on all th
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-cinematic-basics-unveiled-fundamental-shots-explained-clearly/"><u>[New] Cinematic Basics Unveiled  Fundamental Shots Explained Clearly</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevating-viewers-to-patrons-a-vloggers-guide-to-income-for-2024/"><u>[New] Elevating Viewers to Patrons  A Vlogger's Guide to Income for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-grid-layout-geniuses-for-photo-perfection/"><u>[New] Grid Layout Geniuses for Photo Perfection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-how-to-create-metaverse-avatar-with-ease-an-ultimate-guide/"><u>[New] How to Create Metaverse Avatar with Ease  An Ultimate Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-audience-viewing-experience-how-to-choose-video-aspect-ratio/"><u>[New] In 2024, Audience Viewing Experience  How to Choose Video Aspect Ratio</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ourney-through-virtual-realms-on-youtubes-channel/"><u>[New] Journey Through Virtual Realms on YouTube's Channel</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-leveraging-tags-boost-engagement-and-traffic-for-videos/"><u>[New] Leveraging Tags  Boost Engagement and Traffic for Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigate-the-excellent-world-of-top-vr-cycling/"><u>[New] Navigate the Excellent World of Top VR Cycling</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-no-cost-endless-chuckles-the-meme-makers-manual/"><u>[New] No Cost, Endless Chuckles  The Meme Makers' Manual</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-networks-for-your-personalized-watchlist/"><u>[New] Premier Networks for Your Personalized Watchlist</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-proven-approaches-for-pristine-photos-on-the-web/"><u>[New] Proven Approaches for Pristine Photos on the Web</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-remote-screen-resizing-facility/"><u>[New] Remote Screen Resizing Facility</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revive-your-phone-top-tips-for-missing-iphone-x/"><u>[New] Revive Your Phone  Top Tips for Missing iPhone X</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-startup-steps-for-stream-money-in-periscope/"><u>[New] Startup Steps for Stream Money in Periscope</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-storage-capacity-64gb-vs-128gb-for-video-files/"><u>[New] Storage Capacity  64GB vs 128GB for Video Files</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-journey-camera-setup-for-aspiring-cinephiles/"><u>[Updated] Journey Camera Setup for Aspiring Cinephiles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-portable-canvas-apps-for-windows-free-and-charged/"><u>[Updated] Prime Portable Canvas Apps for Windows  Free and Charged</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-select-15-professional-luts-to-boost-gopro-cinematography/"><u>[Updated] Select 15 Professional LUTs to Boost GoPro Cinematography</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-the-most-preferred-free-video-players-our-best-12-picks-pcmobile/"><u>2024 Approved  Guide to the Most Preferred Free Video Players  Our Best 12 Picks (PC/Mobile)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterclass-on-blending-sound-and-sight-for-media-professionals/"><u>2024 Approved  Masterclass on Blending Sound & Sight for Media Professionals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-peak-performance-tools-best-4k-cameras-for-professionals/"><u>2024 Approved  Peak Performance Tools  Best 4K Cameras for Professionals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-face-editing-tools-for-iphones-and-samsungs/"><u>2024 Approved  Prime Face-Editing Tools for iPhones and Samsungs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/illuminating-photography-with-dynamic-mosaic-creations-for-2024/"><u>Illuminating Photography with Dynamic Mosaic Creations for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-manipulating-fonts-in-visual-media/"><u>In 2024, Manipulating Fonts in Visual Media</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-painting-with-light-advanced-color-techniques/"><u>In 2024, Painting with Light  Advanced Color Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-portable-balancing-system-for-video-capture/"><u>In 2024, Portable Balancing System for Video Capture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-propel-your-workflow-final-cut-pros-must-have-tools/"><u>In 2024, Propel Your Workflow  Final Cut Pro’s Must-Have Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-review-how-toolwiz-stacks-up-in-photo-app-landscape/"><u>In 2024, Review  How Toolwiz Stacks Up in Photo App Landscape</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-razr-40-ultra-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola Razr 40 Ultra FRP</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterclass-in-meme-template-selection-for-2024/"><u>Masterclass in Meme Template Selection for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-virtual-meeting-platforms-zooming-onto-your-android-for-2024/"><u>Navigating Virtual Meeting Platforms  Zooming Onto Your Android for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-decades-old-windows-authentication-error/"><u>Reversing Decades-Old Windows Authentication Error</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/save-time-money-on-passport-photos-with-our-free-generator-apps-for-2024/"><u>Save Time, Money on Passport Photos with Our Free Generator Apps for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-v27-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo V27 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sns-vs-competitors-a-critical-hdr-software-comparison-for-2024/"><u>SNS vs Competitors  A Critical HDR Software Comparison for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/superior-recording-devices-face-camera-included-for-2024/"><u>Superior Recording Devices - Face Camera Included for 2024</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-oppo-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Oppo</u></a></li>
+</ul></div>

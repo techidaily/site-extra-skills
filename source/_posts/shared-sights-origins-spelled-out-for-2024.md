@@ -1,7 +1,7 @@
 ---
 title: "\"Shared Sights  Origins Spelled Out for 2024\""
-date: 2024-05-31T07:39:14.215Z
-updated: 2024-06-01T07:39:14.215Z
+date: 2024-07-31T08:31:53.844Z
+updated: 2024-08-01T08:31:53.844Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Shared Sights: Origins Spelled Out for 2024\""
 excerpt: "\"This Article Describes Shared Sights: Origins Spelled Out for 2024\""
 keywords: "\"Shared Views Origin,Spelled Origins,Origins Insight,Eye-Spelling Starts,Origins Unveiled,Sights & Origins Mix,Origin Meaning Spelled\""
-thumbnail: https://www.lifewire.com/thmb/Z0ZdjJb5nz4Ek2qcGOTaqnhoZ04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1164718779-aa87dac78cd44ad7b71e76c27adc7e9a.jpg
+thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7f00706449676a59eeb923d9.jpg
 ---
 
 ## Shared Sights: Origins Spelled Out
@@ -22,6 +22,9 @@ A stock photo meme is an image or video you use to communicate a specific idea. 
 
 So, what are the most popular stock photo memes, and how did they reach this status? Keep reading to find out more.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part1: Hide the Pain Harold
 
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
@@ -47,10 +50,16 @@ Currently, Hide the Pain Harold has over 300,000 followers across all platforms.
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -70,6 +79,9 @@ In addition, Antonio Guillem also has a stock image meme where the roles are rev
 
 ## Part3: I Bet He's Thinking About Other Women
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
 
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
@@ -90,12 +102,21 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part4: Bonjour Bear
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
@@ -104,6 +125,9 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 
 * In this version, Bonjour Bear reacts to the discovery of a wound after using hand sanitizer. The post became popular during the COVID-19 pandemic when using hand sanitizer was at its peak.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
@@ -121,10 +145,16 @@ Yes, you can use stock photos for memes. However, you need to obtain them from r
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ### 3\. Can you use watermarked stock photos to create memes?
 
 No. Before using watermarked images to create memes, you must get verifiable permission from the rights holder. This is because it violates copyright law and can result in heavy fines or even prison time in extreme circumstances.
@@ -159,3 +189,56 @@ Therefore, always perform stock image reverse searches to verify the image permi
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-arena-of-games-100plus-channel-spectrums-galore/"><u>[New] 2024 Approved  Arena of Games  100+ Channel Spectrums Galore</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-video-to-mp3-converting-hacks/"><u>[New] 2024 Approved  Instagram Video-to-MP3 Converting Hacks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-visual-vault-visitor/"><u>[New] 2024 Approved  Visual Vault Visitor</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-cut-and-paste-success-enhancing-videos-for-instagram-shares/"><u>[New] In 2024, Cut & Paste Success  Enhancing Videos for Instagram Shares</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inside-the-world-of-funimate-gamers/"><u>[New] Inside the World of Funimate Gamers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-online-streams-your-easy-to-follow-internet-radio-recording-tutorial/"><u>[New] Mastering Online Streams  Your Easy-to-Follow Internet Radio Recording Tutorial</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-professional-touch-ups-for-your-tiktok-media/"><u>[New] Professional Touch-Ups for Your TikTok Media</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchats-hidden-content-finding-and-restoring-photos/"><u>[Updated] 2024 Approved  Snapchat's Hidden Content  Finding and Restoring Photos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-next-gen-portable-play-top-gba-on-android/"><u>[Updated] In 2024, Next-Gen Portable Play  Top GBA on Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-integrating-luts-for-dynamic-color-correction-in-premiere-pro/"><u>[Updated] Integrating LUTs for Dynamic Color Correction in Premiere Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-solutions-for-reverse-playback/"><u>[Updated] IPhone Solutions for Reverse Playback</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-joke-junction-ultimate-free-comic-templates/"><u>[Updated] Joke Junction  Ultimate Free Comic Templates</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-list-of-affordable-websites-boosting-vector-graphics-skills/"><u>[Updated] Master List of Affordable Websites Boosting Vector Graphics Skills</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-personalize-win11-panorama-selecting-stunning-walls/"><u>[Updated] Personalize Win11 Panorama  Selecting Stunning Walls</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pinnacle-chroma-modifier/"><u>[Updated] Pinnacle Chroma Modifier</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pixelplayground-comprehensive-review-and-educational-guide-2024/"><u>[Updated] PixelPlayground Comprehensive Review & Educational Guide 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quip-kernel-memomaker-suite/"><u>[Updated] Quip Kernel  MemoMaker Suite</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamlessly-post-pictures-your-youtube-visual-guide/"><u>[Updated] Seamlessly Post Pictures  Your YouTube Visual Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-simplify-broadcasting-merge-obs-and-streamlabs-mac/"><u>[Updated] Simplify Broadcasting  Merge OBS and Streamlabs (Mac)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spectral-imagery-phantasmal-camera-analysis/"><u>[Updated] Spectral Imagery  Phantasmal Camera Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-complete-collage-manual-tips-and-tricks/"><u>2024 Approved  Complete Collage Manual  Tips and Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-learn-to-craft-instagram-ringtones-with-us/"><u>2024 Approved  Learn to Craft Instagram Ringtones with Us</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-affordable-data-storage-cloud/"><u>2024 Approved  Mastering the Art of Affordable Data Storage (Cloud)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-b-roll-creative-uses-and-integration/"><u>2024 Approved  Maximizing B-Roll  Creative Uses and Integration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-new-frontiers-in-immersive-experiences-the-best-metaverse-insights/"><u>2024 Approved  New Frontiers in Immersive Experiences  The Best Metaverse Insights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-visionary-educators-guide-to-multimedia-use/"><u>2024 Approved  The Visionary Educator's Guide to Multimedia Use</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-12-pro-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 12 Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/do-you-know-that-you-can-apply-different-luts-and-create-your-own-there-are-many-lut-online-and-offline-generators-that-you-can-use-to-create-your-lut-for-2/"><u>Do You Know that You Can Apply Different LUTs and Create Your Own? There Are Many LUT Online and Offline Generators that You Can Use to Create Your LUT for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-v-purse-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor V Purse Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-xiaomi-redmi-12-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Xiaomi Redmi 12 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-creating-seamless-ps4-streams-using-obs-studio-tools/"><u>In 2024, Creating Seamless PS4 Streams Using OBS Studio Tools</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oneplus-open-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone OnePlus Open Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-nightscape-techniques-unlocked/"><u>In 2024, IPhone Nightscape Techniques Unlocked</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-audio-quality-with-top-podcast-mics/"><u>In 2024, Mastering Audio Quality with Top Podcast Mics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-windows-10-top-5-recording-techniques/"><u>In 2024, Maximize Windows 10  Top 5 Recording Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-introduction-editor-software-apps/"><u>In 2024, Optimal Introduction Editor Software (Apps)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photographic-tapestry-assembly-techniques/"><u>In 2024, Photographic Tapestry Assembly Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-picks-7-superior-apple-video-viewers/"><u>In 2024, Prime Picks  7 Superior Apple Video Viewers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-boundaries-with-hps-next-gen-4k-display-envy-27/"><u>In 2024, Pushing Boundaries with HP's Next Gen 4K Display, Envy 27</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-photo-excellence-simple-tips-and-tricks-for-2024/"><u>IPhone Photo Excellence  Simple Tips & Tricks for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-shade-changes-3-photoshop-hacks-for-2024/"><u>Mastering Shade Changes  3 Photoshop Hacks for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/nocturnal-notions-for-iphone-photographers-for-2024/"><u>Nocturnal Notions for iPhone Photographers for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-text-movement-collections-for-2024/"><u>Optimal Text Movement Collections for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/personalizing-your-android-a-step-by-step-guide-to-ringtone-and-sound-settings-for-2024/"><u>Personalizing Your Android  A Step-by-Step Guide to Ringtone & Sound Settings for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-picks-the-ultimate-8-tripods-for-4k-photography-for-2024/"><u>Premier Picks  The Ultimate 8 Tripods for 4K Photography for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-extensions-catalog-ae-edition-for-2024/"><u>Premium Extensions Catalog  AE Edition for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/realism-refined-how-to-use-motion-blur-in-faces-using-picsart-for-2024/"><u>Realism Refined  How to Use Motion Blur in Faces Using Picsart for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/steps-to-activate-windows-11-hdr-automatically-for-2024/"><u>Steps to Activate Windows 11 HDR Automatically for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-quest-to-eradicate-code-52-from-cars/"><u>The Quest to Eradicate Code 52 From Cars</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[New] Perfect Proportions for Professional Videos"
-date: 2024-05-31T07:37:56.684Z
-updated: 2024-06-01T07:37:56.684Z
+date: 2024-07-31T07:09:00.774Z
+updated: 2024-08-01T07:09:00.774Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Perfect Proportions for Professional Videos"
 excerpt: "This Article Describes [New] Perfect Proportions for Professional Videos"
 keywords: "Video Proportion Basics,PerfecProfessionalVideo,ProfVideoAspectRatio,VideoFrameSetupTips,OptimalVideoRatio,ProfessionalVidBalance,ExpertVideoProportions"
-thumbnail: https://www.lifewire.com/thmb/Y_fXqpvhyxw4rOeBd7HZnANUFdw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/image-twitchnerdhug-59e702d3af5d3a00108ee26e.jpg
+thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b05fd8fefcba56a2f27460108.jpg
 ---
 
 ## Perfect Proportions for Professional Videos
@@ -28,6 +28,9 @@ With that said, let's dive right into it!
 
 Aspect ratio is a digital image projection attribute describing the distance between the width and the height of an image. The dimensions are also defined as shapes such as a square which is 4:3\. A rectangle represents the 16:9 standard high definition aspect ratio, and inverted what you see on phones, that will be 9:16\. 9 refers to the width and 16 to the height.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Commonly used aspect ratios
 
 There is no same aspect ratio that is used across all social media platforms. Depending on which social media platform you are planning to upload, you have to make sure you have the correct aspect ratio for your target audience. The optimal viewing experience is what matters.
@@ -40,6 +43,10 @@ This aspect ratio is recognized as the worldwide reference format for film, mobi
 
 This resolution is originally used in older television screens, which transformed into mobile use as this aspect ratio works really well for Instagram and Facebook videos, referring to the 9:16 phone resolution making a square video more pleasant to watch and to be featured in in-feed videos.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ### 9:16 Vertical
 
 The 9:16 aspect ratio has become the mainstream resolution for smartphones for easier viewing of videos. This resolution allows for the vertical display of videos on tablets and phones, meaning that it allows videos to play while the device is being held in its upright position. This works ideally for Facebook, Instagram, Snapchat, YouTube Shorts, and more.
@@ -64,6 +71,9 @@ Facebook is one of the most used website across the world on both computer and t
 
 9:16 for Facebook stories
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### YouTube
 
 To this day, it's safe to say that YouTube is the leading platform in the video industry. Not only because of how long they have been around, but also about how much content is uploaded every minute and how many users it has each month. To give the viewers the best experience, here are the top aspect ratios we recommend when posting content onto your YouTube channel.
@@ -76,6 +86,9 @@ To this day, it's safe to say that YouTube is the leading platform in the video 
 
 21:9 for cinematic videos/shortfilms
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Instagram
 
 When talking about Instagram, which is very similar to Facebook, use these aspect ratios to ensure that your quality will be the best of the best.
@@ -94,6 +107,9 @@ When talking about Instagram, which is very similar to Facebook, use these aspec
 
 9:16 for IGTV
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### TikTok
 
 Before Musical.ly users were migrated to a new platform called TikTok in 2018, it has been the leader on the board for a long time, and here are the recommended resolutions we think give the best results. Tik Tok allows you to share short videos, and is used by young people as an outlet to show their talents whether it's dancing, singing, cooking, comedy or any other form of entertainment they can express and use on the platform. There's also a feature to work together and collaborate with other Tik Tok creators across the globe.
@@ -108,10 +124,16 @@ Before Musical.ly users were migrated to a new platform called TikTok in 2018, i
 
 A very important point we'd like to mention is that we don't recommend changing the aspect ratio after filming, because it could harm the video quality and we think it's best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### Black bars
 
 When editing your video, adding black bars is not changing the aspect ratio as you are just adding black bars to the screen. What we do recommend is cropping the video until you get the desired result. Adding black bars won't automatically make the platform adjust the video and it will affect the viewer experience.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Cropping
 
 Cropping your video will allow you to remove a section from your video, which works perfect for unwanted objects or people. While cropping the video, you are forced to pick the essential part of your video and disregard the rest of the video and to remove distraction from the frame.
@@ -150,3 +172,43 @@ Having your video tested on multiple devices will allow you to see a preview of 
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-windows-11s-latest-traits-unveiled/"><u>[New] 2024 Approved  Windows 11'S Latest Traits Unveiled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-interactive-learning-strategies-in-video-editing/"><u>[New] Interactive Learning  Strategies in Video Editing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-video-editing-turn-your-avis-into-stylish-shareable-gifs-with-filmora/"><u>[New] Master Video Editing  Turn Your AVIs Into Stylish, Shareable GIFs with Filmora</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-hdr-portraiture-an-ultimate-guide/"><u>[New] Mastering HDR Portraiture  An Ultimate Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-securing-comfort-in-vr-experiences/"><u>[New] Securing Comfort in VR Experiences</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-tagging-techniques-to-skyrocket-your-game-vids/"><u>[New] Tagging Techniques to Skyrocket Your Game Vids</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-quick-steps-for-logging-playthroughs/"><u>[Updated] In 2024, Quick Steps for Logging Playthroughs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-introduction-to-moving-graphics-core-principles/"><u>[Updated] Introduction to Moving Graphics  Core Principles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-masterclass-in-creating-the-ideal-home-4k-editing-pc/"><u>[Updated] Masterclass in Creating the Ideal Home 4K Editing PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-key-scenes-in-video-production/"><u>[Updated] Mastering Key Scenes in Video Production</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-no-cost-c-span-archives-your-comprehensive-download-guide/"><u>[Updated] No Cost C-Span Archives  Your Comprehensive Download Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-intuitive-podcast-beginnings-charismatic-hooks/"><u>2024 Approved  Intuitive Podcast Beginnings  Charismatic Hooks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-movie-magic-tiktok-effects-techniques/"><u>2024 Approved  Mastering Movie Magic  TikTok Effects Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-through-vlc-features-settings-and-troubleshooting-mac/"><u>2024 Approved  Navigating Through VLC Features, Settings & Troubleshooting (Mac)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-digital-discussion-director/"><u>2024 Approved  Premier Digital Discussion Director</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-privacy-tip-remove-spotifys-auto-podcast-suggestions/"><u>2024 Approved  Privacy Tip  Remove Spotify's Auto-Podcast Suggestions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-removing-vibration-effects-from-drones-recordings/"><u>2024 Approved  Removing Vibration Effects From Drones' Recordings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-top-10-jpg-to-gif-converters-online-free/"><u>2024 Approved  Top 10 JPG to GIF Converters Online Free</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/6-must-see-danish-productions-boosting-language-gain/"><u>6 Must-See Danish Productions Boosting Language Gain</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-a-stunning-light-sweep-effect-in-filmora-use-simple-and-easy-steps-to-export-a-high-quality-video-that-will-impress-even-pro-video-editors-for-2024.m/"><u>Create a Stunning Light Sweep Effect in Filmora. Use Simple and Easy Steps to Export a High-Quality Video that Will Impress Even Pro Video Editors for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-i-reconnected-my-laptop-and-tv-with-hdmi/"><u>How I Reconnected My Laptop and TV with HDMI</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-s24-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy S24 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-converting-social-media-audio-to-personalized-mobile-alerts/"><u>In 2024, Converting Social Media Audio to Personalized Mobile Alerts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-kickstart-profits-earnings-blueprint-for-periscope-novices/"><u>In 2024, Kickstart Profits  Earnings Blueprint for Periscope Novices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterful-modulation-how-to-switch-up-your-characters-speech-in-free-fire/"><u>In 2024, Masterful Modulation  How to Switch Up Your Character's Speech in Free Fire</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-handheld-mounts-precision-and-stability-combined/"><u>In 2024, Premium Handheld Mounts  Precision and Stability Combined</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prodigious-editing-power-utilizing-inshot-on-devices/"><u>In 2024, Prodigious Editing Power  Utilizing Inshot on Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-skincare-and-sensational-looks/"><u>In 2024, Skincare and Sensational Looks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nubia-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nubia</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-facetune-an-authoritative-review-for-improved-images-for-2024/"><u>Inside Facetune  An Authoritative Review for Improved Images for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/master-your-livestream-essential-tips-for-top-9-filters/"><u>Master Your Livestream  Essential Tips for Top 9 Filters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-b-cut-scenarios-in-filmmaking-for-2024/"><u>Mastering B-Cut Scenarios in Filmmaking for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfect-audio-connection-must-have-tips-for-podcasters-for-2024/"><u>Perfect Audio Connection  Must-Have Tips for Podcasters for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smooth-transition-altering-snapchat-videos-tempo-for-2024/"><u>Smooth Transition  Altering Snapchat Videos' Tempo for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/spotlight-on-professional-shoots-innovative-lighting-techniques-for-2024/"><u>Spotlight on Professional Shoots  Innovative Lighting Techniques for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Lightning-Fast Windows Evaluation Path\""
-date: 2024-05-31T07:36:09.546Z
-updated: 2024-06-01T07:36:09.546Z
+date: 2024-07-31T05:16:27.912Z
+updated: 2024-08-01T05:16:27.912Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Lightning-Fast Windows Evaluation Path\""
 excerpt: "\"This Article Describes 2024 Approved: Lightning-Fast Windows Evaluation Path\""
 keywords: "Fast Windows Testing,Quick Windows Assessment,Rapid Windows Analysis,Speedy Windows Examination,Swift Windows Review,Accelerated Windows Check,Efficient Windows Scrutiny"
-thumbnail: https://www.lifewire.com/thmb/bOmeScOWFc7_QUmHNXKw7Hqwkm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bestfirestickapps-5bcba08546e0fb005177a983-0591296fac8241ccb8497f9f29901acd.jpg
+thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg
 ---
 
 ## Lightning-Fast Windows Evaluation Path
@@ -30,16 +30,25 @@ Below is how to install and use QuickLook by Paddy Xu:
 
 Step1 Open Microsoft Store and search for QuickLook. Make sure you select the option published by Paddy Xu.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![search for quicklook for windows on Microsoft store](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-1.jpg)
 
 Step2 Once you find QuickLook, click “Get it” to download and install the app in your Windows operating system. At around 60MB, installing this preview app should be quick and easy.
 
 Step3 After successfully installing QuickLook, head to File Explorer and select any file you want to preview. Press the “Space” bar on your keyboard to view the file.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![preview video on quicklook for windows](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-2.jpg)
 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Get the App on GitHub
 
 If you can’t find QuickLook on Microsoft Store for one reason or another, download the program from GitHub. It’s an open-source community where millions of software developers converge to distribute and share their work. Here, you can download and install multiple desktop programs and plugins for free. However, you must be a registered member to contribute any content.
@@ -48,6 +57,13 @@ So, without wasting time, let’s go through the steps to download the QuickLook
 
 Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and then navigate to Releases. Click the latest version.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
@@ -62,6 +78,9 @@ Step4 After a successful installation, find the file you want to preview and sel
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
 
 Mac users have enjoyed the powerful QuickLook capabilities for at least 15 years. But are we going to see QuickLook coming to Windows 10/11 anytime soon? According to sources, plans are already underway to add this feature to Microsoft Windows and rename it Peek. After selecting a file on Explorer, simply tap the Shift + Space bar to preview the content. Like the macOS version, you can preview PDFs, Excels, Words, images, videos, audio, and pretty much anything.
@@ -70,6 +89,9 @@ Meanwhile, it’s expected that QuickLook will come with a small preview screen.
 
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Frequently Asked Questions
 
 #### 1\. Which digital file formats are compatible with QuickLook?
@@ -116,3 +138,46 @@ This guidepost is another testament that your PC has massive hidden abilities. W
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-iphone-exposed-the-art-of-prolonged-photography/"><u>[New] IPhone Exposed  The Art of Prolonged Photography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-pixlr-15-essential-tips-for-enhanced-editing/"><u>[New] Mastering Pixlr  15 Essential Tips for Enhanced Editing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-interface-key-win11-tricks/"><u>[New] Mastering the Interface  Key Win11 Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-next-gen-entertainment-experience-scrutiny/"><u>[New] Next-Gen Entertainment Experience Scrutiny</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfecting-small-details-on-google-meet-screen/"><u>[New] Perfecting Small Details on Google Meet Screen</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-photoshops-stabilization-an-essential-tool-or-overrated-feature/"><u>[New] Photoshop's Stabilization  An Essential Tool or Overrated Feature?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-proven-strategies-to-amplify-zoomed-participants-in-google-meet/"><u>[New] Proven Strategies to Amplify Zoomed Participants in Google Meet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-slick-shots-from-yesteryear-mastering-vhs-hacks-in-modern-edits/"><u>[New] Slick Shots From Yesteryear  Mastering VHS Hacks in Modern Edits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-how-to-catch-every-thrilling-moment-in-cricket/"><u>[New] Step-by-Step Guide  How to Catch Every Thrilling Moment in Cricket</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-3-efficient-methods-for-saving-youtubes-standardized-images/"><u>[Updated] 3 Efficient Methods for Saving YouTube's Standardized Images</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-mastering-content-propagation-on-vimeo/"><u>[Updated] In 2024, Mastering Content Propagation on Vimeo</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-ranking-top-tools-convert-srt-files-with-zero-charge/"><u>[Updated] Ranking Top Tools  Convert Srt Files with Zero Charge</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-retrace-your-twitch-stream-steps/"><u>[Updated] Retrace Your Twitch Stream Steps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-hues-a-collection-of-the-best-11-video-tutorials/"><u>2024 Approved  Mastering Hues  A Collection of the Best 11 Video Tutorials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-smooth-transition-synchronizing-your-iphones-albums-with-icloud-backup/"><u>2024 Approved  Smooth Transition  Synchronizing Your iPhone's Albums with iCloud Backup</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-stand-out-design-and-customize-professional-logos-via-free-templates/"><u>2024 Approved  Stand Out  Design and Customize Professional Logos via Free Templates</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/budget-savvy-gopro-upgrades-for-starters/"><u>Budget Savvy GoPro Upgrades for Starters</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-guide-to-sns-hdr-pro-and-similar-software/"><u>Comprehensive Guide to SNS HDR Pro and Similar Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/easily-share-your-camera-roll-in-a-snap-tips-and-tricks-for-2024/"><u>Easily Share Your Camera Roll in a Snap - Tips & Tricks for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-realme-c33-2023-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Realme C33 2023 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhance-audio-visual-experience-windows-media-player-subtitles/"><u>Enhance Audio-Visual Experience  Windows Media Player Subtitles</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-realme-c67-4g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Realme C67 4G Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-y100i-power-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Y100i Power 5G</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-in-class-android-3d-entertainment/"><u>In 2024, Best-in-Class Android 3D Entertainment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphoneandroid-stabilization-elite-photo-tripods-for-2024/"><u>IPhone/Android Stabilization  Elite Photo Tripods for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/is-an-m1-macbook-air-smarter-and-faster-for-editing-in-2024/"><u>Is an M1 MacBook Air Smarter and Faster for Editing, In 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-creativity-the-leading-chrome-drawing-apps-for-2024/"><u>Mastering Creativity  The Leading Chrome Drawing Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/networked-narratives-recorder-for-2024/"><u>Networked Narratives Recorder for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/powershell-pro-tips-for-win-ipmac-extraction/"><u>PowerShell Pro Tips for Win IP/MAC Extraction</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/precision-zooming-the-key-to-clear-microsoft-teams-sessions-for-2024/"><u>Precision Zooming  The Key to Clear Microsoft Teams Sessions for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-editing-suites-for-device-app-development-for-2024/"><u>Premier Editing Suites for Device App Development for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-tools-for-creatives-comprehensively-evaluating-ae-plugins-for-2024/"><u>Pro Tools for Creatives  Comprehensively Evaluating AE Plugins for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/rising-from-hobbyist-to-leading-graphic-expert-for-2024/"><u>Rising From Hobbyist to Leading Graphic Expert for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/scaling-up-likes-in-tiktok-unboxing-videos-for-2024/"><u>Scaling up 'Likes' In TikTok Unboxing Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sound-sleuths-unite-free-beats-tracking-tools-for-2024/"><u>Sound Sleuths Unite! Free Beats-Tracking Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-samsung-galaxy-a24-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Samsung Galaxy A24</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocked-gems-seeking-free-tiktok-picture-perfections/"><u>Unlocked Gems  Seeking Free TikTok Picture Perfections</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/why-no-colored-pages/"><u>Why No Colored Pages?</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Memetic Masterpieces  Behind the Photo\""
-date: 2024-05-31T07:40:42.351Z
-updated: 2024-06-01T07:40:42.351Z
+date: 2024-07-31T10:06:06.645Z
+updated: 2024-08-01T10:06:06.645Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Memetic Masterpieces: Behind the Photo\""
 excerpt: "\"This Article Describes [Updated] Memetic Masterpieces: Behind the Photo\""
 keywords: "Memetic Artwork,Photo Origins,Creative Photography,Visual Trends,Image Crafting,Photo Mastery,Memetic Images"
-thumbnail: https://www.lifewire.com/thmb/ptOMVF2coNQ3xHDjYSJNiDTf5gY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/search-error-e0cf43ae96b248189eb82768561c2087.png
+thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0d2036dc5a1ad2aa416dd2a4.png
 ---
 
 ## Memetic Masterpieces: Behind the Photo
@@ -22,8 +22,14 @@ A stock photo meme is an image or video you use to communicate a specific idea. 
 
 So, what are the most popular stock photo memes, and how did they reach this status? Keep reading to find out more.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part1: Hide the Pain Harold
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
 
 Since 2011, Hide the Pain Harold continues to rank as one of the world's most popular stock photo memes. Here are some numbers to show you how popular the meme is.
@@ -39,10 +45,16 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 
 According to Andras, Hide the Pain Harold results from his vacation in Turkey. A professional photographer contacted him to do stock image modeling. During the shoot, the photographer kept telling him to smile, resulting in some photos of Andras appearing to force a smile. This expression led to netizens using his image to express situations where the forced smile is masking your true feelings.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![do stock image modeling](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-3.jpg)
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
@@ -64,12 +76,36 @@ Since then, the meme continues to enjoy mass popularity, including:
 
 The latest version of Distracted boyfriend is a compilation of photos featuring the three models, with the last one showing the women hanging out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## Part3: I Bet He's Thinking About Other Women
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
 
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
@@ -96,6 +132,9 @@ Twitter user @chocos posts the image with Spanish captions, with the woman sure 
 
 ## Part4: Bonjour Bear
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
@@ -113,6 +152,9 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part5: FAQs
 
 ### 1\. Can you use stock photos for memes?
@@ -125,6 +167,10 @@ This is because not all stock photo providers offer their images with a creative
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 3\. Can you use watermarked stock photos to create memes?
 
 No. Before using watermarked images to create memes, you must get verifiable permission from the rights holder. This is because it violates copyright law and can result in heavy fines or even prison time in extreme circumstances.
@@ -159,3 +205,52 @@ Therefore, always perform stock image reverse searches to verify the image permi
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-capture-the-best-moments-select-6-top-ranked-short-video-download-tools/"><u>[New] Capture the Best Moments  Select 6 Top-Ranked Short Video Download Tools</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-extensive-movement-review-2023/"><u>[New] In 2024, Extensive Movement Review 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-insight-dji-paper-bird-goggles-functionality/"><u>[New] Insight  DJI Paper Bird Goggles Functionality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mplayer-xtreme-next-gen-media-player/"><u>[New] MPlayer Xtreme  Next-Gen Media Player</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-smartphones-shining-in-high-definition-video/"><u>[New] Premium Smartphones Shining in High Definition Video</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-screenplay-excellence-genre-based-achievement-showcase/"><u>[New] Screenplay Excellence  Genre-Based Achievement Showcase</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-avoid-these-8-steps-that-newcomers-often-miss-on-youtube-for-2024/"><u>[Updated] Avoid These 8 Steps that Newcomers Often Miss on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-peace-and-power-the-10-greatest-yoga-channels-online-for-2024/"><u>[Updated] Find Peace & Power  The 10 Greatest Yoga Channels Online for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-streamline-your-collaboration-secrets-to-perfectly-planned-google-meets/"><u>[Updated] In 2024, Streamline Your Collaboration  Secrets to Perfectly Planned Google Meets</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-interweaving-art-and-science-in-colors/"><u>[Updated] Interweaving Art and Science in Colors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-spotify-promotion-a-comprehensive-guide/"><u>[Updated] Mastering Spotify Promotion  A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-digital-distortion-in-minutes/"><u>[Updated] Mastering the Art of Digital Distortion in Minutes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-next-gen-gaming-escapades-top-5-psvr-titles-for-the-future/"><u>[Updated] Next-Gen Gaming Escapades  Top 5 PSVR Titles for the Future</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-organizing-information-mastery-seamless-integration-of-chapters-in-youtube-videos/"><u>[Updated] Organizing Information Mastery  Seamless Integration of Chapters in YouTube Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-passport-self-portrait-maker-free-access-to-top-quality-images/"><u>[Updated] Passport Self-Portrait Maker – Free Access to Top Quality Images</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-virtual-set-masterclass-learning-filmmaking-online/"><u>[Updated] The Virtual Set Masterclass  Learning Filmmaking Online</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-twisting-tales-in-photography-the-ultimate-guide-to-angled-spins-on-digital-platforms/"><u>[Updated] Twisting Tales in Photography  The Ultimate Guide to Angled Spins on Digital Platforms</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-comprehensible-guide-to-azure-voice-to-text/"><u>2024 Approved  Comprehensible Guide to Azure Voice to Text</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-easy-guide-to-start-product-review-channel/"><u>2024 Approved  Easy Guide to Start Product Review Channel</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-the-videography-realm-xstudio-study/"><u>2024 Approved  Inside the Videography Realm  XStudio Study</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-media-manipulation-combining-windows-photos-and-story-remix/"><u>2024 Approved  Mastering Media Manipulation  Combining Windows Photos and Story Remix</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-powerful-applications-to-extract-vimeo-content/"><u>2024 Approved  Powerful Applications to Extract Vimeo Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-precision-in-proportion-finding-aspect-ratio-perfection/"><u>2024 Approved  Precision in Proportion  Finding Aspect Ratio Perfection</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/deconstructing-the-best-podcast-title-examples/"><u>Deconstructing the Best Podcast Title Examples</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-from-chatterboxes-to-chronicles-mastering-the-art-of-skype-recording/"><u>In 2024, From Chatterboxes to Chronicles  Mastering the Art of Skype Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-jump-into-gaming-evolution-explore-lgs-27ud68-monitor/"><u>In 2024, Jump Into Gaming Evolution  Explore LG's 27UD68 Monitor</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-art-of-iphone-image-rotation-effortless-methods/"><u>In 2024, Master the Art of iPhone Image Rotation - Effortless Methods</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-premium-free-facebook-media-craftsman-suite/"><u>In 2024, Premium Free Facebook Media Craftsman Suite</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-srt-conversion-essentials-ttml-xml-ssa-and-beyond/"><u>In 2024, SRT Conversion Essentials  TTML, XML, SSA, and Beyond</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-successful-uploads-on-google-podcast/"><u>In 2024, Step-by-Step  Successful Uploads on Google Podcast</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oneplus-11r-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your OnePlus 11R Phone Hassle-Free</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/launching-a-video-channel-dedicated-to-new-and-used-product-reviews-for-2024/"><u>Launching a Video Channel Dedicated to New and Used Product Reviews for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-class-on-vsco-camera-and-lens-for-creative-use-for-2024/"><u>Master Class on VSCO Camera & Lens for Creative Use for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-youtube-timestamp-addition-for-desktop-and-mobile-devices/"><u>Mastering YouTube Timestamp Addition for Desktop & Mobile Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mellow-melodies-gradual-audio-decline-in-garageband-for-2024/"><u>Mellow Melodies  Gradual Audio Decline in Garageband for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/melodic-matchmakers-aligning-music-to-visuals-for-2024/"><u>Melodic Matchmakers  Aligning Music to Visuals for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photo-to-pixellated-panels-pro-windows-and-mac-edition-for-2024/"><u>Photo to Pixellated Panels Pro  Windows & Mac Edition for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premiere-pro-quick-fade-magic-1m-for-2024/"><u>Premiere Pro Quick-Fade Magic (1M) for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-6s-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 6s Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/spectral-savvy-applying-color-science-for-2024/"><u>Spectral Savvy  Applying Color Science for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/tailoring-tutorials-for-square-shaped-video-sharing-for-2024/"><u>Tailoring Tutorials for Square-Shaped Video Sharing for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-that-stands-out-crafting-banners-for-gamers/"><u>Theme That Stands Out  Crafting Banners for Gamers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+</ul></div>

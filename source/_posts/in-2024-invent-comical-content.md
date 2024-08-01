@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Invent Comical Content"
-date: 2024-05-31T07:36:12.992Z
-updated: 2024-06-01T07:36:12.992Z
+date: 2024-07-31T05:20:11.721Z
+updated: 2024-08-01T05:20:11.721Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Invent Comical Content"
 excerpt: "This Article Describes In 2024, Invent Comical Content"
 keywords: "Comic Laughter Ideas,Funny Content Creation,Humorous Video Concepts,Joke Innovation Strategies,Mirthful Media Production,Satirical Storytelling Tips,Whimsical Writing Techniques"
-thumbnail: https://www.lifewire.com/thmb/L_IEEJ6cThyoOeCq0NMsj_YSx8k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/1280px-New_Logo_Gmail-2f7310ac1f314fb9be95b48097db6596.jpg
+thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2383fe5591ff482b234f870f.jpg
 ---
 
 ## Invent Comical Content
@@ -24,6 +24,9 @@ However, choosing the best meme maker will be the option to create a meme. It wi
 
 Let's check how you can **create your own meme** with these apps.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 In this market, there are numerous meme creators, but only a few allow doing it for free. You will always want an app that allows you to create memes online without registration and watermark. Fortunately, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is there to help you out with creating video and image memes.
@@ -40,6 +43,9 @@ You will only have to import the image, add your text, and then export it to mak
 * **Add caption:** Place the file on the timeline. You can click on the "Title" tab and select the text style. Enter words and add color, font, and size to the caption. You can also try inserting a famous song in the background. You must drag and drop the file into the program and put the audio track.
 * **Save your meme:** Of course, when you are finished with the meme, you will want to share the meme with the online world. It is as simple as you can upload the video meme to any social media platform by clicking on the "Export" option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Use Photoshop
 
 Want to learn how to create a meme with Photoshop? This manual is meant to assist. Since the invention of the internet, memes have increased to disseminate complex information in brief, digestible chunks. It is a low-cost, high-impact image that may be quickly produced and destroyed. Many meme creators are available, including one in Photoshop, but using Photoshop itself will give you much more power.
@@ -53,6 +59,9 @@ Here's how to create memes on your computer using only Photoshop CC. Choose a ph
 * **Make your background:** No meme is completed without the proper background. The background is crucial to make the content attractive. You will have to create new layers with the shortcut "Cmd+Shift+N" and then drag this to the bottom layer, go to the Edit, and click on Fill. You can see numerous options in the menu, selecting the pattern and then choosing a custom pattern.
 * **Add Text:** In the end, a meme's appearance serves as a vehicle for its message. The writing should be boldly extensive and assertive next to the image, compromising style for effect. To create a box across the canvas, use the Type tool. Aim for a structure with one significant remark and a lesser message below by keeping the wording extensive and straightforward.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Use Canva
 
 It's free and straightforward to make a meme with Canva's meme maker. You may completely personalize your meme using our drag-and-drop editor; there are no restrictions on watermarks, fonts, or flexible designs. Instantly post and resize your picture, add an unlimited number of text boxes, select any font and as many colors as you like, and select the download type for the meme.
@@ -75,10 +84,17 @@ Steps to make a meme with imgflip:
 * **Add customizations:** Add spacing, drawings, stickers, images, and text to use buttons beside the meme canvas.
 * **Share:** You can create the meme by clicking on "generate meme" and then selecting to share the meme. With the help of this app, you can share your generated meme to several social media apps.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 5\. iLoveIMG
 
 iLoveIMG is another free-to-use online application that helps users with editing images to resize, crop, or compress and then convert them to memes. There are also free templates available for the users that can be accessed very easily with just a few clicks. This web app is very efficient and doesn't take up any memory space on your PC or device and produces high-resolution memes that can be instantly shared on different social media platforms. To make a meme by using the iLoveIMG web app, you will need to follow these steps thoroughly:
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![make meme with iloveimg](https://images.wondershare.com/filmora/article-images/2022/07/make-meme-with-iloveimg.jpg)
 
 * First, go to [iloveimg.com](http://www.iloveimg.com) and then click on the "meme generator" option given on your screen. This will take you to the meme generator page where you will be asked to upload the image you want to make a meme with.
@@ -99,6 +115,9 @@ The process of making memes with memes better is as follows:
 * After you have selected a meme template, you will be available with different text fields where you can insert your texts, and then the text will be shown on the image. If you want to refresh or undo your changes, then you can click on the "Auto-refresh" option to add the texts again.
 * When you are done with your editing, click on the "Save image" and the meme will be saved to your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Make a Meme
 
 If you are looking for a free and simple meme generator for your social media needs, then "Make a meme" is the perfect online application for you. This platform doesn't need any installation and can be directly launched from its website. Once you open this online meme-generating platform, you will be available with hundreds of trendy memes along with specific keyword search support. And there are also different categories of memes grouped for better convenience. The process of generating memes through this online application is really easy and you can follow these steps to create your meme:
@@ -110,6 +129,9 @@ If you are looking for a free and simple meme generator for your social media ne
 * After selecting an image, you can edit it to add texts or layers and when you are done, the image will be ready for preview. The texts in the meme image can be changed by tapping on the text box provided on the screen and then inserting the preferred texts.
 * If you are satisfied with your meme creation and want no further changes, you will need to click on the "Download Image" option and your meme will be saved successfully. Along with this, you also have the option to share the meme instantly to any cloud storage if you want to do so.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Memes are enjoyable because they make you smile and chuckle. The ideal way to create a meme is via a meme maker program, which allows you to upload your photo and select a template. Try the programs mentioned above to produce humorous memes and discover how to create memes using your photos.
@@ -120,6 +142,9 @@ Memes are enjoyable because they make you smile and chuckle. The ideal way to cr
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![use filmora](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 You will only have to import the image, add your text, and then export it to make a meme with the meme generator. This built-in video trimmer will help you cut out the unwanted parts of the video while creating memes. Let's see the steps on how you can **create your meme** with Filmora.
@@ -128,10 +153,16 @@ You will only have to import the image, add your text, and then export it to mak
 * **Add caption:** Place the file on the timeline. You can click on the "Title" tab and select the text style. Enter words and add color, font, and size to the caption. You can also try inserting a famous song in the background. You must drag and drop the file into the program and put the audio track.
 * **Save your meme:** Of course, when you are finished with the meme, you will want to share the meme with the online world. It is as simple as you can upload the video meme to any social media platform by clicking on the "Export" option.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Use Photoshop
 
 Want to learn how to create a meme with Photoshop? This manual is meant to assist. Since the invention of the internet, memes have increased to disseminate complex information in brief, digestible chunks. It is a low-cost, high-impact image that may be quickly produced and destroyed. Many meme creators are available, including one in Photoshop, but using Photoshop itself will give you much more power.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make meme with ps](https://images.wondershare.com/filmora/article-images/2022/07/make-meme-with-ps.jpg)
 
 Here's how to create memes on your computer using only Photoshop CC. Choose a photo and **make it a meme** with these steps.
@@ -145,6 +176,9 @@ Here's how to create memes on your computer using only Photoshop CC. Choose a ph
 
 It's free and straightforward to make a meme with Canva's meme maker. You may completely personalize your meme using our drag-and-drop editor; there are no restrictions on watermarks, fonts, or flexible designs. Instantly post and resize your picture, add an unlimited number of text boxes, select any font and as many colors as you like, and select the download type for the meme.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use canva create meme](https://images.wondershare.com/filmora/article-images/2022/07/use-canva-create-meme.jpg)
 
 * **Open Canva and Search for the template:** Open the Canva and then search “Meme” on the search tool. You can browse through the library of meme templates for all themes. You can add the keyword which fits your choice and then style it to narrow the search. You can click on the template you love to add the page to the editor.
@@ -174,6 +208,9 @@ iLoveIMG is another free-to-use online application that helps users with editing
 * After you have chosen a meme template or uploaded your image, you will be available with different editing tools that will help you to resize and add texts of different fonts to your image. Select the font you want to go with and then add it to your image.
 * Then pan or zoom to place the text at the required position in the image. After you are done with your modifications, click on the "download image" option and your meme will be saved to your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Meme Better
 
 One of the most popular subjects of interest among social media users these days are memes. And with their immense popularity, meme-generating applications are becoming popular. But a good meme-creating platform should facilitate its users with the choice of different trendy meme templates, fonts, and video meme editing capabilities. And Meme better is such a meme-making online platform that helps users to launch a meme generator instantly. This platform is completely free to use and facilitates an easy-to-use interface to add images or videos and then convert them into memes.
@@ -187,10 +224,16 @@ The process of making memes with memes better is as follows:
 * After you have selected a meme template, you will be available with different text fields where you can insert your texts, and then the text will be shown on the image. If you want to refresh or undo your changes, then you can click on the "Auto-refresh" option to add the texts again.
 * When you are done with your editing, click on the "Save image" and the meme will be saved to your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Make a Meme
 
 If you are looking for a free and simple meme generator for your social media needs, then "Make a meme" is the perfect online application for you. This platform doesn't need any installation and can be directly launched from its website. Once you open this online meme-generating platform, you will be available with hundreds of trendy memes along with specific keyword search support. And there are also different categories of memes grouped for better convenience. The process of generating memes through this online application is really easy and you can follow these steps to create your meme:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make a meme tool](https://images.wondershare.com/filmora/article-images/2022/07/make-a-meme-tool.jpg)
 
 * To use the "make a meme" web app, you will first need to go to its website. You can do that by searching it on your web browser and clicking on the first links in the results.
@@ -228,3 +271,43 @@ Memes are enjoyable because they make you smile and chuckle. The ideal way to cr
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-leveraging-xbox-ones-zoom-features-effectively/"><u>[New] Leveraging Xbox One's Zoom Features Effectively</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-passport-selfie-maker-top-quality-instant-access-for-desktoponline-use/"><u>[New] Passport Selfie Maker – Top Quality, Instant Access for Desktop/Online Use</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-picture-perfect-presentations-posting-on-youtube/"><u>[New] Picture-Perfect Presentations  Posting on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-should-you-keep-previewing-fb-activity-visible-insights/"><u>[New] Should You Keep Previewing FB Activity Visible? Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-steady-shots-how-to-avoid-lens-cloudiness/"><u>[New] Steady Shots  How to Avoid Lens Cloudiness</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-survival-in-shambles-selecting-the-top-8-zombie-classics-for-2024/"><u>[New] Survival in Shambles  Selecting the Top 8 Zombie Classics for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-blueprints-for-breaking-ground-in-edu-video-production-on-youtube-channels-for-2024/"><u>[Updated] Blueprints for Breaking Ground in Edu-Video Production on YouTube Channels for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-crafting-effective-in-stream-ad-campaigns-on-facebook-a-comprehensive-guide-for-2024/"><u>[Updated] Crafting Effective In-Stream Ad Campaigns on Facebook  A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-easy-routines-for-documenting-instagram-stories/"><u>[Updated] In 2024, Easy Routines for Documenting Instagram Stories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-make-a-video-from-photo-with-music/"><u>[Updated] Make a Video From Photo with Music</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mobile-memories-iphone-recording-2024/"><u>[Updated] Mobile Memories  IPhone Recording 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-overcoming-common-windows-10-photos-display-problems/"><u>[Updated] Overcoming Common Windows 10 Photos Display Problems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-color-the-top-15-gopro-luts-for-filmmaking/"><u>[Updated] Perfecting Color  The Top 15 GoPro LUTs for Filmmaking</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-power-packed-film-titles-for-inner-growth-and-strength/"><u>[Updated] Power-Packed Film Titles for Inner Growth & Strength</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-strategic-approaches-to-dominating-spotifys-ad-space/"><u>[Updated] Strategic Approaches to Dominating Spotify's Ad Space</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-multitasking-with-picture-in-picture-mode-on-microsoft-edge-browser/"><u>2024 Approved  Mastering Multitasking with Picture-in-Picture Mode on Microsoft Edge Browser</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-secure-your-place-in-the-metaverse-essential-devices-list/"><u>2024 Approved  Secure Your Place in the Metaverse  Essential Devices List</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-selective-selections-notable-sites-for-snagging-snapalert-tunes/"><u>2024 Approved  Selective Selections  Notable Sites for Snagging SnapAlert Tunes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/brighten-iphones-night-scenes-using-simple-tricks-for-2024/"><u>Brighten iPhone's Night Scenes Using Simple Tricks for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/custom-ringtone-ideas-for-christian-lifestyle/"><u>Custom Ringtone Ideas for Christian Lifestyle</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/cyberspace-supplement-facebook-story-saver/"><u>Cyberspace Supplement  Facebook Story Saver</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/five-cozy-seasons-ideal-backgrounds-to-warm-up-videos/"><u>Five Cozy Seasons  Ideal Backgrounds to Warm Up Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oneplus-ace-2-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast OnePlus Ace 2 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instagram-and-soundtracks-demystifying-legalities/"><u>In 2024, Instagram & Soundtracks  Demystifying Legalities</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-creators-of-screenplay-world/"><u>In 2024, Prime Creators of Screenplay World</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-snickerscreen-composer/"><u>In 2024, SnickerScreen Composer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sony-xperia-xz-premium-an-odyssey-into-ultra-hd-phones/"><u>In 2024, Sony Xperia XZ Premium  An Odyssey Into Ultra HD Phones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Realme</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastery-in-motion-a-thorough-review-of-magix-vpxs-features-for-2024/"><u>Mastery in Motion  A Thorough Review of Magix VPX's Features for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mirthful-methodology-making-memes-for-free-for-2024/"><u>Mirthful Methodology  Making Memes for Free for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/precision-audit-vll-application-review-for-2024/"><u>Precision Audit  VLL Application Review for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reel-in-the-future-top-5-ps-vr-games-on-the-brink-of-launch-for-2024/"><u>Reel in the Future  Top 5 PS VR Games on The Brink of Launch for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/refining-zoom-visuals-proactive-measures-for-2024/"><u>Refining Zoom Visuals  Proactive Measures for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/splash-to-fame-surfers-choice-camera-picks-2e3-for-2024/"><u>Splash to Fame  Surfer's Choice Camera Picks (2E3) for 2024</u></a></li>
+</ul></div>

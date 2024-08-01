@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sketch Whimsical Graphics on Giphy\""
-date: 2024-05-31T07:36:47.992Z
-updated: 2024-06-01T07:36:47.992Z
+date: 2024-07-31T05:57:24.410Z
+updated: 2024-08-01T05:57:24.410Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Sketch Whimsical Graphics on Giphy\""
 excerpt: "\"This Article Describes 2024 Approved: Sketch Whimsical Graphics on Giphy\""
 keywords: "Gif Sketch Artistry,Whimsical Drawing Gifs,Giphy Graphic Illustration,Sketched Animated Gifs,Playful Graphics on Giphy,Creative Sketch Gifs,Funny Visuals GifHub"
-thumbnail: https://www.lifewire.com/thmb/CStHh_chdzoiHQUYb0I6_K0rN4E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001-is-nintendo-switch-online-down-or-is-it-just-you-4846361-d95930818e9d4bc39ff7535c50087c08.jpg
+thumbnail: https://thmb.techidaily.com/b7ec02702d51d57959e5bd1248adaf8d9c4e1536be03bd52fccab5d6aa482430.jpg
 ---
 
 ## Sketch Whimsical Graphics on Giphy
@@ -30,6 +30,9 @@ You may share the Giphy picture on social media or copy and paste it into a text
 
 Step1 Download and launch the app, then register for an account or sign in if you already have one. Tap on Create in the top-right corner of the homepage. Utilize the icon in the upper right corner to access your GIPHY account. It takes two seconds to create a GIPHY account if you don't already have one.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![download giphy app](https://images.wondershare.com/filmora/article-images/2022/07/download-giphy-app.jpg)
 
 Step2 To upload a video to GIPHY, click Upload. To add a video from your computer or mobile device, choose ‘Choose File’ as there is an option to do so
@@ -38,10 +41,17 @@ Step2 To upload a video to GIPHY, click Upload. To add a video from your compute
 
 Step3 If you wish to upload a video from a URL, you may do so. After you've submitted your movie, you'll be sent to the next page automatically so that you may cut it.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![upload video url giphy](https://images.wondershare.com/filmora/article-images/2022/07/upload-video-url-giphy.jpg)
 
 Step4 Set the sliders to the length that you choose for your GIF. Recall that shorter is always better! Click Upload Now to continue. The next page gives you the choice of adding tags, making your GIF private, adding a source URL, or adding it to a collection.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 2\. Alternative Way to Make Meme Video
 
 Giphy should be a desirable option for content and advertising partners due to the search engine and the thorough social integration of its content. The language of the internet is memes. Despite the fact that some of them may be somewhat strange. There is a text option in every specialized video editing program, but [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) provides something more eye-catching for you! You may create inspiring graphics with quotes using the hundreds of other stock images that Filmora provides, as well as share personal stories, talk about current events, and more. You may also make use of your own images.
@@ -60,6 +70,9 @@ You may create your own memes for every occasion with the aid of the Filmora mem
 
 To start a new meme project, open the Filmora video meme creator and choose "New project." In the project options, choose the appropriate aspect ratio before selecting "Import" to submit your video. You may also import your favorite movies and pictures shot with mobile devices using Filmora. Simply choose Import, then carry out the following:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![import files to filmora](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 ##### Step3 Include Music and Subtitles
@@ -78,6 +91,9 @@ If you want to add additional text to your meme, use the features-list menu bar.
 
 Just done with it! you may now start creating as many memes as you wish. A meme has to be circulated extensively online in order to be seen and, presumably, liked. Thus, you need to distribute it across all platforms. You may now click the "Export" button to instantly upload your video meme to Vimeo or YouTube. Save your final meme and upload it right away to your email, Facebook, Twitter, etc. to share it with coworkers or friends.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Additionally, Giphy offers a Giphy Cam software that enables users to create custom GIFs from video footage captured with their smartphone cameras. Users may effortlessly upload video to the website, where Giphy offers desktop GIF creation tools, and then publish their works without any issues elsewhere. You can certainly create a new picture using your own image if you're feeling very creative. Technically, you could do all of this using an image editor on your computer. If you're unfamiliar with this kind of program, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is definitely the best option.
@@ -98,6 +114,9 @@ To start a new meme project, open the Filmora video meme creator and choose "New
 
 The video file must then be included in the timeline. Another option is to play well-known music in the background. You may do this by dragging and dropping the music file into the program's timeline's audio track. For the subtitles for your Meme, refer to the "Title" option, you may choose the text style you wish to use. Enter the text, then alter the caption's typeface, color, and size.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![include music and subtitles](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 ##### Step4 Edit the Meme
@@ -136,3 +155,41 @@ Additionally, Giphy offers a Giphy Cam software that enables users to create cus
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-a-user-friendly-guide-to-efficiently-use-ez-grabber/"><u>[New] A User-Friendly Guide to Efficiently Use EZ Grabber</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-level-techniques-for-attaching-srt-to-mp4-clips/"><u>[New] Master Level Techniques for Attaching SRT to MP4 Clips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-melodic-medium-finding-the-right-film-score/"><u>[New] Melodic Medium  Finding the Right Film Score</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfecting-pro-photography-iphones-best-light-tactics/"><u>[New] Perfecting Pro Photography  IPhone's Best Light Tactics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-snapshot-superiority-choosing-the-best-10-cameras/"><u>[New] Snapshot Superiority  Choosing the Best 10 Cameras</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-master-plan-top-6-modernist-minecraft-villas/"><u>[Updated] 2024 Approved  Master Plan  Top 6 Modernist Minecraft Villas</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inside-the-innovative-world-of-intova-x/"><u>[Updated] Inside the Innovative World of Intova X</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-peak-craft-studio-25-overview/"><u>[Updated] Peak Craft Studio 25 Overview</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-no-cost-slow-motion-video-capture-options-for-iphonesandroid/"><u>[Updated] Premium No-Cost Slow Motion Video Capture Options for iPhones/Android</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-professional-thumbnails-from-your-phone-for-youtube/"><u>[Updated] Professional Thumbnails From Your Phone for YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pushing-limits-with-vr-which-console-and-controller-fits-best/"><u>[Updated] Pushing Limits with VR  Which Console and Controller Fits Best?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-tips-modifying-snapchat-video-velocity/"><u>[Updated] Quick Tips  Modifying Snapchat Video Velocity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-best-of-ice-artistry-2022-edition-for-2024/"><u>[Updated] The Best of Ice Artistry  2022 Edition for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-underground-sources-for-smart-fb-memes/"><u>[Updated] Top Underground Sources for Smart FB Memes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-privacy-unveil-faces-less-clearly/"><u>2024 Approved  Master Privacy  Unveil Faces Less Clearly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-media-effects-a-comprehensive-guide-to-device-filters/"><u>2024 Approved  Mastering Media Effects  A Comprehensive Guide to Device Filters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-photo-uploads-a-comprehensive-youtube-strategy/"><u>2024 Approved  Mastering Photo Uploads  A Comprehensive YouTube Strategy</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-plain-story-formulation/"><u>2024 Approved  Plain Story Formulation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-places-for-accessible-outstanding-vector-design-tools/"><u>2024 Approved  Prime Places for Accessible, Outstanding Vector Design Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oppo-reno-10-pro-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Oppo Reno 10 Pro 5G Phone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-adopting-new-norms-analyzing-changes-in-social-media-with-tiktok-vs-snapchat/"><u>In 2024, Adopting New Norms  Analyzing Changes in Social Media with TikTok Vs Snapchat</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-11-pro-max-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My iPhone 6s Plus?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-12-pro-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 12 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-live-link-luxuries-are-codes-more-crucial-than-cables/"><u>In 2024, Live Link Luxuries  Are Codes More Crucial Than Cables?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-reach-in-telegram-a-marketers-playbook/"><u>In 2024, Maximize Reach in Telegram  A Marketer's Playbook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-shadows-and-highlights-for-text-depth-in-illustrator/"><u>In 2024, Shadows & Highlights for Text Depth in Illustrator</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-experts-on-aspers-asmr-for-better-sleep-for-2024/"><u>Leading Experts on Asper's ASMR for Better Sleep for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-to-superior-cloud-solutions-for-your-needs-for-2024/"><u>Navigating to Superior Cloud Solutions for Your Needs for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-picture-driven-journey-maker-for-2024/"><u>Premier Picture-Driven Journey Maker for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-podplay-writing-treasures-for-2024/"><u>Premier Podplay Writing Treasures for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/samsung-bd-j5900-overhaul-whats-new-for-2024/"><u>Samsung BD-J5900 Overhaul  What's New  for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/soaring-stories-crafting-engaging-drone-video-narratives-for-2024/"><u>Soaring Stories  Crafting Engaging Drone Video Narratives for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v30-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V30 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+</ul></div>

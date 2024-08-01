@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Making Your Photoshop Projects Pop with 3D Text Design"
-date: 2024-05-31T07:37:07.976Z
-updated: 2024-06-01T07:37:07.976Z
+date: 2024-07-31T06:18:08.880Z
+updated: 2024-08-01T06:18:08.880Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Making Your Photoshop Projects Pop with 3D Text Design"
 excerpt: "This Article Describes In 2024, Making Your Photoshop Projects Pop with 3D Text Design"
 keywords: "PhotoShaping Tricks,PopPic Techniques,ShapeStun Artwork,PhotoEnhance Skills,Vivid Imagery Tips,DesignImpact Strategies,PictureFlair Hacks"
-thumbnail: https://www.lifewire.com/thmb/sXDkXR4uqlH0fi0xOmWZKLuZ0XU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1214532639-57ab1d744d2c4ff086695eda92890eb4.jpg
+thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe831ffe5683f3df2b7e432663.jpg
 ---
 
 ## Making Your Photoshop Projects Pop with 3D Text Design
@@ -36,20 +36,32 @@ Step2 Select the **Type** tool and choose a color of your liking. Then, click an
 
 Step3 Now, locate the **Layers** panel at the bottom-right corner of the screen. Click on **Layers** **→ right-click on your Text layer → select "New 3D Extrusion from Selected Layer".** Then, just click **Yes** on the new window that pops up.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![three d layer](https://images.wondershare.com/filmora/article-images/layer-adobe-photoshop.png)
 
 Step4 You are now editing in the 3D Workspace inside Photoshop. Here is where we will create the 3D text effect. First, click on the **Layers** panel **→ right-click on "Background" →** select **"Postcard".**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![edit background](https://images.wondershare.com/filmora/article-images/postcard-adobe-photoshop.png)
 
 Step5 Now, without touching anything else, hold on to the **SHIFT** key and click on your text layer. This will select the text and background layer at the same time. Then, just hold on **CTRL + E / Cmnd + E**. This will merge the two layers.
 
 Step6 Next, go to the 3D panel. Here, simply click on your Text layer. Then, from the **Properties** panel above, select a **Shape Preset** to be applied to your current text.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![properties](https://images.wondershare.com/filmora/article-images/preset-adobe-photoshop.png)
 
 Step7 The next thing you need to do is add a light source. To do this, go back to the **3D Panel →** click on the **Lightbulb** button at the bottom **→** select **"New Infinite Light"**. Then, you can drag the circle in the middle of the text to set the direction of the light source.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![add light source photoshop](https://images.wondershare.com/filmora/article-images/light-adobe-photoshop.png)
 
 Step8 You can now go to the Properties panel to adjust the 3D effects and light source effects even further. When you are done, simply click this highlighted button to render your creation.
@@ -58,6 +70,9 @@ Step8 You can now go to the Properties panel to adjust the 3D effects and light 
 
 Step9 We're almost done. The next step is to go back to the **Layers** tab → right-click on the **Background** layer → click on **"Convert to Smart Object".**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![convert to smart object](https://images.wondershare.com/filmora/article-images/convert-adobe-photoshop.png)
 
 Step10 Finally, from the upper-right corner drop-down button, select **Essentials**.
@@ -92,6 +107,9 @@ Step2 Import a background video or image by going to **My Media** and selecting 
 
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![title option filmora](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
@@ -100,6 +118,9 @@ Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its set
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Creating 3D text with Photoshop is a good idea if you already know how to use the tool. If not, it's always smarter to use a simpler alternative that's much easier to use. As long as you get the same professional results, there's no reason not to use Filmora. In fact, there are many more benefits than drawbacks.
@@ -114,10 +135,16 @@ The steps are extremely simple. Just follow each exactly as you see it here and 
 
 Step1 First, you should download Filmora and install the program on your computer. Then, launch it and click on **New Project**.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
@@ -126,10 +153,16 @@ Step3 Next, head over to **Titles** and search for "3D". Select any option you l
 
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Creating 3D text with Photoshop is a good idea if you already know how to use the tool. If not, it's always smarter to use a simpler alternative that's much easier to use. As long as you get the same professional results, there's no reason not to use Filmora. In fact, there are many more benefits than drawbacks.
@@ -156,3 +189,41 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-monitor-metamorphosis-from-standard-to-stunning-with-asus-mg28uq/"><u>[New] 2024 Approved  Monitor Metamorphosis  From Standard to Stunning With ASUS MG28UQ</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-the-craft-powerdirector-2024-complete-guide-and-reviews/"><u>[New] Master the Craft  PowerDirector 2024 Complete Guide & Reviews</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-moviemakermag-all-about-androvid-editor/"><u>[New] MovieMakerMag  All About AndroVid Editor</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-precision-in-dissipating-soundtracks-a-guide-for-pros/"><u>[New] Precision in Dissipating Soundtracks  A Guide for Pros</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-reimagine-the-way-you-take-notes-with-mematic/"><u>[New] Reimagine the Way You Take Notes with Mematic</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-flawless-approach-securing-gotomeeting-recordings/"><u>[Updated] Flawless Approach  Securing GoToMeeting Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-go-digital-capturing-lifes-motion-with-ios-device/"><u>[Updated] In 2024, Go Digital  Capturing Life's Motion with iOS Device</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweeting-and-tumbling-sharing-videos-seamlessly/"><u>[Updated] In 2024, Tweeting & Tumbling  Sharing Videos Seamlessly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-integrating-linktree-a-step-by-step-approach-to-tiktok-bio-enhancement/"><u>[Updated] Integrating Linktree  A Step-by-Step Approach to TikTok Bio Enhancement</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-master-youtube-ad-creation-with-no-cost-guide-inside/"><u>[Updated] Master YouTube Ad Creation with No Cost – Guide Inside</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-world-of-srt-files-on-youtube-and-twitter/"><u>[Updated] Navigating the World of SRT Files on YouTube and Twitter</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-snappy-satire-iphone-memes/"><u>[Updated] Snappy Satire  IPhone Memes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-photography-lighting-tips/"><u>2024 Approved  IPhone Photography Lighting Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximum-definition-boost-expert-video-upscaler/"><u>2024 Approved  Maximum Definition Boost  Expert Video Upscaler</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-steps-to-establish-a-viable-youtube-sponsor-relationship/"><u>2024 Approved  Steps to Establish a Viable YouTube Sponsor Relationship</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-techniques-for-optimal-steam-gameplay-capture/"><u>2024 Approved  Top Techniques for Optimal Steam Gameplay Capture</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-14-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 14 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drivers-update-made-a-breeze-on-windows-11/"><u>Drivers Update Made a Breeze on Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-f54-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-poco-c55-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Poco C55</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optic-zenith-premier-choices-in-the-realm-of-8k/"><u>In 2024, Optic Zenith  Premier Choices in the Realm of 8K</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-parrot-ar-drone-elite-edition-expert-evaluation/"><u>In 2024, Parrot AR Drone Elite Edition – Expert Evaluation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premiere-pros-guide-to-avoiding-overlit-iphone-hdr-videos/"><u>In 2024, Premiere Pro's Guide to Avoiding Overlit iPhone HDR Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-return-crafting-kit/"><u>In 2024, Return Crafting Kit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-snicker-sphere-top-grade-no-charge-memes/"><u>In 2024, Snicker Sphere  Top-Grade, No-Charge Memes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-guide-to-mastering-3d-luts-for-professional-photos/"><u>In 2024, Step-by-Step Guide to Mastering 3D LUTs for Professional Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-tips-for-turning-gopro-into-professionals-best-work/"><u>In 2024, Step-by-Step Tips for Turning GoPro Into Professionals' Best Work</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/linking-giants-a-step-by-step-guide-to-merging-instagram-and-tiktok-for-2024/"><u>Linking Giants  A Step-by-Step Guide to Merging Instagram and TikTok for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-zooming-on-social-media-platform-snapchat-for-2024/"><u>Mastering the Art of Zooming on Social Media Platform, Snapchat for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-home-theater-choosing-the-right-3d-blu-ray-devices-for-2024/"><u>Optimal Home Theater  Choosing the Right 3D Blu-Ray Devices for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-fix-how-to-add-and-label-chapters-on-youtube-projects/"><u>Quick Fix  How to Add and Label Chapters on YouTube Projects</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-infinix-hot-30-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Infinix Hot 30 5G FRP</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/with-verve-following-in-the-footsteps-of-video-experts/"><u>Vlog with Verve  Following in the Footsteps of Video Experts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+</ul></div>

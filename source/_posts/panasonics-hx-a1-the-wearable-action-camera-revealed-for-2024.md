@@ -1,7 +1,7 @@
 ---
 title: "\"Panasonic’s HX-A1 - The Wearable Action Camera Revealed for 2024\""
-date: 2024-06-11T07:23:14.345Z
-updated: 2024-06-12T07:23:14.345Z
+date: 2024-07-31T08:45:20.622Z
+updated: 2024-08-01T08:45:20.622Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/4bb09ddf21259f8aa35372dd3bddaab5a52e4c2f7
 
 # Panasonic HX-A1 Wearable Action Camera Review
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -34,10 +37,16 @@ thumbnail: https://thmb.techidaily.com/4bb09ddf21259f8aa35372dd3bddaab5a52e4c2f7
 
 ## Design and Usability
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![panasonic-hx-a1-design](https://images.wondershare.com/filmora/article-images/panasonic-hx-a1-design.jpg)
 
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Specification
 
 | Review Price                | $101.95 (Amazon)                                                                             |
@@ -100,6 +109,9 @@ thumbnail: https://thmb.techidaily.com/4bb09ddf21259f8aa35372dd3bddaab5a52e4c2f7
 
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Features
 
 #### **1. Video and photo quality**
@@ -128,12 +140,25 @@ thumbnail: https://thmb.techidaily.com/4bb09ddf21259f8aa35372dd3bddaab5a52e4c2f7
 
  A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
  The minor drawbacks in A1 are completely understandable. With its decent picture quality and plenty of other features such as SFDW formula, it can be rightly said that Panasonic has created a fine budget camera which is worth investing. There is always a way to capture your fun and thrills and Panasonic HX-A1 gets along your making it a capable action camera!
 
  Looking for action cameras with low budget? [Check best action cameras under 100 now.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -150,3 +175,50 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-inside-instagrams-maximum-video-restriction-policy/"><u>[New] 2024 Approved  Inside Instagram's Maximum Video Restriction Policy</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-a-step-by-step-process-for-twitch-streamers/"><u>[New] A Step-by-Step Process for Twitch Streamers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-dive-into-creativity-mastering-artistic-elements-in-instagram-edits-for-2024/"><u>[New] Dive Into Creativity  Mastering Artistic Elements in Instagram Edits for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-expert-smartphone-photo-and-film-capture-iphoneandroid-comparison/"><u>[New] In 2024, Expert Smartphone Photo & Film Capture  IPhone/Android Comparison</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-live-broadcast-over-the-internet-via-vlc-media-player/"><u>[New] Mastering Live Broadcast Over the Internet via VLC Media Player</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-soundscapes-the-ultimate-guide-to-iphoneipad-podcast-downloads/"><u>[New] Mastering Soundscapes  The Ultimate Guide to iPhone/iPad Podcast Downloads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-windows-10-the-hidden-paths-for-importation/"><u>[New] Mastering Windows 10  The Hidden Paths for Importation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigate-the-nuances-of-zooms-broadcast-technology-for-youtube-pros/"><u>[New] Navigate the Nuances of Zoom's Broadcast Technology for YouTube Pros</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-numeric-precision-the-art-of-editing-tiktok-counts/"><u>[New] Numeric Precision  The Art of Editing TikTok Counts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-paving-the-way-for-win11-a-user-friendly-upgrade-adventure/"><u>[New] Paving the Way for Win11  A User-Friendly Upgrade Adventure</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-skyrocketing-engagement-on-igtv-with-smart-hash-tagging-for-2024/"><u>[New] Skyrocketing Engagement on IGTV with Smart Hash Tagging for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-uncovering-true-reflection-in-distorted-facebook-video/"><u>[New] Uncovering True Reflection in Distorted Facebook Video</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-podcast-platforms-for-windows-users/"><u>[Updated] Excellent Podcast Platforms for Windows Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-futures-echo-top-30-metaverse-sentiments-arvr/"><u>[Updated] In 2024, Future's Echo  Top 30 Metaverse Sentiments [AR/VR]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-video-concepts-for-beginner-vloggers/"><u>[Updated] Innovative Video Concepts for Beginner Vloggers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-interactive-horizinas-analyzing-the-triumvirate-of-tech-vr-ar-and-mr/"><u>[Updated] Interactive Horizinas  Analyzing the Triumvirate of Tech (VR, AR, & MR)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-rebound-creators-range/"><u>[Updated] Rebound Creators' Range</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-sound-digitization-audiovisual-preservation-for-2024/"><u>[Updated] Sound Digitization  Audiovisual Preservation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamlined-strategies-for-joining-your-youtube-videos/"><u>[Updated] Streamlined Strategies for Joining Your YouTube Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-quintessential-toptiktok-tweets-in-popularity/"><u>[Updated] The Quintessential #TopTikTok Tweets in Popularity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-decreasing-sounds-prominence-in-lumafusion/"><u>[Updated] The Ultimate Guide to Decreasing Sounds' Prominence in Lumafusion</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-motorola-edge-2023-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Motorola Edge 2023 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-peak-business-sky-storage-for-firms/"><u>2024 Approved  Peak Business Sky-Storage for Firms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photographic-journey-to-cinematic-expression-using-pixizs-tools/"><u>2024 Approved  Photographic Journey to Cinematic Expression Using Pixiz's Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-stepwise-strategies-for-high-quality-time-lapse-videos-in-gopro-studio/"><u>2024 Approved  Stepwise Strategies for High Quality Time Lapse Videos in GoPro Studio</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-meizu-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Meizu</u></a></li>
+<li><a href="https://article-helps.techidaily.com/cutting-edge-8-lens-modifications-for-webcams/"><u>Cutting-Edge 8 Lens Modifications for Webcams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/digital-workshop-archives-for-2024/"><u>Digital Workshop Archives for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Change Netflix Location to Get More Country Version On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-se-2020-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone SE (2020) Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-key-methods-from-video-links-to-downloaded-audios/"><u>In 2024, Key Methods  From Video Links to Downloaded Audios</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photographys-new-frontier-toolwiz-app-detailed-review-2023-edition/"><u>In 2024, Photography's New Frontier  Toolwiz App - Detailed Review, 2023 Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-20-anime-series-theme-music/"><u>In 2024, Premier 20 Anime Series Theme Music</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-ai-for-stunning-photo-creation/"><u>In 2024, Premier AI for Stunning Photo Creation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-mobile-tools-for-dji-footage-enhancement/"><u>In 2024, Premier Mobile Tools for DJi Footage Enhancement</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-screen-capture-apps-for-windows-free-1-5-listing/"><u>In 2024, Premier Screen Capture Apps for Windows Free  #1-5 Listing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-picks-7-superior-apple-video-viewers/"><u>In 2024, Prime Picks  7 Superior Apple Video Viewers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-honor-magic-5-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Honor Magic 5 Pro FRP Bypass</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/interactive-overlays-redefining-experience-for-2024/"><u>Interactive Overlays Redefining Experience for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-close-up-filmmaking-tips-for-a-standout-videography-career-for-2024/"><u>Mastering Close-Up Filmmaking  Tips for a Standout Videography Career for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mirthful-melodies-smart-picks-for-funny-phone-tones-for-2024/"><u>Mirthful Melodies  Smart Picks for Funny Phone Tones for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/peak-creative-synopsis-thorough-studio-review-for-the-year-2023-for-2024/"><u>Peak Creative Synopsis  Thorough Studio Review for the Year 2023 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-tips-for-effortless-photos-and-videos-in-windows-11-for-2024/"><u>Pro Tips for Effortless Photos & Videos in Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secrets-of-6-video-categories-for-viewer-retention-for-2024/"><u>Secrets of 6 Video Categories for Viewer Retention for 2024</u></a></li>
+</ul></div>

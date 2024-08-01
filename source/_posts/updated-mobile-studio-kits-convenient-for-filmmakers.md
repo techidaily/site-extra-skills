@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mobile Studio Kits  Convenient for Filmmakers\""
-date: 2024-06-11T07:25:55.088Z
-updated: 2024-06-12T07:25:55.088Z
+date: 2024-07-31T11:28:31.039Z
+updated: 2024-08-01T11:28:31.039Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://www.lifewire.com/thmb/oQcBDC3DYZv9ytCI_UtHDANbzKk=/540x405/fi
 
 # Smartphone Accessories for Making Videos
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -30,12 +33,23 @@ A smartphone with a great camera is all you need to record great videos, but you
 
 The best smartphone accessories are lightweight and require as little setup as possible. One of the best things about making videos on your phone is that it allows you to be spontaneous and record life as it happens. A great smartphone accessory will not make it any more complicated to record on the go.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## Smartphone Accessories for Making Videos
 
 Here are four of the best accessories for shooting videos on your smartphone:
 
 #### 1\. Clip-On Lenses
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![tips on lenses](https://images.wondershare.com/filmora/article-images/accessories-clip-on-lenses.JPG)
 
 When you use a DSLR you generally have a lot more control over your images than when you record using other kinds of cameras. Part of this is due to the variety of lenses that are available for DSLRs. Most cameras only have the one built-in lens, but DSLRs have detachable lenses you can change to create different effects. Using Clip-On Lenses you can adjust the built-in lens of your smartphone camera to create these same kinds of effects.
@@ -44,6 +58,9 @@ Clip-On Lenses are tiny, which makes them convenient for carrying around. Using 
 
 #### 2\. Pistol Grip
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![pistol grip](https://images.wondershare.com/filmora/article-images/accessories-pistol-grip.JPG)
 
 It will not matter how clear and sharp your videos are if they are shaky. To avoid the stereotypically shaky ‘cellphone vid’ look you will need to stabilize your phone while you record, and there are a lot of ways you can do that. Mounting your phone on a Pistol Grip is one of them.
@@ -52,6 +69,9 @@ Smartphones mounted on Pistol Grips will record more stable footage while you wa
 
 #### 3\. Selfie Stick
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![selfiestick](https://images.wondershare.com/filmora/article-images/accessories-selfiestick.jpg)
 
 Selfie Sticks are great for more than just taking selfies; using a selfie stick also helps you record more stable videos. Besides holding a selfie stick the way you normally do, with your hand on the grip, you can use your selfie stick a lot like you would a monopod. Simply place the handle on the floor, extend your selfie stick to the height you want to record at, and hold it still while you film. Your footage will be from one stable height.
@@ -66,6 +86,9 @@ One of the biggest obstacles when shooting smartphone videos is capturing adequa
 
 LAV Mics, also called lavalier or lapel mics, are a popular choice because they are so portable. A LAV Mic will clip right on to your shirt for maximum flexibility while recording on the go. You can get a wired LAV Mic specifically for smartphones for $50.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -82,3 +105,57 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-asus-unboxing-special-the-mg28uq-monitor-a-high-res-journey/"><u>[New] ASUS Unboxing Special  The MG28UQ Monitor - A High-Res Journey</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-massive-popularity-in-stock-imagery-tales-of-success/"><u>[New] Massive Popularity in Stock Imagery  Tales of Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-digital-art-the-ultimate-2024-picsart-review/"><u>[New] Mastering Digital Art  The Ultimate 2024 PicsArt Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximizing-b-roll-value-essential-techniques/"><u>[New] Maximizing B-Roll Value  Essential Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-non-google-options-for-augmented-reality-embellishing/"><u>[New] Non-Google Options for Augmented Reality Embellishing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pixel-playground-discovering-the-art-of-picture-distortion/"><u>[New] Pixel Playground  Discovering the Art of Picture Distortion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-professional-strategies-converting-xmlssattml-to-dynamic-srts/"><u>[New] Professional Strategies  Converting XML/SSA/TTML to Dynamic SRTs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-cross-media-broadcasting-4-strategies-to-air-fb-livests-on-tv/"><u>[Updated] 2024 Approved  Cross-Media Broadcasting  4 Strategies to Air FB Livests on TV</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-graphical-grandeur-radeons-return/"><u>[Updated] Graphical Grandeur  Radeon's Return</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-a-guide-to-recording-private-whatsapp-communications/"><u>[Updated] In 2024, A Guide to Recording Private WhatsApp Communications</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snappy-solutions-maintaining-a-vigorous-snapstreak/"><u>[Updated] In 2024, Snappy Solutions  Maintaining a Vigorous Snapstreak</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-aerial-footage-best-drone-editors-ranked-by-skill-level/"><u>[Updated] Leading Aerial Footage  Best Drone Editors Ranked by Skill Level</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-guide-convert-youtube-videos-seamlessly-to-mpeg/"><u>[Updated] Master Guide  Convert YouTube Videos Seamlessly to MPEG</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-attracting-and-managing-brands-as-affiliates-on-youtube/"><u>[Updated] Mastering the Art of Attracting and Managing Brands as Affiliates on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-video-structure-a-comprehensive-guide-to-chapter-addition-on-youtube/"><u>[Updated] Mastering Video Structure  A Comprehensive Guide to Chapter Addition on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-picture-perfect-with-soundtracked-clips/"><u>[Updated] Picture Perfect with Soundtracked Clips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-6-services-for-live-video-localization/"><u>[Updated] Premium 6 Services for Live Video Localization</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-portals-for-digital-type-art/"><u>[Updated] Prime Portals for Digital Type Art</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-tips-for-transforming-pinterest-videos-into-mp3s/"><u>[Updated] Quick Tips for Transforming Pinterest Videos Into MP3s</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smart-strategies-for-utilizing-b-roll-footage-effectively/"><u>[Updated] Smart Strategies for Utilizing B-Roll Footage Effectively</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-breathtaking-lyric-videos-made-easy-by-lyric-video-maker/"><u>2024 Approved  Breathtaking Lyric Videos Made Easy by Lyric Video Maker</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-choosing-androids-favorite-freepaid-video-tile-tools-8-ranked/"><u>2024 Approved  Choosing Android's Favorite Free/Paid Video Tile Tools #8 Ranked</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-complete-minecraft-filming-guidebook/"><u>2024 Approved  Complete Minecraft Filming Guidebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inspire-humorous-graphics-for-online-platform/"><u>2024 Approved  Inspire Humorous Graphics for Online Platform</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-intelligent-volume-modulation-strategies/"><u>2024 Approved  Intelligent Volume Modulation Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-journey-through-audio-production-initiating-with-auditions-fade-in/"><u>2024 Approved  Journey Through Audio Production  Initiating with Audition’s Fade In</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leveraging-ios-11-for-professional-level-iphone-shots/"><u>2024 Approved  Leveraging iOS 11 for Professional-Level iPhone Shots</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterpieces-of-modern-mythology-top-youtube-storytellers/"><u>2024 Approved  Masterpieces of Modern Mythology - Top YouTube Storytellers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-open-library-legal-gaming-tracks-downloadable/"><u>2024 Approved  Open Library  Legal Gaming Tracks Downloadable</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-ranking-the-ultimate-10-free-online-subtitle-makers-srt/"><u>2024 Approved  Ranking the Ultimate 10 Free Online Subtitle Makers (Srt)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-safest-and-cutest-toy-drones-for-children/"><u>2024 Approved  Safest and Cutest Toy Drones for Children</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-sky-high-streams-on-facebook-a-dji-drone-users-guide/"><u>2024 Approved  Sky-High Streams on Facebook  A DJI Drone User's Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-pros-handbook-to-youtube-income-multiplatform-use-for-2024/"><u>A Pro's Handbook to YouTube Income  Multiplatform Use for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-packed-shoots-creating-dynamic-video-stories-on-youtube/"><u>Action-Packed Shoots  Creating Dynamic Video Stories on YouTube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-asus-rog-phone-8-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Asus ROG Phone 8.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breaking-down-barriers-to-affordable-editing-power-for-2024/"><u>Breaking Down Barriers to Affordable Editing Power for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-a-compelling-video-story-with-b-roll-variety/"><u>Crafting a Compelling Video Story with B-Roll Variety</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-a18-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo A18 Device SIM</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-art-of-faster-periscope-streaming/"><u>In 2024, Master the Art of Faster Periscope Streaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-photo-border-elimination/"><u>In 2024, Mastering the Art of Photo Border Elimination</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-microsoft-hololens-demo-tomorrows-tech-today/"><u>In 2024, Microsoft HoloLens Demo – Tomorrow’s Tech Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revive-iphone-hdr-video-on-premiere-pro-with-5-tips/"><u>In 2024, Revive iPhone HDR Video on Premiere Pro with 5 Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-scan-the-market-identifying-the-top-9-free-mp3-grabbers-for-android/"><u>In 2024, Scan the Market  Identifying the Top 9 Free MP3 Grabbers for Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-shield-your-snapshots-from-times-tide-explore-cost-effective-solutions/"><u>In 2024, Shield Your Snapshots From Time's Tide - Explore Cost-Effective Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sonic-startups-where-to-find-music-that-kicks-off-your-podcast/"><u>In 2024, Sonic Startups  Where to Find Music that Kicks Off Your Podcast</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-speed-up-filmmaking-skills-at-home-with-top-5-hacks/"><u>In 2024, Speed Up Filmmaking Skills at Home with Top 5 Hacks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-start-promoting-smart-a-beginners-guide-to-using-telegram/"><u>In 2024, Start Promoting Smart  A Beginner's Guide to Using Telegram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lens-leaders-showcase-unveiling-the-best-6-4k-dslrs-for-2024/"><u>Lens Leaders Showcase  Unveiling the Best 6 4K DSLRs for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/live-stream-titans-duel-comparative-exploration-of-twitch-and-youtube-for-2024/"><u>Live-Stream Titans Duel  Comparative Exploration of Twitch & YouTube for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secure-your-travel-documents-grab-10-free-passport-photos-onlinedesktop-for-2024/"><u>Secure Your Travel Documents  Grab 10 FREE Passport Photos Online/Desktop for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/syncing-your-pre-recording-with-real-time-facebook-broadcasts-for-2024/"><u>Syncing Your Pre-Recording with Real-Time Facebook Broadcasts for 2024</u></a></li>
+</ul></div>

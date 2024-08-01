@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Introduction to AV1 Encoding Techniques\""
-date: 2024-05-31T07:38:06.928Z
-updated: 2024-06-01T07:38:06.928Z
+date: 2024-07-31T07:20:00.736Z
+updated: 2024-08-01T07:20:00.736Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Introduction to AV1 Encoding Techniques\""
 excerpt: "\"This Article Describes 2024 Approved: Introduction to AV1 Encoding Techniques\""
 keywords: "AV1 Encoders Basics,Intro AV1 Tech,AV1 Encoding Overview,Beginner AV1 Guide,Understanding AV1 Codec,Fundamentals of AV1,Dive Into AV1 Encoding"
-thumbnail: https://www.lifewire.com/thmb/9PNRQJVkQkCUyMNUoZ5zRsJCxJE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/image-twitchchat-59f83357519de20011721065.jpg
+thumbnail: https://thmb.techidaily.com/130efd155dd3113027502bebb58cb6e6e0e86e94cc569dcea85fd93839ec481a.jpg
 ---
 
 ## Introduction to AV1 Encoding Techniques
@@ -42,6 +42,9 @@ Initially, companies relied on proprietary technology to provide you with video 
 
 As such, the Alliance for Open Media was formed in 2015 to develop an open-source, royalty-free video codec to outperform all previous versions. Through this collaboration, the Aomedia Video 1 (AV1) codec came to be. Here are some questions to help you understand the technology much better.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What is a codec, and what is the AV01 codec?
 
 A codec is a type of compression technology that consists of two parts:
@@ -51,6 +54,9 @@ A codec is a type of compression technology that consists of two parts:
 
 In addition, you can use different types of codecs depending on the file format. For example, MPEG codecs were the preferred choice for video files. However, streaming companies now use codec AV1 for their content. This is because it offers faster compression times and smaller files than other previous video codecs.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Is it popular?
 
 Yes, it is. Since its introduction in May 2018, more companies have been integrating the codec in their offerings. Here is a list of companies that offer AV1 codec support:
@@ -63,14 +69,23 @@ Yes, it is. Since its introduction in May 2018, more companies have been integra
 * Additionally, video content providers such as Amazon, Netflix, and YouTube offer AV01 codec support through their devices and online platforms.
 * Following successful tests in 2018, Facebook now uses the AV1 codec for videos on the platform.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Where is AV1 codec used?
 
 The AV1 codec is offered on a license-free basis to any interested user. Furthermore, the AOMedia patent license is fully compliant with the W3C Patent Policy, meaning you will not face any legal ramifications if you use the technology. As such, you will find the technology available on non-AOMedia member devices. For example, Broadcom offers AV1 codec support on its BCM 72190 and 72180 chipsets for Android TVs.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part2: What are the best video editors to edit an AV1 format video?
 
 Now that you know what AV1 is, what are the best video editors to edit an AV1 format video? The following are the top 5 video editing software you can use for your HD AV1 videos. In addition, you will also find guides on how to get them on your devices.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Avidemux
 
 ![avidemux](https://images.wondershare.com/filmora/article-images/2022/09/av1-codec-1.jpg)
@@ -109,6 +124,10 @@ Lightworks is a free video editor for macOS, Windows, and Linux users. Unlike ot
 * In addition, you can export videos up to 720p resolution and use the social media presets for easy uploads. However, using the free version, you can only export to YouTube and Vimeo.
 * Furthermore, you get 1 active cloud connection to import clips to your timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Filmora Video Editor
 
 ![filmora video editor](https://images.wondershare.com/filmora/article-images/2022/09/av1-codec-3.jpg)
@@ -171,8 +190,15 @@ Some of the program's core features include:
 
 Unfortunately, the video editor operates an outdated user interface, which can be a turn-off for some creators. In addition, it offers limited support for file extensions, limiting its video editing capabilities.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ### Can you play AV1 codec videos on YouTube?
 
 No. YouTube applies extra compression to your videos regardless of the codec you use to edit your videos. As such, your videos may be unclear when uploading them to the platform. However, it applies the AV1 codec on videos with over 1 million likes as part of its codec testing.
@@ -199,6 +225,11 @@ A codec is a type of compression technology that consists of two parts:
 
 In addition, you can use different types of codecs depending on the file format. For example, MPEG codecs were the preferred choice for video files. However, streaming companies now use codec AV1 for their content. This is because it offers faster compression times and smaller files than other previous video codecs.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### Is it popular?
 
 Yes, it is. Since its introduction in May 2018, more companies have been integrating the codec in their offerings. Here is a list of companies that offer AV1 codec support:
@@ -211,10 +242,16 @@ Yes, it is. Since its introduction in May 2018, more companies have been integra
 * Additionally, video content providers such as Amazon, Netflix, and YouTube offer AV01 codec support through their devices and online platforms.
 * Following successful tests in 2018, Facebook now uses the AV1 codec for videos on the platform.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Where is AV1 codec used?
 
 The AV1 codec is offered on a license-free basis to any interested user. Furthermore, the AOMedia patent license is fully compliant with the W3C Patent Policy, meaning you will not face any legal ramifications if you use the technology. As such, you will find the technology available on non-AOMedia member devices. For example, Broadcom offers AV1 codec support on its BCM 72190 and 72180 chipsets for Android TVs.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part2: What are the best video editors to edit an AV1 format video?
 
 Now that you know what AV1 is, what are the best video editors to edit an AV1 format video? The following are the top 5 video editing software you can use for your HD AV1 videos. In addition, you will also find guides on how to get them on your devices.
@@ -240,6 +277,9 @@ In addition, it offers a user-friendly interface with clearly labeled function k
 
 ### 2\. Lightworks
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![lightworks](https://images.wondershare.com/filmora/article-images/2022/09/av1-codec-2.jpg)
 
 **Compatibility**: Windows, Linux, and macOS.
@@ -283,6 +323,9 @@ Some of the advanced video editing functions available in the program are:
 
 ### 4\. Movavi Video Editor
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![movavi video editor](https://images.wondershare.com/filmora/article-images/2022/09/av1-codec-4.jpg)
 
 **Compatibility**: Windows and macOS.
@@ -319,8 +362,14 @@ Some of the program's core features include:
 
 Unfortunately, the video editor operates an outdated user interface, which can be a turn-off for some creators. In addition, it offers limited support for file extensions, limiting its video editing capabilities.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Can you play AV1 codec videos on YouTube?
 
 No. YouTube applies extra compression to your videos regardless of the codec you use to edit your videos. As such, your videos may be unclear when uploading them to the platform. However, it applies the AV1 codec on videos with over 1 million likes as part of its codec testing.
@@ -347,3 +396,55 @@ No. YouTube applies extra compression to your videos regardless of the codec you
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-streamline-video-communication-learn-to-add-timely-captions-on-fb-videos/"><u>[New] In 2024, Streamline Video Communication  Learn to Add Timely Captions on FB Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-upconversion-from-standard-definition-to-dynamic-range-extraordinaire/"><u>[New] Seamless Upconversion From Standard Definition to Dynamic Range Extraordinaire</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sierras-seamless-document-and-desktop-storage-solutions/"><u>[New] Sierra’s Seamless Document & Desktop Storage Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-snapshot-success-the-photographers-tale/"><u>[New] Snapshot Success  The Photographer's Tale</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-5-low-cost-drones-maximum-performance-on-a-shoestring/"><u>[Updated] 2024 Approved  5 Low-Cost Drones  Maximum Performance on a Shoestring</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones-for-2024/"><u>[Updated] Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-unboxing-expert-tips-and-tricks/"><u>[Updated] Mastering Unboxing  Expert Tips and Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photographic-advantages-with-quantum-hdr-mastery/"><u>[Updated] Photographic Advantages with Quantum HDR Mastery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-picsart-remove-bg-comprehensive-tutorial/"><u>[Updated] Picsart Remove Bg  Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pro-3-unboxed-a-comprehensive-review-of-ions-marvel/"><u>[Updated] Pro 3 Unboxed  A Comprehensive Review of ION's Marvel</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-rhythmic-beak-boogie/"><u>[Updated] Rhythmic Beak Boogie</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-edits-navigating-photoshops-eraser-function/"><u>[Updated] Seamless Edits  Navigating Photoshop’s Eraser Function</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-electronic-conference-logging/"><u>2024 Approved  Electronic Conference Logging</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-laughter-labyrinas-ideas-that-resonate-with-crowds/"><u>2024 Approved  Laughter Labyrinas  Ideas That Resonate with Crowds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lgs-cinematic-revolution-the-31mu97-b-monitor-breakdown-review/"><u>2024 Approved  LG’s Cinematic Revolution  The 31MU97-B Monitor Breakdown Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-luminous-transformations-for-android-videos-step-by-step/"><u>2024 Approved  Luminous Transformations for Android Videos Step by Step</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-metaverse-compelling-vr-headsets-recommended/"><u>2024 Approved  Navigating Metaverse  Compelling VR Headsets Recommended</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-virtual-territories-metaverse-and-multiverse-guide/"><u>2024 Approved  Navigating Virtual Territories  Metaverse & Multiverse Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photography-in-action-applying-motion-blur-in-adobe/"><u>2024 Approved  Photography in Action  Applying Motion Blur in Adobe</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-innovation-how-technology-shapes-industry-standards/"><u>2024 Approved  SRT Innovation  How Technology Shapes Industry Standards</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-stealthy-strategies-for-anonymous-instagram-broadcasts/"><u>2024 Approved  Stealthy Strategies for Anonymous Instagram Broadcasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/audible-annotations-choosing-the-top-speech-to-text-apps-for-2024/"><u>Audible Annotations  Choosing the Top Speech-to-Text Apps for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/auditing-video-content-monetization-success/"><u>Auditing Video Content Monetization Success</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-cracks-down-new-penalties-against-misinforming-users/"><u>Facebook Cracks Down: New Penalties Against Misinforming Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphones-ultimate-strategy-for-seamless-podcast-downloading/"><u>In 2024, IPhone's Ultimate Strategy for Seamless Podcast Downloading</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-laughing-lineup-step-by-step-guide-to-funny-memes/"><u>In 2024, Laughing Lineup  Step-by-Step Guide to Funny Memes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-motivational-melodies-select-the-best-tracks-for-an-effective-workout/"><u>In 2024, Motivational Melodies  Select the Best Tracks for an Effective Workout</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-boundaries-in-video-photography-nikon-1j5/"><u>In 2024, Pushing Boundaries in Video Photography - Nikon 1J5</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-imagery-boundaries-mastering-ps-distortion-methods/"><u>In 2024, Pushing Imagery Boundaries  Mastering PS Distortion Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-content-with-360-degree-footage/"><u>In 2024, Revolutionizing Content with 360-Degree Footage</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-v29e-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo V29e Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-honor-magic5-ultimate-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Honor Magic5 Ultimate FRP</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/instant-thumbnail-transformation-personalized-youtube-shorts-in-a-flash/"><u>Instant Thumbnail Transformation  Personalized YouTube Shorts in a Flash</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphones-visual-upgrades-in-ios-11-explored-for-2024/"><u>IPhone's Visual Upgrades in iOS 11 Explored for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/is-sns-hdr-pro-worth-it-top-alternatives-reviewed-for-2024/"><u>Is SNS HDR Pro Worth It? Top Alternatives Reviewed for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/leveraging-secondary-footage-for-enhanced-storytelling-for-2024/"><u>Leveraging Secondary Footage for Enhanced Storytelling for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/luxury-on-wheels-a-compre-written-in-the-stars-for-2024/"><u>Luxury on Wheels - A Compre Written in the Stars for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-multi-tasking-on-edge-with-picture-in-picture-for-2024/"><u>Master Multi-Tasking on Edge with Picture-in-Picture for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-online-image-cropping-techniques-for-2024/"><u>Mastering Online Image Cropping Techniques for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximize-your-spotify-campaign-roi-an-expert-guide-for-2024/"><u>Maximize Your Spotify Campaign ROI - An Expert Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-webcam-solutions-for-audio-professionals-for-2024/"><u>Optimal Webcam Solutions for Audio Professionals for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photographic-albums-with-background-music-for-2024/"><u>Photographic Albums with Background Music for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/precision-techniques-in-spinning-and-fusing-android-videography-for-2024/"><u>Precision Techniques in Spinning & Fusing Android Videography for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-pro-fullscreen-techniques-compendium-for-2024/"><u>Premier Pro Fullscreen Techniques Compendium for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/satirists-web-workshop-for-2024/"><u>Satirist's Web Workshop for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/silverleaf-studio-exploring-lightroom-substitutes-for-2024/"><u>Silverleaf Studio  Exploring Lightroom Substitutes for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/solidify-your-bio-link-an-easy-tiktok-methodology-for-2024/"><u>Solidify Your Bio Link  An Easy TikTok Methodology for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unraveling-the-art-of-screencasts-a-step-by-step-approach/"><u>Unraveling the Art of Screencasts  A Step-by-Step Approach</u></a></li>
+</ul></div>

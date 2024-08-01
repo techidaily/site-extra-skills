@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Light on Shadows  Techniques for Depth in Illustrator\""
-date: 2024-05-31T07:40:03.992Z
-updated: 2024-06-01T07:40:03.992Z
+date: 2024-07-31T09:25:41.714Z
+updated: 2024-08-01T09:25:41.714Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Light on Shadows: Techniques for Depth in Illustrator\""
 excerpt: "\"This Article Describes [New] Light on Shadows: Techniques for Depth in Illustrator\""
 keywords: "Artistic Illustration Depth,Advanced Illustration Technique,Lighting Effects in Drawings,Shadow Play in Artwork,Contrasting Visuals Illustrator,Illustration Depth Mastery,Dynamic Light & Shade Methods"
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## Light on Shadows: Techniques for Depth in Illustrator
@@ -30,6 +30,9 @@ After you get the program, install it and follow the step-by-step instructions y
 
 Also, there are plenty of different ways to create 3D text effects in Adobe Illustrator. This tutorial will focus on explaining the easiest and quickest one. Just know that this doesn't mean the result will be wrong. Most methods yield the same results.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Create 3D Text Effects in Adobe Illustrator
 
 Now that you know what you're getting into, let's finally reveal the entire process. Just follow the steps and do as you see here.
@@ -50,6 +53,9 @@ Step4 Next, choose any color you want for your text from the panel on the screen
 
 Step5 Align the text to make it easier to edit and move around the canvas later. Just click on it and then click on the three buttons in the image below. This section is located at the bottom-right corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![align text in illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-align.png)
 
 Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be activated. To do this, click on **Window** → **3D and Materials.** Then, look at the right side of the screen, and you will see the panel pop up.
@@ -58,14 +64,23 @@ Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be
 
 Step7 Click on the box icon on the right side of the screen and select **“Extrude”** This will instantly transform your text into a 3D model.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn text into three d](https://images.wondershare.com/filmora/article-images/adobe-illustrator-panel.png)
 
 Step8 Now, all left to do is experiment with the settings in this panel and adjust how you want your 3D text to look. You can adjust its width, rotation, presets, angle, perspective, and so on. Just play around with the settings until you find your ideal result.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![three d illustrator settings](https://images.wondershare.com/filmora/article-images/adobe-illustrator-settings.png)
 
 Step9 Finally, it's time to export the image, and you're all done.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Alternative Way to Create 3D Text Animation
 
 You might not believe it, but there's an even more accessible and less expensive way to create 3D text effects. You can use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Compared to Illustrator, Filmora is much better for beginners and more affordable.
@@ -76,6 +91,9 @@ You might not believe it, but there's an even more accessible and less expensive
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Create a 3D Text Effect In Filmora?
 
 The steps are simple. Just follow them precisely as you see here, and you won't have any problems.
@@ -84,6 +102,9 @@ Step1 Download Filmora and run the program. Once it opens, click on **New Projec
 
 Step2 Head to the **Titles** tab and search for the **“3D Illustration**” title. Then, drag it into the Timeline. You can also find several other 3D titles. If you like another one better, drag that one instead of the one we mentioned here.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
@@ -94,6 +115,9 @@ Step4 Finally, import a video in Filmora and drag it under the text into the Tim
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Both programs will get the job done if you use Adobe Illustrator or Filmora for your 3D text effect. The main difference is that it will be easier with Filmora. The choice is yours. Have fun!
@@ -120,6 +144,9 @@ Step4 Finally, import a video in Filmora and drag it under the text into the Tim
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Both programs will get the job done if you use Adobe Illustrator or Filmora for your 3D text effect. The main difference is that it will be easier with Filmora. The choice is yours. Have fun!
@@ -146,3 +173,72 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-leading-ways-streaming-and-recording-real-time-sport-events/"><u>[New] 2024 Approved  Leading Ways  Streaming and Recording Real-Time Sport Events</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-nextupcameras-venturing-past-mycam/"><u>[New] 2024 Approved  NextUpCameras  Venturing Past MyCam</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-old-memories-new-snaps-utilizing-snapchats-camera-roll/"><u>[New] 2024 Approved  Old Memories, New Snaps  Utilizing Snapchat’s Camera Roll</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-premier-collection-top-10-audio-capturers-on-spotify/"><u>[New] 2024 Approved  Premier Collection  Top 10 Audio Capturers on Spotify</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-anime-inspired-makeup-and-costume-ideas-for-tiktoks-for-2024/"><u>[New] Anime-Inspired Makeup & Costume Ideas for TikToks for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-ultimate-blueprint-for-telegram-marketplace-success/"><u>[New] In 2024, The Ultimate Blueprint for Telegram Marketplace Success</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-zooming-into-clarity-a-blueprint-for-crisp-screenshots/"><u>[New] In 2024, Zooming Into Clarity  A Blueprint for Crisp Screenshots</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-introducing-low-tier-sound-diminution-tricks-with-audacity/"><u>[New] Introducing Low-Tier Sound Diminution Tricks with Audacity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-jumpstart-to-joyous-animation-a-guide-in-movie-maker-world/"><u>[New] Jumpstart to Joyous Animation  A Guide in Movie Maker World</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-games-with-kinemaster-app-android-analysis/"><u>[New] Mastering Games with KineMaster App - Android Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-penning-powerful-stories-with-a-camera-lens/"><u>[New] Penning Powerful Stories with a Camera Lens</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-tiktok-broadcasts-with-zoom-protocols/"><u>[New] Seamless TikTok Broadcasts with Zoom Protocols</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-spectacular-20-anime-openers-hits/"><u>[New] Spectacular 20 Anime Openers' Hits</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-insiders-guide-to-flawless-game-recordings-on-playstation-4/"><u>[New] The Insider’s Guide to Flawless Game Recordings on PlayStation 4</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-ultimate-breakdown-of-12-youtubes-best-in-class-gaming-openings/"><u>[Updated] 2024 Approved  The Ultimate Breakdown of 12 YouTube's Best-in-Class Gaming Openings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inside-triller-an-oasis-in-the-sea-of-standard-video-platforms/"><u>[Updated] Inside Triller  An Oasis in the Sea of Standard Video Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-psd-pattern-overlays/"><u>[Updated] Master PSD Pattern Overlays</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-green-screen-filming-essential-techniques/"><u>[Updated] Mastering Green Screen Filming  Essential Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-motion-clearer-captures/"><u>[Updated] Mastering Motion  Clearer Captures</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-podcast-descriptions-insights-with-examples/"><u>[Updated] Mastering Podcast Descriptions  Insights with Examples</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-landscape-intricacies-of-using-the-background-eraser-feature/"><u>[Updated] Navigating the Landscape  Intricacies of Using the Background Eraser Feature</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-new-horizons-in-video-codecs-comparing-av1-and-vp9/"><u>[Updated] New Horizons in Video Codecs  Comparing Av1 and VP9</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-nows-vr-innovation-snapshot/"><u>[Updated] Now's VR Innovation Snapshot</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfect-color-accuracy-in-canon-imagery-with-free-and-paid-lut-combinations/"><u>[Updated] Perfect Color Accuracy in Canon Imagery with Free & Paid LUT Combinations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-plugins-for-dynamic-type-design-in-ae/"><u>[Updated] Premier Plugins for Dynamic Type Design in AE</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-setting-the-stage-for-seamless-video-playback-in-facebook-network/"><u>[Updated] Setting the Stage for Seamless Video Playback in Facebook Network</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-silent-sounds-elegant-dimming-in-garageband-projects/"><u>[Updated] Silent Sounds  Elegant Dimming in Garageband Projects</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-simplified-protocol-effortless-video-conversion-and-dvd-making/"><u>[Updated] Simplified Protocol  Effortless Video Conversion and DVD Making</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-mastery-comprehensive-analysis-and-tutorial-for-powerdirector-2024/"><u>[Updated] Step-by-Step Mastery  Comprehensive Analysis and Tutorial for PowerDirector 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capturing-the-joy-of-lol-gameplay-three-effective-methods/"><u>2024 Approved  Capturing the Joy of LOL Gameplay - Three Effective Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simplifying-complexity-easy-gopro-4k-video-edits/"><u>2024 Approved  Simplifying Complexity  Easy GoPro 4K Video Edits</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bring-life-to-stills-motion-blur-technique-for-2024/"><u>Bring Life to Stills  Motion Blur Technique for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhancing-display-via-windows-11-hdmi-driver-refresh/"><u>Enhancing Display via Windows 11: HDMI Driver Refresh</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/exploring-6-exquisite-eastern-themed-homes-in-mc/"><u>Exploring 6 Exquisite Eastern Themed Homes in MC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/illustrating-brilliance-the-most-trusted-vector-tools-reviewed/"><u>Illustrating Brilliance  The Most Trusted Vector Tools Reviewed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-itel-p40plus-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Itel P40+ is off? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-integrate-with-ease-an-in-depth-look-at-instagrams-music-icons/"><u>In 2024, Integrate with Ease  An In-Depth Look at Instagram's Music Icons</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-investigating-storage-amounts-vids-on-64128gb-hardware/"><u>In 2024, Investigating Storage Amounts  Vids on 64/128GB Hardware</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-market-mastery-blueprint-strategic-openings/"><u>In 2024, Market Mastery Blueprint  Strategic Openings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-merge-visual-media-with-music-tracks-in-premiere-pro/"><u>In 2024, Merge Visual Media With Music Tracks in Premiere Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinnacle-zooctorial-template-repositories/"><u>In 2024, Pinnacle Zooctorial Template Repositories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-ios-video-player-apps-for-optimal-entertainment/"><u>In 2024, Premier iOS Video Player Apps for Optimal Entertainment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-proliferate-profits-with-these-top-5-video-aids/"><u>In 2024, Proliferate Profits with These Top 5 Video Aids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-launch-lines-a-practical-roadmap-for-product-review-channel-founders/"><u>In 2024, Quick Launch Lines  A Practical Roadmap for Product Review Channel Founders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/lightning-fast-the-art-of-windows-file-scanning-for-2024/"><u>Lightning-Fast  The Art of Windows File Scanning for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-audio-visual-synchronization-for-streams-for-2024/"><u>Mastering Audio-Visual Synchronization for Streams for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-panoramic-photography-with-a-fisheye-effect-for-2024/"><u>Mastering Panoramic Photography with a Fisheye Effect for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-photo-hdr-techniques-in-adobe-ps-for-2024/"><u>Mastering Photo HDR Techniques in Adobe PS for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/moviemakermag-comprehensive-editor-review-for-2024/"><u>MovieMakerMag  Comprehensive Editor Review for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimized-titling-techniques-for-youtube-success/"><u>Optimized Titling Techniques for YouTube Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-pics-and-vids-the-art-of-snapchat-zooming-for-2024/"><u>Perfecting Pics & Vids  The Art of Snapchat Zooming for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/plug-in-proweries-expert-analysis-for-2024/"><u>PLUG-IN PROWERIES  Expert Analysis for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-windows-podcast-experiences-unveiled-for-2024/"><u>Premium Windows Podcast Experiences Unveiled for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/shopping-smart-with-drones-what-you-need-to-think-about-first-for-2024/"><u>Shopping Smart with Drones  What You Need to Think About First for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smartphone-security-systems-apples-x-vs-samsungs-facial-tech-for-2024/"><u>Smartphone Security Systems  Apple’s X Vs. Samsung's Facial Tech for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/srt-fundamentals-explored-in-detail-and-clarity-for-2024/"><u>SRT Fundamentals Explored in Detail and Clarity for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/start-with-smart-edits-10-tips-for-new-photoshop-users-for-2024/"><u>Start with Smart Edits  10 Tips for New Photoshop Users for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/starting-with-nfts-your-no-stress-guide-for-2024/"><u>Starting with NFTs  Your No-Stress Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-aps-guide-to-crafting-exquisite-hdr-photos-for-2024/"><u>Step-by-Step APS Guide to Crafting Exquisite HDR Photos for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/egies-for-using-youtube-to-boost-classroom-engagement/"><u>Strategies for Using YouTube to Boost Classroom Engagement</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-complete-cheat-sheet-mend-glitchy-audio-on-airpods-using-10-steps/"><u>The Complete Cheat Sheet: Mend Glitchy Audio on AirPods Using 10 Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-intersection-of-design-and-efficiency-in-professional-environments-for-2024/"><u>The Intersection of Design & Efficiency in Professional Environments for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-depth-7-tips-to-restore-the-dimensional-feel-on-ios-16-screens/"><u>Unlocking Depth: 7 Tips to Restore the Dimensional Feel on iOS 16 Screens</u></a></li>
+</ul></div>

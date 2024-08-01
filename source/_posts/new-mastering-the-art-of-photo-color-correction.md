@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering the Art of Photo Color Correction"
-date: 2024-05-31T07:41:58.774Z
-updated: 2024-06-01T07:41:58.774Z
+date: 2024-07-31T11:25:55.558Z
+updated: 2024-08-01T11:25:55.558Z
 tags: 
   - screen-recording
   - ai video
@@ -22,22 +22,34 @@ Many professional photographers and editors change the photo colors to use the s
 
 So instead of hiring various models, you can still display your collection by changing the color of outfits tactfully. In this article, we will discuss the tips to change photo color effortlessly through a photo color editor and online tool.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Tips To Change Photo Color Like A Pro
 
 In this section, we will give you some beneficial tips and guidelines to change the photo color through [Adobe Photoshop](https://www.adobe.com/products/photoshop.html). Moreover, we will also mention a photo color editor online to change the colors instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### 1\. Tip 1: Add Any Color to Your Shirt
 
 Do you want to change the color of any particular shirt in the photo? Then use Adobe Photoshop and open its main interface. Go to its "Quick Selection" tool and select around the shirt to change its color. Now go to the bottom right and click on "New Adjustment Layer," and tap on "Hue and Saturation.”
 
 On the tab of hue and saturation, you can use hue, saturation, and brightness to change the color of your selected shirt. Just use their draggers to change the color, brightness, and saturation according to your preferences. After making all the changes, you would need to find and tune the selection to get rid of minor flaws.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change the hue to change color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-1.jpg)
 
 Another way to change the color of the shirt is by navigating to the “Solid Color Adjustment Layer.” After that, you just need to apply the "Hue and Saturation Layer" to the previous layer to make the color changes quickly. Now blend the colors by either using hue or color mode to adjust the layers.
 
 ![select hue or color mode](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Tips 2: Use Black and White Colors
 
 Another option in Adobe Photoshop photo color editor to add black or white color to the shirt is by using the "Hue and Saturation Adjustment Layer.” For this, you need to create a group and then apply a layer mask to it by reducing its saturation. After that, you can apply a hue and saturation adjustment layer to it to have a white or black effect on the shirt.
@@ -48,10 +60,16 @@ Now do the tuning by navigating to the layer mask and also select the layers. Af
 
 ![use sliders to black or white](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### 3\. Tip 3: Add Color to White Object
 
 If you want to add color to your black or white shirt, you can do it by “Hue and Saturation Adjustment Layer.” On this layer, tap on “Colorize” and choose the color you want to add. Another technique is to create a “Fill Adjustment Layer” and then change the blending mode into “Multiple.” Now, click on the “Color Picker,” and you can pick and choose your preferred color. If you want to add a dark color rather than a subtle color, change the mode to “Screen.”
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ pick the color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-4.jpg)
 
 ### 4\. Tip 4: Use Direct Selection Color Picker
@@ -62,10 +80,16 @@ At the bottom of the options, you can see two points that will tell you about yo
 
 ![ change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### 5\. Tip 5: Choose Object Color Range
 
 Do you want to change the color of a specific part of the image? You can do this on Adobe Photoshop photo color editor by going to the "Quick Selection Tool" and then applying the colors, but it may leave edges and curves of the object. So, the recommended way is to navigate to the “Select” tab and then click on “Color Range” from its drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![access color range option](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-6.jpg)
 
 After clicking on the color range option, a pop-up window will appear from which tap on “Selection.” You can view your image on the preview window and can select the whole back using the “Selection” tool.
@@ -92,6 +116,9 @@ It helps the user create transparency across the layer. After hiding the layer a
 
 ![select your new color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### 7\. Tip 7: Use Online Photo Editor to Change Colors
 
 If you don’t have an offline tool like Adobe Photoshop, you can use an online photo color editor to replace the colors quickly. In this part, we will suggest [BeFunky](https://www.befunky.com/) photo color editor change the photo colors efficiently.
@@ -102,6 +129,9 @@ To change the color, navigate to this tool and upload the images. Then, head to 
 
 To increase or decrease the intensity of your color, use the “Tolerance” option, and drag it accordingly. If you want to change the hue of the source color, click on the box next to “Target Color.” If you have accidentally applied any color on some part, you can head to erase tab and can remove the alterations from the brush.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose target color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-13.jpg)
 
 ## Conclusion
@@ -132,3 +162,44 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-engagement-with-tailored-templates-for-video-info/"><u>[New] In 2024, Boost Engagement with Tailored Templates for Video Info</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-interpreting-distinctions-360-content-and-virtual-reality/"><u>[New] Interpreting Distinctions  360° Content & Virtual Reality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimizing-your-project-b-roll-utilization-tips/"><u>[New] Optimizing Your Project  B-Roll Utilization Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-securing-your-shots-top-15-mounting-options-for-gopro/"><u>[New] Securing Your Shots  Top 15 Mounting Options for GoPro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-smarter-spending-on-cloud-data-services-insights-and-recommendations/"><u>[New] Smarter Spending on Cloud Data Services  Insights & Recommendations</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-step-into-pro-audio-recording-on-your-mac-using-audacity/"><u>[New] Step Into Pro Audio Recording on Your Mac Using Audacity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-achieving-selective-image-softness/"><u>[Updated] Expert Tips  Achieving Selective Image Softness</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-create-professional-movies-on-youtube-quickly/"><u>[Updated] In 2024, Create Professional Movies on YouTube Quickly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-tune-tracker-latest-audio-tech/"><u>[Updated] In 2024, Tune Tracker  Latest Audio Tech</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inside-the-evolved-sony-bdp-s6700-world/"><u>[Updated] Inside the Evolved Sony BDP-S6700 World</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-meaningful-conversations-an-interviewers-journey/"><u>[Updated] Leading Meaningful Conversations  An Interviewer's Journey</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-megadron-mastery-industrys-top-heavy-loaders/"><u>[Updated] Megadron Mastery  Industry's Top Heavy Loaders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-orchestrating-originality-top-8-schools-for-story-innovation/"><u>[Updated] Orchestrating Originality  Top 8 Schools for Story Innovation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sharp-images-no-fog-protecting-gopro-quality/"><u>[Updated] Sharp Images, No Fog  Protecting GoPro Quality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-snap-your-world-how-to-watch-360-videos-on-android/"><u>[Updated] Snap Your World  How to Watch 360 Videos on Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-snapchat-soundtrack-sourcebook-choosing-from-the-best-websites/"><u>[Updated] Snapchat Soundtrack Sourcebook  Choosing From the Best Websites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spectacular-20-anime-openers-hits/"><u>[Updated] Spectacular 20 Anime Openers' Hits</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-effortless-internet-ranking-the-best-7-android-adblockers-now/"><u>2024 Approved  Effortless Internet  Ranking the Best 7 Android AdBlockers Now</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instagram-collage-hacks-unveiled/"><u>2024 Approved  Instagram Collage Hacks Unveiled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instantaneously-combine-photos-into-facebook-stories/"><u>2024 Approved  Instantaneously Combine Photos Into Facebook Stories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-learn-photo-edits-like-a-pro-lunapic-for-starters/"><u>2024 Approved  Learn Photo Edits Like a Pro  LunaPic for Starters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterful-online-advertising-for-beginners-4-must-know-strategies/"><u>2024 Approved  Masterful Online Advertising for Beginners  4 Must-Know Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-reverse-call-quality-declines-on-zoom-platforms/"><u>2024 Approved  Reverse Call Quality Declines on Zoom Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simplifying-massive-media-swap-iphone-to-mac-file-relocation/"><u>2024 Approved  Simplifying Massive Media Swap  IPhone-to-Mac File Relocation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-snapcutmaster-insights-full-video-editor-evaluation/"><u>2024 Approved  SnapCutMaster Insights – Full Video Editor Evaluation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/current-state-of-vr-hardware-for-2024/"><u>Current State of VR Hardware for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-realme-c67-4g-by-drfone-android/"><u>How to Bypass FRP from Realme C67 4G?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-softening-audio-routine/"><u>In 2024, Step-by-Step Softening Audio Routine</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/listening-out-loud-deciphering-the-differences-between-podcasts-and-youtube-for-2024/"><u>Listening Out Loud  Deciphering the Differences Between Podcasts & YouTube for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-audio-on-windows-best-8-podcast-applications-unveiled-for-2024/"><u>Mastering Audio on Windows  Best 8 Podcast Applications Unveiled for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximize-your-iphones-capture-potential-for-2024/"><u>Maximize Your iPhone's Capture Potential for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimize-iphone-usage-how-to-manipulate-picture-in-picture-on-youtube-for-2024/"><u>Optimize iPhone Usage  How to Manipulate Picture-in-Picture on YouTube for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pinnacle-devices-best-cars-surveillance-tech-for-2024/"><u>Pinnacle Devices  Best Cars Surveillance Tech for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-checklist-for-successful-onestream-live-streaming/"><u>The Ultimate Checklist for Successful OneStream Live Streaming</u></a></li>
+</ul></div>

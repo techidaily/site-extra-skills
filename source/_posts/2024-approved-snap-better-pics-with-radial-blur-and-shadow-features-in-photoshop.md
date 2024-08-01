@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Snap Better Pics with Radial Blur and Shadow Features in Photoshop\""
-date: 2024-05-31T07:38:44.590Z
-updated: 2024-06-01T07:38:44.590Z
+date: 2024-07-31T07:59:56.773Z
+updated: 2024-08-01T07:59:56.773Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Snap Better Pics with Radial Blur and Shadow Features in Photoshop\""
 excerpt: "\"This Article Describes 2024 Approved: Snap Better Pics with Radial Blur and Shadow Features in Photoshop\""
 keywords: "Radial Blur PSX,Snap Photo PSX,Shadow Enhance PSX,Photoshop Radial Blur,Shadow Feature PSX,Better Photos PSX,Radial Effects PSX"
-thumbnail: https://www.lifewire.com/thmb/FuDKvpD8bIq0WaxlcLQoWUX_DG4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/100_0261-5806a1b05f9b5805c286a636.JPG
+thumbnail: https://thmb.techidaily.com/6244e9865f3cd047c2f60d5d60d859b9d635a96ea7300f114708b93a9cc09aeb.JPG
 ---
 
 ## Snap Better Pics with Radial Blur and Shadow Features in Photoshop
@@ -22,6 +22,9 @@ Have you ever seen radial blur pictures? To add a sense of speed to still images
 
 If you are unaware of the radial blur effect, this article can act as a guide. Through this article, you can learn how to add **radial blur in Photoshop** with the help of simple instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: What is a Radial Blur Effect?
 
 The radial blur effect is somehow similar to motion blur. This effect can be created at a slow shutter speed in the camera, or you can move or rotate your cameras in certain ways to create this effect. Many photographers also create a motion blur effect by zooming in at a slow shutter speed. By adding this effect, you will create a tunnel vision in your photos.
@@ -36,6 +39,9 @@ To craft a **radial blur image**, many individuals prefer using [Adobe Photoshop
 
 Photoshop also allows you to use its pre-built filters for further modifications. With a single tap, you can apply filters to the photos without making them look artificial or low-quality. Moreover, you can also perform basic photo editing by utilizing the options such as cropping and resizing. Apart from all these distinct features, Photoshop also enables you to add a radial blur effect to the pictures.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to Create Radial Blur Effect in Photoshop
 
 Are you eager to learn how to create **radial motion blur in Photoshop**? Keep reading this part of the article to find accurate instructions to craft radial blur effects in Photoshop:
@@ -46,10 +52,16 @@ Step1 Open your Photoshop tool and upload the image that you want to edit. Click
 
 Step2 To refine the selection, use the Alt key from your keyboard. Once done with the refinement, press "Ctrl + J" to copy the new background layer. To create the background layer on Mac, hit the "Command + J" combination.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add the background layer](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-3.jpg)
 
 Step3 Afterward, click on the background layer and head to the "Filter" tab. From there, select "Blur" and tap "Radial Blur" from the drop-down menu. Adjust on the Radial Blur window by choosing "Zoom" as Blur Method. Also, select "Best" under the Quality section. Once done, adjust your Blur Center from the window.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![proceed with the radial blur](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-4.jpg)
 
 Step4 After making all the adjustments in the Radial Blur window, press the "OK" button. Once done, select the top layer and add a "Curve Adjustment Layer." Now adjust the curve properties according to your preference. Thus, you can see the radial blur effect on your photo on your screen.
@@ -68,6 +80,9 @@ For photo and video editing, Filmora provides several features such as Split Scr
 
 When it comes to effects, Filmora provides tons of vibrant effects such as Boris FX, Chroma Key, Mask and Blend, NewBlue FX, etc. Besides being a great photo and video editor, you can use this platform to edit and alter audio clips.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Steps to Create Radial Blur Effect Using Filmora
 
 Creating a radial blur effect in Filmora is extremely simple and easy. Its intuitive interface allows you to add a radial blur effect instantly with a few clicks. For your convenience, we have mentioned precise and authentic instructions below to create a radial blur effect in Filmora:
@@ -88,6 +103,9 @@ Drag and drop the photo in the timeline to proceed. Now go to the Effects tab an
 
 Choose your preferred effect and drop it into the timeline. Now increase the duration of your effect according to the clip. Once done, double-click on the effect to open its properties. Here, you can adjust the size, intensity, and other elements of the blur effect.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adjust the added blur settings](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-8.jpg)
 
 ##### Step 4 Edit the Clip
@@ -96,6 +114,9 @@ You can also edit the clip by adding titles or more effects. Once done with the 
 
 ![export the photo with radial blur](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Many photographers and professionals apply different techniques or effects to enhance their photos. One of the trending effects that can add an artistic element to the fast-moving objects in your photos is the radial blur effect. This effect can bring attention and focus to your photos.
@@ -116,12 +137,18 @@ Creating a radial blur effect in Filmora is extremely simple and easy. Its intui
 
 Begin by launching Wondershare Filmora on your PC. Afterward, tap on the "Create New Project" button to open a new window. Hit the "Arrow" button and import the photo into the project media.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![import the photo in filmora](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-6.jpg)
 
 ##### Step 2 Add the Required Effect
 
 Drag and drop the photo in the timeline to proceed. Now go to the Effects tab and tap on the "Video Effects" option. From there, tap on "Utility" to explore multiple effects. Here, there are three blur effects that you can utilize: Mosaic, Tilt-shift Circle, and Tilt-shift Linear.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access the video effects](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-7.jpg)
 
 ##### Step 3 Adjust the Blur Settings
@@ -134,6 +161,9 @@ Choose your preferred effect and drop it into the timeline. Now increase the dur
 
 You can also edit the clip by adding titles or more effects. Once done with the edits, hit the "Export" button given on top.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![export the photo with radial blur](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-9.jpg)
 
 ## Conclusion
@@ -164,3 +194,59 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-maximizing-memories-techniques-for-gameplay-recording/"><u>[New] 2024 Approved  Maximizing Memories  Techniques for Gameplay Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-luminouslabs-top-10-free-and-paid-filters-compare/"><u>[New] LuminousLabs  Top 10 Free & Paid Filters Compare</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterful-radial-blur-transformation-techniques-for-ps-users/"><u>[New] Masterful Radial Blur Transformation Techniques for PS Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-metaverse-memetic-wisdom-for-a-laughter-filled-time/"><u>[New] Metaverse Memetic Wisdom for a Laughter-Filled Time</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-nine-superior-choices-for-live-streaming-now/"><u>[New] Nine Superior Choices for Live Streaming Now</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-overhaul-mistaken-persona-display-within-social-media-messages/"><u>[New] Overhaul Mistaken Persona Display Within Social Media Messages</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-where-to-find-top-notch-instagram-ringtones-and-how-to-make-a-keen-ringt/"><u>[New] Where to Find Top-Notch Instagram Ringtones & How to Make a Keen Ringt</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-becoming-an-expert-broadcaster-streaming-high-quality-video-online/"><u>[Updated] Becoming an Expert Broadcaster  Streaming High-Quality Video Online</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-cost-free-chromebook-video-capturing-leaders-for-2024/"><u>[Updated] Cost-Free Chromebook Video Capturing Leaders for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-inexpensive-gear-mics-for-content-creators-on-a-dime/"><u>[Updated] Inexpensive Gear  Mics for Content Creators on a Dime</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-making-spherical-videos-the-iphone-way/"><u>[Updated] Making Spherical Videos  The iPhone Way</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastery-over-picture-in-picture-for-improved-productivity/"><u>[Updated] Mastery over Picture In Picture for Improved Productivity</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-perfect-your-technique-recording-the-modern-presentation-for-2024/"><u>[Updated] Perfect Your Technique  Recording the Modern Presentation for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-creativity-on-the-go-androidios-montages-top-8/"><u>[Updated] Seamless Creativity on the Go  Android/iOS Montages Top 8</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-web-browsing-on-edge-with-picture-in-picture-mode/"><u>[Updated] Seamless Web Browsing on Edge with Picture-in-Picture Mode</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-best-screen-recorder-apowersoft-vs-others/"><u>[Updated] The Best Screen Recorder  Apowersoft vs Others</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lifetime-of-memories-elevated-in-the-cloud-free-and-paid-storage-compared/"><u>2024 Approved  Lifetime of Memories, Elevated in the Cloud  Free & Paid Storage Compared</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-headline-hacks-for-maximum-impressions/"><u>2024 Approved  Master Headline Hacks for Maximum Impressions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-aerial-excellence-with-optimal-motor-selections/"><u>2024 Approved  Maximizing Aerial Excellence with Optimal Motor Selections</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transforming-video-makeup-through-color-alignment/"><u>2024 Approved  Transforming Video Makeup Through Color Alignment</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-t2-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-step-further-the-revolutionary-lg-360-vr-headset-reviewed-for-2024/"><u>A Step Further  The Revolutionary LG 360 VR Headset Reviewed for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/bitlock-less-windows-defense-tactics-4-suggestions/"><u>BitLock-Less Windows Defense Tactics: 4 Suggestions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/fast-track-your-tiktok-video-creation-process/"><u>Fast-Track Your TikTok Video Creation Process</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y78plus-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y78+ in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-honor-90-gt-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Honor 90 GT</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-y100-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo Y100 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y28-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y28 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-inside-the-magic-understanding-srts-impact/"><u>In 2024, Inside the Magic  Understanding SRT's Impact</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-intellects-ultimate-guide-to-premium-gk-quiz-sites/"><u>In 2024, Intellect's Ultimate Guide to Premium GK Quiz Sites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-20-anime-theme-anthems/"><u>In 2024, Leading 20 Anime Theme Anthems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-srt-creation-a-comprehensive-manual-and-tricks/"><u>In 2024, Mastering SRT Creation  A Comprehensive Manual & Tricks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-mastering-your-slide-show-webcam-screen-capture-methods/"><u>In 2024, Mastering Your Slide Show  Webcam Screen Capture Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximizing-efficiency-discover-the-leading-speech-to-text-apps-for-macos/"><u>In 2024, Maximizing Efficiency  Discover the Leading Speech-to-Text Apps for MacOS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-web-video-for-crystal-clear-display/"><u>In 2024, Optimizing Web Video for Crystal Clear Display</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-powerpoint-presentations-merging-text-with-tuneable-tracks/"><u>In 2024, PowerPoint Presentations  Merging Text with Tuneable Tracks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-text-manipulation-software-for-ae/"><u>In 2024, Premier Text Manipulation Software for AE</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-premium-cameras-perfect-for-podcasts/"><u>In 2024, Premium Cameras Perfect for Podcasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-secrets-for-hiring-top-notch-video-professionals/"><u>In 2024, Secrets for Hiring Top-Notch Video Professionals</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-skybound-streaming-engaging-your-audience-on-facebook/"><u>In 2024, Skybound Streaming  Engaging Your Audience on Facebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-imaging-insights-for-professionals-for-2024/"><u>IPhone Imaging Insights for Professionals for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-solo-podcast-production-for-top-spots-for-2024/"><u>Mastering Solo Podcast Production for Top Spots for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-drones-best-deals-today-for-2024/"><u>Premium Drones, Best Deals Today for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/ready-for-screen-talent-access-agreement-for-2024/"><u>Ready for Screen  Talent Access Agreement for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/realms-of-play-top-10-costless-online-roleplayers/"><u>Realms of Play  Top 10 Costless Online Roleplayers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/skyline-scenery-mastering-mobile-panoramas-for-2024/"><u>Skyline Scenery  Mastering Mobile Panoramas for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/speaking-the-unspoken-writing-subtext-driven-dialogues-for-2024/"><u>Speaking the Unspoken  Writing Subtext-Driven Dialogues for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-instructions-for-using-telegram-online-professionally-for-2024/"><u>Step-By-Step Instructions For Using Telegram Online Professionally for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-s24-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy S24 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-13-ultra-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi 13 Ultra Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>

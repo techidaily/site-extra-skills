@@ -1,7 +1,7 @@
 ---
 title: "Insider's Guide to Powerful Win10 Habits for 2024"
-date: 2024-06-28T15:07:04.667Z
-updated: 2024-06-29T15:07:04.667Z
+date: 2024-07-31T09:29:06.875Z
+updated: 2024-08-01T09:29:06.875Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,9 @@ The start menu of Windows 10 is now resizable. It can be quote odd for many but 
 
 #### 2. Using Cortana in Windows 10
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
@@ -46,6 +49,9 @@ While you are poking around the Cortana’s options, you may dive in the Noteboo
 
 #### 3. Additional Apps you should try
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![xbox games windows10](https://images.wondershare.com/windows10/xboy-games-windows10-1.png)
 
 The current Windows 10’s preview comes with some interesting apps like the new Xbox app, Insider Hub, Project Spartan web browser, Windows Feedback and a lot more. Though they are good apps to use when you want to get started in using Windows 10, Microsoft is likewise making available the preview of touch-friendly editions of Microsoft Word, Excel as well as the PowerPoint. All of these are known to be universal apps and that means similar code is running on the phones, PCs and tablets.
@@ -54,6 +60,9 @@ On the other hand, Microsoft did not release similar apps that are optimized for
 
 #### 4. New Keyboard Shortcuts
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
 
 Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
@@ -70,16 +79,25 @@ With Windows 10, it is now easy to create several desktops as well as run applic
 
 #### 6. New Mail App
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![a7](https://images.wondershare.com/windows10/a7.png)
 
 This is quite simple yet most people make use of the very capable contemporary email client that has been included in the latest editions of Windows. The email client that has been included in Windows 10 now comes with collapsible conversation view and email preview panel. Plus, it integrates the buttons for new contact and calendar apps. You could simply add different mail accounts from various providers.
 
 #### 7. New Edge Browser
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edge](https://images.wondershare.com/filmora/article-images/edge.jpg)
 
 Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -96,3 +114,72 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-ensure-flawless-playback-how-to-set-youtube-video-size-right/"><u>[New] 2024 Approved  Ensure Flawless Playback  How to Set YouTube Video Size Right</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-fast-tracking-your-vimeo-watch-time/"><u>[New] Fast-Tracking Your Vimeo Watch Time</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphone-photo-artistry-mastering-shadows-and-highlights/"><u>[New] IPhone Photo Artistry  Mastering Shadows & Highlights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-metamorphic-mentations-vr-enhanced-metaphysical-reflections/"><u>[New] Metamorphic Mentations  VR-Enhanced Metaphysical Reflections</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfecting-package-adventure-7-steps/"><u>[New] Perfecting Package Adventure  7 Steps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-facelift-tech-top-facial-editing-apps/"><u>[New] Premium Facelift Tech  Top Facial Editing Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-shared-sights-untold-histories-revealed/"><u>[New] Shared Sights  Untold Histories Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gratis-design-elements-for-youtube-channel/"><u>[Updated] 2024 Approved  Gratis Design Elements for YouTube Channel</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-vanished-vids-rediscovered-the-ultimate-guide-to-old-youtube-videos/"><u>[Updated] 2024 Approved  Vanished Vids Rediscovered  The Ultimate Guide to Old YouTube Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-crafting-a-powerful-earnings-strategy-on-the-vimeo-platform/"><u>[Updated] Crafting a Powerful Earnings Strategy on the Vimeo Platform</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-apps-for-editing-dji-drone-film-content/"><u>[Updated] Leading Apps for Editing DJi Drone Film Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-lightroom-lut-guide-discovering-the-best-10-tools-for-color-grading/"><u>[Updated] Lightroom LUT Guide  Discovering the Best 10 Tools for Color Grading</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-scribing-success-engaging-examples-for-podcasts/"><u>[Updated] Scribing Success  Engaging Examples for Podcasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-speak-up-enhancing-interactions-with-youtube-viewers/"><u>[Updated] Speak Up  Enhancing Interactions with YouTube Viewers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-stand-out-in-the-crowd-top-15-innovative-snapchat-posts/"><u>[Updated] Stand Out in the Crowd  Top 15 Innovative Snapchat Posts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-ultimate-guide-to-delete-social-media-streaming/"><u>[Updated] The Ultimate Guide to Delete Social Media Streaming</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-comprehensive-lookup-experience-the-world-in-virtual-reality/"><u>2024 Approved  Comprehensive Lookup  Experience the World in Virtual Reality</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-decoding-the-meaning-behind-fbs-blue-status-indicator/"><u>2024 Approved  Decoding the Meaning Behind FB's Blue Status Indicator</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-easy-steps-for-leveraging-speech-to-text-in-google-documents/"><u>2024 Approved  Easy Steps for Leveraging Speech-to-Text in Google Documents</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-journey-into-virtual-realms-best-8-metaverse-visors-and-goggles/"><u>2024 Approved  Journey Into Virtual Realms  Best 8 Metaverse Visors & Goggles</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-igtv-strategies-for-uploading-horizontal-videos/"><u>2024 Approved  Mastering IGTV  Strategies for Uploading Horizontal Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimize-iphone-usage-how-to-manipulate-picture-in-picture-on-youtube/"><u>2024 Approved  Optimize iPhone Usage  How to Manipulate Picture-in-Picture on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-parable-pioneers-guild-premier-peak/"><u>2024 Approved  Parable Pioneers Guild – Premier Peak</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pixel-playbook-transform-your-images/"><u>2024 Approved  Pixel Playbook  Transform Your Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-mkv-software-pc-and-android/"><u>2024 Approved  Prime MKV Software  PC & Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pushing-the-limits-revolutionary-image-distortions-with-ps/"><u>2024 Approved  Pushing the Limits  Revolutionary Image Distortions with PS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revamp-your-talk-with-cloud-top-5-online-voice-altering-services-for-chrome-os/"><u>2024 Approved  Revamp Your Talk with Cloud  Top 5 Online Voice Altering Services for Chrome OS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revealing-the-future-with-microsofts-hololens-analysis/"><u>2024 Approved  Revealing the Future with Microsoft's HoloLens Analysis</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-key-role-of-youtube-trailers-in-enhancing-revenue/"><u>2024 Approved  The Key Role of YouTube Trailers in Enhancing Revenue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/accessing-hidden-screen-settings-in-nvidia/"><u>Accessing Hidden Screen Settings in Nvidia</u></a></li>
+<li><a href="https://review-topics.techidaily.com/change-location-on-yik-yak-for-your-vivo-y78t-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo Y78t to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/count-of-friends-liking-you-online/"><u>Count of Friends Liking You Online</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/fixing-stuck-feeds-on-instagram-videos-for-2024/"><u>Fixing Stuck Feeds on Instagram Videos for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/thumbnail-downloader-solutions-online-for-2024/"><u>Free Thumbnail Downloader Solutions Online for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-note-30-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-txt-file-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Add Your Digital Signature to a .txt file Document</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-c110-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on C110</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-apple-iphone-15-plus-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing Apple iPhone 15 Plus iCloud Activation Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-a14-4g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy A14 4G Pattern Lock Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-7-plus-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 7 Plus to Roku? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-key-methods-to-change-music-speedplay-on-spotify/"><u>In 2024, Key Methods to Change Music Speedplay on Spotify</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-leveraging-youtubes-algorithm-maximizing-reach-through-featured-channels/"><u>In 2024, Leveraging YouTube's Algorithm  Maximizing Reach Through Featured Channels</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-metavision-uncovered-analyzing-6-compelling-metaverse-cases/"><u>In 2024, Metavision Uncovered  Analyzing 6 Compelling Metaverse Cases</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-picture-creation-discover-these-top-5-android-editors/"><u>In 2024, Perfect Picture Creation  Discover These Top 5 Android Editors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-parchment-creators/"><u>In 2024, Premier Parchment Creators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-professional-grade-handguns-for-ultimate-video-stability/"><u>In 2024, Professional Grade Handguns for Ultimate Video Stability</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-reducing-sound-levels-gradually-with-easy-steps-in-lumafusion/"><u>In 2024, Reducing Sound Levels Gradually with Easy Steps in Lumafusion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revamp-your-workflow-with-top-watermarkers/"><u>In 2024, Revamp Your Workflow with Top Watermarkers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-srt-file-conversion-simplified-with-os-support/"><u>In 2024, SRT File Conversion Simplified with OS Support</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-lut-integration-in-obs-for-enhanced-visual-effects-for-2024/"><u>Mastering LUT Integration in OBS for Enhanced Visual Effects for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-modern-and-future-terrain-with-drones-for-2024/"><u>Navigating Modern and Future Terrain with Drones for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/pixelcutter-studio-for-2024/"><u>PixelCutter Studio for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/professional-strategies-for-inshot-edits-for-2024/"><u>Professional Strategies for Inshot Edits for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/refining-images-how-to-use-the-eraser-tool-in-psx-for-2024/"><u>Refining Images  How to Use the Eraser Tool in PSX for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/retro-smile-captured-by-iphone-x-classic-for-2024/"><u>Retro Smile Captured by iPhone X Classic for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revamped-podcast-chats-attracting-true-fans-for-2024/"><u>Revamped Podcast Chats  Attracting True Fans for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/skyrocket-your-skill-set-in-windows-photoshop-for-2024/"><u>Skyrocket Your Skill Set in Windows Photoshop for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/snap-your-world-how-to-watch-360-videos-on-android-for-2024/"><u>Snap Your World  How to Watch 360 Videos on Android for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/srt-soundfile-compatibility-pc-and-mac-for-2024/"><u>SRT Soundfile Compatibility  PC & Mac for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-v27e-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/uncovering-veiled-viewer-interactions-with-video-content/"><u>Uncovering Veiled Viewer Interactions with Video Content</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-why-your-find-my-iphone-app-shows-as-offline-solutions-inside/"><u>Understanding Why Your 'Find My iPhone' App Shows As Offline – Solutions Inside</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-creative-potential-effortless-backdrop-elimination-on-canvas-for-2024/"><u>Unleash Creative Potential  Effortless Backdrop Elimination on Canvas for 2024</u></a></li>
+</ul></div>

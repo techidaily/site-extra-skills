@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Light on Shadows  Techniques for Depth in Illustrator\""
-date: 2024-05-31T07:39:45.945Z
-updated: 2024-06-01T07:39:45.945Z
+date: 2024-07-31T09:06:00.647Z
+updated: 2024-08-01T09:06:00.647Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Light on Shadows: Techniques for Depth in Illustrator\""
 excerpt: "\"This Article Describes In 2024, Light on Shadows: Techniques for Depth in Illustrator\""
 keywords: "Artistic Illustration Depth,Advanced Illustration Technique,Lighting Effects in Drawings,Shadow Play in Artwork,Contrasting Visuals Illustrator,Illustration Depth Mastery,Dynamic Light & Shade Methods"
-thumbnail: https://www.lifewire.com/thmb/264xm89WJRvn8-nnX4DNU7kRr_k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ApCent_2018-04-08_20-29-19-5acab3fbc0647100378b32fd.png
+thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a46c11534bd2a1352ab33e591.png
 ---
 
 ## Light on Shadows: Techniques for Depth in Illustrator
@@ -22,6 +22,13 @@ It takes 10 minutes. Even if you've never used Adobe Illustrator before, you wil
 
 This guide will show you the step-by-step process of creating a 3D text effect in Adobe Illustrator. So, if you're ready, let's begin.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## What You Need to Create a 3D Text Effect in Adobe Illustrator
 
 All you need are ten minutes of your time and the Adobe Illustrator application. Oh yes, and you need a little bit of imagination as well. That's all there is to it.
@@ -30,6 +37,9 @@ After you get the program, install it and follow the step-by-step instructions y
 
 Also, there are plenty of different ways to create 3D text effects in Adobe Illustrator. This tutorial will focus on explaining the easiest and quickest one. Just know that this doesn't mean the result will be wrong. Most methods yield the same results.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Create 3D Text Effects in Adobe Illustrator
 
 Now that you know what you're getting into, let's finally reveal the entire process. Just follow the steps and do as you see here.
@@ -46,6 +56,9 @@ Step3 Now, look at the bottom-right corner of the program. Find the **Font** set
 
 Step4 Next, choose any color you want for your text from the panel on the screen's left side. Just remember to click on your text first before you start changing colors.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![change color](https://images.wondershare.com/filmora/article-images/adobe-illustrator-color.png)
 
 Step5 Align the text to make it easier to edit and move around the canvas later. Just click on it and then click on the three buttons in the image below. This section is located at the bottom-right corner of the screen.
@@ -66,6 +79,10 @@ Step8 Now, all left to do is experiment with the settings in this panel and adju
 
 Step9 Finally, it's time to export the image, and you're all done.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Best Alternative Way to Create 3D Text Animation
 
 You might not believe it, but there's an even more accessible and less expensive way to create 3D text effects. You can use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Compared to Illustrator, Filmora is much better for beginners and more affordable.
@@ -88,12 +105,21 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Both programs will get the job done if you use Adobe Illustrator or Filmora for your 3D text effect. The main difference is that it will be easier with Filmora. The choice is yours. Have fun!
@@ -102,6 +128,9 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### How to Create a 3D Text Effect In Filmora?
 
 The steps are simple. Just follow them precisely as you see here, and you won't have any problems.
@@ -110,10 +139,21 @@ Step1 Download Filmora and run the program. Once it opens, click on **New Projec
 
 Step2 Head to the **Titles** tab and search for the **“3D Illustration**” title. Then, drag it into the Timeline. You can also find several other 3D titles. If you like another one better, drag that one instead of the one we mentioned here.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
@@ -146,3 +186,40 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-best-screen-grabber-gadgets-for-youtube-channels-for-2024/"><u>[New] Best Screen Grabber Gadgets for YouTube Channels for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-5-monitors-unleashing-full-spectrum-colors/"><u>[New] Leading 5 Monitors  Unleashing Full Spectrum Colors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-popsocket-mounts-for-optimal-video-shooting/"><u>[New] PopSocket Mounts for Optimal Video Shooting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pro-photo-and-video-with-gopro-hero5-black-mastery-essentials/"><u>[New] Pro Photo & Video with GoPro  Hero5 Black Mastery Essentials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-renewed-set-of-interview-starters-for-attractive-listenership/"><u>[New] Renewed Set of Interview Starters for Attractive Listenership</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-storytelling-with-smooth-fading-techniques/"><u>[New] Seamless Storytelling with Smooth Fading Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-self-designed-instagram-ringtone-creation-steps/"><u>[New] Self-Designed Instagram Ringtone Creation Steps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-shared-sights-behind-the-memeayer/"><u>[New] Shared Sights  Behind the Meme'ayer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-spectacquad-p2715q-a-deep-dive-into-4k-screen-technology/"><u>[New] The Spectacquad P2715Q  A Deep Dive Into 4K Screen Technology</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-transform-your-channels-image-a-pathway-to-more-subscribers-and-followers/"><u>[Updated] 2024 Approved  Transform Your Channels' Image  A Pathway to More Subscribers and Followers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-markets-top-picks-premier-drone-gimbals/"><u>[Updated] Market's Top Picks  Premier Drone Gimbals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-iphones-multi-tasked-capture-feature/"><u>[Updated] Master iPhone's Multi-Tasked Capture Feature</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-recommendations-best-audio-crafting-pros/"><u>[Updated] Master Recommendations  Best Audio Crafting Pros</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-reason-behind-photo-booth-video-stalls/"><u>[Updated] Reason Behind Photo Booth Video Stalls</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-must-have-add-ons-for-your-gopro-adventure/"><u>2024 Approved  Must-Have Add-Ons for Your GoPro Adventure</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-smart-strategies-for-iphone-podcast-acquisition/"><u>2024 Approved  Smart Strategies for iPhone Podcast Acquisition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-greatest-vr-handhelds-listed-for-2024/"><u>Explore Greatest VR Handhelds Listed for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-xiaomi-14-ultra-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Xiaomi 14 Ultra</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-craft-unique-logos-using-complimentary-stock-graphics/"><u>In 2024, Craft Unique Logos Using Complimentary Stock Graphics</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-reno-8t-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Reno 8T to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-light-and-color-interplay-for-images/"><u>In 2024, Light & Color Interplay for Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-waterfront-top-5-cameras-for-big-waters/"><u>In 2024, Master the Waterfront  Top 5 Cameras For Big Waters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/incorporating-zoom-for-video-conferencing-a-guide-for-gmail-professionals/"><u>Incorporating Zoom for Video Conferencing  A Guide for Gmail Professionals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/jokesonscreen-pro-for-2024/"><u>JokesOnScreen Pro for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-the-technique-of-radial-distortion-in-adobe-ps-for-2024/"><u>Master the Technique of Radial Distortion in Adobe PS for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-camera-basics-top-8-recommendations-for-2024/"><u>Mastering Camera Basics  Top 8 Recommendations for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photographic-fundamentals-in-5-minutes-with-snapseed-for-2024/"><u>Photographic Fundamentals in 5 Minutes with Snapseed for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/securely-save-fb-high-definition-for-2024/"><u>Securely Save FB High Definition for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/shade-portraits-with-orbital-illumination-technique-cs-for-2024/"><u>Shade Portraits with Orbital Illumination Technique CS for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/steps-to-enhance-your-ability-as-an-effective-interviewer-for-2024/"><u>Steps to Enhance Your Ability as an Effective Interviewer for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-honor-70-lite-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor 70 Lite 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Tecno Pop 8 | Dr.fone</u></a></li>
+</ul></div>

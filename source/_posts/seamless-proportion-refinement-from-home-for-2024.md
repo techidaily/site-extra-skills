@@ -1,7 +1,7 @@
 ---
 title: "Seamless Proportion Refinement From Home for 2024"
-date: 2024-05-31T07:38:00.075Z
-updated: 2024-06-01T07:38:00.075Z
+date: 2024-07-31T07:12:40.641Z
+updated: 2024-08-01T07:12:40.641Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Seamless Proportion Refinement From Home for 2024"
 excerpt: "This Article Describes Seamless Proportion Refinement From Home for 2024"
 keywords: "\"Home Proportioning,Seamless Adjustments,DIY Proportioning,Home Design Precision,Perfect Proportions,Balanced Room Design,At-Home Space Refinement\""
-thumbnail: https://www.lifewire.com/thmb/fxTkV6WtKE82Yk7N0Qz__P0Ie4k=/180x120/filters:no_upscale():max_bytes(150000):strip_icc()/ecotech_robothands_gettyimages-1179633351_koya79_cropped_1745_v3-c9e218ef95494c239b2edfb8294fe2a1.jpg
+thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad53016173b55a4a0650b3071.jpg
 ---
 
 ## Seamless Proportion Refinement From Home
@@ -36,6 +36,9 @@ Take a look!
 
 04 [How to Change Aspect Ratio for Videos and Photos?](#Part 4)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1 What is aspect ratio
 
 Aspect ratio is a term that simply describes the proportional relationship of width with the height of your photo. It checks how wide the image is. It is not the image resolution; infact, it is the ratio of width to height.
@@ -60,8 +63,14 @@ Well-define the ratio to make shapes according to distinct and different mediums
 
 Having the right aspect ratio for social media is very important nowadays. But with different sites, it sometimes gets complicated. But from the tips mentioned below, you can learn the proper social media aspect ratios.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![Social Media Aspect Ratios](https://images.wondershare.com/filmora/article-images/2021/change-aspect-ratio-online-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Facebook
 
 Facebook is one of the largest platforms with monthly 2.5 billion active users. It has a high content consumption rate each year. For best quality, you can use the following aspect ratios:
@@ -90,6 +99,9 @@ Instagram has almost 600 million accounts across the globe, making it a perfect 
 
 **●** IGTV Dimensions- 1920x 1080 (16:9)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Linkedin
 
 The dimensions of Linkedin are similar to Facebook. Therefore you can post the content easily on both platforms. Linkedin had around 20 million users, and simple dimensions for posting on a platform are:
@@ -100,6 +112,9 @@ The dimensions of Linkedin are similar to Facebook. Therefore you can post the c
 
 **●** Maximum Image Dimensions- 1104 x 736 (3:2)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Twitter
 
 Twitter has almost 330 million users worldwide. While posting on Twitter, it would be great to follow the mobile guidelines. The standard aspect ratio you can find on Twitter is a 2:1 that ensures the content does not get cropped.
@@ -124,6 +139,13 @@ Youtube is Google's most popular service, with 1.8 billion users per month. You 
 
 **●** Minimum HD Dimensions-1280 x 720 (16:9)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ### 6\. Pinterest
 
 Pinterest has primarily image content. It has almost 322 million user accounts worldwide. The two essential aspect ratios are 1:1 and 2:3 as they all sit vertically.
@@ -164,6 +186,9 @@ Change your video aspect ratio & Edit yout video in more creative ways!
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 ### Method 1: Change Aspect Ratio at the Starting Interface
@@ -172,6 +197,304 @@ This tool allows you to change the aspect ratio when you launch the editor progr
 
 Choose the aspect ratio that you want by simply clicking on it.
 
+![Starting Interface](https://images.wondershare.com/filmora/article-images/change-aspect-ratio-at-filmora-start-interface.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+### Method 2: Change Aspect Ratio under Project Settings
+
+You can change the aspect ratio by clicking on the "Project Settings." You can decide the target aspect ratio based on the aspect ratio of the media source.
+
+For instance, if the aspect ratio of media source files is 4:3, select the standard aspect ratio of 4:3\. Then, media files with other aspect ratios will show black bars.
+
+In case of any discordance or if you want to change the aspect ratio, choose the proper ratio from project settings.
+
+![Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
+
+### Method 3: Change Aspect Ratio during Editing
+
+Even if after importing the videos or images into the Wondershare Filmora’s timeline, you can easily change the ratio from the Crop and Zoom tool.
+
+**●** Go to timeline and right-click on the video clip. Then, select "Crop and Zoom." You will see the pop-up window.
+
+**●** Click on 16:9, 4:3, 1:1, or 9:16 manually at the bottom if you like to change the video aspect ratio.
+
+**●** You can also manually enter the video aspect ratio. Next, click on the “Ok” button.
+
+![Crop and Zoom Tool](https://images.wondershare.com/filmora/article-images/crop-zoom-interface.jpg)
+
+After changing the aspect ratio, add background blur effects if you notice a black bar. It will enhance the video. You can also intensify your video by using filters, visual effects, overlays, or titles.
+
+![Video Enhancing](https://images.wondershare.com/filmora/article-images/background-blur-changing-aspect-ratio.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
+### Method 4: Change the Aspect Ratio with Auto-Reframe
+
+If you use Filmora’s latest versions, you will notice Auto Reframe helps to change the aspect ratio. Other than cropping, it will find the object in clips and crop it automatically if needed.
+
+The following are steps to change the aspect ratio using the Auto-Reframe option:
+
+##### Step1
+
+Once you upload the video clips to the media library, right-click on it and choose the Auto-Reframe option.
+
+![Choose Auto-Reframe option](https://images.wondershare.com/filmora/article-images/convert-vertical-to-horizontal-auto-reframe-option.jpg)
+
+##### Step2
+
+You will see the Auto Reframe window appear on the screen. Replace the existing video with a new clip. Then, change the video aspect ratio and video motion speed. Make sure to change the aspect ratio that fits most with different social media platforms.
+
+![Select the Aspect Ratio](https://images.wondershare.com/filmora/article-images/change-video-aspect-ratio-filmora-auto-reframe.jpg)
+
+##### Step3
+
+Once you choose the aspect ratio, click on the "Analyze" button. Filmora will Auto-Reframe the video itself. Once the process completes, you can see results in the preview window.
+
+Drag box to adjust the frame or to keep the object in it. It will automatically remove the content outside the box.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+![Drag Box](https://images.wondershare.com/filmora/article-images/adjust-frame-box-auto-reframe.jpg)
+
+##### Step3
+
+After completing adjustment or reframing, click on the "Export" button to save your video.
+
+Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save up.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+
+### Method 5: Change Aspect Ratio at Exporting
+
+You can save the clip to your system or smartphones, depending on your requirements. Upload them directly to Youtube or burn them into DVD by clicking on the "Export button." In this way you can watch on widescreen or standard TV whenever you want.
+
+![Upload or Burn by Clicking on Export Button](https://images.wondershare.com/filmora/article-images/output-format.jpg)
+
+**● Change Aspect Ratio for the Local Computer**
+
+First, you will see the "Local" tab. There you can save the clip in a particular aspect ratio to your system. You can see all resolutions with various aspect ratios after selecting the format. The output video depends on the media click resolution.
+
+**● Change Aspect Ratio for a Device**
+
+Change the "Device" tab to save the video in formats compatible with popular devices, including iPod, iPhone, PSP, iPad, etc. Once you choose the device, you will see all resolutions. Choose your favorite or the best resolution.
+
+The video quality will continue improving with higher resolutions. But it will also increase the size of the file.
+
+**● Change Aspect Ratio for YouTube**
+
+Go to the "YouTube" tab and fill in the information. Then, click the "Export" button. Selecting the aspect ratio again is not necessary. It will directly upload your videos to YouTube.
+
+**● Change Aspect Ratio for DVD TV**
+
+When you go to the "DVD" tab, you will notice various aspect ratio options. Switching the aspect ratio for TV from 4:3 to 16:9 is pretty straightforward. To do so, select what you think is right.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+**●** You can learn how to change the aspect ratio and use an image resize aspect ratio calculator from the tips mentioned above. Also, you will see different ways to change the aspect ratio in the Wondershare Filmora video editor.
+
+**●** You can use this tool to make changes on both social media platforms and your devices because it is an effective and reliable tool.
+
+02 [How to calculate aspect ratio online](#Part 2)
+
+03 [Popular Aspect Ratios for Social Media you Should Know](#Part 3)
+
+04 [How to Change Aspect Ratio for Videos and Photos?](#Part 4)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
+## Part 1 What is aspect ratio
+
+Aspect ratio is a term that simply describes the proportional relationship of width with the height of your photo. It checks how wide the image is. It is not the image resolution; infact, it is the ratio of width to height.
+
+For instance, Movies at the theatre have a 16:9 aspect ratio. It has no relation to the image's quality or size. It just states that the width of a picture is almost twice the length.
+
+Most TV or computer screens have a 1.33:1 aspect. It means they are generally much closer to square as compared to big cinema screens. Therefore, modern TV sets have an option of widescreen.
+
+In this way, you can watch the movies closer to the original format, and there will be no cutting of the shots. The aspect ratio is a term that was first related to shapes and geometry, later adapter to still and moving images.
+
+You represent the aspect ratio for different shapes by x:y, but actual figures do not matter till the ratio is same. For instance, the aspect ratio of a rectangle is the ratio of its long side to the short side.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+## Part 2 How to calculate aspect ratio online
+
+If you need to resize a video or photo, it is essential to understand the aspect ratios. Moreover, with an aspect ratio calculator online, you can properly edit the image that fits the required parameters.
+
+You can check the image dimensions while resing by using this ratio calculator. Also, every image, canvas, digital video, responsive design and frame has a rectangular shape with precise proportions.
+
+Well-define the ratio to make shapes according to distinct and different mediums, like movies, computers, TV, or camera screens.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+## Part 3 Popular Aspect Ratios for Social Media you Should Know
+
+Having the right aspect ratio for social media is very important nowadays. But with different sites, it sometimes gets complicated. But from the tips mentioned below, you can learn the proper social media aspect ratios.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Social Media Aspect Ratios](https://images.wondershare.com/filmora/article-images/2021/change-aspect-ratio-online-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
+### 1\. Facebook
+
+Facebook is one of the largest platforms with monthly 2.5 billion active users. It has a high content consumption rate each year. For best quality, you can use the following aspect ratios:
+
+**●** Landscape Video Dimensions- 1920 x 1080 (16:9)
+
+**●** Stories Dimensions- 1080 x 1920 (9:16)
+
+**●** Landscape Image Dimensions- 1200 x 630 (1.9:1)
+
+**●** Square Video/ Image Dimensions- 1080 x 1080 (1:1)
+
+**●** The minimum width for Portrait and Landscape is 600 pixels.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+### 2\. Instagram
+
+Instagram has almost 600 million accounts across the globe, making it a perfect place to share any content. The popular aspect ratio is 1:1 and 4:5 on Instagram. But the content on mobile looks different from the one you see on the system.
+
+**●** Landscape Dimensions- 1080 x 608 (1.91:1)
+
+**●** Stories Dimensions- 1080 x 1920 (9:16)
+
+**●** Portrait Dimensions-1080 x 1350 (4:5)
+
+**●** Square Dimensions- 1080 x 1080 (1:1)
+
+**●** IGTV Dimensions- 1920x 1080 (16:9)
+
+### 3\. Linkedin
+
+The dimensions of Linkedin are similar to Facebook. Therefore you can post the content easily on both platforms. Linkedin had around 20 million users, and simple dimensions for posting on a platform are:
+
+**●** Landscape Video Dimensions- 1920 x 1080 (16:9)
+
+**●** Square Video Dimensions- 1080 x 1080 (1:1)
+
+**●** Maximum Image Dimensions- 1104 x 736 (3:2)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 4\. Twitter
+
+Twitter has almost 330 million users worldwide. While posting on Twitter, it would be great to follow the mobile guidelines. The standard aspect ratio you can find on Twitter is a 2:1 that ensures the content does not get cropped.
+
+**●** Landscape Video Dimensions- 1280 x 720 (16:9)
+
+**●** Square Video Dimensions- 1024 x 1024 (1:1)
+
+**●** Maximum Image Dimensions- 1024 x 512 (2:1)
+
+**●** Minimum Image Dimensions- 440 x 220 (2:1)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### 5\. Youtube
+
+Youtube is Google's most popular service, with 1.8 billion users per month. You can only see video content on youtube; therefore, it is different from other content-sharing platforms.
+
+**●** Maximum Dimensions- 3840 x 2160 (16:9)
+
+**●** Standard Dimensions- 1920 x 1080 (16:9)
+
+**●** Minimum Dimensions- 426 x 240 (16:9)
+
+**●** Minimum HD Dimensions-1280 x 720 (16:9)
+
+### 6\. Pinterest
+
+Pinterest has primarily image content. It has almost 322 million user accounts worldwide. The two essential aspect ratios are 1:1 and 2:3 as they all sit vertically.
+
+**●** Square Video Dimensions- 600 x 600 (1:1)
+
+**●** Portrait Video Dimensions- 600 x 900 (2:3)
+
+**●** Image Dimensions- 800 x 1200 (2:3)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 7\. Snapchat
+
+Snapchat has nearly 218 million user accounts making it an excellent content-sharing platform. As far as dimensions, it has a single aspect ratio of 9:16.
+
+**●** 480 x 720 (16:9 SD)
+
+**●** 540 x 960 (16:9 qHD)
+
+**●** 720 x 1280 (16:9 HD)
+
+**●** 1080 x 1920 (16:9 HD)
+
+**●** 1440 x 2560 (16:9 QHD)
+
+**●** 1800 x 3200 (16:9 QHD+)
+
+**●** 2160 x 3840 (16:9 4K)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
+## Part 4 How to Change Aspect Ratio for Videos and Photos?
+
+It is important to learn the changing the aspect ratio for Videos or Photos. You can change the aspect ratio permanently using “Wondershare Filmora Video Editor.” It is one of the best and reliable editors that quickly changes or creates aspect ratios.
+
+Here are various methods to change the aspect ratio in Wondershare Filmora:
+
+#### Wondershare Filmora
+
+Change your video aspect ratio & Edit yout video in more creative ways!
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![download](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 1: Change Aspect Ratio at the Starting Interface
+
+This tool allows you to change the aspect ratio when you launch the editor program. First, go to the drop-down menu button. Then, click on it to see various aspect ratios such as 16:9, 1:1, 4:3, 9:16, or 21:9.
+
+Choose the aspect ratio that you want by simply clicking on it.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![Starting Interface](https://images.wondershare.com/filmora/article-images/change-aspect-ratio-at-filmora-start-interface.jpg)
 
 ### Method 2: Change Aspect Ratio under Project Settings
@@ -184,6 +507,9 @@ In case of any discordance or if you want to change the aspect ratio, choose the
 
 ![Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### Method 3: Change Aspect Ratio during Editing
 
 Even if after importing the videos or images into the Wondershare Filmora’s timeline, you can easily change the ratio from the Crop and Zoom tool.
@@ -216,6 +542,280 @@ Once you upload the video clips to the media library, right-click on it and choo
 
 You will see the Auto Reframe window appear on the screen. Replace the existing video with a new clip. Then, change the video aspect ratio and video motion speed. Make sure to change the aspect ratio that fits most with different social media platforms.
 
+![Select the Aspect Ratio](https://images.wondershare.com/filmora/article-images/change-video-aspect-ratio-filmora-auto-reframe.jpg)
+
+##### Step3
+
+Once you choose the aspect ratio, click on the "Analyze" button. Filmora will Auto-Reframe the video itself. Once the process completes, you can see results in the preview window.
+
+Drag box to adjust the frame or to keep the object in it. It will automatically remove the content outside the box.
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Drag Box](https://images.wondershare.com/filmora/article-images/adjust-frame-box-auto-reframe.jpg)
+
+##### Step3
+
+After completing adjustment or reframing, click on the "Export" button to save your video.
+
+Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save up.
+
+![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 5: Change Aspect Ratio at Exporting
+
+You can save the clip to your system or smartphones, depending on your requirements. Upload them directly to Youtube or burn them into DVD by clicking on the "Export button." In this way you can watch on widescreen or standard TV whenever you want.
+
+![Upload or Burn by Clicking on Export Button](https://images.wondershare.com/filmora/article-images/output-format.jpg)
+
+**● Change Aspect Ratio for the Local Computer**
+
+First, you will see the "Local" tab. There you can save the clip in a particular aspect ratio to your system. You can see all resolutions with various aspect ratios after selecting the format. The output video depends on the media click resolution.
+
+**● Change Aspect Ratio for a Device**
+
+Change the "Device" tab to save the video in formats compatible with popular devices, including iPod, iPhone, PSP, iPad, etc. Once you choose the device, you will see all resolutions. Choose your favorite or the best resolution.
+
+The video quality will continue improving with higher resolutions. But it will also increase the size of the file.
+
+**● Change Aspect Ratio for YouTube**
+
+Go to the "YouTube" tab and fill in the information. Then, click the "Export" button. Selecting the aspect ratio again is not necessary. It will directly upload your videos to YouTube.
+
+**● Change Aspect Ratio for DVD TV**
+
+When you go to the "DVD" tab, you will notice various aspect ratio options. Switching the aspect ratio for TV from 4:3 to 16:9 is pretty straightforward. To do so, select what you think is right.
+
+## Conclusion
+
+**●** You can learn how to change the aspect ratio and use an image resize aspect ratio calculator from the tips mentioned above. Also, you will see different ways to change the aspect ratio in the Wondershare Filmora video editor.
+
+**●** You can use this tool to make changes on both social media platforms and your devices because it is an effective and reliable tool.
+
+02 [How to calculate aspect ratio online](#Part 2)
+
+03 [Popular Aspect Ratios for Social Media you Should Know](#Part 3)
+
+04 [How to Change Aspect Ratio for Videos and Photos?](#Part 4)
+
+## Part 1 What is aspect ratio
+
+Aspect ratio is a term that simply describes the proportional relationship of width with the height of your photo. It checks how wide the image is. It is not the image resolution; infact, it is the ratio of width to height.
+
+For instance, Movies at the theatre have a 16:9 aspect ratio. It has no relation to the image's quality or size. It just states that the width of a picture is almost twice the length.
+
+Most TV or computer screens have a 1.33:1 aspect. It means they are generally much closer to square as compared to big cinema screens. Therefore, modern TV sets have an option of widescreen.
+
+In this way, you can watch the movies closer to the original format, and there will be no cutting of the shots. The aspect ratio is a term that was first related to shapes and geometry, later adapter to still and moving images.
+
+You represent the aspect ratio for different shapes by x:y, but actual figures do not matter till the ratio is same. For instance, the aspect ratio of a rectangle is the ratio of its long side to the short side.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2 How to calculate aspect ratio online
+
+If you need to resize a video or photo, it is essential to understand the aspect ratios. Moreover, with an aspect ratio calculator online, you can properly edit the image that fits the required parameters.
+
+You can check the image dimensions while resing by using this ratio calculator. Also, every image, canvas, digital video, responsive design and frame has a rectangular shape with precise proportions.
+
+Well-define the ratio to make shapes according to distinct and different mediums, like movies, computers, TV, or camera screens.
+
+## Part 3 Popular Aspect Ratios for Social Media you Should Know
+
+Having the right aspect ratio for social media is very important nowadays. But with different sites, it sometimes gets complicated. But from the tips mentioned below, you can learn the proper social media aspect ratios.
+
+![Social Media Aspect Ratios](https://images.wondershare.com/filmora/article-images/2021/change-aspect-ratio-online-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 1\. Facebook
+
+Facebook is one of the largest platforms with monthly 2.5 billion active users. It has a high content consumption rate each year. For best quality, you can use the following aspect ratios:
+
+**●** Landscape Video Dimensions- 1920 x 1080 (16:9)
+
+**●** Stories Dimensions- 1080 x 1920 (9:16)
+
+**●** Landscape Image Dimensions- 1200 x 630 (1.9:1)
+
+**●** Square Video/ Image Dimensions- 1080 x 1080 (1:1)
+
+**●** The minimum width for Portrait and Landscape is 600 pixels.
+
+### 2\. Instagram
+
+Instagram has almost 600 million accounts across the globe, making it a perfect place to share any content. The popular aspect ratio is 1:1 and 4:5 on Instagram. But the content on mobile looks different from the one you see on the system.
+
+**●** Landscape Dimensions- 1080 x 608 (1.91:1)
+
+**●** Stories Dimensions- 1080 x 1920 (9:16)
+
+**●** Portrait Dimensions-1080 x 1350 (4:5)
+
+**●** Square Dimensions- 1080 x 1080 (1:1)
+
+**●** IGTV Dimensions- 1920x 1080 (16:9)
+
+### 3\. Linkedin
+
+The dimensions of Linkedin are similar to Facebook. Therefore you can post the content easily on both platforms. Linkedin had around 20 million users, and simple dimensions for posting on a platform are:
+
+**●** Landscape Video Dimensions- 1920 x 1080 (16:9)
+
+**●** Square Video Dimensions- 1080 x 1080 (1:1)
+
+**●** Maximum Image Dimensions- 1104 x 736 (3:2)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 4\. Twitter
+
+Twitter has almost 330 million users worldwide. While posting on Twitter, it would be great to follow the mobile guidelines. The standard aspect ratio you can find on Twitter is a 2:1 that ensures the content does not get cropped.
+
+**●** Landscape Video Dimensions- 1280 x 720 (16:9)
+
+**●** Square Video Dimensions- 1024 x 1024 (1:1)
+
+**●** Maximum Image Dimensions- 1024 x 512 (2:1)
+
+**●** Minimum Image Dimensions- 440 x 220 (2:1)
+
+### 5\. Youtube
+
+Youtube is Google's most popular service, with 1.8 billion users per month. You can only see video content on youtube; therefore, it is different from other content-sharing platforms.
+
+**●** Maximum Dimensions- 3840 x 2160 (16:9)
+
+**●** Standard Dimensions- 1920 x 1080 (16:9)
+
+**●** Minimum Dimensions- 426 x 240 (16:9)
+
+**●** Minimum HD Dimensions-1280 x 720 (16:9)
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 6\. Pinterest
+
+Pinterest has primarily image content. It has almost 322 million user accounts worldwide. The two essential aspect ratios are 1:1 and 2:3 as they all sit vertically.
+
+**●** Square Video Dimensions- 600 x 600 (1:1)
+
+**●** Portrait Video Dimensions- 600 x 900 (2:3)
+
+**●** Image Dimensions- 800 x 1200 (2:3)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
+### 7\. Snapchat
+
+Snapchat has nearly 218 million user accounts making it an excellent content-sharing platform. As far as dimensions, it has a single aspect ratio of 9:16.
+
+**●** 480 x 720 (16:9 SD)
+
+**●** 540 x 960 (16:9 qHD)
+
+**●** 720 x 1280 (16:9 HD)
+
+**●** 1080 x 1920 (16:9 HD)
+
+**●** 1440 x 2560 (16:9 QHD)
+
+**●** 1800 x 3200 (16:9 QHD+)
+
+**●** 2160 x 3840 (16:9 4K)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+## Part 4 How to Change Aspect Ratio for Videos and Photos?
+
+It is important to learn the changing the aspect ratio for Videos or Photos. You can change the aspect ratio permanently using “Wondershare Filmora Video Editor.” It is one of the best and reliable editors that quickly changes or creates aspect ratios.
+
+Here are various methods to change the aspect ratio in Wondershare Filmora:
+
+#### Wondershare Filmora
+
+Change your video aspect ratio & Edit yout video in more creative ways!
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![download](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+### Method 1: Change Aspect Ratio at the Starting Interface
+
+This tool allows you to change the aspect ratio when you launch the editor program. First, go to the drop-down menu button. Then, click on it to see various aspect ratios such as 16:9, 1:1, 4:3, 9:16, or 21:9.
+
+Choose the aspect ratio that you want by simply clicking on it.
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Starting Interface](https://images.wondershare.com/filmora/article-images/change-aspect-ratio-at-filmora-start-interface.jpg)
+
+### Method 2: Change Aspect Ratio under Project Settings
+
+You can change the aspect ratio by clicking on the "Project Settings." You can decide the target aspect ratio based on the aspect ratio of the media source.
+
+For instance, if the aspect ratio of media source files is 4:3, select the standard aspect ratio of 4:3\. Then, media files with other aspect ratios will show black bars.
+
+In case of any discordance or if you want to change the aspect ratio, choose the proper ratio from project settings.
+
+![Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
+
+### Method 3: Change Aspect Ratio during Editing
+
+Even if after importing the videos or images into the Wondershare Filmora’s timeline, you can easily change the ratio from the Crop and Zoom tool.
+
+**●** Go to timeline and right-click on the video clip. Then, select "Crop and Zoom." You will see the pop-up window.
+
+**●** Click on 16:9, 4:3, 1:1, or 9:16 manually at the bottom if you like to change the video aspect ratio.
+
+**●** You can also manually enter the video aspect ratio. Next, click on the “Ok” button.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Crop and Zoom Tool](https://images.wondershare.com/filmora/article-images/crop-zoom-interface.jpg)
+
+After changing the aspect ratio, add background blur effects if you notice a black bar. It will enhance the video. You can also intensify your video by using filters, visual effects, overlays, or titles.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+![Video Enhancing](https://images.wondershare.com/filmora/article-images/background-blur-changing-aspect-ratio.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
+### Method 4: Change the Aspect Ratio with Auto-Reframe
+
+If you use Filmora’s latest versions, you will notice Auto Reframe helps to change the aspect ratio. Other than cropping, it will find the object in clips and crop it automatically if needed.
+
+The following are steps to change the aspect ratio using the Auto-Reframe option:
+
+##### Step1
+
+Once you upload the video clips to the media library, right-click on it and choose the Auto-Reframe option.
+
+![Choose Auto-Reframe option](https://images.wondershare.com/filmora/article-images/convert-vertical-to-horizontal-auto-reframe-option.jpg)
+
+##### Step2
+
+You will see the Auto Reframe window appear on the screen. Replace the existing video with a new clip. Then, change the video aspect ratio and video motion speed. Make sure to change the aspect ratio that fits most with different social media platforms.
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![Select the Aspect Ratio](https://images.wondershare.com/filmora/article-images/change-video-aspect-ratio-filmora-auto-reframe.jpg)
 
 ##### Step3
@@ -282,6 +882,9 @@ In this way, you can watch the movies closer to the original format, and there w
 
 You represent the aspect ratio for different shapes by x:y, but actual figures do not matter till the ratio is same. For instance, the aspect ratio of a rectangle is the ratio of its long side to the short side.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2 How to calculate aspect ratio online
 
 If you need to resize a video or photo, it is essential to understand the aspect ratios. Moreover, with an aspect ratio calculator online, you can properly edit the image that fits the required parameters.
@@ -294,8 +897,14 @@ Well-define the ratio to make shapes according to distinct and different mediums
 
 Having the right aspect ratio for social media is very important nowadays. But with different sites, it sometimes gets complicated. But from the tips mentioned below, you can learn the proper social media aspect ratios.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Social Media Aspect Ratios](https://images.wondershare.com/filmora/article-images/2021/change-aspect-ratio-online-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Facebook
 
 Facebook is one of the largest platforms with monthly 2.5 billion active users. It has a high content consumption rate each year. For best quality, you can use the following aspect ratios:
@@ -324,6 +933,9 @@ Instagram has almost 600 million accounts across the globe, making it a perfect 
 
 **●** IGTV Dimensions- 1920x 1080 (16:9)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### 3\. Linkedin
 
 The dimensions of Linkedin are similar to Facebook. Therefore you can post the content easily on both platforms. Linkedin had around 20 million users, and simple dimensions for posting on a platform are:
@@ -334,6 +946,9 @@ The dimensions of Linkedin are similar to Facebook. Therefore you can post the c
 
 **●** Maximum Image Dimensions- 1104 x 736 (3:2)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### 4\. Twitter
 
 Twitter has almost 330 million users worldwide. While posting on Twitter, it would be great to follow the mobile guidelines. The standard aspect ratio you can find on Twitter is a 2:1 that ensures the content does not get cropped.
@@ -358,6 +973,9 @@ Youtube is Google's most popular service, with 1.8 billion users per month. You 
 
 **●** Minimum HD Dimensions-1280 x 720 (16:9)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Pinterest
 
 Pinterest has primarily image content. It has almost 322 million user accounts worldwide. The two essential aspect ratios are 1:1 and 2:3 as they all sit vertically.
@@ -386,6 +1004,9 @@ Snapchat has nearly 218 million user accounts making it an excellent content-sha
 
 **●** 2160 x 3840 (16:9 4K)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4 How to Change Aspect Ratio for Videos and Photos?
 
 It is important to learn the changing the aspect ratio for Videos or Photos. You can change the aspect ratio permanently using “Wondershare Filmora Video Editor.” It is one of the best and reliable editors that quickly changes or creates aspect ratios.
@@ -398,6 +1019,9 @@ Change your video aspect ratio & Edit yout video in more creative ways!
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 ### Method 1: Change Aspect Ratio at the Starting Interface
@@ -434,6 +1058,9 @@ After changing the aspect ratio, add background blur effects if you notice a bla
 
 ![Video Enhancing](https://images.wondershare.com/filmora/article-images/background-blur-changing-aspect-ratio.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4: Change the Aspect Ratio with Auto-Reframe
 
 If you use Filmora’s latest versions, you will notice Auto Reframe helps to change the aspect ratio. Other than cropping, it will find the object in clips and crop it automatically if needed.
@@ -444,12 +1071,19 @@ The following are steps to change the aspect ratio using the Auto-Reframe option
 
 Once you upload the video clips to the media library, right-click on it and choose the Auto-Reframe option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Choose Auto-Reframe option](https://images.wondershare.com/filmora/article-images/convert-vertical-to-horizontal-auto-reframe-option.jpg)
 
 ##### Step2
 
 You will see the Auto Reframe window appear on the screen. Replace the existing video with a new clip. Then, change the video aspect ratio and video motion speed. Make sure to change the aspect ratio that fits most with different social media platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Select the Aspect Ratio](https://images.wondershare.com/filmora/article-images/change-video-aspect-ratio-filmora-auto-reframe.jpg)
 
 ##### Step3
@@ -458,474 +1092,9 @@ Once you choose the aspect ratio, click on the "Analyze" button. Filmora will Au
 
 Drag box to adjust the frame or to keep the object in it. It will automatically remove the content outside the box.
 
-![Drag Box](https://images.wondershare.com/filmora/article-images/adjust-frame-box-auto-reframe.jpg)
-
-##### Step3
-
-After completing adjustment or reframing, click on the "Export" button to save your video.
-
-Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save up.
-
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
-
-### Method 5: Change Aspect Ratio at Exporting
-
-You can save the clip to your system or smartphones, depending on your requirements. Upload them directly to Youtube or burn them into DVD by clicking on the "Export button." In this way you can watch on widescreen or standard TV whenever you want.
-
-![Upload or Burn by Clicking on Export Button](https://images.wondershare.com/filmora/article-images/output-format.jpg)
-
-**● Change Aspect Ratio for the Local Computer**
-
-First, you will see the "Local" tab. There you can save the clip in a particular aspect ratio to your system. You can see all resolutions with various aspect ratios after selecting the format. The output video depends on the media click resolution.
-
-**● Change Aspect Ratio for a Device**
-
-Change the "Device" tab to save the video in formats compatible with popular devices, including iPod, iPhone, PSP, iPad, etc. Once you choose the device, you will see all resolutions. Choose your favorite or the best resolution.
-
-The video quality will continue improving with higher resolutions. But it will also increase the size of the file.
-
-**● Change Aspect Ratio for YouTube**
-
-Go to the "YouTube" tab and fill in the information. Then, click the "Export" button. Selecting the aspect ratio again is not necessary. It will directly upload your videos to YouTube.
-
-**● Change Aspect Ratio for DVD TV**
-
-When you go to the "DVD" tab, you will notice various aspect ratio options. Switching the aspect ratio for TV from 4:3 to 16:9 is pretty straightforward. To do so, select what you think is right.
-
-## Conclusion
-
-**●** You can learn how to change the aspect ratio and use an image resize aspect ratio calculator from the tips mentioned above. Also, you will see different ways to change the aspect ratio in the Wondershare Filmora video editor.
-
-**●** You can use this tool to make changes on both social media platforms and your devices because it is an effective and reliable tool.
-
-02 [How to calculate aspect ratio online](#Part 2)
-
-03 [Popular Aspect Ratios for Social Media you Should Know](#Part 3)
-
-04 [How to Change Aspect Ratio for Videos and Photos?](#Part 4)
-
-## Part 1 What is aspect ratio
-
-Aspect ratio is a term that simply describes the proportional relationship of width with the height of your photo. It checks how wide the image is. It is not the image resolution; infact, it is the ratio of width to height.
-
-For instance, Movies at the theatre have a 16:9 aspect ratio. It has no relation to the image's quality or size. It just states that the width of a picture is almost twice the length.
-
-Most TV or computer screens have a 1.33:1 aspect. It means they are generally much closer to square as compared to big cinema screens. Therefore, modern TV sets have an option of widescreen.
-
-In this way, you can watch the movies closer to the original format, and there will be no cutting of the shots. The aspect ratio is a term that was first related to shapes and geometry, later adapter to still and moving images.
-
-You represent the aspect ratio for different shapes by x:y, but actual figures do not matter till the ratio is same. For instance, the aspect ratio of a rectangle is the ratio of its long side to the short side.
-
-## Part 2 How to calculate aspect ratio online
-
-If you need to resize a video or photo, it is essential to understand the aspect ratios. Moreover, with an aspect ratio calculator online, you can properly edit the image that fits the required parameters.
-
-You can check the image dimensions while resing by using this ratio calculator. Also, every image, canvas, digital video, responsive design and frame has a rectangular shape with precise proportions.
-
-Well-define the ratio to make shapes according to distinct and different mediums, like movies, computers, TV, or camera screens.
-
-## Part 3 Popular Aspect Ratios for Social Media you Should Know
-
-Having the right aspect ratio for social media is very important nowadays. But with different sites, it sometimes gets complicated. But from the tips mentioned below, you can learn the proper social media aspect ratios.
-
-![Social Media Aspect Ratios](https://images.wondershare.com/filmora/article-images/2021/change-aspect-ratio-online-1.jpg)
-
-### 1\. Facebook
-
-Facebook is one of the largest platforms with monthly 2.5 billion active users. It has a high content consumption rate each year. For best quality, you can use the following aspect ratios:
-
-**●** Landscape Video Dimensions- 1920 x 1080 (16:9)
-
-**●** Stories Dimensions- 1080 x 1920 (9:16)
-
-**●** Landscape Image Dimensions- 1200 x 630 (1.9:1)
-
-**●** Square Video/ Image Dimensions- 1080 x 1080 (1:1)
-
-**●** The minimum width for Portrait and Landscape is 600 pixels.
-
-### 2\. Instagram
-
-Instagram has almost 600 million accounts across the globe, making it a perfect place to share any content. The popular aspect ratio is 1:1 and 4:5 on Instagram. But the content on mobile looks different from the one you see on the system.
-
-**●** Landscape Dimensions- 1080 x 608 (1.91:1)
-
-**●** Stories Dimensions- 1080 x 1920 (9:16)
-
-**●** Portrait Dimensions-1080 x 1350 (4:5)
-
-**●** Square Dimensions- 1080 x 1080 (1:1)
-
-**●** IGTV Dimensions- 1920x 1080 (16:9)
-
-### 3\. Linkedin
-
-The dimensions of Linkedin are similar to Facebook. Therefore you can post the content easily on both platforms. Linkedin had around 20 million users, and simple dimensions for posting on a platform are:
-
-**●** Landscape Video Dimensions- 1920 x 1080 (16:9)
-
-**●** Square Video Dimensions- 1080 x 1080 (1:1)
-
-**●** Maximum Image Dimensions- 1104 x 736 (3:2)
-
-### 4\. Twitter
-
-Twitter has almost 330 million users worldwide. While posting on Twitter, it would be great to follow the mobile guidelines. The standard aspect ratio you can find on Twitter is a 2:1 that ensures the content does not get cropped.
-
-**●** Landscape Video Dimensions- 1280 x 720 (16:9)
-
-**●** Square Video Dimensions- 1024 x 1024 (1:1)
-
-**●** Maximum Image Dimensions- 1024 x 512 (2:1)
-
-**●** Minimum Image Dimensions- 440 x 220 (2:1)
-
-### 5\. Youtube
-
-Youtube is Google's most popular service, with 1.8 billion users per month. You can only see video content on youtube; therefore, it is different from other content-sharing platforms.
-
-**●** Maximum Dimensions- 3840 x 2160 (16:9)
-
-**●** Standard Dimensions- 1920 x 1080 (16:9)
-
-**●** Minimum Dimensions- 426 x 240 (16:9)
-
-**●** Minimum HD Dimensions-1280 x 720 (16:9)
-
-### 6\. Pinterest
-
-Pinterest has primarily image content. It has almost 322 million user accounts worldwide. The two essential aspect ratios are 1:1 and 2:3 as they all sit vertically.
-
-**●** Square Video Dimensions- 600 x 600 (1:1)
-
-**●** Portrait Video Dimensions- 600 x 900 (2:3)
-
-**●** Image Dimensions- 800 x 1200 (2:3)
-
-### 7\. Snapchat
-
-Snapchat has nearly 218 million user accounts making it an excellent content-sharing platform. As far as dimensions, it has a single aspect ratio of 9:16.
-
-**●** 480 x 720 (16:9 SD)
-
-**●** 540 x 960 (16:9 qHD)
-
-**●** 720 x 1280 (16:9 HD)
-
-**●** 1080 x 1920 (16:9 HD)
-
-**●** 1440 x 2560 (16:9 QHD)
-
-**●** 1800 x 3200 (16:9 QHD+)
-
-**●** 2160 x 3840 (16:9 4K)
-
-## Part 4 How to Change Aspect Ratio for Videos and Photos?
-
-It is important to learn the changing the aspect ratio for Videos or Photos. You can change the aspect ratio permanently using “Wondershare Filmora Video Editor.” It is one of the best and reliable editors that quickly changes or creates aspect ratios.
-
-Here are various methods to change the aspect ratio in Wondershare Filmora:
-
-#### Wondershare Filmora
-
-Change your video aspect ratio & Edit yout video in more creative ways!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![download](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-### Method 1: Change Aspect Ratio at the Starting Interface
-
-This tool allows you to change the aspect ratio when you launch the editor program. First, go to the drop-down menu button. Then, click on it to see various aspect ratios such as 16:9, 1:1, 4:3, 9:16, or 21:9.
-
-Choose the aspect ratio that you want by simply clicking on it.
-
-![Starting Interface](https://images.wondershare.com/filmora/article-images/change-aspect-ratio-at-filmora-start-interface.jpg)
-
-### Method 2: Change Aspect Ratio under Project Settings
-
-You can change the aspect ratio by clicking on the "Project Settings." You can decide the target aspect ratio based on the aspect ratio of the media source.
-
-For instance, if the aspect ratio of media source files is 4:3, select the standard aspect ratio of 4:3\. Then, media files with other aspect ratios will show black bars.
-
-In case of any discordance or if you want to change the aspect ratio, choose the proper ratio from project settings.
-
-![Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
-
-### Method 3: Change Aspect Ratio during Editing
-
-Even if after importing the videos or images into the Wondershare Filmora’s timeline, you can easily change the ratio from the Crop and Zoom tool.
-
-**●** Go to timeline and right-click on the video clip. Then, select "Crop and Zoom." You will see the pop-up window.
-
-**●** Click on 16:9, 4:3, 1:1, or 9:16 manually at the bottom if you like to change the video aspect ratio.
-
-**●** You can also manually enter the video aspect ratio. Next, click on the “Ok” button.
-
-![Crop and Zoom Tool](https://images.wondershare.com/filmora/article-images/crop-zoom-interface.jpg)
-
-After changing the aspect ratio, add background blur effects if you notice a black bar. It will enhance the video. You can also intensify your video by using filters, visual effects, overlays, or titles.
-
-![Video Enhancing](https://images.wondershare.com/filmora/article-images/background-blur-changing-aspect-ratio.jpg)
-
-### Method 4: Change the Aspect Ratio with Auto-Reframe
-
-If you use Filmora’s latest versions, you will notice Auto Reframe helps to change the aspect ratio. Other than cropping, it will find the object in clips and crop it automatically if needed.
-
-The following are steps to change the aspect ratio using the Auto-Reframe option:
-
-##### Step1
-
-Once you upload the video clips to the media library, right-click on it and choose the Auto-Reframe option.
-
-![Choose Auto-Reframe option](https://images.wondershare.com/filmora/article-images/convert-vertical-to-horizontal-auto-reframe-option.jpg)
-
-##### Step2
-
-You will see the Auto Reframe window appear on the screen. Replace the existing video with a new clip. Then, change the video aspect ratio and video motion speed. Make sure to change the aspect ratio that fits most with different social media platforms.
-
-![Select the Aspect Ratio](https://images.wondershare.com/filmora/article-images/change-video-aspect-ratio-filmora-auto-reframe.jpg)
-
-##### Step3
-
-Once you choose the aspect ratio, click on the "Analyze" button. Filmora will Auto-Reframe the video itself. Once the process completes, you can see results in the preview window.
-
-Drag box to adjust the frame or to keep the object in it. It will automatically remove the content outside the box.
-
-![Drag Box](https://images.wondershare.com/filmora/article-images/adjust-frame-box-auto-reframe.jpg)
-
-##### Step3
-
-After completing adjustment or reframing, click on the "Export" button to save your video.
-
-Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save up.
-
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
-
-### Method 5: Change Aspect Ratio at Exporting
-
-You can save the clip to your system or smartphones, depending on your requirements. Upload them directly to Youtube or burn them into DVD by clicking on the "Export button." In this way you can watch on widescreen or standard TV whenever you want.
-
-![Upload or Burn by Clicking on Export Button](https://images.wondershare.com/filmora/article-images/output-format.jpg)
-
-**● Change Aspect Ratio for the Local Computer**
-
-First, you will see the "Local" tab. There you can save the clip in a particular aspect ratio to your system. You can see all resolutions with various aspect ratios after selecting the format. The output video depends on the media click resolution.
-
-**● Change Aspect Ratio for a Device**
-
-Change the "Device" tab to save the video in formats compatible with popular devices, including iPod, iPhone, PSP, iPad, etc. Once you choose the device, you will see all resolutions. Choose your favorite or the best resolution.
-
-The video quality will continue improving with higher resolutions. But it will also increase the size of the file.
-
-**● Change Aspect Ratio for YouTube**
-
-Go to the "YouTube" tab and fill in the information. Then, click the "Export" button. Selecting the aspect ratio again is not necessary. It will directly upload your videos to YouTube.
-
-**● Change Aspect Ratio for DVD TV**
-
-When you go to the "DVD" tab, you will notice various aspect ratio options. Switching the aspect ratio for TV from 4:3 to 16:9 is pretty straightforward. To do so, select what you think is right.
-
-## Conclusion
-
-**●** You can learn how to change the aspect ratio and use an image resize aspect ratio calculator from the tips mentioned above. Also, you will see different ways to change the aspect ratio in the Wondershare Filmora video editor.
-
-**●** You can use this tool to make changes on both social media platforms and your devices because it is an effective and reliable tool.
-
-02 [How to calculate aspect ratio online](#Part 2)
-
-03 [Popular Aspect Ratios for Social Media you Should Know](#Part 3)
-
-04 [How to Change Aspect Ratio for Videos and Photos?](#Part 4)
-
-## Part 1 What is aspect ratio
-
-Aspect ratio is a term that simply describes the proportional relationship of width with the height of your photo. It checks how wide the image is. It is not the image resolution; infact, it is the ratio of width to height.
-
-For instance, Movies at the theatre have a 16:9 aspect ratio. It has no relation to the image's quality or size. It just states that the width of a picture is almost twice the length.
-
-Most TV or computer screens have a 1.33:1 aspect. It means they are generally much closer to square as compared to big cinema screens. Therefore, modern TV sets have an option of widescreen.
-
-In this way, you can watch the movies closer to the original format, and there will be no cutting of the shots. The aspect ratio is a term that was first related to shapes and geometry, later adapter to still and moving images.
-
-You represent the aspect ratio for different shapes by x:y, but actual figures do not matter till the ratio is same. For instance, the aspect ratio of a rectangle is the ratio of its long side to the short side.
-
-## Part 2 How to calculate aspect ratio online
-
-If you need to resize a video or photo, it is essential to understand the aspect ratios. Moreover, with an aspect ratio calculator online, you can properly edit the image that fits the required parameters.
-
-You can check the image dimensions while resing by using this ratio calculator. Also, every image, canvas, digital video, responsive design and frame has a rectangular shape with precise proportions.
-
-Well-define the ratio to make shapes according to distinct and different mediums, like movies, computers, TV, or camera screens.
-
-## Part 3 Popular Aspect Ratios for Social Media you Should Know
-
-Having the right aspect ratio for social media is very important nowadays. But with different sites, it sometimes gets complicated. But from the tips mentioned below, you can learn the proper social media aspect ratios.
-
-![Social Media Aspect Ratios](https://images.wondershare.com/filmora/article-images/2021/change-aspect-ratio-online-1.jpg)
-
-### 1\. Facebook
-
-Facebook is one of the largest platforms with monthly 2.5 billion active users. It has a high content consumption rate each year. For best quality, you can use the following aspect ratios:
-
-**●** Landscape Video Dimensions- 1920 x 1080 (16:9)
-
-**●** Stories Dimensions- 1080 x 1920 (9:16)
-
-**●** Landscape Image Dimensions- 1200 x 630 (1.9:1)
-
-**●** Square Video/ Image Dimensions- 1080 x 1080 (1:1)
-
-**●** The minimum width for Portrait and Landscape is 600 pixels.
-
-### 2\. Instagram
-
-Instagram has almost 600 million accounts across the globe, making it a perfect place to share any content. The popular aspect ratio is 1:1 and 4:5 on Instagram. But the content on mobile looks different from the one you see on the system.
-
-**●** Landscape Dimensions- 1080 x 608 (1.91:1)
-
-**●** Stories Dimensions- 1080 x 1920 (9:16)
-
-**●** Portrait Dimensions-1080 x 1350 (4:5)
-
-**●** Square Dimensions- 1080 x 1080 (1:1)
-
-**●** IGTV Dimensions- 1920x 1080 (16:9)
-
-### 3\. Linkedin
-
-The dimensions of Linkedin are similar to Facebook. Therefore you can post the content easily on both platforms. Linkedin had around 20 million users, and simple dimensions for posting on a platform are:
-
-**●** Landscape Video Dimensions- 1920 x 1080 (16:9)
-
-**●** Square Video Dimensions- 1080 x 1080 (1:1)
-
-**●** Maximum Image Dimensions- 1104 x 736 (3:2)
-
-### 4\. Twitter
-
-Twitter has almost 330 million users worldwide. While posting on Twitter, it would be great to follow the mobile guidelines. The standard aspect ratio you can find on Twitter is a 2:1 that ensures the content does not get cropped.
-
-**●** Landscape Video Dimensions- 1280 x 720 (16:9)
-
-**●** Square Video Dimensions- 1024 x 1024 (1:1)
-
-**●** Maximum Image Dimensions- 1024 x 512 (2:1)
-
-**●** Minimum Image Dimensions- 440 x 220 (2:1)
-
-### 5\. Youtube
-
-Youtube is Google's most popular service, with 1.8 billion users per month. You can only see video content on youtube; therefore, it is different from other content-sharing platforms.
-
-**●** Maximum Dimensions- 3840 x 2160 (16:9)
-
-**●** Standard Dimensions- 1920 x 1080 (16:9)
-
-**●** Minimum Dimensions- 426 x 240 (16:9)
-
-**●** Minimum HD Dimensions-1280 x 720 (16:9)
-
-### 6\. Pinterest
-
-Pinterest has primarily image content. It has almost 322 million user accounts worldwide. The two essential aspect ratios are 1:1 and 2:3 as they all sit vertically.
-
-**●** Square Video Dimensions- 600 x 600 (1:1)
-
-**●** Portrait Video Dimensions- 600 x 900 (2:3)
-
-**●** Image Dimensions- 800 x 1200 (2:3)
-
-### 7\. Snapchat
-
-Snapchat has nearly 218 million user accounts making it an excellent content-sharing platform. As far as dimensions, it has a single aspect ratio of 9:16.
-
-**●** 480 x 720 (16:9 SD)
-
-**●** 540 x 960 (16:9 qHD)
-
-**●** 720 x 1280 (16:9 HD)
-
-**●** 1080 x 1920 (16:9 HD)
-
-**●** 1440 x 2560 (16:9 QHD)
-
-**●** 1800 x 3200 (16:9 QHD+)
-
-**●** 2160 x 3840 (16:9 4K)
-
-## Part 4 How to Change Aspect Ratio for Videos and Photos?
-
-It is important to learn the changing the aspect ratio for Videos or Photos. You can change the aspect ratio permanently using “Wondershare Filmora Video Editor.” It is one of the best and reliable editors that quickly changes or creates aspect ratios.
-
-Here are various methods to change the aspect ratio in Wondershare Filmora:
-
-#### Wondershare Filmora
-
-Change your video aspect ratio & Edit yout video in more creative ways!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![download](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-### Method 1: Change Aspect Ratio at the Starting Interface
-
-This tool allows you to change the aspect ratio when you launch the editor program. First, go to the drop-down menu button. Then, click on it to see various aspect ratios such as 16:9, 1:1, 4:3, 9:16, or 21:9.
-
-Choose the aspect ratio that you want by simply clicking on it.
-
-![Starting Interface](https://images.wondershare.com/filmora/article-images/change-aspect-ratio-at-filmora-start-interface.jpg)
-
-### Method 2: Change Aspect Ratio under Project Settings
-
-You can change the aspect ratio by clicking on the "Project Settings." You can decide the target aspect ratio based on the aspect ratio of the media source.
-
-For instance, if the aspect ratio of media source files is 4:3, select the standard aspect ratio of 4:3\. Then, media files with other aspect ratios will show black bars.
-
-In case of any discordance or if you want to change the aspect ratio, choose the proper ratio from project settings.
-
-![Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
-
-### Method 3: Change Aspect Ratio during Editing
-
-Even if after importing the videos or images into the Wondershare Filmora’s timeline, you can easily change the ratio from the Crop and Zoom tool.
-
-**●** Go to timeline and right-click on the video clip. Then, select "Crop and Zoom." You will see the pop-up window.
-
-**●** Click on 16:9, 4:3, 1:1, or 9:16 manually at the bottom if you like to change the video aspect ratio.
-
-**●** You can also manually enter the video aspect ratio. Next, click on the “Ok” button.
-
-![Crop and Zoom Tool](https://images.wondershare.com/filmora/article-images/crop-zoom-interface.jpg)
-
-After changing the aspect ratio, add background blur effects if you notice a black bar. It will enhance the video. You can also intensify your video by using filters, visual effects, overlays, or titles.
-
-![Video Enhancing](https://images.wondershare.com/filmora/article-images/background-blur-changing-aspect-ratio.jpg)
-
-### Method 4: Change the Aspect Ratio with Auto-Reframe
-
-If you use Filmora’s latest versions, you will notice Auto Reframe helps to change the aspect ratio. Other than cropping, it will find the object in clips and crop it automatically if needed.
-
-The following are steps to change the aspect ratio using the Auto-Reframe option:
-
-##### Step1
-
-Once you upload the video clips to the media library, right-click on it and choose the Auto-Reframe option.
-
-![Choose Auto-Reframe option](https://images.wondershare.com/filmora/article-images/convert-vertical-to-horizontal-auto-reframe-option.jpg)
-
-##### Step2
-
-You will see the Auto Reframe window appear on the screen. Replace the existing video with a new clip. Then, change the video aspect ratio and video motion speed. Make sure to change the aspect ratio that fits most with different social media platforms.
-
-![Select the Aspect Ratio](https://images.wondershare.com/filmora/article-images/change-video-aspect-ratio-filmora-auto-reframe.jpg)
-
-##### Step3
-
-Once you choose the aspect ratio, click on the "Analyze" button. Filmora will Auto-Reframe the video itself. Once the process completes, you can see results in the preview window.
-
-Drag box to adjust the frame or to keep the object in it. It will automatically remove the content outside the box.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Drag Box](https://images.wondershare.com/filmora/article-images/adjust-frame-box-auto-reframe.jpg)
 
 ##### Step3
@@ -988,3 +1157,50 @@ When you go to the "DVD" tab, you will notice various aspect ratio options. Swit
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-a-brief-guide-to-kickstarting-conversations-on-instagram/"><u>[New] 2024 Approved  A Brief Guide to Kickstarting Conversations on Instagram</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-optimize-instagram-posts-with-smart-hashtag-selection-tactics/"><u>[New] 2024 Approved  Optimize Instagram Posts with Smart Hashtag Selection Tactics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-complete-breakdown-of-game-capture-in-overwatch/"><u>[New] 2024 Approved  The Complete Breakdown of Game Capture in Overwatch</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-effortless-engagement-how-to-craft-a-direct-subscribe-link/"><u>[New] Effortless Engagement  How to Craft a Direct Subscribe Link</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leverage-canva-design-top-10-stealthy-methods-revealed/"><u>[New] Leverage Canva Design  Top 10 Stealthy Methods Revealed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-the-art-of-livestreaming-three-key-approaches-subscriber-less-style/"><u>[New] Master the Art of Livestreaming  Three Key Approaches, Subscriber-Less Style</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-world-of-elite-hdr-camera-choices/"><u>[New] Navigating the World of Elite HDR Camera Choices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-next-gen-spaceholders-unveiling-the-quintessential-cloud-providers/"><u>[New] Next-Gen Spaceholders  Unveiling the Quintessential Cloud Providers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-reestablishing-communication-with-a-non-responsive-obs-cam/"><u>[New] Reestablishing Communication with a Non-Responsive OBS Cam</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-streaming-tips-for-uninterrupted-broadcasts/"><u>[New] Seamless Streaming  Tips for Uninterrupted Broadcasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-start-editing-with-ease-implementing-movie-maker-in-windows-11/"><u>[New] Start Editing with Ease  Implementing Movie Maker in Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-mastery-windows-11-media-import-simplified/"><u>[New] Step-by-Step Mastery  Windows 11 Media Import Simplified</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-securely-download-vimeo-videos-a-comprehensive-softwares-approach/"><u>[Updated] 2024 Approved  Securely Download Vimeo Videos  A Comprehensive Softwares Approach</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-elevating-your-webinar-footage-with-best-practices/"><u>[Updated] Elevating Your Webinar Footage with Best Practices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-strategies-for-online-video-photo-effects-implementation/"><u>[Updated] Ideal Strategies for Online Video Photo Effects Implementation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimizing-video-posts-with-flawless-srt-file-integration-tactics/"><u>[Updated] Optimizing Video Posts with Flawless SRT File Integration Tactics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfect-sharpness-control-on-photos-with-pcmobile/"><u>[Updated] Perfect Sharpness Control on Photos with PC/Mobile</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photo-frenzy-stories-of-popularity/"><u>[Updated] Photo Frenzy  Stories of Popularity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-guide-applying-on-screen-captions-to-photos-videos/"><u>[Updated] Quick Guide  Applying On-Screen Captions to Photos Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-integration-of-movies-and-animations-using-movie-maker/"><u>[Updated] Seamless Integration of Movies and Animations Using Movie Maker</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-skyline-design-studio-evaluation-insightful-review-for-the-year/"><u>[Updated] Skyline Design Studio Evaluation  Insightful Review for the Year</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-spy-on-fb-chronicles-discreetly/"><u>[Updated] Spy on FB Chronicles Discreetly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-faces-of-technology-analyzing-face-detection-in-phones/"><u>2024 Approved  Faces of Technology  Analyzing Face Detection in Phones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-premiere-pros-art-free-template-pack-2023/"><u>2024 Approved  Master Premiere Pro's Art  Free Template Pack 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-gopros-charged-time-span/"><u>2024 Approved  Maximizing GoPro's Charged Time Span</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-panoramic-viewpoint-gear-for-vr/"><u>2024 Approved  Panoramic Viewpoint Gear for VR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photo-editing-achieving-focus-with-distortions/"><u>2024 Approved  Photo Editing  Achieving Focus with Distortions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-vhs-inspired-tricks-for-editing-excellence/"><u>2024 Approved  Premier VHS-Inspired Tricks for Editing Excellence</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-real-reviews-real-results-in-branding/"><u>2024 Approved  Real Reviews, Real Results in Branding</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-refine-your-images-quickly-freepaid-lut-options-for-canon/"><u>2024 Approved  Refine Your Images Quickly - Free/Paid LUT Options for Canon</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-text-magic-for-striking-video-scenes/"><u>In 2024, Perfect Text Magic for Striking Video Scenes</u></a></li>
+<li><a href="https://facebook.techidaily.com/journey-through-sonic-emojis-on-messenger/"><u>Journey Through Sonic Emojis on Messenger</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-spots-for-stunning-3d-metallic-type-creations-for-2024/"><u>Leading Spots for Stunning 3D Metallic Type Creations for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/luxury-sedan-sj4000s-best-kept-secrets-gear-up-for-2024/"><u>Luxury Sedan SJ4000's Best-Kept Secrets  Gear Up for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/metaverses-versus-omniverse-unveiled-for-2024/"><u>Metaverses Versus Omniverse Unveiled for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/picture-in-picture-pro-optimizing-your-viewing-with-netflixs-floating-window-feature-for-2024/"><u>Picture-in-Picture Pro  Optimizing Your Viewing with Netflix's Floating Window Feature for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/simplify-information-storage-via-mematic-for-2024/"><u>Simplify Information Storage via Mematic for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/speech-to-text-perfectionism-unleash-with-google-ai/"><u>Speech-to-Text Perfectionism  Unleash with Google AI</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-oculus-vr-ultimate-player-reviews-for-2024/"><u>Top Oculus VR  Ultimate Player Reviews for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformative-techniques-podcast-covers-reimagined-for-2024/"><u>Transformative Techniques  Podcast Covers Reimagined for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-compilation-ringtone-renaissance-sites-for-2024/"><u>Ultimate Compilation  Ringtone Renaissance Sites for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-narzo-60-pro-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Narzo 60 Pro 5G.</u></a></li>
+</ul></div>

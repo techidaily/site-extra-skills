@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigate Like a Pro with Top WINDOWS 10 Hacks"
-date: 2024-05-31T07:36:34.855Z
-updated: 2024-06-01T07:36:34.855Z
+date: 2024-07-31T05:43:28.219Z
+updated: 2024-08-01T05:43:28.219Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ The start menu of Windows 10 is now resizable. It can be quote odd for many but 
 
 #### 2. Using Cortana in Windows 10
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
@@ -46,6 +50,9 @@ While you are poking around the Cortana’s options, you may dive in the Noteboo
 
 #### 3. Additional Apps you should try
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![xbox games windows10](https://images.wondershare.com/windows10/xboy-games-windows10-1.png)
 
 The current Windows 10’s preview comes with some interesting apps like the new Xbox app, Insider Hub, Project Spartan web browser, Windows Feedback and a lot more. Though they are good apps to use when you want to get started in using Windows 10, Microsoft is likewise making available the preview of touch-friendly editions of Microsoft Word, Excel as well as the PowerPoint. All of these are known to be universal apps and that means similar code is running on the phones, PCs and tablets.
@@ -76,10 +83,186 @@ This is quite simple yet most people make use of the very capable contemporary e
 
 #### 7. New Edge Browser
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![edge](https://images.wondershare.com/filmora/article-images/edge.jpg)
 
 Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
 
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Windows is nowhere to rock the world! If you are so excited about updating your software but you are not sure how to get started, you have come to the right page. Here are the biggest tips and tricks that you can use to enjoy the hidden features brought to you by Windows 10:
+
+#### 1. Personalize the Start Menu
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
+![a8](https://images.wondershare.com/windows10/a8.png)
+
+The start menu of Windows 10 is now resizable. It can be quote odd for many but it is really surprising to know that with Windows 10, you can now customize the start menu and change its size to the extent you want. You now have the option to make it taller or wider as you like. If you wish to have the start menu taking up the whole left portion of the screen of your laptop or you want a thin strip transversely the taskbar, well that is now possible with Windows 10\. The taskbar is also resizable and that means you have the ability to some weird and pretty cool stuff with your device. You will surely find that having a resizable Start Menu is cool.
+
+#### 2. Using Cortana in Windows 10
+
+![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
+
+Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
+
+If you would like to have the ability to simply bark commands at your personal computer, you launch Cortana through hitting the search field within the taskbar and then choose the Notebook icon in the left side choices pane. You choose “settings” from the list and have the “Let Cortana respond when you say ‘Hey Cortana’” choice. You will have an active and working microphone for it to work.
+
+While you are poking around the Cortana’s options, you may dive in the Notebook menu so you can fine-tune exactly what data the digital assistant of Microsoft can open. On the other hand, you should bear in mind that like Google, the effectiveness of Cortana is related directly to how much it knows regarding you.
+
+#### 3. Additional Apps you should try
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+![xbox games windows10](https://images.wondershare.com/windows10/xboy-games-windows10-1.png)
+
+The current Windows 10’s preview comes with some interesting apps like the new Xbox app, Insider Hub, Project Spartan web browser, Windows Feedback and a lot more. Though they are good apps to use when you want to get started in using Windows 10, Microsoft is likewise making available the preview of touch-friendly editions of Microsoft Word, Excel as well as the PowerPoint. All of these are known to be universal apps and that means similar code is running on the phones, PCs and tablets.
+
+On the other hand, Microsoft did not release similar apps that are optimized for tablets and phones as of now. These apps don’t come with Windows 10 yet you may download the new apps through the Store. Microsoft will also release the Music Preview and also the Video Preview applications. These apps are designed to replace the present Video and Music apps in Windows 8.1\. These two will be introducing a brand new look which complements the design that Microsoft tries to implement across different apps all over the OS.
+
+#### 4. New Keyboard Shortcuts
+
+![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
+
+Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
+
+Windows Key-Tab open and leaves open the new task view to show all the running and working programs as well as the virtual desktops. To make the latest virtual desktop, you can use the Windows Key-Ctrl-D. Windows Key-C will get Cortana listening and following your voice input then the Windows Key-S will open its daily glance to showcase the weather, news and sports. Command the line users to obtain a bunch of new selection shortcuts by using the keys Shift and the Arrow keys.
+
+#### 5. Using Virtual Desktop Feature
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![taskview](https://images.wondershare.com/filmora/article-images/taskview.jpg)
+
+Virtual desktops are among the most favorites of most Windows users and it is one of the coolest features of the new Windows 10\. You could move programs between a virtual desktop & another. To make it happen, when you are running different desktops, you proceed to Task View through pressing the Windows Key-Tab combo. You right click the app you want to transfer from a virtual desktop to the other, choose “Move To” and then you move the app to the desktop where it should go.
+
+With Windows 10, it is now easy to create several desktops as well as run applications from each, so every desktop is showing only those apps that are running in a particular virtual desktop. In case that you do not want to make use of this feature, you may simply remove the “Task View” button.
+
+#### 6. New Mail App
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+![a7](https://images.wondershare.com/windows10/a7.png)
+
+This is quite simple yet most people make use of the very capable contemporary email client that has been included in the latest editions of Windows. The email client that has been included in Windows 10 now comes with collapsible conversation view and email preview panel. Plus, it integrates the buttons for new contact and calendar apps. You could simply add different mail accounts from various providers.
+
+#### 7. New Edge Browser
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
+![edge](https://images.wondershare.com/filmora/article-images/edge.jpg)
+
+Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Windows is nowhere to rock the world! If you are so excited about updating your software but you are not sure how to get started, you have come to the right page. Here are the biggest tips and tricks that you can use to enjoy the hidden features brought to you by Windows 10:
+
+#### 1. Personalize the Start Menu
+
+![a8](https://images.wondershare.com/windows10/a8.png)
+
+The start menu of Windows 10 is now resizable. It can be quote odd for many but it is really surprising to know that with Windows 10, you can now customize the start menu and change its size to the extent you want. You now have the option to make it taller or wider as you like. If you wish to have the start menu taking up the whole left portion of the screen of your laptop or you want a thin strip transversely the taskbar, well that is now possible with Windows 10\. The taskbar is also resizable and that means you have the ability to some weird and pretty cool stuff with your device. You will surely find that having a resizable Start Menu is cool.
+
+#### 2. Using Cortana in Windows 10
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
+![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
+
+Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
+
+If you would like to have the ability to simply bark commands at your personal computer, you launch Cortana through hitting the search field within the taskbar and then choose the Notebook icon in the left side choices pane. You choose “settings” from the list and have the “Let Cortana respond when you say ‘Hey Cortana’” choice. You will have an active and working microphone for it to work.
+
+While you are poking around the Cortana’s options, you may dive in the Notebook menu so you can fine-tune exactly what data the digital assistant of Microsoft can open. On the other hand, you should bear in mind that like Google, the effectiveness of Cortana is related directly to how much it knows regarding you.
+
+#### 3. Additional Apps you should try
+
+![xbox games windows10](https://images.wondershare.com/windows10/xboy-games-windows10-1.png)
+
+The current Windows 10’s preview comes with some interesting apps like the new Xbox app, Insider Hub, Project Spartan web browser, Windows Feedback and a lot more. Though they are good apps to use when you want to get started in using Windows 10, Microsoft is likewise making available the preview of touch-friendly editions of Microsoft Word, Excel as well as the PowerPoint. All of these are known to be universal apps and that means similar code is running on the phones, PCs and tablets.
+
+On the other hand, Microsoft did not release similar apps that are optimized for tablets and phones as of now. These apps don’t come with Windows 10 yet you may download the new apps through the Store. Microsoft will also release the Music Preview and also the Video Preview applications. These apps are designed to replace the present Video and Music apps in Windows 8.1\. These two will be introducing a brand new look which complements the design that Microsoft tries to implement across different apps all over the OS.
+
+#### 4. New Keyboard Shortcuts
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
+
+Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
+
+Windows Key-Tab open and leaves open the new task view to show all the running and working programs as well as the virtual desktops. To make the latest virtual desktop, you can use the Windows Key-Ctrl-D. Windows Key-C will get Cortana listening and following your voice input then the Windows Key-S will open its daily glance to showcase the weather, news and sports. Command the line users to obtain a bunch of new selection shortcuts by using the keys Shift and the Arrow keys.
+
+#### 5. Using Virtual Desktop Feature
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+![taskview](https://images.wondershare.com/filmora/article-images/taskview.jpg)
+
+Virtual desktops are among the most favorites of most Windows users and it is one of the coolest features of the new Windows 10\. You could move programs between a virtual desktop & another. To make it happen, when you are running different desktops, you proceed to Task View through pressing the Windows Key-Tab combo. You right click the app you want to transfer from a virtual desktop to the other, choose “Move To” and then you move the app to the desktop where it should go.
+
+With Windows 10, it is now easy to create several desktops as well as run applications from each, so every desktop is showing only those apps that are running in a particular virtual desktop. In case that you do not want to make use of this feature, you may simply remove the “Task View” button.
+
+#### 6. New Mail App
+
+![a7](https://images.wondershare.com/windows10/a7.png)
+
+This is quite simple yet most people make use of the very capable contemporary email client that has been included in the latest editions of Windows. The email client that has been included in Windows 10 now comes with collapsible conversation view and email preview panel. Plus, it integrates the buttons for new contact and calendar apps. You could simply add different mail accounts from various providers.
+
+#### 7. New Edge Browser
+
+![edge](https://images.wondershare.com/filmora/article-images/edge.jpg)
+
+Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -120,6 +303,9 @@ On the other hand, Microsoft did not release similar apps that are optimized for
 
 #### 4. New Keyboard Shortcuts
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
 
 Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
@@ -142,142 +328,17 @@ This is quite simple yet most people make use of the very capable contemporary e
 
 #### 7. New Edge Browser
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edge](https://images.wondershare.com/filmora/article-images/edge.jpg)
 
 Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-Windows is nowhere to rock the world! If you are so excited about updating your software but you are not sure how to get started, you have come to the right page. Here are the biggest tips and tricks that you can use to enjoy the hidden features brought to you by Windows 10:
-
-#### 1. Personalize the Start Menu
-
-![a8](https://images.wondershare.com/windows10/a8.png)
-
-The start menu of Windows 10 is now resizable. It can be quote odd for many but it is really surprising to know that with Windows 10, you can now customize the start menu and change its size to the extent you want. You now have the option to make it taller or wider as you like. If you wish to have the start menu taking up the whole left portion of the screen of your laptop or you want a thin strip transversely the taskbar, well that is now possible with Windows 10\. The taskbar is also resizable and that means you have the ability to some weird and pretty cool stuff with your device. You will surely find that having a resizable Start Menu is cool.
-
-#### 2. Using Cortana in Windows 10
-
-![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
-
-Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
-
-If you would like to have the ability to simply bark commands at your personal computer, you launch Cortana through hitting the search field within the taskbar and then choose the Notebook icon in the left side choices pane. You choose “settings” from the list and have the “Let Cortana respond when you say ‘Hey Cortana’” choice. You will have an active and working microphone for it to work.
-
-While you are poking around the Cortana’s options, you may dive in the Notebook menu so you can fine-tune exactly what data the digital assistant of Microsoft can open. On the other hand, you should bear in mind that like Google, the effectiveness of Cortana is related directly to how much it knows regarding you.
-
-#### 3. Additional Apps you should try
-
-![xbox games windows10](https://images.wondershare.com/windows10/xboy-games-windows10-1.png)
-
-The current Windows 10’s preview comes with some interesting apps like the new Xbox app, Insider Hub, Project Spartan web browser, Windows Feedback and a lot more. Though they are good apps to use when you want to get started in using Windows 10, Microsoft is likewise making available the preview of touch-friendly editions of Microsoft Word, Excel as well as the PowerPoint. All of these are known to be universal apps and that means similar code is running on the phones, PCs and tablets.
-
-On the other hand, Microsoft did not release similar apps that are optimized for tablets and phones as of now. These apps don’t come with Windows 10 yet you may download the new apps through the Store. Microsoft will also release the Music Preview and also the Video Preview applications. These apps are designed to replace the present Video and Music apps in Windows 8.1\. These two will be introducing a brand new look which complements the design that Microsoft tries to implement across different apps all over the OS.
-
-#### 4. New Keyboard Shortcuts
-
-![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
-
-Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
-
-Windows Key-Tab open and leaves open the new task view to show all the running and working programs as well as the virtual desktops. To make the latest virtual desktop, you can use the Windows Key-Ctrl-D. Windows Key-C will get Cortana listening and following your voice input then the Windows Key-S will open its daily glance to showcase the weather, news and sports. Command the line users to obtain a bunch of new selection shortcuts by using the keys Shift and the Arrow keys.
-
-#### 5. Using Virtual Desktop Feature
-
-![taskview](https://images.wondershare.com/filmora/article-images/taskview.jpg)
-
-Virtual desktops are among the most favorites of most Windows users and it is one of the coolest features of the new Windows 10\. You could move programs between a virtual desktop & another. To make it happen, when you are running different desktops, you proceed to Task View through pressing the Windows Key-Tab combo. You right click the app you want to transfer from a virtual desktop to the other, choose “Move To” and then you move the app to the desktop where it should go.
-
-With Windows 10, it is now easy to create several desktops as well as run applications from each, so every desktop is showing only those apps that are running in a particular virtual desktop. In case that you do not want to make use of this feature, you may simply remove the “Task View” button.
-
-#### 6. New Mail App
-
-![a7](https://images.wondershare.com/windows10/a7.png)
-
-This is quite simple yet most people make use of the very capable contemporary email client that has been included in the latest editions of Windows. The email client that has been included in Windows 10 now comes with collapsible conversation view and email preview panel. Plus, it integrates the buttons for new contact and calendar apps. You could simply add different mail accounts from various providers.
-
-#### 7. New Edge Browser
-
-![edge](https://images.wondershare.com/filmora/article-images/edge.jpg)
-
-Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-Windows is nowhere to rock the world! If you are so excited about updating your software but you are not sure how to get started, you have come to the right page. Here are the biggest tips and tricks that you can use to enjoy the hidden features brought to you by Windows 10:
-
-#### 1. Personalize the Start Menu
-
-![a8](https://images.wondershare.com/windows10/a8.png)
-
-The start menu of Windows 10 is now resizable. It can be quote odd for many but it is really surprising to know that with Windows 10, you can now customize the start menu and change its size to the extent you want. You now have the option to make it taller or wider as you like. If you wish to have the start menu taking up the whole left portion of the screen of your laptop or you want a thin strip transversely the taskbar, well that is now possible with Windows 10\. The taskbar is also resizable and that means you have the ability to some weird and pretty cool stuff with your device. You will surely find that having a resizable Start Menu is cool.
-
-#### 2. Using Cortana in Windows 10
-
-![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
-
-Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
-
-If you would like to have the ability to simply bark commands at your personal computer, you launch Cortana through hitting the search field within the taskbar and then choose the Notebook icon in the left side choices pane. You choose “settings” from the list and have the “Let Cortana respond when you say ‘Hey Cortana’” choice. You will have an active and working microphone for it to work.
-
-While you are poking around the Cortana’s options, you may dive in the Notebook menu so you can fine-tune exactly what data the digital assistant of Microsoft can open. On the other hand, you should bear in mind that like Google, the effectiveness of Cortana is related directly to how much it knows regarding you.
-
-#### 3. Additional Apps you should try
-
-![xbox games windows10](https://images.wondershare.com/windows10/xboy-games-windows10-1.png)
-
-The current Windows 10’s preview comes with some interesting apps like the new Xbox app, Insider Hub, Project Spartan web browser, Windows Feedback and a lot more. Though they are good apps to use when you want to get started in using Windows 10, Microsoft is likewise making available the preview of touch-friendly editions of Microsoft Word, Excel as well as the PowerPoint. All of these are known to be universal apps and that means similar code is running on the phones, PCs and tablets.
-
-On the other hand, Microsoft did not release similar apps that are optimized for tablets and phones as of now. These apps don’t come with Windows 10 yet you may download the new apps through the Store. Microsoft will also release the Music Preview and also the Video Preview applications. These apps are designed to replace the present Video and Music apps in Windows 8.1\. These two will be introducing a brand new look which complements the design that Microsoft tries to implement across different apps all over the OS.
-
-#### 4. New Keyboard Shortcuts
-
-![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
-
-Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
-
-Windows Key-Tab open and leaves open the new task view to show all the running and working programs as well as the virtual desktops. To make the latest virtual desktop, you can use the Windows Key-Ctrl-D. Windows Key-C will get Cortana listening and following your voice input then the Windows Key-S will open its daily glance to showcase the weather, news and sports. Command the line users to obtain a bunch of new selection shortcuts by using the keys Shift and the Arrow keys.
-
-#### 5. Using Virtual Desktop Feature
-
-![taskview](https://images.wondershare.com/filmora/article-images/taskview.jpg)
-
-Virtual desktops are among the most favorites of most Windows users and it is one of the coolest features of the new Windows 10\. You could move programs between a virtual desktop & another. To make it happen, when you are running different desktops, you proceed to Task View through pressing the Windows Key-Tab combo. You right click the app you want to transfer from a virtual desktop to the other, choose “Move To” and then you move the app to the desktop where it should go.
-
-With Windows 10, it is now easy to create several desktops as well as run applications from each, so every desktop is showing only those apps that are running in a particular virtual desktop. In case that you do not want to make use of this feature, you may simply remove the “Task View” button.
-
-#### 6. New Mail App
-
-![a7](https://images.wondershare.com/windows10/a7.png)
-
-This is quite simple yet most people make use of the very capable contemporary email client that has been included in the latest editions of Windows. The email client that has been included in Windows 10 now comes with collapsible conversation view and email preview panel. Plus, it integrates the buttons for new contact and calendar apps. You could simply add different mail accounts from various providers.
-
-#### 7. New Edge Browser
-
-![edge](https://images.wondershare.com/filmora/article-images/edge.jpg)
-
-Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -308,3 +369,66 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-7-energizing-youtube-exercise-challenges-for-viewers-participation/"><u>[New] 2024 Approved  7 Energizing YouTube Exercise Challenges for Viewers' Participation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastering-the-art-of-eye-catching-fb-ad-content/"><u>[New] 2024 Approved  Mastering the Art of Eye-Catching FB Ad Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-two-ways-to-keep-your-insta-reels-accessible-anytime/"><u>[New] 2024 Approved  Two Ways to Keep Your Insta Reels Accessible Anytime</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-explore-the-ultimate-list-of-free-youtube-channel-starters-for-2024/"><u>[New] Explore the Ultimate List of Free YouTube Channel Starters for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-reels-expertise-from-a-ninja-perspective/"><u>[New] In 2024, Instagram Reels  Expertise From a Ninja Perspective</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-seamless-integration-getting-snapchat-on-macos/"><u>[New] In 2024, Seamless Integration  Getting Snapchat on macOS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-leveraging-dual-screen-capabilities-to-boost-your-facebook-presence/"><u>[New] Leveraging Dual-Screen Capabilities to Boost Your Facebook Presence</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-listeners-crossroads-podcasts-versus-youtube-for-your-favorite-content/"><u>[New] Listeners' Crossroads  Podcasts versus YouTube for Your Favorite Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-long-term-stability-of-syma-x8c/"><u>[New] Long-Term Stability of Syma X8C</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-panoramic-viewpoint-gear-for-vr/"><u>[New] Panoramic Viewpoint Gear for VR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-sonic-connector-a-casters-companion/"><u>[New] Seamless Sonic Connector  A Caster's Companion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-time-stamp-integration-on-youtube-videos/"><u>[New] Seamless Time-Stamp Integration on YouTube Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ecure-steps-for-skyrocketing-video-engagement-a-million-wins-strategy-for-2024/"><u>[New] Secure Steps for Skyrocketing Video Engagement  A Million Wins Strategy for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-setting-up-your-first-zoom-call-on-android/"><u>[New] Setting Up Your First Zoom Call on Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-pick-unlimited-valorant-sound-transformation-tool-free/"><u>[New] Top Pick  Unlimited Valorant Sound Transformation Tool (Free)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-fast-and-furious-the-prime-5-video-clipping-tools-in-chromes/"><u>[Updated] In 2024, Fast & Furious  The Prime 5 Video Clipping Tools in Chromes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-memetic-masterpieces-behind-the-scenes/"><u>[Updated] Memetic Masterpieces  Behind the Scenes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-mkv-deck-for-pcandroid-users/"><u>[Updated] Prime MKV Deck for PC/Android Users</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-step-up-your-video-game-expert-endorsed-cost-free-intro-creators-for-2024/"><u>[Updated] Step Up Your Video Game  Expert-Endorsed, Cost-Free Intro Creators for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-integrating-microsofts-azure-transcription-service-in-code/"><u>2024 Approved  Integrating Microsoft's Azure Transcription Service in Code</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-iphone-guide-jpegpng-to-pdf-conversion-techniques/"><u>2024 Approved  IPhone Guide  JPEG/PNG to PDF Conversion Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-brands-offering-the-best-steadicams-for-dslr-users/"><u>2024 Approved  Leading Brands Offering the Best Steadicams for DSLR Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-mobile-video-viewing-top-10-hd-players-on-android/"><u>2024 Approved  Mastering Mobile Video Viewing  Top 10 HD Players on Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-videos-top-windows-phones-video-apps/"><u>2024 Approved  Mastering Videos  Top Windows Phones Video Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-metaverse-vs-multiverse-what-are-the-differences-complete-guide/"><u>2024 Approved  Metaverse Vs. Multiverse  What Are the Differences [Complete Guide]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-acquisition-of-stock-video-backgrounds/"><u>2024 Approved  Navigating the Acquisition of Stock Video Backgrounds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-settings-for-watching-nba-live-streams/"><u>2024 Approved  Optimal Settings for Watching NBA LIVE STREAMs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pinnacle-payload-pilots-drone-superlatives/"><u>2024 Approved  Pinnacle Payload Pilots  Drone Superlatives</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-protective-phone-cases-with-screen-shields/"><u>2024 Approved  Protective Phone Cases with Screen Shields</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-asus-frp-bypass-by-drfone-android/"><u>About Asus FRP Bypass</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/essential-steps-in-making-impactful-fb-cover-videos-for-2024/"><u>Essential Steps in Making Impactful FB Cover Videos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-get-a-handful-of-personalized-endings-at-zip/"><u>In 2024, Get a Handful of Personalized Endings, at Zip</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-honor-magic-6-promirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Honor Magic 6 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-10-proplus-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 10 Pro+ 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leveraging-time-stamps-for-enhanced-video-clarity-on-youtube/"><u>In 2024, Leveraging Time Stamps for Enhanced Video Clarity on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-art-of-visual-storytelling-with-top-text-techniques/"><u>In 2024, Master the Art of Visual Storytelling with Top Text Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-5-ios-backdrop-change-applications-for-iphones-x-8-7/"><u>In 2024, Premier 5 iOS Backdrop Change Applications for iPhones (X, 8, 7)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-splendid-review-and-different-selections/"><u>In 2024, Splendid Review & Different Selections</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-moto-g84-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola Moto G84 5G FRP Bypass</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-look-the-tech-behind-m1-max-clip-for-2024/"><u>Inside Look  The Tech Behind M1 Max Clip for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-guide-to-achieving-stunning-hdr-photos-for-2024/"><u>IPhone Guide to Achieving Stunning HDR Photos for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-your-iphone-sending-messages-as-text-indicating-that-you-have-been-blocked/"><u>Is Your iPhone Sending Messages as Text Indicating That You Have Been Blocked?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterclass-review-of-androids-adobe-lightroom-for-2024/"><u>Masterclass Review of Android's Adobe Lightroom for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-slow-motion-capture-with-android-a-beginners-guide-for-2024/"><u>Mastering Slow-Motion Capture with Android  A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterpieces-revealed-topping-20-anime-themes-for-2024/"><u>Masterpieces Revealed  Topping 20 Anime Themes for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximizing-iphones-capabilities-for-stunning-landscape-pics-for-2024/"><u>Maximizing iPhone's Capabilities for Stunning Landscape Pics for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/microsoft-unveils-hololens-the-augmented-reality-evolution-for-2024/"><u>Microsoft Unveils HoloLens  The Augmented Reality Evolution for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/moviemakerpro-insights-full-analysis-for-2024/"><u>MovieMakerPro Insights – Full Analysis for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/nightly-serenity-with-asmr-top-choices-to-listen-to-for-2024/"><u>Nightly Serenity with ASMR  Top Choices to Listen To for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-aging-strategy-edit-and-confirm-on-tiktok-for-2024/"><u>Optimal Aging Strategy  Edit and Confirm On TikTok for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-webcam-recommendations-for-smooth-zoom-sessions-for-2024/"><u>Premium Webcam Recommendations for Smooth Zoom Sessions for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-tips-for-quality-animation-in-movie-maker-for-2024/"><u>Quick Tips for Quality Animation in Movie Maker for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/securing-a-seamless-srt-upload-experience-on-social-networks-for-2024/"><u>Securing a Seamless SRT Upload Experience on Social Networks for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sleepy-story-vids-assessment-and-overview-for-2024/"><u>Sleepy Story Vids  Assessment & Overview for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/telepathy-through-tech-healthcare-reimagined-for-2024/"><u>Telepathy Through Tech  Healthcare Reimagined for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/triple-boost-for-better-window-graphics/"><u>Triple Boost for Better Window Graphics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unshackling-third-party-vendors-from-defender-constraints/"><u>Unshackling Third-Party Vendors From Defender Constraints</u></a></li>
+</ul></div>

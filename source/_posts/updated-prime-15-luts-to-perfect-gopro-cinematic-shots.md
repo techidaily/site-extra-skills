@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Prime 15 LUTs to Perfect GoPro Cinematic Shots"
-date: 2024-05-31T07:36:38.894Z
-updated: 2024-06-01T07:36:38.894Z
+date: 2024-07-31T05:48:00.059Z
+updated: 2024-08-01T05:48:00.059Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Prime 15 LUTs to Perfect GoPro Cinematic Shots"
 excerpt: "This Article Describes [Updated] Prime 15 LUTs to Perfect GoPro Cinematic Shots"
 keywords: "\"GoPro Cinematic Shots LUTs,Prime 15 LUTs for GoPro Videos,Enhancing GoPro with Prime 15 LUTs,Perfecting Cinematography,GoPro Images: Using Prime 15 LUTs,Prime 15 LUTs for GoPro Cinematic,Sharper GoPro Videos with Prime 15 LUTs\""
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## Prime 15 LUTs to Perfect GoPro Cinematic Shots
@@ -26,6 +26,9 @@ These video effects enhance the overall outlook of the videos and reveal every d
 
 GoPro LUTs
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Brief introduction of GoPro action cam
 
 Do you know about the GoPro action camera, and how is it different from another DSLR camera?
@@ -38,6 +41,9 @@ The unique feature of this camera is that the image or video records with the ut
 
 GoPro Action Cam
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Why we need to use LUTs for Images/videos shot by GoPro
 
 There is a need for additional effects to enhance the underlying beauty in the photos or images. You require some triggers to uplift the hidden flavors in the captured content. When you make clicks on the GoPro camera, while capturing the actionable moments, the GoPro LUTs increase the clarity of every detail in the existing content. These LUTs work on the image or video parameters and ensure they are in optimal values to increase the visibility of the content.
@@ -54,6 +60,9 @@ Price: $4.99
 
 It is an exclusive LUTs that brings you the best effects on the captured content. The optimal values of brightness, saturation, hue and contrast are assigned, and there are controls to adjust the color gradients concerning the content.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![GoPro LUTs](https://images.wondershare.com/filmora/article-images/2022/05/gopro-luts-3.jpg)
 
 GoPro LUTs
@@ -68,12 +77,19 @@ In this GoPro Hero LUTs, you can add special effects to the video track by worki
 
 GoPro Hero LUTs
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### 3\. [Action day](https://fixthephoto.com/gopro-luts)
 
 Price: Free
 
 It is high time to add some flavors to the expressions you make during the clicks. Enhance the emotions on the media files using these LUTs. It increases the visibility of your joy in the image or video and conveys a better message to the viewers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![GoPro LUTs - Action Day](https://images.wondershare.com/filmora/article-images/2022/05/gopro-luts-5.jpg)
 
 Action Day
@@ -88,6 +104,9 @@ The shadow tone LUTs offers a unique touch to the existing content. It works on 
 
 Shadow Tone
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. [Aura](https://fixthephoto.com/gopro-luts)
 
 Price: Free
@@ -98,6 +117,9 @@ In this Aura, spiritual effects are visible on the photo and video objects. It g
 
 Aura
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. [Contrast](https://fixthephoto.com/gopro-luts)
 
 Price: Free
@@ -108,16 +130,26 @@ Here the contrast attributes are adjusted in pace with the recorded content. The
 
 Contrast
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. [Soft Purple](https://fixthephoto.com/gopro-luts)
 
 Price: Free
 
 Special attention is given to the purple shades in the footage. The color grading is performed focusing on the purple color. You will obtain a unique result using this LUT.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![GoPro LUTs - Soft Purple](https://images.wondershare.com/filmora/article-images/2022/05/gopro-luts-9.jpg)
 
 Contrast
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 8\. [High Tide](https://fixthephoto.com/gopro-luts)
 
 Price: Free
@@ -134,6 +166,9 @@ Price: Free
 
 Like the Night mode in your PCs that convert your photos or videos sensitive to your eyes. In the same tone, the Night-vision modifies the contrast and brightness values to obtain a soft texture of the original content. With the help of these Night Vision LUTs, you can enjoy smooth and soft color textures on your videos or photos.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GoPro LUTs - Night Vision](https://images.wondershare.com/filmora/article-images/2022/05/gopro-luts-11.jpg)
 
 Night Vision
@@ -154,10 +189,16 @@ Price: Free
 
 The brightness of the background and the image elements is increased to optimal levels to improve the visibility parameters. The footage will be more clear using this video effect.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![GoPro LUTs - Cold Shadows](https://images.wondershare.com/filmora/article-images/2022/05/gopro-luts-13.jpg)
 
 Cold Shadows
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ### 12\. [Cinematic](https://fixthephoto.com/gopro-luts)
 
 Price: Free
@@ -174,10 +215,16 @@ Price: Free
 
 It is a color grading LUTs, where the beige shades are applied soft and mild on the recordings. The photos and videos displaying this beige color look unique when applied to this filter effect. The footage gets a different beige touch and appears good. In the below footage, you can find the beige impact on the edited photo. The background and the image element contain the beige shade in an optimal value that increases the clarity of the content.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GoPro LUTs - Soft Beige](https://images.wondershare.com/filmora/article-images/2022/05/gopro-luts-15.jpg)
 
 Soft Beige
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 14\. [Tinted Shades](https://fixthephoto.com/gopro-luts)
 
 Price: Free
@@ -194,6 +241,9 @@ Price: Free
 
 Here the combination of two features is feasible with this filter effect. The matte and retro attributes impact the footage. Further, it converts the recordings to a retro pattern and ensures every element has a matte finish. This LUT serves for dual purpose, and you can enjoy these two effects in a single LUT pack.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![GoPro LUTs - Retro Matte](https://images.wondershare.com/filmora/article-images/2022/05/gopro-luts-17.jpg)
 
 Retro Matte
@@ -214,6 +264,9 @@ Use the above discussed GoPro LUTs to enhance the overall look. Connect with the
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Summarize:
@@ -244,3 +297,55 @@ Use the above discussed GoPro LUTs to enhance the overall look. Connect with the
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unveiling-the-secrets-to-creating-an-enterprise-instagram-profile/"><u>[New] 2024 Approved  Unveiling the Secrets to Creating an Enterprise Instagram Profile</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-bold-framing-integrating-large-headscapes-into-tiktok/"><u>[New] Bold Framing  Integrating Large Headscapes Into TikTok</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximum-videos-on-a-64gb-drive/"><u>[New] Maximum Videos on a 64GB Drive</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-world-with-words-15-task-filled-podcast-sessions/"><u>[New] Navigating the World with Words  15 Task-Filled Podcast Sessions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pinnacle-story-planning-website/"><u>[New] Pinnacle Story Planning Website</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-proven-techniques-and-choices-for-trimming-premium-tamil-melodies/"><u>[New] Proven Techniques and Choices for Trimming Premium Tamil Melodies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-shortform-video-tweets-as-webm-sounds-for-2024/"><u>[New] Shortform Video Tweets as WebM Sounds for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sleep-aid-asmr-techniques-unveiled/"><u>[New] Sleep Aid  ASMR Techniques Unveiled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-smooth-decline-techniques-for-controlled-audio-reduction/"><u>[New] Smooth Decline Techniques for Controlled Audio Reduction</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-strategic-placement-sites-for-video-marketing/"><u>[New] Strategic Placement Sites for Video Marketing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-creation-to-consumption-posting-vids-on-twtplustumb/"><u>[Updated] From Creation to Consumption  Posting Vids on Twt+Tumb</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-how-to-take-landscape-photos-on-iphone-killer-tips/"><u>[Updated] How to Take Landscape Photos on iPhone [Killer Tips]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-proven-iphone-markers-our-reviewed-top-9-water-marking-apps/"><u>[Updated] Proven iPhone Markers  Our Reviewed Top 9 Water-Marking Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-saying-thanks-access-to-otu-creations-freepaid/"><u>[Updated] Saying Thanks  Access to OTU Creations (Free/Paid)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-tips-and-insights-for-successful-spotify-marketing-for-2024/"><u>[Updated] Tips and Insights for Successful Spotify Marketing for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhancing-viewer-interest-with-accurate-time-stamping/"><u>2024 Approved  Enhancing Viewer Interest with Accurate Time Stamping</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-x-photography-leveraging-latest-features/"><u>2024 Approved  IPhone X Photography  Leveraging Latest Features</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-iphones-best-camera-recording-aid/"><u>2024 Approved  IPhone's Best Camera Recording Aid</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-laugh-labyrits-undead-sarcasm-spawners/"><u>2024 Approved  Laugh Labyrits  Undead Sarcasm Spawners</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leveraging-mac-integration-for-top-tier-mixer-streams/"><u>2024 Approved  Leveraging Mac Integration for Top-Tier Mixer Streams</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lg-360-vr-headset-review/"><u>2024 Approved  LG 360 VR Headset Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-key-scenes-in-video-production/"><u>2024 Approved  Mastering Key Scenes in Video Production</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-mastering-the-art-of-preventing-vr-sickness/"><u>2024 Approved  Mastering the Art of Preventing VR Sickness</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-metacosm-musings-the-best-quotations-for-virtual-inhabitants/"><u>2024 Approved  Metacosm Musings  The Best Quotations for Virtual Inhabitants</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-landscape-of-color-correction-innovative-uses-of-luts-in-video-editing/"><u>2024 Approved  Navigating the Landscape of Color Correction  Innovative Uses of LUTs in Video Editing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-selection-incredible-platform-compatible-free-streaming-apps/"><u>2024 Approved  Premier Selection  Incredible, Platform-Compatible Free Streaming Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-shot-perfecting-made-simple-the-best-cinematic-practices/"><u>2024 Approved  Shot Perfecting Made Simple  The Best Cinematic Practices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sketch-funny-graphics-to-share-giphy-wide/"><u>2024 Approved  Sketch Funny Graphics to Share Giphy-Wide</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-enhanced-features-in-nitro-justified/"><u>Are Enhanced Features in Nitro Justified?</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-itel-p55plus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Itel P55+ Without Password | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-juxtaposing-flight-with-flair-a-bebop-parrot-analysis/"><u>In 2024, Juxtaposing Flight with Flair – A Bebop Parrot Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-measuring-64gbs-video-holding-ability/"><u>In 2024, Measuring 64Gb's Video Holding Ability</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-high-quality-image-browser/"><u>In 2024, Optimal High-Quality Image Browser</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-visuals-aspect-ratio-alteration/"><u>In 2024, Optimizing Visuals  Aspect Ratio Alteration</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-zte-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to ZTE Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/magix-beatstrip-harmonizing-your-beats-easily-for-2024/"><u>Magix Beatstrip  Harmonizing Your Beats Easily for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/make-quick-cash-on-reddit-with-these-no-experience-techniques-for-2024/"><u>Make Quick Cash on Reddit with These No Experience Techniques for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-text-overlays-on-digital-pictures-for-2024/"><u>Mastering Text Overlays on Digital Pictures for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-desktop-systems-for-quality-use-for-2024/"><u>Prime Desktop Systems for Quality Use for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pugilism-vs-players-battle-for-supremacy-for-2024/"><u>Pugilism vs Players  Battle for Supremacy for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-normal-vision-from-flipped-screen/"><u>Restoring Normal Vision From Flipped Screen</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revolutionary-wraps-transforming-virtual-reality-play-for-2024/"><u>Revolutionary Wraps Transforming Virtual Reality Play for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seconds-needed-for-playback-20mb-video-example-for-2024/"><u>Seconds Needed for Playback - 20Mb Video Example for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/shopping-journey-to-visual-storytelling-hauling-edition-for-2024/"><u>Shopping Journey to Visual Storytelling  Hauling Edition for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smooth-start-scripts-captivating-podcast-intros-for-2024/"><u>Smooth Start Scripts  Captivating Podcast Intros for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/srt-to-sub-mastery-unveiling-3-key-strategies-for-2024/"><u>SRT-to-SUB Mastery  Unveiling 3 Key Strategies for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-pinnacle-of-immersion-highest-rated-oculus-headsets-for-2024/"><u>The Pinnacle of Immersion  Highest-Rated Oculus Headsets for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-year-ahead-exploring-instagrams-innovative-filters-for-2024/"><u>The Year Ahead  Exploring Instagram's Innovative Filters for 2024</u></a></li>
+</ul></div>

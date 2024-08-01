@@ -1,7 +1,7 @@
 ---
 title: "Leading Online Repositories for Text Effect Graphics for 2024"
-date: 2024-05-31T07:39:23.021Z
-updated: 2024-06-01T07:39:23.021Z
+date: 2024-07-31T08:41:34.965Z
+updated: 2024-08-01T08:41:34.965Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Leading Online Repositories for Text Effect Graphics for 2024"
 excerpt: "This Article Describes Leading Online Repositories for Text Effect Graphics for 2024"
 keywords: "\"Text Graphic Libraries,Online Design Fonts,Text Effects Collections,Digital Art Archives,Editable Text Visuals,Repositories for Graphics,Web-Based Text Graphics\""
-thumbnail: https://www.lifewire.com/thmb/ZBqFoENbbRmDTcsnIlj_6leL_Bg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/screenburnin01-5bdc37e9c9e77c00269c4545.jpg
+thumbnail: https://thmb.techidaily.com/a0ea0929e49147a7aa2982696f1085c4ea3dc3044596db757054a8f03e6ab91e.jpg
 ---
 
 ## Leading Online Repositories for Text Effect Graphics
@@ -30,6 +30,9 @@ Using downloaded text effects not only saves time but also helps in achieving pe
 
 * [How to Edit Text Effects in Video](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. Best Sites to Download Text Effects
 
 You will come across unlimited number of websites to download text effects for the popular photo and video editors belonging to Adobe. We have handpicked the best websites out of them that have a great collection of text effects that you can download as per your application.
@@ -40,26 +43,43 @@ You will come across unlimited number of websites to download text effects for t
 
 Freepik is one of the most popular sites for Adobe Photoshop text effect PPSD download. Therefore, if you want to add amazing texts and titles to your photos, posters, or flyers on Photoshop, Freepik is your destination. The site contains both free and premium text effects. You can view the popular text effects that most people use as well as the recent text effects to get the modern ones.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![freepik text effect](https://images.wondershare.com/filmora/article-images/2022/09/freepik-text-effect.jpg)
 
 You can also search different categories of text effects such as 3D text effect, neon effect, gold effect, and much more. You can also sort the text effects by their color and orientation so that you can choose as per your project requirements. You get exactly what you see in the mock typography and you can download PSD file instantly and edit everything as per your preference. The website is particularly popular for its 3D text effects, text effect fonts, and gold text effects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### 2\. GraphicsFamily
 
 <https://graphicsfamily.com/downloads/category/text-effects/>
 
 If you are an Adobe Illustrator user and you are looking for illustrator text effects download site, you should visit GraphicsFamily. The text effects on this website will make your texts stand out completely among your competitors. The text effects are targeted for brands so that they can outshine their competitors and expand their brand value and image. Starting from comic style text effect to retro color text effect, there are text effects for every category.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![graphics family text effect](https://images.wondershare.com/filmora/article-images/2022/09/graphics-family-text-effect.jpg)
 
 These are static text effects and you download them in EPS file format that Illustrator supports. You can edit the text effects as per your project requirements. There are free as well as premium effects available and you can search by newest items, cheapest items as well as best sellers. The glowing blue effect, the modern purple gradient, retro layer text effects are some of its popular text effects that you can try out.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Dribble
 
 <https://dribbble.com/tags/psd\_text\_effect>
 
 Dribble is another text effect PSD download platform where you get out of the box as well as the popular text effects. The platform has text effects from the best designers in the world and all the modern text effects that you see on social media and video streaming platforms are available on Dribble. Apart from Photoshop text effects, you also get text effects for Illustrator, XD, Figma, and Invision Studio.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![dribble text effect](https://images.wondershare.com/filmora/article-images/2022/09/dribble-text-effect.jpg)
 
 Starting from underwater and neon text effects to glitch and broken text effects, you can download free as well as premium effects instantly. There are over 10,000+ text effects available to choose from. You can search by tags, text color, as well as timeframe to get the desired text effect for your graphics project.
@@ -74,6 +94,9 @@ Envato Elements is the most popular platform when it comes to downloading static
 
 Starting from glitch and simple motion video text effects to 3D text effects and retro text effects, you get everything under one platform. Besides, there are beautiful graphics templates available with text effects as well as stock text effect templates. You can browse the text effects by category and one template has different variations of text effects to suit your requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Behance
 
 <https://www.behance.net/?tracking\_source=typeahead\_search\_direct&search=text%20effect>
@@ -84,6 +107,10 @@ If you are looking for funky Photoshop text effect PSD download, Behance is a gr
 
 There are also text effects related to games such as Minecraft as well as flashy and funny typography. Select the color from the filters and you will get to see text effects related to the color so that you can place it suitably on your project. Apart from Photoshop, there are text effect templates available for Illustrator, InDesign, After Effects as well as Lightroom.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Part 2\. How to Edit Text Effects in Video
 
 If you want to add stunning text effects to your video so that the video looks amazing, you will need a video editor. After Effects is a popular choice and you can download text effects. But [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the best video editor to add and edit text effect to your video. This is because there are literally unlimited text effects available and you can download the latest text effects directly from Filmora.
@@ -100,10 +127,16 @@ Step1 Download and install Wondershare Filmora on your computer. Launch Filmora 
 
 Step2 Import your video clip under Project Media folder. Drag and drop the clip onto the timeline and go to Titles option located at the top. Check out the different categories of text effects on the left panel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![import video clip under project media folder](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 Step3 Select a text effect template and drop it onto the timeline. Place the text layer where you want the text to appear in the video. Go to Viewer and reposition the text on the video frame. Double-click on the text layer and type in your text words.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select a text effect template](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
 Edit the style of the text as well as other settings as you think fit. You can even go to Advanced section to customize the effect minutely as per your requirements.
@@ -132,10 +165,16 @@ You can also search different categories of text effects such as 3D text effect,
 
 If you are an Adobe Illustrator user and you are looking for illustrator text effects download site, you should visit GraphicsFamily. The text effects on this website will make your texts stand out completely among your competitors. The text effects are targeted for brands so that they can outshine their competitors and expand their brand value and image. Starting from comic style text effect to retro color text effect, there are text effects for every category.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![graphics family text effect](https://images.wondershare.com/filmora/article-images/2022/09/graphics-family-text-effect.jpg)
 
 These are static text effects and you download them in EPS file format that Illustrator supports. You can edit the text effects as per your project requirements. There are free as well as premium effects available and you can search by newest items, cheapest items as well as best sellers. The glowing blue effect, the modern purple gradient, retro layer text effects are some of its popular text effects that you can try out.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Dribble
 
 <https://dribbble.com/tags/psd\_text\_effect>
@@ -178,10 +217,16 @@ You will find all the different categories of static and video text effects. App
 
 Step1 Download and install Wondershare Filmora on your computer. Launch Filmora and go to? New Project option to get started.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download and install filmora](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
 Step2 Import your video clip under Project Media folder. Drag and drop the clip onto the timeline and go to Titles option located at the top. Check out the different categories of text effects on the left panel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![import video clip under project media folder](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 Step3 Select a text effect template and drop it onto the timeline. Place the text layer where you want the text to appear in the video. Go to Viewer and reposition the text on the video frame. Double-click on the text layer and type in your text words.
@@ -216,3 +261,51 @@ If texts and titles are an important part of your graphics or videos, you should
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-mirrorless-mastery-with-best-gimbals-selection/"><u>[New] Mirrorless Mastery with Best Gimbals Selection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-orb-shaper-essentials/"><u>[New] Orb Shaper Essentials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-picture-in-progressive-screen-mastery-for-chrome-users-across-platforms/"><u>[New] Picture in Progressive Screen Mastery for Chrome Users Across Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-picture-in-picture-unveiled-your-guide-to-firefoxs-pip/"><u>[New] Picture-in-Picture Unveiled  Your Guide to Firefox’s PIP</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-preventing-shake-in-photographic-imagery/"><u>[New] Preventing Shake in Photographic Imagery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-safeguarding-your-online-presence-during-live-broadcasts/"><u>[New] Safeguarding Your Online Presence During Live Broadcasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-smarter-storage-simpler-style-top-40-mobile-video-reducers-on-android/"><u>[New] Smarter Storage, Simpler Style  Top 40 Mobile Video Reducers on Android</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-comprehensive-list-of-zoom-transcription-software-freepaid/"><u>[Updated] Comprehensive List of Zoom Transcription Software (Free/Paid)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-photos-to-feeds-selecting-the-best-9-gear-upgrades-for-2024/"><u>[Updated] From Photos to Feeds  Selecting the Best 9 Gear Upgrades for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-step-by-step-saving-tweet-vids-on-androids/"><u>[Updated] In 2024, Step-By-Step  Saving Tweet Vids on Androids</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-strategic-hashtag-usage-for-enhanced-visibility-on-tiktok/"><u>[Updated] In 2024, Strategic Hashtag Usage for Enhanced Visibility on TikTok</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-srt-file-creation-a-comprehensive-manual/"><u>[Updated] Mastering SRT File Creation  A Comprehensive Manual</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximizing-zoom-collaboration-essential-setup-tips/"><u>[Updated] Maximizing Zoom Collaboration  Essential Setup Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimizing-audacity-a-guide-to-premium-sound-capture/"><u>[Updated] Optimizing Audacity  A Guide to Premium Sound Capture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-peeling-back-layers-of-the-metaverse-with-6-studies/"><u>[Updated] Peeling Back Layers of the Metaverse with 6 Studies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photoshop-and-beyond-top-monitors-reviewed-editors-picks/"><u>[Updated] Photoshop & Beyond  Top Monitors Reviewed [Editors' Picks]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-shift-dimensions-quickly-virtually/"><u>[Updated] Shift Dimensions Quickly, Virtually</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-speedy-shifts-in-powerpoint-video-speed/"><u>[Updated] Speedy Shifts in PowerPoint Video Speed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lively-film-reader-assessment/"><u>2024 Approved  Lively Film Reader Assessment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimize-watching-incorporating-captions-into-wmp/"><u>2024 Approved  Optimize Watching  Incorporating Captions Into WMP</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-phasecope-pro-top-lightroom-replacements-unveiled/"><u>2024 Approved  PhaseCope Pro  Top Lightroom Replacements Unveiled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pioneering-giants-in-vr-development/"><u>2024 Approved  Pioneering Giants in VR Development</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-ranking-the-best-budget-friendly-live-streaming-options-today/"><u>2024 Approved  Ranking the Best Budget-Friendly Live Streaming Options Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-redefining-the-viewing-experience-top-alternatives-to-periscope/"><u>2024 Approved  Redefining the Viewing Experience  Top Alternatives to Periscope</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionize-virtual-reality-with-our-expertise/"><u>2024 Approved  Revolutionize Virtual Reality with Our Expertise</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-stealthy-styles-easy-color-corrections-techniques/"><u>2024 Approved  Stealthy Styles  Easy Color Corrections Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-viral-visionaries-top-ten-meme-templates-exposed/"><u>2024 Approved  Viral Visionaries  Top Ten Meme Templates Exposed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-guide-to-selecting-peak-performance-lipo-tech-for-2024/"><u>A Guide to Selecting Peak-Performance LiPo Tech for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-your-webcam-experience-with-logitech-c270-usb-driver/"><u>Enhance Your Webcam Experience with Logitech C270 USB Driver</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-touch-functionality-on-your-tablet-top-8-solutions/"><u>How to Restore Touch Functionality on Your Tablet: Top 8 Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-nokia-150-2023-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Nokia 150 (2023) to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-innovative-mini-houses-with-an-oriental-twist/"><u>In 2024, Innovative Mini Houses with an Oriental Twist</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-inside-the-arsenal-the-complete-review-of-sj-cam-s6/"><u>In 2024, Inside the Arsenal  The Complete Review of SJ-CAM S6</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-backdrop-recommendations/"><u>In 2024, Premier Backdrop Recommendations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-rapid-techniques-for-quick-professional-quality-home-movies/"><u>In 2024, Rapid Techniques for Quick, Professional-Quality Home Movies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-up-your-iphones-selfie-game-with-these-best-free-app-tools/"><u>In 2024, Step-Up Your iPhone's Selfie Game with These Best Free App Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/key-top-5-agile-camcorders-for-adventure-selections-for-2024/"><u>Key Top 5 Agile Camcorders for Adventure Selections for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterclass-in-choosing-your-best-live-streamer-for-2024/"><u>Masterclass in Choosing Your Best Live Streamer for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-youtube-title-creation-the-perfect-formula-for-2024/"><u>Mastering YouTube Title Creation  The Perfect Formula for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximizing-podcast-discoverability-through-effective-seo-for-2024/"><u>Maximizing Podcast Discoverability Through Effective SEO for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-pixizs-tools-for-photo-video-craftsmanship-for-2024/"><u>Navigating Pixiz's Tools for Photo-Video Craftsmanship for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfect-habits-to-embrace-with-podcasts-playing-for-2024/"><u>Perfect Habits to Embrace with Podcasts Playing for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-audio-attenuation-a-focus-on-lumafusions-tools-for-2024/"><u>Perfecting Audio Attenuation  A Focus on Lumafusion's Tools for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Nokia 130 Music | Dr.fone</u></a></li>
+</ul></div>

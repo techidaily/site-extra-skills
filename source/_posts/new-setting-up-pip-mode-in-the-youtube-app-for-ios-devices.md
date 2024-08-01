@@ -1,7 +1,7 @@
 ---
 title: "[New] Setting up PIP Mode in the YouTube App for iOS Devices"
-date: 2024-07-08T00:20:09.483Z
-updated: 2024-07-09T00:20:09.483Z
+date: 2024-07-31T10:37:32.570Z
+updated: 2024-08-01T10:37:32.570Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ Picture in Picture is now available on YouTube on all platforms and devices in t
 
 After opening the video in PIP mode, you can do things around on the screen of your device as the video plays on a floating window. You will be able to resize and drag the window along as you carry along with other activities on your phone or PC.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. How to enable Picture in Picture for YouTube on iPhone
 
 To enable PIP on iPhone on YouTube and use it better, you should be a premium YouTube subscriber. Picture in Picture on iPhone depends on the version of your phone. And here, I am going to tell you how to enable PIP on the latest versions of iPhones.
@@ -37,6 +40,9 @@ On iOS 14.5 or 14.6, here is a simple step-by-step guide to enable Picture in Pi
 1. If you require a **YouTube PIP** shortcut app on your device to proceed, you can download it from App Store or [the Shortcuts Gallery browser](https://shortcutsgallery.com/shortcuts/youtube-pip/) and then add it to your Shortcut Library.
 2. Open the **YouTube PIP** Shortcut and tap **Get Shortcut** on the App. You will be redirected to the shortcut application on your phone. If you don't have the shortcut application, you can download it from the App Store.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![shortcut application](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-2.jpg)
 
 1. Tap **Allow Untrusted Shortcuts** in the Shortcut Application on your device
@@ -46,6 +52,9 @@ On iOS 14.5 or 14.6, here is a simple step-by-step guide to enable Picture in Pi
 5. Tap on **YouTube PIP** and a burner will pop out at the top of your phone.
 6. Tap on the burner that pops out. It will direct you to the actual shortcut for YouTube. And you will need to install an additional Application (Scriptable App).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![scriptable app](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-3.jpg)
 
 1. Tap on **View in App Store** on the screen that appears. This will direct you to the App Store.
@@ -55,6 +64,9 @@ On iOS 14.5 or 14.6, here is a simple step-by-step guide to enable Picture in Pi
 
 1. Go to YouTube again and start any video. Tap the **Share icon**, scroll to the right and tap the **More icon**, go ahead and tap the YouTube PIP. And on the burner that pops up at the top of the screen of your phone, tap **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![floating screen](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-5.jpg)
 
 And there you go, now you will be able to watch your videos on a floating screen. This procedure may be pretty tedious, but it is all worth it if you follow keenly to the end. You will do it only once.
@@ -91,8 +103,14 @@ Before you use Picture in Picture in YouTube, you require two Apps on your devic
 4. Tap the **More icon**.
 5. Tap **YouTube PIP** and select **OK** on the burner that appears on the screen. This will produce a new floating window automatically on the screen. You can select a window resolution that fits you and go back to Home Screen. Your video will play in a floating window on your home screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![floating window](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ### PIP on Mac
 
 On your Mac, there are two ways to get into Picture in Picture mode. You can use Control Command and Mouse together, or simply the mouse itself/touchpad. And here is how to do it with a Mouse only.
@@ -144,3 +162,46 @@ Picture in Picture is a computer utility feature in the USA. It has not been lau
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-from-static-to-dynamic-traffic-youtube-backlinks-explained/"><u>[New] From Static to Dynamic Traffic  YouTube Backlinks Explained</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-larger-print-formats-same-sharpness-levels/"><u>[New] Larger Print Formats, Same Sharpness Levels</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-the-art-of-attraction-secrets-to-viral-tiktok-unboxing-content/"><u>[New] Master the Art of Attraction  Secrets to Viral TikTok Unboxing Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigate-with-ease-mastering-ifunnys-meme-app/"><u>[New] Navigate with Ease  Mastering iFunny's Meme App</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-screen-magnification-in-ms-teams/"><u>[New] Navigating Screen Magnification in MS Teams</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-ogle-player-powerful-pixel-perfect-media/"><u>[New] Ogle Player  Powerful, Pixel-Perfect Media</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-6-ways-to-record-mov-files-on-windows-10/"><u>[Updated] 6 Ways to Record .mov Files on Windows 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-intro-to-radial-photo-distortion-ps-tutorial/"><u>[Updated] Intro to Radial Photo Distortion  PS Tutorial</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-masterpiece-makers-discovering-these-6-unmatched-nft-tools/"><u>[Updated] Masterpiece Makers  Discovering These 6 Unmatched NFT Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-metavision-uncovered-analyzing-6-compelling-metaverse-cases/"><u>[Updated] Metavision Uncovered  Analyzing 6 Compelling Metaverse Cases</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-predicting-film-production-costs-music-video/"><u>[Updated] Predicting Film Production Costs  Music Video</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-android-listening-tools/"><u>[Updated] Premier Android Listening Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-improving-professional-collaboration-with-strategic-office-planning/"><u>2024 Approved  Improving Professional Collaboration with Strategic Office Planning</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-monetary-aspects-of-shopping-reviews-vlogs/"><u>2024 Approved  Monetary Aspects of Shopping Reviews Vlogs?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-nailing-iphone-snaps-top-editing-tricks/"><u>2024 Approved  Nailing iPhone Snaps  Top Editing Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-file-transfers-from-android-to-apple-devices/"><u>2024 Approved  Navigating File Transfers From Android to Apple Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-nurturing-network-growth-for-top-tier-subscribers/"><u>2024 Approved  Nurturing Network Growth for Top-Tier Subscribers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-speaking-medias-language-mastering-srt-conversions/"><u>2024 Approved  Speaking Media's Language  Mastering SRT Conversions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-speedy-video-rendering-for-effective-ppt-deliveries/"><u>2024 Approved  Speedy Video Rendering for Effective PPT Deliveries</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-15-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone 15? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-tecno-camon-30-pro-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Tecno Camon 30 Pro 5G Unlock Without Password</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-iphone-8ipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on iPhone 8/iPad/iPod</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-6s-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 6s Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-x7b-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-11-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 11 Pro Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-7-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 7 Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-invent-comical-content/"><u>In 2024, Invent Comical Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-night-scene-mastery-guide/"><u>In 2024, IPhone Night Scene Mastery Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-transitions-in-audition-fade-in-basics/"><u>In 2024, Mastering Transitions in Audition  Fade-In Basics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-screens-at-their-peak-top-10-listings-for-4k-monitors/"><u>In 2024, Premium Screens at Their Peak  Top #10 Listings for 4K Monitors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-video-editing-tools-on-your-phone/"><u>In 2024, Pro Video Editing Tools on Your Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sleek-screenscape-top-wallpapers-for-your-device/"><u>In 2024, Sleek Screenscape  Top Wallpapers for Your Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-crafting-bespo-pointed-video-closures-on-the-dashboard/"><u>In 2024, Step-by-Step  Crafting Bespo Pointed Video Closures on the Dashboard</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximizing-your-firefox-multitasking-with-ffxp-for-2024/"><u>Maximizing Your Firefox Multitasking with FFXP for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/must-have-gear-for-road-trip-documentaries-for-2024/"><u>Must-Have Gear for Road Trip Documentaries for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/personalized-branding-craft-your-logo-from-free-designs-for-2024/"><u>Personalized Branding  Craft Your Logo From Free Designs for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/syncing-your-favorite-tunes-moving-playlists-across-platforms-for-2024/"><u>Syncing Your Favorite Tunes  Moving Playlists Across Platforms for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unlocking-the-potential-of-minecraft-recording-with-macos/"><u>Unlocking the Potential of Minecraft Recording with MacOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/upgrade-your-editing-game-merging-windows-11-and-storyremix-for-video-magic/"><u>Upgrade Your Editing Game  Merging Windows 11 & StoryRemix for Video Magic</u></a></li>
+</ul></div>

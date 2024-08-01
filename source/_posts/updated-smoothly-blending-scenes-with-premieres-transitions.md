@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Smoothly Blending Scenes with Premiere's Transitions"
-date: 2024-05-31T07:36:16.779Z
-updated: 2024-06-01T07:36:16.779Z
+date: 2024-07-31T05:24:21.050Z
+updated: 2024-08-01T05:24:21.050Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Smoothly Blending Scenes with Premiere's Transitions"
 excerpt: "This Article Describes [Updated] Smoothly Blending Scenes with Premiere's Transitions"
 keywords: "Premiere Seamless Edits,Easy Transition Cutting,Smooth Video Joining,Premiere Edit Flow,Blend Scenes Seamlessly,Quick Transitions Pro,Fluid Media Sync"
-thumbnail: https://www.lifewire.com/thmb/X3wdKf-joj20I2yGtWFq1oR5IUo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/windows10quiet-5c4590074cedfd000174e4eb.jpg
+thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9eaf6ae422f8b959a2a9262d12.jpg
 ---
 
 ## Smoothly Blending Scenes with Premiere's Transitions
@@ -33,6 +33,9 @@ A scene or speech transition in which the audio gradually (or abruptly) lowers i
 
 Let's briefly take a look at the most popular audio transitions in Premiere Pro before going through the step-by-step tutorial on making an audio fade out. The audio fade is essentially a visual transition. Crossfading describes the audible transition between two audio samples on the same track. The terms "fade-in" and "fade-out" refer to the two different kinds of crossfade transitions, and Premiere Pro offers its customers three different crossfade effects: constant gain, constant power, and exponential fade. Following are some specifics:
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Constant Gain
 
 When switching between scenes, audio is constantly increased or decreased. The audio frequently sounds abrupt during this crossfade. Constant gain crossfade is a kind of audio transition where the audio is consistently increased or decreased as you switch between clips. Additionally, it lacks the exponential fade's smoothness. Don't ignore it however; it does have its uses. You'll probably use this sparingly.
@@ -43,6 +46,9 @@ In Premiere, the fade that dilutes the audio volume fluctuations between clips i
 
 It is used to gradually reduce audio for the first clip at start, then swiftly when the transition comes to a close. It works by gradually speeding up at the conclusion of the transition before gradually reducing the audio for your initial clip. This crossfades raises audio in the second clip swiftly at initially and then more gradually at the conclusion of the transition.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Exponential Fade
 
 This crossfade operates in an exponential manner, beginning slowly before accelerating till the conclusion of the clip, giving the impression of a moving curve. An audio transition known as an exponential fade begins off slowly before gradually lowering or raising the level until it is finished. It works well for sequences with dialogue switches or for the conclusion. Without the abrupt flip, it provides a considerably shorter fade out that ends fast yet gracefully. Perfect for switching scenes with various atmospheres or for conversation.
@@ -65,12 +71,18 @@ After launching Premiere, choose your preferred song, and then find the audio cl
 
 Select a crossfade effect by expanding the audio transition folder in the Effect panel. To access the audio transitions, navigate to Window > Effects and make sure the effects panel is turned on.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![open the transition effects](https://images.wondershare.com/filmora/article-images/2022/07/audio-transitions-premiere.jpg)
 
 ##### Step4 Choose the Fade Type
 
 To assign your audio file to the Audio track if you're starting from scratch, just drag it into the timeline in Premiere Pro. Drag your audio file downward to make room in the audio track of your sequence if you're currently working on a project. If you want to adjust the audio speed, double-click the fade type.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the fade type](https://images.wondershare.com/filmora/article-images/2022/07/add-audio-transitions-premiere.jpg)
 
 ##### Step5 Select Duration and Save Effect
@@ -79,6 +91,9 @@ You may now shorten or lengthen the time that your audio fades in or out. You ma
 
 ![select duration and save effect](https://images.wondershare.com/filmora/article-images/2022/07/set-transition-duration-premiere.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## Part 3\. Alternative way to add audio transitions in videos
 
 It is now abundantly evident from the aforementioned strategies how to use this user-friendly program to carry out the numerous audio editing procedures. Therefore, even if you have never used manual audio editing procedures, you may use the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) program without any problem since it is simple to learn. If you're a beginner, the ideal alternative for you is to use Filmora and the aforementioned approaches to create audio transitions.
@@ -127,6 +142,9 @@ In a nutshell, it's important to use the right program to customize the fade in/
 
 Let's briefly take a look at the most popular audio transitions in Premiere Pro before going through the step-by-step tutorial on making an audio fade out. The audio fade is essentially a visual transition. Crossfading describes the audible transition between two audio samples on the same track. The terms "fade-in" and "fade-out" refer to the two different kinds of crossfade transitions, and Premiere Pro offers its customers three different crossfade effects: constant gain, constant power, and exponential fade. Following are some specifics:
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Constant Gain
 
 When switching between scenes, audio is constantly increased or decreased. The audio frequently sounds abrupt during this crossfade. Constant gain crossfade is a kind of audio transition where the audio is consistently increased or decreased as you switch between clips. Additionally, it lacks the exponential fade's smoothness. Don't ignore it however; it does have its uses. You'll probably use this sparingly.
@@ -137,10 +155,16 @@ In Premiere, the fade that dilutes the audio volume fluctuations between clips i
 
 It is used to gradually reduce audio for the first clip at start, then swiftly when the transition comes to a close. It works by gradually speeding up at the conclusion of the transition before gradually reducing the audio for your initial clip. This crossfades raises audio in the second clip swiftly at initially and then more gradually at the conclusion of the transition.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Exponential Fade
 
 This crossfade operates in an exponential manner, beginning slowly before accelerating till the conclusion of the clip, giving the impression of a moving curve. An audio transition known as an exponential fade begins off slowly before gradually lowering or raising the level until it is finished. It works well for sequences with dialogue switches or for the conclusion. Without the abrupt flip, it provides a considerably shorter fade out that ends fast yet gracefully. Perfect for switching scenes with various atmospheres or for conversation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to Crossfade Audio in Premiere Pro
 
 All you have to do is adhere to the instructions below to fade out your audio in Premiere. Here are a few useful techniques for crossfading audio in Premiere Pro.
@@ -171,8 +195,16 @@ To assign your audio file to the Audio track if you're starting from scratch, ju
 
 You may now shorten or lengthen the time that your audio fades in or out. You may accomplish this by simply clicking the transition's start or finish and dragging it to lengthen or shorten it. In the pop-up box that displays, enter the duration for the fade, then click "OK."
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![select duration and save effect](https://images.wondershare.com/filmora/article-images/2022/07/set-transition-duration-premiere.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Part 3\. Alternative way to add audio transitions in videos
 
 It is now abundantly evident from the aforementioned strategies how to use this user-friendly program to carry out the numerous audio editing procedures. Therefore, even if you have never used manual audio editing procedures, you may use the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) program without any problem since it is simple to learn. If you're a beginner, the ideal alternative for you is to use Filmora and the aforementioned approaches to create audio transitions.
@@ -203,6 +235,9 @@ You may now use the splitting audio approach to clip off the portions of your au
 
 We focus on how you would use the editing feature on your audio that was divided for transitional reasons in this stage. So, to use this option, choose the relevant track, right-click on it to bring up the audio file's settings, and then choose Edit Audio.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make the audio transitions](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 In this main step, you’ll get to know the transitioning technique with the Filmora. To use, follow these instructions in the audio editor, which has just appeared on the right side of the program screen. You can simply create the audio transitions without any hassles by going to the Volume area of the audio editor from there and modifying the volume of the audio track that you had separated for this reason.
@@ -237,3 +272,47 @@ In a nutshell, it's important to use the right program to customize the fade in/
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-fb-video-download-top-5-tools-list/"><u>[New] 2024 Approved  FB Video Download  Top 5 Tools List</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-intuitive-podcast-beginnings-charismatic-hooks/"><u>[New] Intuitive Podcast Beginnings  Charismatic Hooks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-jumpstart-your-meme-making-skills-with-9gag-techniques/"><u>[New] Jumpstart Your Meme-Making Skills with 9GAG Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-through-the-top-8-blended-mobile-video-collage-choices-on-android/"><u>[New] Navigating Through the Top 8 Blended Mobile Video Collage Choices on Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-low-cost-time-tracking-tools/"><u>[New] Premier Low-Cost Time Tracking Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-srt-to-subcap-conversion-techniques/"><u>[New] SRT to SUBCAP  Conversion Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-steady-yourself-against-oculus-nausea/"><u>[New] Steady Yourself Against Oculus Nausea</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-approach-to-stream-flawless-events-with-zoom-on-youtube/"><u>[New] Step-by-Step Approach to Stream Flawless Events with Zoom on YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-11-innovative-metaverse-projects-for-insightful-analysis/"><u>[Updated] 11 Innovative Metaverse Projects for Insightful Analysis</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-must-have-offline-mobile-games-to-keep-you-entertained-on-android/"><u>[Updated] 2024 Approved  Must-Have Offline Mobile Games to Keep You Entertained on Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-insiders-guide-to-superior-apps-for-vocal-transformation/"><u>[Updated] Insider's Guide to Superior Apps for Vocal Transformation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-make-gif-on-iphone-top-10-gif-apps-for-iphone-x876/"><u>[Updated] Make GIF on iPhone  Top 10 GIF Apps for iPhone X/8/7/6</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mobile-magic-transform-your-snaps-at-zero-cost/"><u>[Updated] Mobile Magic  Transform Your Snaps at Zero Cost</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-nuances-the-artists-hue-harmony-handbook/"><u>[Updated] Navigating Nuances  The Artist’s Hue Harmony Handbook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-into-cinematic-world-shooting-dynamic-timelapses-on-gopro-hero5-black/"><u>[Updated] Step Into Cinematic World  Shooting Dynamic Timelapses on GoPro Hero5 Black</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-enhancing-iphone-photos-with-hdr/"><u>2024 Approved  Enhancing iPhone Photos with HDR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instagram-enhancement-picture-posting-guide/"><u>2024 Approved  Instagram Enhancement  Picture Posting Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-and-ipads-best-video-player-compilation-top-10/"><u>2024 Approved  IPhone & iPad's Best Video Player Compilation (Top 10)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-stitching-gopro-content-in-extended-panorama-videos/"><u>2024 Approved  Master Stitching GoPro Content in Extended Panorama Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-s2t-integration-with-powerpoint/"><u>2024 Approved  Mastering S2T Integration with PowerPoint</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-orchestrating-scene-sounds-with-imovie/"><u>2024 Approved  Orchestrating Scene Sounds with iMovie</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pedagogic-practices-with-a-focus-on-visual-materials/"><u>2024 Approved  Pedagogic Practices with a Focus on Visual Materials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-picdistort-a-comprehensive-guide-to-image-alteration/"><u>2024 Approved  PicDistort  A Comprehensive Guide to Image Alteration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-srt-to-xmlssattml-mastery-guide/"><u>2024 Approved  Step-by-Step  SRT to XML/SSA/TTML Mastery Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-15-pro-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-htc-u23-pro-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from HTC U23 Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-make-and-download-your-own-instagram-sound/"><u>In 2024, How to Make & Download Your Own Instagram Sound</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterclass-in-adding-srt-overlay-on-mp4-file-playback/"><u>In 2024, Masterclass in Adding SRT Overlay on MP4 File Playback</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sonys-masterpiece-in-motion-graphics-xperia-xz-premium-unboxed/"><u>In 2024, Sony's Masterpiece in Motion Graphics  Xperia XZ Premium Unboxed</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-a25-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/intriguing-book-trailers-on-display-for-2024/"><u>Intriguing Book Trailers on Display for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lightning-windows-image-inspector-for-2024/"><u>Lightning Windows Image Inspector for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-social-connectivity-from-instagram-to-tiktoks-playground-for-2024/"><u>Mastering Social Connectivity  From Instagram to TikTok's Playground for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/metavision-quest-selecting-the-most-advanced-vr-headset-for-2024/"><u>Metavision Quest  Selecting the Most Advanced VR Headset for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-lens-on-sony-s3700-blu-ray-play-reviews-for-2024/"><u>New Lens on Sony S3700 Blu-Ray PLAY Reviews for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photo-refinement-mastering-the-psx-erase-feature-for-2024/"><u>Photo Refinement  Mastering the PSX Erase Feature for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-home-cinema-picks-for-best-3d-blu-ray-systems-for-2024/"><u>Premium Home Cinema  Picks for Best 3D Blu-Ray Systems for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamless-sound-synthesis-inshots-audio-guide/"><u>Seamless Sound Synthesis  InShot's Audio Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-definitive-window-by-window-walkthrough-of-hdr-in-windows-11/"><u>The Definitive Window-by-Window Walkthrough of HDR in Windows 11</u></a></li>
+</ul></div>

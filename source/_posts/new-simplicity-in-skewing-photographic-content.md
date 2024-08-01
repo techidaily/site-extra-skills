@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplicity in Skewing Photographic Content"
-date: 2024-05-31T07:40:23.157Z
-updated: 2024-06-01T07:40:23.157Z
+date: 2024-07-31T09:46:06.994Z
+updated: 2024-08-01T09:46:06.994Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "This Article Describes [New] Simplicity in Skewing Photographic Content"
 excerpt: "This Article Describes [New] Simplicity in Skewing Photographic Content"
 keywords: "Photo Content Simplicity,Skew Photography Ease,Simple Image Altering,Straighten Shots Methodically,Clear Editing Techniques,Directed Image Adjustment,Uncluttered Photo Retouch"
-thumbnail: https://www.lifewire.com/thmb/0xgLnS3M6CP4FiP4I-VE1zFOiLo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-ps5-controller-on-your-pc-or-mac-5089439-b56739aa27bd48858200878a6b64f952.jpg
+thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6df028882ef27bbdd6859fdde.jpg
 ---
 
 ## Simplicity in Skewing Photographic Content
 
 In this Photoshop tutorial, we're going to carve an image using four simple steps. Curving an image can be a great way to add some extra visual interest and dimension, and it's a technique that can be used with a wide range of images. So, let's get started!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
 ## Simple Steps to Curve an Image in Photoshop
@@ -32,18 +35,27 @@ To keep things simple, let's start with a white canvas. Let's open a new documen
 
 After creating the new document, open the image that you want to curve. You may do so by going to File > Open in the menu bar or pressing Ctrl+O or Command+O on your keyboard. Once the image is open, go to Edit in the menu bar and select Place Embedded from the drop-down menu that appears. Select your image and click Place. The image will be placed on the canvas. If the document's size does not match that of the image, you will see a transformation box surrounding the image.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
 ##### Step3Warp the Image
 
 Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking and holding on the Transform Tool in the toolbar. The Warp Tool is located at the bottom of the Transform Tool's fly-out menu. Alternatively, you may press Ctrl+T or Command+T on your keyboard to open the Transform Tool's fly-out menu and then select the Warp Tool from there.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wrap image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/wrap-image-photoshop.jpg)
 
 With the Warp Tool selected, hover your cursor over the image. You'll see a grid appear over the image. Click and drag one of the middle nodes in the horizontal direction to begin curving the image. As you drag, you'll see the image curve along with your cursor. If you want to increase or decrease the amount of curvature, simply press and hold the Shift key while dragging the node.
 
 Play around with the settings in the options bar. There are quite a few different looks you can achieve just by adjusting these.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
@@ -52,6 +64,9 @@ Play around with the settings in the options bar. There are quite a few differen
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
 The **Bend Direction** option rotates the angle of the bend.
@@ -66,6 +81,9 @@ Flip any of these effects in the opposite direction by placing a negative sign i
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
 ## Conclusion
@@ -100,3 +118,37 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-compare-and-save-with-top-6-affordable-camera-picks/"><u>[New] Compare and Save with Top 6 Affordable Camera Picks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-class-review-of-dji-inspire-2/"><u>[New] Master Class  Review of DJI Inspire 2</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-outstanding-20-anime-opening-melodies/"><u>[New] Outstanding 20 Anime Opening Melodies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pro-tips-to-amplify-your-canva-designs/"><u>[New] Pro Tips to Amplify Your Canva Designs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-live-action-lensing-cutting-edge-methods-in-sports-video/"><u>[Updated] 2024 Approved  Live Action Lensing  Cutting-Edge Methods in Sports Video</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-key-approaches-to-elicit-trust-in-product-reviews-through-videography/"><u>[Updated] Key Approaches to Elicit Trust in Product Reviews Through Videography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-ringtune-guide-downloading-and-cutting-tamil-melodies/"><u>[Updated] RingTune Guide  Downloading and Cutting Tamil Melodies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-15-royalty-free-music-hideouts-for-video-artists/"><u>[Updated] Top 15 Royalty-Free Music Hideouts for Video Artists</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-guide-to-swiftly-eliminate-unwanted-youtube-comments/"><u>2024 Approved  Guide to Swiftly Eliminate Unwanted YouTube Comments</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-photo-artistry-mastering-shadows-and-highlights/"><u>2024 Approved  IPhone Photo Artistry  Mastering Shadows & Highlights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-movavi-pro-video-review-the-new-standard/"><u>2024 Approved  Movavi Pro Video Review – The New Standard</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-audio-transformation-tips-for-enhanced-competitive-play-in-free-fire/"><u>2024 Approved  Step-by-Step Audio Transformation Tips for Enhanced Competitive Play in Free Fire</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-a1x-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo A1x 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-15-pro-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone 15 Pro?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-x-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone X Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-multitask-media-magic-harnessing-netflixs-picture-in-picture-feature/"><u>In 2024, Multitask Media Magic  Harnessing Netflix's Picture-in-Picture Feature</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-tips-for-capturing-stunning-close-up-footage/"><u>In 2024, Pro Tips for Capturing Stunning Close-Up Footage</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-methods-to-light-up-dull-iphone-footage/"><u>In 2024, Quick Methods to Light Up Dull iPhone Footage</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-reclaiming-one-headphone-harmony/"><u>In 2024, Reclaiming One-Headphone Harmony</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-samsung-tips-easy-time-lapse-photography/"><u>In 2024, Samsung Tips  Easy Time-Lapse Photography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/instagram-tips-sharing-your-podcast-content-for-2024/"><u>Instagram Tips  Sharing Your Podcast Content for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterclass-transition-to-mixer-broadcast-on-macos-for-2024/"><u>Masterclass  Transition to Mixer Broadcast on macOS for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-online-passport-photography-our-top-picks-for-2024/"><u>Mastering the Art of Online Passport Photography - Our Top Picks for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/noskyshadowtool-premium-bg-elimination-software-for-2024/"><u>NoSkyShadowTool  Premium BG Elimination Software for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pioneering-photography-with-quantum-hdr-tech-for-2024/"><u>Pioneering Photography with Quantum HDR Tech for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/purerecorder-capturing-life-in-games-without-cost/"><u>PureRecorder  Capturing Life in Games Without Cost</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seamless-upconversion-from-standard-definition-to-dynamic-range-extraordinaire-for-2024/"><u>Seamless Upconversion From Standard Definition to Dynamic Range Extraordinaire for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/six-simplest-strategies-to-craft-your-mc-dwelling-for-2024/"><u>Six Simplest Strategies to Craft Your MC Dwelling for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/spread-laughter-with-simple-steps-in-kinemaster-for-2024/"><u>Spread Laughter with Simple Steps in KineMaster for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-your-content-mastering-youtube-ads-for-earnings-for-2024/"><u>Yield Your Content  Mastering YouTube Ads for Earnings for 2024</u></a></li>
+</ul></div>

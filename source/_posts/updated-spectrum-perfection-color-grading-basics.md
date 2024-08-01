@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Spectrum Perfection  Color Grading Basics\""
-date: 2024-05-31T07:41:51.826Z
-updated: 2024-06-01T07:41:51.826Z
+date: 2024-07-31T11:20:03.787Z
+updated: 2024-08-01T11:20:03.787Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Spectrum Perfection: Color Grading Basics\""
 excerpt: "\"This Article Describes [Updated] Spectrum Perfection: Color Grading Basics\""
 keywords: "GradColor Basics,PerfectColors Guide,Spectrum CG Essentials,Chroma Balance Fundamentals,ColorGradiing Basics,PixPerfection Tips,HuePerfect Techniques"
-thumbnail: https://www.lifewire.com/thmb/GupZEfDiNv-UEGiKSNxbTg6huFs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1052001754-41c546b5ed4446ebac2da44fbbe609e5.jpg
+thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463af4e51940397e62459c5f66.jpg
 ---
 
 ## Spectrum Perfection: Color Grading Basics
@@ -32,10 +32,16 @@ In cinematography, color grading refers to the manipulation of film and video im
 
 Color grading and color correction are processes that happen throughout postproduction. One makes the film look more native, and the other stylizes the footage. After the colorist finishes color correction, they can begin grading the film. During color grading, colorists use editing software to formalize the footage, highlighting a movie's visual tone and ambiance and making it look more cinematic.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apply color grading to video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-grading-to-video.jpg)
 
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Why is Color Grading Important?
 
 **Color grading establish a picture's first impression**
@@ -50,6 +56,9 @@ The communication of emotion and story through the lens is one of the most power
 
 One of the most intimidating challenges a photographer or vlogger faces is creating a unique style that can result in a brand for their work. Making a visual style that viewers can recognize at a glance can tremendously impact the growth of a photographer's career. Color grading plays a vital part in that process. Customers will often come to you with a wide range of different photography outputs. By defining a consistent color grading work, you can tie it all into a dense brand that reflects strongly on you and construct a distinctive value that provides you something to sell that only you can offer to people.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to use Color Grading in Wondershare Filmora?
 
 There are many color grading software available on your Windows PC or Mac. Still, here I will show you how to use the Color grading and color tuning features in Wondershare Filmora video editing software. Filmora's natural interface allows learners or semi-pros to master this video editor speedily. And, the color tuning tools in Filmora are powerful enough.
@@ -72,6 +81,9 @@ Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar
 
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
 
 **Contrast**: is the variance in luminance or color that makes an object identifiable. By modifying this setting, control the dissimilarity in color and brightness in contrary parts of the video image.
@@ -90,6 +102,9 @@ Color Panel Window - to perform color correction in Wondershare Filmora, switch 
 
 Here, there are two options to select: The Color correction. It offers different readily-made presets you can use to color your video.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
 ##### Step2Select the specific video portion
@@ -102,10 +117,17 @@ First, you need to select the specific video portion you want to change the colo
 
 * And I selected the end portion of the video. After that, choose the part of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
 
 ##### Step3Apply the color correction preset that you want then click ok
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![apply color correction preset](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-correction-preset.jpg)
 
 You will notice that the color changes depending on your selected preset.
@@ -124,6 +146,9 @@ Once you've finished correcting the video color, press Play and go over the whol
 
 You can modify the temperature, tint, white balance, contrast, saturation, and brightness and apply 3D LUT directly and quickly in this editing panel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![color panel windows filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-panel-windows-filmora.jpg)
 
 ##### Step2Color grading with Wondershare Filmora
@@ -198,3 +223,73 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-boost-youtube-video-performance-with-rapid-rendering-methods/"><u>[New] 2024 Approved  Boost YouTube Video Performance with Rapid Rendering Methods</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-masterful-post-placement-to-surge-video-views/"><u>[New] 2024 Approved  Masterful Post Placement to Surge Video Views</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-techniques-for-stunning-shadow-photography-on-your-iphone/"><u>[New] 2024 Approved  Techniques for Stunning Shadow Photography on Your iPhone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-essential-tips-building-an-instagram-money-machine/"><u>[New] In 2024, Essential Tips  Building an Instagram Money Machine</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-lively-registration-and-unregistration-guide/"><u>[New] Lively Registration & Unregistration Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-non-sport-spectacles-in-the-top-ten-front-rows/"><u>[New] Non-Sport Spectacles in the Top Ten Front Rows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-upconversion-from-standard-definition-to-dynamic-range-extraordinaire/"><u>[New] Seamless Upconversion From Standard Definition to Dynamic Range Extraordinaire</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-harnessing-youtubes-true-potential-in-studio/"><u>[Updated] 2024 Approved  Harnessing YouTube's True Potential in Studio</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-how-to-use-obs-streamlabs-on-mac/"><u>[Updated] How to Use OBS Streamlabs on Mac？</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-androids-premier-gaming-application-decoding-the-kinemaster-experience/"><u>[Updated] In 2024, Android's Premier Gaming Application - Decoding the KineMaster Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-unboxing-expert-tips-and-tricks/"><u>[Updated] Mastering Unboxing  Expert Tips and Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximizing-your-walls-with-windows-11-a-guide-to-changing-backdrops/"><u>[Updated] Maximizing Your Walls with Windows 11  A Guide to Changing Backdrops</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfect-pairing-of-podcast-apps-and-android-top-6-recommendations/"><u>[Updated] Perfect Pairing of Podcast Apps & Android  Top 6 Recommendations</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-pro-screen-recording-tool-for-successful-youtubers/"><u>[Updated] Pro Screen Recording Tool for Successful YouTubers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-rhythmic-beak-boogie/"><u>[Updated] Rhythmic Beak Boogie</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-edits-navigating-photoshops-eraser-function/"><u>[Updated] Seamless Edits  Navigating Photoshop’s Eraser Function</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-secure-apps-for-hidden-instagram-stories-for-2024/"><u>[Updated] Secure Apps for Hidden Instagram Stories for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-stepwise-guide-to-launching-and-managing-a-live-broadcast/"><u>[Updated] Stepwise Guide to Launching and Managing a Live Broadcast</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-laughter-labyrinas-ideas-that-resonate-with-crowds/"><u>2024 Approved  Laughter Labyrinas  Ideas That Resonate with Crowds</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-leveraging-background-footage-for-engaging-content/"><u>2024 Approved  Leveraging Background Footage for Engaging Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lgs-cinematic-revolution-the-31mu97-b-monitor-breakdown-review/"><u>2024 Approved  LG’s Cinematic Revolution  The 31MU97-B Monitor Breakdown Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-luminous-transformations-for-android-videos-step-by-step/"><u>2024 Approved  Luminous Transformations for Android Videos Step by Step</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-metaverse-compelling-vr-headsets-recommended/"><u>2024 Approved  Navigating Metaverse  Compelling VR Headsets Recommended</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-virtual-territories-metaverse-and-multiverse-guide/"><u>2024 Approved  Navigating Virtual Territories  Metaverse & Multiverse Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-no-money-all-fcp-unveiled-methods/"><u>2024 Approved  No Money, All FCP – Unveiled Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photography-in-action-applying-motion-blur-in-adobe/"><u>2024 Approved  Photography in Action  Applying Motion Blur in Adobe</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-seminar-title-inventor-suite/"><u>2024 Approved  Premier Seminar Title Inventor Suite</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sharpening-screen-views-for-improved-virtual-interactions/"><u>2024 Approved  Sharpening Screen Views for Improved Virtual Interactions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-innovation-how-technology-shapes-industry-standards/"><u>2024 Approved  SRT Innovation  How Technology Shapes Industry Standards</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-transform-your-youtube-routine-control-over-video-delivery-speeds/"><u>2024 Approved  Transform Your YouTube Routine  Control Over Video Delivery Speeds</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-viral-visionaries-top-meme-creators-on-social-media/"><u>2024 Approved  Viral Visionaries  Top Meme Creators on Social Media</u></a></li>
+<li><a href="https://fox-access.techidaily.com/bridging-audio-artistry-in-visual-formats-for-2024/"><u>Bridging Audio Artistry in Visual Formats for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/does-reduced-shakiness-improve-creative-editing-in-adobe-photos-in-2024/"><u>Does Reduced Shakiness Improve Creative Editing in Adobe Photos, In 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/high-quality-fb-videos-for-ff-browser-users-for-2024/"><u>High-Quality FB Videos for FF Browser Users for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-harness-the-power-of-obs-on-android-gadgets/"><u>How to Harness the Power of OBS on Android Gadgets</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-c22-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y78-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y78 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-framed-facets-guide-to-the-best-apps-and-sites-for-frame-upgrades/"><u>In 2024, Framed Facets  Guide to the Best Apps & Sites for Frame Upgrades</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphones-ultimate-strategy-for-seamless-podcast-downloading/"><u>In 2024, IPhone's Ultimate Strategy for Seamless Podcast Downloading</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-plan-youtube-content-into-mp4/"><u>In 2024, Master Plan  YouTube Content Into MP4</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-motivational-melodies-select-the-best-tracks-for-an-effective-workout/"><u>In 2024, Motivational Melodies  Select the Best Tracks for an Effective Workout</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-photography-with-advanced-software/"><u>In 2024, Pioneering Photography with Advanced Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pixel-perfect-free-mobile-photography-booster/"><u>In 2024, Pixel Perfect  Free Mobile Photography Booster</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-boundaries-in-video-photography-nikon-1j5/"><u>In 2024, Pushing Boundaries in Video Photography - Nikon 1J5</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-imagery-boundaries-mastering-ps-distortion-methods/"><u>In 2024, Pushing Imagery Boundaries  Mastering PS Distortion Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-content-with-360-degree-footage/"><u>In 2024, Revolutionizing Content with 360-Degree Footage</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphones-visual-upgrades-in-ios-11-explored-for-2024/"><u>IPhone's Visual Upgrades in iOS 11 Explored for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/is-sns-hdr-pro-worth-it-top-alternatives-reviewed-for-2024/"><u>Is SNS HDR Pro Worth It? Top Alternatives Reviewed for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/liberating-c-span-content-a-guide-to-unauthorized-downloads-for-2024/"><u>Liberating C-Span Content  A Guide to Unauthorized Downloads for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/luxury-on-wheels-a-compre-written-in-the-stars-for-2024/"><u>Luxury on Wheels - A Compre Written in the Stars for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/market-prowess-the-art-of-strategy-unpacked/"><u>Market Prowess  The Art of Strategy Unpacked</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-multi-tasking-on-edge-with-picture-in-picture-for-2024/"><u>Master Multi-Tasking on Edge with Picture-in-Picture for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-online-image-cropping-techniques-for-2024/"><u>Mastering Online Image Cropping Techniques for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximize-your-spotify-campaign-roi-an-expert-guide-for-2024/"><u>Maximize Your Spotify Campaign ROI - An Expert Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-webcam-solutions-for-audio-professionals-for-2024/"><u>Optimal Webcam Solutions for Audio Professionals for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photographic-albums-with-background-music-for-2024/"><u>Photographic Albums with Background Music for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pinpointing-your-custom-designed-music-haven-on-youtube-for-2024/"><u>Pinpointing Your Custom-Designed Music Haven on Youtube for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-pro-fullscreen-techniques-compendium-for-2024/"><u>Premier Pro Fullscreen Techniques Compendium for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-vivo-v27-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo V27 Pro Black and White | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/satirists-web-workshop-for-2024/"><u>Satirist's Web Workshop for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/silverleaf-studio-exploring-lightroom-substitutes-for-2024/"><u>Silverleaf Studio  Exploring Lightroom Substitutes for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/solidify-your-bio-link-an-easy-tiktok-methodology-for-2024/"><u>Solidify Your Bio Link  An Easy TikTok Methodology for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-11-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 11</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-vivo-y78plus-t1-edition-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Vivo Y78+ (T1) Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/voice-memories-on-the-go-2024iphone-edition/"><u>Voice Memories on the Go - 2024iPhone Edition</u></a></li>
+</ul></div>

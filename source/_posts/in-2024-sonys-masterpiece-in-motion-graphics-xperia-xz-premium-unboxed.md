@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sony's Masterpiece in Motion Graphics  Xperia XZ Premium Unboxed\""
-date: 2024-05-31T07:39:11.465Z
-updated: 2024-06-01T07:39:11.465Z
+date: 2024-07-31T08:28:57.476Z
+updated: 2024-08-01T08:28:57.476Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Sony's Masterpiece in Motion Graphics: Xperia XZ Premium Unboxed\""
 excerpt: "\"This Article Describes In 2024, Sony's Masterpiece in Motion Graphics: Xperia XZ Premium Unboxed\""
 keywords: "Sony Xperia XZ,Xperia Unboxing,Sony Xperia Motion,Premium Xperia Review,Sony Graphic Mastery,XZ Premium Graphics,Xperia XZ Unveil"
-thumbnail: https://www.lifewire.com/thmb/R7gZjSitHYML3ZaSI-C1ceXn9L4=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/ImagefromiOS1-d1c97c13048a4fc88627e315957d98d8.jpg
+thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc625d61d049281d91eac42f958.jpg
 ---
 
 ## Sony's Masterpiece in Motion Graphics: Xperia XZ Premium Unboxed
@@ -67,12 +67,184 @@ This device is good. And this is undoubted. I have specified the dimension I wou
 * Outdated design
 * Uncomfortable to hold
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Complete Review of Sony Xperia XZ Premium 4K Smartphone
 
 ### Section 1: Hardware Design
 
 #### 1.Body Design
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+![sony-xperia-xz-premium-design](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-design.jpg)
+
+While many popular smartphones are featured with curved edges and rounded corners, Sony followed the outdated industrial design for its Xperia XZ Premium. This 4K smartphone is not mobile friendly with its thick bezels to and bottom design, makes it mimic the outlook of a dated device. Such lag would have been considerably entertained if it wasn’t the latest flagship of Sony but because it is, it looks awkward to overlook such lag.
+
+The Xperia XZ Premium is uncomfortable to hold because of its large size and its sharp corner. If you want to use it one-handed, you will find it is hard for you to reach upper screen and the corners will dig into your palm. Though Sony adopted Gorilla Glass 5 on the front and back, the rear glass on this XZ Premium is unbelievable slippery. Any angle will cause it to slide.
+
+On the left side of the XZ Premium, there are a dual-SIM and microSD card slot which are accessible through a flap. This phone is charged via a USB-C port which supporting Quick Charge 3.0\. The fingerprint sensor is intergrated with the power button, however, it is disabled in the US.
+
+#### 2.Display
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![sony-xperia-xz-premium-display](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-display.jpg)
+
+The Sony XZ Premium has a great and awesome display, which earned it the day world’s first 5.5 inches device with (3,840-by-2,160) HDR IPS display smartphone. It is the first smartphone with a 4K HDR display in the world. In case you cannot decipher the math properly, this means a wholesome of 807 pixels per inch. One more thing is that; unlike preceding devices which has a stumped up view of the 4k display, this device runs the 4k experience on all section of the device.
+
+However the great testimony about this device, we have one complaint about the panel. The color of this panel is somehow unrealistic. In spite of the fact that it does feature three display presets, which you can choose from in order to change the way color are displayed. Either: super vivid, standard, and or professional mode. While the professional mode is meant to present the best display mode, the sky-like over saturated hue is somewhat weird. Nevertheless you can still custom switch between them.
+
+#### 3.Hardware
+
+For the time being, this Sony seems to be the first mobile manufacturer to have announced the Snapdragon 835\. Apart from this imaginable processor, the XZ Premium also comes with a 4GB RAM, which makes it pretty much-performing phone.
+
+Thinking about these customizations, one would reasonably conclude that it will be another oven. But surprisingly, this device seems to be an opposite of rational assumptions. It also comes with a 64GB storage, which is expandable with a MicroSD.
+
+#### 4.Resistant Capacity
+
+One more positive with the XZ Premium is with its IP68 dust and water resistance, which leaves you with the confidence of using your phone anywhere without being scared of it absorbing liquid.
+
+#### 5. Connectivity
+
+The phone has a strong and reliable internet and network connectivity. One of the recently test done in Midtown Manhattan, a solid network connectivity was recorded with an optimal download speed of 11.41 mbps.
+
+Such level of connectivity that comes with this phone is also related with the fact that it supports Cat 16 LTE with a 4x4 MIMO, which allows it attains gigabit download speed. In addition, it also supports dual-band, Wi-Fi and NFC.
+
+#### 6. Battery
+
+![sony-xperia-xz-premium-battery](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-battery.jpg)
+
+The Sony XZ Premium smartphone has a battery rating of 3,600mAh, which is almost dated when compared with released as 5000mAh by Infinix and Techno. However, it is still a more sufficient capacity. The battery life is somehow disappointing. This is related to the fact that the phone consumes a lot of power especially when you are playing games and real-time usage. However the disappointing battery life, it can be very good for everyday use if you can have a better usage, like turning off the Wi-Fi when not in use and some other features like your data and Bluetooth. Meanwhile the phone has an unprecedented fast charging technology that supports the 3.0 charging tech, which might leave you less worried about the battery life as it takes no longer time to sip it in again.
+
+### Section 2: Interface Layout
+
+![sony-xperia-xz-premium-software](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-software.jpg)
+
+Sony XZ Premium support the latest Android 7.1.1 interface. The interface is quite pretty easy to navigate and use. If you have been a Sony user, then this will give you no heck as it is possible to get used to the interface and how they function within some hours. The interface is pleasing and sight beautifying, as well as intuitive and fantasizing.
+
+As known over the years, one thing Sony has long been known for is with their preinstalled applications. This Sony XZ premium comes with some pre-installed app which will give you a reliable feel of the device as some of these apps cannot be gotten for free. So you are given the custom ability to enjoy the device as part of your purchase. One other thing here is that you are not compelled to make use of these apps incase, some may not be suitable to you, you can disable it any time you like.
+
+### Section 3: Features and Performance of Sony Xperia XZ Premium 4K Smartphone
+
+#### 1.Camera Performance
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+![sony-xperia-xz-premium-camera](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-camera.jpg)
+
+Some major dimensions of the XZ premium that need to be noted is the camera quality. The phone comes with a 19MP back camera and the front camera also has a competitive 13MP with crisp selfies, which is also awesome for real time video chat.
+
+The picture quality of the XZ Premium is something that is remarkable. It has a CMOS sensor including a phase detection auto focus that makes is produce enhancing pictures with high definitional quality even in low light.
+
+The camera also has an amazing feature that enables it to reprocess any captured image within milliseconds to minimize distortion. In addition to the camera, the Sony’s new MotionEye tech makes it possible to capture fast moving objects. It is now very easy to capture moving objects such as flying birds, moving cars can be capture like they are packed in the garage.
+
+The XZ Premium smartphone is capable of shooting at up to 960 frame per second (fps), which will result in some very cool and pleasant video. Not alone that, you can shoot at 1080p at 60fps and 4K at 30fps.
+
+#### 2.Audio Performance
+
+The Sony Xperia XZ mobile is one with such user’s craved audio compatibility. The device supports HD audio with DSD, FLAC, LPCM, ALAC file formats. Those are just the exceptional audio qualities – so you should know that dated qualities like the 3gp, MP4 and the likes are just a perfect walkaway.
+
+Also on the superb audio quality, the device comes with the DSEE HX protocol which enables you to enjoy an enhanced quality of your compressed music files. The DSEE HX embedded in this device does this, by employing digital noise cancellation. One close use of this phone shows that the Sennheiser HF630VB headset and the sounds quality was unprecedented. It has transformations such as from crisp highs, mids, low and the likes with great details including a detailed rich bass overlay.
+
+The audio quality is not limited to direct fix headsets, it also has great qualitative sound with Bluetooth headsets. The device supports almost all spectrum of Bluetooth devices such as Bluetooth 5.0, including LDAC codecs. Although the Bluetooth 5.0 is yet to be compatible with any headset, the XZ premium helps you evade such limitation by enabling you to stream audio with improved quality.
+
+#### 3. Slow-Motion Recording
+
+One more feature of this device that cannot be left out is with its low motion recording and capturing. With its ability to capture as much as 960 frames per second, it makes it a more presentable camera, which is relatively four times the speed of a thing.
+
+This enables the device to give you a more detailed footage of an event. It also gives you the ability to choose from three different recording modes. From the entry level, to the super slow (one shot) level, then the super slow motion mode. Such custom ability of a camera is unprecedented and it undoubtedly the flagship of this device.
+
+### Sony Xperia XZ Premium 4K Smartphone Software and Apps
+
+Just like as often expected with Sony’s releases, they always come with custom preinstalled apps. The XZ Premium is not coming short of this. It came with the Android 7.1.1 Nougat with Sony’s custom user interface running together with it.
+
+There are numerous apps on this XZ Premium, here we want to mention Lifelog and PS4 Remote Play apps. The Lifelog allows you to measure almost everything about your daily life, from how long you spending on walking to how much time you spend on social media, which can help you to establish a healthier habits easier. With the PS4 Remote Play app, you can play your PS4 anywhere as long as there is a internet connection. It allows you to connect the DualShock 4 control unit to the XZ Premium via Bluetooth.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
+## Conclusion
+
+To wrap it up, the device cost around $800 making it one of the most expensive flagship smartphone you will ever find in the market. If you are a die-hard fan of Sony, the XZ Premium is the phone that you are looking for in 2017\. It delivers good video quality with a 4K HDR display and 960fps slow-motion ability and MotionEye Technology. In terms of hardware and performance, it matches most competitors with elegant camera quality, 4K HDR display, MotionEye Technology, and high resolution video and audio.
+
+However, you can choose other smartphones, such as OnePlus 5, which can also shoot 4K video, if you are sensitive with the high price.
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Xperia XZ Premium is the premier phone from Sony. So what this means is that, all previous Sony flagships such as the XZ, and others, are all incorporated into this device. If you know about the Z5 Premium, then, this is an advance flagship of that.
+
+As if that is not enough, this phone has the latest Snapdragon 835 processor with 4k resolution and HDR, which makes it impossible for other top smartphones such as [Samsung Galaxy S8](https://tools.techidaily.com/wondershare/filmora/download/) , HTC U11 as well as LG G6 to compete. All these being said, let's take a detailed look so we would have to make a wholesome judgment rather than with the afore-stated only.
+
+## Sony Xperia XZ Premium Specification
+
+| Parameters           | Sony Xperia XZ Premium           |
+| -------------------- | -------------------------------- |
+| **Dimensions**       | 156 x 77 x 7.9 mm                |
+| **Display**          | 5.5" 4K HDR Display              |
+| Gorilla Glass 5      |                                  |
+| **Processor**        | 2.45 GHz Qualcomm Snapdragon 835 |
+| **RAM**              | 4GB                              |
+| **Storage**          | 64/128 GB                        |
+| **MicroSD**          | Up to 256GB                      |
+| **NFC Support**      | Yes                              |
+| **Camera**           | Front 13MP, Rear 19MP            |
+| **4K Video**         | Yes                              |
+| **Battery**          | 3,230 mAh                        |
+| Non-removable        |                                  |
+| Quick Charge 3.0     |                                  |
+| **Charger**          | USB Type-C                       |
+| **OS**               | Android 7.1 Nougat               |
+| **Water Resistance** | IP65                             |
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Sony Xperia XZ Premium Pros and Cons
+
+**Pros**
+
+This device is good. And this is undoubted. I have specified the dimension I would love to rate it as good as the followings:
+
+* Awesome speakers
+* Great flagship performance
+* Intensified resolution display
+
+**Cons**
+
+* Poor battery performance
+* Outdated design
+* Uncomfortable to hold
+
+## Complete Review of Sony Xperia XZ Premium 4K Smartphone
+
+### Section 1: Hardware Design
+
+#### 1.Body Design
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![sony-xperia-xz-premium-design](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-design.jpg)
 
 While many popular smartphones are featured with curved edges and rounded corners, Sony followed the outdated industrial design for its Xperia XZ Premium. This 4K smartphone is not mobile friendly with its thick bezels to and bottom design, makes it mimic the outlook of a dated device. Such lag would have been considerably entertained if it wasn’t the latest flagship of Sony but because it is, it looks awkward to overlook such lag.
@@ -111,6 +283,9 @@ Such level of connectivity that comes with this phone is also related with the f
 
 The Sony XZ Premium smartphone has a battery rating of 3,600mAh, which is almost dated when compared with released as 5000mAh by Infinix and Techno. However, it is still a more sufficient capacity. The battery life is somehow disappointing. This is related to the fact that the phone consumes a lot of power especially when you are playing games and real-time usage. However the disappointing battery life, it can be very good for everyday use if you can have a better usage, like turning off the Wi-Fi when not in use and some other features like your data and Bluetooth. Meanwhile the phone has an unprecedented fast charging technology that supports the 3.0 charging tech, which might leave you less worried about the battery life as it takes no longer time to sip it in again.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Section 2: Interface Layout
 
 ![sony-xperia-xz-premium-software](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-software.jpg)
@@ -119,6 +294,182 @@ Sony XZ Premium support the latest Android 7.1.1 interface. The interface is qui
 
 As known over the years, one thing Sony has long been known for is with their preinstalled applications. This Sony XZ premium comes with some pre-installed app which will give you a reliable feel of the device as some of these apps cannot be gotten for free. So you are given the custom ability to enjoy the device as part of your purchase. One other thing here is that you are not compelled to make use of these apps incase, some may not be suitable to you, you can disable it any time you like.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
+### Section 3: Features and Performance of Sony Xperia XZ Premium 4K Smartphone
+
+#### 1.Camera Performance
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![sony-xperia-xz-premium-camera](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-camera.jpg)
+
+Some major dimensions of the XZ premium that need to be noted is the camera quality. The phone comes with a 19MP back camera and the front camera also has a competitive 13MP with crisp selfies, which is also awesome for real time video chat.
+
+The picture quality of the XZ Premium is something that is remarkable. It has a CMOS sensor including a phase detection auto focus that makes is produce enhancing pictures with high definitional quality even in low light.
+
+The camera also has an amazing feature that enables it to reprocess any captured image within milliseconds to minimize distortion. In addition to the camera, the Sony’s new MotionEye tech makes it possible to capture fast moving objects. It is now very easy to capture moving objects such as flying birds, moving cars can be capture like they are packed in the garage.
+
+The XZ Premium smartphone is capable of shooting at up to 960 frame per second (fps), which will result in some very cool and pleasant video. Not alone that, you can shoot at 1080p at 60fps and 4K at 30fps.
+
+#### 2.Audio Performance
+
+The Sony Xperia XZ mobile is one with such user’s craved audio compatibility. The device supports HD audio with DSD, FLAC, LPCM, ALAC file formats. Those are just the exceptional audio qualities – so you should know that dated qualities like the 3gp, MP4 and the likes are just a perfect walkaway.
+
+Also on the superb audio quality, the device comes with the DSEE HX protocol which enables you to enjoy an enhanced quality of your compressed music files. The DSEE HX embedded in this device does this, by employing digital noise cancellation. One close use of this phone shows that the Sennheiser HF630VB headset and the sounds quality was unprecedented. It has transformations such as from crisp highs, mids, low and the likes with great details including a detailed rich bass overlay.
+
+The audio quality is not limited to direct fix headsets, it also has great qualitative sound with Bluetooth headsets. The device supports almost all spectrum of Bluetooth devices such as Bluetooth 5.0, including LDAC codecs. Although the Bluetooth 5.0 is yet to be compatible with any headset, the XZ premium helps you evade such limitation by enabling you to stream audio with improved quality.
+
+#### 3. Slow-Motion Recording
+
+One more feature of this device that cannot be left out is with its low motion recording and capturing. With its ability to capture as much as 960 frames per second, it makes it a more presentable camera, which is relatively four times the speed of a thing.
+
+This enables the device to give you a more detailed footage of an event. It also gives you the ability to choose from three different recording modes. From the entry level, to the super slow (one shot) level, then the super slow motion mode. Such custom ability of a camera is unprecedented and it undoubtedly the flagship of this device.
+
+### Sony Xperia XZ Premium 4K Smartphone Software and Apps
+
+Just like as often expected with Sony’s releases, they always come with custom preinstalled apps. The XZ Premium is not coming short of this. It came with the Android 7.1.1 Nougat with Sony’s custom user interface running together with it.
+
+There are numerous apps on this XZ Premium, here we want to mention Lifelog and PS4 Remote Play apps. The Lifelog allows you to measure almost everything about your daily life, from how long you spending on walking to how much time you spend on social media, which can help you to establish a healthier habits easier. With the PS4 Remote Play app, you can play your PS4 anywhere as long as there is a internet connection. It allows you to connect the DualShock 4 control unit to the XZ Premium via Bluetooth.
+
+## Conclusion
+
+To wrap it up, the device cost around $800 making it one of the most expensive flagship smartphone you will ever find in the market. If you are a die-hard fan of Sony, the XZ Premium is the phone that you are looking for in 2017\. It delivers good video quality with a 4K HDR display and 960fps slow-motion ability and MotionEye Technology. In terms of hardware and performance, it matches most competitors with elegant camera quality, 4K HDR display, MotionEye Technology, and high resolution video and audio.
+
+However, you can choose other smartphones, such as OnePlus 5, which can also shoot 4K video, if you are sensitive with the high price.
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Xperia XZ Premium is the premier phone from Sony. So what this means is that, all previous Sony flagships such as the XZ, and others, are all incorporated into this device. If you know about the Z5 Premium, then, this is an advance flagship of that.
+
+As if that is not enough, this phone has the latest Snapdragon 835 processor with 4k resolution and HDR, which makes it impossible for other top smartphones such as [Samsung Galaxy S8](https://tools.techidaily.com/wondershare/filmora/download/) , HTC U11 as well as LG G6 to compete. All these being said, let's take a detailed look so we would have to make a wholesome judgment rather than with the afore-stated only.
+
+## Sony Xperia XZ Premium Specification
+
+| Parameters           | Sony Xperia XZ Premium           |
+| -------------------- | -------------------------------- |
+| **Dimensions**       | 156 x 77 x 7.9 mm                |
+| **Display**          | 5.5" 4K HDR Display              |
+| Gorilla Glass 5      |                                  |
+| **Processor**        | 2.45 GHz Qualcomm Snapdragon 835 |
+| **RAM**              | 4GB                              |
+| **Storage**          | 64/128 GB                        |
+| **MicroSD**          | Up to 256GB                      |
+| **NFC Support**      | Yes                              |
+| **Camera**           | Front 13MP, Rear 19MP            |
+| **4K Video**         | Yes                              |
+| **Battery**          | 3,230 mAh                        |
+| Non-removable        |                                  |
+| Quick Charge 3.0     |                                  |
+| **Charger**          | USB Type-C                       |
+| **OS**               | Android 7.1 Nougat               |
+| **Water Resistance** | IP65                             |
+
+## Sony Xperia XZ Premium Pros and Cons
+
+**Pros**
+
+This device is good. And this is undoubted. I have specified the dimension I would love to rate it as good as the followings:
+
+* Awesome speakers
+* Great flagship performance
+* Intensified resolution display
+
+**Cons**
+
+* Poor battery performance
+* Outdated design
+* Uncomfortable to hold
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
+## Complete Review of Sony Xperia XZ Premium 4K Smartphone
+
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Section 1: Hardware Design
+
+#### 1.Body Design
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![sony-xperia-xz-premium-design](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-design.jpg)
+
+While many popular smartphones are featured with curved edges and rounded corners, Sony followed the outdated industrial design for its Xperia XZ Premium. This 4K smartphone is not mobile friendly with its thick bezels to and bottom design, makes it mimic the outlook of a dated device. Such lag would have been considerably entertained if it wasn’t the latest flagship of Sony but because it is, it looks awkward to overlook such lag.
+
+The Xperia XZ Premium is uncomfortable to hold because of its large size and its sharp corner. If you want to use it one-handed, you will find it is hard for you to reach upper screen and the corners will dig into your palm. Though Sony adopted Gorilla Glass 5 on the front and back, the rear glass on this XZ Premium is unbelievable slippery. Any angle will cause it to slide.
+
+On the left side of the XZ Premium, there are a dual-SIM and microSD card slot which are accessible through a flap. This phone is charged via a USB-C port which supporting Quick Charge 3.0\. The fingerprint sensor is intergrated with the power button, however, it is disabled in the US.
+
+#### 2.Display
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+![sony-xperia-xz-premium-display](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-display.jpg)
+
+The Sony XZ Premium has a great and awesome display, which earned it the day world’s first 5.5 inches device with (3,840-by-2,160) HDR IPS display smartphone. It is the first smartphone with a 4K HDR display in the world. In case you cannot decipher the math properly, this means a wholesome of 807 pixels per inch. One more thing is that; unlike preceding devices which has a stumped up view of the 4k display, this device runs the 4k experience on all section of the device.
+
+However the great testimony about this device, we have one complaint about the panel. The color of this panel is somehow unrealistic. In spite of the fact that it does feature three display presets, which you can choose from in order to change the way color are displayed. Either: super vivid, standard, and or professional mode. While the professional mode is meant to present the best display mode, the sky-like over saturated hue is somewhat weird. Nevertheless you can still custom switch between them.
+
+#### 3.Hardware
+
+For the time being, this Sony seems to be the first mobile manufacturer to have announced the Snapdragon 835\. Apart from this imaginable processor, the XZ Premium also comes with a 4GB RAM, which makes it pretty much-performing phone.
+
+Thinking about these customizations, one would reasonably conclude that it will be another oven. But surprisingly, this device seems to be an opposite of rational assumptions. It also comes with a 64GB storage, which is expandable with a MicroSD.
+
+#### 4.Resistant Capacity
+
+One more positive with the XZ Premium is with its IP68 dust and water resistance, which leaves you with the confidence of using your phone anywhere without being scared of it absorbing liquid.
+
+#### 5. Connectivity
+
+The phone has a strong and reliable internet and network connectivity. One of the recently test done in Midtown Manhattan, a solid network connectivity was recorded with an optimal download speed of 11.41 mbps.
+
+Such level of connectivity that comes with this phone is also related with the fact that it supports Cat 16 LTE with a 4x4 MIMO, which allows it attains gigabit download speed. In addition, it also supports dual-band, Wi-Fi and NFC.
+
+#### 6. Battery
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+![sony-xperia-xz-premium-battery](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-battery.jpg)
+
+The Sony XZ Premium smartphone has a battery rating of 3,600mAh, which is almost dated when compared with released as 5000mAh by Infinix and Techno. However, it is still a more sufficient capacity. The battery life is somehow disappointing. This is related to the fact that the phone consumes a lot of power especially when you are playing games and real-time usage. However the disappointing battery life, it can be very good for everyday use if you can have a better usage, like turning off the Wi-Fi when not in use and some other features like your data and Bluetooth. Meanwhile the phone has an unprecedented fast charging technology that supports the 3.0 charging tech, which might leave you less worried about the battery life as it takes no longer time to sip it in again.
+
+### Section 2: Interface Layout
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![sony-xperia-xz-premium-software](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-software.jpg)
+
+Sony XZ Premium support the latest Android 7.1.1 interface. The interface is quite pretty easy to navigate and use. If you have been a Sony user, then this will give you no heck as it is possible to get used to the interface and how they function within some hours. The interface is pleasing and sight beautifying, as well as intuitive and fantasizing.
+
+As known over the years, one thing Sony has long been known for is with their preinstalled applications. This Sony XZ premium comes with some pre-installed app which will give you a reliable feel of the device as some of these apps cannot be gotten for free. So you are given the custom ability to enjoy the device as part of your purchase. One other thing here is that you are not compelled to make use of these apps incase, some may not be suitable to you, you can disable it any time you like.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Section 3: Features and Performance of Sony Xperia XZ Premium 4K Smartphone
 
 #### 1.Camera Performance
@@ -175,6 +526,9 @@ Xperia XZ Premium is the premier phone from Sony. So what this means is that, al
 
 As if that is not enough, this phone has the latest Snapdragon 835 processor with 4k resolution and HDR, which makes it impossible for other top smartphones such as [Samsung Galaxy S8](https://tools.techidaily.com/wondershare/filmora/download/) , HTC U11 as well as LG G6 to compete. All these being said, let's take a detailed look so we would have to make a wholesome judgment rather than with the afore-stated only.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Sony Xperia XZ Premium Specification
 
 | Parameters           | Sony Xperia XZ Premium           |
@@ -196,6 +550,9 @@ As if that is not enough, this phone has the latest Snapdragon 835 processor wit
 | **OS**               | Android 7.1 Nougat               |
 | **Water Resistance** | IP65                             |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Sony Xperia XZ Premium Pros and Cons
 
 **Pros**
@@ -214,10 +571,16 @@ This device is good. And this is undoubted. I have specified the dimension I wou
 
 ## Complete Review of Sony Xperia XZ Premium 4K Smartphone
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Section 1: Hardware Design
 
 #### 1.Body Design
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![sony-xperia-xz-premium-design](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-design.jpg)
 
 While many popular smartphones are featured with curved edges and rounded corners, Sony followed the outdated industrial design for its Xperia XZ Premium. This 4K smartphone is not mobile friendly with its thick bezels to and bottom design, makes it mimic the outlook of a dated device. Such lag would have been considerably entertained if it wasn’t the latest flagship of Sony but because it is, it looks awkward to overlook such lag.
@@ -258,12 +621,18 @@ The Sony XZ Premium smartphone has a battery rating of 3,600mAh, which is almost
 
 ### Section 2: Interface Layout
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sony-xperia-xz-premium-software](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-software.jpg)
 
 Sony XZ Premium support the latest Android 7.1.1 interface. The interface is quite pretty easy to navigate and use. If you have been a Sony user, then this will give you no heck as it is possible to get used to the interface and how they function within some hours. The interface is pleasing and sight beautifying, as well as intuitive and fantasizing.
 
 As known over the years, one thing Sony has long been known for is with their preinstalled applications. This Sony XZ premium comes with some pre-installed app which will give you a reliable feel of the device as some of these apps cannot be gotten for free. So you are given the custom ability to enjoy the device as part of your purchase. One other thing here is that you are not compelled to make use of these apps incase, some may not be suitable to you, you can disable it any time you like.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Section 3: Features and Performance of Sony Xperia XZ Premium 4K Smartphone
 
 #### 1.Camera Performance
@@ -292,296 +661,9 @@ One more feature of this device that cannot be left out is with its low motion r
 
 This enables the device to give you a more detailed footage of an event. It also gives you the ability to choose from three different recording modes. From the entry level, to the super slow (one shot) level, then the super slow motion mode. Such custom ability of a camera is unprecedented and it undoubtedly the flagship of this device.
 
-### Sony Xperia XZ Premium 4K Smartphone Software and Apps
-
-Just like as often expected with Sony’s releases, they always come with custom preinstalled apps. The XZ Premium is not coming short of this. It came with the Android 7.1.1 Nougat with Sony’s custom user interface running together with it.
-
-There are numerous apps on this XZ Premium, here we want to mention Lifelog and PS4 Remote Play apps. The Lifelog allows you to measure almost everything about your daily life, from how long you spending on walking to how much time you spend on social media, which can help you to establish a healthier habits easier. With the PS4 Remote Play app, you can play your PS4 anywhere as long as there is a internet connection. It allows you to connect the DualShock 4 control unit to the XZ Premium via Bluetooth.
-
-## Conclusion
-
-To wrap it up, the device cost around $800 making it one of the most expensive flagship smartphone you will ever find in the market. If you are a die-hard fan of Sony, the XZ Premium is the phone that you are looking for in 2017\. It delivers good video quality with a 4K HDR display and 960fps slow-motion ability and MotionEye Technology. In terms of hardware and performance, it matches most competitors with elegant camera quality, 4K HDR display, MotionEye Technology, and high resolution video and audio.
-
-However, you can choose other smartphones, such as OnePlus 5, which can also shoot 4K video, if you are sensitive with the high price.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-Xperia XZ Premium is the premier phone from Sony. So what this means is that, all previous Sony flagships such as the XZ, and others, are all incorporated into this device. If you know about the Z5 Premium, then, this is an advance flagship of that.
-
-As if that is not enough, this phone has the latest Snapdragon 835 processor with 4k resolution and HDR, which makes it impossible for other top smartphones such as [Samsung Galaxy S8](https://tools.techidaily.com/wondershare/filmora/download/) , HTC U11 as well as LG G6 to compete. All these being said, let's take a detailed look so we would have to make a wholesome judgment rather than with the afore-stated only.
-
-## Sony Xperia XZ Premium Specification
-
-| Parameters           | Sony Xperia XZ Premium           |
-| -------------------- | -------------------------------- |
-| **Dimensions**       | 156 x 77 x 7.9 mm                |
-| **Display**          | 5.5" 4K HDR Display              |
-| Gorilla Glass 5      |                                  |
-| **Processor**        | 2.45 GHz Qualcomm Snapdragon 835 |
-| **RAM**              | 4GB                              |
-| **Storage**          | 64/128 GB                        |
-| **MicroSD**          | Up to 256GB                      |
-| **NFC Support**      | Yes                              |
-| **Camera**           | Front 13MP, Rear 19MP            |
-| **4K Video**         | Yes                              |
-| **Battery**          | 3,230 mAh                        |
-| Non-removable        |                                  |
-| Quick Charge 3.0     |                                  |
-| **Charger**          | USB Type-C                       |
-| **OS**               | Android 7.1 Nougat               |
-| **Water Resistance** | IP65                             |
-
-## Sony Xperia XZ Premium Pros and Cons
-
-**Pros**
-
-This device is good. And this is undoubted. I have specified the dimension I would love to rate it as good as the followings:
-
-* Awesome speakers
-* Great flagship performance
-* Intensified resolution display
-
-**Cons**
-
-* Poor battery performance
-* Outdated design
-* Uncomfortable to hold
-
-## Complete Review of Sony Xperia XZ Premium 4K Smartphone
-
-### Section 1: Hardware Design
-
-#### 1.Body Design
-
-![sony-xperia-xz-premium-design](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-design.jpg)
-
-While many popular smartphones are featured with curved edges and rounded corners, Sony followed the outdated industrial design for its Xperia XZ Premium. This 4K smartphone is not mobile friendly with its thick bezels to and bottom design, makes it mimic the outlook of a dated device. Such lag would have been considerably entertained if it wasn’t the latest flagship of Sony but because it is, it looks awkward to overlook such lag.
-
-The Xperia XZ Premium is uncomfortable to hold because of its large size and its sharp corner. If you want to use it one-handed, you will find it is hard for you to reach upper screen and the corners will dig into your palm. Though Sony adopted Gorilla Glass 5 on the front and back, the rear glass on this XZ Premium is unbelievable slippery. Any angle will cause it to slide.
-
-On the left side of the XZ Premium, there are a dual-SIM and microSD card slot which are accessible through a flap. This phone is charged via a USB-C port which supporting Quick Charge 3.0\. The fingerprint sensor is intergrated with the power button, however, it is disabled in the US.
-
-#### 2.Display
-
-![sony-xperia-xz-premium-display](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-display.jpg)
-
-The Sony XZ Premium has a great and awesome display, which earned it the day world’s first 5.5 inches device with (3,840-by-2,160) HDR IPS display smartphone. It is the first smartphone with a 4K HDR display in the world. In case you cannot decipher the math properly, this means a wholesome of 807 pixels per inch. One more thing is that; unlike preceding devices which has a stumped up view of the 4k display, this device runs the 4k experience on all section of the device.
-
-However the great testimony about this device, we have one complaint about the panel. The color of this panel is somehow unrealistic. In spite of the fact that it does feature three display presets, which you can choose from in order to change the way color are displayed. Either: super vivid, standard, and or professional mode. While the professional mode is meant to present the best display mode, the sky-like over saturated hue is somewhat weird. Nevertheless you can still custom switch between them.
-
-#### 3.Hardware
-
-For the time being, this Sony seems to be the first mobile manufacturer to have announced the Snapdragon 835\. Apart from this imaginable processor, the XZ Premium also comes with a 4GB RAM, which makes it pretty much-performing phone.
-
-Thinking about these customizations, one would reasonably conclude that it will be another oven. But surprisingly, this device seems to be an opposite of rational assumptions. It also comes with a 64GB storage, which is expandable with a MicroSD.
-
-#### 4.Resistant Capacity
-
-One more positive with the XZ Premium is with its IP68 dust and water resistance, which leaves you with the confidence of using your phone anywhere without being scared of it absorbing liquid.
-
-#### 5. Connectivity
-
-The phone has a strong and reliable internet and network connectivity. One of the recently test done in Midtown Manhattan, a solid network connectivity was recorded with an optimal download speed of 11.41 mbps.
-
-Such level of connectivity that comes with this phone is also related with the fact that it supports Cat 16 LTE with a 4x4 MIMO, which allows it attains gigabit download speed. In addition, it also supports dual-band, Wi-Fi and NFC.
-
-#### 6. Battery
-
-![sony-xperia-xz-premium-battery](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-battery.jpg)
-
-The Sony XZ Premium smartphone has a battery rating of 3,600mAh, which is almost dated when compared with released as 5000mAh by Infinix and Techno. However, it is still a more sufficient capacity. The battery life is somehow disappointing. This is related to the fact that the phone consumes a lot of power especially when you are playing games and real-time usage. However the disappointing battery life, it can be very good for everyday use if you can have a better usage, like turning off the Wi-Fi when not in use and some other features like your data and Bluetooth. Meanwhile the phone has an unprecedented fast charging technology that supports the 3.0 charging tech, which might leave you less worried about the battery life as it takes no longer time to sip it in again.
-
-### Section 2: Interface Layout
-
-![sony-xperia-xz-premium-software](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-software.jpg)
-
-Sony XZ Premium support the latest Android 7.1.1 interface. The interface is quite pretty easy to navigate and use. If you have been a Sony user, then this will give you no heck as it is possible to get used to the interface and how they function within some hours. The interface is pleasing and sight beautifying, as well as intuitive and fantasizing.
-
-As known over the years, one thing Sony has long been known for is with their preinstalled applications. This Sony XZ premium comes with some pre-installed app which will give you a reliable feel of the device as some of these apps cannot be gotten for free. So you are given the custom ability to enjoy the device as part of your purchase. One other thing here is that you are not compelled to make use of these apps incase, some may not be suitable to you, you can disable it any time you like.
-
-### Section 3: Features and Performance of Sony Xperia XZ Premium 4K Smartphone
-
-#### 1.Camera Performance
-
-![sony-xperia-xz-premium-camera](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-camera.jpg)
-
-Some major dimensions of the XZ premium that need to be noted is the camera quality. The phone comes with a 19MP back camera and the front camera also has a competitive 13MP with crisp selfies, which is also awesome for real time video chat.
-
-The picture quality of the XZ Premium is something that is remarkable. It has a CMOS sensor including a phase detection auto focus that makes is produce enhancing pictures with high definitional quality even in low light.
-
-The camera also has an amazing feature that enables it to reprocess any captured image within milliseconds to minimize distortion. In addition to the camera, the Sony’s new MotionEye tech makes it possible to capture fast moving objects. It is now very easy to capture moving objects such as flying birds, moving cars can be capture like they are packed in the garage.
-
-The XZ Premium smartphone is capable of shooting at up to 960 frame per second (fps), which will result in some very cool and pleasant video. Not alone that, you can shoot at 1080p at 60fps and 4K at 30fps.
-
-#### 2.Audio Performance
-
-The Sony Xperia XZ mobile is one with such user’s craved audio compatibility. The device supports HD audio with DSD, FLAC, LPCM, ALAC file formats. Those are just the exceptional audio qualities – so you should know that dated qualities like the 3gp, MP4 and the likes are just a perfect walkaway.
-
-Also on the superb audio quality, the device comes with the DSEE HX protocol which enables you to enjoy an enhanced quality of your compressed music files. The DSEE HX embedded in this device does this, by employing digital noise cancellation. One close use of this phone shows that the Sennheiser HF630VB headset and the sounds quality was unprecedented. It has transformations such as from crisp highs, mids, low and the likes with great details including a detailed rich bass overlay.
-
-The audio quality is not limited to direct fix headsets, it also has great qualitative sound with Bluetooth headsets. The device supports almost all spectrum of Bluetooth devices such as Bluetooth 5.0, including LDAC codecs. Although the Bluetooth 5.0 is yet to be compatible with any headset, the XZ premium helps you evade such limitation by enabling you to stream audio with improved quality.
-
-#### 3. Slow-Motion Recording
-
-One more feature of this device that cannot be left out is with its low motion recording and capturing. With its ability to capture as much as 960 frames per second, it makes it a more presentable camera, which is relatively four times the speed of a thing.
-
-This enables the device to give you a more detailed footage of an event. It also gives you the ability to choose from three different recording modes. From the entry level, to the super slow (one shot) level, then the super slow motion mode. Such custom ability of a camera is unprecedented and it undoubtedly the flagship of this device.
-
-### Sony Xperia XZ Premium 4K Smartphone Software and Apps
-
-Just like as often expected with Sony’s releases, they always come with custom preinstalled apps. The XZ Premium is not coming short of this. It came with the Android 7.1.1 Nougat with Sony’s custom user interface running together with it.
-
-There are numerous apps on this XZ Premium, here we want to mention Lifelog and PS4 Remote Play apps. The Lifelog allows you to measure almost everything about your daily life, from how long you spending on walking to how much time you spend on social media, which can help you to establish a healthier habits easier. With the PS4 Remote Play app, you can play your PS4 anywhere as long as there is a internet connection. It allows you to connect the DualShock 4 control unit to the XZ Premium via Bluetooth.
-
-## Conclusion
-
-To wrap it up, the device cost around $800 making it one of the most expensive flagship smartphone you will ever find in the market. If you are a die-hard fan of Sony, the XZ Premium is the phone that you are looking for in 2017\. It delivers good video quality with a 4K HDR display and 960fps slow-motion ability and MotionEye Technology. In terms of hardware and performance, it matches most competitors with elegant camera quality, 4K HDR display, MotionEye Technology, and high resolution video and audio.
-
-However, you can choose other smartphones, such as OnePlus 5, which can also shoot 4K video, if you are sensitive with the high price.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-Xperia XZ Premium is the premier phone from Sony. So what this means is that, all previous Sony flagships such as the XZ, and others, are all incorporated into this device. If you know about the Z5 Premium, then, this is an advance flagship of that.
-
-As if that is not enough, this phone has the latest Snapdragon 835 processor with 4k resolution and HDR, which makes it impossible for other top smartphones such as [Samsung Galaxy S8](https://tools.techidaily.com/wondershare/filmora/download/) , HTC U11 as well as LG G6 to compete. All these being said, let's take a detailed look so we would have to make a wholesome judgment rather than with the afore-stated only.
-
-## Sony Xperia XZ Premium Specification
-
-| Parameters           | Sony Xperia XZ Premium           |
-| -------------------- | -------------------------------- |
-| **Dimensions**       | 156 x 77 x 7.9 mm                |
-| **Display**          | 5.5" 4K HDR Display              |
-| Gorilla Glass 5      |                                  |
-| **Processor**        | 2.45 GHz Qualcomm Snapdragon 835 |
-| **RAM**              | 4GB                              |
-| **Storage**          | 64/128 GB                        |
-| **MicroSD**          | Up to 256GB                      |
-| **NFC Support**      | Yes                              |
-| **Camera**           | Front 13MP, Rear 19MP            |
-| **4K Video**         | Yes                              |
-| **Battery**          | 3,230 mAh                        |
-| Non-removable        |                                  |
-| Quick Charge 3.0     |                                  |
-| **Charger**          | USB Type-C                       |
-| **OS**               | Android 7.1 Nougat               |
-| **Water Resistance** | IP65                             |
-
-## Sony Xperia XZ Premium Pros and Cons
-
-**Pros**
-
-This device is good. And this is undoubted. I have specified the dimension I would love to rate it as good as the followings:
-
-* Awesome speakers
-* Great flagship performance
-* Intensified resolution display
-
-**Cons**
-
-* Poor battery performance
-* Outdated design
-* Uncomfortable to hold
-
-## Complete Review of Sony Xperia XZ Premium 4K Smartphone
-
-### Section 1: Hardware Design
-
-#### 1.Body Design
-
-![sony-xperia-xz-premium-design](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-design.jpg)
-
-While many popular smartphones are featured with curved edges and rounded corners, Sony followed the outdated industrial design for its Xperia XZ Premium. This 4K smartphone is not mobile friendly with its thick bezels to and bottom design, makes it mimic the outlook of a dated device. Such lag would have been considerably entertained if it wasn’t the latest flagship of Sony but because it is, it looks awkward to overlook such lag.
-
-The Xperia XZ Premium is uncomfortable to hold because of its large size and its sharp corner. If you want to use it one-handed, you will find it is hard for you to reach upper screen and the corners will dig into your palm. Though Sony adopted Gorilla Glass 5 on the front and back, the rear glass on this XZ Premium is unbelievable slippery. Any angle will cause it to slide.
-
-On the left side of the XZ Premium, there are a dual-SIM and microSD card slot which are accessible through a flap. This phone is charged via a USB-C port which supporting Quick Charge 3.0\. The fingerprint sensor is intergrated with the power button, however, it is disabled in the US.
-
-#### 2.Display
-
-![sony-xperia-xz-premium-display](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-display.jpg)
-
-The Sony XZ Premium has a great and awesome display, which earned it the day world’s first 5.5 inches device with (3,840-by-2,160) HDR IPS display smartphone. It is the first smartphone with a 4K HDR display in the world. In case you cannot decipher the math properly, this means a wholesome of 807 pixels per inch. One more thing is that; unlike preceding devices which has a stumped up view of the 4k display, this device runs the 4k experience on all section of the device.
-
-However the great testimony about this device, we have one complaint about the panel. The color of this panel is somehow unrealistic. In spite of the fact that it does feature three display presets, which you can choose from in order to change the way color are displayed. Either: super vivid, standard, and or professional mode. While the professional mode is meant to present the best display mode, the sky-like over saturated hue is somewhat weird. Nevertheless you can still custom switch between them.
-
-#### 3.Hardware
-
-For the time being, this Sony seems to be the first mobile manufacturer to have announced the Snapdragon 835\. Apart from this imaginable processor, the XZ Premium also comes with a 4GB RAM, which makes it pretty much-performing phone.
-
-Thinking about these customizations, one would reasonably conclude that it will be another oven. But surprisingly, this device seems to be an opposite of rational assumptions. It also comes with a 64GB storage, which is expandable with a MicroSD.
-
-#### 4.Resistant Capacity
-
-One more positive with the XZ Premium is with its IP68 dust and water resistance, which leaves you with the confidence of using your phone anywhere without being scared of it absorbing liquid.
-
-#### 5. Connectivity
-
-The phone has a strong and reliable internet and network connectivity. One of the recently test done in Midtown Manhattan, a solid network connectivity was recorded with an optimal download speed of 11.41 mbps.
-
-Such level of connectivity that comes with this phone is also related with the fact that it supports Cat 16 LTE with a 4x4 MIMO, which allows it attains gigabit download speed. In addition, it also supports dual-band, Wi-Fi and NFC.
-
-#### 6. Battery
-
-![sony-xperia-xz-premium-battery](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-battery.jpg)
-
-The Sony XZ Premium smartphone has a battery rating of 3,600mAh, which is almost dated when compared with released as 5000mAh by Infinix and Techno. However, it is still a more sufficient capacity. The battery life is somehow disappointing. This is related to the fact that the phone consumes a lot of power especially when you are playing games and real-time usage. However the disappointing battery life, it can be very good for everyday use if you can have a better usage, like turning off the Wi-Fi when not in use and some other features like your data and Bluetooth. Meanwhile the phone has an unprecedented fast charging technology that supports the 3.0 charging tech, which might leave you less worried about the battery life as it takes no longer time to sip it in again.
-
-### Section 2: Interface Layout
-
-![sony-xperia-xz-premium-software](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-software.jpg)
-
-Sony XZ Premium support the latest Android 7.1.1 interface. The interface is quite pretty easy to navigate and use. If you have been a Sony user, then this will give you no heck as it is possible to get used to the interface and how they function within some hours. The interface is pleasing and sight beautifying, as well as intuitive and fantasizing.
-
-As known over the years, one thing Sony has long been known for is with their preinstalled applications. This Sony XZ premium comes with some pre-installed app which will give you a reliable feel of the device as some of these apps cannot be gotten for free. So you are given the custom ability to enjoy the device as part of your purchase. One other thing here is that you are not compelled to make use of these apps incase, some may not be suitable to you, you can disable it any time you like.
-
-### Section 3: Features and Performance of Sony Xperia XZ Premium 4K Smartphone
-
-#### 1.Camera Performance
-
-![sony-xperia-xz-premium-camera](https://images.wondershare.com/filmora/article-images/sony-xperia-xz-premium-camera.jpg)
-
-Some major dimensions of the XZ premium that need to be noted is the camera quality. The phone comes with a 19MP back camera and the front camera also has a competitive 13MP with crisp selfies, which is also awesome for real time video chat.
-
-The picture quality of the XZ Premium is something that is remarkable. It has a CMOS sensor including a phase detection auto focus that makes is produce enhancing pictures with high definitional quality even in low light.
-
-The camera also has an amazing feature that enables it to reprocess any captured image within milliseconds to minimize distortion. In addition to the camera, the Sony’s new MotionEye tech makes it possible to capture fast moving objects. It is now very easy to capture moving objects such as flying birds, moving cars can be capture like they are packed in the garage.
-
-The XZ Premium smartphone is capable of shooting at up to 960 frame per second (fps), which will result in some very cool and pleasant video. Not alone that, you can shoot at 1080p at 60fps and 4K at 30fps.
-
-#### 2.Audio Performance
-
-The Sony Xperia XZ mobile is one with such user’s craved audio compatibility. The device supports HD audio with DSD, FLAC, LPCM, ALAC file formats. Those are just the exceptional audio qualities – so you should know that dated qualities like the 3gp, MP4 and the likes are just a perfect walkaway.
-
-Also on the superb audio quality, the device comes with the DSEE HX protocol which enables you to enjoy an enhanced quality of your compressed music files. The DSEE HX embedded in this device does this, by employing digital noise cancellation. One close use of this phone shows that the Sennheiser HF630VB headset and the sounds quality was unprecedented. It has transformations such as from crisp highs, mids, low and the likes with great details including a detailed rich bass overlay.
-
-The audio quality is not limited to direct fix headsets, it also has great qualitative sound with Bluetooth headsets. The device supports almost all spectrum of Bluetooth devices such as Bluetooth 5.0, including LDAC codecs. Although the Bluetooth 5.0 is yet to be compatible with any headset, the XZ premium helps you evade such limitation by enabling you to stream audio with improved quality.
-
-#### 3. Slow-Motion Recording
-
-One more feature of this device that cannot be left out is with its low motion recording and capturing. With its ability to capture as much as 960 frames per second, it makes it a more presentable camera, which is relatively four times the speed of a thing.
-
-This enables the device to give you a more detailed footage of an event. It also gives you the ability to choose from three different recording modes. From the entry level, to the super slow (one shot) level, then the super slow motion mode. Such custom ability of a camera is unprecedented and it undoubtedly the flagship of this device.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Sony Xperia XZ Premium 4K Smartphone Software and Apps
 
 Just like as often expected with Sony’s releases, they always come with custom preinstalled apps. The XZ Premium is not coming short of this. It came with the Android 7.1.1 Nougat with Sony’s custom user interface running together with it.
@@ -624,3 +706,58 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-anime-aesthetics-top-20-visual-elements-on-tiktok/"><u>[New] 2024 Approved  Anime Aesthetics  Top 20 Visual Elements on TikTok</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-examining-social-media-comment-standouts-for-2024/"><u>[New] Examining Social Media Comment Standouts for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-cinematic-art-with-top-ten-professional-tools/"><u>[New] Mastering Cinematic Art with Top Ten Professional Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-paper-playground-fun-and-effective-collage-making/"><u>[New] Paper Playground  Fun & Effective Collage Making</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pioneering-websites-for-modern-letterforms/"><u>[New] Pioneering Websites for Modern Letterforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pros-secret-insights-into-windows-11/"><u>[New] Pro's Secret Insights Into Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-starting-your-own-platform-a-guide-to-reviews-and-ratings-for-gadgets/"><u>[New] Starting Your Own Platform  A Guide to Reviews and Ratings for Gadgets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ultimate-compilation-top-11-streaming-gear-insights/"><u>[Updated] In 2024, Ultimate Compilation  Top 11 Streaming Gear Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimize-mac-streams-with-these-industrys-favorite-5-apps/"><u>[Updated] Optimize Mac Streams with These Industry's Favorite 5 Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfect-stitching-of-gopro-videos-into-complete-360-imagery/"><u>[Updated] Perfect Stitching of GoPro Videos Into Complete 360 Imagery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seo-breakthrough-dominating-the-podcast-rankings-landscape/"><u>[Updated] SEO Breakthrough  Dominating the Podcast Rankings Landscape</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-singe-sounds-to-complement-ppt-slides/"><u>[Updated] Singe Sounds to Complement PPT Slides</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-smart-sync-strategy-transferring-photos-from-iphone-to-snapchat-correctly-for-2024/"><u>[Updated] Smart Sync Strategy  Transferring Photos From iPhone to Snapchat Correctly for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sony-bdp-s3700-review-latest-update-summary/"><u>[Updated] Sony BDP-S3700 Review  Latest Update Summary</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-standout-20-anime-melodies-at-the-start/"><u>[Updated] Standout 20 Anime Melodies at the Start</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-the-world-of-adobe-cloud-storing-strategies-and-alternative-spaces-reviewed/"><u>2024 Approved  Inside The World of Adobe Cloud Storing  Strategies and Alternative Spaces Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instant-collage-creation-tips-for-social-media-posts/"><u>2024 Approved  Instant Collage Creation Tips for Social Media Posts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterclass-in-mobile-video-viewing-10-leading-iphoneipad-apps/"><u>2024 Approved  Masterclass in Mobile Video Viewing  10 Leading iPhone/iPad Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-obtaining-professional-photo-banners/"><u>2024 Approved  Mastering the Art of Obtaining Professional Photo Banners</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-progopro-secrets-unveiled/"><u>2024 Approved  ProGoPro Secrets Unveiled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revive-lost-iphone-x-key-tips-and-tricks-shared-here/"><u>2024 Approved  Revive Lost iPhone X  Key Tips and Tricks Shared Here</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-step-by-step-implementing-chromes-pip-multiscreen-functionality/"><u>2024 Approved  Step-by-Step  Implementing Chrome’s PIP Multiscreen Functionality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tier-voice-to-text-applications/"><u>2024 Approved  Top Tier Voice to Text Applications</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/balancing-netflix-stream-quality-and-playtime/"><u>Balancing Netflix Stream Quality and Playtime</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-13-mini-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 13 mini Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/deciphering-facebooks-latest-algorithm-updates/"><u>Deciphering Facebook's Latest Algorithm Updates</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Fixing Foneazy MockGo Not Working On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-techniques-to-dodge-edgenuity-videos-swiftly/"><u>In 2024, Master Techniques to Dodge Edgenuity Videos Swiftly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-google-podcast-submission-guide/"><u>In 2024, Navigating the Google Podcast Submission Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-routines-to-alter-track-tempoplay-in-spotify/"><u>In 2024, Optimal Routines to Alter Track Tempoplay in Spotify</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-your-youtube-experience-stop-previews/"><u>In 2024, Perfecting Your YouTube Experience - Stop Previews</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-picsart-app-insights-comprehensive-review-and-walkthrough/"><u>In 2024, PicsArt App Insights  Comprehensive Review and Walkthrough</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-playtime-registration-and-logout-tutorials/"><u>In 2024, Playtime Registration & Logout Tutorials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-renewal-of-windows-photo-viewer-two-efficient-methods-in-windows-10/"><u>In 2024, Renewal of Windows Photo Viewer  Two Efficient Methods in Windows 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-samsung-outdone-top-cameras-eclipsing-the-gear-360/"><u>In 2024, Samsung Outdone  Top Cameras Eclipsing the Gear 360</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/larger-print-formats-same-sharpness-levels-for-2024/"><u>Larger Print Formats, Same Sharpness Levels for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/linked-insight-merging-instagram-and-tiktok-for-2024/"><u>Linked Insight  Merging Instagram & TikTok for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-podcast-name-creation-and-50plus-dynamic-example-titles-for-2024/"><u>Mastering the Art of Podcast Name Creation & 50+ Dynamic Example Titles for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-through-the-complexities-of-canon-time-lapse-for-2024/"><u>Navigating Through the Complexities of Canon Time-Lapse for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-best-animation-software-for-education-a-2023-review/"><u>New In 2024, Best Animation Software for Education A 2023 Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-iphone-capture-and-record-at-once-for-2024/"><u>Perfecting iPhone  Capture & Record at Once for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/performer-freedom-agreement-form-for-2024/"><u>Performer Freedom Agreement Form for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/personalized-audio-endings-without-the-price-tag-for-2024/"><u>Personalized Audio Endings Without the Price Tag for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-redmi-k70-pro-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi Redmi K70 Pro, is it possible?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/soundscape-strategies-making-tamil-tracks-your-phones-chime-for-2024/"><u>SoundScape Strategies  Making Tamil Tracks Your Phone's Chime for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/spicing-up-videos-with-youtube-music-linking-techniques-for-2024/"><u>Spicing Up Videos with YouTube Music Linking Techniques for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/standout-settings-guide-for-online-events-for-2024/"><u>Standout Settings Guide for Online Events for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-into-visual-storytelling-xp-edition-installation-for-2024/"><u>Step Into Visual Storytelling  XP Edition Installation for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-editors-playbook-advanced-pc-methods-for-youtube-mastery-for-2024/"><u>The Editor's Playbook  Advanced PC Methods for YouTube Mastery for 2024</u></a></li>
+</ul></div>

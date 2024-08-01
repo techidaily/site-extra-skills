@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Simplified Access  How to Dive Into YouTube Comment Threads\""
-date: 2024-05-31T07:40:37.413Z
-updated: 2024-06-01T07:40:37.413Z
+date: 2024-07-31T10:01:07.580Z
+updated: 2024-08-01T10:01:07.580Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Simplified Access: How to Dive Into YouTube Comment Threads\""
 excerpt: "\"This Article Describes [Updated] Simplified Access: How to Dive Into YouTube Comment Threads\""
 keywords: "Video Comment Navigate,YouTubing Comments Guide,YouTube Comment Explore,Simplifying Comment Search,Accessible Comment View,Easy Thread Insight,Comment Discussion Tools"
-thumbnail: https://www.lifewire.com/thmb/KzkQugIKuD34hzRrqv0ju_rYyMY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2021-03-10at10.51.34AM-4a21a62a72a545aa8fa3dc272db32713.png
+thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec876e69fbcc20cbbbf17a86ba.png
 ---
 
 ## Simplified Access: How to Dive Into YouTube Comment Threads
@@ -36,6 +36,9 @@ Not only does it show your fans followers that you care about what they have to 
 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Advantage of YouTube comments
 
 If you're wondering whether you really need to monitor your YouTube comments, here are three compelling reasons why you should:
@@ -72,16 +75,26 @@ To manage your comments on YouTube using a PC, the operating system does not mat
 
 Step1 Open your chosen browser, head to YouTube, then sign in to your Google/YouTube account if not already signed in.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
@@ -96,6 +109,9 @@ For example, you might click on a notification, and YouTube takes you to a parti
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Why Deleting YouTube Comments?
 
 If you consume a lot of YouTube content, you've likely posted hundreds or even thousands of comments on various channels. You might want to:
@@ -114,6 +130,9 @@ Comments history also contains the link to the video where you've left the comme
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -148,3 +167,50 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-revealed-the-best-thumbnail-dimensions-for-maximum-viewership-growth/"><u>[New] 2024 Approved  Revealed! The Best Thumbnail Dimensions for Maximum Viewership Growth</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-innovators-behind-vr-spectacles/"><u>[New] Innovators Behind VR Spectacles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-avi-to-gif-conversion-windows-and-mac-edition-using-filmora/"><u>[New] Mastering AVI-to-GIF Conversion  Windows & Mac Edition Using Filmora</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-crossfades-a-premiere-pro-guide/"><u>[New] Mastering Crossfades  A Premiere Pro Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mememolding-cutter/"><u>[New] MemeMolding Cutter</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-microsoft-screen-recorder-download-and-use-guide-for-2024/"><u>[New] Microsoft Screen Recorder Download and Use Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-next-level-creativity-celebrating-top-6-nft-innovators/"><u>[New] Next-Level Creativity  Celebrating Top 6 NFT Innovators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pioneering-simple-sound-shifts-in-pubg/"><u>[New] Pioneering Simple Sound Shifts in PUBG</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-rank-the-top-free-tools-convert-srt-files-efficiently/"><u>[New] Rank the Top Free Tools  Convert Srt Files Efficiently</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-ranked-the-best-5-iphone-compatible-podcasting-apps/"><u>[New] Ranked  The Best 5 iPhone-Compatible Podcasting Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-stream-viewer-unraveler-for-2024/"><u>[New] Stream Viewer Unraveler for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-art-of-targeting-optimizing-ad-reach-on-snap-for-2024/"><u>[New] The Art of Targeting  Optimizing Ad Reach on Snap for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-hdr-potential-with-photo-hdr-techniques/"><u>[New] Unlocking HDR Potential with Photo-HDR Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-affordable-acoustic-amps-and-mics-for-video-voyagers-for-2024/"><u>[Updated] Affordable Acoustic Amps and Mics for Video Voyagers for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-how-to-prepare-your-room-and-vr-ready-pc-for-oculus-rift/"><u>[Updated] How to Prepare Your Room and VR-Ready PC for Oculus Rift</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-srt-file-playback-on-both-oses/"><u>[Updated] Mastering SRT File Playback on Both OSes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-new-horizons-windows-11s-latest-advances/"><u>[Updated] New Horizons  Windows 11'S Latest Advances</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-rewind-on-request-swift-iphone-video-flip/"><u>[Updated] Rewind on Request  Swift iPhone Video Flip</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smart-snip-skills-advanced-tips-for-iphone-photo-cropping/"><u>[Updated] Smart Snip Skills  Advanced Tips for iPhone Photo Cropping</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-stable-shooting-ideal-gimbals-and-handhelds-reviewed/"><u>[Updated] Stable Shooting  Ideal Gimbals & Handhelds Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-start-making-money-today-top-13-easy-methods-for-newbies/"><u>[Updated] Start Making Money Today! Top 13 Easy Methods for Newbies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-night-scene-mastery-guide/"><u>2024 Approved  IPhone Night Scene Mastery Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-cameras-perfect-for-podcasts/"><u>2024 Approved  Premium Cameras Perfect for Podcasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-psd-aesthetic-optimization/"><u>2024 Approved  Premium PSD Aesthetic Optimization</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionizing-image-post-processing-advanced-use-of-3d-luts-in-ps/"><u>2024 Approved  Revolutionizing Image Post-Processing  Advanced Use of 3D LUTs in PS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-steady-shot-enhancer-for-traveling-filmmakers/"><u>2024 Approved  Steady Shot Enhancer for Traveling Filmmakers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-iphones-full-video-loop-potential/"><u>2024 Approved  Unlock iPhone's Full Video Loop Potential</u></a></li>
+<li><a href="https://games-able.techidaily.com/9-settings-that-every-nintendo-switch-owner-should-use/"><u>9 Settings That Every Nintendo Switch Owner Should Use</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-xs-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone XS | Stellar</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-essential-knowledge-for-capturing-your-dell-device-writingscreen/"><u>In 2024, Essential Knowledge for Capturing Your Dell Device' Writingscreen</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-layering-yt-music-with-visual-expressions/"><u>In 2024, Layering YT Music with Visual Expressions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-srt-download-from-youtube-with-3-tactics/"><u>In 2024, Navigating SRT Download From YouTube with 3 Tactics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-outlook-orders-analysis/"><u>In 2024, Outlook Orders Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-tips-for-hitting-the-jackpot-in-pexels/"><u>In 2024, Quick Tips for Hitting the Jackpot in Pexels</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-secrets-of-single-stream-success-online-broadcast-tips-and-tricks/"><u>In 2024, Secrets of Single-Stream Success  Online Broadcast Tips and Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-essential-mac-live-streaming-apps/"><u>In 2024, Top 5 Essential Mac Live Streaming Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/kinetic-keywords-animation-mastery-for-social-media-captions-for-2024/"><u>Kinetic Keywords  Animation Mastery for Social Media Captions for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-lights-in-the-land-of-vr-entertainment-for-2024/"><u>Leading Lights in the Land of VR Entertainment for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-longer-a-graphic-compatibility-issue-in-overwatch/"><u>No Longer a Graphic Compatibility Issue in Overwatch</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pixel-perfect-video-modifier-for-2024/"><u>Pixel-Perfect Video Modifier for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-psd-visual-enhancements-for-2024/"><u>Prime PSD Visual Enhancements for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-time-for-podcast-debuts-for-2024/"><u>Prime Time for Podcast Debuts for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Optimal Storage Expansion for Sony A7C"
-date: 2024-05-31T07:38:32.991Z
-updated: 2024-06-01T07:38:32.991Z
+date: 2024-07-31T07:47:29.939Z
+updated: 2024-08-01T07:47:29.939Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://www.lifewire.com/thmb/eRUoYjIdPYpsHU3OIFdv1QRa_5A=/210x138/fi
 
 # Best Memory Card for Sony A7S II
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -121,6 +124,9 @@ Follow @Max Wales
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -158,6 +164,9 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -249,6 +258,9 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -340,6 +352,14 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -378,6 +398,9 @@ Follow @Max Wales
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -408,3 +431,52 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-how-tos-selecting-free-powerful-iphoneipad-edits/"><u>[New] 2024 Approved  How-To's  Selecting Free, Powerful iPhone/iPad Edits</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-essential-strategies-for-high-quality-youtube-recording/"><u>[New] Essential Strategies for High-Quality YouTube Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-integrate-advanced-note-organization-on-mematic/"><u>[New] Integrate Advanced Note Organization on Mematic</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterclass-in-personal-4k-editor-pc-assembly/"><u>[New] Masterclass in Personal 4K Editor PC Assembly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-miniature-film-script-sketch/"><u>[New] Miniature Film Script Sketch</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-photography-perks-fast-and-fun-edits-using-windows-paint-app/"><u>[New] Photography Perks  Fast & Fun Edits Using Windows Paint App</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-podcast-perfection-for-the-modern-iphone-user/"><u>[New] Podcast Perfection for the Modern iPhone User</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-pathway-to-perfect-zoom-communication-unlocking-effective-online-interactions/"><u>[New] The Pathway to Perfect ZOOM Communication  Unlocking Effective Online Interactions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-frameworks-for-compelling-youtube-content-layouts/"><u>[Updated] Frameworks for Compelling YouTube Content Layouts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonious-handling-of-hues-top-6-mac-video-apps-in-big-sur/"><u>[Updated] Harmonious Handling of Hues  Top 6 Mac Video Apps in Big Sur</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-melody-meets-momentum-harmonizing-sound-with-imagery/"><u>[Updated] In 2024, Melody Meets Momentum  Harmonizing Sound with Imagery</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-unveiling-simple-smooth-gaming-video-editors-for-starters/"><u>[Updated] In 2024, Unveiling Simple, Smooth Gaming Video Editors for Starters</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-peer-into-the-future-with-apeaksofts-screen-capture-trends-2023/"><u>[Updated] Peer Into the Future with Apeaksoft’s Screen Capture Trends 2023</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-pinnacle-racing-experiences-best-of-the-best/"><u>[Updated] Pinnacle Racing Experiences  Best of the Best</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-the-best-live-tv-streaming-services-with-local-channels-2024/"><u>[Updated] The Best Live TV Streaming Services With Local Channels 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-x100-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo X100 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-insiders-look-at-xvision-prodigy-studio-an-all-inclusive-guide/"><u>2024 Approved  Insider's Look at XVision Prodigy Studio - An All-Inclusive Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-introduction-to-av1-encoding-techniques/"><u>2024 Approved  Introduction to AV1 Encoding Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-viral-videos-1mplus-audience-journey/"><u>2024 Approved  Mastering the Art of Viral Videos  1M+ Audience Journey</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-peering-into-the-digital-universe-what-is-vr/"><u>2024 Approved  Peering Into the Digital Universe  What Is VR?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-set-a-unique-tiktok-sound-as-your-cellphone-alarm-or-ringtone/"><u>2024 Approved  Set a Unique TikTok Sound as Your Cellphone Alarm or Ringtone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-step-by-step-methods-for-easy-instagram-video-uploads-from-desktop/"><u>2024 Approved  Step-by-Step Methods for Easy Instagram Video Uploads From Desktop</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-htc-u23-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For HTC U23 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 6s Plus</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instagram-share-of-todays-thought-provoking-talk/"><u>In 2024, Instagram Share of Today's Thought-Provoking Talk</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-laughlab-design-suite/"><u>In 2024, LaughLab Design Suite</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-type-treatments-in-after-effects/"><u>In 2024, Mastering Type Treatments in After Effects</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-giggle-guide-generating-20plus-amusing-virtual-creations/"><u>In 2024, Metaverse Giggle Guide  Generating 20+ Amusing Virtual Creations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-moviemakermag-comprehensive-editor-review/"><u>In 2024, MovieMakerMag  Comprehensive Editor Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photos-that-speak-volumes-starting-with-lunapics-tutorial/"><u>In 2024, Photos That Speak Volumes  Starting with LunaPic's Tutorial</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-purestream-app-audit-report/"><u>In 2024, PureStream App Audit Report</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revive-your-photos-two-methods-to-restore-photo-viewing-in-win10/"><u>In 2024, Revive Your Photos  Two Methods to Restore Photo Viewing in Win10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-skyward-savings-affordable-drones-below-a-hundred/"><u>In 2024, Skyward Savings  Affordable Drones Below a Hundred$</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-tips-for-endlessly-playing-facebook-videos/"><u>In 2024, Tips for Endlessly Playing Facebook Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478564034-iphone-brightness-adjustment-failures-discover-these-7-quick-fixes/"><u>IPhone Brightness Adjustment Failures – Discover These 7 Quick Fixes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-free-art-pages-for-easy-no-cost-illustrations-for-2024/"><u>Leading Free Art Pages for Easy, No-Cost Illustrations for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-audio-integration-in-canva-videos-for-2024/"><u>Mastering Audio Integration in Canva Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photo-artistry-unleashed-advanced-techniques-in-distorted-imagery-for-2024/"><u>Photo Artistry Unleashed  Advanced Techniques in Distorted Imagery for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-dji-drone-visor-revolution-an-in-depth-review-for-2024/"><u>The DJI Drone Visor Revolution  An In-Depth Review for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-realme-narzo-60x-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Realme Narzo 60x 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-silent-messages-comprehensive-guide-to-reactivating-message-tones-and-alarms-on-iphone-20plus-solutions/"><u>Troubleshoot Silent Messages: Comprehensive Guide to Reactivating Message Tones and Alarms on iPhone (20+ Solutions)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/troubleshooting-tips-for-optimizing-msi-bios-with-older-windows/"><u>Troubleshooting Tips for Optimizing MSI BIOS with Older Windows</u></a></li>
+</ul></div>

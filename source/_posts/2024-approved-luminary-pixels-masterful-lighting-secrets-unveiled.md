@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Luminary Pixels  Masterful Lighting Secrets Unveiled\""
-date: 2024-05-31T07:40:20.129Z
-updated: 2024-06-01T07:40:20.129Z
+date: 2024-07-31T09:42:49.280Z
+updated: 2024-08-01T09:42:49.280Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -52,6 +55,9 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ##### Step2 Set the Fill Light
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
@@ -66,6 +72,18 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
@@ -80,10 +98,16 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light only**
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
@@ -92,6 +116,9 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -124,3 +151,43 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-all-encompassing-tech-review-by-diverse-experts/"><u>[New] 2024 Approved  All-Encompassing Tech Review by Diverse Experts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-how-to-make-time-lapse-on-samsung-mobile/"><u>[New] How to Make Time Lapse on Samsung Mobile</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-complete-manual-for-personalizing-discord-avatars/"><u>[New] In 2024, The Complete Manual for Personalizing Discord Avatars</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-magix-acid-pro-review-and-alternatives/"><u>[New] Magix ACID Pro Review & Alternatives</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-key-scenes-in-video-production/"><u>[New] Mastering Key Scenes in Video Production</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-reddit-a-step-by-step-guide-for-effective-posts/"><u>[New] Mastering Reddit  A Step-By-Step Guide for Effective Posts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-next-gen-spaceholders-unveiling-the-quintessential-cloud-providers/"><u>[New] Next-Gen Spaceholders  Unveiling the Quintessential Cloud Providers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfect-pairings-the-science-of-matching-music-with-imagery/"><u>[New] Perfect Pairings  The Science of Matching Music with Imagery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pioneering-the-future-of-drones-today-and-tomorrow/"><u>[New] Pioneering the Future of Drones Today & Tomorrow</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revolutionize-streaming-top-converters-transform-4k-content/"><u>[New] Revolutionize Streaming  Top Converters Transform 4K Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-secrets-of-successful-podcast-covers-revealed/"><u>[New] Secrets of Successful Podcast Covers Revealed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seeking-a-true-witchs-tongue-are-vocal-changer-apps-legit-find-substitutes/"><u>[New] Seeking a True Witch's Tongue  Are Vocal Changer Apps Legit? Find Substitutes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-right-approach-for-accurate-google-speech-to-text/"><u>[New] The Right Approach for Accurate Google Speech-to-Text</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unbeatable-screen-grabbers-for-modern-windows-pcs-for-2024/"><u>[New] Unbeatable Screen Grabbers for Modern Windows PCs for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-leading-windows-call-platforms-7-1-ranked/"><u>[Updated] In 2024, Leading Windows Call Platforms  #7-#1 Ranked</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-obs-scheduling-mastery-implementing-a-countdown-clock/"><u>[Updated] In 2024, Obs Scheduling Mastery  Implementing a Countdown Clock</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-professional-gopro-footage-in-3-simple-steps/"><u>[Updated] Professional Gopro Footage in 3 Simple Steps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inshots-playlist-prowess-adding-external-music/"><u>2024 Approved  InShot's Playlist Prowess  Adding External Music</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-jazzy-deadites-designer/"><u>2024 Approved  Jazzy Deadites Designer</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-low-investment-high-rewards-channel-size-doesnt-deter-sponsorship/"><u>2024 Approved  Low-Investment, High Rewards  Channel Size Doesn't Deter Sponsorship</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-phones-at-odds-dissecting-iphone-x-vs-galaxy-face-recognition/"><u>2024 Approved  Phones at Odds  Dissecting iPhone X Vs. Galaxy Face Recognition</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oppo-f25-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Oppo F25 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-brilliant-hd-broadcasts-optimizing-videos-on-fb/"><u>In 2024, Brilliant HD Broadcasts  Optimizing Videos on FB</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-how-to-prepare-your-room-and-vr-ready-pc-for-oculus-rift/"><u>In 2024, How to Prepare Your Room and VR-Ready PC for Oculus Rift</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-sites-for-digital-type-innovation/"><u>In 2024, Premier Sites for Digital Type Innovation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-subtitle-conversion-at-your-fingertips-top-8-software-for-windowsmacos-srt-transition/"><u>In 2024, Seamless Subtitle Conversion at Your Fingertips - Top 8 Software for Windows/MacOS SRT Transition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-smartphone-security-iphone-xs-face-id-versus-galaxy-recognition/"><u>In 2024, Smartphone Security  IPhone X’s Face ID Versus Galaxy Recognition</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-13-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 13</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-tips-achieving-extended-exposure-images-for-2024/"><u>IPhone Tips  Achieving Extended Exposure Images for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/master-the-art-of-photo-display-with-best-frames-for-2024/"><u>Master the Art of Photo Display with Best Frames for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/proficient-techniques-securely-embedding-a-url-in-tiktok-profiles-for-2024/"><u>Proficient Techniques  Securely Embedding a URL in TikTok Profiles for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revered-anthems-top-20-anime-opener-hits-for-2024/"><u>Revered Anthems  Top 20 Anime Opener Hits for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/ringtone-revelry-top-choices-for-laugh-inducing-calls-for-2024/"><u>Ringtone Revelry  Top Choices for Laugh-Inducing Calls for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-google-pixel-8-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Google Pixel 8</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/spectacular-free-image-editors-the-new-era-for-2024/"><u>Spectacular Free Image Editors  The New Era for 2024</u></a></li>
+</ul></div>

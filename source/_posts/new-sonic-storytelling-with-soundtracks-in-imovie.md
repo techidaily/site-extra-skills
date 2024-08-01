@@ -1,7 +1,7 @@
 ---
 title: "[New] Sonic Storytelling with Soundtracks in iMovie"
-date: 2024-05-31T07:40:03.248Z
-updated: 2024-06-01T07:40:03.248Z
+date: 2024-07-31T09:24:56.650Z
+updated: 2024-08-01T09:24:56.650Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Sonic Storytelling with Soundtracks in iMovie"
 excerpt: "This Article Describes [New] Sonic Storytelling with Soundtracks in iMovie"
 keywords: "Sonic Film Audio Editing,Imovie Soundtrack Creation,Emotional Narratives via Music,Sonic Visuals and Audio,Cinematic Storytelling iMovie,Soundtracks in Media Projects,Engaging Stories with Sonics"
-thumbnail: https://www.lifewire.com/thmb/of73MNj3NKSTyCz_FxtQBXrOWEc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_20181029_144334716_HDR-5bd77873c9e77c005137f538.jpg
+thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164e77dff001f4eb865ae62af5.jpg
 ---
 
 ## Sonic Storytelling with Soundtracks in iMovie
@@ -70,6 +70,9 @@ If you're interested in knowing how to edit music in iMovie iPhone, this section
 
 **Step 4:** Once you choose the sound, tap on the 'Add Audio' (+) symbol next to the song. That's how to get music in iMovie. If you have theme music for iMovie video, then add it the same way.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how to add audio on imovie timeline](https://images.wondershare.com/filmora/article-images/2022/03/music-for-imovie-4.png)
 
 **Step 5:** iMovie will import the song into your video's timeline at the beginning. Once imported, you can know how to cut music on iMovie to adjust the length of the video.
@@ -84,10 +87,16 @@ Suppose you want to know how to cut music on iMovie or how to add iTunes music t
 
 **Step 1:** If you want to know how to use Apple music on iMovie. You need to first open a project on the iMovie timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how to add audio on imovie mac](https://images.wondershare.com/filmora/article-images/2022/03/music-for-imovie-5.png)
 
 **Step 2:** Click on 'Audio' and select 'Music in the Libraries.' Browse for the song you like. You can preview the song by pressing the Play button next to each track.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to add soundtrack on imovie macos](https://images.wondershare.com/filmora/article-images/2022/03/music-for-imovie-6.png)
 
 **Step 3:** To select the song, drag it to the timeline and drop it at your preferred time stamp.
@@ -96,10 +105,16 @@ Suppose you want to know how to cut music on iMovie or how to add iTunes music t
 
 **Step 4:** If you want to use only clips from the song, then this is what you do. The green bar with the audio waveform is the range. You can select the length of this range and drag it on the timeline to make it last according to your convenience.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How To Add Background Music To iMovie
 
 Simply drag the audio file to the timeline to add background music to iMovie. Look for the music icon and drop the audio file at the music icon. This will show up as a timeline below the video. The best part is that the background music won't change even if you edit the video clip.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to add background music throughout video](https://images.wondershare.com/filmora/article-images/2022/03/music-for-imovie-8.png)
 
 ### How To Add iTunes Music To iMovie
@@ -114,6 +129,10 @@ Simply drag the audio file to the timeline to add background music to iMovie. Lo
 
 You can utilize iTunes music in iMovie, but not tracks with DRM protection. You could receive a warning if the iTunes song you bought says it's protected under DRM. Even unprotected tracks stored in the cloud must be downloaded first before iMovie can use them. The same applies if you want to add Apple music to iMovie.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Part 4 What Music Use On iMovie
 
 How To Add Spotify Music To IMovie
@@ -136,6 +155,9 @@ With that, you should have no more questions on how to put Spotify music on iMov
 
 You can download music for iMovie from among the list of tracks they provide. You can also purchase songs from streaming services like Spotify. You can also acquire songs from other sources. However, you should keep copyright laws in mind when using iMovie to add music to iMovie. Any tracks you use have to be downloaded before using them in iMovie.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Add Copyrighted Music To iMovie
 
 If your Music Library includes protected files, this is because they're copyright protected. You should not use audio files under the purview of digital rights management in iMovie. It's not even supported by iMovie for this reason.
@@ -164,10 +186,17 @@ It's a convenient and user-intuitive alternative to iMovie. Thanks to Filmstock,
 
 Filmora has advanced editing software guided by AI that automates the tedious parts of editing. The Scene Detection tool lets you create a seamless editing experience. You can use a greenscreen to expand your creative horizons. The Silence Detection can automatically remove any silent pauses from your video, saving you time and effort. It keeps the video looking fluid.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![silence detection in filmora](https://images.wondershare.com/filmora/guide/silence-detection-4.png)
 
 This platform is fluid and easy to use for novices, professionals, and everyone in between. So, consider Wondershare Filmora when you want an easy-to-use but feature-packed editing software.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 If you've had a Mac, it's a straightforward leap to try iMovie. It's available, free, and most likely already installed. The magnetic timeline and iMovie interface are designed for user efficiency than user intuitiveness. You can create decent-quality videos.
@@ -200,6 +229,9 @@ Let's start with the basics. [iMovie](https://www.apple.com/au/imovie/) is a vid
 
 iMovie boasts of high-fidelity video filters that produces crisp image quality and are entirely customizable. It boasts of its audio library of a hundred tracks. It can automatically adjust to the length of the video. Create a voiceover of your own or title cards for your social media platform. Personalize your background colors, gradients, and patterns. Adjust the title and background. Add your channel or brand logo to stake your claim on the video.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2 How To Add Music To iMovie
 
 If you're interested in knowing how to edit music in iMovie iPhone, this section is for you. You can even add background music for iMovie. Also, if you're wondering, 'does iMovie have free music'? The answer is yes. It has its audio library with a hundred soundtracks.
@@ -210,6 +242,9 @@ If you're interested in knowing how to edit music in iMovie iPhone, this section
 
 **Step 2:** Click on the "Add Media" button (+) when your video is open.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to add media on imovie ipad/iphone](https://images.wondershare.com/filmora/article-images/2022/03/music-for-imovie-1.png)
 
 **Step 3:** If you want to look for one of the pre-built audio files, then go to 'Audio' and then 'Soundtracks.' For a preview of the audio, tap on the track. If a track is lighter on your screen, you need to tap and download it first before playing it.
@@ -218,20 +253,32 @@ If you're interested in knowing how to edit music in iMovie iPhone, this section
 
 **Step 4:** Once you choose the sound, tap on the 'Add Audio' (+) symbol next to the song. That's how to get music in iMovie. If you have theme music for iMovie video, then add it the same way.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to add audio on imovie timeline](https://images.wondershare.com/filmora/article-images/2022/03/music-for-imovie-4.png)
 
 **Step 5:** iMovie will import the song into your video's timeline at the beginning. Once imported, you can know how to cut music on iMovie to adjust the length of the video.
 
 That's how to get music on iMovie. That's how you insert music into iMovie. You can download music to iMovie or add Apple music to iMovie. Read on for details on how to edit music in iMovie in the next section.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3 How To Edit Music In iMovie
 
 Suppose you want to know how to cut music on iMovie or how to add iTunes music to iMovie. Even if you want to know how to download music to iMovie, how to use music on iMovie. Let's go and take a look at how to do that.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How To Put Music On iMovie On Mac
 
 **Step 1:** If you want to know how to use Apple music on iMovie. You need to first open a project on the iMovie timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to add audio on imovie mac](https://images.wondershare.com/filmora/article-images/2022/03/music-for-imovie-5.png)
 
 **Step 2:** Click on 'Audio' and select 'Music in the Libraries.' Browse for the song you like. You can preview the song by pressing the Play button next to each track.
@@ -240,16 +287,34 @@ Suppose you want to know how to cut music on iMovie or how to add iTunes music t
 
 **Step 3:** To select the song, drag it to the timeline and drop it at your preferred time stamp.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to add media on imovie on macos](https://images.wondershare.com/filmora/article-images/2022/03/music-for-imovie-7.png)
 
 **Step 4:** If you want to use only clips from the song, then this is what you do. The green bar with the audio waveform is the range. You can select the length of this range and drag it on the timeline to make it last according to your convenience.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Add Background Music To iMovie
 
 Simply drag the audio file to the timeline to add background music to iMovie. Look for the music icon and drop the audio file at the music icon. This will show up as a timeline below the video. The best part is that the background music won't change even if you edit the video clip.
 
 ![how to add background music throughout video](https://images.wondershare.com/filmora/article-images/2022/03/music-for-imovie-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Add iTunes Music To iMovie
 
 ● Once you have an open project on iMovie, tap on 'Add Media.
@@ -278,12 +343,21 @@ For those of you wondering, can you add Spotify music to iMovie? The answer is y
 
 With that, you should have no more questions on how to put Spotify music on iMovie. Also, beware of DRM-protected audio files. You might not be able to use those files.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![how to add spotify music in imovie](https://images.wondershare.com/filmora/article-images/2022/03/music-for-imovie-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Download Music For iMovie
 
 You can download music for iMovie from among the list of tracks they provide. You can also purchase songs from streaming services like Spotify. You can also acquire songs from other sources. However, you should keep copyright laws in mind when using iMovie to add music to iMovie. Any tracks you use have to be downloaded before using them in iMovie.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### How To Add Copyrighted Music To iMovie
 
 If your Music Library includes protected files, this is because they're copyright protected. You should not use audio files under the purview of digital rights management in iMovie. It's not even supported by iMovie for this reason.
@@ -306,6 +380,9 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
 It's a convenient and user-intuitive alternative to iMovie. Thanks to Filmstock, the resource library of Filmora, you have a wide array of creative resources for audio, video, video effects, and more. The effects available are unparalleled by any other video editing platform.
@@ -316,6 +393,14 @@ Filmora has advanced editing software guided by AI that automates the tedious pa
 
 This platform is fluid and easy to use for novices, professionals, and everyone in between. So, consider Wondershare Filmora when you want an easy-to-use but feature-packed editing software.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 If you've had a Mac, it's a straightforward leap to try iMovie. It's available, free, and most likely already installed. The magnetic timeline and iMovie interface are designed for user efficiency than user intuitiveness. You can create decent-quality videos.
@@ -348,20 +433,33 @@ Let's start with the basics. [iMovie](https://www.apple.com/au/imovie/) is a vid
 
 iMovie boasts of high-fidelity video filters that produces crisp image quality and are entirely customizable. It boasts of its audio library of a hundred tracks. It can automatically adjust to the length of the video. Create a voiceover of your own or title cards for your social media platform. Personalize your background colors, gradients, and patterns. Adjust the title and background. Add your channel or brand logo to stake your claim on the video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Part 2 How To Add Music To iMovie
 
 If you're interested in knowing how to edit music in iMovie iPhone, this section is for you. You can even add background music for iMovie. Also, if you're wondering, 'does iMovie have free music'? The answer is yes. It has its audio library with a hundred soundtracks.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How To Add Background Music To iMovie On iPhone Or iPad
 
 **Step 1:** Import the video for which you want to use Apple music in iMovie.
 
 **Step 2:** Click on the "Add Media" button (+) when your video is open.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![how to add media on imovie ipad/iphone](https://images.wondershare.com/filmora/article-images/2022/03/music-for-imovie-1.png)
 
 **Step 3:** If you want to look for one of the pre-built audio files, then go to 'Audio' and then 'Soundtracks.' For a preview of the audio, tap on the track. If a track is lighter on your screen, you need to tap and download it first before playing it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![how to add audio files on imovie](https://images.wondershare.com/filmora/article-images/2022/03/music-for-imovie-2.png)
 
 **Step 4:** Once you choose the sound, tap on the 'Add Audio' (+) symbol next to the song. That's how to get music in iMovie. If you have theme music for iMovie video, then add it the same way.
@@ -380,6 +478,9 @@ Suppose you want to know how to cut music on iMovie or how to add iTunes music t
 
 **Step 1:** If you want to know how to use Apple music on iMovie. You need to first open a project on the iMovie timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to add audio on imovie mac](https://images.wondershare.com/filmora/article-images/2022/03/music-for-imovie-5.png)
 
 **Step 2:** Click on 'Audio' and select 'Music in the Libraries.' Browse for the song you like. You can preview the song by pressing the Play button next to each track.
@@ -426,8 +527,14 @@ For those of you wondering, can you add Spotify music to iMovie? The answer is y
 
 With that, you should have no more questions on how to put Spotify music on iMovie. Also, beware of DRM-protected audio files. You might not be able to use those files.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![how to add spotify music in imovie](https://images.wondershare.com/filmora/article-images/2022/03/music-for-imovie-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### How To Download Music For iMovie
 
 You can download music for iMovie from among the list of tracks they provide. You can also purchase songs from streaming services like Spotify. You can also acquire songs from other sources. However, you should keep copyright laws in mind when using iMovie to add music to iMovie. Any tracks you use have to be downloaded before using them in iMovie.
@@ -444,6 +551,9 @@ Unfortunately, Apple developers have not released a version of iMovie for Window
 
 You can try the alternative software for iMovie. It's called Wondershare Filmora. This video editor is available on both macOS and Windows. Let's take a gander at its features.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 6 iMovie Alternative - Filmora, Easier To Use
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)is a powerful and easy-to-use video editing software. You can use Filmora to edit your audio tracks. It offers you greater control and flexibility with what you can do to the tracks.
@@ -464,6 +574,9 @@ Filmora has advanced editing software guided by AI that automates the tedious pa
 
 This platform is fluid and easy to use for novices, professionals, and everyone in between. So, consider Wondershare Filmora when you want an easy-to-use but feature-packed editing software.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 If you've had a Mac, it's a straightforward leap to try iMovie. It's available, free, and most likely already installed. The magnetic timeline and iMovie interface are designed for user efficiency than user intuitiveness. You can create decent-quality videos.
@@ -490,26 +603,43 @@ In this article, we will explore how to put music on iMovie, how to add backgrou
 
 06 [iMovie Alternative - Filmora, Easier To Use](#Part 6)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1 Basic Introduction About iMovie
 
 Let's start with the basics. [iMovie](https://www.apple.com/au/imovie/) is a video editing software released by Apple to create and edit videos. It allows you to create anything from videos of special occasions to cinematic masterpieces. You can work on it across your iPad, iPhone, and MacBook thanks to its portability.
 
 iMovie boasts of high-fidelity video filters that produces crisp image quality and are entirely customizable. It boasts of its audio library of a hundred tracks. It can automatically adjust to the length of the video. Create a voiceover of your own or title cards for your social media platform. Personalize your background colors, gradients, and patterns. Adjust the title and background. Add your channel or brand logo to stake your claim on the video.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2 How To Add Music To iMovie
 
 If you're interested in knowing how to edit music in iMovie iPhone, this section is for you. You can even add background music for iMovie. Also, if you're wondering, 'does iMovie have free music'? The answer is yes. It has its audio library with a hundred soundtracks.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### How To Add Background Music To iMovie On iPhone Or iPad
 
 **Step 1:** Import the video for which you want to use Apple music in iMovie.
 
 **Step 2:** Click on the "Add Media" button (+) when your video is open.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![how to add media on imovie ipad/iphone](https://images.wondershare.com/filmora/article-images/2022/03/music-for-imovie-1.png)
 
 **Step 3:** If you want to look for one of the pre-built audio files, then go to 'Audio' and then 'Soundtracks.' For a preview of the audio, tap on the track. If a track is lighter on your screen, you need to tap and download it first before playing it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![how to add audio files on imovie](https://images.wondershare.com/filmora/article-images/2022/03/music-for-imovie-2.png)
 
 **Step 4:** Once you choose the sound, tap on the 'Add Audio' (+) symbol next to the song. That's how to get music in iMovie. If you have theme music for iMovie video, then add it the same way.
@@ -520,6 +650,11 @@ If you're interested in knowing how to edit music in iMovie iPhone, this section
 
 That's how to get music on iMovie. That's how you insert music into iMovie. You can download music to iMovie or add Apple music to iMovie. Read on for details on how to edit music in iMovie in the next section.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## Part 3 How To Edit Music In iMovie
 
 Suppose you want to know how to cut music on iMovie or how to add iTunes music to iMovie. Even if you want to know how to download music to iMovie, how to use music on iMovie. Let's go and take a look at how to do that.
@@ -532,10 +667,16 @@ Suppose you want to know how to cut music on iMovie or how to add iTunes music t
 
 **Step 2:** Click on 'Audio' and select 'Music in the Libraries.' Browse for the song you like. You can preview the song by pressing the Play button next to each track.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how to add soundtrack on imovie macos](https://images.wondershare.com/filmora/article-images/2022/03/music-for-imovie-6.png)
 
 **Step 3:** To select the song, drag it to the timeline and drop it at your preferred time stamp.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to add media on imovie on macos](https://images.wondershare.com/filmora/article-images/2022/03/music-for-imovie-7.png)
 
 **Step 4:** If you want to use only clips from the song, then this is what you do. The green bar with the audio waveform is the range. You can select the length of this range and drag it on the timeline to make it last according to your convenience.
@@ -558,6 +699,9 @@ Simply drag the audio file to the timeline to add background music to iMovie. Lo
 
 You can utilize iTunes music in iMovie, but not tracks with DRM protection. You could receive a warning if the iTunes song you bought says it's protected under DRM. Even unprotected tracks stored in the cloud must be downloaded first before iMovie can use them. The same applies if you want to add Apple music to iMovie.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4 What Music Use On iMovie
 
 How To Add Spotify Music To IMovie
@@ -602,6 +746,9 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
 It's a convenient and user-intuitive alternative to iMovie. Thanks to Filmstock, the resource library of Filmora, you have a wide array of creative resources for audio, video, video effects, and more. The effects available are unparalleled by any other video editing platform.
@@ -640,3 +787,51 @@ Should you discover that iMovie might not be for you, Filmora is a great startin
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-master-the-art-of-viral-success-on-tiktok-with-top-7-must-haves/"><u>[New] 2024 Approved  Master the Art of Viral Success on TikTok with Top 7 Must-Haves</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-two-pronged-approach-to-perfecting-your-youtube-video-introduction/"><u>[New] 2024 Approved  Two-Pronged Approach to Perfecting Your YouTube Video Introduction</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-quick-steps-for-igtv-on-instagram-stories/"><u>[New] In 2024, Quick Steps for IGTV on Instagram Stories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-sites-elevating-youtube-videos-reach/"><u>[New] Leading Sites Elevating YouTube Videos' Reach</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-aspect-ratios-in-video-production/"><u>[New] Mastering Aspect Ratios in Video Production</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mysterious-video-issue-with-sony-a6400/"><u>[New] Mysterious Video Issue with Sony A6400</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-top-10-for-streamed-television/"><u>[New] Navigating the Top 10 for Streamed Television</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-podcast-introscape-audiophiles-melodic-treasure-trove/"><u>[New] Podcast Introscape  Audiophile's Melodic Treasure Trove</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simply-spearheading-your-start-in-every-device-you-use/"><u>[New] Simply Spearheading Your Start, in Every Device You Use</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-a-comprehensive-review-of-tunefab-recorders/"><u>[Updated] 2024 Approved  A Comprehensive Review of Tunefab Recorders</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-dive-into-the-world-of-interactive-video-features-on-youtube/"><u>[Updated] Dive Into the World of Interactive Video Features on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-2024s-best-friend-ranked-8-sticks/"><u>[Updated] Iphone 2024'S Best Friend  Ranked #8 Sticks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-listeners-lexicon-selecting-solid-offline-recording-tools/"><u>[Updated] Listeners' Lexicon  Selecting Solid Offline Recording Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-psd-color-dynamics/"><u>[Updated] Master PSD Color Dynamics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-asmr-for-restful-slumber/"><u>[Updated] Mastering ASMR for Restful Slumber</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximizing-your-marketing-mettle-on-youtube/"><u>[Updated] Maximizing Your Marketing Mettle on Youtube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-5-digital-camera-background-swap-tools-iphone-photos/"><u>[Updated] Premier 5 Digital Camera Background Swap Tools  IPhone Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revolutionary-wearable-camera-tech/"><u>[Updated] Revolutionary Wearable Camera Tech</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-rewind-on-the-fly-ios-video-flip/"><u>[Updated] Rewind on the Fly  IOS Video Flip</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-streamline-your-content-following-twitpic-rules/"><u>[Updated] Streamline Your Content  Following Twitpic Rules</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-newbies-pathway-to-stunning-photo-edits-in-ps/"><u>2024 Approved  Newbie's Pathway to Stunning Photo Edits in PS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pivotal-software-in-shaping-a-vtubers-sound-identity/"><u>2024 Approved  Pivotal Software in Shaping a Vtuber's Sound Identity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quicklut-tweaks-for-perfect-video-output/"><u>2024 Approved  QuickLUT Tweaks for Perfect Video Output</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-reimagining-editing-processes-the-revolutionary-world-of-magix-video-pro-x/"><u>2024 Approved  Reimagining Editing Processes  The Revolutionary World of Magix Video Pro X</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-into-3d-designing-layered-textured-texts-psx/"><u>2024 Approved  Step Into 3D  Designing Layered, Textured Texts PSX</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capture-every-detail-exploring-apowersofts-pc-tool-for-2024/"><u>Capture Every Detail  Exploring Apowersoft’s PC Tool for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-an-iphone-that-wont-upload-data-to-icloud-discover-9-key-strategies/"><u>How To Fix An iPhone That Won't Upload Data To iCloud? Discover 9 Key Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-journey-through-simulated-realities-vr-basics/"><u>In 2024, Journey Through Simulated Realities  VR Basics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-nikon-d500-revolutionizing-4k-dslr-photography/"><u>In 2024, Nikon D500  Revolutionizing 4K DSLR Photography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premiere-your-stories-with-free-templates/"><u>In 2024, Premiere Your Stories with Free Templates</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prestigious-directory-free-visuals-hubs-galore-online/"><u>In 2024, Prestigious Directory  FREE Visuals Hubs Galore Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-professional-photo-editing-blur-or-eliminate-unwanted-borders/"><u>In 2024, Professional Photo Editing  Blur or Eliminate Unwanted Borders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pulse-of-production-syncing-sound-in-w11-environments/"><u>In 2024, Pulse of Production  Syncing Sound in W11 Environments</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-access-to-hidden-past-reddit-posts-and-articles/"><u>In 2024, Quick Access to Hidden, Past Reddit Posts and Articles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sprinkle-life-into-your-videos-free-text-tricks/"><u>In 2024, Sprinkle Life Into Your Videos  Free Text Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-podcasts-incorporating-audio-in-powerpoint-slides-for-2024/"><u>Mastering Podcasts  Incorporating Audio in PowerPoint Slides for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-speed-control-interface-on-snapchat-for-2024/"><u>Navigating The Speed Control Interface on Snapchat for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfect-video-title-generators-for-youtube-for-2024/"><u>Perfect Video Title Generators for YouTube for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pioneering-podcast-titling-with-leading-ai-driven-apps-for-2024/"><u>Pioneering Podcast Titling with Leading AI-Driven Apps for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secrets-to-immediate-access-of-erased-reddit-threads-for-2024/"><u>Secrets to Immediate Access of Erased Reddit Threads for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secure-your-visuals-the-most-efficient-face-masking-apps-for-2024/"><u>Secure Your Visuals  The Most Efficient Face-Masking Apps for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/shake-free-video-post-capture-tips-and-tricks-for-2024/"><u>Shake-Free Video  Post-Capture Tips & Tricks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/story-lore-who-are-the-premier-channels-for-2024/"><u>Story Lore  Who Are the Premier Channels for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-smartphone-lens-creating-sweeping-panos-for-2024/"><u>The Smartphone Lens  Creating Sweeping Panos for 2024</u></a></li>
+</ul></div>
