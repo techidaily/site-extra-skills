@@ -104,29 +104,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-skills.techidaily.com/overlay-wizardry-on-your-windows-desktop-for-2024/"><u>Overlay Wizardry on Your Windows Desktop for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-loop-creator-pro/"><u>2024 Approved  Loop Creator Pro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-color-correction-applying-free-luts-in-obs-productions-for-2024/"><u>Mastering Color Correction  Applying Free LUTs in OBS Productions for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-satirical-images-jestjokes-studio/"><u>In 2024, Satirical Images  JestJokes Studio</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-performance-desktops-today/"><u>In 2024, Optimal Performance Desktops Today</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-tips-for-using-luts-in-adobe-after-effects/"><u>2024 Approved  Professional Tips for Using LUTs in Adobe After Effects</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-resonant-revelry-auditory-additions-to-whatsapp-statues/"><u>[Updated] Resonant Revelry  Auditory Additions to WhatsApp Statues</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/6-best-podcast-apps-for-android-for-2024/"><u>6 Best Podcast Apps for Android for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-approach-to-stream-flawless-events-with-zoom-on-youtube/"><u>[New] Step-by-Step Approach to Stream Flawless Events with Zoom on YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-web-picks-for-stylish-3d-sparkling-text/"><u>2024 Approved  Prime Web Picks for Stylish 3D Sparkling Text</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-play-8t-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Play 8T</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-essential-podcast-production-a-ranked-selection-of-the-best-free-and-paid-editing-tools/"><u>New In 2024, Essential Podcast Production A Ranked Selection of the Best Free & Paid Editing Tools</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-capture-the-moment-join-the-top-10-trending-tiktok-creations/"><u>In 2024, Capture the Moment  Join the Top 10 Trending TikTok Creations</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-step-by-step-creating-timelapse-videos-with-ipad/"><u>[Updated] In 2024, Step-by-Step  Creating Timelapse Videos with iPad</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-mastering-fast-video-filming-on-tiktok/"><u>[Updated] 2024 Approved  Mastering Fast Video Filming on TikTok</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-get-to-know-openais-sora-and-how-to-use-it/"><u>Updated 2024 Approved Get To Know OpenAIs Sora and How To Use It</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-entrepreneurs-playbook-gather-these-vital-products-to-thrive-in-business/"><u>[New] In 2024, The Entrepreneur's Playbook  Gather These Vital Products to Thrive in Business</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-realme-c67-5g-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Realme C67 5G</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfecting-the-art-of-media-preservation-macs-dvd-burn-guide/"><u>[Updated] Perfecting the Art of Media Preservation  Mac's DVD Burn Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-lava-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Lava online without jailbreak</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
