@@ -1,7 +1,7 @@
 ---
 title: Score a Steal with MSI Aegis R2 - Top Specs and Price Cut! Get RTX 4070 & Intel's Latest I7 at an Unbeatable Price Below $1,600.
-date: 2024-08-18T00:23:30.897Z
-updated: 2024-08-19T00:23:30.897Z
+date: 2024-09-03T17:27:07.513Z
+updated: 2024-09-04T17:27:07.513Z
 tags:
   - desktop
 categories:
@@ -106,5 +106,8 @@ These are the specifications of the two Asus ROG NUC models:
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
