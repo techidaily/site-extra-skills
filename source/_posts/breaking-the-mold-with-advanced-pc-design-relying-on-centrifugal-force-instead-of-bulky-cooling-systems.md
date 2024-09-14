@@ -1,7 +1,7 @@
 ---
 title: "Breaking the Mold with Advanced PC Design: Relying on Centrifugal Force Instead of Bulky Cooling Systems"
-date: 2024-09-08T03:26:25.872Z
-updated: 2024-09-09T03:26:25.872Z
+date: 2024-09-13T08:40:43.895Z
+updated: 2024-09-14T01:00:19.845Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/db3dbeacfdd5ea435b3f8eb406f01646288938a037fe9e28d65cbe9fbebcdbb0.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enhancing Old PCs: The Persistent Trend of Modifying AGP Slots for New GPUs & Improved Networking - Discover the Top 2 Adapters
 
 Strangely enough, the past few months of 2024 have seen prominent discussions of a few modern-day AGP (Accelerated Graphics Port) mods — the first is a mod of questionable practicality to get a GTX 960 working on an AGP board, which took considerable gymnastics. The second involves repurposing an AGP port on a Super Socket 7 motherboard for faster, more modern networking speeds.
@@ -25,12 +19,6 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 ![Photograph of the AGP-to-PCI mod attached to the PCI-to-PCIe mod needed to install a GTX 960 in an old Athlon XP 2400+ PC.](https://cdn.mos.cms.futurecdn.net/QYgYq7hUqARXB4fFQkNQ84-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Photograph of the AGP-to-PCI mod attached to the PCI-to-PCIe mod needed to install a GTX 960 in an old Athlon XP 2400+ PC.  (Image credit: Christian Rudewig on FB (via @tercio\_miranda on Twitter))
 
  For instance, back in August of 2009, Don Woligroski,[writing for_Tom's Hardware_](https://www.tomshardware.com/reviews/agp-radeon-overclocking,2395-4.html) , used an OC'd CPU and a powerful native AGP card[to get Crysis running at 65 FPS](https://www.tomshardware.com/reviews/agp-radeon-overclocking,2395-4.html) on Low Physics on an AGP board originally released in November 2005\. PCIe debuted in 2003, so this was well after many faster boards with newer standards were already on the market. This means that, yes, AGP could run Crysis while it was still common, and it remained one of the most demanding games on PC for several years after its 2007 release.
@@ -43,18 +31,6 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -69,14 +45,11 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
  As you can see, the modding community is still hard at work wringing more functionality out of old gear, either for entertainment or out of necessity.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,62 +60,25 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/bloodhunt-pc-woes-comprehensive-guide-to-fix-glitchy-execution/"><u>'Bloodhunt' PC Woes: Comprehensive Guide to Fix Glitchy Execution</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-crimson-classic-codec/"><u>[New] 2024 Approved  Crimson Classic Codec</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-expressiveness-enhancing-youtube-comments-via-emojis/"><u>[New] Expressiveness  Enhancing YouTube Comments via Emojis</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-explore-fb-moments-privately/"><u>[New] In 2024, Explore FB Moments Privately</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-maintain-eye-contact-this-helps-establish-rapport-with-the-speaker-and-shows-your-engagement/"><u>[New] Maintain Eye Contact  This Helps Establish Rapport with the Speaker and Shows Your Engagement</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-blueprint-for-transferring-large-videos-between-apple-devices/"><u>[New] The Ultimate Blueprint for Transferring Large Videos Between Apple Devices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-transform-your-instagram-reels-into-high-quality-mp4-files-anywhere-for-2024/"><u>[New] Transform Your Instagram Reels Into High-Quality MP4 Files Anywhere for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-pro-tips-top-11-inexpensive-youtube-naming-tools/"><u>[Updated] 2024 Approved  Pro Tips  Top 11 Inexpensive YouTube Naming Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-fast-snap-restoration-guide/"><u>[Updated] Fast Snap Restoration Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-elevating-your-igtv-presence-a-guide-to-effective-hash-tags/"><u>[Updated] In 2024, Elevating Your IGTV Presence  A Guide to Effective Hash Tags</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/1715971161982-updated-in-2024-how-to-fix-obs-studio-drop-frames-issue/"><u>[Updated] In 2024, How To Fix OBS Studio Drop Frames Issue</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-tutorial-creating-instagram-ready-videos-with-final-cut-pro-x-for-2024/"><u>[Updated] The Ultimate Tutorial  Creating Instagram-Ready Videos with Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-choosing-the-best-stabilizing-accessories/"><u>[Updated] Ultimate Guide  Choosing the Best Stabilizing Accessories</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2021s-top-contender-comprehensive-analysis-of-the-alienware-aurora-r11-as-a-premier-gaming-pc/"><u>2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-color-correction-leveraging-look-up-tables-from-cg-central/"><u>2024 Approved  Streamlining Color Correction  Leveraging Look-Up Tables From CG Central</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-windows-11-game-recordings-the-ultimate-guide-to-successful-techniques/"><u>2024 Approved  Windows 11 Game Recordings  The Ultimate Guide to Successful Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/6-fast-solutions-to-enhance-your-elden-ring-gameplay-experience/"><u>6 Fast Solutions to Enhance Your Elden Ring Gameplay Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/1723009674694-achieve-smooth-gameplay-with-higher-fps-in-ring-of-elysium-strategies-unveiled/"><u>Achieve Smooth Gameplay with Higher FPS in Ring of Elysium - Strategies Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/asus-vg245h-a-top-tier-choice-for-enhanced-console-gaming-performance/"><u>Asus VG245H: A Top-Tier Choice for Enhanced Console Gaming Performance</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-motorola-edge-40-neo-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Motorola Edge 40 Neo Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-chromecast-with-google-tv-analysis-a-new-contender-vs-amazons-firetv/"><u>Comprehensive Chromecast with Google TV Analysis: A New Contender vs Amazon's FireTV</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-guide-solving-crash-problems-in-starcraft-ii-on-desktop-computers/"><u>Comprehensive Guide: Solving Crash Problems in StarCraft II on Desktop Computers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-review-lenovo-tab-4-the-balance-between-affordability-and-limitations-in-an-android-tablet/"><u>Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/consumer-favorites-elite-list-of-wire-free-phones-in-2er-years/"><u>Consumer Favorites: Elite List of Wire-Free Phones in 2Er Years</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/cryptocurrency-crusaders-guide-top-5-ai-trading-tips/"><u>Cryptocurrency Crusaders' Guide: Top 5 AI Trading Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/direct-connection-how-to-project-iphone-screen-onto-roku-television-no-wifi-required/"><u>Direct Connection: How to Project iPhone Screen Onto Roku Television, No WiFi Required</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/discover-the-motorola-one-5g-ace-an-in-depth-review-of-superior-5g-speed-combined-with-extended-battery-life/"><u>Discover the Motorola One 5G Ace – An In-Depth Review of Superior 5G Speed Combined with Extended Battery Life</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/effective-solutions-to-the-quick-valorant-graphics-driver-down-error/"><u>Effective Solutions to the Quick 'Valorant Graphics Driver Down' Error</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/exploring-top-6-reasons-for-youtube-premium-enthusiasts/"><u>Exploring Top 6 Reasons for YouTube Premium Enthusiasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/guide-to-diagnosing-and-correcting-unknown-speaker-setup-on-windows-11-systems/"><u>Guide to Diagnosing and Correcting 'Unknown' Speaker Setup on Windows 11 Systems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/hearthstone-hassles-how-to-handle-pc-game-collapses-effortlessly/"><u>Hearthstone Hassles: How to Handle PC Game Collapses Effortlessly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/how-to-get-msi-afterburner-to-detect-your-graphics-card-on-pc-windows-10-and-11/"><u>How to Get MSI Afterburner to Detect Your Graphics Card on PC (Windows 10 & 11)</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-lightning-fast-lore-resurrecting-reddit-articles-lost/"><u>In 2024, Lightning-Fast Lore  Resurrecting Reddit Articles Lost</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unravel-media-complexity-transforming-xmlttml-into-srt-gold/"><u>In 2024, Unravel Media Complexity  Transforming XML/TTML Into SRT Gold</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/investigating-the-speed-and-longevity-in-jabra-talk-25-microphone/"><u>Investigating the Speed and Longevity in Jabra Talk 25 Microphone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/kodi-cant-connect-heres-how-to-fix-failed-directory-information-retrieval/"><u>Kodi Can't Connect? Here's How to Fix Failed Directory Information Retrieval</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/msi-afterburner-gpu-detection-problems-solved-for-windows-11-users/"><u>MSI Afterburner GPU Detection Problems Solved for Windows 11 Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-through-6-predominant-car-ai-integration-obstacles/"><u>Navigating Through 6 Predominant Car AI Integration Obstacles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pc-troubleshooting-fixing-constant-crashes-in-alien-fireteam-elite/"><u>PC Troubleshooting: Fixing Constant Crashes in Alien: Fireteam Elite</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-fixes-for-common-wow-game-crashes-a-guide/"><u>Quick Fixes for Common WoW Game Crashes: A Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-solutions-how-to-resolve-google-hangouts-mic-issues/"><u>Quick Solutions: How to Resolve 'Google Hangouts Mic' Issues</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/resolved-starfields-patched-audio-interruptions-and-hiccups/"><u>Resolved! Starfield's Patched Audio Interruptions & Hiccups</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/samsung-galaxy-s20-fe-5g-review-a-surefire-5g-fan-favorite/"><u>Samsung Galaxy S20 FE 5G Review: A Surefire 5G Fan-Favorite</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sizzling-skills-tested-in-depth-analysis-of-overcooked-2s-gastronomic-adventure/"><u>Sizzling Skills Tested: In-Depth Analysis of Overcooked! 2'S Gastronomic Adventure</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/solve-your-logitech-g933s-sound-issues-with-these-simple-fixes/"><u>Solve Your Logitech G933's Sound Issues with These Simple Fixes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/solving-the-persistent-issue-of-persona-3-f-escapeman-failure-to-boot/"><u>Solving the Persistent Issue of Persona 3 F Escapeman Failure to Boot</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/temporary-hold-recording-assistance/"><u>Temporary Hold Recording Assistance</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-reno-9a-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo Reno 9A FRP</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/s-for-snagging-youtube-dialogues/"><u>Tricks for Snagging YouTube Dialogues</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/trouble-looms-as-diablo-ii-reborn-struggles-with-initial-launch-setbacks/"><u>Trouble Looms as Diablo II Reborn Struggles with Initial Launch Setbacks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/troubleshooting-gpu-activation-for-cyberpunk-2077-players-on-the-latest-windows-11-system/"><u>Troubleshooting GPU Activation for Cyberpunk 2077 Players on the Latest Windows 11 System</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ultimate-guide-to-prevent-new-world-from-frequent-pc-disruptions/"><u>Ultimate Guide to Prevent 'New World' From Frequent PC Disruptions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ultimate-guide-unboxing-and-testing-tp-link-re505x-range-extender/"><u>Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/shing-potential-the-rising-stars-of-women-in-video-content/"><u>Unleashing Potential  The Rising Stars of Women in Video Content</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-rhythm-rulers-the-ultimate-list-of-hit-identification-tools-revised/"><u>Updated 2024 Approved Rhythm Rulers The Ultimate List of Hit Identification Tools, Revised</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-reach-more-users-by-using-instagram-live-shopping-for-2024/"><u>Updated How To Reach More Users by Using Instagram Live Shopping for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-achieve-youtube-profitability-the-milestone-of-500plus-subscribers-unlocked/"><u>[Updated] 2024 Approved Achieve Youtube Profitability The Milestone of 500+ Subscribers Unlocked</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-multimedia-fabrication-zone/"><u>2024 Approved Multimedia Fabrication Zone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-secret-handbook-to-instagrams-exclusive-club-elevating-your-profile-with-six-tips/"><u>2024 Approved The Secret Handbook to Instagram's Exclusive Club Elevating Your Profile with Six Tips</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/4-popular-ways-to-say-youre-welcome-in-french/"><u>4 Popular Ways To Say You’re Welcome In French</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/advanced-tech-advice-for-enthusiasts-from-toms-computing-corner/"><u>Advanced Tech Advice for Enthusiasts From Tom's Computing Corner</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-to-correct-ieframedll-problems-on-your-pc/"><u>Effective Solutions to Correct ieframe.dll Problems on Your PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-scoop-on-computers-and-peripherals-at-toms-tech-resource/"><u>Inside Scoop on Computers and Peripherals at Tom's Tech Resource</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-electronics-wisdom-from-toms-hardware-experts/"><u>Mastering Electronics: Wisdom From Tom's Hardware Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-ntldr-is-missing-issue-a-step-by-step-guide/"><u>Resolving the 'NTLDR Is Missing' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/superior-media-player-for-windows-10-streamline-your-4k-5k-and-hd-viewing-experience/"><u>Superior Media Player for Windows 10: Streamline Your 4K, 5K, and HD Viewing Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unleash-creative-potential-for-video-editing-in-windows-photos-for-2024/"><u>Unleash Creative Potential for Video Editing in Windows Photos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/unveiling-gadgets-with-toms-tech-review-the-ultimate-hardware-source/"><u>Unveiling Gadgets with Tom's Tech Review: The Ultimate Hardware Source</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/yitian-nokia-710-the-speed-champion-of-alibabas-server-cpus-in-cloud-computing/"><u>Yitian Nokia 710: The Speed Champion of Alibaba's Server CPUs in Cloud Computing</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "WD's Ultrastar Transporter: A Game-Changer in Data Mobility with 368TB NVMe Storage Capacity and High-End Specs!"
-date: 2024-09-08T03:26:25.772Z
-updated: 2024-09-09T03:26:25.772Z
+date: 2024-09-08T20:22:00.739Z
+updated: 2024-09-14T08:01:52.880Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/f52859b8cd9dd422cf0c712696f19c9a8d2ea9a54ae99a71f15e709bfd0f373c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Cutting-Edge PC Architecture: Expertly Engineered for Efficient Air Cooling at the Heart of a Large Central Fan - Conquer Centrifugal Dynamics
 
 Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengthy video showcasing the building, iteration, and operation of[a true fan PC build](https://www.bilibili.com/video/BV1JE421A713/) , by which we mean the entire PC has been built into the center of a giant box fan painted to look like a case fan. This video demo should not be mistaken for an actually-viable[Mini PC](https://www.tomshardware.com/tag/mini-pc) project, and does not constitute any[PC cooling advice](https://www.tomshardware.com/how-to/set-up-pc-case-fans-for-airflow-and-performance) .
@@ -25,22 +19,10 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 ![Shots of the Fan PC build from throughout the original video.](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: 苏打baka on Bilibili)
 
 ![Shots of the Fan PC build from throughout the original video.](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: 苏打baka on Bilibili)
 
  Now, let's talk a little more about the details of the PC build in question. Sodabaka essentially took an old Intel Sandybridge-era[Mini ITX](https://www.tomshardware.com/best-picks/best-mini-itx-pc-cases) motherboard and tested its operation while attached to a spinning fan.
@@ -53,12 +35,6 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -67,14 +43,11 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -85,44 +58,21 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-make-youtube-videos-on-your-smartphone/"><u>[New] How To Make YouTube Videos on Your Smartphone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-cutting-edge-mac-accessory-visionplussound-capturing/"><u>[New] In 2024, Cutting-Edge Mac Accessory  Vision+Sound Capturing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-making-funny-photos-no-fees-involved/"><u>[New] Making Funny Photos  No Fees Involved</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-transform-your-vision-into-reality-essential-movies-maker-skills-on-windows-8/"><u>[New] Transform Your Vision Into Reality  Essential Movies Maker Skills on Windows 8</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-visibility-and-views-on-youtube/"><u>[Updated] Maximize Visibility and Views on YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-kinetic-keywords-animation-mastery-for-social-media-captions/"><u>2024 Approved  Kinetic Keywords  Animation Mastery for Social Media Captions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/6-fast-solutions-to-enhance-your-elden-ring-gameplay-experience/"><u>6 Fast Solutions to Enhance Your Elden Ring Gameplay Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/1723009674694-achieve-smooth-gameplay-with-higher-fps-in-ring-of-elysium-strategies-unveiled/"><u>Achieve Smooth Gameplay with Higher FPS in Ring of Elysium - Strategies Unveiled</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-6s-plus-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 6s Plus Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/asus-vg245h-a-top-tier-choice-for-enhanced-console-gaming-performance/"><u>Asus VG245H: A Top-Tier Choice for Enhanced Console Gaming Performance</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-guide-solving-crash-problems-in-starcraft-ii-on-desktop-computers/"><u>Comprehensive Guide: Solving Crash Problems in StarCraft II on Desktop Computers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/consumer-favorites-elite-list-of-wire-free-phones-in-2er-years/"><u>Consumer Favorites: Elite List of Wire-Free Phones in 2Er Years</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/cryptocurrency-crusaders-guide-top-5-ai-trading-tips/"><u>Cryptocurrency Crusaders' Guide: Top 5 AI Trading Tips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/discover-the-motorola-one-5g-ace-an-in-depth-review-of-superior-5g-speed-combined-with-extended-battery-life/"><u>Discover the Motorola One 5G Ace – An In-Depth Review of Superior 5G Speed Combined with Extended Battery Life</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/effective-solutions-to-the-quick-valorant-graphics-driver-down-error/"><u>Effective Solutions to the Quick 'Valorant Graphics Driver Down' Error</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-the-ultimate-survival-adventure-with-dying-light-the-perfect-blend-of-cooperative-gameplay-and-parkour-excitement/"><u>Experience the Ultimate Survival Adventure with 'Dying Light' – The Perfect Blend of Cooperative Gameplay and Parkour Excitement</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-innovative-ways-for-sound-capture-in-modern-windows-11-pcs-for-2024/"><u>Explore Innovative Ways for Sound Capture in Modern Windows 11 PCs for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/exploring-top-6-reasons-for-youtube-premium-enthusiasts/"><u>Exploring Top 6 Reasons for YouTube Premium Enthusiasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-review-and-tutorial-s-video-show-app-for-2024/"><u>Full Review & Tutorial 'S Video Show App for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/game-gateway-3-steps-to-direct-folder-entry-on-pc/"><u>Game Gateway: 3 Steps to Direct Folder Entry on PC</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-direct-download-destiny-ultimate-guide-to-mp3-makers/"><u>In 2024, Direct Download Destiny  Ultimate Guide to Mp3 Makers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-navigating-fun-with-junior-drivers/"><u>In 2024, Navigating Fun with Junior Drivers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitsoundscape-audio-from-tweets/"><u>In 2024, TwitSoundscape  Audio From Tweets</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/investigating-the-speed-and-longevity-in-jabra-talk-25-microphone/"><u>Investigating the Speed and Longevity in Jabra Talk 25 Microphone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/kodi-cant-connect-heres-how-to-fix-failed-directory-information-retrieval/"><u>Kodi Can't Connect? Here's How to Fix Failed Directory Information Retrieval</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/msi-afterburner-gpu-detection-problems-solved-for-windows-11-users/"><u>MSI Afterburner GPU Detection Problems Solved for Windows 11 Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-through-6-predominant-car-ai-integration-obstacles/"><u>Navigating Through 6 Predominant Car AI Integration Obstacles</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-melody-and-motion-crafting-music-video-beats-that-drive-visual-narratives-forward/"><u>New In 2024, Melody & Motion Crafting Music Video Beats That Drive Visual Narratives Forward</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-fixes-for-common-wow-game-crashes-a-guide/"><u>Quick Fixes for Common WoW Game Crashes: A Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-solutions-how-to-resolve-google-hangouts-mic-issues/"><u>Quick Solutions: How to Resolve 'Google Hangouts Mic' Issues</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/resolved-starfields-patched-audio-interruptions-and-hiccups/"><u>Resolved! Starfield's Patched Audio Interruptions & Hiccups</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/samsung-galaxy-s20-fe-5g-review-a-surefire-5g-fan-favorite/"><u>Samsung Galaxy S20 FE 5G Review: A Surefire 5G Fan-Favorite</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sizzling-skills-tested-in-depth-analysis-of-overcooked-2s-gastronomic-adventure/"><u>Sizzling Skills Tested: In-Depth Analysis of Overcooked! 2'S Gastronomic Adventure</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/solve-your-logitech-g933s-sound-issues-with-these-simple-fixes/"><u>Solve Your Logitech G933's Sound Issues with These Simple Fixes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/solving-the-persistent-issue-of-persona-3-f-escapeman-failure-to-boot/"><u>Solving the Persistent Issue of Persona 3 F Escapeman Failure to Boot</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/trouble-looms-as-diablo-ii-reborn-struggles-with-initial-launch-setbacks/"><u>Trouble Looms as Diablo II Reborn Struggles with Initial Launch Setbacks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/troubleshooting-gpu-activation-for-cyberpunk-2077-players-on-the-latest-windows-11-system/"><u>Troubleshooting GPU Activation for Cyberpunk 2077 Players on the Latest Windows 11 System</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-enabling-roku-closed-captions-that-arent-working/"><u>Troubleshooting Steps: Enabling Roku Closed Captions That Aren't Working</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ultimate-guide-to-prevent-new-world-from-frequent-pc-disruptions/"><u>Ultimate Guide to Prevent 'New World' From Frequent PC Disruptions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-best-practices-for-amassing-itunes-video-archives/"><u>[Updated] Best Practices for Amassing iTunes Video Archives</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/beelink-gti14-the-new-meteor-lake-mini-pc-featuring-an-external-expansion-port-for-gpu-connectivity/"><u>Beelink GTi14: The New Meteor Lake Mini-PC Featuring an External Expansion Port for GPU Connectivity</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-11-pro-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 11 Pro Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-a60-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel A60 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-v30-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo V30 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-the-world-of-tech-articles-and-reviews-from-toms-hardware/"><u>Inside the World of Tech - Articles and Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/next-level-custom-pc-build-high-performance-computing-meets-brewed-perfection-within-chassis/"><u>Next-Level Custom PC Build: High-Performance Computing Meets Brewed Perfection Within Chassis</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fix-list-resolving-street-fighter-6-pc-crashes-for-a-seamless-gaming-session/"><u>Ultimate Fix List: Resolving Street Fighter 6 PC Crashes for a Seamless Gaming Session</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/unleashing-performance-the-toms-hardware-scoop/"><u>Unleashing Performance: The Tom's Hardware Scoop</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

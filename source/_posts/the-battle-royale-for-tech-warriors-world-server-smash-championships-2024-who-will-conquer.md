@@ -1,7 +1,7 @@
 ---
 title: "The Battle Royale for Tech Warriors: World Server Smash Championships 2024 - Who Will Conquer?"
-date: 2024-09-08T03:26:25.728Z
-updated: 2024-09-09T03:26:25.728Z
+date: 2024-09-10T02:29:20.180Z
+updated: 2024-09-14T04:41:22.493Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c9d71de8279c052980247986.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## $59 for Musical Mastery: Embrace the World of Open Source with Tulip's MicroPython-Driven Computer Designed for Musicians
 
 For just $59, musicians now have a new option for a purpose-built musical computer with a touchscreen and music synthesizer— meet the[Tulip Creative Computer](https://tulip.computer/) , a FOSS (Free and Open Source) project available as a pre-made purchase in free software form for existing PCs and Macs, or even fully buildable at home to those with the resources and know-how to get it done.
@@ -25,18 +19,6 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  Tulip, a musical computer based on Micropython - YouTube ![Tulip, a musical computer based on Micropython - YouTube](https://img.youtube.com/vi/1lYFjQp7Xrw/maxresdefault.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Watch On](https://youtu.be/1lYFjQp7Xrw)
 
  The synthesizer at the heart of Tulip is the AMY (Addictive Music synthesizer librarY), another FOSS project made to be integrated across "almost any program, architecture, or microcontroller" and usable as an FM synthesizer, analog-type synthesizer, drum machine, or even a breakpoint synthesizer. AMY is also used by the FOSS mesh synthesizer project Alles (think FOSS wireless speaker mesh solution), which Tulip Creative Computers also supports.
@@ -47,12 +29,6 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -61,14 +37,11 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -79,55 +52,28 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/bloodhunt-pc-woes-comprehensive-guide-to-fix-glitchy-execution/"><u>'Bloodhunt' PC Woes: Comprehensive Guide to Fix Glitchy Execution</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-a-step-by-step-guide-through-the-landscape-of-srt/"><u>[New] 2024 Approved  A Step-by-Step Guide Through the Landscape of SRT</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-instantize-image-movement-with-photoshop/"><u>[New] Instantize Image Movement with Photoshop</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-precision-countdown-ios-and-android-wedding-timer-selection/"><u>[New] Precision Countdown  IOS and Android Wedding Timer Selection</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-sage-streams-compiled-list-of-top-trivia-networks-2024-edition/"><u>[New] Sage Streams  Compiled List of Top Trivia Networks, 2024 Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seconds-spent-watching-a-20mb-video/"><u>[New] Seconds Spent Watching a 20MB Video</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-tailored-techniques-for-removing-youtube-ads-in-various-browsers/"><u>[Updated] 2024 Approved  Tailored Techniques for Removing YouTube Ads in Various Browsers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-disrupted-tunes-the-best-audio-rippers-for-2024/"><u>[Updated] Disrupted Tunes  The Best Audio Rippers for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-global-perspective-inclusive-technology-review-for-2024/"><u>[Updated] Global Perspective  Inclusive Technology Review for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-masterclass-series-incorporating-timekeepers-into-live-production/"><u>[Updated] In 2024, Masterclass Series  Incorporating Timekeepers Into Live Production</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-livestreaming-tools-evaluation-which-bets-on-performance-in-2024/"><u>[Updated] Livestreaming Tools Evaluation  Which Bets on Performance, In 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2021s-top-contender-comprehensive-analysis-of-the-alienware-aurora-r11-as-a-premier-gaming-pc/"><u>2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-11-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 11 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/6-fast-solutions-to-enhance-your-elden-ring-gameplay-experience/"><u>6 Fast Solutions to Enhance Your Elden Ring Gameplay Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/1723009674694-achieve-smooth-gameplay-with-higher-fps-in-ring-of-elysium-strategies-unveiled/"><u>Achieve Smooth Gameplay with Higher FPS in Ring of Elysium - Strategies Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/asus-vg245h-a-top-tier-choice-for-enhanced-console-gaming-performance/"><u>Asus VG245H: A Top-Tier Choice for Enhanced Console Gaming Performance</u></a></li>
-<li><a href="https://article-tips.techidaily.com/best-vr-equipment-enhancing-flight-control/"><u>Best VR Equipment Enhancing Flight Control</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-chromecast-with-google-tv-analysis-a-new-contender-vs-amazons-firetv/"><u>Comprehensive Chromecast with Google TV Analysis: A New Contender vs Amazon's FireTV</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-guide-solving-crash-problems-in-starcraft-ii-on-desktop-computers/"><u>Comprehensive Guide: Solving Crash Problems in StarCraft II on Desktop Computers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-review-lenovo-tab-4-the-balance-between-affordability-and-limitations-in-an-android-tablet/"><u>Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/consumer-favorites-elite-list-of-wire-free-phones-in-2er-years/"><u>Consumer Favorites: Elite List of Wire-Free Phones in 2Er Years</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/cryptocurrency-crusaders-guide-top-5-ai-trading-tips/"><u>Cryptocurrency Crusaders' Guide: Top 5 AI Trading Tips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/discover-the-motorola-one-5g-ace-an-in-depth-review-of-superior-5g-speed-combined-with-extended-battery-life/"><u>Discover the Motorola One 5G Ace – An In-Depth Review of Superior 5G Speed Combined with Extended Battery Life</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/effective-solutions-to-the-quick-valorant-graphics-driver-down-error/"><u>Effective Solutions to the Quick 'Valorant Graphics Driver Down' Error</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elite-gamers-choice-top-4k-laptop-list-for-2024/"><u>Elite Gamers' Choice  Top 4K Laptop List for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/exploring-top-6-reasons-for-youtube-premium-enthusiasts/"><u>Exploring Top 6 Reasons for YouTube Premium Enthusiasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/guide-to-diagnosing-and-correcting-unknown-speaker-setup-on-windows-11-systems/"><u>Guide to Diagnosing and Correcting 'Unknown' Speaker Setup on Windows 11 Systems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/how-to-get-msi-afterburner-to-detect-your-graphics-card-on-pc-windows-10-and-11/"><u>How to Get MSI Afterburner to Detect Your Graphics Card on PC (Windows 10 & 11)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-movie-magic-adjusting-netflix-speed/"><u>In 2024, Mastering Movie Magic  Adjusting Netflix Speed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-a14-4g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy A14 4G Phone? Unlock It Now</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/instantaneous-duo-recording-cam-plus-screen/"><u>Instantaneous Duo Recording  Cam + Screen</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/investigating-the-speed-and-longevity-in-jabra-talk-25-microphone/"><u>Investigating the Speed and Longevity in Jabra Talk 25 Microphone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/kodi-cant-connect-heres-how-to-fix-failed-directory-information-retrieval/"><u>Kodi Can't Connect? Here's How to Fix Failed Directory Information Retrieval</u></a></li>
-<li><a href="https://network-issues.techidaily.com/monitor-unresponsive-to-new-graphics-card/"><u>Monitor Unresponsive to New Graphics Card</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/msi-afterburner-gpu-detection-problems-solved-for-windows-11-users/"><u>MSI Afterburner GPU Detection Problems Solved for Windows 11 Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-through-6-predominant-car-ai-integration-obstacles/"><u>Navigating Through 6 Predominant Car AI Integration Obstacles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pc-troubleshooting-fixing-constant-crashes-in-alien-fireteam-elite/"><u>PC Troubleshooting: Fixing Constant Crashes in Alien: Fireteam Elite</u></a></li>
-<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-6s-plus-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-fixes-for-common-wow-game-crashes-a-guide/"><u>Quick Fixes for Common WoW Game Crashes: A Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-solutions-how-to-resolve-google-hangouts-mic-issues/"><u>Quick Solutions: How to Resolve 'Google Hangouts Mic' Issues</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/resolved-starfields-patched-audio-interruptions-and-hiccups/"><u>Resolved! Starfield's Patched Audio Interruptions & Hiccups</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/samsung-galaxy-s20-fe-5g-review-a-surefire-5g-fan-favorite/"><u>Samsung Galaxy S20 FE 5G Review: A Surefire 5G Fan-Favorite</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sizzling-skills-tested-in-depth-analysis-of-overcooked-2s-gastronomic-adventure/"><u>Sizzling Skills Tested: In-Depth Analysis of Overcooked! 2'S Gastronomic Adventure</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/solve-your-logitech-g933s-sound-issues-with-these-simple-fixes/"><u>Solve Your Logitech G933's Sound Issues with These Simple Fixes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/solving-the-persistent-issue-of-persona-3-f-escapeman-failure-to-boot/"><u>Solving the Persistent Issue of Persona 3 F Escapeman Failure to Boot</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-hustle-free-route-mastering-podcast-live-broadcasting-for-2024/"><u>The Hustle-Free Route  Mastering Podcast Live Broadcasting for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/trouble-looms-as-diablo-ii-reborn-struggles-with-initial-launch-setbacks/"><u>Trouble Looms as Diablo II Reborn Struggles with Initial Launch Setbacks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/troubleshooting-gpu-activation-for-cyberpunk-2077-players-on-the-latest-windows-11-system/"><u>Troubleshooting GPU Activation for Cyberpunk 2077 Players on the Latest Windows 11 System</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ultimate-guide-to-prevent-new-world-from-frequent-pc-disruptions/"><u>Ultimate Guide to Prevent 'New World' From Frequent PC Disruptions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ultimate-guide-unboxing-and-testing-tp-link-re505x-range-extender/"><u>Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-up-your-wealth-profit-from-effective-use-of-youtube-shorts/"><u>[New] In 2024, Channel Up Your Wealth Profit From Effective Use of YouTube Shorts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-easily-download-your-favorites-handpicked-tools-reviewed/"><u>[Updated] 2024 Approved Easily Download Your Favorites Handpicked Tools Reviewed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-playful-pedal-powered-pastimes/"><u>2024 Approved Playful Pedal-Powered Pastimes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/exploring-performance-and-value-in-the-corsair-one-i500-tiny-gaming-rig/"><u>Exploring Performance & Value in the Corsair One I500 Tiny Gaming Rig</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-battlefield-restoring-modern-warfares-voice-chat-functionality/"><u>Fixing the Silent Battlefield: Restoring Modern Warfare's Voice Chat Functionality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/gearhead-geek-comprehensive-guides-to-advanced-computer-systems/"><u>Gearhead Geek: Comprehensive Guides to Advanced Computer Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-google-pixel-8-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Google Pixel 8 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-12-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 12 Pro Max to PC | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-world-of-pcs-with-tom-detailed-analysis-and-opinions/"><u>Navigating the World of PCs with Tom - Detailed Analysis and Opinions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidia-mx150-driver-version-upgrade-and-download-guide-for-windows-users/"><u>NVIDIA MX150 Driver Version Upgrade & Download Guide for Windows Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revolutionary-pocket-sized-laptop-unplugged-with-intel-alder-lake-n-ethernet-and-power-over-ethernet/"><u>Revolutionary Pocket-Sized Laptop: Unplugged with Intel Alder Lake-N, Ethernet & Power over Ethernet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/1723262403099-score-a-steal-with-msi-aegis-r2-top-specs-and-price-cut-get-rtx-4070-and-intels-latest-i7-at-an-unbeatable-price-below-1600/"><u>Score a Steal with MSI Aegis R2 - Top Specs and Price Cut! Get RTX 4070 & Intel's Latest I7 at an Unbeatable Price Below $1,600.</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/slash-priced-gamers-dream-powerhouse-prebuilt-pc-rtx-4070-super-gpu-plus-core-i7-14700kf-available-for-under-1600/"><u>Slash-Priced Gamer's Dream: Powerhouse Prebuilt PC (RTX 4070 Super GPU + Core I7-14700KF) Available for Under $1,600!</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-success-crafting-impactful-page-polls/"><u>Social Media Success: Crafting Impactful Page Polls</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-enhancing-performance-and-efficiency-in-windows-10/"><u>Ultimate Guide: Enhancing Performance and Efficiency in Windows 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/unveiling-the-sibolan-szbox-s69-a-colorful-ryzen-mini-pc-with-vintage-chips-not-quite-heroic/"><u>Unveiling the Sibolan SZBox S69: A Colorful Ryzen Mini PC with Vintage Chips, Not Quite Heroic</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

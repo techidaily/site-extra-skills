@@ -1,7 +1,7 @@
 ---
 title: "Screenless Laptop Aesthetics Meet Elite Performance: The AtomMan G7 Ti with I9 CPU, RTX Graphics & Massive RAM Capacity"
-date: 2024-09-08T03:26:25.931Z
-updated: 2024-09-09T03:26:25.931Z
+date: 2024-09-08T02:02:57.407Z
+updated: 2024-09-13T18:22:41.389Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c65510cdf2678db2edca6954d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Maximize Graphics Power & Performance - Elevate Your Build Using Our DIY Kit's PCIe Connection Between Mini PC and eGPU, Outpacing Thunderbolt 4 Speeds
 
 Mini PCs, the class of desktops that fit in really tiny cases, have a following among PC enthusiasts thanks to Intel's (now Asus's) NUC line. But because of their size and modest thermal budgets, most mini PCs have two severe limitations: they rely on performance-limited mobile CPUs and they usually are stuck with integrated graphics.
@@ -29,12 +23,6 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 ![Mini Maker Turbo Mini X Open](https://cdn.mos.cms.futurecdn.net/6Lgg2ep6349kAWRyprQDe3-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  You can use any Raptor Lake or Raptor Lake Refresh chip that consumes 65 watts, a Core i5-1440 or Core i7-1470 for example. A passive heat sink covers the chip and a blower fan sits next to the sink and above the SODIMM slots. The kit doesn't come with an SSD (or the RAM or CPU) but it does come with a heatsink you can use with your SSD to keep it cool.
@@ -43,18 +31,6 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -69,12 +45,6 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The StreamPlay X is a remarkably compact eGPU, but an attractive one. It allows you to see your card through a wrap-around plastic window and it has a case fan to help cool your graphics card. The device is available with different power supply capacities: 250, 350 or 400 watts.
@@ -83,18 +53,6 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Mini Maker is a very new brand whose parent company is Hibertek, a Taiwanese OEM that builds B2B systems. Company reps said that they are trying to find a partner in the U.S. to sell the Turbo Mini X and its other mini PCs. The products may carry any future partners' brand name or they could be labeled as Mini Maker. At present, the system is set to come out in mainland China and Taiwan.
@@ -103,14 +61,11 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
  But even at a much higher price, the Turbo Mini X and Streamplay X could be a very compelling combination. Users with limited desk space or those who just like the idea of a tiny desktop could get a lot of performance and flexibility with a very small footprint.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,52 +76,29 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/bloodhunt-pc-woes-comprehensive-guide-to-fix-glitchy-execution/"><u>'Bloodhunt' PC Woes: Comprehensive Guide to Fix Glitchy Execution</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-obs-vs-streamlabs-which-is-better/"><u>[New] 2024 Approved  OBS vs Streamlabs   Which Is Better?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-screenflow-showdown-the-top-video-editing-software-for-macos-users/"><u>[New] 2024 Approved  ScreenFlow Showdown  The Top Video Editing Software for macOS Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-smoothie-your-phone-converting-iphones-jpegpng-to-pdf/"><u>[New] Smoothie Your Phone  Converting iPhone's JPEG/PNG to PDF</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-screen-recording-on-a-dell-workstation/"><u>[New] The Ultimate Guide to Screen Recording on a Dell Workstation</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-behind-the-filter-ensuring-veritable-instagram-selfies/"><u>[Updated] Behind the Filter  Ensuring Veritable Instagram Selfies</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-quick-guide-on-recording-gotomeeting-chats-with-ease/"><u>[Updated] In 2024, Quick Guide on Recording GoToMeeting Chats with Ease</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-selecting-prime-apps-for-iphoneandroid-intro-videos/"><u>[Updated] Selecting Prime Apps for iPhone/Android Intro Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2021s-top-contender-comprehensive-analysis-of-the-alienware-aurora-r11-as-a-premier-gaming-pc/"><u>2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-copyright-free-meditation-music-download/"><u>2024 Approved  Copyright-Free Meditation Music Download</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-exceptional-7-dslr-devices-for-expert-video-content-creators/"><u>2024 Approved  Exceptional 7 DSLR Devices For Expert Video Content Creators</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-peer-reviews-unpacking-vllo-experience/"><u>2024 Approved  Peer Reviews  Unpacking VLLO Experience</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-premium-psd-free-3d-text-treasure-hunt/"><u>2024 Approved  Premium PSD Free 3D Text Treasure Hunt</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/1723009674694-achieve-smooth-gameplay-with-higher-fps-in-ring-of-elysium-strategies-unveiled/"><u>Achieve Smooth Gameplay with Higher FPS in Ring of Elysium - Strategies Unveiled</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963331513-best-behringer-sound-drivers-available-for-immediate-download/"><u>Best Behringer Sound Drivers Available for Immediate Download!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-chromecast-with-google-tv-analysis-a-new-contender-vs-amazons-firetv/"><u>Comprehensive Chromecast with Google TV Analysis: A New Contender vs Amazon's FireTV</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-guide-solving-crash-problems-in-starcraft-ii-on-desktop-computers/"><u>Comprehensive Guide: Solving Crash Problems in StarCraft II on Desktop Computers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-review-lenovo-tab-4-the-balance-between-affordability-and-limitations-in-an-android-tablet/"><u>Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/consumer-favorites-elite-list-of-wire-free-phones-in-2er-years/"><u>Consumer Favorites: Elite List of Wire-Free Phones in 2Er Years</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/discover-the-motorola-one-5g-ace-an-in-depth-review-of-superior-5g-speed-combined-with-extended-battery-life/"><u>Discover the Motorola One 5G Ace – An In-Depth Review of Superior 5G Speed Combined with Extended Battery Life</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/editorial-efficiency-m1s-smooth-performance-unveiled/"><u>Editorial Efficiency  M1's Smooth Performance Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/effective-solutions-to-the-quick-valorant-graphics-driver-down-error/"><u>Effective Solutions to the Quick 'Valorant Graphics Driver Down' Error</u></a></li>
-<li><a href="https://fox-http.techidaily.com/elevating-memes-to-cultural-phenomenon-for-2024/"><u>Elevating Memes to Cultural Phenomenon for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-magic-6-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/guide-to-diagnosing-and-correcting-unknown-speaker-setup-on-windows-11-systems/"><u>Guide to Diagnosing and Correcting 'Unknown' Speaker Setup on Windows 11 Systems</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo X Fold 2? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-motorola-moto-g13-is-unlocked-by-drfone-android/"><u>How To Check if Your Motorola Moto G13 Is Unlocked</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/how-to-get-msi-afterburner-to-detect-your-graphics-card-on-pc-windows-10-and-11/"><u>How to Get MSI Afterburner to Detect Your Graphics Card on PC (Windows 10 & 11)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-xiaomi-13t-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Xiaomi 13T Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y27 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-find-your-favorite-with-these-top-5-iphone-podcast-services/"><u>In 2024, Find Your Favorite with These Top 5 iPhone Podcast Services</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-13-pro-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 13 Pro Max to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/kodi-cant-connect-heres-how-to-fix-failed-directory-information-retrieval/"><u>Kodi Can't Connect? Here's How to Fix Failed Directory Information Retrieval</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/msi-afterburner-gpu-detection-problems-solved-for-windows-11-users/"><u>MSI Afterburner GPU Detection Problems Solved for Windows 11 Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-through-6-predominant-car-ai-integration-obstacles/"><u>Navigating Through 6 Predominant Car AI Integration Obstacles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pc-troubleshooting-fixing-constant-crashes-in-alien-fireteam-elite/"><u>PC Troubleshooting: Fixing Constant Crashes in Alien: Fireteam Elite</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-fixes-for-common-wow-game-crashes-a-guide/"><u>Quick Fixes for Common WoW Game Crashes: A Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-solutions-how-to-resolve-google-hangouts-mic-issues/"><u>Quick Solutions: How to Resolve 'Google Hangouts Mic' Issues</u></a></li>
-<li><a href="https://review-topics.techidaily.com/realme-data-recovery-recover-lost-data-from-realme-11-proplus-by-fonelab-android-recover-data/"><u>Realme Data Recovery – recover lost data from Realme 11 Pro+</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/resolved-starfields-patched-audio-interruptions-and-hiccups/"><u>Resolved! Starfield's Patched Audio Interruptions & Hiccups</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sizzling-skills-tested-in-depth-analysis-of-overcooked-2s-gastronomic-adventure/"><u>Sizzling Skills Tested: In-Depth Analysis of Overcooked! 2'S Gastronomic Adventure</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/solve-your-logitech-g933s-sound-issues-with-these-simple-fixes/"><u>Solve Your Logitech G933's Sound Issues with These Simple Fixes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/solving-the-persistent-issue-of-persona-3-f-escapeman-failure-to-boot/"><u>Solving the Persistent Issue of Persona 3 F Escapeman Failure to Boot</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/trouble-looms-as-diablo-ii-reborn-struggles-with-initial-launch-setbacks/"><u>Trouble Looms as Diablo II Reborn Struggles with Initial Launch Setbacks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/troubleshooting-gpu-activation-for-cyberpunk-2077-players-on-the-latest-windows-11-system/"><u>Troubleshooting GPU Activation for Cyberpunk 2077 Players on the Latest Windows 11 System</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ultimate-guide-to-prevent-new-world-from-frequent-pc-disruptions/"><u>Ultimate Guide to Prevent 'New World' From Frequent PC Disruptions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ultimate-guide-unboxing-and-testing-tp-link-re505x-range-extender/"><u>Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-ultimate-guide-to-free-movie-watching-on-youtube-in-july-2024/"><u>Your Ultimate Guide to Free Movie Watching on YouTube in July 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-best-live-stream-tools-for-gamers/"><u>[New] Unveiling Best Live-Stream Tools for Gamers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-navigating-google-meets-virtual-whiteboards-across-appleandroid-and-laptops/"><u>[Updated] 2024 Approved Navigating Google Meet's Virtual Whiteboards Across Apple/Android & Laptops</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-a-game-changer-how-bandicams-2023-update-transforms-capturing-games/"><u>[Updated] In 2024, A Game Changer How Bandicam's 2023 Update Transforms Capturing Games</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-cross-service-playlist-exchange-simplified/"><u>2024 Approved Cross-Service Playlist Exchange Simplified</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-step-by-step-guide-to-creating-compelling-multi-picture-insta-stories/"><u>2024 Approved Step by Step Guide to Creating Compelling, Multi-Picture Insta Stories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/amdeep-versus-grace-how-amds-epyc-cpu-surpasses-nvidias-superchip-with-double-the-velocity-in-multi-benchmark-trials/"><u>AMDEEP Versus GRACE: How AMD’s EPYC CPU Surpasses Nvidia’s Superchip with Double the Velocity in Multi-Benchmark Trials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/compact-powerhouse-explore-the-new-minisforum-mini-pc-with-amd-ryzen-9-7945hx-and-nvidia-rtx-7600m-graphics/"><u>Compact Powerhouse: Explore the New Minisforum Mini PC with AMD Ryzen 9 7945HX & NVIDIA RTX 7600M Graphics</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-vivo-y27-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Vivo Y27 5G Without PUK Codes</u></a></li>
+<li><a href="https://common-error.techidaily.com/pam-varies-amplitude-but-not-pulse-width-or-frequency/"><u>PAM Varies Amplitude but Not Pulse Width or Frequency.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/silicon-smile-stimulators-can-giggle-codecs-engage-emotion/"><u>Silicon Smile Stimulators: Can Giggle Codecs Engage Emotion?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/toms-computer-review-expert-insights-and-detailed-analysis/"><u>Tom's Computer Review: Expert Insights & Detailed Analysis</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

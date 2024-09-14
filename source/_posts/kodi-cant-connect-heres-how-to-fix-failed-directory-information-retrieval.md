@@ -1,7 +1,7 @@
 ---
 title: Kodi Can't Connect? Here's How to Fix Failed Directory Information Retrieval
-date: 2024-09-08T03:26:26.528Z
-updated: 2024-09-09T03:26:26.528Z
+date: 2024-09-09T03:33:03.102Z
+updated: 2024-09-14T05:29:59.521Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Kodi Can't Connect? Here's How to Fix Failed Dir
 thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc9941bc7a8515fe1dd62e1cd32c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Amazon Prime Video Connectivity Troubles? Here's How to Restore It
 
 Amazon Prime provides thousands of great series and movies which you can enjoy at home during this pandemic. It could be vexing to see Amazon Price video not working, but don’t worry, you can fix it at home by yourself easily and quickly no matter it’s on your phone, PC, or on your smart TV.
@@ -27,12 +21,6 @@ Amazon Prime provides thousands of great series and movies which you can enjoy a
 * [For smart TV](https://tools.techidaily.com/drivereasy/download/)
 * [For phone](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes for Amazon prime video not working on PC
 
 * [Reboot the browser](https://tools.techidaily.com/drivereasy/download/)
@@ -46,12 +34,6 @@ Amazon Prime provides thousands of great series and movies which you can enjoy a
 
  Then close the web browser and restart it. Or you can change another browser to open Amazon prime video.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Check your internet connection
 
  If you encounter buffering or frequent pauses, loading, check your internet connection. Stop other internet activities and shut down unneeded programs.
@@ -87,18 +69,6 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-715.png)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -118,10 +88,24 @@ OR
 * [Resign-in to the app](https://tools.techidaily.com/drivereasy/download/)
 * [Check your HDMI cable](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reboot your devices/apps
 
  Make sure your Amazon Prime video account is paid and active. You can go to[your account page](https://www.amazon.com/ap/signin?%5Fencoding=UTF8&accountStatusPolicy=P1&clientContext=135-4224850-9503066&openid.assoc%5Fhandle=usflex&openid.claimed%5Fid=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.mode=checkid%5Fsetup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max%5Fauth%5Fage=0&openid.return%5Fto=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fsettings%2Fref%3Ddv%5Fweb%5Fauth%5Fno%5Fre%5Fsig%3Fie%3DUTF8%26tag%3Dbisafetynet2-20) to check. Check your app version, update it to the latest version.  
  Then close the Prime video app and restart it, if it doesn’t work, reboot your smart TV. Rebooting is always the first and effective method to try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Resign-in to the app
 
@@ -137,40 +121,29 @@ If the cable is the culprit, you may need to purchase a new cable.
 
 [](https://images.drivereasy.com/wp-content/uploads/2020/08/61SDW7VbneL._AC_SL1500_-1200x950.jpg) ](https://www.amazon.com/AmazonBasics-High-Speed-HDMI-Cable-2-Pack/dp/B014I8SX4Y/ref=sr%5F1%5F4?dchild=1&keywords=hdmi&qid=1597731890&sr=8-4&tag=drivereasycom-20)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes for Amazon prime video not working on smartphone
 
 * [Restart the Amazon Prime](https://tools.techidaily.com/drivereasy/download/)
 * [Check your internet connection](https://tools.techidaily.com/drivereasy/download/)
 * [Reinstall the app](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Restart the Amazon Prime
 
  Make sure your Amazon Prime video account is paid and active. You can go to[your account page](https://www.amazon.com/ap/signin?%5Fencoding=UTF8&accountStatusPolicy=P1&clientContext=135-4224850-9503066&openid.assoc%5Fhandle=usflex&openid.claimed%5Fid=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.mode=checkid%5Fsetup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max%5Fauth%5Fage=0&openid.return%5Fto=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fsettings%2Fref%3Ddv%5Fweb%5Fauth%5Fno%5Fre%5Fsig%3Fie%3DUTF8%26tag%3Dbisafetynet2-20) to check. Check your app version, update it to the latest version.  
  Then close the Prime video app and restart it. Rebooting is always the first and effective method to try.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Check your internet connection
 
  Check your internet connection. Make sure you’re linked to the WiFi or using the cellular data.
 
  If your Wi-Fi is not working, you can press the power button on the back of the router to perform a soft reset.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall the app
 
@@ -186,8 +159,6 @@ If the cable is the culprit, you may need to purchase a new cable.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,38 +168,21 @@ If the cable is the culprit, you may need to purchase a new cable.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/irqlfixed-windows-bsod-equal-issue/"><u>[IRQL_FIXED] Windows BSOD - Equal Issue</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/igital-destinations-where-to-direct-your-videos-for-2024/"><u>[New] Digital Destinations  Where to Direct Your Videos for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-maximize-your-consoles-potential-top-monitors-explored/"><u>[New] Maximize Your Console's Potential - Top Monitors Explored</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-perfecting-your-pics-kinemaster-methods/"><u>[New] Perfecting Your Pics  KineMaster Methods</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-proven-strategies-for-powerful-customer-success-stories-on-screen/"><u>[New] Proven Strategies for Powerful Customer Success Stories on Screen</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-enhancing-speech-clarity-on-skype/"><u>[Updated] 2024 Approved  Enhancing Speech Clarity on Skype</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-androids-secret-weapon-for-stunning-time-lagged-footage/"><u>[Updated] Android's Secret Weapon for Stunning Time-Lagged Footage</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-investigating-alternatives-to-popular-video-broadcaster/"><u>[Updated] Investigating Alternatives to Popular Video Broadcaster</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-iphone-photography-top-app-picks-x-7/"><u>[Updated] Prime iPhone Photography  Top App Picks (X, 7)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pro-photo-expertise-at-your-fingertips-with-these-tips/"><u>[Updated] Pro Photo Expertise at Your Fingertips with These Tips</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oppo-find-x6-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-affordable-wireless-charging-pads-for-modern-phones/"><u>2024 Approved  Affordable Wireless Charging Pads for Modern Phones</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-m1-pro-and-m1-max-exploring-their-significant-differences/"><u>2024 Approved  M1 Pro & M1 Max  Exploring Their Significant Differences</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-camera-balance-gimbals-for-drones-explained/"><u>2024 Approved  Mastering Camera Balance  Gimbals for Drones Explained</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-ranking-the-leading-free-srt-translators-online/"><u>2024 Approved  Ranking the Leading Free SRT Translators Online</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-story-on-dji-phantom-4s-performance/"><u>2024 Approved  The Complete Story on DJI Phantom 4'S Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/destiny-2-beyond-light-patched-enhanced-pc-performance-and-bug-fixes/"><u>Destiny 2 Beyond Light Patched – Enhanced PC Performance & Bug Fixes</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/expert-advice-how-to-leverage-snapchat-effectively/"><u>Expert Advice  How to Leverage Snapchat Effectively</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-guide-overcoming-launch-difficulties-in-csgo/"><u>Expert Guide: Overcoming Launch Difficulties in CS:GO</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-addressing-the-lack-of-novelty-in-virtual-reality/"><u>In 2024, Addressing the Lack of Novelty in Virtual Reality</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-realme-c53-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Realme C53 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-memories-in-motion-a-step-by-step-guide-for-digital-conversion/"><u>In 2024, Memories in Motion  A Step-by-Step Guide for Digital Conversion</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-photoquilt-supreme-eightfold-creation-engine/"><u>In 2024, PhotoQuilt Supreme  Eightfold Creation Engine</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-spin-up-original-web-memes-instantly/"><u>In 2024, Spin Up Original Web Memes Instantly</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-best-iphone-selfie-devices-ranked-8/"><u>In 2024, The Best Iphone Selfie Devices Ranked (#8)</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-elevate-video-audio-dynamics-increase-surround-impact-for-2024/"><u>New Elevate Video Audio Dynamics Increase Surround Impact for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/overcome-iphone-voicemail-glitches-with-these-proven-9-strategies/"><u>Overcome iPhone Voicemail Glitches with These Proven 9 Strategies</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/palette-strategies-utilizing-color-science-in-art-for-2024/"><u>Palette Strategies  Utilizing Color Science in Art for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pinpointing-the-premier-hdr-cameras-for-photography-for-2024/"><u>Pinpointing the Premier HDR Cameras for Photography for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revive-flawed-movies-quickly-stellar-phoenix-for-mac/"><u>Revive Flawed Movies Quickly: Stellar Phoenix for Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-microsoft-flight-simulator-2n-update-hangups-once-and-for-all-step-by-step-guide/"><u>Solve Microsoft Flight Simulator 2N Update Hangups Once and for All - Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/stage-talent-video-download-permission-form-for-2024/"><u>Stage Talent  Video Download Permission Form for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/unmatched-efficiency-with-stellars-automated-data-purging-standard-version-for-mac/"><u>Unmatched Efficiency with Stellar's Automated Data Purging - Standard Version for Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/windows/"><u>ステラデータリカバリ: Windows に最適化された、セキュアなファイル復旧ソフトウェア(フリー版)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-breaking-down-youtube-revenue-per-million-views/"><u>[Updated] In 2024, Breaking Down YouTube Revenue per Million Views</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-download-voice-log-inspect/"><u>[Updated] In 2024, Download Voice Log Inspect</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-stardom-in-your-sights-6-must-try-techniques-for-verification-and-growth-for-2024/"><u>[Updated] Instagram Stardom in Your Sights 6 Must-Try Techniques for Verification and Growth for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-screen-snatching-made-easy-analyzing-no-cost-recording-apps-for-2024/"><u>[Updated] Screen Snatching Made Easy – Analyzing No-Cost Recording Apps for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/advanced-tech-advice-for-enthusiasts-from-toms-computing-corner/"><u>Advanced Tech Advice for Enthusiasts From Tom's Computing Corner</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/beelink-gti14-the-new-meteor-lake-mini-pc-featuring-an-external-expansion-port-for-gpu-connectivity/"><u>Beelink GTi14: The New Meteor Lake Mini-PC Featuring an External Expansion Port for GPU Connectivity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-your-phone-companion-iphone-or-android-the-ultimate-comparison/"><u>Choosing Your Phone Companion: IPhone or Android - The Ultimate Comparison</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-y78t-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Y78t</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/elevate-your-tech-experience-with-beefy-meteor-lake-processor-the-onexplayer-m1-featuring-a-powerful-intel-core-coffee-lake-i9-up-to-32gb-of-ram-and-future-89/"><u>Elevate Your Tech Experience with Beefy Meteor Lake Processor: The OneXPlayer M1, Featuring a Powerful Intel Core Coffee Lake I9, Up to 32GB of RAM & Future-Ready Connectivity Options</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-spark-go-2024-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-poco-f5-pro-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nubia-red-magic-9-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nubia Red Magic 9 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-electronics-wisdom-from-toms-hardware-experts/"><u>Mastering Electronics: Wisdom From Tom's Hardware Experts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/next-level-custom-pc-build-high-performance-computing-meets-brewed-perfection-within-chassis/"><u>Next-Level Custom PC Build: High-Performance Computing Meets Brewed Perfection Within Chassis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/unleashing-performance-the-toms-hardware-scoop/"><u>Unleashing Performance: The Tom's Hardware Scoop</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/1723262406386-wds-ultrastar-transporter-a-game-changer-in-data-mobility-with-368tb-nvme-storage-capacity-and-high-end-specs/"><u>WD's Ultrastar Transporter: A Game-Changer in Data Mobility with 368TB NVMe Storage Capacity and High-End Specs!</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sky-High Adventures  The GoPro Karma Experience\""
-date: 2024-09-08T03:26:27.134Z
-updated: 2024-09-09T03:26:27.134Z
+date: 2024-09-10T01:12:07.514Z
+updated: 2024-09-14T07:45:50.470Z
 tags: 
   - screen-recording
   - ai video
@@ -16,24 +16,12 @@ keywords: "Sky Karma GoPro,Karma Sky Adventure,GoPro Skydiving,High Altitude Kar
 thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084837b38e9693d564989750d9.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Sky-High Adventures: The GoPro Karma Experience
 
 # GoPro Karma Drone Review
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -42,24 +30,12 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 
 ![gopro karma](https://images.wondershare.com/filmora/article-images/gopro-karma.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Check at Amazon](https://www.amazon.com/gp/product/B01N5V4HKQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N5V4HKQ&linkId=62a69de1ac6675d917158fa1421eceee)
 
  The rerelease of the Karma drone has fixed the battery removal issue by adding in auxiliary latches which secure the battery in the future. This was the only major change that GoPro made originally but the newest version includes a number of additional features as well.
 
  Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pros and cons of GoPro Karma
 
 **Pros**
@@ -75,12 +51,6 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -125,19 +95,11 @@ Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -145,53 +107,31 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-brand-pixels-customizing-gaming-banners-with-style-for-2024/"><u>[New] Brand Pixels  Customizing Gaming Banners with Style for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-discovering-underrated-gems-this-year-films-for-2024/"><u>[New] Discovering Underrated Gems This Year (Films) for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-guide-to-profiting-from-youtube-shorts-key-requirements-and-potential-income-for-2024/"><u>[New] Guide to Profiting From YouTube Shorts  Key Requirements & Potential Income for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-litescreen-recorder-review-and-alternatives/"><u>[New] In 2024, LiteScreen Recorder Review and Alternatives</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-introduce-circular-smoothing-transition-via-adobe-photoshop/"><u>[New] Introduce Circular Smoothing Transition via Adobe Photoshop</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-jumpstart-your-marketing-game-with-these-top-reddit-insights/"><u>[New] Jumpstart Your Marketing Game with These Top Reddit Insights</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-lifecam-videoapp-quality-checkup/"><u>[New] LifeCam VideoApp Quality Checkup</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-live-streaming-software-vs-hardware-which-is-better/"><u>[New] Live Streaming Software Vs Hardware  Which Is Better</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-perfect-pixels-pro-tiktok-video-tricks-of-the-trade/"><u>[New] Perfect Pixels  Pro TikTok Video Tricks of the Trade</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-short-form-content-breakdown-now/"><u>[New] Short Form Content Breakdown Now!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-slimmed-down-cloud-keeping-at-low-cost-high-space/"><u>[New] Slimmed-Down Cloud Keeping at Low Cost, High Space</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-speedy-integration-of-voice-input-feature-in-your-powerpoint-shows/"><u>[New] Speedy Integration of Voice Input Feature in Your PowerPoint Shows</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-transform-your-content-emulate-top-tiktok-trends-on-instagram-reels-for-2024/"><u>[New] Transform Your Content  Emulate Top TikTok Trends on Instagram Reels for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-5-best-live-streaming-webcamscameras-for-twitch-for-2024/"><u>[Updated] 5 Best Live Streaming Webcams/Cameras for Twitch for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-launching-at-optimal-times-a-podcast-guide/"><u>[Updated] Launching at Optimal Times  A Podcast Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-magix-acid-pro-evaluation-with-equivalent-software/"><u>[Updated] Magix ACID Pro Evaluation with Equivalent Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-funimate-easy-video-download-tutorial/"><u>[Updated] Mastering Funimate  Easy Video Download Tutorial</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-maximize-ms-edge-usage-understanding-and-using-picture-in-picture/"><u>[Updated] Maximize MS Edge Usage  Understanding and Using Picture-in-Picture</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premier-tech-list-top-17-software-for-photo-background-eradication/"><u>[Updated] Premier Tech List  Top 17 Software for Photo Background Eradication</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-quick-guide-to-gopro-4k-video-enhancement/"><u>[Updated] Quick Guide to GoPro 4K Video Enhancement</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-resolving-partial-muting-in-facebook-video-chats-updated-guide/"><u>[Updated] Resolving Partial Muting in Facebook Video Chats (Updated Guide)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-secure-hassle-free-passport-images-top-10-choices/"><u>[Updated] Secure, Hassle-Free Passport Images - Top 10 Choices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-motorola-moto-g84-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Motorola Moto G84 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mirthful-milestones-an-examination-of-goofy-odyssey/"><u>2024 Approved  'Mirthful Milestones'  An Examination of 'Goofy Odyssey'</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-advanced-methods-for-desktopmobile-screen-casting/"><u>2024 Approved  Advanced Methods for Desktop/Mobile Screen Casting</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pcs-best-vr-top-10-immersive-360-video-players/"><u>2024 Approved  PC's Best VR  Top 10 Immersive 360 Video Players</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-select-androidiphone-facial-editing-apps/"><u>2024 Approved  Premier Select Android/iPhone Facial Editing Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-screen-recording-simplified-unlocking-five-key-techniques-for-minecraft-on-a-mac/"><u>2024 Approved  Screen Recording Simplified  Unlocking Five Key Techniques for Minecraft on a Mac</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/filmora-promo-codes-2024-your-ultimate-guide-to-savings/"><u>Filmora Promo Codes 2024 Your Ultimate Guide to Savings</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-13-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone 13 | Stellar</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-k11x-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-apple-iphone-8-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the Apple iPhone 8 iCloud Lock</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-x-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone X After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-6s-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 6s to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-interactive-television-take-pot-perspectives/"><u>In 2024, INTERACTIVE TELEVISION TAKE  Pot Perspectives</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-masterful-selection-8-top-free-3d-video-players-windows-and-mac/"><u>In 2024, Masterful Selection  8 Top Free 3D Video Players Windows & Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mystery-methods-for-innovative-illustration/"><u>In 2024, Mystery Methods for Innovative Illustration</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Samsung Galaxy A15 4G</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-video-enhancement-tutorial-for-gopro-studio-users/"><u>In 2024, Step-by-Step Video Enhancement Tutorial for GoPro Studio Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-which-should-you-use-obs-studio-or-bandicam/"><u>In 2024, Which Should You Use, OBS Studio or Bandicam?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/instantly-hide-faces-with-picscanner-tricks-for-2024/"><u>Instantly Hide Faces with PicScanner Tricks for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/investigating-whether-photostabilizer-transforms-image-quality-for-2024/"><u>Investigating Whether PhotoStabilizer Transforms Image Quality for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-quick-periscope-streaming-techniques-for-2024/"><u>Mastering Quick Periscope Streaming Techniques for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-the-craft-of-online-title-perfection-for-2024/"><u>Mastering the Craft of Online Title Perfection for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/secrets-revealed-streamlined-importation-on-windows-10-os-for-2024/"><u>Secrets Revealed  Streamlined Importation on Windows 10 OS for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/share-your-latest-audio-exploration-for-2024/"><u>Share Your Latest Audio Exploration for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-earn-big-stay-safe-top-5-income-boosting-posts/"><u>[New] In 2024, Earn Big, Stay Safe Top 5 Income Boosting Posts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-transcribing-chats-efficient-techniques-for-fb-live-recordings/"><u>[Updated] In 2024, Transcribing Chats Efficient Techniques for FB Live Recordings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-guide-to-samsung-photography-suite-2023/"><u>2024 Approved Comprehensive Guide to Samsung Photography Suite, 2023</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-ig-tunes-crafting-perfect-music-posts/"><u>2024 Approved IG Tunes Crafting Perfect Music Posts</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/act-fast-high-quality-rubber-erasers-for-your-iphone/"><u>Act Fast: High-Quality Rubber Erasers for Your iPhone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/beelink-gti14-the-new-meteor-lake-mini-pc-featuring-an-external-expansion-port-for-gpu-connectivity/"><u>Beelink GTi14: The New Meteor Lake Mini-PC Featuring an External Expansion Port for GPU Connectivity</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/dissecting-obs-technology-for-top-level-recording-for-2024/"><u>Dissecting OBS Technology for Top-Level Recording for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-the-world-of-tech-articles-and-reviews-from-toms-hardware/"><u>Inside the World of Tech - Articles and Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/next-level-custom-pc-build-high-performance-computing-meets-brewed-perfection-within-chassis/"><u>Next-Level Custom PC Build: High-Performance Computing Meets Brewed Perfection Within Chassis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-destiny-2s-vegetable-vexation-the-complete-guide-to-the-2024-patch-and-beyond/"><u>Overcoming Destiny 2'S Vegetable Vexation - The Complete Guide To The 2024 Patch & Beyond</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/taking-computing-to-the-future-with-russias-newly-developed-128-core-servers-for-supercomputers/"><u>Taking Computing to the Future with Russia's Newly Developed 128-Core Servers for Supercomputers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/the-battle-royale-for-tech-warriors-world-server-smash-championships-2024-who-will-conquer/"><u>The Battle Royale for Tech Warriors: World Server Smash Championships 2024 - Who Will Conquer?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-ios-guide-to-premier-psp-emulators/"><u>Ultimate iOS Guide to Premier PSP Emulators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/unveiling-the-power-of-pc-building-tips-from-tech-visionary-tom/"><u>Unveiling the Power of PC Building: Tips From Tech Visionary Tom</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/1723262406386-wds-ultrastar-transporter-a-game-changer-in-data-mobility-with-368tb-nvme-storage-capacity-and-high-end-specs/"><u>WD's Ultrastar Transporter: A Game-Changer in Data Mobility with 368TB NVMe Storage Capacity and High-End Specs!</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

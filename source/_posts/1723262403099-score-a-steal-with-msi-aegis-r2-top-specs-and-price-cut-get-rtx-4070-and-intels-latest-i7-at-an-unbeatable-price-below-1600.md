@@ -1,7 +1,7 @@
 ---
 title: Score a Steal with MSI Aegis R2 - Top Specs and Price Cut! Get RTX 4070 & Intel's Latest I7 at an Unbeatable Price Below $1,600.
-date: 2024-09-08T03:26:25.971Z
-updated: 2024-09-09T03:26:25.971Z
+date: 2024-09-07T19:21:32.140Z
+updated: 2024-09-14T02:34:35.311Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/HrWmfNRz349NZmjdfrpBi5-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Asus Makes History with the First-Ever ROG NUC - Combines Cutting-Edge Core Ultra 9 and Stunning RTX 4070 Graphics at an Unbeatable Starting Price of $1,629
 
 Asus is launching its first gaming mini-PC with the ROG NUC. This tiny PC weighs just 2.6 kg and comes in a 2.5-liter chassis that measures 270 x 180 x 50mm. Even though it has a diminutive form factor, you won't miss out on performance as it comes with either an Intel Core Ultra 7 155H or a Core Ultra 9 185H. Both models also have a discrete GPU — an RTX 4060 for the Ultra 7 and RTX 4070 for the Ultra 9.
@@ -47,12 +41,6 @@ These are the specifications of the two Asus ROG NUC models:
 
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -61,14 +49,11 @@ These are the specifications of the two Asus ROG NUC models:
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -79,40 +64,24 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/bloodhunt-pc-woes-comprehensive-guide-to-fix-glitchy-execution/"><u>'Bloodhunt' PC Woes: Comprehensive Guide to Fix Glitchy Execution</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-harmonic-storage-pc-audio-and-speech/"><u>[New] 2024 Approved  Harmonic Storage  PC Audio and Speech</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-multilingual-reach-adding-subtitles-in-vimeo/"><u>[New] Enhancing Multilingual Reach  Adding Subtitles in Vimeo</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-transform-your-chronicles-free-extensions-and-mobile-apps-galore/"><u>[New] Transform Your Chronicles  FREE Extensions & Mobile Apps Galore</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-guiding-you-to-untainted-stock-visuals/"><u>[Updated] Guiding You to Untainted Stock Visuals</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-mastering-the-zoom-meeting-experience-tips-for-fluid-online-discussion/"><u>[Updated] In 2024, Mastering the Zoom Meeting Experience  Tips for Fluid Online Discussion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-storytelling-in-book-trails/"><u>[Updated] Innovative Storytelling in Book Trails</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-uniting-your-network-with-cross-platform-skype-chat-groups-a-how-to-guide/"><u>[Updated] Uniting Your Network with Cross-Platform Skype Chat Groups  A How-To Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2021s-top-contender-comprehensive-analysis-of-the-alienware-aurora-r11-as-a-premier-gaming-pc/"><u>2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-anime-in-the-sunshine-the-best-youtubers-for-positivity-top-15/"><u>2024 Approved  Anime in the Sunshine  The Best YouTubers for Positivity [Top 15]</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/1723009674694-achieve-smooth-gameplay-with-higher-fps-in-ring-of-elysium-strategies-unveiled/"><u>Achieve Smooth Gameplay with Higher FPS in Ring of Elysium - Strategies Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-chromecast-with-google-tv-analysis-a-new-contender-vs-amazons-firetv/"><u>Comprehensive Chromecast with Google TV Analysis: A New Contender vs Amazon's FireTV</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-guide-solving-crash-problems-in-starcraft-ii-on-desktop-computers/"><u>Comprehensive Guide: Solving Crash Problems in StarCraft II on Desktop Computers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-review-lenovo-tab-4-the-balance-between-affordability-and-limitations-in-an-android-tablet/"><u>Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/discover-the-motorola-one-5g-ace-an-in-depth-review-of-superior-5g-speed-combined-with-extended-battery-life/"><u>Discover the Motorola One 5G Ace – An In-Depth Review of Superior 5G Speed Combined with Extended Battery Life</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/effective-solutions-to-the-quick-valorant-graphics-driver-down-error/"><u>Effective Solutions to the Quick 'Valorant Graphics Driver Down' Error</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-t2-pro-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo T2 Pro 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/guide-to-diagnosing-and-correcting-unknown-speaker-setup-on-windows-11-systems/"><u>Guide to Diagnosing and Correcting 'Unknown' Speaker Setup on Windows 11 Systems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/how-to-get-msi-afterburner-to-detect-your-graphics-card-on-pc-windows-10-and-11/"><u>How to Get MSI Afterburner to Detect Your Graphics Card on PC (Windows 10 & 11)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-tecno-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Tecno</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-elevate-your-films-with-savvy-b-roll-techniques/"><u>In 2024, Elevate Your Films with Savvy B-Roll Techniques</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-13-mini-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 13 mini to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/msi-afterburner-gpu-detection-problems-solved-for-windows-11-users/"><u>MSI Afterburner GPU Detection Problems Solved for Windows 11 Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-through-6-predominant-car-ai-integration-obstacles/"><u>Navigating Through 6 Predominant Car AI Integration Obstacles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pc-troubleshooting-fixing-constant-crashes-in-alien-fireteam-elite/"><u>PC Troubleshooting: Fixing Constant Crashes in Alien: Fireteam Elite</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-fixes-for-common-wow-game-crashes-a-guide/"><u>Quick Fixes for Common WoW Game Crashes: A Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-solutions-how-to-resolve-google-hangouts-mic-issues/"><u>Quick Solutions: How to Resolve 'Google Hangouts Mic' Issues</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/resolved-starfields-patched-audio-interruptions-and-hiccups/"><u>Resolved! Starfield's Patched Audio Interruptions & Hiccups</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sizzling-skills-tested-in-depth-analysis-of-overcooked-2s-gastronomic-adventure/"><u>Sizzling Skills Tested: In-Depth Analysis of Overcooked! 2'S Gastronomic Adventure</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/solving-the-persistent-issue-of-persona-3-f-escapeman-failure-to-boot/"><u>Solving the Persistent Issue of Persona 3 F Escapeman Failure to Boot</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-fixing-the-elusive-winhttpdll-mismatches-or-absence/"><u>Step-by-Step Solutions for Fixing the Elusive Winhttp.dll Mismatches or Absence</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/transform-meetings-with-a-simple-webcam-record/"><u>Transform Meetings with a Simple Webcam Record</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/trouble-looms-as-diablo-ii-reborn-struggles-with-initial-launch-setbacks/"><u>Trouble Looms as Diablo II Reborn Struggles with Initial Launch Setbacks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ultimate-guide-unboxing-and-testing-tp-link-re505x-range-extender/"><u>Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-app-usage-a-comprehensive-review/"><u>Window's App Usage: A Comprehensive Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snapshot-innovations-an-exploration-of-samsung-photo-editor/"><u>[New] Snapshot Innovations An Exploration of Samsung PHOTO EDITOR</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-digital-worlds-6-chatgpt-based-techniques-for-video-games/"><u>Crafting Digital Worlds: 6 ChatGPT-Based Techniques for Video Games</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-geforce-gtx-750-drivers-with-ease-step-by-step-guide/"><u>Download GeForce GTX 750 Drivers with Ease: Step-by-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-google-pixel-8-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Google Pixel 8.</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-scoop-on-computers-and-peripherals-at-toms-tech-resource/"><u>Inside Scoop on Computers and Peripherals at Tom's Tech Resource</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-error-messages-when-ssleay32dll-is-unavailable-on-your-pc/"><u>Resolving Error Messages: When Ssleay32.dll Is Unavailable on Your PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/screenless-laptop-aesthetics-meet-elite-performance-the-atomman-g7-ti-with-i9-cpu-rtx-graphics-and-massive-ram-capacity/"><u>Screenless Laptop Aesthetics Meet Elite Performance: The AtomMan G7 Ti with I9 CPU, RTX Graphics & Massive RAM Capacity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/unveiling-gadgets-with-toms-tech-review-the-ultimate-hardware-source/"><u>Unveiling Gadgets with Tom's Tech Review: The Ultimate Hardware Source</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-truth-about-tp-link-av1n300-extender-a-comprehensive-review/"><u>Unveiling the Truth About TP-Link AV1n300 Extender: A Comprehensive Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/yitian-710-by-alibaba-shatters-records-as-the-most-rapid-server-processor-powering-cloud-infrastructures/"><u>Yitian 710 by Alibaba Shatters Records as the Most Rapid Server Processor Powering Cloud Infrastructures</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/yitian-nokia-710-the-speed-champion-of-alibabas-server-cpus-in-cloud-computing/"><u>Yitian Nokia 710: The Speed Champion of Alibaba's Server CPUs in Cloud Computing</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

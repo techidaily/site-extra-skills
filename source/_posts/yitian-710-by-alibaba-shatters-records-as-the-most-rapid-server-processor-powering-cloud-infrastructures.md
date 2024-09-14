@@ -1,7 +1,7 @@
 ---
 title: Yitian 710 by Alibaba Shatters Records as the Most Rapid Server Processor Powering Cloud Infrastructures
-date: 2024-09-08T03:26:25.957Z
-updated: 2024-09-09T03:26:25.957Z
+date: 2024-09-12T06:04:37.131Z
+updated: 2024-09-13T19:17:12.056Z
 tags:
   - desktop
 categories:
@@ -9,30 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/M9s4X395kDajV9RZQYMxnX-320-80.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Qualcomm Unleashes Budget-Friendly Power: Get Your Hands on the Newest Snapdragon X Elite Mini PC – Preorder Now
 
 In an interesting turn of events, the first device boasting the highest-end version of Qualcomm's Snapdragon X Elite chipset isn't even a laptop. It's a Mini PC in the form of an official Dev Kit, which undercuts ([or at least matches](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1069194734322795598%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) ) the price of even the lower-end Snapdragon X Plus laptops, and it's set for a full launch on August 23rd, though it's also already available for pre-order on[Arrow.com](https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm) for just $899 USD.
 
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
 
 * **SoC** : Qualcomm Snapdragon X Elite X-1E-00-1DE, specs divided between CPU, GPU, and NPU below
@@ -54,18 +36,6 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -80,8 +50,6 @@ In an interesting turn of events, the first device boasting the highest-end vers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,36 +59,25 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/bloodhunt-pc-woes-comprehensive-guide-to-fix-glitchy-execution/"><u>'Bloodhunt' PC Woes: Comprehensive Guide to Fix Glitchy Execution</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-art-of-photo-to-video-with-accompaniment-sounds/"><u>[New] The Art of Photo-to-Video with Accompaniment Sounds</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-cutting-edge-video-editing-strategies-for-impactful-obs-content-for-2024/"><u>[Updated] Cutting-Edge Video Editing Strategies for Impactful OBS Content for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/6-fast-solutions-to-enhance-your-elden-ring-gameplay-experience/"><u>6 Fast Solutions to Enhance Your Elden Ring Gameplay Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/1723009674694-achieve-smooth-gameplay-with-higher-fps-in-ring-of-elysium-strategies-unveiled/"><u>Achieve Smooth Gameplay with Higher FPS in Ring of Elysium - Strategies Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/asus-vg245h-a-top-tier-choice-for-enhanced-console-gaming-performance/"><u>Asus VG245H: A Top-Tier Choice for Enhanced Console Gaming Performance</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-guide-solving-crash-problems-in-starcraft-ii-on-desktop-computers/"><u>Comprehensive Guide: Solving Crash Problems in StarCraft II on Desktop Computers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-review-lenovo-tab-4-the-balance-between-affordability-and-limitations-in-an-android-tablet/"><u>Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/consumer-favorites-elite-list-of-wire-free-phones-in-2er-years/"><u>Consumer Favorites: Elite List of Wire-Free Phones in 2Er Years</u></a></li>
-<li><a href="https://article-posts.techidaily.com/content-creation-in-the-digital-age-audio-vs-visual-for-2024/"><u>Content Creation in the Digital Age  Audio vs Visual for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/cryptocurrency-crusaders-guide-top-5-ai-trading-tips/"><u>Cryptocurrency Crusaders' Guide: Top 5 AI Trading Tips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/exploring-top-6-reasons-for-youtube-premium-enthusiasts/"><u>Exploring Top 6 Reasons for YouTube Premium Enthusiasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/guide-to-diagnosing-and-correcting-unknown-speaker-setup-on-windows-11-systems/"><u>Guide to Diagnosing and Correcting 'Unknown' Speaker Setup on Windows 11 Systems</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-affordable-recorder-apps-for-older-computers/"><u>In 2024, Affordable Recorder Apps For Older Computers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-lava-blaze-2-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Lava Blaze 2 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/investigating-the-speed-and-longevity-in-jabra-talk-25-microphone/"><u>Investigating the Speed and Longevity in Jabra Talk 25 Microphone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/kodi-cant-connect-heres-how-to-fix-failed-directory-information-retrieval/"><u>Kodi Can't Connect? Here's How to Fix Failed Directory Information Retrieval</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/msi-afterburner-gpu-detection-problems-solved-for-windows-11-users/"><u>MSI Afterburner GPU Detection Problems Solved for Windows 11 Users</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-lego-stop-motion-artists-to-watch-for-2024/"><u>New Lego Stop Motion Artists to Watch for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-s-best-free-mp4-video-editing-apps-ranked-and-reviewed-for-2024/"><u>New S Best Free MP4 Video Editing Apps Ranked and Reviewed for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-fixes-for-common-wow-game-crashes-a-guide/"><u>Quick Fixes for Common WoW Game Crashes: A Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-solutions-how-to-resolve-google-hangouts-mic-issues/"><u>Quick Solutions: How to Resolve 'Google Hangouts Mic' Issues</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/rank-the-best-gopro-cases-with-our-guide-for-2024/"><u>Rank the Best GoPro Cases with Our Guide for 2024</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-realme-narzo-n55-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Realme Narzo N55 on Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/resolved-starfields-patched-audio-interruptions-and-hiccups/"><u>Resolved! Starfield's Patched Audio Interruptions & Hiccups</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/revolutionize-your-sales-approach-with-the-best-15-social-media-analyzers/"><u>Revolutionize Your Sales Approach with the Best 15 Social Media Analyzers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/samsung-galaxy-s20-fe-5g-review-a-surefire-5g-fan-favorite/"><u>Samsung Galaxy S20 FE 5G Review: A Surefire 5G Fan-Favorite</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/solve-your-logitech-g933s-sound-issues-with-these-simple-fixes/"><u>Solve Your Logitech G933's Sound Issues with These Simple Fixes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/solving-the-persistent-issue-of-persona-3-f-escapeman-failure-to-boot/"><u>Solving the Persistent Issue of Persona 3 F Escapeman Failure to Boot</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/troubleshooting-gpu-activation-for-cyberpunk-2077-players-on-the-latest-windows-11-system/"><u>Troubleshooting GPU Activation for Cyberpunk 2077 Players on the Latest Windows 11 System</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ultimate-guide-to-prevent-new-world-from-frequent-pc-disruptions/"><u>Ultimate Guide to Prevent 'New World' From Frequent PC Disruptions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/uick-overview-of-colour-difference-filming/"><u>[New] Quick Overview of Colour Difference Filming</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-pioneers-guide-to-documenting-private-whatsapp-discussions/"><u>[New] The Pioneer's Guide to Documenting Private WhatsApp Discussions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-undead-delight-the-best-zombie-games-reviewed/"><u>[Updated] 2024 Approved Undead Delight The Best Zombie Games Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-laugh-hard-best-meme-app-for-you/"><u>2024 Approved Laugh Hard Best Meme App for You</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/exploring-performance-and-value-in-the-corsair-one-i500-tiny-gaming-rig/"><u>Exploring Performance & Value in the Corsair One I500 Tiny Gaming Rig</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-3-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Lava Yuva 3 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/innovative-pc-design-harnessing-centrifugal-force-over-traditional-air-cooling/"><u>Innovative PC Design: Harnessing Centrifugal Force Over Traditional Air Cooling</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-lava-yuva-2-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Lava Yuva 2 Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revolutionary-pocket-sized-laptop-unplugged-with-intel-alder-lake-n-ethernet-and-power-over-ethernet/"><u>Revolutionary Pocket-Sized Laptop: Unplugged with Intel Alder Lake-N, Ethernet & Power over Ethernet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/1723262403099-score-a-steal-with-msi-aegis-r2-top-specs-and-price-cut-get-rtx-4070-and-intels-latest-i7-at-an-unbeatable-price-below-1600/"><u>Score a Steal with MSI Aegis R2 - Top Specs and Price Cut! Get RTX 4070 & Intel's Latest I7 at an Unbeatable Price Below $1,600.</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/slash-priced-gamers-dream-powerhouse-prebuilt-pc-rtx-4070-super-gpu-plus-core-i7-14700kf-available-for-under-1600/"><u>Slash-Priced Gamer's Dream: Powerhouse Prebuilt PC (RTX 4070 Super GPU + Core I7-14700KF) Available for Under $1,600!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-evolution-samsung-ubd-k8500-2023-edition/"><u>The Evolution Samsung UBD-K8500 2023 Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-live-streaming-tools-discover-the-power-of-manycams-virtual-webcams-and-hd-video-recording/"><u>Top Live Streaming Tools: Discover the Power of ManyCam's Virtual Webcams and HD Video Recording</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

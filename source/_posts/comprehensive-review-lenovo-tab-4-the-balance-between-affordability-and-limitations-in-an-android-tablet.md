@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet"
-date: 2024-09-08T03:26:26.353Z
-updated: 2024-09-09T03:26:26.353Z
+date: 2024-09-11T17:51:00.374Z
+updated: 2024-09-14T08:45:38.776Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet"
@@ -9,12 +9,6 @@ excerpt: "This Article Describes Comprehensive Review: Lenovo Tab ^4 - The Balan
 thumbnail: https://thmb.techidaily.com/f2d9a0df990eba4814a4cbbd3bd0e18b69c14ac68946c8a64a7d7c631b9a2a8c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Crafting a New Reality in Torment: A Comprehensive Guide to Science Fiction RPG and Its Unique Setting in Numenera
 
 2.7
@@ -23,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/f2d9a0df990eba4814a4cbbd3bd0e18b69c14ac68
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/HYgHMUDMFh7JI98Hj0JMbI2wcpw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Kelsey Simon
 
  What We Like
@@ -52,12 +40,6 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Kelsey Simon
 
 [View On Amazon](https://www.amazon.com/Techland-Torment-Tides-Numenera-PlayStation-4/dp/B01N2VISUC/?tag=lifewire-onsite-prod-20&ascsubtag=5077302%7Cnac6eb02defc3413da4da5d4ed0dc77ea21%7CB01N2VISUC) [View On Steampowered.com](https://store.steampowered.com/app/272270/Torment%5FTides%5Fof%5FNumenera/) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/games/products/torment-tides-of-numenera/141986.html)
@@ -82,12 +64,6 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Kelsey Simon
 
  This whole introduction is slow moving and boring, and getting through it is rough. But even past this, things don’t necessarily pick up and get more interesting. The game has such a heavy hand with its narration, telling you the game’s visuals even though you can see them right there on your screen. The whole game reads like someone wrote a novel, couldn’t publish it, and then decided making a[video game](https://www.lifewire.com/best-gaming-consoles-4154610) was a better idea, and instead of trimming the fat, they left every unnecessary description and detail in the game’s prompt.
@@ -97,23 +73,18 @@ Lifewire / Kelsey Simon
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Gameplay: Dialogue prompts and effort**
 
  The Tides of Numenera is a third-person[role-playing game](https://www.lifewire.com/best-free-offline-rpg-games-4177675) where almost 75 percent of the gameplay is scrolling dialogue boxes and the various prompts that will pop up as the game tells you the story. These prompts will allow you control over how the story unfolds, and this, more than anything else, is the game’s main mechanic.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Kelsey Simon
 
  Beyond this, the other major gameplay mechanic is a system of effort and inspiration. Every action you take will prompt you to use effort. This effort allows for your character to work harder at the chosen action, and thus gives your character a better chance of accomplishing their goal.
@@ -136,6 +107,13 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Kelsey Simon
 
 ## **Price: Only worth it if you’re keen on the story**
@@ -146,12 +124,6 @@ Lifewire / Kelsey Simon
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition: Other story focused RPGs**
 
  There are quite a few other games available that are story-focused RPGs besides Tides of Numenera. Wasteland 2 (view on[Amazon](https://www.amazon.com/Wasteland-2-Directors-Cut-PlayStation-4/dp/B013CQHQFU/?tag=lifewire-onsite-prod-20&ascsubtag=5077302%7Cnac6eb02defc3413da4da5d4ed0dc77ea21%7C) ) is a very similar game, as it is made by the same developers, but where Numenera falls flat with its heavy-handed storytelling, Wasteland 2 stands apart with a fun, tactical combat system.
@@ -164,6 +136,13 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Torment: Tides of Numenera
@@ -172,14 +151,11 @@ Lifewire / Kelsey Simon
 * ESRB Rating  M for Mature
 * Available Platforms  PC, MaxOS,Xbox One, PlayStation 4
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -190,41 +166,20 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/irqlfixed-windows-bsod-equal-issue/"><u>[IRQL_FIXED] Windows BSOD - Equal Issue</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-video-blogging-essentials-choosing-the-best-cameras-and-lenses/"><u>[New] 2024 Approved  Video Blogging Essentials  Choosing the Best Cameras and Lenses</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-fraps-as-a-video-recorder-what-you-need-to-know-for-2024/"><u>[New] Fraps as a Video Recorder  What You Need To Know for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-learn-to-tweak-the-speed-of-your-stories-videos/"><u>[New] Learn to Tweak the Speed of Your Stories' Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-measuring-video-storage-space-64128gb-hard-drive-analysis/"><u>[New] Measuring Video Storage Space - 64/128GB Hard Drive Analysis</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigate-new-walls-insiders-guide-to-wallpapers-in-win11/"><u>[New] Navigate New Walls  Insider's Guide to Wallpapers in Win11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pixelated-panoramas-the-top-10-sites-to-download-laps-wallpapers-online/"><u>[New] Pixelated Panoramas  The Top 10 Sites to Download Laps Wallpapers Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-sculpt-striking-signs-with-stock-designs-at-no-cost/"><u>[New] Sculpt Striking Signs with Stock Designs at No Cost</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-sound-innovation-at-hand-dive-into-free-easy-voice-overhaul-tools/"><u>[New] Sound Innovation at Hand  Dive Into Free, Easy Voice Overhaul Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-telescope-truth-expose-for-2024/"><u>[New] Telescope Truth Exposé for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-exclusive-8-video-download-utilities-guide-for-2024/"><u>[Updated] Exclusive 8 Video Download Utilities Guide for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-from-playtime-to-peak-time-top-gaming-women-in-the-digital-space-for-2024/"><u>[Updated] From Playtime to Peak Time  Top Gaming Women in the Digital Space for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-how-to-cut-video-for-instagram-on-mac-for-2024/"><u>[Updated] How To Cut Video For Instagram On Mac for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-google-chromes-picture-in-picture-feature/"><u>[Updated] Navigating Google Chrome's Picture In Picture Feature</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-professional-post-processing-how-to-erase-image-borders-easily/"><u>[Updated] Professional Post-Processing  How to Erase Image Borders Easily</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-instructions-for-picking-background-scores-for-vlogs/"><u>[Updated] Step-by-Step Instructions for Picking Background Scores for Vlogs</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-innovative-image-transformation-hacks/"><u>2024 Approved  Innovative Image Transformation Hacks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pinnacle-performances-in-figure-skate-22/"><u>2024 Approved  Pinnacle Performances in Figure Skate '22</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-picks-recommended-spots-for-procuring-snapchat-chime/"><u>2024 Approved  Premium Picks  Recommended Spots for Procuring Snapchat Chime</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-pathway-to-perfection-a-pro-guide-to-instagram-photos/"><u>2024 Approved  The Pathway to Perfection  A Pro Guide to Instagram Photos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-universal-strategy-to-preserve-your-favorite-youtube-broadcasts-on-all-devices/"><u>2024 Approved  Universal Strategy to Preserve Your Favorite YouTube Broadcasts on All Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/draft-droll-diagrams/"><u>Draft Droll Diagrams</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclusive-compilation-of-top-10-budget-friendly-photo-savers-for-2024/"><u>Exclusive Compilation of Top 10 Budget-Friendly Photo Savers for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-account-takeover-restoring-access-in-the-new-year/"><u>In 2024, Account Takeover? Restoring Access in the New Year</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-a56s-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Oppo A56s 5G</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-how-to-remove-background-in-figma/"><u>In 2024, How to Remove Background In Figma</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-magic-5-lite-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor Magic 5 Lite to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-masterclass-essential-10-mods-in-terraria/"><u>In 2024, Masterclass  Essential 10 Mods in Terraria</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mini-2-and-air-2s-luts-free-trial-then-paid-upgrade/"><u>In 2024, Mini 2 & Air 2S LUTS - Free Trial, Then Paid Upgrade</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-safaris-picture-in-picture-feature-usage-guide/"><u>In 2024, Safari's Picture-in-Picture Feature Usage Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/overcome-iphone-voicemail-glitches-with-these-proven-9-strategies/"><u>Overcome iPhone Voicemail Glitches with These Proven 9 Strategies</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfecting-close-angles-in-movie-filming-for-2024/"><u>Perfecting Close Angles in Movie Filming for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-c65-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after C65 has been deleted.</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revive-flawed-movies-quickly-stellar-phoenix-for-mac/"><u>Revive Flawed Movies Quickly: Stellar Phoenix for Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/srt-and-mp4-synergy-a-comprehensive-guide-edition-for-2024/"><u>SRT & MP4 Synergy  A Comprehensive Guide Edition for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/unmatched-efficiency-with-stellars-automated-data-purging-standard-version-for-mac/"><u>Unmatched Efficiency with Stellar's Automated Data Purging - Standard Version for Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/windows/"><u>ステラデータリカバリ: Windows に最適化された、セキュアなファイル復旧ソフトウェア(フリー版)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-content-easy-downloads-of-vimeo-hd-videos-mp4/"><u>[New] Unlocking Content Easy Downloads of Vimeo HD Videos (MP4)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-capturing-the-cloudscape-insights-into-gopro-karmas-operations/"><u>[Updated] Capturing the Cloudscape Insights Into GoPro Karma's Operations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-guidelines-for-legally-reposting-on-insta/"><u>[Updated] In 2024, Guidelines for Legally Reposting on Insta</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-screencapture-evaluation-interface/"><u>2024 Approved ScreenCapture Evaluation Interface</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-iphone-productivity-how-to-connect-chatgpt-to-siri/"><u>Enhancing iPhone Productivity: How to Connect ChatGPT to Siri</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/innovative-pc-design-harnessing-centrifugal-force-over-traditional-air-cooling/"><u>Innovative PC Design: Harnessing Centrifugal Force Over Traditional Air Cooling</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-scoop-on-computers-and-peripherals-at-toms-tech-resource/"><u>Inside Scoop on Computers and Peripherals at Tom's Tech Resource</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/overcoming-common-challenges-solving-persistent-chivalry-ii-crash-errors/"><u>Overcoming Common Challenges: Solving Persistent Chivalry II Crash Errors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/screenless-laptop-aesthetics-meet-elite-performance-the-atomman-g7-ti-with-i9-cpu-rtx-graphics-and-massive-ram-capacity/"><u>Screenless Laptop Aesthetics Meet Elite Performance: The AtomMan G7 Ti with I9 CPU, RTX Graphics & Massive RAM Capacity</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/unveiling-gadgets-with-toms-tech-review-the-ultimate-hardware-source/"><u>Unveiling Gadgets with Tom's Tech Review: The Ultimate Hardware Source</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/witches-and-warlocks-in-world-cultures/"><u>Witches & Warlocks in World Cultures</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/yitian-710-by-alibaba-shatters-records-as-the-most-rapid-server-processor-powering-cloud-infrastructures/"><u>Yitian 710 by Alibaba Shatters Records as the Most Rapid Server Processor Powering Cloud Infrastructures</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/yitian-nokia-710-the-speed-champion-of-alibabas-server-cpus-in-cloud-computing/"><u>Yitian Nokia 710: The Speed Champion of Alibaba's Server CPUs in Cloud Computing</u></a></li>
 </ul></div>
+

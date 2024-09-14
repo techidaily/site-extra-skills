@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: How to Resolve 'Google Hangouts Mic' Issues"
-date: 2024-09-08T03:26:26.495Z
-updated: 2024-09-09T03:26:26.495Z
+date: 2024-09-08T23:10:38.302Z
+updated: 2024-09-14T04:28:11.581Z
 tags:
   - win11
   - win10
@@ -13,28 +13,10 @@ excerpt: "This Article Describes Quick Solutions: How to Resolve 'Google Hangout
 thumbnail: https://thmb.techidaily.com/b652582b03a2fced3d442e3202bf4807e4a1918ed9a9164a694c64ee1bdac4b9.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Google Hangouts Microphone Won't Work? Here’s How to Fix It Easily
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a168df494881.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 This morning, you open Google Hangouts to start a phone call or video call with your family, friends or workmates. But unfortunately, the one your are calling can’t hear you. So wired. That’s because your Google Hangouts microphone stops working. Don’t be frustrated. You can fix it and enjoy the call on Google Hangouts again. In this post, we’re going to tell you how to troubleshoot microphone not working problem on your Google Hangouts in Windows system step by step. Please read on and solve the problem on your computer.[**Several things to check before trying the methods**](https://tools.techidaily.com/drivereasy/download/)   **Method 1:[Restart your computer](https://tools.techidaily.com/drivereasy/download/)**   **Method 2:[Update your microphone and other related driver](https://tools.techidaily.com/drivereasy/download/)**   **Method 3:[Close other programs those might use your microphone](https://tools.techidaily.com/drivereasy/download/)** [**How if you can’t hear other people speaking?**](https://tools.techidaily.com/drivereasy/download/)
 
 ## Several things to check before trying the methods
@@ -43,26 +25,8 @@ Before you try the solutions below, please check these several things as it can 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17b93b12398.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Click on it to turn it to ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17b9647cefb.png) . If you make sure your microphone is connect properly to your computer and it’s turned on correctly, but your microphone still doesn’t work, try the following methods.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1: Restart your computer
 
 Sometimes, a simple restart can solve a lot computer woes. When you find your microphone stops working on Hangouts, you can also give the simple restart a shot. 1) Restart your computer from the Start menu. 2) Call the person on Hangouts again to see if he can hear you.
@@ -76,14 +40,22 @@ Your microphone not working issue can be probably caused by an old, corrupted or
 4) Restart your computer and call the person on Hangouts again to see if he can hear you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 3: Close other programs those might use your microphone
 
  If there are some other programs running on your computer when you’re on Google Hangouts, the other programs might be using your microphone, too. As a result, your microphone doesn’t function on Hangouts. So, please stop all the other programs that might use your microphone, then check to see if the person can hear you on Hangouts.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How if you can’t hear other people speaking?
 
@@ -97,8 +69,6 @@ If you can’t hear the other person on Hangouts call, ask the person to trouble
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,50 +78,20 @@ If you can’t hear the other person on Hangouts call, ask the person to trouble
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/irqlfixed-windows-bsod-equal-issue/"><u>[IRQL_FIXED] Windows BSOD - Equal Issue</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-learn-money-tricks-top-13-beginner-friendly-income-strategies-on-reddit/"><u>[New] Learn Money Tricks  Top 13 Beginner-Friendly Income Strategies on Reddit</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pinterest-video-downloader-guide-the-leading-no-cost-alternatives/"><u>[New] Pinterest Video Downloader Guide  The Leading No-Cost Alternatives</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premiere-cinematic-glimpses-series/"><u>[New] Premiere Cinematic Glimpses Series</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-seamless-sessions-tailoring-your-zoom-environment-for-2024/"><u>[New] Seamless Sessions  Tailoring Your Zoom Environment for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-instagram-new-algorithm-update-will-affect-you/"><u>[Updated] 2024 Approved  How Instagram New Algorithm Update Will Affect You</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-how-to-edit-blur-or-remove-photo-background/"><u>[Updated] How to Edit, Blur or Remove Photo Background?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-elevate-your-stories-advanced-bokeh-techniques/"><u>[Updated] In 2024, Elevate Your Stories  Advanced Bokeh Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-master-iphone-images-with-pro-level-tech/"><u>[Updated] In 2024, Master iPhone Images with Pro-Level Tech</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-mp3s-incorporating-tunes-into-powerpoint-slides/"><u>[Updated] Mastering MP3s  Incorporating Tunes Into PowerPoint Slides</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-multimedia-in-educational-practice/"><u>[Updated] Navigating Multimedia in Educational Practice</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-online-collections-for-3d-typography/"><u>[Updated] Prime Online Collections for 3D Typography</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-re-enable-windows-photo-viewer-methods-for-win-11-users/"><u>[Updated] Re-Enable Windows Photo Viewer - Methods for Win 11 Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamless-aspect-ratio-adaptation-in-dev-workflows/"><u>[Updated] Seamless Aspect Ratio Adaptation in Dev Workflows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamlessly-weaving-melodies-using-audacitys-features/"><u>[Updated] Seamlessly Weaving Melodies Using Audacity's Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-for-newcomers-on-av1/"><u>[Updated] The Essential Guide for Newcomers on AV1</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-enhance-footage-quality-with-premium-handheld-stabilizers/"><u>2024 Approved  Enhance Footage Quality with Premium Handheld Stabilizers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-master-image-editing-with-these-top-8-tablets-beyond-filmoras-reach/"><u>2024 Approved  Master Image Editing with These Top 8 Tablets  Beyond Filmora's Reach</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-master-your-first-ps-project-10-easy-tips/"><u>2024 Approved  Master Your First PS Project  10 Easy Tips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-social-sphere-instaplustiktok/"><u>2024 Approved  Navigating the Social Sphere  Insta+TikTok</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-fishing-visionaries-discovering-our-5-best-cameras/"><u>2024 Approved  Pro-Fishing Visionaries  Discovering Our 5 Best Cameras</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-scopesight-appraisal-review/"><u>2024 Approved  ScopeSight Appraisal Review</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-seamlessly-integrate-into-sub4sub-culture-start-with-this-foundation/"><u>2024 Approved  Seamlessly Integrate Into Sub4sub Culture – Start with This Foundation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-simplify-your-meetings-using-zoom-to-upgrade-skype/"><u>2024 Approved  Simplify Your Meetings  Using Zoom to Upgrade Skype</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-standing-out-on-airwaves-podcast-brand-logo-tips/"><u>2024 Approved  Standing Out on Airwaves  Podcast Brand Logo Tips</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-tactics-for-triumphing-in-virtual-marketplaces/"><u>2024 Approved  Tactics for Triumphing in Virtual Marketplaces</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/5-reddit-marketing-tips-that-will-turn-beginners-into-experts-for-2024/"><u>5 Reddit Marketing Tips that Will Turn Beginners Into Experts for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-realme-narzo-60-pro-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Realme Narzo 60 Pro 5G PC | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Infinix Note 30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/future-forecast-the-top-5-manufacturers-revolutionizing-driverless-vehicles/"><u>Future Forecast: The Top 5 Manufacturers Revolutionizing Driverless Vehicles</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-itel-a60-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Itel A60 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-lightning-fast-windows-data-analysis-guide/"><u>In 2024, Lightning-Fast Windows Data Analysis Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premium-data-buffering-unit-for-sony-a7s-ii/"><u>In 2024, Premium Data Buffering Unit for Sony A7S II</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pros-choice-review-the-ultimate-4k-dslr-rigs/"><u>In 2024, Pro's Choice Review  The Ultimate 4K DSLR Rigs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-your-gaming-with-advanced-controller-software/"><u>In 2024, Revolutionizing Your Gaming with Advanced Controller Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/lensleaks-revealing-affordable-stunning-tiktok-bgs-for-2024/"><u>LensLeaks  Revealing Affordable, Stunning TikTok BGs for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-through-technology-trends-with-toms-hardware-experts/"><u>Navigating Through Technology Trends with Tom's Hardware Experts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/overcome-iphone-voicemail-glitches-with-these-proven-9-strategies/"><u>Overcome iPhone Voicemail Glitches with These Proven 9 Strategies</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/pinnacle-nintendo-switch-fighting-game-index-max-156/"><u>Pinnacle Nintendo Switch Fighting Game Index (Max 156)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/precision-in-proiphone-close-up-a-guide-to-professional-results-for-2024/"><u>Precision in Proiphone Close-Up  A Guide to Professional Results for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revive-flawed-movies-quickly-stellar-phoenix-for-mac/"><u>Revive Flawed Movies Quickly: Stellar Phoenix for Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-fixing-unwanted-shutdowns-in-your-halo-3-gaming-experience-on-computer/"><u>Step-by-Step Guide to Fixing Unwanted Shutdowns in Your Halo 3 Gaming Experience on Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-shadowplay-issues-fixes-for-recording-failures-in-windows/"><u>Troubleshooting Shadowplay Issues: Fixes for Recording Failures in Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/unmatched-efficiency-with-stellars-automated-data-purging-standard-version-for-mac/"><u>Unmatched Efficiency with Stellar's Automated Data Purging - Standard Version for Mac</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-redmi-a2plus-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi Redmi A2+ Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/windows/"><u>ステラデータリカバリ: Windows に最適化された、セキュアなファイル復旧ソフトウェア(フリー版)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-magix-acid-pros-successors-in-vector-editing/"><u>[New] Magix ACID Pro's Successors in Vector Editing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-landscape-insights-navigating-through-facebook-twitter-instagram-and-youtube/"><u>Digital Landscape Insights: Navigating Through Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/exploring-performance-and-value-in-the-corsair-one-i500-tiny-gaming-rig/"><u>Exploring Performance & Value in the Corsair One I500 Tiny Gaming Rig</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/gearhead-geek-comprehensive-guides-to-advanced-computer-systems/"><u>Gearhead Geek: Comprehensive Guides to Advanced Computer Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-huawei-p60-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Huawei P60 Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-9a-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 9A to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/innovative-pc-design-harnessing-centrifugal-force-over-traditional-air-cooling/"><u>Innovative PC Design: Harnessing Centrifugal Force Over Traditional Air Cooling</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revolutionary-pocket-sized-laptop-unplugged-with-intel-alder-lake-n-ethernet-and-power-over-ethernet/"><u>Revolutionary Pocket-Sized Laptop: Unplugged with Intel Alder Lake-N, Ethernet & Power over Ethernet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/1723262403099-score-a-steal-with-msi-aegis-r2-top-specs-and-price-cut-get-rtx-4070-and-intels-latest-i7-at-an-unbeatable-price-below-1600/"><u>Score a Steal with MSI Aegis R2 - Top Specs and Price Cut! Get RTX 4070 & Intel's Latest I7 at an Unbeatable Price Below $1,600.</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/slash-priced-gamers-dream-powerhouse-prebuilt-pc-rtx-4070-super-gpu-plus-core-i7-14700kf-available-for-under-1600/"><u>Slash-Priced Gamer's Dream: Powerhouse Prebuilt PC (RTX 4070 Super GPU + Core I7-14700KF) Available for Under $1,600!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-turtle-beach-headset-microphone-malfunction-step-by-step-solutions/"><u>Solving the Turtle Beach Headset Microphone Malfunction: Step by Step Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-resume-into-a-standout-application-using-chatgpts-writing-aid/"><u>Transform Your Resume Into a Standout Application Using ChatGPT's Writing Aid</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/yitian-710-by-alibaba-shatters-records-as-the-most-rapid-server-processor-powering-cloud-infrastructures/"><u>Yitian 710 by Alibaba Shatters Records as the Most Rapid Server Processor Powering Cloud Infrastructures</u></a></li>
 </ul></div>
+

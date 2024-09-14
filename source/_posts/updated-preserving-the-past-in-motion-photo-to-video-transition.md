@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Preserving the Past in Motion  Photo to Video Transition\""
-date: 2024-09-08T03:26:27.154Z
-updated: 2024-09-09T03:26:27.154Z
+date: 2024-09-09T00:18:14.897Z
+updated: 2024-09-14T10:36:16.568Z
 tags: 
   - screen-recording
   - ai video
@@ -16,12 +16,6 @@ keywords: "Pict2Video History,MovingPast Images,TimeFrame Shift Vids,Historical 
 thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b95afc8af67003c49b108b72.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Preserving the Past in Motion: Photo to Video Transition
 
 # How to Digitize Your Old Photos and Turn Them into Impressive Videos
@@ -42,12 +36,6 @@ Therefore, it is highly recommended to digitize photos to make them lasting. In 
 * [Part 2: How to Convert Old Photos into a Video with Ease?](#part2)
 * [Part 3: More Editing Tips for Creating Memorable Videos](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Smart Ways to Digitize Your Memorable Old Photos
 
 With time, the way we capture moments has also been changed. These days, Polaroid cameras have been replaced by various smartphones and [4K DSLR cameras](https://tools.techidaily.com/wondershare/filmora/download/). Nevertheless, you can digitize your photos in either of the following ways so that you can convert them into softcopy and easily move them around.
@@ -76,12 +64,6 @@ Some popular photo scanners that you can consider using are Scanner Pro, PhotoSc
 
 In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Convert Old Photos into a Video Effortlessly?
 
 By now, you would be able to digitize photos and have a soft copy of your old photographs. Apart from that, a lot of people would also like to make a video collage of their favorite pictures as well. If you have old pictures of a loved one and a special occasion is coming, then a video collage of their photos would be one of the best gifts.
@@ -110,30 +92,12 @@ Once you have imported your photos, you can include them in the timeline. To do 
 
 ![create timeline for photos](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 3\. Edit the video
 
 Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
 
 ![Edit Digitized Photos](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
 #### 4\. Add effects, transitions, audio, and more
@@ -142,12 +106,6 @@ As stated above, you can find a wide range of video editing options to explore i
 
 ![Add Effects to Digitized Photos](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
 ![Add Title to Digitized Photos](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
@@ -162,26 +120,8 @@ That’s it! After making all the changes, you can preview your video on the rig
 
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Find more fancy ways to make the best photo and video slideshow with Filmora!
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## More Editing Tips for Creating Memorable Videos
 
 To get better results while making your video collage, you can consider following these suggestions.
@@ -220,54 +160,34 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-critically-acclaimed-phone-and-desktop-video-calls-list/"><u>[New] 2024 Approved  Critically Acclaimed Phone and Desktop Video Calls List</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-vlc-key-mac-functions-explained/"><u>[New] Mastering VLC  Key Mac Functions Explained</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-the-free-path-of-fcp/"><u>[New] Navigating the Free Path of FCP</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-simplifycast-the-ultimate-guide-to-starting-your-podcast-livestream/"><u>[New] SimplifyCast  The Ultimate Guide to Starting Your Podcast Livestream</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-snap-happy-with-hero5-black-tips-for-stunning-visuals/"><u>[New] Snap-Happy with Hero5 Black  Tips for Stunning Visuals</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-approach-for-stellar-gopro-videos/"><u>[New] Step-By-Step Approach for Stellar GoPro Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-etiquette-ceasing-connections-for-2024/"><u>[Updated] Instagram Etiquette  Ceasing Connections for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-integrating-streamlabs-smoothly-with-obs-on-macbooks/"><u>[Updated] Integrating Streamlabs Smoothly with OBS on MacBooks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-maximizing-your-mac-preview-experience-step-by-step/"><u>[Updated] Maximizing Your Mac Preview Experience  Step-by-Step</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mold-memorable-memes-via-giphy/"><u>[Updated] Mold Memorable Memes via Giphy</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-shift-turning-srt-into-subc/"><u>[Updated] Navigating the Shift  Turning SRT Into SUBC</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-online-aggregators-for-securing-affiliates-on-googles-platform/"><u>[Updated] Online Aggregators for Securing Affiliates on Google's Platform</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimal-cinematography-best-lenses-for-immaculate-4k-output/"><u>[Updated] Optimal Cinematography  Best Lenses for Immaculate 4K Output</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pushing-creative-boundaries-utilizing-advanced-techniques-for-luts-in-after-effects/"><u>[Updated] Pushing Creative Boundaries  Utilizing Advanced Techniques for LUTs in After Effects</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionize-visual-narratives-using-prime-text-extensions/"><u>2024 Approved  Revolutionize Visual Narratives Using Prime Text Extensions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/enhancing-team-collaboration-with-regular-video-chats/"><u>Enhancing Team Collaboration with Regular Video Chats</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-7-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 7 Storage Not Loading/Showing | Stellar</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/how-to-prevent-gaps-in-live-obs-broadcasting/"><u>How To Prevent Gaps In Live OBS Broadcasting</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-c67-4g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Realme C67 4G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-color-palettes-applying-theories-effectively/"><u>In 2024, Mastering Color Palettes  Applying Theories Effectively</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-moviemaking-magic-ideal-scenes-for-video-craft/"><u>In 2024, Moviemaking Magic  Ideal Scenes for Video Craft</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-nocturnal-narrative-videos-analysis/"><u>In 2024, Nocturnal Narrative Videos  Analysis</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-energy-solutions-official-and-third-party-hero5-batteries/"><u>In 2024, Optimal Energy Solutions - Official & Third-Party Hero5 Batteries</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-viewers-engagement-through-youtube-music-use-in-videos/"><u>In 2024, Optimizing Viewers' Engagement Through YouTube Music Use in Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-quick-start-guide-making-your-gifs-count-as-emoji-stickers-in-telegram/"><u>In 2024, Quick-Start Guide  Making Your GIFS Count as Emoji Stickers in Telegram</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-quintessential-writing-across-the-movie-matrix/"><u>In 2024, Quintessential Writing Across the Movie Matrix</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-smoothing-out-the-rough-edges-in-photo-booth-videos/"><u>In 2024, Smoothing Out The Rough Edges In Photo Booth Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-stealth-mode-a-guide-to-living-large-unlabeled/"><u>In 2024, Stealth Mode  A Guide to Living Large, Unlabeled</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-the-art-of-digitalizing-ps3-gamesplay/"><u>In 2024, The Art of Digitalizing PS3 Gamesplay</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/kinemasters-complete-guide-to-flawless-transitions-for-2024/"><u>Kinemaster's Complete Guide to Flawless Transitions for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/lenslift-critique-essence-for-2024/"><u>LensLift Critique Essence for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/market-breakthrough-strategy-box-by-box-for-2024/"><u>Market Breakthrough  Strategy Box by Box for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/maximizing-multi-display-with-ms-edges-pip-for-2024/"><u>Maximizing Multi-Display with MS Edge's PIP for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-metaverse-self-representation-a-step-by-step-manual-for-2024/"><u>Navigating Metaverse Self-Representation  A Step-by-Step Manual for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/open-source-game-tunes-library-web-for-2024/"><u>Open Source Game Tunes Library Web for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premium-free-excellence-analyzing-and-sharing-best-free-luts-for-2024/"><u>Premium-Free Excellence  Analyzing and Sharing Best Free LUTs for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/spreading-twitter-vid-facebook-integration-methods-for-2024/"><u>Spreading Twitter Vid  Facebook Integration Methods for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/turnout-videos-backwards-easily-on-android/"><u>Turnout Videos Backwards Easily on Android</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-guide-to-understanding-and-joining-a-youtube-media-company/"><u>[New] 2024 Approved A Guide to Understanding and Joining a YouTube Media Company</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-palette-in-balance-implementing-theoretical-knowledge/"><u>[New] A Palette in Balance Implementing Theoretical Knowledge</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-setting-up-a-memorable-social-media-presence-with-covers/"><u>[New] In 2024, Setting Up a Memorable Social Media Presence with Covers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-complete-look-at-color-correction-for-gopro-videos/"><u>[Updated] A Complete Look at Color Correction for GoPro Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-compact-content-leading-5-services-to-compress-video-urls/"><u>[Updated] Compact Content Leading 5 Services to Compress Video URLs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-enhancing-authenticity-and-connection-via-fb-profile-covers-for-2024/"><u>[Updated] Enhancing Authenticity and Connection via FB Profile Covers for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-scouring-deals-low-priced-gopro-cameras/"><u>[Updated] Scouring Deals Low-Priced GoPro Cameras</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-top-8-trending-facebook-video-hits/"><u>2024 Approved Top 8 Trending Facebook Video Hits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/exploring-the-latest-in-tech-with-toms-hardware-your-ultimate-guide/"><u>Exploring the Latest in Tech with Tom's Hardware - Your Ultimate Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/1723262378177-grab-your-deal-alienwares-gaming-powerhouse-with-rtx-4070-and-i7-cpu-for-only-1499-originally-1699/"><u>Grab Your Deal: Alienware's Gaming Powerhouse with RTX 4070 & I7 CPU for Only $1,499 - Originally $1,699</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-high-tech-gadgets-and-pc-builds-the-toms-hardware-guide/"><u>Mastering High-Tech Gadgets and PC Builds: The Tom's Hardware Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/toms-tech-reviews-ultimate-guide-to-electronics/"><u>Tom's Tech Reviews: Ultimate Guide to Electronics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/touchscreen-ai-desktop-pc-with-integrated-1080p-display-from-microsoft/"><u>Touchscreen AI Desktop PC with Integrated 1080P Display From Microsoft</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

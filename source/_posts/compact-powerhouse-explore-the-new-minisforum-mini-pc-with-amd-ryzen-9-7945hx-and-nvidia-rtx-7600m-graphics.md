@@ -1,7 +1,7 @@
 ---
 title: "Compact Powerhouse: Explore the New Minisforum Mini PC with AMD Ryzen 9 7945HX & NVIDIA RTX 7600M Graphics"
-date: 2024-09-08T03:26:25.601Z
-updated: 2024-09-09T03:26:25.601Z
+date: 2024-09-09T04:46:00.188Z
+updated: 2024-09-14T05:00:01.552Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620b0dde812294a010c625a831.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discover the Future of Music Programming: Musicians Can Now Own a MicroPython Tulip Computer for Under $60
 
 For just $59, musicians now have a new option for a purpose-built musical computer with a touchscreen and music synthesizer— meet the[Tulip Creative Computer](https://tulip.computer/) , a FOSS (Free and Open Source) project available as a pre-made purchase in free software form for existing PCs and Macs, or even fully buildable at home to those with the resources and know-how to get it done.
@@ -25,12 +19,6 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  Tulip, a musical computer based on Micropython - YouTube ![Tulip, a musical computer based on Micropython - YouTube](https://img.youtube.com/vi/1lYFjQp7Xrw/maxresdefault.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Watch On](https://youtu.be/1lYFjQp7Xrw)
 
  The synthesizer at the heart of Tulip is the AMY (Addictive Music synthesizer librarY), another FOSS project made to be integrated across "almost any program, architecture, or microcontroller" and usable as an FM synthesizer, analog-type synthesizer, drum machine, or even a breakpoint synthesizer. AMY is also used by the FOSS mesh synthesizer project Alles (think FOSS wireless speaker mesh solution), which Tulip Creative Computers also supports.
@@ -41,12 +29,6 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -55,14 +37,11 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -73,55 +52,23 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enhance-listening-pleasure-constructing-a-youtube-playlist-for-2024/"><u>[New] Enhance Listening Pleasure  Constructing a YouTube Playlist for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-overcome-distorted-voice-in-virtual-meetings/"><u>[New] Overcome Distorted Voice in Virtual Meetings</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-perfect-portraits-changing-picture-sizes-on-ios/"><u>[New] Perfect Portraits  Changing Picture Sizes on iOS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-selecting-a-prime-livestream-service-top-10-essentials/"><u>[New] Selecting a Prime Livestream Service  Top 10 Essentials</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-simplified-process-for-posting-imovie-videos-on-vimeo/"><u>[New] Simplified Process for Posting iMovie Videos on Vimeo</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-birthstones-and-emojis-tailoring-your-whatsapp-profile-by-sign/"><u>[Updated] Birthstones and Emojis  Tailoring Your WhatsApp Profile by Sign</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-cutting-edge-game-recording-for-league-of-legends-lol-players/"><u>[Updated] Cutting-Edge Game Recording for League of Legends LoL Players</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-to-achieve-complete-volume-on-fb-media-shows/"><u>[Updated] How to Achieve Complete Volume on Fb Media Shows</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-change-screenshot-file-formats-on-a-mac-for-2024/"><u>[Updated] How to Change Screenshot File Formats on a Mac for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-incorporate-subtitles-for-improved-viewing-wmp-guide/"><u>[Updated] Incorporate Subtitles for Improved Viewing  WMP Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-jumpstart-your-projects-using-xps-film-editor/"><u>[Updated] Jumpstart Your Projects Using XP's Film Editor</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-digital-creation-complete-guide-to-picsart/"><u>[Updated] Mastering Digital Creation  Complete Guide to PicsArt</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mobile-marvels-the-leading-arvr-app-picks/"><u>[Updated] Mobile Marvels  The Leading AR/VR App Picks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-past-accelerated-access-to-archived-content/"><u>[Updated] Navigating the Past  Accelerated Access to Archived Content</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-new-windows-11-insiders-edge-techniques/"><u>[Updated] New Windows 11 Insider's Edge Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-peeps-funny-photos-iphones-style/"><u>[Updated] Peeps' Funny Photos, iPhones Style</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-restore-shadows-in-iphone-hdr-footage-using-premiere-pro-techniques/"><u>[Updated] Restore Shadows in iPhone HDR Footage Using Premiere Pro Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamless-transition-leading-8-tools-for-sub-to-srt-changeover/"><u>[Updated] Seamless Transition  Leading 8 Tools for Sub to SRT Changeover</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-shield-identity-in-images-the-most-effective-cropping-tools/"><u>[Updated] Shield Identity in Images  The Most Effective Cropping Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-up-your-storytelling-effortless-text-addition-for-video-clips-with-photos/"><u>[Updated] Step Up Your Storytelling  Effortless Text Addition for Video Clips with Photos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-adding-words-to-pictures-easy-photo-text-editing-tips/"><u>2024 Approved  Adding Words to Pictures  Easy Photo Text Editing Tips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-instantaneously-crafting-creative-collage-imagery-for-fb/"><u>2024 Approved  Instantaneously Crafting Creative Collage Imagery for FB</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-integrating-linktree-in-your-tiktok-bio-for-maximum-impact/"><u>2024 Approved  Integrating Linktree in Your TikTok Bio for Maximum Impact</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-optimized-video-transformation-on-macios-the-8-list/"><u>2024 Approved  Optimized Video Transformation on Mac/iOS  The #8 List</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-biz-vault-services-for-data/"><u>2024 Approved  Prime Biz Vault Services for Data</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-sony-snapshot-standstill-no-video-viewing/"><u>2024 Approved  Sony Snapshot Standstill  No Video Viewing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-social-networking-grounds-for-youtube-growth/"><u>2024 Approved  Top Social Networking Grounds for YouTube Growth</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-se-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone SE Without a Passcode</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-bing-and-chatgpt-when-is-gpt-5-due/"><u>Beyond Bing and ChatGPT: When Is GPT-5 Due?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/child-friendly-alarms-redefined-in-depth-analysis-of-the-mirari-wake-up-device/"><u>Child-Friendly Alarms Redefined: In-Depth Analysis of the Mirari Wake-Up Device</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/compact-pc-mastery-minisforum-s100-features-intel-cpu-networking-and-usb-c-charging/"><u>Compact PC Mastery - Minisforum S100 Features Intel CPU, Networking & USB-C Charging</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elite-gpodc-podcast-recommendations/"><u>Elite GPodC Podcast Recommendations</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-collective-chronicle-converter/"><u>In 2024, Collective Chronicle Converter</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-14-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-xr-5-ways-to-get-into-a-locked-iphone-xr-by-drfone-ios/"><u>In 2024, Locked Out of iPhone XR? 5 Ways to get into a Locked iPhone XR</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-meticulous-study-of-magix-photo-controls/"><u>In 2024, Meticulous Study of MAGIX Photo Controls</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-musicality-in-whatsapp-expressions/"><u>In 2024, Musicality in WhatsApp Expressions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-filming-experience-the-10-devices-that-make-every-shot-perfect/"><u>In 2024, Seamless Filming Experience  The 10 Devices That Make Every Shot Perfect</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sky-storage-spectacle-unlimited-free-and-elite-premium-alternatives-for-your-pics/"><u>In 2024, Sky Storage Spectacle  Unlimited Free & Elite Premium Alternatives for Your Pics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-from-twitter-videosyoutube-songs-to-scribbled-mp3-files/"><u>In 2024, Step-by-Step  From Twitter Videos/YouTube Songs to Scribbled MP3 Files</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlicensed-zen-audio-streaming/"><u>In 2024, Unlicensed Zen Audio Streaming</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/instructions-turn-on-windows-11s-adaptive-hdr-for-2024/"><u>Instructions  Turn on Windows 11'S Adaptive HDR for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mastering-imo-instant-messenger-a-complete-product-assessment/"><u>Mastering Imo Instant Messenger – A Complete Product Assessment</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/podcasts-vs-youtube-which-one-is-the-right-choice-in-2024/"><u>Podcasts Vs. YouTube  Which One Is the Right Choice, In 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/stabilized-shots-fighting-instability-for-2024/"><u>Stabilized Shots  Fighting Instability for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/starting-point-auditions-approach-to-soft-volume-increase-for-2024/"><u>Starting Point  Audition's Approach to Soft Volume Increase for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/streamlined-techniques-for-sharing-your-desktopmobile-screen-for-2024/"><u>Streamlined Techniques for Sharing Your Desktop/Mobile Screen for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-for-amateurs-and-pros-on-windows-11-video-creation-for-2024/"><u>The Ultimate Guide for Amateurs & Pros on Windows 11 Video Creation for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/top-8-smooth-latency-free-video-reporters/"><u>Top 8 Smooth, Latency-Free Video Reporters</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshoot-connectivity-issues-a-detailed-tutorial-on-clearing-network-preferences-in-macos/"><u>Troubleshoot Connectivity Issues: A Detailed Tutorial on Clearing Network Preferences in macOS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-recuva-the-leading-solution-for-data-deletion-reversal/"><u>Unveiling Recuva: The Leading Solution for Data Deletion Reversal</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-propel-your-youtube-presence-upwards-by-thousands/"><u>[New] 2024 Approved Propel Your YouTube Presence Upwards by Thousands</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/1723262363976-exclusive-offer-high-performance-aurora-r16-with-34-alienware-oled-monitor-at-a-huge-discount-shave-70700-off/"><u>Exclusive Offer: High-Performance Aurora R16 with 34” Alienware OLED Monitor at a Huge Discount - Shave $70([[700] Off</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/exploring-performance-and-value-in-the-corsair-one-i500-tiny-gaming-rig/"><u>Exploring Performance & Value in the Corsair One I500 Tiny Gaming Rig</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/gearhead-geek-comprehensive-guides-to-advanced-computer-systems/"><u>Gearhead Geek: Comprehensive Guides to Advanced Computer Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-world-of-pcs-with-tom-detailed-analysis-and-opinions/"><u>Navigating the World of PCs with Tom - Detailed Analysis and Opinions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/inal-touch-youtube-outro-essentials-plus-premier-creator-list/"><u>The Final Touch YouTube Outro Essentials + Premier Creator List</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-nokia-c12-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Nokia C12 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-oppo-a58-4g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Oppo A58 4G Phone Pattern Lock</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/unveiling-the-sibolan-szbox-s69-a-colorful-ryzen-mini-pc-with-vintage-chips-not-quite-heroic/"><u>Unveiling the Sibolan SZBox S69: A Colorful Ryzen Mini PC with Vintage Chips, Not Quite Heroic</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

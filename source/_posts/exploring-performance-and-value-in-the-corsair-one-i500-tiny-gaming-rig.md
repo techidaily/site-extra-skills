@@ -1,7 +1,7 @@
 ---
 title: Exploring Performance & Value in the Corsair One I500 Tiny Gaming Rig
-date: 2024-09-08T03:26:26.016Z
-updated: 2024-09-09T03:26:26.016Z
+date: 2024-09-08T18:51:51.125Z
+updated: 2024-09-14T01:52:21.041Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/krGRr4jkUr8KMrZeqGtodm-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unleash the Beast: High-End Gaming & Creativity on a Compact Platform - AMD's NUC Mini Featuring 4K Screen, Hexa-Core CPU, RAM Galore & SSD Blitz
 
 A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.[Miniproca claims](https://www.kickstarter.com/projects/91388361/miniproca-all-in-1-mini-pc-with-intergarted-display/rewards) its 7-inch screen-lidded device is a “revolutionary” mix of high-performance PC and monitor, delivering a versatile[All-in-One PC](https://www.tomshardware.com/tag/all-in-one-pcs) to its Kickstarter backers.
@@ -46,12 +40,6 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -64,42 +52,21 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Miniproca)
 
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Miniproca)
 
  It seems increasingly necessary for mini-PC makers to deliver some exciting twist on the form factor, or news of their latest product may be drowned out among the also-rans. Whether the twist is appealing or practical enough to gain traction is up to consumers. The ‘retail price’ doesn’t help either.
 
  Kickstarter users already seem to have passed judgment on this Miniproca device, which has been very successful since its launch. However, we shall repeat our standard warning about crowdfunders—backing this kind of project isn’t the same as buying a product. You may face lengthy delays, spec changes, and/or even project cancellations and difficulties getting refunds or warranty cover.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,64 +77,25 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/bloodhunt-pc-woes-comprehensive-guide-to-fix-glitchy-execution/"><u>'Bloodhunt' PC Woes: Comprehensive Guide to Fix Glitchy Execution</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-enhance-snapchat-stories-with-these-top-6-mobile-editors/"><u>[New] 2024 Approved  Enhance Snapchat Stories with These Top 6 Mobile Editors</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-getting-acquainted-the-basics-of-ez-grabber-utilization/"><u>[New] Getting Acquainted  The Basics of EZ Grabber Utilization</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-seamless-transition-from-tv-to-facebook-lives/"><u>[New] In 2024, Seamless Transition  From TV to Facebook Lives</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-kinetic-gameplay-reimagined-a-comprehensive-analysis-of-kinemaster-on-android/"><u>[New] Kinetic Gameplay Reimagined  A Comprehensive Analysis of KineMaster on Android</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-shine-and-share-the-art-of-crafting-instagram-spotlights-3-ways/"><u>[New] Shine and Share  The Art of Crafting Instagram Spotlights (3 Ways)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-initiate-google-meet-using-your-gadget/"><u>[Updated] 2024 Approved  Initiate Google Meet Using Your Gadget</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-spotlight-on-facebook-discover-the-most-watched-vids/"><u>[Updated] 2024 Approved  Spotlight on Facebook  Discover the Most Watched Vids</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-adding-eye-catching-text-to-vids-without-costs-for-2024/"><u>[Updated] Adding Eye-Catching Text to Vids Without Costs for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gigglegraphs-designing-delightful-memes/"><u>[Updated] GiggleGraphs  Designing Delightful Memes</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-leading-17-lights-and-stands-reviewed/"><u>[Updated] The Leading 17 Lights & Stands Reviewed</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2021s-top-contender-comprehensive-analysis-of-the-alienware-aurora-r11-as-a-premier-gaming-pc/"><u>2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-compreehers-guide-to-srt-file-flexibility/"><u>2024 Approved  The Compreeher’s Guide to SRT File Flexibility</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/6-fast-solutions-to-enhance-your-elden-ring-gameplay-experience/"><u>6 Fast Solutions to Enhance Your Elden Ring Gameplay Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/1723009674694-achieve-smooth-gameplay-with-higher-fps-in-ring-of-elysium-strategies-unveiled/"><u>Achieve Smooth Gameplay with Higher FPS in Ring of Elysium - Strategies Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/asus-vg245h-a-top-tier-choice-for-enhanced-console-gaming-performance/"><u>Asus VG245H: A Top-Tier Choice for Enhanced Console Gaming Performance</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/boosting-drive-efficiency-mf4770n-and-windows-systems/"><u>Boosting Drive Efficiency: MF4770n & Windows Systems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-chromecast-with-google-tv-analysis-a-new-contender-vs-amazons-firetv/"><u>Comprehensive Chromecast with Google TV Analysis: A New Contender vs Amazon's FireTV</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-guide-solving-crash-problems-in-starcraft-ii-on-desktop-computers/"><u>Comprehensive Guide: Solving Crash Problems in StarCraft II on Desktop Computers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-review-lenovo-tab-4-the-balance-between-affordability-and-limitations-in-an-android-tablet/"><u>Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/consumer-favorites-elite-list-of-wire-free-phones-in-2er-years/"><u>Consumer Favorites: Elite List of Wire-Free Phones in 2Er Years</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/cryptocurrency-crusaders-guide-top-5-ai-trading-tips/"><u>Cryptocurrency Crusaders' Guide: Top 5 AI Trading Tips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/discover-the-motorola-one-5g-ace-an-in-depth-review-of-superior-5g-speed-combined-with-extended-battery-life/"><u>Discover the Motorola One 5G Ace – An In-Depth Review of Superior 5G Speed Combined with Extended Battery Life</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/dominating-discussion-topics-in-the-social-space/"><u>Dominating Discussion Topics in the Social Space</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/effective-solutions-to-the-quick-valorant-graphics-driver-down-error/"><u>Effective Solutions to the Quick 'Valorant Graphics Driver Down' Error</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/essential-strategies-for-professional-grade-video-editing-for-2024/"><u>Essential Strategies for Professional-Grade Video Editing for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/excellent-zooid-formats-for-creation/"><u>Excellent Zooid Formats for Creation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/exploring-top-6-reasons-for-youtube-premium-enthusiasts/"><u>Exploring Top 6 Reasons for YouTube Premium Enthusiasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/guide-to-diagnosing-and-correcting-unknown-speaker-setup-on-windows-11-systems/"><u>Guide to Diagnosing and Correcting 'Unknown' Speaker Setup on Windows 11 Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-honor-magic-vs-2-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Honor Magic Vs 2?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/how-to-get-msi-afterburner-to-detect-your-graphics-card-on-pc-windows-10-and-11/"><u>How to Get MSI Afterburner to Detect Your Graphics Card on PC (Windows 10 & 11)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-find-x7-ultra-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Find X7 Ultra Location by Number | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-easy-technique-storing-tweet-videos-and-images-on-cellphone/"><u>In 2024, Easy Technique  Storing Tweet Videos and Images on Cellphone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-elite-edition-analysis-parrot-ar-drone-20/"><u>In 2024, Elite Edition Analysis - Parrot AR Drone 2.0</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-invisible-listeners-guide-6-clandestine-recording-apps-androidios/"><u>In 2024, Invisible Listeners Guide  6 Clandestine Recording Apps (Android/iOS)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-samsungs-vision-innovations-in-image-editor-software/"><u>In 2024, Samsung’s Vision  Innovations in Image Editor Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/investigating-the-speed-and-longevity-in-jabra-talk-25-microphone/"><u>Investigating the Speed and Longevity in Jabra Talk 25 Microphone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/kodi-cant-connect-heres-how-to-fix-failed-directory-information-retrieval/"><u>Kodi Can't Connect? Here's How to Fix Failed Directory Information Retrieval</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/msi-afterburner-gpu-detection-problems-solved-for-windows-11-users/"><u>MSI Afterburner GPU Detection Problems Solved for Windows 11 Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-through-6-predominant-car-ai-integration-obstacles/"><u>Navigating Through 6 Predominant Car AI Integration Obstacles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pc-troubleshooting-fixing-constant-crashes-in-alien-fireteam-elite/"><u>PC Troubleshooting: Fixing Constant Crashes in Alien: Fireteam Elite</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prime-products-best-free-and-paid-macpc-video-decoders/"><u>Prime Products  Best Free & Paid Mac/PC Video Decoders</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-fixes-for-common-wow-game-crashes-a-guide/"><u>Quick Fixes for Common WoW Game Crashes: A Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-solutions-how-to-resolve-google-hangouts-mic-issues/"><u>Quick Solutions: How to Resolve 'Google Hangouts Mic' Issues</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/resolved-starfields-patched-audio-interruptions-and-hiccups/"><u>Resolved! Starfield's Patched Audio Interruptions & Hiccups</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/samsung-galaxy-s20-fe-5g-review-a-surefire-5g-fan-favorite/"><u>Samsung Galaxy S20 FE 5G Review: A Surefire 5G Fan-Favorite</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/secure-your-childn-online-experience-with-easy-discord-controls-setup/"><u>Secure Your Child'n Online Experience with Easy Discord Controls Setup</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sizzling-skills-tested-in-depth-analysis-of-overcooked-2s-gastronomic-adventure/"><u>Sizzling Skills Tested: In-Depth Analysis of Overcooked! 2'S Gastronomic Adventure</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/solve-your-logitech-g933s-sound-issues-with-these-simple-fixes/"><u>Solve Your Logitech G933's Sound Issues with These Simple Fixes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/solving-the-persistent-issue-of-persona-3-f-escapeman-failure-to-boot/"><u>Solving the Persistent Issue of Persona 3 F Escapeman Failure to Boot</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/speedy-drawing-in-photos-a-win10-guide-to-efficient-edits/"><u>Speedy Drawing in Photos  A Win10 Guide to Efficient Edits</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-note-50-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme Note 50 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-honor-x9b-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Honor X9b Phone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/trouble-looms-as-diablo-ii-reborn-struggles-with-initial-launch-setbacks/"><u>Trouble Looms as Diablo II Reborn Struggles with Initial Launch Setbacks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/troubleshooting-gpu-activation-for-cyberpunk-2077-players-on-the-latest-windows-11-system/"><u>Troubleshooting GPU Activation for Cyberpunk 2077 Players on the Latest Windows 11 System</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fix-issues-when-installing-baldurs-gate-iii/"><u>Troubleshooting: Fix Issues When Installing Baldur's Gate III</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ultimate-guide-to-prevent-new-world-from-frequent-pc-disruptions/"><u>Ultimate Guide to Prevent 'New World' From Frequent PC Disruptions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ultimate-guide-unboxing-and-testing-tp-link-re505x-range-extender/"><u>Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-professional-smoothness-blurring-the-video-backdrop/"><u>[Updated] 2024 Approved Professional Smoothness Blurring the Video Backdrop</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-complete-guide-to-proficient-use-of-screenrec-software/"><u>[Updated] 2024 Approved The Complete Guide to Proficient Use of ScreenRec Software</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-complete-guide-for-tiktok-elements/"><u>[Updated] In 2024, Complete Guide for Tiktok Elements</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/exploring-the-latest-in-tech-with-toms-hardware-your-ultimate-guide/"><u>Exploring the Latest in Tech with Tom's Hardware - Your Ultimate Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-a34-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy A34 5G Lock Screen Password?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-7-plus-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 7 Plus Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-matching-fpv-drones-with-ideal-blades/"><u>In 2024, The Art of Matching FPV Drones with Ideal Blades</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-high-tech-gadgets-and-pc-builds-the-toms-hardware-guide/"><u>Mastering High-Tech Gadgets and PC Builds: The Tom's Hardware Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-performance-issues-eliminate-half-life-alyxs-hiccups-for-smoother-gameplay/"><u>Overcoming Performance Issues: Eliminate Half-Life Alyx's Hiccups for Smoother Gameplay</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/toms-tech-reviews-ultimate-guide-to-electronics/"><u>Tom's Tech Reviews: Ultimate Guide to Electronics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/touchscreen-ai-desktop-pc-with-integrated-1080p-display-from-microsoft/"><u>Touchscreen AI Desktop PC with Integrated 1080P Display From Microsoft</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-c55-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme C55 | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

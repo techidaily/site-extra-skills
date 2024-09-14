@@ -1,7 +1,7 @@
 ---
 title: "Mastering High-Tech Gadgets and PC Builds: The Tom's Hardware Guide"
-date: 2024-09-08T03:26:25.668Z
-updated: 2024-09-09T03:26:25.668Z
+date: 2024-09-08T00:18:24.289Z
+updated: 2024-09-13T21:33:17.017Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c528103224c7dceab692252cbf067a0.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Future-Proof Your Setup with Cutting-Edge Hardware Insights From [Your Site Name] – Tech Enthusiast's Hub
 
 This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show was filled interesting AI focused PCs, but often, their most interesting features had little to do with AI. Such is the case with[MSI](https://www.tomshardware.com/tag/msi-microstar) 's MEG Vision X AI Desktop, which we stumbled upon in the company's sprawling booth.
@@ -29,36 +23,18 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 ![MSI Meg Vision X with Gelsinger Signature](https://cdn.mos.cms.futurecdn.net/BYkvUDqMNVz6ycnx4BZFYV-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  By default, the touch display shows key PC stats such as your CPU temperature and clock speed. It also allows you to launch your favorite apps on your primary screen by tapping a shortcut icon. You can change performance modes here as well, opting for more speed or quieter fans.
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/2SRaW8dq9GVUxC4BK2xbzh-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The display is seen by Windows as a full-fledged second display in portrait mode. So you can play YouTube videos on it or run apps on it if you wish. MSI reps said a game streamer should keep their chat or OBS window on the front-panel screen while gaming on their primary monitor. They also said that the touch screen uses Intel integrated graphics while the main monitor or any secondary monitors you attach would use the Nvidia graphics card.
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -73,32 +49,17 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  But even if having a local image generator / chatbot is really valuable to you, you don't need a special PC or an on-case screen on the case to get those features. MSI may have its own branded apps, but it's likely using the same chat and image generation that's available elsewhere. Anyone who has a decent graphics card can download and install Stable Diffusion image generator or LLama for chat. If you have an RTX card, try[ComfyUI](https://github.com/comfyanonymous/ComfyUI) , which is a very powerful frontend for Stable Diffusion.
 
  What you can't get elsewhere is a full HD screen that takes up the entire front surface of your chassis. We have seen some cases with screens on the front -- the[Jonsbo D41](https://www.jonsbo.com/en/products/D41MESHSCREENBlack.html) comes to mind. But MSI's display takes up the entire space and is meant to be an integral part of the user experience, not just a cute special effect.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,49 +70,26 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/bloodhunt-pc-woes-comprehensive-guide-to-fix-glitchy-execution/"><u>'Bloodhunt' PC Woes: Comprehensive Guide to Fix Glitchy Execution</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-comprehensive-youtube-video-editing-with-finalcut-pro-skills/"><u>[New] 2024 Approved  Comprehensive YouTube Video Editing with FinalCut Pro Skills</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-cut-out-facebook-stories-step-by-step-for-pc-and-phones-for-2024/"><u>[New] Cut Out Facebook Stories  Step-By-Step for PC & Phones for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-how-to-preview-off-facebook-activities-and-should-i-leave-it-on-check/"><u>[New] How to Preview Off-Facebook Activities and Should I Leave It On? Check</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-superfast-fb-downloader-mp4-files-in-minutes/"><u>[New] In 2024, SuperFast FB Downloader  MP4 Files in Minutes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfect-pairings-adding-songs-to-windows-11-videos-with-ease/"><u>[New] Perfect Pairings  Adding Songs to Windows 11 Videos with Ease</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-5-pro-tips-to-perfectly-tag-videos-and-maximize-views/"><u>[Updated] In 2024, 5 Pro Tips to Perfectly Tag Videos and Maximize Views</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-captivating-clips-transforming-footage-vertically-in-final-cut-x/"><u>[Updated] In 2024, Captivating Clips  Transforming Footage Vertically in Final Cut X</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-sharpen-your-streams-top-5-video-enhancers/"><u>[Updated] In 2024, Sharpen Your Streams  Top 5 Video Enhancers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-massive-popularity-in-stock-imagery-tales-of-success/"><u>[Updated] Massive Popularity in Stock Imagery  Tales of Success</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-reclaim-social-life-overcoming-a-hack-on-facebook/"><u>[Updated] Reclaim Social Life  Overcoming a Hack on Facebook</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-turn-your-instagram-footage-backwards-easily-for-2024/"><u>[Updated] Turn Your Instagram Footage Backwards Easily for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2021s-top-contender-comprehensive-analysis-of-the-alienware-aurora-r11-as-a-premier-gaming-pc/"><u>2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-essential-strategies-for-podcast-title-success-step-by-step-and-top-50plus-idea-lists/"><u>2024 Approved  Essential Strategies for Podcast Title Success  Step-by-Step & Top 50+ Idea Lists</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-ultimate-tutorial-customizing-the-final-frame-of-a-vimeo-video/"><u>2024 Approved  Ultimate Tutorial  Customizing the Final Frame of a Vimeo Video</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/1723009674694-achieve-smooth-gameplay-with-higher-fps-in-ring-of-elysium-strategies-unveiled/"><u>Achieve Smooth Gameplay with Higher FPS in Ring of Elysium - Strategies Unveiled</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beating-vpn-obstacles-a-comprehensive-guide-to-fixing-error-code-800-for-clients-and-servers/"><u>Beating VPN Obstacles: A Comprehensive Guide to Fixing Error Code 800 for Clients and Servers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-chromecast-with-google-tv-analysis-a-new-contender-vs-amazons-firetv/"><u>Comprehensive Chromecast with Google TV Analysis: A New Contender vs Amazon's FireTV</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-guide-solving-crash-problems-in-starcraft-ii-on-desktop-computers/"><u>Comprehensive Guide: Solving Crash Problems in StarCraft II on Desktop Computers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/comprehensive-review-lenovo-tab-4-the-balance-between-affordability-and-limitations-in-an-android-tablet/"><u>Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/consumer-favorites-elite-list-of-wire-free-phones-in-2er-years/"><u>Consumer Favorites: Elite List of Wire-Free Phones in 2Er Years</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/discover-the-motorola-one-5g-ace-an-in-depth-review-of-superior-5g-speed-combined-with-extended-battery-life/"><u>Discover the Motorola One 5G Ace – An In-Depth Review of Superior 5G Speed Combined with Extended Battery Life</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/effective-solutions-to-the-quick-valorant-graphics-driver-down-error/"><u>Effective Solutions to the Quick 'Valorant Graphics Driver Down' Error</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/guide-to-diagnosing-and-correcting-unknown-speaker-setup-on-windows-11-systems/"><u>Guide to Diagnosing and Correcting 'Unknown' Speaker Setup on Windows 11 Systems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/how-to-get-msi-afterburner-to-detect-your-graphics-card-on-pc-windows-10-and-11/"><u>How to Get MSI Afterburner to Detect Your Graphics Card on PC (Windows 10 & 11)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-6-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 6 Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-maximize-your-online-video-with-these-best-free-webm-tools/"><u>In 2024, Maximize Your Online Video with These Best Free WebM Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/kodi-cant-connect-heres-how-to-fix-failed-directory-information-retrieval/"><u>Kodi Can't Connect? Here's How to Fix Failed Directory Information Retrieval</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/msi-afterburner-gpu-detection-problems-solved-for-windows-11-users/"><u>MSI Afterburner GPU Detection Problems Solved for Windows 11 Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-through-6-predominant-car-ai-integration-obstacles/"><u>Navigating Through 6 Predominant Car AI Integration Obstacles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pc-troubleshooting-fixing-constant-crashes-in-alien-fireteam-elite/"><u>PC Troubleshooting: Fixing Constant Crashes in Alien: Fireteam Elite</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-fixes-for-common-wow-game-crashes-a-guide/"><u>Quick Fixes for Common WoW Game Crashes: A Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-solutions-how-to-resolve-google-hangouts-mic-issues/"><u>Quick Solutions: How to Resolve 'Google Hangouts Mic' Issues</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-reno-8t-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Reno 8T Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/resolved-starfields-patched-audio-interruptions-and-hiccups/"><u>Resolved! Starfield's Patched Audio Interruptions & Hiccups</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sizzling-skills-tested-in-depth-analysis-of-overcooked-2s-gastronomic-adventure/"><u>Sizzling Skills Tested: In-Depth Analysis of Overcooked! 2'S Gastronomic Adventure</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-phoenix-point-glitches-expert-fixes-and-solutions/"><u>Solve Your Phoenix Point Glitches – Expert Fixes and Solutions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/solving-the-persistent-issue-of-persona-3-f-escapeman-failure-to-boot/"><u>Solving the Persistent Issue of Persona 3 F Escapeman Failure to Boot</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/the-quest-for-your-own-specialized-tiktok-hash-code-for-2024/"><u>The Quest for Your Own Specialized TikTok Hash Code for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/trouble-looms-as-diablo-ii-reborn-struggles-with-initial-launch-setbacks/"><u>Trouble Looms as Diablo II Reborn Struggles with Initial Launch Setbacks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/troubleshooting-gpu-activation-for-cyberpunk-2077-players-on-the-latest-windows-11-system/"><u>Troubleshooting GPU Activation for Cyberpunk 2077 Players on the Latest Windows 11 System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-persistent-crashes-in-world-of-tanks-blitz/"><u>Troubleshooting Guide: Fixing Persistent Crashes in World of Tanks Blitz</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ultimate-guide-to-prevent-new-world-from-frequent-pc-disruptions/"><u>Ultimate Guide to Prevent 'New World' From Frequent PC Disruptions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ultimate-guide-unboxing-and-testing-tp-link-re505x-range-extender/"><u>Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender</u></a></li>
-<li><a href="https://fox-that.techidaily.com/urgent-update-the-essential-reasons-to-upgrade-your-device-with-ios-153-immediately/"><u>Urgent Update: The Essential Reasons to Upgrade Your Device with iOS 15.3 Immediately</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-secret-to-success-with-filmora-top-10-editing-traits/"><u>[New] 2024 Approved The Secret to Success with Filmora Top 10 Editing Traits</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-story-expertise-your-ultimate-resource-for-2024/"><u>[New] Instagram Story Expertise Your Ultimate Resource for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-nikon-d500-a-revolution-in-4k-uhd-photography-for-2024/"><u>[New] Nikon D500 A Revolution in 4K UHD Photography for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-select-the-superior-a-guide-to-8-outstanding-free-android-mp3-downloaders/"><u>[Updated] Select the Superior A Guide to 8 Outstanding Free Android MP3 Downloaders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-creme-de-la-creme-of-fps-games-7/"><u>2024 Approved The Crème De La Créme of FPS Games (7)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/beelink-gti14-the-new-meteor-lake-mini-pc-featuring-an-external-expansion-port-for-gpu-connectivity/"><u>Beelink GTi14: The New Meteor Lake Mini-PC Featuring an External Expansion Port for GPU Connectivity</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-6-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 6 Lock Screen</u></a></li>
+<li><a href="https://article-helps.techidaily.com/inside-the-innovations-of-vegaspro-19-for-2024/"><u>Inside the Innovations of VegasPro '19 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-the-world-of-tech-articles-and-reviews-from-toms-hardware/"><u>Inside the World of Tech - Articles and Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/the-battle-royale-for-tech-warriors-world-server-smash-championships-2024-who-will-conquer/"><u>The Battle Royale for Tech Warriors: World Server Smash Championships 2024 - Who Will Conquer?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-expert-reviews-and-insights/"><u>Tom's Tech Hub: Expert Reviews & Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-3-ipad-voice-recorder/"><u>Top 3 iPad Voice Recorder</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/unveiling-the-power-of-pc-building-tips-from-tech-visionary-tom/"><u>Unveiling the Power of PC Building: Tips From Tech Visionary Tom</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/1723262406386-wds-ultrastar-transporter-a-game-changer-in-data-mobility-with-368tb-nvme-storage-capacity-and-high-end-specs/"><u>WD's Ultrastar Transporter: A Game-Changer in Data Mobility with 368TB NVMe Storage Capacity and High-End Specs!</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
