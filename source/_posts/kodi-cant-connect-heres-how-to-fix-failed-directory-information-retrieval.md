@@ -1,7 +1,7 @@
 ---
 title: Kodi Can't Connect? Here's How to Fix Failed Directory Information Retrieval
-date: 2024-09-09T03:33:03.102Z
-updated: 2024-09-14T05:29:59.521Z
+date: 2024-09-12T17:41:58.034Z
+updated: 2024-09-20T01:10:29.330Z
 tags:
   - win11
   - win10
@@ -88,23 +88,16 @@ OR
 * [Resign-in to the app](https://tools.techidaily.com/drivereasy/download/)
 * [Check your HDMI cable](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reboot your devices/apps
 
  Make sure your Amazon Prime video account is paid and active. You can go to[your account page](https://www.amazon.com/ap/signin?%5Fencoding=UTF8&accountStatusPolicy=P1&clientContext=135-4224850-9503066&openid.assoc%5Fhandle=usflex&openid.claimed%5Fid=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.mode=checkid%5Fsetup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max%5Fauth%5Fage=0&openid.return%5Fto=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fsettings%2Fref%3Ddv%5Fweb%5Fauth%5Fno%5Fre%5Fsig%3Fie%3DUTF8%26tag%3Dbisafetynet2-20) to check. Check your app version, update it to the latest version.  
  Then close the Prime video app and restart it, if it doesn’t work, reboot your smart TV. Rebooting is always the first and effective method to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Resign-in to the app
@@ -120,6 +113,13 @@ Close the app, reopen, then enter your credentials to sign back in.
 If the cable is the culprit, you may need to purchase a new cable.
 
 [](https://images.drivereasy.com/wp-content/uploads/2020/08/61SDW7VbneL._AC_SL1500_-1200x950.jpg) ](https://www.amazon.com/AmazonBasics-High-Speed-HDMI-Cable-2-Pack/dp/B014I8SX4Y/ref=sr%5F1%5F4?dchild=1&keywords=hdmi&qid=1597731890&sr=8-4&tag=drivereasycom-20)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixes for Amazon prime video not working on smartphone
 
@@ -139,10 +139,16 @@ If the cable is the culprit, you may need to purchase a new cable.
  If your Wi-Fi is not working, you can press the power button on the back of the router to perform a soft reset.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall the app
@@ -168,21 +174,21 @@ If the cable is the culprit, you may need to purchase a new cable.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-breaking-down-youtube-revenue-per-million-views/"><u>[Updated] In 2024, Breaking Down YouTube Revenue per Million Views</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-download-voice-log-inspect/"><u>[Updated] In 2024, Download Voice Log Inspect</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-stardom-in-your-sights-6-must-try-techniques-for-verification-and-growth-for-2024/"><u>[Updated] Instagram Stardom in Your Sights 6 Must-Try Techniques for Verification and Growth for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-screen-snatching-made-easy-analyzing-no-cost-recording-apps-for-2024/"><u>[Updated] Screen Snatching Made Easy – Analyzing No-Cost Recording Apps for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/advanced-tech-advice-for-enthusiasts-from-toms-computing-corner/"><u>Advanced Tech Advice for Enthusiasts From Tom's Computing Corner</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/beelink-gti14-the-new-meteor-lake-mini-pc-featuring-an-external-expansion-port-for-gpu-connectivity/"><u>Beelink GTi14: The New Meteor Lake Mini-PC Featuring an External Expansion Port for GPU Connectivity</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-your-phone-companion-iphone-or-android-the-ultimate-comparison/"><u>Choosing Your Phone Companion: IPhone or Android - The Ultimate Comparison</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-y78t-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Y78t</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/elevate-your-tech-experience-with-beefy-meteor-lake-processor-the-onexplayer-m1-featuring-a-powerful-intel-core-coffee-lake-i9-up-to-32gb-of-ram-and-future-89/"><u>Elevate Your Tech Experience with Beefy Meteor Lake Processor: The OneXPlayer M1, Featuring a Powerful Intel Core Coffee Lake I9, Up to 32GB of RAM & Future-Ready Connectivity Options</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-spark-go-2024-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Tecno Spark Go (2024)</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-poco-f5-pro-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nubia-red-magic-9-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nubia Red Magic 9 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-electronics-wisdom-from-toms-hardware-experts/"><u>Mastering Electronics: Wisdom From Tom's Hardware Experts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/next-level-custom-pc-build-high-performance-computing-meets-brewed-perfection-within-chassis/"><u>Next-Level Custom PC Build: High-Performance Computing Meets Brewed Perfection Within Chassis</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/unleashing-performance-the-toms-hardware-scoop/"><u>Unleashing Performance: The Tom's Hardware Scoop</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/1723262406386-wds-ultrastar-transporter-a-game-changer-in-data-mobility-with-368tb-nvme-storage-capacity-and-high-end-specs/"><u>WD's Ultrastar Transporter: A Game-Changer in Data Mobility with 368TB NVMe Storage Capacity and High-End Specs!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inside-look-a-detailed-review-of-the-android-lightroom-app/"><u>[New] Inside Look A Detailed Review of the Android Lightroom App</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-satirical-graphics-memes-made-easy-by-kapwing/"><u>[New] Satirical Graphics Memes Made Easy by Kapwing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-spectaculous-visual-story-builder-suite/"><u>[New] Spectaculous Visual Story Builder Suite</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-instantly-convert-online-tutorials-into-interactive-animation-gifs/"><u>[Updated] 2024 Approved Instantly Convert Online Tutorials Into Interactive Animation GIFs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-capture-every-word-a-guide-to-recording-in-google-meet/"><u>[Updated] Capture Every Word A Guide to Recording in Google Meet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigate-like-a-pro-with-top-windows-10-hacks/"><u>[Updated] Navigate Like a Pro with Top WINDOWS 10 Hacks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-hidden-layer-capturing-chats-as-fb-media-files/"><u>2024 Approved The Hidden Layer Capturing Chats as FB Media Files</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/best-live-stream-screen-recorders-for-youtube-for-2024/"><u>Best Live Stream Screen Recorders for YouTube for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-digital-tools-and-devices-toms-hardware-wisdom/"><u>Expert Analysis on Digital Tools and Devices: Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-epson-perfection-v39-updates-for-windows-operating-systems-win7-to-win10/"><u>Get Your Epson Perfection V39 Updates for Windows Operating Systems (Win7 to Win10)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-speedy-pc-file-examination-guide/"><u>In 2024, Speedy PC File Examination Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-investing-in-a-blu-ray-disc-player-worth-it-today/"><u>Is Investing in a Blu-Ray Disc Player Worth It Today?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/leading-mp3-merge-tools-the-ultimate-guide-to-effortlessly-blending-mp3-files/"><u>Leading MP3 Merge Tools: The Ultimate Guide to Effortlessly Blending MP3 Files</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-free-tools-for-easy-jpggif-transformation-for-2024/"><u>Premier Free Tools for Easy JPG/GIF Transformation for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quicktime-mov-playback-issues-corrected-compatibility-enhanced-for-smooth-viewing-experience/"><u>QuickTime MOV Playback Issues Corrected - Compatibility Enhanced for Smooth Viewing Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sparks-limits-explored-by-djis-new-contender-mavic-air-for-2024/"><u>Spark's Limits Explored by DJI's New Contender, Mavic Air for 2024</u></a></li>
 </ul></div>
 

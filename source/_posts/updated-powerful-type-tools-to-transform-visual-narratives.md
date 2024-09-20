@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Powerful Type Tools to Transform Visual Narratives"
-date: 2024-09-12T23:10:37.751Z
-updated: 2024-09-14T07:02:29.865Z
+date: 2024-09-18T00:22:03.692Z
+updated: 2024-09-20T00:28:59.006Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,13 @@ If you want to effectively use the After Effects expressions even if you are not
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
@@ -51,13 +58,6 @@ Link: <https://aescripts.com/textbox/>
 If you want to create the perfect shape behind your text, then TextBox is a good text plugin to consider. This is a native After Effects plugin, meaning that you will not need to install it and the shapes it creates can be very easily customized. It updates the shapes you create automatically and adds them to the text layer, making it the most ideal solution to create closed captions, lower thirds, and subtitles.
 
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Font Manager
 
@@ -68,10 +68,17 @@ Font Manager is an After Effects text plugin that is useful when creating and wo
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Cartoon Moblur
@@ -82,24 +89,18 @@ This is the most ideal plugin to choose when you want to add motion trail to the
 
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Shadow Studio
 
 If you are looking for shadow styles that will go very well with your project, Shadow Studio is a good plugin to get. It offers you a wide variety of shadow styles including radial, inner, soft, and long shadows. Most people find it an easier and more affordable way to add soft shadows as compared to traditional methods like raytracing. It is also quite easy to use, meaning that shadow effects that would take hours to complete can be done in a matter of minutes.
 
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Texts Animation Bundle
 
@@ -117,20 +118,6 @@ The Artificial Intelligence Titles is an After Effects text plugin that is desig
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
@@ -138,6 +125,13 @@ Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
 This is another great text animation bundle with different options for just about any kind of project. But unlike other plugin bundles that only have a few effects to choose from, Text Library has thousands of templates to choose from. Once you have selected the template that you would like to use, you also get the option to customize the template to suit your project. You can customize the text, size, duration of the animation, and color. It is easy to use and is constantly updated to introduce even more templates with each update.
 
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -173,21 +167,21 @@ On its own After Effects comes with so many post-production effects and features
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-video-editing-made-easy-how-to-proficiently-use-movie-maker-in-win11/"><u>[New] Video Editing Made Easy How to Proficiently Use Movie Maker in Win11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-techniques-for-broadcasting-purpose-driven-lifestyle-plays/"><u>[Updated] Techniques for Broadcasting Purpose-Driven Lifestyle Plays</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/amdeep-versus-grace-how-amds-epyc-cpu-surpasses-nvidias-superchip-with-double-the-velocity-in-multi-benchmark-trials/"><u>AMDEEP Versus GRACE: How AMD’s EPYC CPU Surpasses Nvidia’s Superchip with Double the Velocity in Multi-Benchmark Trials</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/compact-powerhouse-explore-the-new-minisforum-mini-pc-with-amd-ryzen-9-7945hx-and-nvidia-rtx-7600m-graphics/"><u>Compact Powerhouse: Explore the New Minisforum Mini PC with AMD Ryzen 9 7945HX & NVIDIA RTX 7600M Graphics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/exploring-the-latest-in-tech-with-toms-hardware-your-ultimate-guide/"><u>Exploring the Latest in Tech with Tom's Hardware - Your Ultimate Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/1723262378177-grab-your-deal-alienwares-gaming-powerhouse-with-rtx-4070-and-i7-cpu-for-only-1499-originally-1699/"><u>Grab Your Deal: Alienware's Gaming Powerhouse with RTX 4070 & I7 CPU for Only $1,499 - Originally $1,699</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-oppo-a18-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Oppo A18</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-elevating-your-film-utilizing-drones-effectively/"><u>In 2024, Elevating Your Film Utilizing Drones Effectively</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/keep-your-creativity-alive-with-insta-content-sharing/"><u>Keep Your Creativity Alive with Insta Content Sharing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-high-tech-gadgets-and-pc-builds-the-toms-hardware-guide/"><u>Mastering High-Tech Gadgets and PC Builds: The Tom's Hardware Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-11-parent-lock-configurations/"><u>Mastering Windows 11 Parent Lock Configurations</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ralink-rt3290-driver-solutions-for-windows-1087-users/"><u>Ralink RT3290 Driver Solutions for Windows 10/8/7 Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategies-for-winning-on-spotifys-ad-platform-for-2024/"><u>Strategies for Winning on Spotify's Ad Platform for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/toms-tech-reviews-ultimate-guide-to-electronics/"><u>Tom's Tech Reviews: Ultimate Guide to Electronics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/touchscreen-ai-desktop-pc-with-integrated-1080p-display-from-microsoft/"><u>Touchscreen AI Desktop PC with Integrated 1080P Display From Microsoft</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unmatched-personalization-utilize-your-own-8-tailored-ais/"><u>Unmatched Personalization: Utilize Your Own 8 Tailored AIs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-natures-set-pieces-a-collection-of-easy-to-download-templates-for-pros-and-beginners/"><u>[New] Nature's Set Pieces A Collection of Easy-to-Download Templates for Pros & Beginners</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-device-editors-for-app-development/"><u>[New] Prime Device Editors for App Development</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-legends-unite-battle-for-midgard/"><u>[Updated] 2024 Approved Legends Unite Battle for Midgard</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-through-gopros-burst-recording-options/"><u>[Updated] Navigating Through GoPro's Burst Recording Options</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-professional-picks-the-best-video-cams-year/"><u>[Updated] Professional Picks The Best Video Cams Year</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-screen-surfing-simplified-navigate-with-netflixs-pip/"><u>2024 Approved Screen Surfing Simplified Navigate with Netflix's PIP</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-squared-up-crafting-square-format-videos-with-imovie-and-instagram/"><u>2024 Approved Squared Up Crafting Square-Format Videos with iMovie and Instagram</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-winning-with-windows-videos-tips-for-enhancing-vimeo-feeds/"><u>In 2024, Winning with Windows Videos Tips for Enhancing Vimeo Feeds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/is-revenue-derived-from-evaluating-products-in-2024/"><u>Is Revenue Derived From Evaluating Products, In 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/key-3d-tools-optimized-for-animation-workflows-for-2024/"><u>Key 3D Tools Optimized for Animation Workflows for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-transitions-kinemasters-step-by-step-tutorial-for-2024/"><u>Mastering Transitions Kinemaster's Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/risolvi-rapidamente-il-dvd-irriproducibile-in-tv-con-questi-5-semplici-trucchi/"><u>Risolvi Rapidamente Il DVD Irriproducibile in TV Con Questi 5 Semplici Trucchi</u></a></li>
+<li><a href="https://solve-info.techidaily.com/step-by-step-guide-converting-mkv-video-track-into-mp4m4a-audio-file/"><u>Step-by-Step Guide: Converting MKV Video Track Into MP4/M4A Audio File</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uninstalling-the-ai-assistant-clear-steps-to-disable-copilot-on-windows-11/"><u>Uninstalling the AI Assistant: Clear Steps to Disable Copilot on Windows 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-sources-for-free-public-domain-video-downloads-for-2024/"><u>Updated Top Sources for Free Public Domain Video Downloads for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/yis-action-cam-breaking-barriers-with-4k-film-for-2024/"><u>Yi's Action Cam Breaking Barriers with 4K Film for 2024</u></a></li>
 </ul></div>
 

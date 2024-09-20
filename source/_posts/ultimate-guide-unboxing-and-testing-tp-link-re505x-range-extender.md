@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender"
-date: 2024-09-07T18:33:09.808Z
-updated: 2024-09-13T21:39:48.728Z
+date: 2024-09-13T20:07:55.849Z
+updated: 2024-09-19T17:23:43.740Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender"
@@ -80,10 +80,10 @@ Lifewire / Erika Rawes
 Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup: Quick and easy**
@@ -91,6 +91,13 @@ Lifewire / Erika Rawes
  The Netgear Nighthawk app walks you through the setup process. There’s a QR code sticker on the router, as well as a temporary network name and password on the label, which allow you to connect quickly and easily.
 
  The app guides you through creating separate 2.4 and 5GHz networks, but you can also take advantage of a feature called smart connect, which combines your networks and designates your devices based on optimal performance. You can create a guest network, as well as manage and monitor your devices individually. The initial setup process took me about ten minutes in total.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Connectivity: Superfast speeds**
 
@@ -103,10 +110,10 @@ Lifewire / Erika Rawes
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/y2V4Ncx3Z1ul8B-4lsc_IeiyCRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_04-9e452ddedd2b4a46893fddd147c06d4f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
@@ -124,10 +131,16 @@ Lifewire / Erika Rawes
  The RAX120 is backward compatible with 802.11a/b/g/n/ac as well, so it’ll work with virtually all of your devices, Wi-Fi 6 or not.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Key Features: Quality hardware, lacks antivirus**
@@ -149,13 +162,6 @@ Lifewire / Erika Rawes
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/MPwp1LtMC7Ua30t8VnJy7bjuqn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_02-94fbae95ca5d4851a1cf40b197da4161.jpg)
 
  Lifewire / Erika Rawes
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: Expensive**
 
@@ -209,15 +215,20 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-techniques-for-clearing-picture-edges/"><u>[New] Expert Techniques for Clearing Picture Edges</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-from-social-media-to-high-definition-free-conversion-of-fb-videos-to-mp4-for-2024/"><u>[New] From Social Media to High Definition Free Conversion of FB Videos to MP4 for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-streamline-your-video-capture-with-macbook-cam-settings/"><u>[Updated] 2024 Approved Streamline Your Video Capture with MacBook Cam Settings</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-switch-off-crossplay-for-personalized-apex-legends-experience/"><u>[Updated] 2024 Approved Switch Off Crossplay for Personalized Apex Legends Experience</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/exploring-computer-components-through-toms-hardware/"><u>Exploring Computer Components Through Tom's Hardware</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/exploring-the-latest-in-tech-with-toms-hardware-your-ultimate-guide/"><u>Exploring the Latest in Tech with Tom's Hardware - Your Ultimate Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-lg-27ud68-4k-freesync-monitor-review/"><u>In 2024, LG 27UD68 4K FreeSync Monitor Review</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-high-tech-gadgets-and-pc-builds-the-toms-hardware-guide/"><u>Mastering High-Tech Gadgets and PC Builds: The Tom's Hardware Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-science-of-choosing-music-for-movie-previews-for-2024/"><u>The Science of Choosing Music for Movie Previews for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/touchscreen-ai-desktop-pc-with-integrated-1080p-display-from-microsoft/"><u>Touchscreen AI Desktop PC with Integrated 1080P Display From Microsoft</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-srt-file-sharing-on-social-platforms/"><u>[New] Mastering SRT File Sharing on Social Platforms</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-affordable-minecraft-video-graphics/"><u>[Updated] Affordable Minecraft Video Graphics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-snapscreen-scrutiny-a-deep-dive-into-recorders-for-2024/"><u>[Updated] SnapScreen Scrutiny A Deep Dive Into Recorders for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photography-pro-key-positions-and-perspectives-on-your-iphone/"><u>2024 Approved Photography Pro Key Positions and Perspectives on Your iPhone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-redefining-blu-ray-with-updated-sony-s6700/"><u>2024 Approved Redefining Blu-Ray with Updated Sony S6700</u></a></li>
+<li><a href="https://discover-able.techidaily.com/eliminate-lag-in-davinci-resolve-essential-tips-and-tricks-for-perfect-playback-performance/"><u>Eliminate Lag in DaVinci Resolve - Essential Tips and Tricks for Perfect Playback Performance</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lenovo-thinkphone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-embedding-programming-codes-directly-into-microsoft-word/"><u>Guide: Embedding Programming Codes Directly Into Microsoft Word</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-effective-is-chatgpt-in-overseeing-your-smart-home-ecosystem/"><u>How Effective Is ChatGPT in Overseeing Your Smart Home Ecosystem?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-reno-11-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 11 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-spearheading-immersive-worlds-top-vr-minds/"><u>In 2024, Spearheading Immersive Worlds Top VR Minds</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-samsung-galaxy-a24-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Samsung Galaxy A24 FRP</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/instant-impact-the-ultimate-10-principles-of-iphone-photography-design-for-2024/"><u>Instant Impact The Ultimate 10 Principles of iPhone Photography Design for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reality-redefined-exploring-virtualitys-kin-vr-ar-and-mr-for-2024/"><u>Reality Redefined Exploring Virtuality’s Kin - VR, AR, & MR for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seamless-integration-combining-b-roll-and-main-scenes-for-2024/"><u>Seamless Integration Combining B-Roll and Main Scenes for 2024</u></a></li>
 </ul></div>
 

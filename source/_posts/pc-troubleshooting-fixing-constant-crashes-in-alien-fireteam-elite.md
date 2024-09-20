@@ -1,7 +1,7 @@
 ---
 title: "PC Troubleshooting: Fixing Constant Crashes in Alien: Fireteam Elite"
-date: 2024-09-09T03:22:58.217Z
-updated: 2024-09-14T02:09:29.081Z
+date: 2024-09-15T17:42:55.978Z
+updated: 2024-09-19T17:43:20.894Z
 tags:
   - win11
   - win10
@@ -92,19 +92,6 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1071.png)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; **it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund** , no questions asked.
@@ -119,10 +106,10 @@ _You can do it for free if you like, but it’s partly manual._
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Change Epic Games Launcher Properties
@@ -133,6 +120,13 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
 
 "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe" -OpenGL
@@ -141,13 +135,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Run Epic Games Launcher again to see if this fix works.
 
  If it won’t open, try the next fix to disable your antivirus software temporarily.
@@ -155,10 +142,10 @@ _You can do it for free if you like, but it’s partly manual._
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
@@ -173,6 +160,13 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Repair Epic Games Launcher
 
  Try repairing the Epic Games Launcher in the Control Panel to see if this fix works for you. Here’s how to do it:
@@ -180,13 +174,6 @@ _You can do it for free if you like, but it’s partly manual._
  1) On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control appwiz.cpl** and press**Enter** to open the**Programs and Features** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
 
@@ -206,22 +193,16 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Restart your computer.
 
@@ -251,16 +232,18 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout/"><u>[New] 2024 Approved How To Streamline the Integration of YouTube Playlists Into a Site's Layout</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-does-artificial-engagement-damage-youtube-reputation-for-2024/"><u>[New] Does Artificial Engagement Damage YouTube Reputation for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-terrarium-tales-the-top-five-gold-quests/"><u>[New] In 2024, Terrarium Tales The Top Five Gold Quests</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/full-features-explored-logitechs-professional-4k-cam-for-2024/"><u>Full Features Explored Logitech’s Professional 4K Cam for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/1723262378177-grab-your-deal-alienwares-gaming-powerhouse-with-rtx-4070-and-i7-cpu-for-only-1499-originally-1699/"><u>Grab Your Deal: Alienware's Gaming Powerhouse with RTX 4070 & I7 CPU for Only $1,499 - Originally $1,699</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-mind-maze-spectacle-exclusive-trivia-channel-line-up/"><u>In 2024, Mind Maze Spectacle Exclusive Trivia Channel Line-Up</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/taking-computing-to-the-future-with-russias-newly-developed-128-core-servers-for-supercomputers/"><u>Taking Computing to the Future with Russia's Newly Developed 128-Core Servers for Supercomputers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/the-battle-royale-for-tech-warriors-world-server-smash-championships-2024-who-will-conquer/"><u>The Battle Royale for Tech Warriors: World Server Smash Championships 2024 - Who Will Conquer?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/toms-tech-reviews-ultimate-guide-to-electronics/"><u>Tom's Tech Reviews: Ultimate Guide to Electronics</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-12-prominent-lava-yuva-2-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Lava Yuva 2 Pro Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/unveiling-the-power-of-pc-building-tips-from-tech-visionary-tom/"><u>Unveiling the Power of PC Building: Tips From Tech Visionary Tom</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-steps-for-iptv-video-recording/"><u>[New] In 2024, Essential Steps for IPTV Video Recording</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-stealthy-photo-editing-with-picsart/"><u>[Updated] 2024 Approved Stealthy Photo Editing with Picsart</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastery-unleashed-top-10-no-cost-mac-painting-tools/"><u>[Updated] Mastery Unleashed Top 10 No-Cost Mac Painting Tools</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-persistent-issues-how-to-resolve-your-discord-stream-that-wont-load/"><u>Fixing Persistent Issues: How to Resolve Your Discord Stream That Won't Load</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/foremost-5-online-video-editors-for-2024/"><u>Foremost 5 Online Video Editors for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-stop-motion-films-the-ultimate-15-list/"><u>In 2024, Pioneering Stop-Motion Films - The Ultimate 15 List</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-precision-photography-and-videography-prime-lens-excellence-in-4k/"><u>In 2024, Precision Photography & Videography Prime Lens Excellence in 4K</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-receiving-packages-boosting-joyful-openings/"><u>In 2024, Revolutionizing Receiving Packages Boosting Joyful Openings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-soundtracks-law-and-ethics-for-2024/"><u>Instagram Soundtracks Law & Ethics for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-acoustic-transitions-in-audacity-pro-suite-for-2024/"><u>Mastering Acoustic Transitions in Audacity Pro Suite for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-obstacles-successfully-instaling-the-windows-10-july-2016-update-version-1607/"><u>Overcoming Obstacles: Successfully Instaling the Windows 10 July 2016 Update (Version 1607)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/selective-enhancements-for-optimal-gopro-use-for-2024/"><u>Selective Enhancements for Optimal Gopro Use for 2024</u></a></li>
 </ul></div>
 

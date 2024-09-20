@@ -1,7 +1,7 @@
 ---
 title: "Cryptocurrency Crusaders' Guide: Top 5 AI Trading Tips"
-date: 2024-09-10T00:58:06.701Z
-updated: 2024-09-13T22:34:08.733Z
+date: 2024-09-12T16:36:40.859Z
+updated: 2024-09-20T00:53:43.370Z
 tags:
   - chatgpt
   - open-ai
@@ -43,9 +43,23 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. pay.chatgptftw.com
 
@@ -61,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
@@ -75,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
@@ -90,19 +97,6 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
  If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
@@ -131,18 +125,16 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-optimize-live-feed-select-from-the-best-9-filters/"><u>[New] 2024 Approved Optimize Live Feed Select From the Best 9 Filters</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-decode-your-insta-performance-a-complete-look-at-user-behavior/"><u>[New] Decode Your Insta Performance A Complete Look at User Behavior</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-text-transformation-tricks-for-media-for-2024/"><u>[New] Text Transformation Tricks for Media for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-boost-accelerate-and-speed-up-tiktok-videos/"><u>[Updated] In 2024, Boost, Accelerate and Speed Up TikTok Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-ultimate-entertainment-12-live-screening-suite/"><u>2024 Approved Ultimate Entertainment 12 Live Screening Suite</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/1723262378177-grab-your-deal-alienwares-gaming-powerhouse-with-rtx-4070-and-i7-cpu-for-only-1499-originally-1699/"><u>Grab Your Deal: Alienware's Gaming Powerhouse with RTX 4070 & I7 CPU for Only $1,499 - Originally $1,699</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-hd-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Infinix Smart 8 HD Phone with Broken Screen</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-oneplus-nord-3-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on OnePlus Nord 3 5G</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-honor-magic-6-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Honor Magic 6 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-ai-integrating-microsofts-gpt-3-into-your-python-projects/"><u>Mastering AI: Integrating Microsoft's GPT-3 Into Your Python Projects</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-high-tech-gadgets-and-pc-builds-the-toms-hardware-guide/"><u>Mastering High-Tech Gadgets and PC Builds: The Tom's Hardware Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/toms-tech-reviews-ultimate-guide-to-electronics/"><u>Tom's Tech Reviews: Ultimate Guide to Electronics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/touchscreen-ai-desktop-pc-with-integrated-1080p-display-from-microsoft/"><u>Touchscreen AI Desktop PC with Integrated 1080P Display From Microsoft</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unravel-time-the-art-of-snapchat-video-reverse/"><u>[New] 2024 Approved Unravel Time The Art of Snapchat Video Reverse</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-bargains-in-the-market-6-leading-4k-projectors/"><u>[New] Best Bargains in the Market 6 Leading 4K Projectors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-picks-essential-mp4-lists/"><u>2024 Approved Premier Picks Essential MP4 Lists</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/convert-your-avi-files-to-mp4-format-for-free-with-movavi-omvandlare-user-friendly-digital-media-software/"><u>Convert Your AVI Files to MP4 Format for Free with Movavi Omvandlare - User-Friendly Digital Media Software</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oneplus-nord-ce-3-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from OnePlus Nord CE 3 5G Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-11-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 11 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-video-playback-sizes-on-youtube/"><u>In 2024, Optimizing Video Playback Sizes on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-fishing-cams-ranked-your-ultimate-guide-for-2024/"><u>Pro-Fishing Cams Ranked Your Ultimate Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revealing-the-future-with-microsofts-hololens-analysis-for-2024/"><u>Revealing the Future with Microsoft's HoloLens Analysis for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-non-functional-astro-a40-mic-expert-advice/"><u>Troubleshooting the Non-Functional Astro A40 Mic - Expert Advice</u></a></li>
 </ul></div>
 

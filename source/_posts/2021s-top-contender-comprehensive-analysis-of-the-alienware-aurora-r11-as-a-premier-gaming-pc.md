@@ -1,7 +1,7 @@
 ---
 title: "2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC"
-date: 2024-09-12T07:11:57.344Z
-updated: 2024-09-13T20:34:36.129Z
+date: 2024-09-18T21:20:44.131Z
+updated: 2024-09-19T19:22:30.531Z
 categories:
   - BestProducts
 description: "This Article Describes 2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC"
@@ -81,13 +81,6 @@ Lifewire / Yoona Wagener
 
 Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Comfort: Streamlined but not immune to typical fit issues
 
  While the easy-adjusting Velcro strap is a welcome departure from the typical notch-and-clasp closure on most fitness trackers, adjusting the fit or removing the device wasn’t as smooth as I’d expected it to be. The end of the strap is finished with hardware that prevents the strap from coming completely undone from the loop. The band also includes a series of five strong Velcro strips/notches that serve as sizing adjusters. This construction helps prevent accidental drops when taking the band on/off, which is never a bad thing. On the other hand, though, the Velcro strips are so sturdy that they restricted quick adjustments and made removing the band less swift overall.
@@ -105,13 +98,6 @@ Lifewire / Yoona Wagener
  Instead, the Halo presents all activity data through a convenient point-tracking system. The weekly goal is 150, which converts to 150 minutes of cardiovascular activity, as recommended by the American Heart Association. Periods of movement and exercise count toward this point goal, while periods of non-movement subtract from points earned. It’s a digestible system that offers a new twist on the steps or movement alert functions you’ll find in fitness trackers and[smartwatches](https://www.lifewire.com/an-introduction-to-smart-watches-3441381) from Samsung, Garmin, Fitbit, and others. This system was an encouraging reset from those reminders that sometimes feel more annoying than motivating.
 
 ![Amazon Halo](https://www.lifewire.com/thmb/FjdFyV6Y4mTXNsqccZ4aEBJNpV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_05-e671ee9f77cc4cee8e2580a2dba449d5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener.
 
@@ -141,11 +127,25 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/fBsShcBruhAWkg-kTKPWkYUaImo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_04-ee532fbe8d2f4e8195e63ed9dd45611a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
 ## Price: A reasonable price for the feature set
 
  Retailing for just about $100, the Amazon Halo band certainly won’t break the bank for budget-minded shoppers. While the lack of display could be a deterrent, the solid mobile app provides convenient access to the detailed sleep, automatic activity tracking, and specialized tone of voice and body fat analysis the Halo provides.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Amazon Halo vs. WHOOP Strap 3
 
@@ -160,16 +160,16 @@ Lifewire / Yoona Wagener
  The Amazon Halo isn’t for everyone with its lack of display and additional layers of data tracking to capture tone of voice and body fat percentage. But for the user that wants a little less hardware but more forward-thinking fitness/health tracking, this unique wearable offers a different approach to increasing activity and wellness awareness on a daily basis.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -179,10 +179,10 @@ Lifewire / Yoona Wagener
 * [Ticwatch Pro](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -216,21 +216,14 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-optimal-stabilization-for-mirrorless-with-gimbals/"><u>[New] Optimal Stabilization for Mirrorless with Gimbals</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/outube-triumphs-how-to-turn-your-cell-phone-into-an-editing-machine/"><u>[New] YouTube Triumphs How to Turn Your Cell Phone Into an Editing Machine</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/outube-tv-unboxed-understanding-the-basics-for-2024/"><u>[New] YouTube TV Unboxed Understanding the Basics for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-seamless-integration-of-skype-and-zoom-for-businesses-for-2024/"><u>[Updated] Seamless Integration of Skype and Zoom for Businesses for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-troubleshooting-messengers-failure-send-videos-without-issues-androidiphone/"><u>[Updated] Troubleshooting Messenger's Failure Send Videos without Issues (Android/iPhone)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-professional-academic-recording-a-trio-of-methods-for-students-with-apple-devices/"><u>2024 Approved Professional Academic Recording A Trio of Methods for Students with Apple Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/are-some-of-your-keyboard-keys-not-working-heres-how-to-fix-them-on-windows/"><u>Are Some of Your Keyboard Keys Not Working? Here's How to Fix Them on Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/complete-guide-downloading-and-reading-azw3-ebooks-on-windowsmac/"><u>Complete Guide: Downloading & Reading AZW3 Ebooks on Windows/Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/delving-deeper-with-toms-system-components-guide/"><u>Delving Deeper with Tom's System Components Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/1723262363976-exclusive-offer-high-performance-aurora-r16-with-34-alienware-oled-monitor-at-a-huge-discount-shave-70700-off/"><u>Exclusive Offer: High-Performance Aurora R16 with 34” Alienware OLED Monitor at a Huge Discount - Shave $70([[700] Off</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/exploring-performance-and-value-in-the-corsair-one-i500-tiny-gaming-rig/"><u>Exploring Performance & Value in the Corsair One I500 Tiny Gaming Rig</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/gearhead-geek-comprehensive-guides-to-advanced-computer-systems/"><u>Gearhead Geek: Comprehensive Guides to Advanced Computer Systems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/inside-tech-circle-toms-authoritative-hardware-reviews-and-insights/"><u>Inside Tech Circle: Tom's Authoritative Hardware Reviews and Insights</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-the-maze-of-fs-mode-in-ppro/"><u>Navigating the Maze of FS Mode in PPro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-world-of-pcs-with-tom-detailed-analysis-and-opinions/"><u>Navigating the World of PCs with Tom - Detailed Analysis and Opinions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/unveiling-the-sibolan-szbox-s69-a-colorful-ryzen-mini-pc-with-vintage-chips-not-quite-heroic/"><u>Unveiling the Sibolan SZBox S69: A Colorful Ryzen Mini PC with Vintage Chips, Not Quite Heroic</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harnessing-the-full-potential-of-luts-in-adobe-premiere-pro/"><u>[New] Harnessing the Full Potential of LUTs in Adobe Premiere Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-podcast-picks-googlouds-best-series-selection/"><u>[New] Premium Podcast Picks GooGloud’s Best Series Selection</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-vid-recorders-vault-top-techniques-for-tv-streaming/"><u>[Updated] 2024 Approved Vid-Recorder's Vault Top Techniques for TV Streaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimizing-visuals-aspect-ratio-alteration/"><u>[Updated] Optimizing Visuals Aspect Ratio Alteration</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-prime-collection-of-pc-screen-capture-tools-win11/"><u>[Updated] The Prime Collection of PC Screen Capture Tools (Win11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719361633854-enhance-your-pcs-screen-glow-with-these-fixes/"><u>Enhance Your PC's Screen Glow with These Fixes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-liberating-screen-time-with-free-video-playback-tools/"><u>In 2024, Liberating Screen Time with FREE Video Playback Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-iphone-13-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On iPhone 13</u></a></li>
 </ul></div>
 

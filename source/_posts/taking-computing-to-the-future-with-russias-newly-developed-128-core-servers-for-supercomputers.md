@@ -1,7 +1,7 @@
 ---
 title: Taking Computing to the Future with Russia's Newly Developed 128-Core Servers for Supercomputers
-date: 2024-09-06T21:08:54.675Z
-updated: 2024-09-14T10:00:31.042Z
+date: 2024-09-13T21:07:49.067Z
+updated: 2024-09-19T21:45:14.589Z
 tags:
   - desktop
 categories:
@@ -46,23 +46,25 @@ Pick up a powerful new gaming or productivity desktop from Lenovo with a tasty d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-mastering-the-art-of-design-selecting-ideal-dimensions-for-yt-branding/"><u>[New] 2024 Approved Mastering the Art of Design Selecting Ideal Dimensions for YT Branding</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-enhancing-remote-sessions-with-premium-bgs-for-2024/"><u>[New] Enhancing Remote Sessions with Premium BGs for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-melodic-mix-audio-meets-images-online/"><u>[New] Melodic Mix Audio Meets Images Online</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-most-effective-mac-screen-recording-software-other-than-bandicam-for-2024/"><u>[New] Most Effective Mac Screen Recording Software, Other than Bandicam for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-art-and-craft-of-documentary-writing-for-2024/"><u>[New] The Art and Craft of Documentary Writing for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-nokia-105-classic-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Nokia 105 Classic Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/delving-deeper-with-toms-system-components-guide/"><u>Delving Deeper with Tom's System Components Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/1723262363976-exclusive-offer-high-performance-aurora-r16-with-34-alienware-oled-monitor-at-a-huge-discount-shave-70700-off/"><u>Exclusive Offer: High-Performance Aurora R16 with 34” Alienware OLED Monitor at a Huge Discount - Shave $70([[700] Off</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/inside-tech-circle-toms-authoritative-hardware-reviews-and-insights/"><u>Inside Tech Circle: Tom's Authoritative Hardware Reviews and Insights</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-12-mini-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone 12 mini to PC or Mac | Stellar</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-art-of-capture-and-storage-managing-snapshots-like-a-pro-for-2024/"><u>The Art of Capture and Storage Managing Snapshots Like a Pro for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inside-the-new-picsart-full-guide-and-review-of-update-2024/"><u>[New] Inside the New PicsArt - Full Guide & Review of Update 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-pro-ultimate-2023-template-collection-free/"><u>[New] Premier Pro Ultimate 2023 Template Collection (FREE)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-acid-pro-benchmarking-alternatives/"><u>2024 Approved Inside ACID Pro Benchmarking Alternatives</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-logic-pro-method-to-gradually-reduce-audio-levels/"><u>2024 Approved Logic Pro Method to Gradually Reduce Audio Levels</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-prodigy-machines-top-quality-computers-available/"><u>2024 Approved Prodigy Machines Top-Quality Computers Available</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-8-most-popular-instagram-after-effects-packs/"><u>In 2024, 8 Most Popular Instagram After Effects Packs</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-xiaomi-redmi-note-13-proplus-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Xiaomi Redmi Note 13 Pro+ 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-y56-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo Y56 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-into-high-dynamic-range-the-complete-hdr-conversion-guide/"><u>In 2024, Step Into High Dynamic Range The Complete HDR Conversion Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-a-guide-to-using-obs-studio-to-stream-to-facebook/"><u>New A Guide to Using OBS Studio To Stream to Facebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/professional-iphone-hdr-techniques-unveiled-for-2024/"><u>Professional iPhone HDR Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-turn-your-images-darker/"><u>Step-by-Step Turn Your Images Darker</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-htc-u23-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For HTC U23 | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

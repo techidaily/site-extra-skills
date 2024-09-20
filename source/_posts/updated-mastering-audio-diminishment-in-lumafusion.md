@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Audio Diminishment in Lumafusion"
-date: 2024-09-08T16:46:54.596Z
-updated: 2024-09-13T19:34:09.160Z
+date: 2024-09-15T19:10:19.191Z
+updated: 2024-09-20T01:06:43.914Z
 tags: 
   - screen-recording
   - ai video
@@ -76,13 +76,6 @@ In that window, you can select the MP3 format in the format customization box to
 
 ## Part 3\. Related FAQs about LumaFusion
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
@@ -90,6 +83,19 @@ Go to Clip Defaults to do that. You may change the Title and Transition lengths 
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. How to you split audio and video in LumaFusion?
 
@@ -115,24 +121,18 @@ The fade-in audio button inside your audio file may be seen when you just hover 
 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step4 Share and export
 
 After finishing the method for editing audio in Filmora, click the Export button in the top menu corner as shown here:
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Related FAQs about LumaFusion
 
@@ -140,22 +140,16 @@ In that window, you can select the MP3 format in the format customization box to
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. How to you split audio and video in LumaFusion?
 
@@ -185,21 +179,20 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-follow-the-leaders-on-igtv-for-inspiration/"><u>[New] 2024 Approved Follow the Leaders on IGTV for Inspiration</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-cinematic-images-post-production-of-vt-videos-with-fcpx/"><u>[New] Cinematic Images Post-Production of VT Videos with FCPX</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nfographic-top-insights-into-fifa-football-videos-on-youtube-for-2024/"><u>[New] Infographic - Top Insights Into FIFA Football Videos On YouTube for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pickus-triumph-in-android-photo-editing-a-comprehensible-review/"><u>[New] PickU's Triumph in Android Photo Editing – A Comprehensible Review</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-digital-recording-sounds-and-speech-capture/"><u>[Updated] 2024 Approved Digital Recording Sounds & Speech Capture</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-from-standard-definition-to-high-dynamic-range-a-comprehensive-tutorial-for-2024/"><u>[Updated] From Standard Definition to High Dynamic Range - A Comprehensive Tutorial for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/amdeep-versus-grace-how-amds-epyc-cpu-surpasses-nvidias-superchip-with-double-the-velocity-in-multi-benchmark-trials/"><u>AMDEEP Versus GRACE: How AMD’s EPYC CPU Surpasses Nvidia’s Superchip with Double the Velocity in Multi-Benchmark Trials</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/compact-powerhouse-explore-the-new-minisforum-mini-pc-with-amd-ryzen-9-7945hx-and-nvidia-rtx-7600m-graphics/"><u>Compact Powerhouse: Explore the New Minisforum Mini PC with AMD Ryzen 9 7945HX & NVIDIA RTX 7600M Graphics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/exploring-the-latest-in-tech-with-toms-hardware-your-ultimate-guide/"><u>Exploring the Latest in Tech with Tom's Hardware - Your Ultimate Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/1723262378177-grab-your-deal-alienwares-gaming-powerhouse-with-rtx-4070-and-i7-cpu-for-only-1499-originally-1699/"><u>Grab Your Deal: Alienware's Gaming Powerhouse with RTX 4070 & I7 CPU for Only $1,499 - Originally $1,699</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-box-it-up-right-10-online-haunts-for-tailored-gift-boxes/"><u>In 2024, Box It Up Right 10 Online Haunts for Tailored Gift Boxes</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-honor-play-8t-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Honor Play 8T FRP In 3 Different Ways</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-scribes-summit-selection-top-8/"><u>In 2024, Scribe's Summit Selection - Top 8</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-high-tech-gadgets-and-pc-builds-the-toms-hardware-guide/"><u>Mastering High-Tech Gadgets and PC Builds: The Tom's Hardware Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/toms-tech-reviews-ultimate-guide-to-electronics/"><u>Tom's Tech Reviews: Ultimate Guide to Electronics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/touchscreen-ai-desktop-pc-with-integrated-1080p-display-from-microsoft/"><u>Touchscreen AI Desktop PC with Integrated 1080P Display From Microsoft</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-nine-quick-fixes-for-facebook-live-problems/"><u>[New] Nine Quick Fixes for Facebook Live Problems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-streamline-your-workflow-with-aiseesoft-recording-tools/"><u>[Updated] In 2024, Streamline Your Workflow with Aiseesoft Recording Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-nighttime-luminosity-on-iphone-photos/"><u>[Updated] Nighttime Luminosity on iPhone Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-no-spend-high-repeat-leading-apps-for-your-pinterest-vids/"><u>[Updated] No Spend, High Repeat! Leading Apps for Your Pinterest Vids</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/a-comprehensive-look-at-the-newest-updates-of-lg-360-cameras-for-2024/"><u>A Comprehensive Look at the Newest Updates of LG 360 Cameras for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-artistry-perfecting-subject-isolation-techniques/"><u>Digital Artistry: Perfecting Subject Isolation Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-realme-11-proplus-by-drfone-android/"><u>How to Bypass FRP from Realme 11 Pro+?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-14-pro-max-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 14 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-nextgen-video-upscaler-mobiledesktop-edition/"><u>In 2024, NextGen Video Upscaler Mobile/Desktop Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quieting-beats-step-by-step/"><u>In 2024, Quieting Beats Step-by-Step</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-seamlessly-integrate-apple-podcasts-into-your-routine/"><u>In 2024, Seamlessly Integrate Apple Podcasts Into Your Routine</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-creative-expression-adding-video-filters-in-zoom-for-2024/"><u>Mastering Creative Expression Adding Video Filters in Zoom for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-screenshots-on-windows-11/"><u>Step-by-Step Guide to Screenshots on Windows 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-3gp-video-cutter-tutorial-2023-edition/"><u>Updated 2024 Approved The Ultimate 3GP Video Cutter Tutorial 2023 Edition</u></a></li>
 </ul></div>
 
