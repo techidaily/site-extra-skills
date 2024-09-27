@@ -1,7 +1,7 @@
 ---
 title: "What Are LUTs and How They Change Your Photo for 2024"
-date: 2024-09-13T01:08:11.594Z
-updated: 2024-09-19T17:07:11.164Z
+date: 2024-09-26T19:54:54.117Z
+updated: 2024-09-27T21:30:11.986Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,13 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Choose Adjustment Layer
 
 1. Opt for Color Lookup.
@@ -65,6 +72,13 @@ Choose Adjustment Layer
 3. Select Load 3D LUT. A list of LUTs that come with Photoshop will appear.
 
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 load 3d lut
 
@@ -82,10 +96,10 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Here's the second one
@@ -104,18 +118,18 @@ Grow Together
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
 
 The use of LUTs, like most elements of photography and photo editing, necessitates some healthy experimentation. You'll develop an instinct for accurate color grading and an eye for a good LUT over time, and you'll be able to tell which photographs would benefit from a certain LUT with ease. We're sure you're eager to try out LUTs while editing photographs and movies now that you've learned about them. Remember that doing anything new may not appear to be simple. However, with some practice, you'll improve day by day. The same is true for LUTs! The more you practice with the tool, the better you will become. So, why are you still waiting? Get started now![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
@@ -147,5 +161,24 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-flip-side-of-perspectives-crafting-engaging-images-with-angled-spins-on-instagram-sites/"><u>[New] 2024 Approved The Flip-Side of Perspectives Crafting Engaging Images with Angled Spins on Instagram Sites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-jokecrafters-generate-smiles-app/"><u>[New] JokeCrafters Generate Smiles (App)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quick-recap-how-to-locate-youtube-comments-post-upload/"><u>[New] Quick Recap How to Locate YouTube Comments Post-Upload</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-from-twitter-videosyoutube-songs-to-scribbled-mp3-files/"><u>[New] Step-by-Step From Twitter Videos/YouTube Songs to Scribbled MP3 Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-10-top-ios-players-elevating-video-watching-on-devices/"><u>[Updated] 10 Top iOS Players Elevating Video Watching on Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capture-mastery-top-picks-of-free-pcmac-desktop-recorders-for-2024/"><u>[Updated] Capture Mastery Top Picks of Free PC/Mac Desktop Recorders for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-explore-the-finest-virtual-hydro-adventures/"><u>[Updated] Explore the Finest Virtual Hydro Adventures</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-inverse-image-labyrinth-navigate-with-these-3-methods-for-2024/"><u>[Updated] Facebook's Inverse Image Labyrinth - Navigate with These 3 Methods for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-how-to-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making/"><u>[Updated] How to Create Engaging Visual Hooks A Guide to Video Thumbnail Making</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-realme-11-proplus-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Realme 11 Pro+ to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mobile-marvels-the-leading-arvr-app-picks/"><u>In 2024, Mobile Marvels The Leading AR/VR App Picks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-nextgen-fidelity-upgrade-your-viewing-experience/"><u>In 2024, NextGen Fidelity Upgrade Your Viewing Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-rapid-results-elevate-images-on-windows-11/"><u>In 2024, Rapid Results Elevate Images on Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/rapid-renderings-the-win10-way-to-work-wonders-on-images-quickly-for-2024/"><u>Rapid Renderings The Win10 Way to Work Wonders on Images Quickly for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reimagining-the-role-of-titles-in-after-effects-media-for-2024/"><u>Reimagining the Role of Titles in After Effects Media for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-best-8-platforms-for-tracking-down-persons-of-interest/"><u>Unveiling the Best 8 Platforms for Tracking Down Persons of Interest</u></a></li>
+</ul></div>
 

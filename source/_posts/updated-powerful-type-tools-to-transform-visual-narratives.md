@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Powerful Type Tools to Transform Visual Narratives"
-date: 2024-09-18T00:22:03.692Z
-updated: 2024-09-20T00:28:59.006Z
+date: 2024-09-24T17:36:33.041Z
+updated: 2024-09-27T17:07:26.974Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,13 @@ TextDelay is a native plugin, meaning that you will find it already installed on
 
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## TextExploder
 
 Link: <https://aescripts.com/textexploder/>
@@ -36,6 +43,13 @@ TextExploder is an After Effects plugin that is developed by MamoWorld and it al
 
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iExpressions 2
 
 Link: <https://aescripts.com/iexpressions/>
@@ -43,13 +57,6 @@ Link: <https://aescripts.com/iexpressions/>
 If you want to effectively use the After Effects expressions even if you are not familiar with coding, iExpressions 2 is the text plugin to consider. It comes with 22 ready-to-use iExpressions that you can easily customize to fit into your project and it is so easy to use.
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## TextBox
 
@@ -68,17 +75,10 @@ Font Manager is an After Effects text plugin that is useful when creating and wo
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Cartoon Moblur
@@ -89,18 +89,25 @@ This is the most ideal plugin to choose when you want to add motion trail to the
 
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Shadow Studio
 
 If you are looking for shadow styles that will go very well with your project, Shadow Studio is a good plugin to get. It offers you a wide variety of shadow styles including radial, inner, soft, and long shadows. Most people find it an easier and more affordable way to add soft shadows as compared to traditional methods like raytracing. It is also quite easy to use, meaning that shadow effects that would take hours to complete can be done in a matter of minutes.
 
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Texts Animation Bundle
 
@@ -109,6 +116,20 @@ Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
 This is a bundle of more than 80 different templates to add text effects to any text in After Effects. All the templates in the bundle are easily customizable and the plugin is very easy to use, allowing you to create amazing text effects in just a few clicks. The templates are modeled from various titles, quotes, and stories, so there is a little bit of something for everyone. Plus, the bundle gets constant updates and you are likely to get new templates with each update.
 
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Artificial Intelligence Titles
 
@@ -125,13 +146,6 @@ Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
 This is another great text animation bundle with different options for just about any kind of project. But unlike other plugin bundles that only have a few effects to choose from, Text Library has thousands of templates to choose from. Once you have selected the template that you would like to use, you also get the option to customize the template to suit your project. You can customize the text, size, duration of the animation, and color. It is easy to use and is constantly updated to introduce even more templates with each update.
 
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -165,5 +179,20 @@ On its own After Effects comes with so many post-production effects and features
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fb-sounds-unlimited-grab-and-go/"><u>[New] 2024 Approved FB Sounds Unlimited Grab & Go</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-discovering-6-distinct-icon-and-logo-providers-for-2024/"><u>[Updated] Discovering 6 Distinct Icon and Logo Providers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-going-against-gravity-innovative-ways-to-rewind-youtube-content-for-2024/"><u>[Updated] Going Against Gravity Innovative Ways to Rewind YouTube Content for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-masterclass-in-media-magic-with-magix-video-pro-x/"><u>[Updated] In 2024, Masterclass in Media Magic with Magix Video Pro X</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-light-and-shadow-with-iphone-xs-new-lens-technology/"><u>[Updated] Mastering Light & Shadow with iPhone X's New Lens Technology</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-maximizing-your-youtube-videos-viewer-count/"><u>2024 Approved Maximizing Your YouTube Video's Viewer Count</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-systems-speed-easy-guide-for-sata-ahci-controller-driver-enhancements/"><u>Boost Your System's Speed: Easy Guide for SATA AHCI Controller Driver Enhancements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-vulnerability-could-chatgpt-empower-cybercriminals-to-target-your-bank-account-or-computer/"><u>Exploring the Vulnerability: Could ChatGPT Empower Cybercriminals to Target Your Bank Account or Computer?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-ranking-the-best-most-innovative-pc-vr-headsets/"><u>In 2024, Ranking the Best, Most Innovative PC VR Headsets</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/logic-pro-xs-audio-smoothing-methods-for-2024/"><u>Logic Pro X's Audio Smoothing Methods for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quickly-change-the-pace-of-videos-in-your-instagram-feed-for-2024/"><u>Quickly Change the Pace of Videos in Your Instagram Feed for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-best-8-plugin-coalition-for-crypto-and-ai-conversation/"><u>Unveiling Best 8 Plugin Coalition for Crypto & AI Conversation</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mastering-color-in-final-cut-pro-a-step-by-step-guide/"><u>Updated 2024 Approved Mastering Color in Final Cut Pro A Step-by-Step Guide</u></a></li>
+</ul></div>
 

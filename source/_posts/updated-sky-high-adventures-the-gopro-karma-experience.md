@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sky-High Adventures  The GoPro Karma Experience\""
-date: 2024-09-12T16:20:57.270Z
-updated: 2024-09-20T02:36:23.204Z
+date: 2024-09-22T16:54:33.256Z
+updated: 2024-09-27T21:20:21.277Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -87,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
 
 #### Conclusion
@@ -94,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -108,18 +129,26 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-motorcyclings-best-bits-hats-cam-with-the-highest-scores/"><u>[New] Motorcycling's Best Bits Hats Cam with the Highest Scores</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-ranking-the-best-identifying-the-quintessential-5-online-title-designers/"><u>[New] Ranking the Best Identifying the Quintessential 5 Online Title Designers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-relaxation-in-a-box-best-10-stress-busters/"><u>[New] Relaxation in a Box Best 10 Stress Busters</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-selection-of-frames-for-professional-ig-artistry-for-2024/"><u>[New] The Ultimate Selection of Frames for Professional IG Artistry for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-a-complete-guide-on-how-to-capture-and-store-fbs-graphic-delights-effortlessly-for-2024/"><u>[Updated] A Complete Guide on How to Capture and Store FB's Graphic Delights Effortlessly for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-lg-bp350-evaluation-size-resolution-and-connectivity/"><u>[Updated] LG BP350 Evaluation - Size, Resolution, and Connectivity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-multitasking-with-picture-in-picture/"><u>2024 Approved Mastering the Art of Multitasking with Picture In Picture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterpieces-revealed-topping-20-anime-themes/"><u>2024 Approved Masterpieces Revealed Topping 20 Anime Themes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-video-broadcast-software-choice/"><u>2024 Approved Prime Video Broadcast Software Choice</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-guide-streamlining-video-calls-on-xbox-one/"><u>2024 Approved Quick Guide Streamlining Video Calls on Xbox One</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/helldivers-2-steam-launch-failure-effective-fixes-for-gamers/"><u>Helldivers 2 Steam Launch Failure: Effective Fixes for Gamers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-enhancing-video-content-top-formats-on-youtube/"><u>In 2024, Enhancing Video Content Top Formats on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-websites-for-modern-letterforms/"><u>In 2024, Pioneering Websites for Modern Letterforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/latest-release-d-link-password-database-update-for-july-202/"><u>Latest Release: D-Link Password Database Update for July 202 #</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-large-scale-tiktok-video-downloads-for-2024/"><u>Mastering Large-Scale TikTok Video Downloads for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-troubleshooting-techniques-for-unresponsive-discord-applications/"><u>Mastering Troubleshooting Techniques for Unresponsive Discord Applications</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-rotate-your-videos-online-best-free-tools-for-2024/"><u>New Rotate Your Videos Online Best Free Tools for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionize-your-wireless-experience-with-the-upgraded-netgear-nighthawk-wi-fi-booster-x6s/"><u>Revolutionize Your Wireless Experience with the Upgraded Netgear Nighthawk Wi-Fi Booster X6S</u></a></li>
+</ul></div>
 

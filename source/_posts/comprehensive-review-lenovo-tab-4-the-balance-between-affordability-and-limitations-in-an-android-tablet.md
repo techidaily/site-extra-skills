@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet"
-date: 2024-09-12T22:54:11.915Z
-updated: 2024-09-19T19:34:54.559Z
+date: 2024-09-26T18:31:11.511Z
+updated: 2024-09-27T19:41:26.683Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet"
@@ -58,6 +58,13 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
@@ -77,13 +84,6 @@ Lifewire / Kelsey Simon
  The Tides of Numenera is a third-person[role-playing game](https://www.lifewire.com/best-free-offline-rpg-games-4177675) where almost 75 percent of the gameplay is scrolling dialogue boxes and the various prompts that will pop up as the game tells you the story. These prompts will allow you control over how the story unfolds, and this, more than anything else, is the game’s main mechanic.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -107,14 +107,14 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
- Lifewire / Kelsey Simon
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Kelsey Simon
 
 ## **Price: Only worth it if you’re keen on the story**
 
@@ -123,6 +123,13 @@ Lifewire / Kelsey Simon
  That said, if role-playing games with a text-heavy focus are of interest to you, then the game does have a lot to offer for the cost. The world of Numenera is vast, and considering all the prompts that alter the story, the game also has a lot of replayability. While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else, and for those players, the $50 cost will be worth it.
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Other story focused RPGs**
 
@@ -137,10 +144,10 @@ Lifewire / Kelsey Simon
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -164,5 +171,22 @@ Lifewire / Kelsey Simon
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-10-free-passport-photo-maker-for-desktop-and-online/"><u>[New] 10 Free Passport Photo Maker for Desktop and Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-srt-a-thorough-exploration-of-its-essence/"><u>[New] Mastering SRT A Thorough Exploration of Its Essence</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-recovery-pathways-from-youtube-disqualification/"><u>[New] Recovery Pathways From YouTube Disqualification</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-journey-beyond-the-frantic-crafting-epic-slow-motion-content-for-instragram/"><u>[Updated] 2024 Approved Journey Beyond the Frantic Crafting Epic Slow Motion Content for Instragram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigate-with-ease-must-know-win11-tricks/"><u>[Updated] Navigate with Ease Must-Know Win11 Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimizing-your-podcasts-itunes-placement/"><u>[Updated] Optimizing Your Podcast's iTunes Placement</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-precision-narrative-craftsmanship-how-to-write-impressive-docu-scripts/"><u>[Updated] Precision Narrative Craftsmanship How to Write Impressive Docu-Scripts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choose-versatility-over-gimmicks-opt-for-a-separate-refrigerator-and-ipad-rather-than-a-smart-fridge/"><u>Choose Versatility Over Gimmicks: Opt for a Separate Refrigerator and iPad Rather than a Smart Fridge</u></a></li>
+<li><a href="https://techtrends.techidaily.com/critical-platforms-every-twitch-broadcaster-needs-in-their-toolkit/"><u>Critical Platforms Every Twitch Broadcaster Needs in Their Toolkit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/delving-into-the-heart-of-apples-m1-processor/"><u>Delving Into the Heart of Apple's M1 Processor</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-frame-rate-mastery-through-controller-tweaks/"><u>In 2024, Optimal Frame Rate Mastery Through Controller Tweaks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/is-the-cost-of-aurora-justified-by-its-hdr-quality-for-2024/"><u>Is The Cost of Aurora Justified by Its HDR Quality for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-computer-components-through-toms-hardware-wisdom/"><u>Mastering Computer Components Through Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-ultimate-gopro-camera-showdown-for-2024/"><u>The Ultimate GoPro Camera Showdown for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-getting-the-most-out-of-your-oculus-quest-microphone/"><u>The Ultimate Guide to Getting the Most Out of Your Oculus Quest Microphone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Speedy Glimpse Through Windows Files for 2024"
-date: 2024-09-17T20:17:12.898Z
-updated: 2024-09-20T01:14:48.277Z
+date: 2024-09-23T19:55:13.023Z
+updated: 2024-09-27T21:17:39.193Z
 tags: 
   - screen-recording
   - ai video
@@ -50,13 +50,34 @@ Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and
 
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
 
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
 
@@ -69,13 +90,6 @@ Mac users have enjoyed the powerful QuickLook capabilities for at least 15 years
 Meanwhile, it’s expected that QuickLook will come with a small preview screen. However, that should be enough space to preview whatever file you’re searching for. Also, it’s expected that Windows will embed the QuickLook capabilities into the Photos app. But it’s not yet clear if Peek will work with media files like videos and audio as it is on Mac.
 
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Frequently Asked Questions
 
@@ -92,10 +106,10 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -130,5 +144,24 @@ This guidepost is another testament that your PC has massive hidden abilities. W
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-transforming-view-counts-with-strategic-video-tagging-techniques/"><u>[New] 2024 Approved Transforming View Counts with Strategic Video Tagging Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximizing-value-from-youtube-comment-threads/"><u>[New] Maximizing Value From YouTube Comment Threads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-proven-strategies-for-powerful-customer-success-stories-on-screen/"><u>[New] Proven Strategies for Powerful Customer Success Stories on Screen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-full-assessment-of-the-android-based-photo-editor-lightroom/"><u>2024 Approved A Full Assessment of the Android-Based Photo Editor, Lightroom</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-m1-pro-and-m1-max-exploring-their-significant-differences/"><u>2024 Approved M1 Pro & M1 Max Exploring Their Significant Differences</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-ranking-the-leading-free-srt-translators-online/"><u>2024 Approved Ranking the Leading Free SRT Translators Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/declassification-alert-the-formidable-evga-amd-board-x670e-unveiled-priced-to-impress-at-1k-and-beyond/"><u>Declassification Alert! The Formidable EVGA AMD Board (X670E) Unveiled - Priced to Impress at 1K and Beyond</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-narzo-60x-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Narzo 60x 5G?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-xs-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone XS Max Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-13-ultra-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi 13 Ultra Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-memories-in-motion-a-step-by-step-guide-for-digital-conversion/"><u>In 2024, Memories in Motion A Step-by-Step Guide for Digital Conversion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-spin-up-original-web-memes-instantly/"><u>In 2024, Spin Up Original Web Memes Instantly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-15-pro-max-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 15 Pro Max Properly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/palette-strategies-utilizing-color-science-in-art-for-2024/"><u>Palette Strategies Utilizing Color Science in Art for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pinpointing-the-premier-hdr-cameras-for-photography-for-2024/"><u>Pinpointing the Premier HDR Cameras for Photography for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-essential-steps-to-effectively-utilize-google-gemini/"><u>The Essential Steps to Effectively Utilize Google Gemini</u></a></li>
+</ul></div>
 

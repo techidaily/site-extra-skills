@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting Post-Production on TikTok via Zoom for 2024\""
-date: 2024-09-15T00:20:38.704Z
-updated: 2024-09-19T17:58:08.750Z
+date: 2024-09-26T20:45:27.837Z
+updated: 2024-09-27T16:14:01.919Z
 tags: 
   - screen-recording
   - ai video
@@ -37,6 +37,13 @@ The first one involves zooming in while recording the video and the second one i
 * Alternatively, you can use one finger to pinch into the screen while holding the shutter icon with another finger and this will ultimately help you achieve a zoom effect on your video.
 * For zooming out, you can move your finger towards the shutter button or pinch out and then save the video.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. How to Zoom an existing TikTok video
 
 TikTok is known to provide a vast number of filters as well as editing tools that can create stunning videos with very less effort. And the zoom effect is one of such important functions of video making. If you are new to this then you should know that either you can apply a zoom while creating the video or after recording it. So, for any reason, if you forgot to apply zoom in or zoom out while recording, then you can easily apply this effect while editing it. To zoom TikTok video, you will need to follow these steps:
@@ -46,12 +53,26 @@ TikTok is known to provide a vast number of filters as well as editing tools tha
 
 ![tap visual effects tiktok](https://images.wondershare.com/filmora/article-images/2022/07/tap-visual-effects-tiktok.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Here you will need to find an effect namely the "zoom effect" and tapping on it will apply the effect to your video.
 
 ![choose zoom effect tiktok](https://images.wondershare.com/filmora/article-images/2022/07/choose-zoom-effect-tiktok.jpg)
 
 * You can drag the marker of the timeline to set the beginning of the effect on your video. Then press the zoom effect and release it where you want the zoom effect to end.
 * Then save the video and the effect will be applied successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. How to face zoom TikTok
 
@@ -69,14 +90,14 @@ And if you are new to this platform, you can follow these steps to use this face
 
 ![activitate face zoom effect](https://images.wondershare.com/filmora/article-images/2022/07/activitate-face-zoom-effect.jpg)
 
-* Alternatively, you can also go to the effects page and the search bar and then type "Face Zoom" on the text box, followed by a search click to find the TikTok facezoom filter more easily.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+* Alternatively, you can also go to the effects page and the search bar and then type "Face Zoom" on the text box, followed by a search click to find the TikTok facezoom filter more easily.
 
 ## The Bottom Line
 
@@ -112,5 +133,16 @@ TikTok has become more than just a social media platform and these days almost e
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-expertise-in-making-screen-captures-on-ios-easier-for-2024/"><u>[New] Expertise in Making Screen Captures on iOS Easier for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximize-gameplay-efficiency-with-top-monitor-extensions/"><u>2024 Approved Maximize Gameplay Efficiency With Top Monitor Extensions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-tiktok-videos-efficient-techniques-for-numerical-edits/"><u>2024 Approved Perfecting TikTok Videos Efficient Techniques for Numerical Edits</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capture-share-enjoy/"><u>Capture, Share, Enjoy</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-your-mobile-photography-with-targeted-blurs/"><u>In 2024, Perfect Your Mobile Photography with Targeted Blurs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tailoring-melodies-for-youtube-personalized-list-creation/"><u>In 2024, Tailoring Melodies for YouTube Personalized List Creation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/precision-photography-dampening-disarray-for-2024/"><u>Precision Photography Dampening Disarray for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-guide-to-instant-uninstalling-via-windows-shortcuts/"><u>The Guide to Instant Uninstalling via Windows Shortcuts</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y100? | Dr.fone</u></a></li>
+</ul></div>
 

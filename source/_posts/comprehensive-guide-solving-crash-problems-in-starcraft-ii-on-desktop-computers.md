@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Solving Crash Problems in StarCraft II on Desktop Computers"
-date: 2024-09-12T18:06:06.476Z
-updated: 2024-09-19T18:34:25.238Z
+date: 2024-09-25T18:16:55.473Z
+updated: 2024-09-27T19:27:00.021Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b329730
 2. Under the**Processes** tab, look for the processes that are CPU, memory, and network-hogging. Take Chrome here, for example, right-click it then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this doesn’t solve your problem, try the next fix.
 
 ## Fix 2: Update your graphics driver
@@ -75,20 +82,27 @@ If this doesn’t solve your problem, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If your game still crashes after you updated the graphics driver, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify your game files
 
@@ -123,21 +137,7 @@ If this doesn’t solve your problem, try the next fix.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Increase the virtual memory on your PC
 
@@ -150,23 +150,16 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
 3. Go to the**Advanced** tab, under the Performance section, click**Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
@@ -207,6 +200,13 @@ If your game still crashes, try the next fix.
 
 If this doesn’t solve your problem, try the last fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 7: Perform a clean boot
 
  A clean boot will start your PC with the minimum sets of drivers and services that Windows requires to run.
@@ -234,9 +234,25 @@ If this doesn’t solve your problem, try the last fix.
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch the game. If it once again won’t crash, then you know that one of the services you ticked above is conflicting with it. If it_does_ crash, then the above five services are fine, and you’ll have to keep looking for the offending service.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat steps 2 and 3 above until you find the service that conflicts with Naraka: Bladepoint.  
 
  NOTE: We recommend testing five items in a group since it’s more efficient, but you’re welcome to do it at your own pace.
@@ -255,6 +271,13 @@ If this doesn’t solve your problem, try the last fix.
 
  Known compatibility issues from Sonic studio virtual mixer driver have been found, per the developer, and the current workaround is to disable this device. If you want to check if you have this device or want to disable it, go to**Sound Settings >> Manage sound devices** . If you have Sonic studio virtual mixer, you’ll be able to see it there and disable it if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-09-03_11-07-51.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -277,5 +300,20 @@ If this doesn’t solve your problem, try the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-enhance-video-quality-by-cutting-out-background-sounds-for-2024/"><u>[New] Enhance Video Quality by Cutting Out Background Sounds for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-integrating-b-roll-effectively-without-distraction/"><u>[New] Integrating B Roll Effectively Without Distraction</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cultivating-an-audience-naturally-youtubes-way-for-2024/"><u>[Updated] Cultivating an Audience Naturally - YouTube's Way for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-introduce-movement-variance-to-pixels-in-ps/"><u>[Updated] In 2024, Introduce Movement Variance to Pixels in PS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-fixes-for-color-balancing-in-ps/"><u>[Updated] Quick Fixes for Color Balancing in PS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-uploading-and-showcasing-videos-on-instagram-made-easy/"><u>[Updated] Uploading and Showcasing Videos on Instagram Made Easy</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-metaverse-odyssey-a-list-of-sci-fi-films-taking-you-beyond-earth/"><u>2024 Approved Metaverse Odyssey A List of Sci-Fi Films Taking You Beyond Earth</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-pitched-lines-writing-natural-conversations/"><u>2024 Approved Perfecting Pitched Lines Writing Natural Conversations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photography-editing-tips-for-making-stunning-photos/"><u>2024 Approved Photography Editing Tips for Making Stunning Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-scrutinizing-the-premier-collection-of-affordable-lut-files/"><u>2024 Approved Scrutinizing the Premier Collection of Affordable LUT Files</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-create-engaging-facebook-covers/"><u>In 2024, Create Engaging Facebook Covers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-14-5-ways-to-get-into-a-locked-apple-iphone-14-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 14? 5 Ways to get into a Locked Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/synthetic-adventures-starts-here-top-vr-tools-10/"><u>Synthetic Adventures Starts Here Top VR Tools (10)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender"
-date: 2024-09-13T20:07:55.849Z
-updated: 2024-09-19T17:23:43.740Z
+date: 2024-09-26T17:17:04.398Z
+updated: 2024-09-27T16:04:22.754Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender"
@@ -38,6 +38,13 @@ Lifewire / Erika Rawes
 [View On Amazon $199](https://www.amazon.com/dp/B07P3FGKYD?tag=lifewire-onsite-prod-20&ascsubtag=4942498%7Cn31dea18fa28a4d9a88e5e3a62470a49720%7CB07P3FGKYD) [View On Adorama.com $450](https://www.adorama.com/nerax120100n.html?utm%5Fsource=google&utm%5Fmedium=organic&utm%5Fcampaign=organicshopping&utm%5Fsource=adl-gbase-hometech) [View On B&H Photo Video $399](https://www.bhphotovideo.com/c/product/1469206-REG/netgear%5Frax120%5Fnighthawk%5Fax12%5F12%5Fstream%5Fwifi.html)
 
 4.2
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Netgear Nighthawk RAX120 12-Stream AX6000 Wi-Fi 6 Router
 
@@ -79,25 +86,11 @@ Lifewire / Erika Rawes
 
 Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup: Quick and easy**
 
  The Netgear Nighthawk app walks you through the setup process. There’s a QR code sticker on the router, as well as a temporary network name and password on the label, which allow you to connect quickly and easily.
 
  The app guides you through creating separate 2.4 and 5GHz networks, but you can also take advantage of a feature called smart connect, which combines your networks and designates your devices based on optimal performance. You can create a guest network, as well as manage and monitor your devices individually. The initial setup process took me about ten minutes in total.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Connectivity: Superfast speeds**
 
@@ -108,13 +101,6 @@ Lifewire / Erika Rawes
  The RAX120 has four Gigabit Ethernet ports on the back (two of which can be combined to support a larger file transfer rate of 2 GB) and a multigig Ethernet port that supports speeds up to 5 gigs. I was impressed overall with the location and specifications of the ports, but I would have liked to see more Ethernet ports on a router this expensive.
 
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/y2V4Ncx3Z1ul8B-4lsc_IeiyCRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_04-9e452ddedd2b4a46893fddd147c06d4f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -131,16 +117,10 @@ Lifewire / Erika Rawes
  The RAX120 is backward compatible with 802.11a/b/g/n/ac as well, so it’ll work with virtually all of your devices, Wi-Fi 6 or not.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Key Features: Quality hardware, lacks antivirus**
@@ -161,11 +141,32 @@ Lifewire / Erika Rawes
 
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/MPwp1LtMC7Ua30t8VnJy7bjuqn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_02-94fbae95ca5d4851a1cf40b197da4161.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Expensive**
 
  The Netgear Nighthawk RAX120 12-Stream AX6000 Wi-Fi 6 Router will cost you a pretty penny—it sells for $400, which is $100 lower than its original retail price of $500\. But it’s still on the higher end of the price spectrum, especially considering it doesn’t include any sort of mesh points, and you only get the router, power supply, and an Ethernet cable.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Netgear Nighthawk RAX120 vs. TP-Link Archer AX6000**
 
@@ -213,5 +214,21 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-behind-the-curtain-exclusive-review-of-apeaksofts-tech-advancements/"><u>[New] 2024 Approved Behind the Curtain Exclusive Review of Apeaksoft's Tech Advancements</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-rescue-absent-watch-thumbnail-icon/"><u>[New] 2024 Approved Rescue Absent Watch Thumbnail Icon</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-step-by-step-crafting-youtube-content-in-sony-vegas/"><u>[New] 2024 Approved Step-by-Step Crafting YouTube Content in Sony Vegas</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-onlineoffline-animation-revolution-with-zero-price-tag/"><u>[New] Online/Offline Animation Revolution with Zero Price Tag</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-propel-your-brand-with-a-10-step-blueprint-for-top-smm-performance/"><u>[Updated] Propel Your Brand with a 10-Step Blueprint for Top SMM Performance</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-x50iplus-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor X50i+ to PC? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-aqtime-media-center-diverse-audio-video-options/"><u>In 2024, Aqtime Media Center Diverse Audio, Video Options</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-finding-and-exploring-your-own-music-selection-zone-on-youtube/"><u>In 2024, Finding and Exploring Your Own Music Selection Zone on Youtube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-iphone-image-conversion-from-jpgpng-to-pdf/"><u>In 2024, Master iPhone Image Conversion From JPG/PNG to PDF</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-picks-recommended-spots-for-procuring-snapchat-chime-for-2024/"><u>Premium Picks Recommended Spots for Procuring Snapchat Chime for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/srt-power-play-transforming-macwindows-experience-for-2024/"><u>SRT Power Play Transforming Mac/Windows Experience for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unleashing-joy-with-the-budget-friendly-syma-s111g-rc-helicopter-an-in-depth-assessment/"><u>Unleashing Joy with the Budget-Friendly Syma S111G RC Helicopter: An In-Depth Assessment</u></a></li>
+<li><a href="https://fox-info.techidaily.com/zooming-up-triad-of-effective-video-enhancement-practices/"><u>Zooming Up Triad of Effective Video Enhancement Practices</u></a></li>
+</ul></div>
 

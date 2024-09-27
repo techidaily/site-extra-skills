@@ -1,7 +1,7 @@
 ---
 title: "\"Reinvigorating Windows Photo Viewer in W10  Procedures #1 & #2 for 2024\""
-date: 2024-09-13T17:55:23.776Z
-updated: 2024-09-19T22:30:55.298Z
+date: 2024-09-20T21:00:34.975Z
+updated: 2024-09-27T21:13:31.115Z
 tags: 
   - screen-recording
   - ai video
@@ -65,6 +65,13 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
@@ -83,16 +90,16 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -100,13 +107,26 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -122,5 +142,18 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-perfecting-pro-photography-iphones-best-light-tactics/"><u>[New] Perfecting Pro Photography IPhone's Best Light Tactics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-spectacular-gratis-switch-gaming-tools/"><u>[Updated] 2024 Approved Spectacular Gratis Switch Gaming Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-privacy-unveil-faces-less-clearly/"><u>2024 Approved Master Privacy Unveil Faces Less Clearly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Phone FRP Lock</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-reach-in-telegram-a-marketers-playbook/"><u>In 2024, Maximize Reach in Telegram A Marketer's Playbook</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-navigating-the-path-to-accessing-fb-status-video-footage/"><u>In 2024, Navigating the Path to Accessing FB Status Video Footage</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-pace-champions-2022-edition/"><u>In 2024, Quick Pace Champions 2022 Edition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-11-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Realme 11 Pro Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-the-iphone-13-waterproof/"><u>Is the iPhone 13 Waterproof?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-experts-on-aspers-asmr-for-better-sleep-for-2024/"><u>Leading Experts on Asper's ASMR for Better Sleep for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-picture-driven-journey-maker-for-2024/"><u>Premier Picture-Driven Journey Maker for 2024</u></a></li>
+</ul></div>
 

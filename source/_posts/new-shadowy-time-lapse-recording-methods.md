@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shadowy Time-Lapse Recording Methods\""
-date: 2024-09-12T17:55:23.852Z
-updated: 2024-09-14T04:24:44.948Z
+date: 2024-09-20T19:31:33.860Z
+updated: 2024-09-27T19:07:34.152Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,13 @@ Phantom cameras are the newest type of camera on the market that can capture slo
 
 One of the most popular ways to use a phantom slow-motion camera is to capture beautiful slow-motion footage of nature. This can be done by setting up the camera in a location where there is a lot of natural movement. The camera will then capture the movement in slow motion, allowing you to see the beauty of the movement that would otherwise be missed.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to create a time-lapse video on a phantom slow-motion camera
 
 A phantom slow-motion camera is a special type of camera that can be used to create time-lapse videos. Time-lapse videos are created by taking a series of photos or videos over a while and then playing them back at a faster speed. This gives the appearance of time moving faster or slower than it is. To create a time-lapse video using a phantom slow-motion camera, you will need the following:
@@ -98,11 +105,25 @@ You can easily install Filmora for free, after installing click on it three opti
 
 ![open filmora and create a new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2 Add some media to edit
 
 After creating a new project, there is an option to add media you can your the video which you want to edit.
 
 ![add media to library on filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-media-to-library-on-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3 Drop the media to timeline
 
@@ -110,44 +131,17 @@ Drag and drop your videos on the timeline to start the editing. Once you placed 
 
 ![drag media into timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/drag-media-into-timeline-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step4 Add titles, effects, and transitions to your video
 
 Filmora provides several titles, effects, and transitions. You can add them according to your needs. If you want to make a time-lapse video then you can copy your video and paste it on the end of the first video, so that you can make a time-lapse video. But if you add the dissolve transition between them then your video will become so smooth.
 
 ![add title and effects to video filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-title-and-effects-to-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step5 Export to your desktop
 
 When you want to save your video or share it on social media just click on the export button. It will provide you with different features like you can export your video on a desktop or where ever you want. You can export it in HD form.
 
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -177,6 +171,13 @@ The camera will then capture the movement in slow motion, allowing you to see th
 
 ![shoot video with phantom camera](https://images.wondershare.com/filmora/article-images/2022/11/shoot-video-with-phantom-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Why do we need a phantom slow-motion camera?
 
 There are many reasons why someone might want or need to use a phantom slow-motion camera. For example, law enforcement officials can use them to capture footage of high-speed car chases or accidents. Scientists can use them to study fast-moving objects or phenomena. And sports enthusiasts can use them to study the movements of athletes and improve their performance.
@@ -184,13 +185,6 @@ There are many reasons why someone might want or need to use a phantom slow-moti
 Phantom cameras are the newest type of camera on the market that can capture slow-motion footage at an incredibly high speed. These cameras can record up to 2.5 million frames per second, which is significantly higher than any other type of camera. No matter what the reason, phantom slow-motion cameras are an essential tool for anyone who needs to capture fast-moving objects.
 
 One of the most popular ways to use a phantom slow-motion camera is to capture beautiful slow-motion footage of nature. This can be done by setting up the camera in a location where there is a lot of natural movement. The camera will then capture the movement in slow motion, allowing you to see the beauty of the movement that would otherwise be missed.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to create a time-lapse video on a phantom slow-motion camera
 
@@ -204,6 +198,13 @@ A phantom slow-motion camera is a special type of camera that can be used to cre
 Once you have all of the necessary equipment, you will need to set up your camera on the tripod and position it in the desired location. Then, you will need to set the camera to record in slow motion. Once the camera is recording, you will need to use the remote shutter release to take a picture every few seconds.
 
 Depending on the length of the video you want to create, you may need to take thousands of pictures. Once you have all of the pictures, you will need to use a time-lapse video editing software to put them all together.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to edit time-lapse video on a computer
 
@@ -235,19 +236,6 @@ You can easily install Filmora for free, after installing click on it three opti
 
 ![open filmora and create a new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2 Add some media to edit
 
 After creating a new project, there is an option to add media you can your the video which you want to edit.
@@ -260,24 +248,31 @@ Drag and drop your videos on the timeline to start the editing. Once you placed 
 
 ![drag media into timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/drag-media-into-timeline-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4 Add titles, effects, and transitions to your video
 
 Filmora provides several titles, effects, and transitions. You can add them according to your needs. If you want to make a time-lapse video then you can copy your video and paste it on the end of the first video, so that you can make a time-lapse video. But if you add the dissolve transition between them then your video will become so smooth.
 
 ![add title and effects to video filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-title-and-effects-to-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step5 Export to your desktop
 
 When you want to save your video or share it on social media just click on the export button. It will provide you with different features like you can export your video on a desktop or where ever you want. You can export it in HD form.
 
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -311,5 +306,19 @@ As filmmakers and video lovers, we have come up with some solid examples of time
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-transforming-tweetstream-into-hd-visionary-content/"><u>[New] 2024 Approved Transforming Tweetstream Into HD Visionary Content</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-optimize-your-content-searchability-with-these-7-top-tier-youtube-tags-extractor-tools/"><u>[New] In 2024, Optimize Your Content Searchability with These 7 Top-Tier Youtube Tags Extractor Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-podcast-prominence-with-powerful-seo-insights-and-strategies/"><u>[New] Podcast Prominence with Powerful SEO Insights and Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-error-code-0x80073cf9-in-windows-11-store/"><u>[Solved] Error Code 0X80073cf9 in Windows 11 Store</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-live-streaming-software-vs-hardware-which-is-better/"><u>[Updated] Live Streaming Software Vs Hardware Which Is Better</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-natures-canvas-your-ultimate-guide-to-free-screen-template-downloads/"><u>[Updated] Nature's Canvas Your Ultimate Guide to Free Screen Template Downloads</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-sky-high-broadcasting-your-first-steps-in-youtube-live-via-obs/"><u>[Updated] Sky-High Broadcasting Your First Steps in Youtube Live via OBS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-textual-transformations-the-photographers-guide-to-image-edits/"><u>2024 Approved Textual Transformations The Photographer's Guide to Image Edits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-crashing-file-explorer-on-windows-11-now/"><u>Fix Crashing File Explorer on Windows 11 Now</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-poco-x5-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Poco X5 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-outstanding-storytelling-on-screen/"><u>In 2024, Outstanding Storytelling on Screen</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revolutionary-mohu-blade-television-dongle-assessed-stylish-appearance-and-solid-interior-signal-quality/"><u>Revolutionary Mohu Blade Television Dongle Assessed: Stylish Appearance and Solid Interior Signal Quality</u></a></li>
+</ul></div>
 

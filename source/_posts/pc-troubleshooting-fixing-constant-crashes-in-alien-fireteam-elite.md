@@ -1,7 +1,7 @@
 ---
 title: "PC Troubleshooting: Fixing Constant Crashes in Alien: Fireteam Elite"
-date: 2024-09-15T17:42:55.978Z
-updated: 2024-09-19T17:43:20.894Z
+date: 2024-09-23T18:16:11.932Z
+updated: 2024-09-27T20:34:30.272Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: End the Epic Games Launcher process in Task Manager
 
  Make sure the Epic Games launcher is not running in the background. If it is, when you double-click its shortcut on your desktop, it won’t launch. So you need to end the processes related to Epic Games Launcher in Task Manager first. Here’s how to do it:
@@ -58,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1048.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See if you can launch the program. If so, you should delete its shortcut on your desktop and create a new one. If it still won’t launch, don’t worry. Try the next fix, below.
 
 ---
@@ -70,9 +84,23 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the**Scale and layout** section, make sure it is set to**100%** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher again to see if this issue reappears.
 
@@ -92,6 +120,13 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1071.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; **it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund** , no questions asked.
@@ -105,13 +140,6 @@ _You can do it for free if you like, but it’s partly manual._
  The Pro version of Driver Easy comes with full technical support.  
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Change Epic Games Launcher Properties
 
  Some players reported that this issue can be fixed by changing the properties of Epic Games Launcher. Here’s how to do it:
@@ -121,10 +149,10 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
@@ -141,13 +169,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
 
  This issue may also be triggered by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Epic Games Launcher.
@@ -159,13 +180,6 @@ _You can do it for free if you like, but it’s partly manual._
  See if you can open Epic Games Launcher. If not, try the next fix below to repair the program in the Control Panel.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Repair Epic Games Launcher
 
@@ -193,16 +207,16 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Restart your computer.
 
@@ -230,5 +244,26 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-keep-your-shorts-viewer-friendly-fixing-image-absence/"><u>[New] 2024 Approved Keep Your Shorts Viewer-Friendly Fixing Image Absence</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-pioneering-metaverse-brand-presence/"><u>[New] 2024 Approved Pioneering Metaverse Brand Presence</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-perfection-an-essential-guide-to-hdr-imaging/"><u>[New] Crafting Perfection An Essential Guide to HDR Imaging</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-discovering-the-best-soil-sprouts-of-valheim-for-2024/"><u>[New] Discovering the Best Soil Sprouts of Valheim for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-get-started-with-streamlabs-on-mac-using-obs-instantly/"><u>[New] In 2024, Get Started with Streamlabs on Mac Using OBS Instantly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-steadicams-to-elevate-uav-video-production-quality/"><u>[New] Prime Steadicams to Elevate UAV Video Production Quality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-to-add-personalized-soundfilters-on-windows-photos/"><u>[New] Step-by-Step Guide to Add Personalized Sound/Filters on Windows Photos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-androids-best-shot-fixer-duo/"><u>[Updated] In 2024, Android's Best Shot Fixer Duo</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-essential-methods-streaming-audio-recording-made-easy-online/"><u>[Updated] In 2024, Essential Methods Streaming Audio Recording Made Easy Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quantity-of-videos-on-128gb-storage-media/"><u>[Updated] Quantity of Videos on 128GB Storage Media</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-quick-steps-to-record-movies-on-your-tech-devices/"><u>[Updated] Quick Steps to Record Movies on Your Tech Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-secrets-to-amassing-affordable-artistic-elements/"><u>[Updated] Secrets to Amassing Affordable Artistic Elements</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-speedy-skimmer-of-windows-imagery/"><u>[Updated] Speedy Skimmer of Windows Imagery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quantifying-a-days-video-consumption-in-gb/"><u>2024 Approved Quantifying a Day's Video Consumption in GB</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-backdrop-be-gone-guide-for-images/"><u>2024 Approved Step-by-Step Backdrop Be Gone Guide for Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-from-viral-tiktok-to-custom-phone-ringtones/"><u>2024 Approved Step-by-Step From Viral TikTok to Custom Phone Ringtones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-landscape-intricacies-of-using-the-background-eraser-feature-for-2024/"><u>Navigating the Landscape Intricacies of Using the Background Eraser Feature for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/pilots-toolkit-top-drones-must-have-gear-and-replacements-for-2024/"><u>Pilot's Toolkit Top Drones Must-Have Gear and Replacements for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/secure-vimeo-to-local-downloaders-for-2024/"><u>Secure Vimeo to Local Downloaders for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: How to Resolve 'Google Hangouts Mic' Issues"
-date: 2024-09-12T20:53:05.122Z
-updated: 2024-09-19T18:22:11.132Z
+date: 2024-09-20T20:42:42.440Z
+updated: 2024-09-27T17:23:21.810Z
 tags:
   - win11
   - win10
@@ -31,19 +31,33 @@ Click on it to turn it to ![](https://images.drivereasy.com/wp-content/uploads/2
 
 Sometimes, a simple restart can solve a lot computer woes. When you find your microphone stops working on Hangouts, you can also give the simple restart a shot. 1) Restart your computer from the Start menu. 2) Call the person on Hangouts again to see if he can hear you.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Update your microphone and other related driver
 
 Your microphone not working issue can be probably caused by an old, corrupted or missing driver. Besides, if your microphone is connected with a USB cable, the USB controller driver also takes an effect on your microphone function. So you can update your microphone driver and other related, like USB controller driver, sound card driver, to try to solve the problem. To update your device driver, you can go to its manufacturer’s website to download the latest driver and install the new driver on your computer or, if you’re not confident with playing around with drivers manually, let **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** help you do it automatically. Driver Easy will automatically recognize your system and find the correct drivers for it. The drivers supplied by Driver Easy are all from the official manufacturer’s website, so you can totally trust it. 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy. 2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1672bcbc0a7.jpg)3) If you try the Free version, click **Update** next to any flagged driver to automatically download and install the correct version of this driver. Or if you use the Pro version, click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system.(and you get full support and a 30-day money back guarantee)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17c23a6c56a.jpg)
 
 4) Restart your computer and call the person on Hangouts again to see if he can hear you.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Close other programs those might use your microphone
@@ -51,10 +65,10 @@ Your microphone not working issue can be probably caused by an old, corrupted or
  If there are some other programs running on your computer when you’re on Google Hangouts, the other programs might be using your microphone, too. As a result, your microphone doesn’t function on Hangouts. So, please stop all the other programs that might use your microphone, then check to see if the person can hear you on Hangouts.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How if you can’t hear other people speaking?
@@ -76,5 +90,24 @@ If you can’t hear the other person on Hangouts call, ask the person to trouble
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-youtube-thumbnail-mastery-size-and-ratio-tactics/"><u>[New] 2024 Approved Youtube Thumbnail Mastery Size & Ratio Tactics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mobile-photography-mastering-dynamic-look-ups/"><u>[New] Mobile Photography Mastering Dynamic Look-Ups</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-adding-clear-timestamps-to-your-youtube-channels-live-streams-for-2024/"><u>[Updated] Adding Clear Timestamps to Your YouTube Channel's Live Streams for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieving-top-quality-on-youtube-video-enhancement-fundamentals/"><u>[Updated] In 2024, Achieving Top Quality on YouTube Video Enhancement Fundamentals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-nights-tale-videos-critical-take/"><u>[Updated] Night's Tale Videos Critical Take</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-novices-companion-to-av1-technology/"><u>[Updated] Novice’s Companion to AV1 Technology</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-saving-pc-views-with-a-single-click-win/"><u>[Updated] Saving PC Views with a Single Click (Win)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sculpting-soundscapes-the-fading-trick/"><u>[Updated] Sculpting Soundscapes The Fading Trick</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-snowflakes-splendor-beijings-winter-wonder/"><u>[Updated] Snowflakes Splendor Beijing's Winter Wonder</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-headsets-for-next-gen-drone-pilots/"><u>2024 Approved Premium Headsets for Next-Gen Drone Pilots</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-s17e-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo S17e PC | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/bridge-gaps-between-tech-worlds-stream-and-save-youtube-from-various-devices/"><u>Bridge Gaps Between Tech Worlds Stream and Save YouTube From Various Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-7-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 7 Passcode not Working?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-gionee-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Gionee Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-camera-savvy-image-optimization-secrets-for-2024/"><u>IPhone Camera Savvy Image Optimization Secrets for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-x-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone X in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/kinetic-illustration-101-core-skills-and-concepts-for-2024/"><u>Kinetic Illustration 101 Core Skills & Concepts for 2024</u></a></li>
+</ul></div>
 

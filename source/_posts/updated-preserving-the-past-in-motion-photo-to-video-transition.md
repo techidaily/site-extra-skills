@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Preserving the Past in Motion  Photo to Video Transition\""
-date: 2024-09-13T18:27:51.211Z
-updated: 2024-09-20T02:30:43.965Z
+date: 2024-09-24T18:27:14.330Z
+updated: 2024-09-27T19:11:32.659Z
 tags: 
   - screen-recording
   - ai video
@@ -64,6 +64,13 @@ Some popular photo scanners that you can consider using are Scanner Pro, PhotoSc
 
 In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Convert Old Photos into a Video Effortlessly?
 
 By now, you would be able to digitize photos and have a soft copy of your old photographs. Apart from that, a lot of people would also like to make a video collage of their favorite pictures as well. If you have old pictures of a loved one and a special occasion is coming, then a video collage of their photos would be one of the best gifts.
@@ -86,6 +93,13 @@ To start with, you can just launch Filmora on your system and import your photos
 
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2\. Create a timeline for your photos
 
 Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
@@ -105,6 +119,13 @@ The edit option will present tons of additional features that you can implement 
 As stated above, you can find a wide range of video editing options to explore in Fimora. On top of the interface, you can switch between audio, transition, effects, titles, and other options. You can just go to any feature here (like effects) to apply it to the video.
 
 ![Add Effects to Digitized Photos](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
@@ -154,6 +175,13 @@ There you go! I’m sure that after reading this guide, you would be able to dig
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -167,12 +195,16 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-laughter-logic-kapwings-humor-engine/"><u>[New] Laughter Logic Kapwing's Humor Engine</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-skating-stories-from-sochi-2022/"><u>[New] Skating Stories From Sochi 2022</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-creating-ootd-masterpieces-for-tiktok-with-macos/"><u>[Updated] 2024 Approved Creating OOTD Masterpieces for TikTok with MacOS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-selective-sharpening-tips-for-modern-image-editors/"><u>[Updated] Selective Sharpening Tips for Modern Image Editors</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-craft-engaging-yt-titles-in-a-flash/"><u>2024 Approved Craft Engaging YT Titles in a Flash</u></a></li>
+<li><a href="https://win-able.techidaily.com/guilty-gear-strives-latency-dilemma-addressed-and-fixed/"><u>Guilty Gear Strive's Latency Dilemma Addressed & Fixed!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastery-levels-of-quantum-hdr-applications-for-2024/"><u>Mastery Levels of Quantum HDR Applications for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reverse-screen-misalignment-in-windows-10-fix/"><u>Reverse Screen Misalignment in Windows 10 [Fix]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-your-streaming-woes-top-19-fixes-for-netflix-troubles-on-lg-televisions/"><u>Solving Your Streaming Woes: Top 19 Fixes for Netflix Troubles on LG Televisions</u></a></li>
+</ul></div>
 

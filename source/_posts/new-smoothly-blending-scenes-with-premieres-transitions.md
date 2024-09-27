@@ -1,7 +1,7 @@
 ---
 title: "[New] Smoothly Blending Scenes with Premiere's Transitions"
-date: 2024-09-07T07:44:23.556Z
-updated: 2024-09-13T19:46:45.043Z
+date: 2024-09-24T20:56:21.583Z
+updated: 2024-09-27T19:16:58.652Z
 tags: 
   - screen-recording
   - ai video
@@ -43,19 +43,6 @@ In Premiere, the fade that dilutes the audio volume fluctuations between clips i
 
 It is used to gradually reduce audio for the first clip at start, then swiftly when the transition comes to a close. It works by gradually speeding up at the conclusion of the transition before gradually reducing the audio for your initial clip. This crossfades raises audio in the second clip swiftly at initially and then more gradually at the conclusion of the transition.
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Exponential Fade
 
 This crossfade operates in an exponential manner, beginning slowly before accelerating till the conclusion of the clip, giving the impression of a moving curve. An audio transition known as an exponential fade begins off slowly before gradually lowering or raising the level until it is finished. It works well for sequences with dialogue switches or for the conclusion. Without the abrupt flip, it provides a considerably shorter fade out that ends fast yet gracefully. Perfect for switching scenes with various atmospheres or for conversation.
@@ -80,30 +67,31 @@ Select a crossfade effect by expanding the audio transition folder in the Effect
 
 ![open the transition effects](https://images.wondershare.com/filmora/article-images/2022/07/audio-transitions-premiere.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4 Choose the Fade Type
 
 To assign your audio file to the Audio track if you're starting from scratch, just drag it into the timeline in Premiere Pro. Drag your audio file downward to make room in the audio track of your sequence if you're currently working on a project. If you want to adjust the audio speed, double-click the fade type.
 
 ![choose the fade type](https://images.wondershare.com/filmora/article-images/2022/07/add-audio-transitions-premiere.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step5 Select Duration and Save Effect
 
 You may now shorten or lengthen the time that your audio fades in or out. You may accomplish this by simply clicking the transition's start or finish and dragging it to lengthen or shorten it. In the pop-up box that displays, enter the duration for the fade, then click "OK."
 
 ![select duration and save effect](https://images.wondershare.com/filmora/article-images/2022/07/set-transition-duration-premiere.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Alternative way to add audio transitions in videos
 
@@ -137,6 +125,13 @@ We focus on how you would use the editing feature on your audio that was divided
 
 ![make the audio transitions](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In this main step, you’ll get to know the transitioning technique with the Filmora. To use, follow these instructions in the audio editor, which has just appeared on the right side of the program screen. You can simply create the audio transitions without any hassles by going to the Volume area of the audio editor from there and modifying the volume of the audio track that you had separated for this reason.
 
 ##### Step4 Export and Share the File
@@ -144,10 +139,10 @@ In this main step, you’ll get to know the transitioning technique with the Fil
 The exporting procedure may now be completed in the last step with just a few clicks from the program interface by selecting the Export button in the top-right corner of your software screen as shown below:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -160,16 +155,16 @@ In a nutshell, it's important to use the right program to customize the fade in/
 
 Let's briefly take a look at the most popular audio transitions in Premiere Pro before going through the step-by-step tutorial on making an audio fade out. The audio fade is essentially a visual transition. Crossfading describes the audible transition between two audio samples on the same track. The terms "fade-in" and "fade-out" refer to the two different kinds of crossfade transitions, and Premiere Pro offers its customers three different crossfade effects: constant gain, constant power, and exponential fade. Following are some specifics:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Constant Gain
 
 When switching between scenes, audio is constantly increased or decreased. The audio frequently sounds abrupt during this crossfade. Constant gain crossfade is a kind of audio transition where the audio is consistently increased or decreased as you switch between clips. Additionally, it lacks the exponential fade's smoothness. Don't ignore it however; it does have its uses. You'll probably use this sparingly.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Constant Power
 
@@ -177,16 +172,16 @@ In Premiere, the fade that dilutes the audio volume fluctuations between clips i
 
 It is used to gradually reduce audio for the first clip at start, then swiftly when the transition comes to a close. It works by gradually speeding up at the conclusion of the transition before gradually reducing the audio for your initial clip. This crossfades raises audio in the second clip swiftly at initially and then more gradually at the conclusion of the transition.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Exponential Fade
 
 This crossfade operates in an exponential manner, beginning slowly before accelerating till the conclusion of the clip, giving the impression of a moving curve. An audio transition known as an exponential fade begins off slowly before gradually lowering or raising the level until it is finished. It works well for sequences with dialogue switches or for the conclusion. Without the abrupt flip, it provides a considerably shorter fade out that ends fast yet gracefully. Perfect for switching scenes with various atmospheres or for conversation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. How to Crossfade Audio in Premiere Pro
 
@@ -208,13 +203,6 @@ Select a crossfade effect by expanding the audio transition folder in the Effect
 
 ![open the transition effects](https://images.wondershare.com/filmora/article-images/2022/07/audio-transitions-premiere.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step4 Choose the Fade Type
 
 To assign your audio file to the Audio track if you're starting from scratch, just drag it into the timeline in Premiere Pro. Drag your audio file downward to make room in the audio track of your sequence if you're currently working on a project. If you want to adjust the audio speed, double-click the fade type.
@@ -226,6 +214,26 @@ To assign your audio file to the Audio track if you're starting from scratch, ju
 You may now shorten or lengthen the time that your audio fades in or out. You may accomplish this by simply clicking the transition's start or finish and dragging it to lengthen or shorten it. In the pop-up box that displays, enter the duration for the fade, then click "OK."
 
 ![select duration and save effect](https://images.wondershare.com/filmora/article-images/2022/07/set-transition-duration-premiere.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Alternative way to add audio transitions in videos
 
@@ -264,13 +272,6 @@ In this main step, you’ll get to know the transitioning technique with the Fil
 ##### Step4 Export and Share the File
 
 The exporting procedure may now be completed in the last step with just a few clicks from the program interface by selecting the Export button in the top-right corner of your software screen as shown below:
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -298,5 +299,20 @@ In a nutshell, it's important to use the right program to customize the fade in/
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-professional-secrets-to-flawless-photo-cropping-online/"><u>[New] Professional Secrets to Flawless Photo Cropping Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sculpting-soundscapes-the-fading-trick/"><u>[New] Sculpting Soundscapes The Fading Trick</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-instagram-share-of-todays-thought-provoking-talk/"><u>[Updated] 2024 Approved Instagram Share of Today's Thought-Provoking Talk</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-auditory-ambiance-music-in-instagrams-visual-narratives-for-2024/"><u>[Updated] Auditory Ambiance Music in Instagram's Visual Narratives for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-selecting-premium-microphones-for-ultra-hd-videography/"><u>[Updated] In 2024, Selecting Premium Microphones for Ultra-HD Videography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lifecam-videoapp-quality-checkup/"><u>2024 Approved LifeCam VideoApp Quality Checkup</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-protocols-and-performance-macos-meets-mixer/"><u>In 2024, Protocols and Performance MacOS Meets Mixer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-complexities-of-color-correction-using-luts/"><u>Navigating the Complexities of Color Correction Using LUTs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/picture-fusion-at-your-desktop-online-for-2024/"><u>Picture Fusion at Your Desktop, Online for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/step-by-step-garageband-tutorial-for-podcast-creation-for-2024/"><u>Step-by-Step GarageBand Tutorial for Podcast Creation for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-when-mozilla-thunderbird-wont-launch/"><u>Troubleshooting Steps When Mozilla Thunderbird Won't Launch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-data-your-rules-identifying-3-key-bot-safety-concerns/"><u>Your Data, Your Rules: Identifying 3 Key Bot Safety Concerns</u></a></li>
+</ul></div>
 
