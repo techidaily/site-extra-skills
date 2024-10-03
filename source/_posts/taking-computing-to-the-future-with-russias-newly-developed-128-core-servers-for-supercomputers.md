@@ -1,7 +1,7 @@
 ---
 title: Taking Computing to the Future with Russia's Newly Developed 128-Core Servers for Supercomputers
-date: 2024-09-25T18:46:40.565Z
-updated: 2024-09-27T16:09:02.240Z
+date: 2024-09-25T20:52:41.260Z
+updated: 2024-10-03T00:32:12.854Z
 tags:
   - desktop
 categories:
@@ -46,29 +46,29 @@ Pick up a powerful new gaming or productivity desktop from Lenovo with a tasty d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-a-closer-look-at-earnings-comparing-dailymotion-and-youtube-revenues/"><u>[New] 2024 Approved A Closer Look at Earnings Comparing Dailymotion and YouTube Revenues</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-step-by-step-approach-to-mastering-free-youtube-video-transcription/"><u>[New] 2024 Approved A Step-by-Step Approach to Mastering Free YouTube Video Transcription</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-high-stakes-gopro-matchup-hero5b-and-hero5-session-edition-for-2024/"><u>[New] High-Stakes GoPro Matchup Hero5B & Hero5 Session Edition for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-understanding-tseries-financial-gain-in-youtube-space/"><u>[New] In 2024, Understanding TSeries' Financial Gain in YouTube Space</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-vlc-key-mac-functions-explained/"><u>[New] Mastering VLC Key Mac Functions Explained</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-one-step-trick-stellar-instagram-collage-design/"><u>[New] One-Step Trick Stellar Instagram Collage Design</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-luminous-landscapes-designing-visuals-that-dazzle-viewers/"><u>[Updated] Luminous Landscapes Designing Visuals that Dazzle Viewers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-tips-and-tricks-to-avoid-photo-crashes-on-windows-11/"><u>[Updated] Tips & Tricks to Avoid Photo Crashes on Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-your-potential-full-guide-to-powerdirectors-2024-edition/"><u>[Updated] Unleash Your Potential Full Guide to PowerDirector's 2024 Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-luminous-transitions-crafting-dynamic-colors/"><u>2024 Approved Luminous Transitions Crafting Dynamic Colors</u></a></li>
-<li><a href="https://win-latest.techidaily.com/avoid-these-common-mistakes-in-streamlining-windows-systems-zdnets-expert-advice/"><u>Avoid These Common Mistakes in Streamlining Windows Systems | ZDNet's Expert Advice</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-quick-start-guide-making-your-gifs-count-as-emoji-stickers-in-telegram/"><u>In 2024, Quick-Start Guide Making Your GIFS Count as Emoji Stickers in Telegram</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-quintessential-writing-across-the-movie-matrix/"><u>In 2024, Quintessential Writing Across the Movie Matrix</u></a></li>
-<li><a href="https://techidaily.com/is-your-oppo-k11-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo K11 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/lenslift-critique-essence-for-2024/"><u>LensLift Critique Essence for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/step-into-3d-designing-layered-textured-texts-psx-for-2024/"><u>Step Into 3D Designing Layered, Textured Texts PSX for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-15-plus-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 15 Plus Location | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-immortalizing-the-epic-sagas-of-pc-gaming-6-pro-tips/"><u>[New] 2024 Approved Immortalizing the Epic Sagas of PC Gaming 6 Pro Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-insight-into-imovies-border-adjustments/"><u>[New] Insight Into iMovie's Border Adjustments</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterful-modulation-how-to-switch-up-your-characters-speech-in-free-fire/"><u>[New] Masterful Modulation How to Switch Up Your Character's Speech in Free Fire</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quick-guide-retrieving-past-reddit-threads-instantly/"><u>[New] Quick Guide Retrieving Past Reddit Threads Instantly</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-ig-coverage-toolkit-apple-and-android-included/"><u>[New] The Ultimate IG Coverage Toolkit, Apple & Android Included</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-global-youtube-rich-list-pinnacle/"><u>[Updated] Global YouTube Rich List Pinnacle</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-disseminating-tweeted-videos-on-the-worlds-biggest-social-site/"><u>[Updated] In 2024, Disseminating Tweeted Videos on the World's Biggest Social Site</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-melodic-matrices-crafting-top-tracks-to-initiate-your-podcasts/"><u>[Updated] Melodic Matrices Crafting Top Tracks to Initiate Your Podcasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pixel-perfect-video-modifier/"><u>[Updated] Pixel-Perfect Video Modifier</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-finest-9-cross-platform-video-conferencing-apps-for-iphonestablets/"><u>[Updated] The Finest 9 Cross-Platform Video Conferencing Apps for iPhones/Tablets</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-obtain-free-licensed-tunes-for-your-games/"><u>2024 Approved How to Obtain Free, Licensed Tunes for Your Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-secure-visuals-shaking-off-disruptions/"><u>2024 Approved Secure Visuals Shaking Off Disruptions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-correcting-the-frustrating-livekernelevent-144-fault/"><u>Expert Tips for Correcting the Frustrating 'LiveKernelEvent 144' Fault</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/instagrams-picture-perfect-upload-techniques-unveiled-for-2024/"><u>Instagram's Picture Perfect Upload Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-viral-meme-creation-techniques-for-2024/"><u>Mastering Viral Meme Creation Techniques for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-free-techniques-to-address-failed-audio-playback-errors/"><u>Trouble-Free Techniques to Address Failed Audio Playback Errors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ling-tseries-youtube-revenue-strategy/"><u>Unveiling TSeries' YouTube Revenue Strategy</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Guide to Diagnosing and Correcting 'Unknown' Speaker Setup on Windows 11 Systems
-date: 2024-09-26T19:16:26.588Z
-updated: 2024-09-27T21:32:03.104Z
+date: 2024-10-02T02:16:31.402Z
+updated: 2024-10-02T21:35:02.450Z
 tags:
   - win11
   - win10
@@ -61,13 +61,6 @@ Read on and follow the easy-doing images below!
 
  If your computer sound still keeps cutting out, please move on to the next option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Option 2: Change Sound Enhancement Settings
 
  The audio enhancements feature could interfere with the sound output, and therefore cause problems like sound keeping cutting out. To see if this is your case:
@@ -75,27 +68,36 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -105,13 +107,6 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
@@ -119,6 +114,13 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -143,20 +145,24 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-iron-out-instability-in-iphone-videography-effortlessly/"><u>[New] Iron Out Instability in iPhone Videography Effortlessly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-simplified-ways-for-altering-clowns-windows-voice/"><u>[New] Simplified Ways for Altering Clowns' Windows Voice</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-snappy-narratives-on-the-social-scene-for-2024/"><u>[New] Snappy Narratives on the Social Scene for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-experts-picks-the-best-10-photography-lenses/"><u>[Updated] Expert's Picks The Best 10 Photography Lenses</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-high-engagement-stories-filters-list/"><u>[Updated] High-Engagement Stories Filters List</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pazera-unleashed-a-deep-dive-into-audio-extractor-reviews-of-2024/"><u>[Updated] Pazera Unleashed A Deep Dive Into Audio Extractor Reviews of 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-professional-growth-with-efficient-google-meet-design-tweaks/"><u>[Updated] Professional Growth with Efficient Google Meet Design Tweaks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-reviewing-changes-in-the-sony-s6500-blu-ray-system/"><u>[Updated] Reviewing Changes in the Sony S6500 Blu-Ray System</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-a-complete-guide-to-understanding-and-utilizing-slug-lines/"><u>2024 Approved A Complete Guide to Understanding and Utilizing Slug Lines</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-simplify-information-storage-via-mematic/"><u>2024 Approved Simplify Information Storage via Mematic</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/webm-gif/"><u>高画質での WebM ビデオから GIFへの効果的な変換手順！</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhancing-mp4-quality-and-stability/"><u>Enhancing MP4 Quality and Stability</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sound-innovation-at-hand-dive-into-free-easy-voice-overhaul-tools/"><u>In 2024, Sound Innovation at Hand Dive Into Free, Easy Voice Overhaul Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/stepwise-guide-switch-between-normal-and-pip-views-in-youtube-app-for-2024/"><u>Stepwise Guide Switch Between Normal and PIP Views in YouTube App for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-innovators-behind-vr-spectacles/"><u>[New] Innovators Behind VR Spectacles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-rank-the-top-free-tools-convert-srt-files-efficiently/"><u>[New] Rank the Top Free Tools Convert Srt Files Efficiently</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-streamlining-workflow-efficient-tools-for-screencast-creation/"><u>[Updated] 2024 Approved Streamlining Workflow Efficient Tools for Screencast Creation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-detailed-razer-kiyo-webcam-insights/"><u>[Updated] Detailed Razer Kiyo Webcam Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-how-to-prepare-your-room-and-vr-ready-pc-for-oculus-rift/"><u>[Updated] How to Prepare Your Room and VR-Ready PC for Oculus Rift</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-add-filters-to-video-pc-and-mobile/"><u>[Updated] In 2024, Add Filters to Video [PC & Mobile]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smart-snip-skills-advanced-tips-for-iphone-photo-cropping/"><u>[Updated] Smart Snip Skills Advanced Tips for iPhone Photo Cropping</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-stable-shooting-ideal-gimbals-and-handhelds-reviewed/"><u>[Updated] Stable Shooting Ideal Gimbals & Handhelds Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-start-making-money-today-top-13-easy-methods-for-newbies/"><u>[Updated] Start Making Money Today! Top 13 Easy Methods for Newbies</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-12ipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone 12/iPad/iPod</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-ways-to-tackle-fall-guys-game-crashes-during-startup-sequence/"><u>Effective Ways to Tackle Fall Guys Game Crashes During Startup Sequence</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-reno-8t-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Oppo Reno 8T 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-y78t-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo Y78t to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-xiaomi-redmi-note-12-proplus-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Xiaomi Redmi Note 12 Pro+ 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-outlook-orders-analysis/"><u>In 2024, Outlook Orders Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pixel-perfect-video-modifier-for-2024/"><u>Pixel-Perfect Video Modifier for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-psd-visual-enhancements-for-2024/"><u>Prime PSD Visual Enhancements for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-the-best-british-series-available-on-netflix-today/"><u>Top Picks: The Best British Series Available on Netflix Today</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-microsofts-recall-capability-advanced-tech-beyond-artificial-intelligence-requirements/"><u>Understanding Microsoft's 'Recall' Capability – Advanced Tech Beyond Artificial Intelligence Requirements</u></a></li>
 </ul></div>
 

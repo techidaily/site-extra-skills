@@ -1,7 +1,7 @@
 ---
 title: "2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC"
-date: 2024-09-24T16:53:02.042Z
-updated: 2024-09-27T21:14:42.814Z
+date: 2024-10-01T20:38:36.597Z
+updated: 2024-10-02T17:58:25.387Z
 categories:
   - BestProducts
 description: "This Article Describes 2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC"
@@ -39,23 +39,9 @@ Lifewire / Yoona Wagener
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Amazon Halo
 
 ![Amazon Halo](https://www.lifewire.com/thmb/3Kfyp4XgBEtCuXPHAVw99RFqQs8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_HeroSquare-2e5c3941b8fe49afbd7464f382164976.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -95,6 +81,13 @@ Lifewire / Yoona Wagener
 
 Lifewire / Yoona Wagener
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Comfort: Streamlined but not immune to typical fit issues
 
  While the easy-adjusting Velcro strap is a welcome departure from the typical notch-and-clasp closure on most fitness trackers, adjusting the fit or removing the device wasn’t as smooth as I’d expected it to be. The end of the strap is finished with hardware that prevents the strap from coming completely undone from the loop. The band also includes a series of five strong Velcro strips/notches that serve as sizing adjusters. This construction helps prevent accidental drops when taking the band on/off, which is never a bad thing. On the other hand, though, the Velcro strips are so sturdy that they restricted quick adjustments and made removing the band less swift overall.
@@ -105,6 +98,19 @@ Lifewire / Yoona Wagener
 
  As for water resistance, I didn’t test the 50-meter swimproof rating of the Halo in a pool, but I did shower with the device for three days. Despite the band’s moisture-wicking band material, it remained damp far longer than was comfortable and compared to a fast-drying silicone band. If you’re an avid swimmer or prefer not to remove your wearable while showering, the sport band option will most likely be the more desirable option.
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Performance: Constantly monitoring movement, not performance
 
  While this streamlined device doesn’t log detailed workout metrics, the Halo has the upper hand when it comes to continuously monitoring movement—and sedentary stints throughout the day. Whether you’re sitting at a desk or venture out for an errand, the Halo will capture that and pretty accurately categorize it. It consistently registered walking and running activities, though the readout wasn’t very accurate for the latter. Truthfully, I don’t get the impression that that’s the point of the Halo.
@@ -114,10 +120,10 @@ Lifewire / Yoona Wagener
 ![Amazon Halo](https://www.lifewire.com/thmb/FjdFyV6Y4mTXNsqccZ4aEBJNpV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_05-e671ee9f77cc4cee8e2580a2dba449d5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener.
@@ -129,13 +135,6 @@ Lifewire / Yoona Wagener
  All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the cloud, which Amazon assures is private and well secured.
 
  The body fat scan is based on pictures uploaded to the app—and based on prompts from the app. While it felt invasive and isn’t a feature I’d seek out in a fitness tracker, it worked without issue. Amazon reports that this technology is twice as accurate as smart scales. For the right user who feels comfortable with this kind of data compilation, this feature also offers visualizations of how different body fat percentages would look on your frame and stores your scans for a look at trends over time. All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the[cloud](https://www.lifewire.com/what-is-cloud-computing-817770) , which Amazon assures is private and well secured.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Software: An essential and user-friendly mobile app
 
@@ -174,10 +173,10 @@ Lifewire / Yoona Wagener
  The Amazon Halo isn’t for everyone with its lack of display and additional layers of data tracking to capture tone of voice and body fat percentage. But for the user that wants a little less hardware but more forward-thinking fitness/health tracking, this unique wearable offers a different approach to increasing activity and wellness awareness on a daily basis.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -185,6 +184,13 @@ Lifewire / Yoona Wagener
 * [Apple Watch Series 5](https://www.lifewire.com/apple-watch-series-6-review-5087552)
 * [Fitbit Sense](https://www.lifewire.com/fitbit-sense-review-5085832)
 * [Ticwatch Pro](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -217,22 +223,18 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-leading-5-drones-the-ultimate-professional-buy-guide/"><u>[New] Leading 5 Drones - The Ultimate Professional Buy Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-speaking-with-flair-empowering-vocal-expression-with-no-cost-software/"><u>[New] Speaking with Flair Empowering Vocal Expression with No-Cost Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-screenshotsweeperpro-next-gen-bg-removal-tool/"><u>[Updated] ScreenshotSweeperPro Next-Gen BG Removal Tool</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-soundwave-startups-curating-melodies-for-your-podcast-opener/"><u>[Updated] Soundwave Startups Curating Melodies for Your Podcast Opener</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-the-synergy-of-visuals-and-voiceovers-in-videos/"><u>2024 Approved Perfecting the Synergy of Visuals and Voiceovers in Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-ps4-live-recording-made-simple-with-obs-tutorial/"><u>2024 Approved PS4 Live Recording Made Simple with OBS Tutorial</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortlessly-update-acer-network-card-software-no-cost-download-options/"><u>Effortlessly Update Acer Network Card Software | No Cost Download Options</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-8-plus-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 8 Plus? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-how-to-use-green-screen-in-kinemaster/"><u>In 2024, How To Use Green Screen In KineMaster</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-nokia-g310-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Nokia G310 Data? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-inside-the-score-understanding-aspect-ratios-for-video-success/"><u>In 2024, Inside The Score Understanding ASPECT RATIOS for Video Success</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/novice-necessities-for-superior-gopro-photography-for-2024/"><u>Novice Necessities for Superior GoPro Photography for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premier-cloud-storage-guide-for-enterprises/"><u>Premier Cloud Storage Guide for Enterprises</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prodigious-plotlines-in-audio-playwriting-for-2024/"><u>Prodigious Plotlines in Audio Playwriting for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-restoring-healthy-file-integrity-for-windows-11-systems/"><u>Step-by-Step Tutorial: Restoring Healthy File Integrity for Windows 11 Systems</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/44ot44oh44kq44gu5y6f55s76loq44ks5a6i44kk44gq44gm44kj44cb54m55yil57eo6zug5oqa6kgt44gn5a6m55kn44gr5asj5oplusbisatioeplusjuoblplusobleockus4goobpos4iuobkuocipl77/"><u>ビデオの原画質を守りながら、特別編集技術で完璧に変換! - 美しさを一つ上げる小トリック</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-top-5-factors-to-master-when-using-tiktok-web-mac/"><u>[New] In 2024, Top 5 Factors to Master When Using TikTok Web (Mac)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-transform-your-snaps-with-smart-zoom-usage-in-snapchat/"><u>[New] In 2024, Transform Your Snaps with Smart Zoom Usage in Snapchat</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-turn-your-vlogs-into-tunes-with-an-insta-mp3-conversion-hack/"><u>[New] In 2024, Turn Your Vlogs Into Tunes with an Insta-Mp3 Conversion Hack</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-avi-to-gif-conversion-windows-and-mac-edition-using-filmora/"><u>[New] Mastering AVI-to-GIF Conversion Windows & Mac Edition Using Filmora</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-crossfades-a-premiere-pro-guide/"><u>[New] Mastering Crossfades A Premiere Pro Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mememolding-cutter/"><u>[New] MemeMolding Cutter</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-accelerated-approaches-to-transferring-iphone-files-to-computer-for-2024/"><u>[Updated] Accelerated Approaches to Transferring iPhone Files to Computer for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-igtv-strategies-for-uploading-horizontal-videos/"><u>2024 Approved Mastering IGTV Strategies for Uploading Horizontal Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/all-inclusive-kodi-handbook-expert-strategies-for-optimizing-and-personalizing-your-viewing-pleasure/"><u>All-Inclusive Kodi Handbook: Expert Strategies for Optimizing and Personalizing Your Viewing Pleasure</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-note-30-vip-racing-edition-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-layering-yt-music-with-visual-expressions/"><u>In 2024, Layering YT Music with Visual Expressions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-lights-in-the-land-of-vr-entertainment-for-2024/"><u>Leading Lights in the Land of VR Entertainment for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor Magic 6 Lite | Dr.fone</u></a></li>
 </ul></div>
 

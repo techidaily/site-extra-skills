@@ -1,7 +1,7 @@
 ---
 title: Kodi Can't Connect? Here's How to Fix Failed Directory Information Retrieval
-date: 2024-09-20T20:14:35.014Z
-updated: 2024-09-27T16:36:27.831Z
+date: 2024-09-29T19:28:52.219Z
+updated: 2024-10-02T19:26:17.366Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ Amazon Prime provides thousands of great series and movies which you can enjoy a
 * [Disable your VPN and third-party apps](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Reboot the browser
@@ -89,36 +89,42 @@ OR
 
 **IMPORTANT** : Be extra careful in using the Internet after uninstalling/disabling your antivirus software.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fixes for Amazon prime video not working on Smart TV
 
 * [Reboot your devices/apps](https://tools.techidaily.com/drivereasy/download/)
 * [Resign-in to the app](https://tools.techidaily.com/drivereasy/download/)
 * [Check your HDMI cable](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reboot your devices/apps
 
  Make sure your Amazon Prime video account is paid and active. You can go to[your account page](https://www.amazon.com/ap/signin?%5Fencoding=UTF8&accountStatusPolicy=P1&clientContext=135-4224850-9503066&openid.assoc%5Fhandle=usflex&openid.claimed%5Fid=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.mode=checkid%5Fsetup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max%5Fauth%5Fage=0&openid.return%5Fto=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fsettings%2Fref%3Ddv%5Fweb%5Fauth%5Fno%5Fre%5Fsig%3Fie%3DUTF8%26tag%3Dbisafetynet2-20) to check. Check your app version, update it to the latest version.  
  Then close the Prime video app and restart it, if it doesn’t work, reboot your smart TV. Rebooting is always the first and effective method to try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Resign-in to the app
 
  Sign out and sign back into the app sounds stupid, but it works for many people. You can select Settings on your TV and sign out.
 
 Close the app, reopen, then enter your credentials to sign back in.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure you have the right HDMI cable
 
@@ -128,24 +134,18 @@ If the cable is the culprit, you may need to purchase a new cable.
 
 [](https://images.drivereasy.com/wp-content/uploads/2020/08/61SDW7VbneL._AC_SL1500_-1200x950.jpg) ](https://www.amazon.com/AmazonBasics-High-Speed-HDMI-Cable-2-Pack/dp/B014I8SX4Y/ref=sr%5F1%5F4?dchild=1&keywords=hdmi&qid=1597731890&sr=8-4&tag=drivereasycom-20)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fixes for Amazon prime video not working on smartphone
 
 * [Restart the Amazon Prime](https://tools.techidaily.com/drivereasy/download/)
 * [Check your internet connection](https://tools.techidaily.com/drivereasy/download/)
 * [Reinstall the app](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Restart the Amazon Prime
 
@@ -153,10 +153,10 @@ If the cable is the culprit, you may need to purchase a new cable.
  Then close the Prime video app and restart it. Rebooting is always the first and effective method to try.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check your internet connection
@@ -188,22 +188,24 @@ If the cable is the culprit, you may need to purchase a new cable.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2023s-amazonprimetrending-top-tweets-that-stood-out/"><u>[New] 2023'S #AmazonPrimeTrending - Top Tweets That Stood Out</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-master-control-over-instagrams-post-proposals/"><u>[New] In 2024, Master Control Over Instagram's Post Proposals</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-optimizing-viewers-engagement-through-youtube-music-use-in-videos/"><u>[New] Optimizing Viewers' Engagement Through YouTube Music Use in Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-record-breaking-reddit-threads-ranked-1-10/"><u>[New] Record-Breaking Reddit Threads Ranked 1-10</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-clear-out-instructions-for-disabling-an-old-linkedin-profile/"><u>[New] The Clear-Out Instructions for Disabling an Old LinkedIn Profile</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-stream-instagram-and-youtube-a-step-by-step-guide/"><u>[Updated] Stream Instagram & YouTube A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-optimize-your-avis-quick-conversion-to-gif-on-windows-and-macos-via-filmora-app/"><u>2024 Approved Optimize Your AVIs Quick Conversion to GIF on Windows & macOS via Filmora App</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pricing-strategies-for-youtube-video-promotions/"><u>2024 Approved Pricing Strategies for YouTube Video Promotions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-chromebook-zoom-usage-techniques/"><u>2024 Approved Pro Chromebook Zoom Usage Techniques</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/engaging-audience-from-anywhere-phone-based-filming-techniques-for-2024/"><u>Engaging Audience From Anywhere Phone-Based Filming Techniques for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-smart-8-plus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Smart 8 Plus to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-shades-core-methods-for-photos/"><u>In 2024, Mastering Shades Core Methods for PHOTOS</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-oppo-a79-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo A79 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-ai-interaction-7-key-insights-for-crafting-winning-prompts/"><u>Mastering AI Interaction: 7 Key Insights for Crafting Winning Prompts</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-make-an-impact-with-these-top-10-intro-makers-for-pc-for-2024/"><u>New Make an Impact with These Top 10 Intro Makers for PC for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/seamless-shoot-and-capture-with-tracker-tech-for-2024/"><u>Seamless Shoot-and-Capture with Tracker Tech for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/spark-ar-visual-upgrades-the-role-of-downloadable-luts-in-development-for-2024/"><u>Spark AR Visual Upgrades The Role of Downloadable LUTs in Development for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-engage-your-audience-launching-instagram-lives/"><u>[New] 2024 Approved Engage Your Audience Launching Instagram Lives</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-innovative-blueprint-top-6-futuristic-mc-villas/"><u>[New] 2024 Approved Innovative Blueprint Top 6 Futuristic MC Villas</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-laugh-out-loud-with-these-viral-snapchat-emojis-for-2024/"><u>[New] Laugh Out Loud with These Viral Snapchat Emojis for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-say-goodbye-to-excess-master-the-art-of-editing-tiktok-drafters/"><u>[New] Say Goodbye to Excess Master the Art of Editing TikTok Drafters</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-skype-capture-methods-seamless-transition-between-oses/"><u>[Updated] 2024 Approved Skype Capture Methods Seamless Transition Between OSes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-joining-independent-iphone-videos-with-ease/"><u>[Updated] Joining Independent iPhone Videos with Ease</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-m1-magic-cutting-edge-video-edits-for-ultra-smooth-results/"><u>[Updated] M1 Magic Cutting-Edge Video Edits for Ultra-Smooth Results</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photographic-fundamentals-in-5-minutes-with-snapseed/"><u>[Updated] Photographic Fundamentals in 5 Minutes with Snapseed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-playlist-passport-traveling-tunes-throughout-platforms/"><u>[Updated] Playlist Passport Traveling Tunes Throughout Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-closer-look-at-the-metaverse-6-deep-dive-examples-reviewed/"><u>2024 Approved A Closer Look at the Metaverse 6 Deep-Dive Examples Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instantly-personalize-your-phones-from-tiktok-sounds-to-ringtones/"><u>2024 Approved Instantly Personalize Your Phones From TikTok Sounds to Ringtones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lightroom-hdr-tutorial-how-to-create-and-merge-stunning-hdr-images-in-lightroom/"><u>2024 Approved Lightroom HDR Tutorial How to Create and Merge Stunning HDR Images in Lightroom</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-movavi-plus-unveiled-the-latest-edition/"><u>2024 Approved Movavi Plus Unveiled – The Latest Edition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-popping-on-your-pc-lets-resolve-it-together-a-complete-walkthrough-for-windows-users/"><u>Audio Popping on Your PC? Let's Resolve It Together - A Complete Walkthrough for Windows Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-y28-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo Y28 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instantly-optimize-iphone-videos-in-size-and-duration/"><u>In 2024, Instantly Optimize iPhone Videos in Size and Duration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-open-source-templates-galore-boosting-your-biz-presentations/"><u>In 2024, Open Source Templates Galore Boosting Your Biz Presentations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-launching-windows-ea-quickly/"><u>The Ultimate Guide to Launching Windows EA Quickly</u></a></li>
 </ul></div>
 

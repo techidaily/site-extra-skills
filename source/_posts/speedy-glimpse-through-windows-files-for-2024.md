@@ -1,7 +1,7 @@
 ---
 title: "Speedy Glimpse Through Windows Files for 2024"
-date: 2024-09-23T19:55:13.023Z
-updated: 2024-09-27T21:17:39.193Z
+date: 2024-09-28T02:09:55.286Z
+updated: 2024-10-02T22:18:06.520Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,13 @@ Step3 After successfully installing QuickLook, head to File Explorer and select 
 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Get the App on GitHub
 
 If you can’t find QuickLook on Microsoft Store for one reason or another, download the program from GitHub. It’s an open-source community where millions of software developers converge to distribute and share their work. Here, you can download and install multiple desktop programs and plugins for free. However, you must be a registered member to contribute any content.
@@ -50,22 +57,15 @@ Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and
 
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
@@ -73,10 +73,10 @@ Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://g
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
@@ -106,10 +106,10 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -146,22 +146,17 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-transforming-view-counts-with-strategic-video-tagging-techniques/"><u>[New] 2024 Approved Transforming View Counts with Strategic Video Tagging Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-maximizing-value-from-youtube-comment-threads/"><u>[New] Maximizing Value From YouTube Comment Threads</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-proven-strategies-for-powerful-customer-success-stories-on-screen/"><u>[New] Proven Strategies for Powerful Customer Success Stories on Screen</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-full-assessment-of-the-android-based-photo-editor-lightroom/"><u>2024 Approved A Full Assessment of the Android-Based Photo Editor, Lightroom</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-m1-pro-and-m1-max-exploring-their-significant-differences/"><u>2024 Approved M1 Pro & M1 Max Exploring Their Significant Differences</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-ranking-the-leading-free-srt-translators-online/"><u>2024 Approved Ranking the Leading Free SRT Translators Online</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/declassification-alert-the-formidable-evga-amd-board-x670e-unveiled-priced-to-impress-at-1k-and-beyond/"><u>Declassification Alert! The Formidable EVGA AMD Board (X670E) Unveiled - Priced to Impress at 1K and Beyond</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-narzo-60x-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Narzo 60x 5G?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-xs-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone XS Max Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-13-ultra-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi 13 Ultra Location by Number | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-memories-in-motion-a-step-by-step-guide-for-digital-conversion/"><u>In 2024, Memories in Motion A Step-by-Step Guide for Digital Conversion</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-spin-up-original-web-memes-instantly/"><u>In 2024, Spin Up Original Web Memes Instantly</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-15-pro-max-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 15 Pro Max Properly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/palette-strategies-utilizing-color-science-in-art-for-2024/"><u>Palette Strategies Utilizing Color Science in Art for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pinpointing-the-premier-hdr-cameras-for-photography-for-2024/"><u>Pinpointing the Premier HDR Cameras for Photography for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-essential-steps-to-effectively-utilize-google-gemini/"><u>The Essential Steps to Effectively Utilize Google Gemini</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-how-to-implement-google-meets-grid-view-feature/"><u>[New] 2024 Approved How to Implement Google Meet's Grid View Feature</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-how-to-use-inshot-for-laptoppc-and-alternatives-video-editor/"><u>[New] How to Use Inshot for Laptop/PC and Alternatives Video Editor</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-spark-the-visionary-youtubes-top-video-themes/"><u>[New] In 2024, Spark the Visionary YouTube's Top Video Themes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-livestream-perfection-selecting-your-go-to-platform/"><u>[New] Livestream Perfection Selecting Your Go-To Platform</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-understanding-du-recorder-through-this-guide-for-2024/"><u>[New] Understanding Du Recorder Through This Guide for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-efficiently-traverse-youtubes-votes-and-reaction-space/"><u>[Updated] In 2024, Efficiently Traverse YouTube’s Votes and Reaction Space</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-integrating-azure-transcription-in-your-apps/"><u>[Updated] Integrating Azure Transcription in Your Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862796251-gamers-dream-deal-capture-every-detail-with-the-incredible-gigabyte-gs3gs32qhttpswwwgigabytecomusmonitorplus-plusgraphics-32-qhd-monitor-at-199/"><u>Gamer's Dream Deal – Capture Every Detail with the Incredible Gigabyte GS3^[GS32Q](https://www.gigabyte.com/us/Monitor+-+Graphics) 32'' QHD Monitor at $199!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-joke-jugglers-androids-in-the-dead-zone/"><u>In 2024, Joke Jugglers Androids in the Dead Zone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pictorial-insight-mastery-of-vsco-tools/"><u>Pictorial Insight Mastery of VSCO Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-videos-into-tiktok-format-for-seamless-uploads/"><u>Step-by-Step Guide: Converting Videos Into TikTok Format for Seamless Uploads</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unlock-epic-video-with-gopro-time-lapse-strategies-for-2024/"><u>Unlock Epic Video with GoPro Time Lapse Strategies for 2024</u></a></li>
 </ul></div>
 

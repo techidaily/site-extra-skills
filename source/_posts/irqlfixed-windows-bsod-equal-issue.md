@@ -1,7 +1,7 @@
 ---
 title: "[IRQL_FIXED] Windows BSOD - Equal Issue"
-date: 2024-09-23T17:00:47.912Z
-updated: 2024-09-27T18:14:33.749Z
+date: 2024-10-01T01:37:47.622Z
+updated: 2024-10-02T23:40:50.267Z
 tags:
   - win11
   - win10
@@ -62,20 +62,27 @@ Following steps are for your reference on how to uninstall a driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13fde1d72b1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In Device Manager, locate the faulty driver. If the driver is having problems, you’ll see a yellow mark next to the device name. Then right-click on the device name (For example, uninstall graphics card driver.) and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13fe52a4642.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) If prompted to confirm  the uninstall, check the box next to “Delete the driver software for this device.” then click the **OK**  button. If you don’t see this box, just click**OK** to uninstall the driver.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13feb35a43d.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Restart your PC and check to see if the blue screen is gone  .  
 
@@ -95,21 +102,7 @@ Following steps are for your reference on how to uninstall a driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a14004645d52.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Reboot your PC and check to see if the blue screen is gone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Solution** 4: Reset or reinstall Windows
 
@@ -122,17 +115,24 @@ Following steps are for your reference on how to uninstall a driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -159,20 +159,24 @@ Following steps are for your reference on how to uninstall a driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-elevate-youtube-content-advanced-editing-using-wm-maker-for-2024/"><u>[New] Elevate YouTube Content Advanced Editing Using WM Maker for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-leapfrogging-past-the-journey-to-windows-11/"><u>[New] Leapfrogging Past The Journey to Windows 11</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-comedic-edge-how-to-create-viral-video-memes-for-modern-audiences-for-2024/"><u>[New] The Comedic Edge How to Create Viral Video Memes for Modern Audiences for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-professional-fixes-enhance-dull-iphone-hdri-expert-tips-for-premiere-pro-users/"><u>[Updated] [Professional Fixes] Enhance Dull iPhone HDRI Expert Tips for Premiere Pro Users</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mythos-mazes-decades-best-adventure-games/"><u>[Updated] 2024 Approved Mythos Mazes Decade’s Best Adventure Games</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-elevate-your-online-presence-making-exceptional-facebook-reels/"><u>[Updated] Elevate Your Online Presence Making Exceptional Facebook Reels</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-10-must-try-microphones-for-exceptional-asmr-sounds/"><u>[Updated] In 2024, 10 Must-Try Microphones for Exceptional ASMR Sounds</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-smart-choice-selecting-the-top-5-webcams-for-clear-audio/"><u>[Updated] In 2024, Smart Choice Selecting the Top 5 Webcams for Clear Audio</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-level-clarity-top-8k-cameras-for-the-ultimate-picture/"><u>2024 Approved Pro-Level Clarity Top 8K Cameras for the Ultimate Picture</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-nubia-red-magic-8s-proplus-unlock-without-password-by-drfone-android/"><u>5 Solutions For Nubia Red Magic 8S Pro+ Unlock Without Password</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/from-one-to-many-how-to-split-a-single-video-into-multiple-clips-in-windows-live-movie-maker-for-2024/"><u>From One to Many How to Split a Single Video Into Multiple Clips in Windows Live Movie Maker for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-leaders-of-the-digital-age-videoaudio-innovators-index/"><u>In 2024, Leaders of the Digital Age Video/Audio Innovators Index</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pictorial-synthesis-pro-online-blender-deluxe/"><u>In 2024, Pictorial Synthesis Pro Online Blender Deluxe</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/stellarworkspace-unified-elite-full-hd-screens-for-2024/"><u>StellarWorkspace Unified, Elite Full HD Screens for 2024</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-10-best-online-photo-background-changers-filmora/"><u>[New] 10 Best Online Photo Background Changers - Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-tips-embedding-moving-images-in-written-content/"><u>[New] 2024 Approved Free Tips Embedding Moving Images in Written Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elite-tech-selection-the-15-finest-cameras/"><u>[New] Elite Tech Selection – The 15 Finest Cameras</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-beginners-bonanza-affordable-profitable-channel-options/"><u>[Updated] Beginner's Bonanza Affordable, Profitable Channel Options</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-strategies-for-elevating-your-onestream-experience/"><u>[Updated] Innovative Strategies for Elevating Your OneStream Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-journey-through-the-metaverse-6-illustrative-examples/"><u>[Updated] Journey Through the Metaverse 6 Illustrative Examples</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-social-media-metrics-the-igtv-hashtag-connection-for-2024/"><u>[Updated] Mastering Social Media Metrics The IGTV Hashtag Connection for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-peakquality-resizer-cross-platform-edition/"><u>[Updated] PeakQuality Resizer – Cross-Platform Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-collection-of-animated-texts/"><u>[Updated] Premium Collection of Animated Texts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seo-sensation-a-comprehensive-guide-for-podcast-ranking-upliftment/"><u>[Updated] SEO Sensation A Comprehensive Guide for Podcast Ranking Upliftment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-speedy-pc-file-examination-guide/"><u>2024 Approved Speedy PC File Examination Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-benefits-of-tubebuddy-manage-your-youtube-channel-more-easily/"><u>2024 Approved The Benefits of TubeBuddy | Manage Your YouTube Channel More Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722874435427-all-you-need-to-know-about-the-new-google-pixel-tablet-launch-info-and-hardware-details-revealed/"><u>All You Need to Know About The New Google Pixel Tablet - Launch Info and Hardware Details Revealed!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-world-with-words-15-task-filled-podcast-sessions/"><u>In 2024, Navigating the World with Words 15 Task-Filled Podcast Sessions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-nostalgia-reimagined-transforming-your-vintage-photos-into-cutting-edge-videos/"><u>In 2024, Nostalgia Reimagined Transforming Your Vintage Photos Into Cutting-Edge Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leveraging-eco-friendly-visual-effects-revolutionizing-online-video-content-for-2024/"><u>Leveraging Eco-Friendly Visual Effects Revolutionizing Online Video Content for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-aoc-monitor-detection-errors-on-windows-11-pcs/"><u>Overcoming AOC Monitor Detection Errors on Windows 11 PCs</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-security-a-comparative-analysis/"><u>Social Media Security: A Comparative Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/speedy-upgrade-leading-android-video-tuners-for-2024/"><u>Speedy Upgrade Leading Android Video Tuners for 2024</u></a></li>
 </ul></div>
 

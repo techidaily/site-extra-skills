@@ -1,7 +1,7 @@
 ---
 title: "\"Reinvigorating Windows Photo Viewer in W10  Procedures #1 & #2 for 2024\""
-date: 2024-09-20T21:00:34.975Z
-updated: 2024-09-27T21:13:31.115Z
+date: 2024-09-28T01:15:00.758Z
+updated: 2024-10-02T19:05:49.928Z
 tags: 
   - screen-recording
   - ai video
@@ -57,6 +57,13 @@ Here is why they want to restore Windows Photo Viewer –
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1 to restore Windows Photo Viewer
 
 The first method speaks about, when you have upgraded from a Windows 7/8/8.1 computer to Windows 10\. You can easily swing back to your most loved Windows Photo Viewer within no time. Here is the detailed guide –
@@ -64,13 +71,6 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 1**: Go to ‘Settings’ and open ‘Apps’. Click on ‘Default Apps’ and check ‘Photo Viewer’. The default photo viewer will be visible here.
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
@@ -91,10 +91,16 @@ Here is the detailed guide –
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
@@ -108,25 +114,19 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -144,16 +144,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-perfecting-pro-photography-iphones-best-light-tactics/"><u>[New] Perfecting Pro Photography IPhone's Best Light Tactics</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-spectacular-gratis-switch-gaming-tools/"><u>[Updated] 2024 Approved Spectacular Gratis Switch Gaming Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-master-privacy-unveil-faces-less-clearly/"><u>2024 Approved Master Privacy Unveil Faces Less Clearly</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Phone FRP Lock</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-reach-in-telegram-a-marketers-playbook/"><u>In 2024, Maximize Reach in Telegram A Marketer's Playbook</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-navigating-the-path-to-accessing-fb-status-video-footage/"><u>In 2024, Navigating the Path to Accessing FB Status Video Footage</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-quick-pace-champions-2022-edition/"><u>In 2024, Quick Pace Champions 2022 Edition</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-11-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Realme 11 Pro Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-the-iphone-13-waterproof/"><u>Is the iPhone 13 Waterproof?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/leading-experts-on-aspers-asmr-for-better-sleep-for-2024/"><u>Leading Experts on Asper's ASMR for Better Sleep for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premier-picture-driven-journey-maker-for-2024/"><u>Premier Picture-Driven Journey Maker for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-timeless-triumphs-screen-captures-of-samsungs/"><u>[New] 2024 Approved Timeless Triumphs Screen Captures of Samsungs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphone-collage-crafting-made-simple/"><u>[New] IPhone Collage Crafting Made Simple</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-metaverse-mayhem-top-party-games-listed/"><u>[New] Metaverse Mayhem Top Party Games Listed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sonic-storytelling-instagrams-musical-tale-unfolding/"><u>[New] Sonic Storytelling Instagram's Musical Tale Unfolding</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-facetime-call-screen-recording-the-beginners-guide-for-2024/"><u>[Updated] FaceTime Call Screen Recording The Beginner's Guide for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-facebook-ads-transformed-predicting-the-trends-for-next-year/"><u>[Updated] In 2024, Facebook Ads Transformed Predicting the Trends for Next Year</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-dimensions-online-aspect-tweaking/"><u>[Updated] Mastering Dimensions Online Aspect Tweaking</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-photo-framing-best-web-and-app-solutions/"><u>2024 Approved Mastering Photo Framing Best Web and App Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-novice-friendly-approach-to-crafting-nfts-today/"><u>2024 Approved Novice-Friendly Approach to Crafting NFTs Today</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/54867124-2024-approved-supercharge-your-media-download-sounds-for-editing/"><u>2024 Approved Supercharge Your Media Download Sounds for Editing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capture-and-store-screen-content-free-in-2024/"><u>Capture and Store Screen Content, FREE, In 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/elevate-design-15-must-have-plugins-for-after-effects/"><u>Elevate Design 15 Must-Have Plugins for After Effects</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-itel-p55-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Itel P55? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-novel-set-of-pertinent-probing-for-podcast-participants/"><u>In 2024, Novel Set of Pertinent Probing for Podcast Participants</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/instantize-dynamic-images-in-photoshop-for-2024/"><u>Instantize Dynamic Images in Photoshop for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterclass-in-making-panzoids-for-2024/"><u>Masterclass in Making Panzoids for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-selection-your-guide-to-best-tv-streaming-choices-for-2024/"><u>Prime Selection Your Guide to Best TV Streaming Choices for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-implementing-the-battleye-anti-cheating-system-tips-and-fixes/"><u>Successfully Implementing the BattlEye Anti-Cheating System - Tips & Fixes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/whispers-of-wine-and-roses-romantic-italian-banter/"><u>Whispers of Wine & Roses: Romantic Italian Banter</u></a></li>
 </ul></div>
 

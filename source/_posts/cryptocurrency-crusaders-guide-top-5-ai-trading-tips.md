@@ -1,7 +1,7 @@
 ---
 title: "Cryptocurrency Crusaders' Guide: Top 5 AI Trading Tips"
-date: 2024-09-25T20:13:06.251Z
-updated: 2024-09-27T17:07:58.245Z
+date: 2024-09-26T18:44:59.241Z
+updated: 2024-10-02T20:33:32.958Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. openai-pc-pro.online
 
  The experts at CRIL also discovered an unidentified malware strain being distributed through the domain “openai-pc-pro.online,” a malicious domain posing as the official ChatGPT website.
@@ -44,22 +51,15 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. pay.chatgptftw.com
 
@@ -71,16 +71,16 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
@@ -89,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
@@ -132,20 +132,18 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-selfies-on-iphone-try-these-best-free-enhancers/"><u>[New] Mastering Selfies on iPhone? Try These Best Free Enhancers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-sneak-peeks-into-slow-motion-mastery-on-instagram-for-2024/"><u>[New] Sneak Peeks Into Slow-Motion Mastery on Instagram for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-free-photo-footage-via-essential-4-youtube-picks/"><u>[Updated] 2024 Approved Gain Free Photo Footage via Essential 4 YouTube Picks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-macs-finest-choices-for-mkv-file-handling/"><u>2024 Approved Mac's Finest Choices for MKV File Handling</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-visual-experience-top-10-screen-selections-for-mac/"><u>2024 Approved Premier Visual Experience Top 10 Screen Selections for Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-proportion-refinement-from-home/"><u>2024 Approved Seamless Proportion Refinement From Home</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-g2-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratuit-konverteren-van-3gp-naar-mp4-professioneel-online-toolkit-movavi/"><u>Gratuit Konverteren Van 3GP Naar MP4: Professioneel Online-Toolkit Movavi</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-realme-gt-neo-5-se-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Realme GT Neo 5 SE Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premium-lineup-8-prime-5k-display-models/"><u>In 2024, Premium Lineup 8 Prime 5K Display Models</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sculpting-styles-manipulating-text-with-3d/"><u>In 2024, Sculpting Styles Manipulating Text with 3D</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-macs-top-video-editing-software-adobe-premiere-pro-for-pros-for-2024/"><u>New Macs Top Video Editing Software Adobe Premiere Pro for Pros for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prime-insta-tunes-locator-a-guide-to-premium-sound-sets-for-2024/"><u>Prime Insta Tunes Locator A Guide to Premium Sound Sets for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-feature-level-100-issue-in-wwe-2k-battlegrounds-on-direct-x-11/"><u>Resolving the 'Feature Level 10.0' Issue in WWE 2K Battlegrounds on Direct X 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-market-breakthrough-strategy-box-by-box/"><u>[New] Market Breakthrough Strategy Box by Box</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-method-to-record-your-youtube-watching-experience/"><u>[Updated] 2024 Approved Free Method to Record Your YouTube Watching Experience</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-songwriters-journey-top-15-video-tips-for-music-creators/"><u>[Updated] In 2024, The Songwriter's Journey Top 15 Video Tips for Music Creators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-casts-for-google-listeners/"><u>[Updated] Premier Casts for Google Listeners</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-insta-story-magic-embedding-youtube-links-like-a-pro/"><u>2024 Approved Insta Story Magic Embedding YouTube Links Like a Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sierras-icloud-full-desktop-and-document-liberation/"><u>2024 Approved Sierra’s iCloud Full Desktop and Document Liberation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-amd-smbus-drivers-fast-track/"><u>Download and Update AMD SMBus Drivers - Fast Track</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a70-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Itel A70 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-itel-a60s-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-discord-experiencing-an-outage-or-is-there-something-wrong-with-my-internet/"><u>Is Discord Experiencing an Outage, or Is There Something Wrong with My Internet?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/launching-troubleshooting-techniques-for-businesses-at-risk/"><u>Launching Troubleshooting Techniques for Businesses at Risk</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/luminous-leap-quick-brightening-tricks-for-iphone-recordings-for-2024/"><u>Luminous Leap Quick Brightening Tricks for iPhone Recordings for 2024</u></a></li>
 </ul></div>
 
