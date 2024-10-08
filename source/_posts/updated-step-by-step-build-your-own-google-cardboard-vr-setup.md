@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step  Build Your Own Google Cardboard VR Setup\""
-date: 2024-07-31T11:05:54.536Z
-updated: 2024-08-01T11:05:54.536Z
+date: 2024-10-03T03:36:23.092Z
+updated: 2024-10-08T05:55:06.418Z
 tags: 
   - screen-recording
   - ai video
@@ -46,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42
 
  It is recommended to use the right type of cardboard, with the same thickness as that of a durable shoe box. You can use a pizza box, but make sure it offers enough flat surfaced material to work with. Of course, you want something durable, yet slim to work with. In some cases, a couple of additional items might be needed such as ceramic disc magnet, neodymium magnet, some pieces of Velcro, big rubber band and at least 45 mm lenses.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.How to assemble accessories
 
 * Download the compressed [template folder from Google](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/  ).
@@ -62,8 +59,12 @@ thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42
 * If necessary, affix the NFC tag to the cardboard.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Pros and cons of DYI Google cardboard
 
  Using Google cardboard is an excellent choice, since it is…
@@ -81,10 +82,20 @@ thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42
 
  But overall, DIY VR is can offer you one-of-a-kind virtual reality experience you will surely love in a cost-effective way. Have a fun DIY VR headset and see you in the virtual world!
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -128,6 +139,13 @@ Follow @Benjamin Arango
 * Get now a rubber band to avoid sliding out of your smartphone from the Google cardboard.
 * If necessary, affix the NFC tag to the cardboard.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pros and cons of DYI Google cardboard
 
  Using Google cardboard is an excellent choice, since it is…
@@ -145,9 +163,6 @@ Follow @Benjamin Arango
 
  But overall, DIY VR is can offer you one-of-a-kind virtual reality experience you will surely love in a cost-effective way. Have a fun DIY VR headset and see you in the virtual world!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -163,81 +178,11 @@ Follow @Benjamin Arango
  Google cardboard offers an immersive virtual reality experience in a fun, affordable and simple way. You don’t need to spend quite huge amount of money only to have your own Google cardboard. Just recently, Google introduced DIY virtual reality with some basic tools and at the comfort of your own home. So, how do you get started?
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-## Steps for DIY VR
-
- In not more than 3 hours, people were able to construct their own virtual reality viewer. Do you also want to successfully make your own? Here’s what you will need, together with some important tips and tools to properly do it.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-### 1.The accessories you will need
-
-* PDF file of [Google cardboard](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/  )
-* At least two cardboards
-* lenses
-* magnets
-* velcro
-* rubber band
-* Art knife
-* Double-sided adhesive
-* Scissors
-
- It is recommended to use the right type of cardboard, with the same thickness as that of a durable shoe box. You can use a pizza box, but make sure it offers enough flat surfaced material to work with. Of course, you want something durable, yet slim to work with. In some cases, a couple of additional items might be needed such as ceramic disc magnet, neodymium magnet, some pieces of Velcro, big rubber band and at least 45 mm lenses.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
-### 2.How to assemble accessories
-
-* Download the compressed [template folder from Google](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/  ).
-* Print the design files you want.
-* Cut the design and glue it on the cardboard.
-* Assemble the Google cardboard.
-* Set up the 2 lenses.
-* Now is the right time to put neodymium ring magnet and ceramic disk magnet.
-* Set up the 2 strips of regular strength adhesive-backed Velcro.
-* Get now a rubber band to avoid sliding out of your smartphone from the Google cardboard.
-* If necessary, affix the NFC tag to the cardboard.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-## Pros and cons of DYI Google cardboard
-
- Using Google cardboard is an excellent choice, since it is…
-
-* Super cheap
-* Easy to use
-* Offers unequaled fun
-
- However, there are downsides, too, such as:
-
-* Quality not the best
-* Limited functionality
-* The display effect is not good
-* Just a little content
-
- But overall, DIY VR is can offer you one-of-a-kind virtual reality experience you will surely love in a cost-effective way. Have a fun DIY VR headset and see you in the virtual world!
-
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
- Google cardboard offers an immersive virtual reality experience in a fun, affordable and simple way. You don’t need to spend quite huge amount of money only to have your own Google cardboard. Just recently, Google introduced DIY virtual reality with some basic tools and at the comfort of your own home. So, how do you get started?
 
 ## Steps for DIY VR
 
@@ -269,6 +214,13 @@ Follow @Benjamin Arango
 * Get now a rubber band to avoid sliding out of your smartphone from the Google cardboard.
 * If necessary, affix the NFC tag to the cardboard.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pros and cons of DYI Google cardboard
 
  Using Google cardboard is an excellent choice, since it is…
@@ -286,9 +238,87 @@ Follow @Benjamin Arango
 
  But overall, DIY VR is can offer you one-of-a-kind virtual reality experience you will surely love in a cost-effective way. Have a fun DIY VR headset and see you in the virtual world!
 
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+ Google cardboard offers an immersive virtual reality experience in a fun, affordable and simple way. You don’t need to spend quite huge amount of money only to have your own Google cardboard. Just recently, Google introduced DIY virtual reality with some basic tools and at the comfort of your own home. So, how do you get started?
+
+## Steps for DIY VR
+
+ In not more than 3 hours, people were able to construct their own virtual reality viewer. Do you also want to successfully make your own? Here’s what you will need, together with some important tips and tools to properly do it.
+
+### 1.The accessories you will need
+
+* PDF file of [Google cardboard](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/  )
+* At least two cardboards
+* lenses
+* magnets
+* velcro
+* rubber band
+* Art knife
+* Double-sided adhesive
+* Scissors
+
+ It is recommended to use the right type of cardboard, with the same thickness as that of a durable shoe box. You can use a pizza box, but make sure it offers enough flat surfaced material to work with. Of course, you want something durable, yet slim to work with. In some cases, a couple of additional items might be needed such as ceramic disc magnet, neodymium magnet, some pieces of Velcro, big rubber band and at least 45 mm lenses.
+
+### 2.How to assemble accessories
+
+* Download the compressed [template folder from Google](https://vr.google.com/intl/en%5Fus/cardboard/get-cardboard/  ).
+* Print the design files you want.
+* Cut the design and glue it on the cardboard.
+* Assemble the Google cardboard.
+* Set up the 2 lenses.
+* Now is the right time to put neodymium ring magnet and ceramic disk magnet.
+* Set up the 2 strips of regular strength adhesive-backed Velcro.
+* Get now a rubber band to avoid sliding out of your smartphone from the Google cardboard.
+* If necessary, affix the NFC tag to the cardboard.
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Pros and cons of DYI Google cardboard
+
+ Using Google cardboard is an excellent choice, since it is…
+
+* Super cheap
+* Easy to use
+* Offers unequaled fun
+
+ However, there are downsides, too, such as:
+
+* Quality not the best
+* Limited functionality
+* The display effect is not good
+* Just a little content
+
+ But overall, DIY VR is can offer you one-of-a-kind virtual reality experience you will surely love in a cost-effective way. Have a fun DIY VR headset and see you in the virtual world!
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -319,5 +349,22 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-eyesharp-hd-high-definition-chromecasting/"><u>[New] 2024 Approved EyeSharp HD High Definition Chromecasting</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-how-to-perfectly-log-off-video-conferencing-on-devices/"><u>[New] 2024 Approved How to Perfectly Log-Off Video Conferencing on Devices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-making-time-move-backwards-a-step-by-step-guide-for-instagram-videos/"><u>[New] In 2024, Making Time Move Backwards A Step-by-Step Guide for Instagram Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-zoom-meetings-with-ease-integrating-skype-functions/"><u>[New] Mastering Zoom Meetings with Ease Integrating Skype Functions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quick-tips-for-a-standout-instagram-groups-project/"><u>[New] Quick Tips for a Standout Instagram Groups Project</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-top-10-no-cost-digital-photography-tools/"><u>[Updated] Explore Top 10 No-Cost Digital Photography Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capture-the-action-easy-steps-for-overwatch-players/"><u>[Updated] In 2024, Capture the Action Easy Steps for Overwatch Players</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-instantaneously-record-and-image-on-the-go-iphone-edition/"><u>[Updated] Instantaneously Record & Image on the Go - iPhone Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-immersive-video-expert-techniques-to-enhance-your-360-edits-in-premierepro/"><u>[Updated] Mastering Immersive Video Expert Techniques to Enhance Your 360° Edits in PremierePro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prioritizing-pivotal-movie-moments-for-editors/"><u>[Updated] Prioritizing Pivotal Movie Moments for Editors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-8-best-tripods-for-4k-camera-for-2024/"><u>[Updated] Top 8 Best Tripods for 4K Camera for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-playback-speed-a-guide-for-spotify-users/"><u>2024 Approved Optimizing Playback Speed A Guide for Spotify Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/satirical-graphics-memes-made-easy-by-kapwing-for-2024/"><u>Satirical Graphics Memes Made Easy by Kapwing for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-steps-setting-up-your-psvr-with-a-computer/"><u>Seamless Steps: Setting Up Your PSVR with a Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-techniques-for-directx-drawing-failures/"><u>Ultimate Troubleshooting Techniques for DirectX Drawing Failures</u></a></li>
+</ul></div>
 

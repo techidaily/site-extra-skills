@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Preserving the Past in Motion  Photo to Video Transition\""
-date: 2024-10-01T00:23:54.388Z
-updated: 2024-10-02T20:37:00.977Z
+date: 2024-10-02T03:30:13.013Z
+updated: 2024-10-08T01:03:03.290Z
 tags: 
   - screen-recording
   - ai video
@@ -65,10 +65,10 @@ Some popular photo scanners that you can consider using are Scanner Pro, PhotoSc
 In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Convert Old Photos into a Video Effortlessly?
@@ -99,6 +99,13 @@ Once you have imported your photos, you can include them in the timeline. To do 
 
 ![create timeline for photos](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 3\. Edit the video
 
 Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
@@ -106,10 +113,10 @@ Just above the timeline, you can find all kinds of tools to edit your video. For
 ![Edit Digitized Photos](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
@@ -120,22 +127,16 @@ As stated above, you can find a wide range of video editing options to explore i
 
 ![Add Effects to Digitized Photos](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
 ![Add Title to Digitized Photos](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
@@ -181,13 +182,6 @@ There you go! I’m sure that after reading this guide, you would be able to dig
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -203,19 +197,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-perfect-your-mobile-shoot-expert-picks-of-the-best-9-cam-gear/"><u>[New] Perfect Your Mobile Shoot Expert Picks of the Best 9 Cam Gear</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-redefining-the-silver-screen-virtual-reality-cinema/"><u>[New] Redefining the Silver Screen Virtual Reality Cinema</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-quelling-video-quirks-in-photobooths/"><u>[Updated] Quelling Video Quirks in Photobooths</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-choosing-and-crafting-whatsapp-alerts/"><u>2024 Approved Mastering the Art of Choosing & Crafting WhatsApp Alerts</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-repairing-broken-system-files-in-windows-10-11/"><u>Comprehensive Solutions for Repairing Broken System Files in Windows 10, 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo S17t? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-building-blocks-for-a-thriving-design-career/"><u>In 2024, Building Blocks for a Thriving Design Career</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mosaicmaker-elite-designing-with-digital-threads/"><u>In 2024, MosaicMaker Elite Designing with Digital Threads</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/inspirational-slide-shows-10-best-places-to-download-them-for-free-for-2024/"><u>Inspirational Slide Shows 10 Best Places to Download Them For Free for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/leading-torrent-software-compared-why-choose-movavi-for-seamless-file-transformation/"><u>Leading Torrent Software Compared: Why Choose Movavi for Seamless File Transformation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-monitor-malfunctions-due-to-unrecognized-input-signals/"><u>Overcoming Monitor Malfunctions Due to Unrecognized Input Signals</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premier-avi-media-player-for-all-platforms-for-2024/"><u>Premier AVi Media Player for All Platforms for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/success-reinstalling-microsofts-pc-manager-in-win8/"><u>Success! Reinstalling Microsoft's PC Manager in Win8</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-creating-magnetic-storylines-for-your-vlog-videos/"><u>[New] In 2024, Creating Magnetic Storylines for Your Vlog Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-endorsements-on-screen-shaping-perceptions/"><u>[Updated] 2024 Approved Endorsements on Screen Shaping Perceptions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-digital-destinations-where-to-direct-your-videos/"><u>[Updated] In 2024, Digital Destinations Where to Direct Your Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prestigious-zooids-introduction-spotlight/"><u>[Updated] Prestigious Zooids Introduction Spotlight</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-launch-checklist-essential-tasks-for-bringing-your-review-channel-to-life/"><u>2024 Approved Quick Launch Checklist Essential Tasks for Bringing Your Review Channel to Life</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-best-photo-video-maker-with-music/"><u>5 Best Photo Video Maker With Music</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-magic5-ultimate-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-iphone-camera-settings-simplified-for-2024/"><u>Expert iPhone Camera Settings Simplified for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-inside-the-immersive-evolution-vrs-present-state-and-foreseen-obstacles/"><u>In 2024, Inside the Immersive Evolution VR's Present State and Foreseen Obstacles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mobile-recorder-iphones-future-call-log/"><u>In 2024, Mobile Recorder IPhone's Future Call Log</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-zoom-on-snapchat-for-better-snaps/"><u>In 2024, Perfecting Zoom on Snapchat for Better Snaps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/is-imyfone-fixppo-effective-comprehensive-guide-and-insights-into-this-iphone-unlocking-solution/"><u>Is iMyFone Fixppo Effective? Comprehensive Guide and Insights Into This iPhone Unlocking Solution</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-hdr-photos-advanced-techniques-in-photoshop-for-2024/"><u>Mastering HDR Photos Advanced Techniques in Photoshop for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/swift-and-easy-video-to-swf-conversion-download-our-free-tool/"><u>Swift & Easy Video-to-SWF Conversion | Download Our FREE Tool!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xbox-one-and-pc-integration-button-maneuvers/"><u>Xbox One & PC Integration: Button Maneuvers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cryptocurrency Crusaders' Guide: Top 5 AI Trading Tips"
-date: 2024-09-26T18:44:59.241Z
-updated: 2024-10-02T20:33:32.958Z
+date: 2024-10-05T03:12:17.890Z
+updated: 2024-10-07T22:46:46.781Z
 tags:
   - chatgpt
   - open-ai
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. openai-pc-pro.online
 
  The experts at CRIL also discovered an unidentified malware strain being distributed through the domain “openai-pc-pro.online,” a malicious domain posing as the official ChatGPT website.
@@ -46,16 +39,22 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. chatgpt-go.online
 
@@ -65,7 +64,21 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. ChatGPT1
 
@@ -75,25 +88,18 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
- SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -132,18 +138,24 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-market-breakthrough-strategy-box-by-box/"><u>[New] Market Breakthrough Strategy Box by Box</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-method-to-record-your-youtube-watching-experience/"><u>[Updated] 2024 Approved Free Method to Record Your YouTube Watching Experience</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-songwriters-journey-top-15-video-tips-for-music-creators/"><u>[Updated] In 2024, The Songwriter's Journey Top 15 Video Tips for Music Creators</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premier-casts-for-google-listeners/"><u>[Updated] Premier Casts for Google Listeners</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-insta-story-magic-embedding-youtube-links-like-a-pro/"><u>2024 Approved Insta Story Magic Embedding YouTube Links Like a Pro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-sierras-icloud-full-desktop-and-document-liberation/"><u>2024 Approved Sierra’s iCloud Full Desktop and Document Liberation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-amd-smbus-drivers-fast-track/"><u>Download and Update AMD SMBus Drivers - Fast Track</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a70-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Itel A70 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-itel-a60s-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Realme 11X 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-discord-experiencing-an-outage-or-is-there-something-wrong-with-my-internet/"><u>Is Discord Experiencing an Outage, or Is There Something Wrong with My Internet?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/launching-troubleshooting-techniques-for-businesses-at-risk/"><u>Launching Troubleshooting Techniques for Businesses at Risk</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/luminous-leap-quick-brightening-tricks-for-iphone-recordings-for-2024/"><u>Luminous Leap Quick Brightening Tricks for iPhone Recordings for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pro-level-insights-enhancing-your-interview-recordings-on-ios-devices/"><u>[New] Pro-Level Insights Enhancing Your Interview Recordings on iOS Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-produce-personalized-internet-chuckles/"><u>[New] Produce Personalized Internet Chuckles</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-gamerecorder-gambit/"><u>[Updated] GameRecorder Gambit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-image-editing-mastering-photo-cropping-tools/"><u>[Updated] IPhone Image Editing Mastering Photo Cropping Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-maximizing-engagement-how-to-pick-perfect-youtube-collaborators/"><u>[Updated] Maximizing Engagement How to Pick Perfect YouTube Collaborators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-selective-slow-speed-video-capture-apps-androidiphone/"><u>[Updated] Selective Slow-Speed Video Capture Apps Android/iPhone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-desktop-image-merging-tips/"><u>2024 Approved Professional Desktop Image Merging Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spotlight-on-youtubes-creme-de-la-creme-of-narratives/"><u>2024 Approved Spotlight on YouTube’s Crème De La Crème of Narratives</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-starting-an-online-platform-for-consumer-goods-reviews/"><u>2024 Approved Starting an Online Platform for Consumer Goods Reviews</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-orbi-wi-fi-6-axe4-router-series-evaluation-seamless-high-speed-connectivity-across-homes/"><u>Comprehensive Orbi Wi-Fi 6 (AXE4) Router Series Evaluation: Seamless High-Speed Connectivity Across Homes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elite-philips-somneo-analysis-premium-alarm-clock-explored/"><u>Elite Philips Somneo Analysis: Premium Alarm Clock Explored</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-lava-storm-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Lava Storm 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-google-pixel-fold-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Google Pixel Fold Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oneplus-12-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, OnePlus 12 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-reclaiming-deleted-posts-on-reddit-in-minutes/"><u>In 2024, Reclaiming Deleted Posts on Reddit in Minutes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sky-in-spectacue-prime-platforms-showcasing-hdr-imagery/"><u>In 2024, Sky in Spectacue - Prime Platforms Showcasing HDR Imagery</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimizing-age-information-in-tiktok-profiles-for-2024/"><u>Optimizing Age Information in TikTok Profiles for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/revolutionize-your-video-editing-the-top-free-adobe-premiere-plugins-for-2024/"><u>Revolutionize Your Video Editing The Top Free Adobe Premiere Plugins for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-choosing-a-dependable-portable-tire-filler-spotlight-on-kensun/"><u>The Ultimate Guide to Choosing a Dependable Portable Tire Filler: Spotlight on Kensun</u></a></li>
 </ul></div>
 

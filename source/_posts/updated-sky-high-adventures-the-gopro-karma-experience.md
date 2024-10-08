@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sky-High Adventures  The GoPro Karma Experience\""
-date: 2024-09-25T16:16:11.667Z
-updated: 2024-10-02T23:56:06.470Z
+date: 2024-10-01T08:02:57.069Z
+updated: 2024-10-07T21:04:01.755Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Detailed review for GoPro Karma
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -110,10 +110,10 @@ Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -131,19 +131,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-perfect-methods-for-computer-based-vhs-artistic-touches/"><u>[New] Perfect Methods for Computer-Based VHS Artistic Touches</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-snapseed-basics-your-first-steps-in-enhancing-images/"><u>[New] Snapseed Basics Your First Steps in Enhancing Images</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-multi-video-watching-on-youtube/"><u>[New] The Ultimate Guide to Multi-Video Watching on YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-leveraging-pip-for-multitasking-in-edge-browser/"><u>[Updated] Leveraging PIP for Multitasking in Edge Browser</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfect-every-moment-top-3-techniques-to-record-lol-games/"><u>[Updated] Perfect Every Moment Top 3 Techniques to Record LOL Games</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-integrate-efficiently-macos-sierra-for-desktop-enhancement/"><u>2024 Approved Integrate Efficiently MacOS Sierra for Desktop Enhancement</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-virtual-realm-key-strategies-for-shooting-360-video-top-9-rules/"><u>2024 Approved Navigating the Virtual Realm Key Strategies for Shooting 360° Video (Top 9 Rules)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pajama-plots-and-prose-critical-review-of-childrens-videos/"><u>2024 Approved Pajama Plots and Prose Critical Review of Children's Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/begin-a-chat-no-barriers-w-chatgpt/"><u>Begin a Chat – No Barriers W/ ChatGPT</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-shared-scheduling-tools-managing-busy-family-calendars-with-ease/"><u>Best Shared Scheduling Tools: Managing Busy Family Calendars with Ease</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/crafting-facebook-videos-a-step-by-step-guide-for-2024/"><u>Crafting Facebook Videos A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/find-and-update-your-hp-deskjet-2540-printers-software-here/"><u>Find & Update Your HP DeskJet 2540 Printer's Software Here!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-why-does-the-iphones-visual-look-up-feature-fail/"><u>Troubleshooting Tips: Why Does the iPhone's Visual Look Up Feature Fail?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/any-youtube-experience-into-a-fun-animated-gif-on-devices-for-2024/"><u>Turn Any YouTube Experience Into a Fun, Animated GIF on Devices for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-effortless-link-up-merging-instagram-posts-with-facebook/"><u>[New] Effortless Link Up Merging Instagram Posts with Facebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-social-media-connections-instagram-and-tiktok/"><u>[New] Mastering Social Media Connections Instagram & TikTok</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revolutionizing-online-content-the-power-of-time-stamps/"><u>[New] Revolutionizing Online Content The Power of Time-Stamps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-premium-mac-capture-software-substitutes-for-bandicam/"><u>[Updated] 2024 Approved Premium Mac Capture Software Substitutes for Bandicam</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-best-hash-tracking-apps-a-comprehensive-review-fbtwitterinsta/"><u>[Updated] 2024 Approved The Best Hash Tracking Apps A Comprehensive Review (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-examining-the-efficacy-of-toolwiz-for-image-enhancement/"><u>[Updated] Examining the Efficacy of Toolwiz for Image Enhancement</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-instant-appeal-in-photos-embrace-these-top-10-composition-strategies/"><u>[Updated] Instant Appeal in Photos Embrace These Top 10 Composition Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-insider-wisdom-how-to-effortlessly-upload-photosvideos-in-win11/"><u>2024 Approved Insider Wisdom How to Effortlessly Upload Photos/Videos in Win11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-4k-video-mics-top-picks-list/"><u>2024 Approved Premium 4K Video Mics Top Picks List</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-web-gems-crafting-unique-wrapped-masterpieces/"><u>2024 Approved Prime Web Gems Crafting Unique Wrapped Masterpieces</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simplified-processes-generating-your-podcasts-rss-feed/"><u>2024 Approved Simplified Processes Generating Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-top-editors-choice-best-windows-11-tools-guide/"><u>2024 Approved Top Editors' Choice Best Windows 11 Tools Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-13-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 13 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-innovative-approaches-to-video-voiceover-integration/"><u>In 2024, Innovative Approaches to Video Voiceover Integration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-tips-modifying-snapchat-video-velocity/"><u>In 2024, Quick Tips Modifying Snapchat Video Velocity</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-solve-invisible-buffer-problems-in-video-games/"><u>In 2024, Solve Invisible Buffer Problems in Video Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/premium-fitness-apps-the-secret-to-enhanced-workouts-and-performance/"><u>Premium Fitness Apps: The Secret to Enhanced Workouts and Performance?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/rapid-techniques-for-quick-professional-quality-home-movies-for-2024/"><u>Rapid Techniques for Quick, Professional-Quality Home Movies for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-free-music-makers-toolkit-12-essential-recording-software-for-2024/"><u>Updated The Free Music Makers Toolkit 12 Essential Recording Software for 2024</u></a></li>
 </ul></div>
 

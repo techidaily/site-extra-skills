@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: How to Resolve 'Google Hangouts Mic' Issues"
-date: 2024-09-29T18:41:05.772Z
-updated: 2024-10-02T20:06:02.832Z
+date: 2024-10-07T02:31:42.967Z
+updated: 2024-10-07T16:38:08.911Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ Before you try the solutions below, please check these several things as it can 
 Click on it to turn it to ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17b9647cefb.png) . If you make sure your microphone is connect properly to your computer and it’s turned on correctly, but your microphone still doesn’t work, try the following methods.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1: Restart your computer
@@ -43,39 +43,33 @@ Sometimes, a simple restart can solve a lot computer woes. When you find your mi
 Your microphone not working issue can be probably caused by an old, corrupted or missing driver. Besides, if your microphone is connected with a USB cable, the USB controller driver also takes an effect on your microphone function. So you can update your microphone driver and other related, like USB controller driver, sound card driver, to try to solve the problem. To update your device driver, you can go to its manufacturer’s website to download the latest driver and install the new driver on your computer or, if you’re not confident with playing around with drivers manually, let **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** help you do it automatically. Driver Easy will automatically recognize your system and find the correct drivers for it. The drivers supplied by Driver Easy are all from the official manufacturer’s website, so you can totally trust it. 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy. 2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1672bcbc0a7.jpg)3) If you try the Free version, click **Update** next to any flagged driver to automatically download and install the correct version of this driver. Or if you use the Pro version, click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system.(and you get full support and a 30-day money back guarantee)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17c23a6c56a.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer and call the person on Hangouts again to see if he can hear you.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Close other programs those might use your microphone
 
  If there are some other programs running on your computer when you’re on Google Hangouts, the other programs might be using your microphone, too. As a result, your microphone doesn’t function on Hangouts. So, please stop all the other programs that might use your microphone, then check to see if the person can hear you on Hangouts.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How if you can’t hear other people speaking?
 
@@ -98,17 +92,18 @@ If you can’t hear the other person on Hangouts call, ask the person to trouble
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-pro-level-techniques-to-upgrade-your-iphone-photo-game/"><u>[New] Pro-Level Techniques to Upgrade Your iPhone Photo Game</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-time-manipulation-for-professional-videos/"><u>[New] Seamless Time Manipulation for Professional Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-streaming-fb-video-content-on-television-devices/"><u>[New] Streaming FB Video Content On Television Devices</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-educators-essentials-the-leading-10-devices-for-lecture-recording/"><u>[Updated] In 2024, Educators' Essentials The Leading 10 Devices for Lecture Recording</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimal-frame-rate-mastery-through-controller-tweaks/"><u>[Updated] Optimal Frame Rate Mastery Through Controller Tweaks</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-picture-perfectionism-top-tools-and-sites-for-superior-photo-frames-for-2024/"><u>[Updated] Picture Perfectionism Top Tools & Sites for Superior Photo Frames for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/achieving-optimal-ps5-security-through-passcode-settings/"><u>Achieving Optimal PS5 Security Through Passcode Settings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-use-canva-and-chatgpt-to-bulk-create-content-designs/"><u>How to Use Canva and ChatGPT to Bulk Create Content Designs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-picsarts-full-spectrum-exploration/"><u>In 2024, PicsArt's Full Spectrum Exploration</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/oneplus-8t-performance-analysis-how-camera-quality-affects-the-fast-and-furious-experience/"><u>OnePlus 8T Performance Analysis: How Camera Quality Affects the Fast and Furious Experience</u></a></li>
-<li><a href="https://facebook.techidaily.com/simplifying-your-social-media-network-structure/"><u>Simplifying Your Social Media Network Structure</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/transforma-video-3g2-a-3gp-sin-costo-utilizando-la-herramienta-de-conversion-online-de-movavi/"><u>Transforma Video .3G2 a .3GP Sin Costo Utilizando La Herramienta De Conversión Online De Movavi</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-detecting-instagram-disconnections-fast/"><u>[Updated] Detecting Instagram Disconnections Fast</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-steps-to-view-and-manage-photos-and-files-across-devices-with-icloud/"><u>Easy Steps to View and Manage Photos & Files Across Devices with iCloud</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/epson-xp-410-driver-downloads-for-windows-step-by-step/"><u>Epson XP-410 Driver Downloads for Windows Step-by-Step</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/frameful-fun-essential-tools-and-sites-for-photoframe-artistry/"><u>Frameful Fun Essential Tools and Sites for Photoframe Artistry</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-infinix-smart-7-hd-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Infinix Smart 7 HD Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-laughlens-engine/"><u>In 2024, LaughLens Engine</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-paving-pathways-in-pixels-the-leading-vr-treadmills-reviewed/"><u>In 2024, Paving Pathways in Pixels The Leading VR Treadmills Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-selection-top-8-tripods-for-clear-4k-videos/"><u>In 2024, Premium Selection Top 8 Tripods for Clear 4K Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/investigating-the-sudden-angle-shift-in-instagrams-videos-for-2024/"><u>Investigating the Sudden Angle Shift in Instagrams Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/scaling-up-subscriber-numbers-with-savvy-strategies-for-2024/"><u>Scaling Up Subscriber Numbers with Savvy Strategies for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/seamless-page-replacement-tips-using-flipbuilder-avoid-full-project-reworks/"><u>Seamless Page Replacement Tips Using FlipBuilder: Avoid Full Project Reworks</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-pioneers-top-20-internet-gatherings-for-todays-users/"><u>Social Pioneers: Top 20 Internet Gatherings for Today's Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-successful-restoring-sound-functionality-in-firefox/"><u>Troubleshooting Successful: Restoring Sound Functionality in Firefox</u></a></li>
 </ul></div>
 

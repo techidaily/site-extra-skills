@@ -1,7 +1,7 @@
 ---
 title: "Speedy Glimpse Through Windows Files for 2024"
-date: 2024-09-28T02:09:55.286Z
-updated: 2024-10-02T22:18:06.520Z
+date: 2024-10-05T20:14:35.566Z
+updated: 2024-10-07T17:15:26.525Z
 tags: 
   - screen-recording
   - ai video
@@ -41,10 +41,10 @@ Step3 After successfully installing QuickLook, head to File Explorer and select 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Get the App on GitHub
@@ -57,27 +57,33 @@ Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and
 
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
 
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
 
@@ -106,10 +112,10 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -146,17 +152,17 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-how-to-implement-google-meets-grid-view-feature/"><u>[New] 2024 Approved How to Implement Google Meet's Grid View Feature</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-how-to-use-inshot-for-laptoppc-and-alternatives-video-editor/"><u>[New] How to Use Inshot for Laptop/PC and Alternatives Video Editor</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-spark-the-visionary-youtubes-top-video-themes/"><u>[New] In 2024, Spark the Visionary YouTube's Top Video Themes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-livestream-perfection-selecting-your-go-to-platform/"><u>[New] Livestream Perfection Selecting Your Go-To Platform</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-understanding-du-recorder-through-this-guide-for-2024/"><u>[New] Understanding Du Recorder Through This Guide for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-efficiently-traverse-youtubes-votes-and-reaction-space/"><u>[Updated] In 2024, Efficiently Traverse YouTube’s Votes and Reaction Space</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-integrating-azure-transcription-in-your-apps/"><u>[Updated] Integrating Azure Transcription in Your Apps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862796251-gamers-dream-deal-capture-every-detail-with-the-incredible-gigabyte-gs3gs32qhttpswwwgigabytecomusmonitorplus-plusgraphics-32-qhd-monitor-at-199/"><u>Gamer's Dream Deal – Capture Every Detail with the Incredible Gigabyte GS3^[GS32Q](https://www.gigabyte.com/us/Monitor+-+Graphics) 32'' QHD Monitor at $199!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-joke-jugglers-androids-in-the-dead-zone/"><u>In 2024, Joke Jugglers Androids in the Dead Zone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pictorial-insight-mastery-of-vsco-tools/"><u>Pictorial Insight Mastery of VSCO Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-videos-into-tiktok-format-for-seamless-uploads/"><u>Step-by-Step Guide: Converting Videos Into TikTok Format for Seamless Uploads</u></a></li>
-<li><a href="https://article-tips.techidaily.com/unlock-epic-video-with-gopro-time-lapse-strategies-for-2024/"><u>Unlock Epic Video with GoPro Time Lapse Strategies for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-lean-cloud-archive-efficient-low-cost-large-data/"><u>[New] Lean Cloud Archive Efficient, Low-Cost Large Data</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplifying-video-editing-with-windows-movie-maker-for-windows-8-users/"><u>[New] Simplifying Video Editing with Windows Movie Maker for Windows 8 Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ailoring-youtube-shorts-thumbnails-made-simple/"><u>[New] Tailoring Youtube Shorts Thumbnails Made Simple</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-rank-the-best-10-cost-free-image-enhancers-for-smartphone-users/"><u>2024 Approved Rank the Best 10 Cost-Free Image Enhancers for Smartphone Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-saturation-savvy-professionals-secrets-revealed/"><u>2024 Approved Saturation Savvy Professionals' Secrets Revealed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unlock-the-full-potential-of-pixiz-in-video-making/"><u>2024 Approved Unlock the Full Potential of Pixiz in Video Making</u></a></li>
+<li><a href="https://article-posts.techidaily.com/enhance-user-interface-controls-modifying-snapchat-video-speed-for-2024/"><u>Enhance User Interface Controls - Modifying Snapchat Video Speed for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/essential-solutions-starting-overwatch/"><u>Essential Solutions: Starting Overwatch</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-reno-10-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Reno 10 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-your-messenger-presence-a-zodiac-guide/"><u>In 2024, Mastering Your Messenger Presence - A Zodiac Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/no-stress-homemade-motherboards-perfect-for-a-smooth-computer-building-experience/"><u>No-Stress Homemade Motherboards: Perfect for a Smooth Computer Building Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-resolving-errors-when-linking-to-live-configuration-servers/"><u>Step-by-Step Guide: Resolving Errors When Linking to Live Configuration Servers</u></a></li>
 </ul></div>
 
