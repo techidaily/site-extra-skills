@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Resolution Duel  Comparing GoPro Hero and Polaroid Cube\""
-date: 2024-07-31T11:01:00.850Z
-updated: 2024-08-01T11:01:00.850Z
+date: 2024-10-06T17:47:15.028Z
+updated: 2024-10-14T03:00:14.305Z
 tags: 
   - screen-recording
   - ai video
@@ -38,230 +38,13 @@ thumbnail: https://thmb.techidaily.com/b7ec02702d51d57959e5bd1248adaf8d9c4e1536b
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01C80O0ZU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C80O0ZU&linkId=ec1526e83e4df54a4549147cb962f687)
 
-## Specification Comparison Between Polaroid Cube+ and Hero Session
-
-| |  **GoPro Hero Session**  | **Polaroid Cube+**                                                                |                                                     |
-| -------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------- |
-| **Price**                  | $196.9                                                                            | $134.99 only                                        |
-| **Image Sensor**           | 8MP CMOS                                                                          | 8MP CMOS                                            |
-| **Frame rates**            | 1440p @ 30FPS 1080P @ 60/50/30/ 25fps 960P@ 60/50/30/25fps 720p @ 100/60/50/30fps | 1440p @ 30FPS 1080p @ 30/60 FPS 720p @ 30/60/120FPS |
-| **Lens**                   | 170°Wide-angle lens, fixed                                                        | 124° wide-angle lens, fixed                         |
-| **Photo resolution**       | 8MP                                                                               | 8MP                                                 |
-| **Built-in stabilization** | N/a                                                                               | YES                                                 |
-| **Connectivity**           | Micro USB, Bluetooth, Wi-Fi                                                       | Micro USB, Wi-Fi                                    |
-| **Weight**                 | 73g                                                                               | 59g only                                            |
-| **Microphone**             | Dual Microphone System                                                            | Built-in1 Microphone                                |
-| **Memory**                 | Micro SD, up to 32GB                                                              | MicroSD up to 128GB                                 |
-| **Dimensions**             | 1.5 x 1.5 x 1.5 inches                                                            | 1.4 x 1.4 x 1.4 inches                              |
-| **Battery**                | 1030mAh                                                                           | 600mAh                                              |
-| **Magnetic base**          | N/a                                                                               | Yes                                                 |
-| **Waterproof**             | 10m (without case)                                                                | /                                                   |
-| **APP**                    | GoPro App                                                                         | Polaroid CUBE+ App                                  |
-
- The comparison table above reflects so many impressive specifications of both devices. You will find that Polaroid Cube+ possess few additional features as compared to Hero Session like embedded magnet and built in stabilization etc. This device possesses so many photo and video controls along with better microphone connectivity. You have to buy additional waterproof case for your Cube+ device but this device possesses an advanced magnetic mount. On the other side Session is waterproof up to 10m even without additional housing.
-
- Hero Session comes with dual microphones where one slot is available on front side and another on back portion. It provides impressive audio quality. Your camera will automatically make selections between both mics as per need of situation.
-
-#### Feature Comparison
-
-#### 1.Design and Usability
-
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![polaroid-cube-plus-vs-gopro-hero4-session.jpg ](https://images.wondershare.com/filmora/article-images/polaroid-cube-plus-vs-gopro-hero4-session.jpg)
 
- Polaroid Cube+ is developed with much simpler design as compared to GoPro. You can control photos as well as videos from a single button on the top - press it one time to capture stills and twice to record videos. One more button is available for Wi-Fi control that also assists in making connection with Cube+ application. You will find a Micro-USB slot and MicroSD card slot behind the door.
-
- In case of GoPro Hero4 Session, you will not find any LCD screen on this device but you can view scenes on smart phone screen with app connectivity. On the top portion you will find a monochrome LCD panel that assists in easy setting for memory, battery, shooting modes as well as menu. Memory Card slot and USB connector is available besides the door. One LED on front and another on back keeps on indicating recording and wireless activities.
-
-#### 2.Battery and Charging
-
- The Lithium Ion battery of GoPro Hero Session can serve you up to 2 hours with 1080p recording at 30fps frame rate. If you keep your Bluetooth and Wi-Fi on and capture 8MP photos once/second then this battery will work up to 3 hour 35 minutes. For Cube+, the battery will serve you up to 1.5 hours even if you have Wi-Fi in ON position. You can charge its battery via Micro USB port using a simple USB power pack, computer or AC-USB Adapter.
-
-#### 3.Waterproof
-
- You can take GoPro Hero Session device under water up to 10 meter or 33 feet even without any additional protective housing. The waterproof case of this device possesses small openings from front as well as back side and GoPro producers say that it improves audio quality of device.
-
- The Polaroid Cube+ camera is splashproof, so it is not advised to carry this camera for scuba diving. It can handle just a casual exposure to rain or just splashes. To get a high quality waterproof housing for your device you need to pay additional amount as case is not included in the package.
-
-[Learn more about the Best Waterproof Action Cameras in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 4.Accessories
-
- The Session camera box contains a Micro USB cable, flat and curved adhesive mounts, locking screws and three mounting buckles.
-
- The Polaroid Cube+ package includes an instruction manual, Micro SD card (8GB) and Micro USB Cable. You will be glad to find a pendant case inside package but that is not able to make it waterproof.
-
-[Learn more about action camera accessories](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 5.Video and Image Quality
-
- Cube+ device offers 3 major choices for resolution: 720P, 1080P and 1440P. You can follow 60fps and 30fps frame rate with 1080p and 720p resolution whereas slow motion mode can be switched with 720p and 120fps. For taking stills you can easily switch between 3MP, 6Mp and 8MP where automatic exposure effect leads to much impressive results in daylight. But in case of low light performance you may feel little disappointed. The image stabilization feature is a better addition for video modes.
-
- There is no doubt to say that photo and video mode of Hero Session are impressive with outstanding audio quality. You can switch between various videos modes as: 1440p with 25/30 fps, 1080p with 25/30/48/50/60fps, 960 with 25/30/50/60 fps and 720p at 25/30/50/60 and 100fps. You can also grab amazing results for slow motion recording with 120fps and 100 fps frame rate but preferably switch to 720 at 100fps to get good results. Users are also able to enjoy ProTune feature along with auto low light mode. You can boost its audio with two microphones but it cannot work with external ones.
-
- If you want to learn more about how to improve action camera sound, please check [How to improve action camera sound.](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 6.App
-
- You can control your GoPro device from a smart phone application by making an active connection via Bluetooth or Wi-Fi. This application is compatible with Window, Android and iOS device.
-
- On the other side, Cube+ has a dedicated Cube+ application that also provides services for live preview. It assists in easy switching between photo modes, video modes and time lapse.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
-### Conclusion
-
- Hero4 Session is one of the most user friendly devices from GoPro till date. It comes with impressive image quality, great battery life and waterproof lightweight design. You will definitely avail a great product with payment of $200 only.
-
-[Learn more action camera under $200](https://tools.techidaily.com/wondershare/filmora/download/)
-
- If you need something simple yet impressive then Polaroid Cube+ is best for you. You will find embedded magnet and the image stabilization feature useful. Moreover, you will be able to get this device at $50 less as compared to Session.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- Hero4 Session is a cube shaped device that can be used to get impressive results even in worst situations. You can mount this device on your guitar as well as to front side of a ski. This device is also known by the name Hero Session but you should never confuse it with GoPro Hero5 Session that is a recent feature rich model.
-
- On the other side, Polaroid Cube+ possesses size same as that of its predecessor Polaroid Cube. But this small size camera is more attractive as compared to Hero4 Session. With a price tage of $134.99 only, it is possible to connect Polaroid Cube+ with Android and iOS device for easy remote control, so you can use your iOS or Android device as a viewfinder.
-
- If we look at the core features then both these devices appear somewhat similar but there are some differences in terms of capabilities and quality of video as well as image. The article below will help you to compare performance and specification of Polaroid Cube+ and Hero4 Session so that you can pick the best device from market.
-
-[Learn more about Hero Session](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
-## Complete Comparison
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01C80O0ZU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C80O0ZU&linkId=ec1526e83e4df54a4549147cb962f687)
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
-## Specification Comparison Between Polaroid Cube+ and Hero Session
-
-| |  **GoPro Hero Session**  | **Polaroid Cube+**                                                                |                                                     |
-| -------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------- |
-| **Price**                  | $196.9                                                                            | $134.99 only                                        |
-| **Image Sensor**           | 8MP CMOS                                                                          | 8MP CMOS                                            |
-| **Frame rates**            | 1440p @ 30FPS 1080P @ 60/50/30/ 25fps 960P@ 60/50/30/25fps 720p @ 100/60/50/30fps | 1440p @ 30FPS 1080p @ 30/60 FPS 720p @ 30/60/120FPS |
-| **Lens**                   | 170°Wide-angle lens, fixed                                                        | 124° wide-angle lens, fixed                         |
-| **Photo resolution**       | 8MP                                                                               | 8MP                                                 |
-| **Built-in stabilization** | N/a                                                                               | YES                                                 |
-| **Connectivity**           | Micro USB, Bluetooth, Wi-Fi                                                       | Micro USB, Wi-Fi                                    |
-| **Weight**                 | 73g                                                                               | 59g only                                            |
-| **Microphone**             | Dual Microphone System                                                            | Built-in1 Microphone                                |
-| **Memory**                 | Micro SD, up to 32GB                                                              | MicroSD up to 128GB                                 |
-| **Dimensions**             | 1.5 x 1.5 x 1.5 inches                                                            | 1.4 x 1.4 x 1.4 inches                              |
-| **Battery**                | 1030mAh                                                                           | 600mAh                                              |
-| **Magnetic base**          | N/a                                                                               | Yes                                                 |
-| **Waterproof**             | 10m (without case)                                                                | /                                                   |
-| **APP**                    | GoPro App                                                                         | Polaroid CUBE+ App                                  |
-
- The comparison table above reflects so many impressive specifications of both devices. You will find that Polaroid Cube+ possess few additional features as compared to Hero Session like embedded magnet and built in stabilization etc. This device possesses so many photo and video controls along with better microphone connectivity. You have to buy additional waterproof case for your Cube+ device but this device possesses an advanced magnetic mount. On the other side Session is waterproof up to 10m even without additional housing.
-
- Hero Session comes with dual microphones where one slot is available on front side and another on back portion. It provides impressive audio quality. Your camera will automatically make selections between both mics as per need of situation.
-
-#### Feature Comparison
-
-#### 1.Design and Usability
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
-![polaroid-cube-plus-vs-gopro-hero4-session.jpg ](https://images.wondershare.com/filmora/article-images/polaroid-cube-plus-vs-gopro-hero4-session.jpg)
-
- Polaroid Cube+ is developed with much simpler design as compared to GoPro. You can control photos as well as videos from a single button on the top - press it one time to capture stills and twice to record videos. One more button is available for Wi-Fi control that also assists in making connection with Cube+ application. You will find a Micro-USB slot and MicroSD card slot behind the door.
-
- In case of GoPro Hero4 Session, you will not find any LCD screen on this device but you can view scenes on smart phone screen with app connectivity. On the top portion you will find a monochrome LCD panel that assists in easy setting for memory, battery, shooting modes as well as menu. Memory Card slot and USB connector is available besides the door. One LED on front and another on back keeps on indicating recording and wireless activities.
-
-#### 2.Battery and Charging
-
- The Lithium Ion battery of GoPro Hero Session can serve you up to 2 hours with 1080p recording at 30fps frame rate. If you keep your Bluetooth and Wi-Fi on and capture 8MP photos once/second then this battery will work up to 3 hour 35 minutes. For Cube+, the battery will serve you up to 1.5 hours even if you have Wi-Fi in ON position. You can charge its battery via Micro USB port using a simple USB power pack, computer or AC-USB Adapter.
-
-#### 3.Waterproof
-
- You can take GoPro Hero Session device under water up to 10 meter or 33 feet even without any additional protective housing. The waterproof case of this device possesses small openings from front as well as back side and GoPro producers say that it improves audio quality of device.
-
- The Polaroid Cube+ camera is splashproof, so it is not advised to carry this camera for scuba diving. It can handle just a casual exposure to rain or just splashes. To get a high quality waterproof housing for your device you need to pay additional amount as case is not included in the package.
-
-[Learn more about the Best Waterproof Action Cameras in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 4.Accessories
-
- The Session camera box contains a Micro USB cable, flat and curved adhesive mounts, locking screws and three mounting buckles.
-
- The Polaroid Cube+ package includes an instruction manual, Micro SD card (8GB) and Micro USB Cable. You will be glad to find a pendant case inside package but that is not able to make it waterproof.
-
-[Learn more about action camera accessories](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 5.Video and Image Quality
-
- Cube+ device offers 3 major choices for resolution: 720P, 1080P and 1440P. You can follow 60fps and 30fps frame rate with 1080p and 720p resolution whereas slow motion mode can be switched with 720p and 120fps. For taking stills you can easily switch between 3MP, 6Mp and 8MP where automatic exposure effect leads to much impressive results in daylight. But in case of low light performance you may feel little disappointed. The image stabilization feature is a better addition for video modes.
-
- There is no doubt to say that photo and video mode of Hero Session are impressive with outstanding audio quality. You can switch between various videos modes as: 1440p with 25/30 fps, 1080p with 25/30/48/50/60fps, 960 with 25/30/50/60 fps and 720p at 25/30/50/60 and 100fps. You can also grab amazing results for slow motion recording with 120fps and 100 fps frame rate but preferably switch to 720 at 100fps to get good results. Users are also able to enjoy ProTune feature along with auto low light mode. You can boost its audio with two microphones but it cannot work with external ones.
-
- If you want to learn more about how to improve action camera sound, please check [How to improve action camera sound.](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 6.App
-
- You can control your GoPro device from a smart phone application by making an active connection via Bluetooth or Wi-Fi. This application is compatible with Window, Android and iOS device.
-
- On the other side, Cube+ has a dedicated Cube+ application that also provides services for live preview. It assists in easy switching between photo modes, video modes and time lapse.
-
-### Conclusion
-
- Hero4 Session is one of the most user friendly devices from GoPro till date. It comes with impressive image quality, great battery life and waterproof lightweight design. You will definitely avail a great product with payment of $200 only.
-
-[Learn more action camera under $200](https://tools.techidaily.com/wondershare/filmora/download/)
-
- If you need something simple yet impressive then Polaroid Cube+ is best for you. You will find embedded magnet and the image stabilization feature useful. Moreover, you will be able to get this device at $50 less as compared to Session.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- Hero4 Session is a cube shaped device that can be used to get impressive results even in worst situations. You can mount this device on your guitar as well as to front side of a ski. This device is also known by the name Hero Session but you should never confuse it with GoPro Hero5 Session that is a recent feature rich model.
-
- On the other side, Polaroid Cube+ possesses size same as that of its predecessor Polaroid Cube. But this small size camera is more attractive as compared to Hero4 Session. With a price tage of $134.99 only, it is possible to connect Polaroid Cube+ with Android and iOS device for easy remote control, so you can use your iOS or Android device as a viewfinder.
-
- If we look at the core features then both these devices appear somewhat similar but there are some differences in terms of capabilities and quality of video as well as image. The article below will help you to compare performance and specification of Polaroid Cube+ and Hero4 Session so that you can pick the best device from market.
-
-[Learn more about Hero Session](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-## Complete Comparison
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01C80O0ZU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C80O0ZU&linkId=ec1526e83e4df54a4549147cb962f687)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Specification Comparison Between Polaroid Cube+ and Hero Session
 
 | |  **GoPro Hero Session**  | **Polaroid Cube+**                                                                |                                                     |
@@ -331,8 +114,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  On the other side, Cube+ has a dedicated Cube+ application that also provides services for live preview. It assists in easy switching between photo modes, video modes and time lapse.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Conclusion
 
  Hero4 Session is one of the most user friendly devices from GoPro till date. It comes with impressive image quality, great battery life and waterproof lightweight design. You will definitely avail a great product with payment of $200 only.
@@ -341,10 +128,242 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you need something simple yet impressive then Polaroid Cube+ is best for you. You will find embedded magnet and the image stabilization feature useful. Moreover, you will be able to get this device at $50 less as compared to Session.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Hero4 Session is a cube shaped device that can be used to get impressive results even in worst situations. You can mount this device on your guitar as well as to front side of a ski. This device is also known by the name Hero Session but you should never confuse it with GoPro Hero5 Session that is a recent feature rich model.
+
+ On the other side, Polaroid Cube+ possesses size same as that of its predecessor Polaroid Cube. But this small size camera is more attractive as compared to Hero4 Session. With a price tage of $134.99 only, it is possible to connect Polaroid Cube+ with Android and iOS device for easy remote control, so you can use your iOS or Android device as a viewfinder.
+
+ If we look at the core features then both these devices appear somewhat similar but there are some differences in terms of capabilities and quality of video as well as image. The article below will help you to compare performance and specification of Polaroid Cube+ and Hero4 Session so that you can pick the best device from market.
+
+[Learn more about Hero Session](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Complete Comparison
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01C80O0ZU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C80O0ZU&linkId=ec1526e83e4df54a4549147cb962f687)
+
+## Specification Comparison Between Polaroid Cube+ and Hero Session
+
+| |  **GoPro Hero Session**  | **Polaroid Cube+**                                                                |                                                     |
+| -------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------- |
+| **Price**                  | $196.9                                                                            | $134.99 only                                        |
+| **Image Sensor**           | 8MP CMOS                                                                          | 8MP CMOS                                            |
+| **Frame rates**            | 1440p @ 30FPS 1080P @ 60/50/30/ 25fps 960P@ 60/50/30/25fps 720p @ 100/60/50/30fps | 1440p @ 30FPS 1080p @ 30/60 FPS 720p @ 30/60/120FPS |
+| **Lens**                   | 170°Wide-angle lens, fixed                                                        | 124° wide-angle lens, fixed                         |
+| **Photo resolution**       | 8MP                                                                               | 8MP                                                 |
+| **Built-in stabilization** | N/a                                                                               | YES                                                 |
+| **Connectivity**           | Micro USB, Bluetooth, Wi-Fi                                                       | Micro USB, Wi-Fi                                    |
+| **Weight**                 | 73g                                                                               | 59g only                                            |
+| **Microphone**             | Dual Microphone System                                                            | Built-in1 Microphone                                |
+| **Memory**                 | Micro SD, up to 32GB                                                              | MicroSD up to 128GB                                 |
+| **Dimensions**             | 1.5 x 1.5 x 1.5 inches                                                            | 1.4 x 1.4 x 1.4 inches                              |
+| **Battery**                | 1030mAh                                                                           | 600mAh                                              |
+| **Magnetic base**          | N/a                                                                               | Yes                                                 |
+| **Waterproof**             | 10m (without case)                                                                | /                                                   |
+| **APP**                    | GoPro App                                                                         | Polaroid CUBE+ App                                  |
+
+ The comparison table above reflects so many impressive specifications of both devices. You will find that Polaroid Cube+ possess few additional features as compared to Hero Session like embedded magnet and built in stabilization etc. This device possesses so many photo and video controls along with better microphone connectivity. You have to buy additional waterproof case for your Cube+ device but this device possesses an advanced magnetic mount. On the other side Session is waterproof up to 10m even without additional housing.
+
+ Hero Session comes with dual microphones where one slot is available on front side and another on back portion. It provides impressive audio quality. Your camera will automatically make selections between both mics as per need of situation.
+
+#### Feature Comparison
+
+#### 1.Design and Usability
+
+![polaroid-cube-plus-vs-gopro-hero4-session.jpg ](https://images.wondershare.com/filmora/article-images/polaroid-cube-plus-vs-gopro-hero4-session.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Polaroid Cube+ is developed with much simpler design as compared to GoPro. You can control photos as well as videos from a single button on the top - press it one time to capture stills and twice to record videos. One more button is available for Wi-Fi control that also assists in making connection with Cube+ application. You will find a Micro-USB slot and MicroSD card slot behind the door.
+
+ In case of GoPro Hero4 Session, you will not find any LCD screen on this device but you can view scenes on smart phone screen with app connectivity. On the top portion you will find a monochrome LCD panel that assists in easy setting for memory, battery, shooting modes as well as menu. Memory Card slot and USB connector is available besides the door. One LED on front and another on back keeps on indicating recording and wireless activities.
+
+#### 2.Battery and Charging
+
+ The Lithium Ion battery of GoPro Hero Session can serve you up to 2 hours with 1080p recording at 30fps frame rate. If you keep your Bluetooth and Wi-Fi on and capture 8MP photos once/second then this battery will work up to 3 hour 35 minutes. For Cube+, the battery will serve you up to 1.5 hours even if you have Wi-Fi in ON position. You can charge its battery via Micro USB port using a simple USB power pack, computer or AC-USB Adapter.
+
+#### 3.Waterproof
+
+ You can take GoPro Hero Session device under water up to 10 meter or 33 feet even without any additional protective housing. The waterproof case of this device possesses small openings from front as well as back side and GoPro producers say that it improves audio quality of device.
+
+ The Polaroid Cube+ camera is splashproof, so it is not advised to carry this camera for scuba diving. It can handle just a casual exposure to rain or just splashes. To get a high quality waterproof housing for your device you need to pay additional amount as case is not included in the package.
+
+[Learn more about the Best Waterproof Action Cameras in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 4.Accessories
+
+ The Session camera box contains a Micro USB cable, flat and curved adhesive mounts, locking screws and three mounting buckles.
+
+ The Polaroid Cube+ package includes an instruction manual, Micro SD card (8GB) and Micro USB Cable. You will be glad to find a pendant case inside package but that is not able to make it waterproof.
+
+[Learn more about action camera accessories](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 5.Video and Image Quality
+
+ Cube+ device offers 3 major choices for resolution: 720P, 1080P and 1440P. You can follow 60fps and 30fps frame rate with 1080p and 720p resolution whereas slow motion mode can be switched with 720p and 120fps. For taking stills you can easily switch between 3MP, 6Mp and 8MP where automatic exposure effect leads to much impressive results in daylight. But in case of low light performance you may feel little disappointed. The image stabilization feature is a better addition for video modes.
+
+ There is no doubt to say that photo and video mode of Hero Session are impressive with outstanding audio quality. You can switch between various videos modes as: 1440p with 25/30 fps, 1080p with 25/30/48/50/60fps, 960 with 25/30/50/60 fps and 720p at 25/30/50/60 and 100fps. You can also grab amazing results for slow motion recording with 120fps and 100 fps frame rate but preferably switch to 720 at 100fps to get good results. Users are also able to enjoy ProTune feature along with auto low light mode. You can boost its audio with two microphones but it cannot work with external ones.
+
+ If you want to learn more about how to improve action camera sound, please check [How to improve action camera sound.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 6.App
+
+ You can control your GoPro device from a smart phone application by making an active connection via Bluetooth or Wi-Fi. This application is compatible with Window, Android and iOS device.
+
+ On the other side, Cube+ has a dedicated Cube+ application that also provides services for live preview. It assists in easy switching between photo modes, video modes and time lapse.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Conclusion
+
+ Hero4 Session is one of the most user friendly devices from GoPro till date. It comes with impressive image quality, great battery life and waterproof lightweight design. You will definitely avail a great product with payment of $200 only.
+
+[Learn more action camera under $200](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ If you need something simple yet impressive then Polaroid Cube+ is best for you. You will find embedded magnet and the image stabilization feature useful. Moreover, you will be able to get this device at $50 less as compared to Session.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Hero4 Session is a cube shaped device that can be used to get impressive results even in worst situations. You can mount this device on your guitar as well as to front side of a ski. This device is also known by the name Hero Session but you should never confuse it with GoPro Hero5 Session that is a recent feature rich model.
+
+ On the other side, Polaroid Cube+ possesses size same as that of its predecessor Polaroid Cube. But this small size camera is more attractive as compared to Hero4 Session. With a price tage of $134.99 only, it is possible to connect Polaroid Cube+ with Android and iOS device for easy remote control, so you can use your iOS or Android device as a viewfinder.
+
+ If we look at the core features then both these devices appear somewhat similar but there are some differences in terms of capabilities and quality of video as well as image. The article below will help you to compare performance and specification of Polaroid Cube+ and Hero4 Session so that you can pick the best device from market.
+
+[Learn more about Hero Session](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Complete Comparison
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01C80O0ZU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C80O0ZU&linkId=ec1526e83e4df54a4549147cb962f687)
+
+## Specification Comparison Between Polaroid Cube+ and Hero Session
+
+| |  **GoPro Hero Session**  | **Polaroid Cube+**                                                                |                                                     |
+| -------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------- |
+| **Price**                  | $196.9                                                                            | $134.99 only                                        |
+| **Image Sensor**           | 8MP CMOS                                                                          | 8MP CMOS                                            |
+| **Frame rates**            | 1440p @ 30FPS 1080P @ 60/50/30/ 25fps 960P@ 60/50/30/25fps 720p @ 100/60/50/30fps | 1440p @ 30FPS 1080p @ 30/60 FPS 720p @ 30/60/120FPS |
+| **Lens**                   | 170°Wide-angle lens, fixed                                                        | 124° wide-angle lens, fixed                         |
+| **Photo resolution**       | 8MP                                                                               | 8MP                                                 |
+| **Built-in stabilization** | N/a                                                                               | YES                                                 |
+| **Connectivity**           | Micro USB, Bluetooth, Wi-Fi                                                       | Micro USB, Wi-Fi                                    |
+| **Weight**                 | 73g                                                                               | 59g only                                            |
+| **Microphone**             | Dual Microphone System                                                            | Built-in1 Microphone                                |
+| **Memory**                 | Micro SD, up to 32GB                                                              | MicroSD up to 128GB                                 |
+| **Dimensions**             | 1.5 x 1.5 x 1.5 inches                                                            | 1.4 x 1.4 x 1.4 inches                              |
+| **Battery**                | 1030mAh                                                                           | 600mAh                                              |
+| **Magnetic base**          | N/a                                                                               | Yes                                                 |
+| **Waterproof**             | 10m (without case)                                                                | /                                                   |
+| **APP**                    | GoPro App                                                                         | Polaroid CUBE+ App                                  |
+
+ The comparison table above reflects so many impressive specifications of both devices. You will find that Polaroid Cube+ possess few additional features as compared to Hero Session like embedded magnet and built in stabilization etc. This device possesses so many photo and video controls along with better microphone connectivity. You have to buy additional waterproof case for your Cube+ device but this device possesses an advanced magnetic mount. On the other side Session is waterproof up to 10m even without additional housing.
+
+ Hero Session comes with dual microphones where one slot is available on front side and another on back portion. It provides impressive audio quality. Your camera will automatically make selections between both mics as per need of situation.
+
+#### Feature Comparison
+
+#### 1.Design and Usability
+
+![polaroid-cube-plus-vs-gopro-hero4-session.jpg ](https://images.wondershare.com/filmora/article-images/polaroid-cube-plus-vs-gopro-hero4-session.jpg)
+
+ Polaroid Cube+ is developed with much simpler design as compared to GoPro. You can control photos as well as videos from a single button on the top - press it one time to capture stills and twice to record videos. One more button is available for Wi-Fi control that also assists in making connection with Cube+ application. You will find a Micro-USB slot and MicroSD card slot behind the door.
+
+ In case of GoPro Hero4 Session, you will not find any LCD screen on this device but you can view scenes on smart phone screen with app connectivity. On the top portion you will find a monochrome LCD panel that assists in easy setting for memory, battery, shooting modes as well as menu. Memory Card slot and USB connector is available besides the door. One LED on front and another on back keeps on indicating recording and wireless activities.
+
+#### 2.Battery and Charging
+
+ The Lithium Ion battery of GoPro Hero Session can serve you up to 2 hours with 1080p recording at 30fps frame rate. If you keep your Bluetooth and Wi-Fi on and capture 8MP photos once/second then this battery will work up to 3 hour 35 minutes. For Cube+, the battery will serve you up to 1.5 hours even if you have Wi-Fi in ON position. You can charge its battery via Micro USB port using a simple USB power pack, computer or AC-USB Adapter.
+
+#### 3.Waterproof
+
+ You can take GoPro Hero Session device under water up to 10 meter or 33 feet even without any additional protective housing. The waterproof case of this device possesses small openings from front as well as back side and GoPro producers say that it improves audio quality of device.
+
+ The Polaroid Cube+ camera is splashproof, so it is not advised to carry this camera for scuba diving. It can handle just a casual exposure to rain or just splashes. To get a high quality waterproof housing for your device you need to pay additional amount as case is not included in the package.
+
+[Learn more about the Best Waterproof Action Cameras in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 4.Accessories
+
+ The Session camera box contains a Micro USB cable, flat and curved adhesive mounts, locking screws and three mounting buckles.
+
+ The Polaroid Cube+ package includes an instruction manual, Micro SD card (8GB) and Micro USB Cable. You will be glad to find a pendant case inside package but that is not able to make it waterproof.
+
+[Learn more about action camera accessories](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 5.Video and Image Quality
+
+ Cube+ device offers 3 major choices for resolution: 720P, 1080P and 1440P. You can follow 60fps and 30fps frame rate with 1080p and 720p resolution whereas slow motion mode can be switched with 720p and 120fps. For taking stills you can easily switch between 3MP, 6Mp and 8MP where automatic exposure effect leads to much impressive results in daylight. But in case of low light performance you may feel little disappointed. The image stabilization feature is a better addition for video modes.
+
+ There is no doubt to say that photo and video mode of Hero Session are impressive with outstanding audio quality. You can switch between various videos modes as: 1440p with 25/30 fps, 1080p with 25/30/48/50/60fps, 960 with 25/30/50/60 fps and 720p at 25/30/50/60 and 100fps. You can also grab amazing results for slow motion recording with 120fps and 100 fps frame rate but preferably switch to 720 at 100fps to get good results. Users are also able to enjoy ProTune feature along with auto low light mode. You can boost its audio with two microphones but it cannot work with external ones.
+
+ If you want to learn more about how to improve action camera sound, please check [How to improve action camera sound.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 6.App
+
+ You can control your GoPro device from a smart phone application by making an active connection via Bluetooth or Wi-Fi. This application is compatible with Window, Android and iOS device.
+
+ On the other side, Cube+ has a dedicated Cube+ application that also provides services for live preview. It assists in easy switching between photo modes, video modes and time lapse.
+
+### Conclusion
+
+ Hero4 Session is one of the most user friendly devices from GoPro till date. It comes with impressive image quality, great battery life and waterproof lightweight design. You will definitely avail a great product with payment of $200 only.
+
+[Learn more action camera under $200](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ If you need something simple yet impressive then Polaroid Cube+ is best for you. You will find embedded magnet and the image stabilization feature useful. Moreover, you will be able to get this device at $50 less as compared to Session.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -368,9 +387,6 @@ Follow @Max Wales
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01C80O0ZU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C80O0ZU&linkId=ec1526e83e4df54a4549147cb962f687)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Specification Comparison Between Polaroid Cube+ and Hero Session
 
 | |  **GoPro Hero Session**  | **Polaroid Cube+**                                                                |                                                     |
@@ -477,5 +493,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-online-streams-your-easy-to-follow-internet-radio-recording-tutorial/"><u>[New] Mastering Online Streams Your Easy-to-Follow Internet Radio Recording Tutorial</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-converting-video-content-from-twitter-to-an-audiophile-written-mp3-format-for-2024/"><u>[Updated] Converting Video Content From Twitter to an Audiophile' Written MP3 Format for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-solutions-for-reverse-playback/"><u>[Updated] IPhone Solutions for Reverse Playback</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-joke-junction-ultimate-free-comic-templates/"><u>[Updated] Joke Junction Ultimate Free Comic Templates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-visibility-resizing-your-youtube-images-effectively/"><u>[Updated] Maximize Visibility Resizing Your YouTube Images Effectively</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-perfect-your-technique-how-to-on-overwatch-audio-recordings/"><u>[Updated] Perfect Your Technique How-To on Overwatch Audio Recordings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamlessly-post-pictures-your-youtube-visual-guide/"><u>[Updated] Seamlessly Post Pictures Your YouTube Visual Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spectral-imagery-phantasmal-camera-analysis/"><u>[Updated] Spectral Imagery Phantasmal Camera Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-impact-vectors-discover-the-best-10-websites/"><u>2024 Approved High-Impact Vectors Discover the Best 10 Websites</u></a></li>
+<li><a href="https://win-forum.techidaily.com/activating-network-device-wakeup-for-windows-11-users/"><u>Activating Network Device Wakeup for Windows 11 Users</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guida-rapida-alla-restaurazione-di-unita-dati-in-windows-11-strategie-semplici-e-efficaci/"><u>Guida Rapida Alla Restaurazione Di Unità Dati in Windows 11: Strategie Semplici E Efficaci</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-lava-blaze-curve-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Lava Blaze Curve 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-windows-10-top-5-recording-techniques/"><u>In 2024, Maximize Windows 10 Top 5 Recording Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photographic-tapestry-assembly-techniques/"><u>In 2024, Photographic Tapestry Assembly Techniques</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/navigating-channel-disabling-pc-and-phone-guide/"><u>Navigating Channel Disabling PC & Phone Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-picks-the-ultimate-8-tripods-for-4k-photography-for-2024/"><u>Premier Picks The Ultimate 8 Tripods for 4K Photography for 2024</u></a></li>
+</ul></div>
 

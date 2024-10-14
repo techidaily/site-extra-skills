@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Makeup Inspiration Videos"
-date: 2024-07-31T11:00:43.668Z
-updated: 2024-08-01T11:00:43.668Z
+date: 2024-10-11T23:07:42.853Z
+updated: 2024-10-13T21:58:25.394Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 
 # Video Ideas for Beauty Gurus
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 
  Beauty, lifestyle, and fashion vlogging is becoming increasingly popular. A fun, knowledgeable, Beauty Guru can amass a lot of subscribers, become part of a community of other Beauty Gurus, and sometimes even get paid work. The best Beauty Gurus make a variety of different videos instead of takes on the same thing every week. This article will explain six of the most popular video ideas for YouTube Beauty Gurus.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Video Ideas for Beauty Gurus
 
 #### 1\. Product Reviews and Tutorials
@@ -81,8 +75,72 @@ Follow @Richard Bennett
  Beauty, lifestyle, and fashion vlogging is becoming increasingly popular. A fun, knowledgeable, Beauty Guru can amass a lot of subscribers, become part of a community of other Beauty Gurus, and sometimes even get paid work. The best Beauty Gurus make a variety of different videos instead of takes on the same thing every week. This article will explain six of the most popular video ideas for YouTube Beauty Gurus.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Video Ideas for Beauty Gurus
+
+#### 1\. Product Reviews and Tutorials
+
+ A lot of the beauty videos on YouTube feature products, like different types or brands of makeup. Sometimes these videos are reviews where the Beauty Guru explains why they do or do not like a product. These reviews should be about more than whether you like a color (although there is no harm in mentioning that). Think of the questions your viewers might have about products, such as whether they are easy to put on and how long they last for. Tutorials are less about whether you like a product and more about how to use it properly, although most tutorials you do will probably be for products you like.
+
+ Beauty Gurus who start to gain some popularity are sometimes approached by companies about reviews or sponsorships. It is not uncommon for a company to give away free products for Gurus to review, and there is absolutely nothing wrong with accepting these and then reviewing them honestly. You should never let a company pay you for a good review, though. If products could buy their ways into your good graces then your subscribers would not be able to trust you.
+
+ Accepting sponsorship is not the same as being paid for a good review. If a brand sponsors you then you just need to be upfront about it and let your subscribers know. They may, understandably, not put much stock as your positive reviews of your brand’s products or your negative reviews of their competitors. That’s fine. Focus on tutorials and other types of videos. If you are popular enough that a company decided to approach you then your channel must be big enough to survive losing the few subscribers who will not like the idea of you being sponsored.
+
+#### 2\. ‘Look’ Tutorials
+
+ Do you think you could recreate the red-carpet makeup or hairstyle of a popular celebrity? If you can then that is a great video idea, and you will have as many of these ideas as there are celebrities whose looks you can duplicate. These are the kinds of videos that a lot of viewers on YouTube find interesting. You do not even need to choose real people all of the time. Think about your audience and what kinds of media they might be interested in. Teaching them how to get the same look as a fictional tv or movie character could be a big hit.
+
+#### 3\. Style by Occasion
+
+ When you know there is a holiday or special occasion coming up then you might want to get a themed video out ahead of it. Showing your subscribers nice styles for a New Year’s Party, or Thanksgiving with the family, can go over really well. These ‘style’ videos do not need to be focused only on seasonal occasions.
+
+ The occasion you teach your subscribers how to dress, do makeup, or style their hair for might be something like school or work. Tips that help people look their best on a daily basis will not only be useful to your subscribers they will show people that beauty is an everyday passion of yours, not just an occasional one. Besides, people are going to be curious about how you usually style yourself.
+
+#### 4\. Favorite Things
+
+ People are going to subscribe to you because they think you are knowledgeable, have good taste, and are fun to watch. ‘Favorite Things’ videos demonstrate all of these things. By showing people your favorite products you show them that you know what is out there and what is good. It is also a window into your personal taste. As to being fun to watch; these videos are all about you and what you like. They are a great opportunity to show off your personality.
+
+#### 5\. Problem Solving
+
+ You can make videos that will solve real problems your subscribers might have. For example, you can make videos where you teach your subscribers how to manage acne or get stains out of clothes. As people start trusting you as their source of beauty information they may even start asking you questions about problems like these. If you start getting requests for help and do not know how to answer you should do the research and then make a video rather than ignoring the question. Your subscribers will like to see that you care.
+
+#### 6\. Hauls
+
+ After shopping trips you can make quick videos where you show what you bought. This will give your viewers a good idea of your fashion sense. It is also a great way to build up anticipation about what kinds of reviews or tutorials you might have coming up. Haul videos are easy because you do not need to put a lot of planning into them, or even make an outline. You just sit in front of your camera with your shopping bags and start unpacking.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+ Beauty, lifestyle, and fashion vlogging is becoming increasingly popular. A fun, knowledgeable, Beauty Guru can amass a lot of subscribers, become part of a community of other Beauty Gurus, and sometimes even get paid work. The best Beauty Gurus make a variety of different videos instead of takes on the same thing every week. This article will explain six of the most popular video ideas for YouTube Beauty Gurus.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Video Ideas for Beauty Gurus
 
 #### 1\. Product Reviews and Tutorials
@@ -161,62 +219,14 @@ Follow @Richard Bennett
 
  After shopping trips you can make quick videos where you show what you bought. This will give your viewers a good idea of your fashion sense. It is also a great way to build up anticipation about what kinds of reviews or tutorials you might have coming up. Haul videos are easy because you do not need to put a lot of planning into them, or even make an outline. You just sit in front of your camera with your shopping bags and start unpacking.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
- Beauty, lifestyle, and fashion vlogging is becoming increasingly popular. A fun, knowledgeable, Beauty Guru can amass a lot of subscribers, become part of a community of other Beauty Gurus, and sometimes even get paid work. The best Beauty Gurus make a variety of different videos instead of takes on the same thing every week. This article will explain six of the most popular video ideas for YouTube Beauty Gurus.
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-## Video Ideas for Beauty Gurus
-
-#### 1\. Product Reviews and Tutorials
-
- A lot of the beauty videos on YouTube feature products, like different types or brands of makeup. Sometimes these videos are reviews where the Beauty Guru explains why they do or do not like a product. These reviews should be about more than whether you like a color (although there is no harm in mentioning that). Think of the questions your viewers might have about products, such as whether they are easy to put on and how long they last for. Tutorials are less about whether you like a product and more about how to use it properly, although most tutorials you do will probably be for products you like.
-
- Beauty Gurus who start to gain some popularity are sometimes approached by companies about reviews or sponsorships. It is not uncommon for a company to give away free products for Gurus to review, and there is absolutely nothing wrong with accepting these and then reviewing them honestly. You should never let a company pay you for a good review, though. If products could buy their ways into your good graces then your subscribers would not be able to trust you.
-
- Accepting sponsorship is not the same as being paid for a good review. If a brand sponsors you then you just need to be upfront about it and let your subscribers know. They may, understandably, not put much stock as your positive reviews of your brand’s products or your negative reviews of their competitors. That’s fine. Focus on tutorials and other types of videos. If you are popular enough that a company decided to approach you then your channel must be big enough to survive losing the few subscribers who will not like the idea of you being sponsored.
-
-#### 2\. ‘Look’ Tutorials
-
- Do you think you could recreate the red-carpet makeup or hairstyle of a popular celebrity? If you can then that is a great video idea, and you will have as many of these ideas as there are celebrities whose looks you can duplicate. These are the kinds of videos that a lot of viewers on YouTube find interesting. You do not even need to choose real people all of the time. Think about your audience and what kinds of media they might be interested in. Teaching them how to get the same look as a fictional tv or movie character could be a big hit.
-
-#### 3\. Style by Occasion
-
- When you know there is a holiday or special occasion coming up then you might want to get a themed video out ahead of it. Showing your subscribers nice styles for a New Year’s Party, or Thanksgiving with the family, can go over really well. These ‘style’ videos do not need to be focused only on seasonal occasions.
-
- The occasion you teach your subscribers how to dress, do makeup, or style their hair for might be something like school or work. Tips that help people look their best on a daily basis will not only be useful to your subscribers they will show people that beauty is an everyday passion of yours, not just an occasional one. Besides, people are going to be curious about how you usually style yourself.
-
-#### 4\. Favorite Things
-
- People are going to subscribe to you because they think you are knowledgeable, have good taste, and are fun to watch. ‘Favorite Things’ videos demonstrate all of these things. By showing people your favorite products you show them that you know what is out there and what is good. It is also a window into your personal taste. As to being fun to watch; these videos are all about you and what you like. They are a great opportunity to show off your personality.
-
-#### 5\. Problem Solving
-
- You can make videos that will solve real problems your subscribers might have. For example, you can make videos where you teach your subscribers how to manage acne or get stains out of clothes. As people start trusting you as their source of beauty information they may even start asking you questions about problems like these. If you start getting requests for help and do not know how to answer you should do the research and then make a video rather than ignoring the question. Your subscribers will like to see that you care.
-
-#### 6\. Hauls
-
- After shopping trips you can make quick videos where you show what you bought. This will give your viewers a good idea of your fashion sense. It is also a great way to build up anticipation about what kinds of reviews or tutorials you might have coming up. Haul videos are easy because you do not need to put a lot of planning into them, or even make an outline. You just sit in front of your camera with your shopping bags and start unpacking.
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
 
@@ -246,5 +256,23 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-inside-secrets-to-stunning-photography-with-canva/"><u>[New] Inside Secrets to Stunning Photography with Canva</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-ae-essentials-the-most-loved-templates/"><u>[New] Instagram AE Essentials The Most Loved Templates</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unleash-productivity-learn-to-screen-record-on-mac-using-just-keys/"><u>[Updated] 2024 Approved Unleash Productivity Learn to Screen Record on Mac Using Just Keys</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-iphones-ringtone-personalization/"><u>[Updated] Mastering iPhone's Ringtone Personalization</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfect-pick-kids-preferred-drones/"><u>[Updated] Perfect Pick Kids' Preferred Drones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-screencapture-guide-for-laptop-techies-for-2024/"><u>[Updated] The Ultimate ScreenCapture Guide for Laptop Techies for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sparkle-with-style-personalize-brands-using-pre-set-graphics/"><u>2024 Approved Sparkle with Style Personalize Brands Using Pre-Set Graphics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-up-your-sj4000-game-with-these-accessories/"><u>2024 Approved Step Up Your SJ4000 Game with These Accessories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-full-assessment-of-the-android-based-photo-editor-lightroom-for-2024/"><u>A Full Assessment of the Android-Based Photo Editor, Lightroom for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/achieve-better-analytics-through-advanced-cookiebot-solutions/"><u>Achieve Better Analytics Through Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-change-netflix-playback-speed/"><u>How to Change Netflix Playback Speed?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-highlighting-tailored-gpt-engagements-within-chatgpt-dialogues/"><u>Mastering the Art of Highlighting Tailored GPT Engagements Within ChatGPT Dialogues</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-nuances-of-snapchat-high-visibility-for-2024/"><u>Navigating the Nuances of Snapchat High-Visibility for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-elevate-your-videos-with-these-20-free-adobe-premiere-title-templates/"><u>New In 2024, Elevate Your Videos with These 20 Free Adobe Premiere Title Templates</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/recupera-in-modo-facile-i-tuoi-file-oscuri-con-la-tua-guida-alla-risoluzione-definitiva/"><u>Recupera in Modo Facile I Tuoi File Oscuri Con La Tua Guida Alla Risoluzione Definitiva</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/top-10-ai-powered-name-generators-for-podcasts-online-for-2024/"><u>Top 10 AI-Powered Name Generators for Podcasts Online for 2024</u></a></li>
+</ul></div>
 

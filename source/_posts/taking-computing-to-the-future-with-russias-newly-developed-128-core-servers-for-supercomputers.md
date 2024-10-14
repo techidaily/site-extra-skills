@@ -1,7 +1,7 @@
 ---
 title: Taking Computing to the Future with Russia's Newly Developed 128-Core Servers for Supercomputers
-date: 2024-10-04T19:05:10.125Z
-updated: 2024-10-07T23:04:07.970Z
+date: 2024-10-10T18:07:11.116Z
+updated: 2024-10-13T23:05:23.992Z
 tags:
   - desktop
 categories:
@@ -46,27 +46,26 @@ Pick up a powerful new gaming or productivity desktop from Lenovo with a tasty d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-into-the-blueprint-cutting-edge-techniques-for-drones/"><u>[New] Into the Blueprint Cutting-Edge Techniques for Drones</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-seamless-shift-to-perfect-insta-pics-mac-driven-video-size-evolution/"><u>[New] The Seamless Shift to Perfect Insta Pics Mac-Driven Video Size Evolution</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-tutorial-unmask-your-youtube-audience/"><u>[New] Tutorial Unmask Your YouTube Audience</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-best-vr-equipment-enhancing-flight-control/"><u>[Updated] 2024 Approved Best VR Equipment Enhancing Flight Control</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-interactive-vs-passive-entertainment-twitch-vs-youtube/"><u>[Updated] Interactive vs Passive Entertainment Twitch vs YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-rekindling-the-classics-top-80s-video-effects-for-cutting-edge-films/"><u>[Updated] Rekindling the Classics Top 80S Video Effects for Cutting-Edge Films</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-is-picku-the-ultimate-answer-to-enhancing-your-android-photos/"><u>2024 Approved Is PickU the Ultimate Answer to Enhancing Your Android Photos?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-silent-swings-managing-volume-effortlessly-in-garageband/"><u>2024 Approved Silent Swings Managing Volume Effortlessly in Garageband</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-steam-cloud-syncs-in-win-10/"><u>Fixing Steam Cloud Syncs in Win 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo S17e? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-excellent-church-streaming-services/"><u>In 2024, Navigating the Excellent Church Streaming Services</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/magnify-marvel-the-ultimate-10-camera-lens-guide-for-2024/"><u>Magnify Marvel The Ultimate 10 Camera Lens Guide for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/lays-you-can-now-see-your-shorts-for-2024/"><u>No Delays! You Can Now See Your Shorts for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/which-reigns-supreme-evaluating-the-pros-and-cons-of-apple-tv-4k-versus-roku-ultra/"><u>Which Reigns Supreme? Evaluating the Pros and Cons of Apple TV 4K Versus Roku Ultra</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-guide-convert-youtube-videos-seamlessly-to-mpeg/"><u>[New] Master Guide Convert YouTube Videos Seamlessly to MPEG</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-craft-of-macro-video-production-techniques/"><u>[New] Mastering the Craft of Macro Video Production Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-next-gen-vision-top-10-cameras-of-the-year-2024/"><u>[New] Next-Gen Vision – Top 10 Cameras of the Year 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-approach-to-understanding-and-using-telegram-online/"><u>[New] Step-By-Step Approach to Understanding and Using Telegram Online</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-sleek-skill-using-watch-to-unlock-mac/"><u>[Updated] 2024 Approved Sleek Skill Using Watch to Unlock Mac</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-from-undiscovered-to-famous-the-seo-playbook-for-your-podcast/"><u>[Updated] From Undiscovered to Famous The SEO Playbook for Your Podcast</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-macos-sierras-reversion-to-el-capitan/"><u>[Updated] Navigating MacOS Sierra's Reversion to El Capitan</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beginners-journey-into-advanced-video-coding/"><u>2024 Approved Beginner's Journey Into Advanced Video Coding</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/motionmaster-win8-edition-for-2024/"><u>MotionMaster Win8 Edition for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pros-best-top-8-tripods-excelling-at-4k-video-capture-for-2024/"><u>Pro's Best Top 8 Tripods Excelling at 4K Video Capture for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-your-phones-potential-with-custom-android-audio-alerts-for-2024/"><u>Unlocking Your Phone's Potential with Custom Android Audio Alerts for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-expert-recommended-video-animation-apps-for-mobile/"><u>Updated In 2024, Expert-Recommended Video Animation Apps for Mobile</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-the-best-video-editing-software-videopad-review-and-comparison/"><u>Updated The Best Video Editing Software? Videopad Review and Comparison</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-evolution-the-significant-changes-from-w10-to-w11/"><u>Windows Evolution: The Significant Changes From W10 to W11</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

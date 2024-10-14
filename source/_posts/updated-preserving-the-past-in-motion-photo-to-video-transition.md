@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Preserving the Past in Motion  Photo to Video Transition\""
-date: 2024-10-02T03:30:13.013Z
-updated: 2024-10-08T01:03:03.290Z
+date: 2024-10-08T01:51:36.464Z
+updated: 2024-10-14T01:09:54.917Z
 tags: 
   - screen-recording
   - ai video
@@ -65,10 +65,10 @@ Some popular photo scanners that you can consider using are Scanner Pro, PhotoSc
 In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Convert Old Photos into a Video Effortlessly?
@@ -99,25 +99,11 @@ Once you have imported your photos, you can include them in the timeline. To do 
 
 ![create timeline for photos](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 3\. Edit the video
 
 Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
 
 ![Edit Digitized Photos](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
@@ -127,20 +113,33 @@ As stated above, you can find a wide range of video editing options to explore i
 
 ![Add Effects to Digitized Photos](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
 ![Add Title to Digitized Photos](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
 ![Add Audio to Digitized Photos](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 5\. Export your video
 
@@ -182,6 +181,13 @@ There you go! I’m sure that after reading this guide, you would be able to dig
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -197,20 +203,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-creating-magnetic-storylines-for-your-vlog-videos/"><u>[New] In 2024, Creating Magnetic Storylines for Your Vlog Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-endorsements-on-screen-shaping-perceptions/"><u>[Updated] 2024 Approved Endorsements on Screen Shaping Perceptions</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-digital-destinations-where-to-direct-your-videos/"><u>[Updated] In 2024, Digital Destinations Where to Direct Your Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prestigious-zooids-introduction-spotlight/"><u>[Updated] Prestigious Zooids Introduction Spotlight</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-launch-checklist-essential-tasks-for-bringing-your-review-channel-to-life/"><u>2024 Approved Quick Launch Checklist Essential Tasks for Bringing Your Review Channel to Life</u></a></li>
-<li><a href="https://extra-information.techidaily.com/5-best-photo-video-maker-with-music/"><u>5 Best Photo Video Maker With Music</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-magic5-ultimate-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor Magic5 Ultimate</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-iphone-camera-settings-simplified-for-2024/"><u>Expert iPhone Camera Settings Simplified for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-inside-the-immersive-evolution-vrs-present-state-and-foreseen-obstacles/"><u>In 2024, Inside the Immersive Evolution VR's Present State and Foreseen Obstacles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mobile-recorder-iphones-future-call-log/"><u>In 2024, Mobile Recorder IPhone's Future Call Log</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-zoom-on-snapchat-for-better-snaps/"><u>In 2024, Perfecting Zoom on Snapchat for Better Snaps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/is-imyfone-fixppo-effective-comprehensive-guide-and-insights-into-this-iphone-unlocking-solution/"><u>Is iMyFone Fixppo Effective? Comprehensive Guide and Insights Into This iPhone Unlocking Solution</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-hdr-photos-advanced-techniques-in-photoshop-for-2024/"><u>Mastering HDR Photos Advanced Techniques in Photoshop for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/swift-and-easy-video-to-swf-conversion-download-our-free-tool/"><u>Swift & Easy Video-to-SWF Conversion | Download Our FREE Tool!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/xbox-one-and-pc-integration-button-maneuvers/"><u>Xbox One & PC Integration: Button Maneuvers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-engagement-enhancing-videos-with-pro-editing-skills/"><u>[Updated] Elevate Engagement Enhancing Videos with Pro Editing Skills</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photo-perfection-at-your-fingertips-top-10-stickers-on-iphones-and-androids/"><u>[Updated] Photo Perfection at Your Fingertips Top 10 Stickers on iPhones & Androids</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-creative-freedom-on-a-budget-essential-green-screen-effects-from-top-4-tutorial-sources/"><u>2024 Approved Creative Freedom on a Budget Essential Green Screen Effects From Top 4 Tutorial Sources</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-oppo-reno-11-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Oppo Reno 11 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-experience-with-freshly-updated-rtx-2080-super-nvidia-drivers-compatible-with-windows-1110/"><u>Enhance Your Experience with Freshly Updated RTX 2080 Super Nvidia Drivers - Compatible with Windows 11/10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-unstuck-in-no-time-resolve-your-madden-22-load-screen-problems-instantly/"><u>Get Unstuck in No Time: Resolve Your Madden 22 Load Screen Problems Instantly!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-n3-flip-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo Find N3 Flip Bootloader Easily</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instant-visualization-techniques-for-timestamp-implementation/"><u>In 2024, Instant Visualization Techniques for Timestamp Implementation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mememasters-suite-download/"><u>In 2024, MemeMasters Suite Download</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/make-everyday-banter-hilarious-text-meme-genration-for-2024/"><u>Make Everyday Banter Hilarious Text Meme Gen'ration for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/persistent-wi-fi-problems-on-iphone-try-these-5-troubleshooting-steps/"><u>Persistent Wi-Fi Problems on iPhone? Try These 5 Troubleshooting Steps!</u></a></li>
 </ul></div>
 

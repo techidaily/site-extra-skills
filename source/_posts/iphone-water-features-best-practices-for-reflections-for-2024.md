@@ -1,7 +1,7 @@
 ---
 title: "\"IPhone Water Features  Best Practices for Reflections for 2024\""
-date: 2024-09-26T16:45:31.623Z
-updated: 2024-09-27T18:04:57.312Z
+date: 2024-10-13T00:27:03.383Z
+updated: 2024-10-13T21:23:05.269Z
 tags: 
   - screen-recording
   - ai video
@@ -141,6 +141,13 @@ thumbnail: https://thmb.techidaily.com/9b1d54d7ae73d83b91bdfdadbf959717f77a8b021
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -158,19 +165,6 @@ Follow @Ollie Mattison
  Reflective photography is an ever growing trend on social media, so you want your images to stand out… This handy guide tells you everything you need to know, and even how to create reflective photos in post production!
 
  So let's get snapping!
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips For Perfect Reflective Photography With Your iPhone
 
@@ -191,16 +185,10 @@ Follow @Ollie Mattison
 ![water-reflection](https://images.wondershare.com/filmora/article-images/water-reflection.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2\.  Pay Attention to Composition
@@ -214,13 +202,6 @@ Follow @Ollie Mattison
  iPhone already has a feature for you to bring up lines before you take the photo with the rule of thirds:
 
 ![reflection-composition-tips](https://images.wondershare.com/filmora/article-images/reflection-composition-tips.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To activate the lines simply go to **Settings > Camera and Photographs > Grid**
 
@@ -239,10 +220,10 @@ Follow @Ollie Mattison
 ![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 4\.  Reality and Reflection
@@ -287,6 +268,13 @@ Follow @Ollie Mattison
 #### 2\. [Reflection](https://itunes.apple.com/us/app/reflection-create-water-reflection-photo-arts/id672111257?mt=8)
 
 ![reflection-create-water-reflection-photo-arts](https://images.wondershare.com/filmora/article-images/reflection-create-water-reflection-photo-arts.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Super user friendly app lets you create HD photos and it's intuitive feature means you can create reflective photos in a few taps. This is one of the best apps in terms of the quality of images/edits. It has all of the reflective effects of many of the top editing packages like Photoshop.
 
@@ -413,6 +401,13 @@ Follow @Ollie Mattison
 
 ![reflection-create-water-reflection-photo-arts](https://images.wondershare.com/filmora/article-images/reflection-create-water-reflection-photo-arts.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Super user friendly app lets you create HD photos and it's intuitive feature means you can create reflective photos in a few taps. This is one of the best apps in terms of the quality of images/edits. It has all of the reflective effects of many of the top editing packages like Photoshop.
 
 #### 3\. [Photo Reflection](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
@@ -431,13 +426,6 @@ Follow @Ollie Mattison
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -452,13 +440,6 @@ Follow @Ollie Mattison
 
 ![reflection-photography-for-iphone](https://images.wondershare.com/filmora/article-images/reflection-photography-for-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Reflective photography is an ever growing trend on social media, so you want your images to stand out… This handy guide tells you everything you need to know, and even how to create reflective photos in post production!
 
  So let's get snapping!
@@ -472,6 +453,13 @@ Follow @Ollie Mattison
  A Well Polished Table
 
 ![reflection-surface](https://images.wondershare.com/filmora/article-images/reflection-surface.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A Crystal/Glass Ball
 
@@ -492,13 +480,6 @@ Follow @Ollie Mattison
  iPhone already has a feature for you to bring up lines before you take the photo with the rule of thirds:
 
 ![reflection-composition-tips](https://images.wondershare.com/filmora/article-images/reflection-composition-tips.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To activate the lines simply go to **Settings > Camera and Photographs > Grid**
 
@@ -553,6 +534,13 @@ Follow @Ollie Mattison
 
 ![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
 
 #### 2\. [Reflection](https://itunes.apple.com/us/app/reflection-create-water-reflection-photo-arts/id672111257?mt=8)
@@ -565,6 +553,13 @@ Follow @Ollie Mattison
 
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
 
 #### 4\. [Photo Mirror Effects](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
@@ -576,13 +571,6 @@ Follow @Ollie Mattison
  The app also has a large library of free and premium templates for you to use...
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -614,21 +602,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-heard-words-spoken-ideas-no-price/"><u>[New] Heard Words, Spoken Ideas – No Price</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-mastering-access-facebooks-classic-stories-for-2024/"><u>[New] Mastering Access Facebook's Classic Stories for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-arcadearchive-annotator/"><u>[Updated] ArcadeArchive Annotator</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-lg-27ud88-w-4k-usb-type-c-monitor-complete-review/"><u>[Updated] LG 27UD88-W 4K USB Type-C Monitor Complete Review</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-magix-paintbox-assessment-the-reveal/"><u>[Updated] MAGIX Paintbox Assessment The Reveal</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastery-over-windows-10s-photo-app-stability-challenges/"><u>[Updated] Mastery Over Windows 10'S Photo App Stability Challenges</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-clearing-up-black-screens-in-youtube-playback/"><u>2024 Approved Clearing Up Black Screens in YouTube Playback</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-overlay-wizardry-on-your-windows-desktop/"><u>2024 Approved Overlay Wizardry on Your Windows Desktop</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-filmmaking-kinemaster-transition-techniques/"><u>2024 Approved Seamless Filmmaking Kinemaster Transition Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-secrets-to-successfully-obtain-windows-movie-maker-6/"><u>2024 Approved Secrets to Successfully Obtain Windows Movie Maker 6</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-google-pixel-8-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Google Pixel 8 Pro</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/itel-p40plus-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Itel P40+ ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ct-sound-devices-for-podcasters/"><u>Perfect Sound Devices for Podcasters</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfecting-your-look-with-top-facelift-apps-for-2024/"><u>Perfecting Your Look with Top Facelift Apps for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unleashing-memories-above-ground-top-tier-cloud-options-reviewed-for-2024/"><u>Unleashing Memories Above Ground Top-Tier Cloud Options Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-step-by-step-guide-to-forming-effective-youtube-partner-relationships-for-2024/"><u>[New] A Step-by-Step Guide to Forming Effective YouTube Partner Relationships for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-amusing-registration-journey/"><u>[New] Amusing Registration Journey</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-basic-concepts-of-plotting-and-characterizing/"><u>[New] In 2024, Basic Concepts of Plotting and Characterizing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimal-zoom-techniques-enhance-photos-and-videos-with-simple-steps/"><u>[New] Optimal Zoom Techniques Enhance Photos & Videos with Simple Steps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-journey-mastering-the-art-of-gs-with-kinemaster/"><u>[New] Step-by-Step Journey Mastering the Art of GS with KineMaster</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-key-iphone-shot-design-guidelines-unveiled/"><u>[Updated] Key iPhone Shot Design Guidelines Unveiled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-new-horizons-in-graphic-design-post-acid/"><u>[Updated] New Horizons in Graphic Design Post-ACID</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-listing-of-superior-free-lut-downloads/"><u>[Updated] Premier Listing of Superior Free LUT Downloads</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-a-quick-guide-to-firefoxs-innovative-pip-mode/"><u>2024 Approved A Quick Guide to Firefox's Innovative PIP Mode</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-in-app-image-alterations-resizing-photos-made-simple-ios/"><u>2024 Approved In-App Image Alterations Resizing Photos Made Simple (iOS)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-the-art-of-cinematic-vibrance-top-11-post-production-insights/"><u>2024 Approved Master the Art of Cinematic Vibrance Top 11 Post-Production Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-the-art-of-vlogging-starting-kit-and-tools/"><u>2024 Approved Master the Art of Vlogging Starting Kit & Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amazon-prime-subtitles-not-working-heres-how-to-fix-them-quickly/"><u>Amazon Prime Subtitles Not Working? Here's How to Fix Them Quickly!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2003-files-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2003 Files | Stellar</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-tips-for-altering-video-speed-on-netflix-devices/"><u>In 2024, Quick Tips for Altering Video Speed on Netflix Devices</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/style-with-confidence-adding-border-artistry-to-your-instagram-posts/"><u>Style with Confidence Adding Border Artistry to Your Instagram Posts</u></a></li>
 </ul></div>
 
