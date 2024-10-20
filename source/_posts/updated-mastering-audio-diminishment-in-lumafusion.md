@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Audio Diminishment in Lumafusion"
-date: 2024-10-07T22:42:54.093Z
-updated: 2024-10-13T19:56:59.844Z
+date: 2024-10-16T22:49:30.844Z
+updated: 2024-10-20T01:33:13.763Z
 tags: 
   - screen-recording
   - ai video
@@ -62,11 +62,31 @@ Drag and drop your sound recordings from the media library to the timeline at th
 
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4 Share and export
 
@@ -77,39 +97,19 @@ In that window, you can select the MP3 format in the format customization box to
 ## Part 3\. Related FAQs about LumaFusion
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. How to you split audio and video in LumaFusion?
 
@@ -129,13 +129,6 @@ Drag and drop your sound recordings from the media library to the timeline at th
 
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
@@ -148,18 +141,25 @@ After finishing the method for editing audio in Filmora, click the Export button
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. Related FAQs about LumaFusion
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. How do you do transitions in LumaFusion?
 
@@ -193,22 +193,24 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-deciphering-the-code-youtube-community-rules-explained/"><u>[New] Deciphering the Code YouTube Community Rules Explained</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-twinned-voices-celebrated-on-tiktok/"><u>[New] Twinned Voices Celebrated on TikTok</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-dimming-decibels-softening-audio-in-computers/"><u>[Updated] 2024 Approved Dimming Decibels Softening Audio in Computers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-ideal-pairings-prime-mac-software-for-video-snatching/"><u>[Updated] Ideal Pairings Prime Mac Software for Video Snatching</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-learning-legends-esteemed-ed-streams-online/"><u>[Updated] Learning Legends Esteemed Ed Streams Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pazeras-audio-extraction-mastery-in-the-2024-landscape/"><u>[Updated] Pazera's Audio Extraction Mastery in the 2024 Landscape</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pinpointing-premium-hdr-camera-brands/"><u>2024 Approved Pinpointing Premium HDR Camera Brands</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/explanation-of-hemophilia-as-an-x-linked-recessive-disorder/"><u>Explanation of Hemophilia as an X-Linked Recessive Disorder</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prelude-playlists-navigating-auditory-sources-for-podcasts/"><u>In 2024, Prelude Playlists Navigating Auditory Sources for Podcasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premium-6-solutions-for-multilingual-videos/"><u>In 2024, Premium 6 Solutions for Multilingual Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/leading-movie-teasers-highlighted-for-2024/"><u>Leading Movie Teasers Highlighted for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-srt-integration-in-mp4s-a-complete-blueprint-for-2024/"><u>Mastering SRT Integration in MP4s A Complete Blueprint for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/orbitmaster-high-definition-full-touch-desktops-for-2024/"><u>OrbitMaster High Definition Full Touch Desktops for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-windows-10-launch-error-for-civilization-vi-solutions-inside/"><u>Overcoming Windows 10 Launch Error for Civilization VI - Solutions Inside</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-not-working-on-oppo-a58-4g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Oppo A58 4G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/spectacular-4k-tvs-nine-picks-for-exceptional-color-fidelity-for-2024/"><u>Spectacular 4K TVs Nine Picks for Exceptional Color Fidelity for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/upcoming-enhancements-propel-googles-bard-ai-forward-what-to-expect/"><u>Upcoming Enhancements Propel Google's BARD AI Forward: What to Expect</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-affordable-pc-display-recorder-apps-for-2024/"><u>[New] Affordable PC Display Recorder Apps for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-amazon-prime-fan-favorites-highest-likes-and-view-counts-for-2024/"><u>[New] Amazon Prime Fan Favorites Highest Likes & View Counts for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-financial-insights-for-vids-how-much-do-youtubers-earn-per-sponsorship/"><u>[Updated] In 2024, Financial Insights for Vids How Much Do YouTubers Earn Per Sponsorship?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-resolving-blackout-errors-on-playback-devices-for-2024/"><u>[Updated] Resolving Blackout Errors on Playback Devices for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2021s-top-contender-comprehensive-analysis-of-the-alienware-aurora-r11-as-a-premier-gaming-pc/"><u>2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-war-thunder-game-top-strategies-for-overcoming-lag-and-improving-frames-per-second-fps/"><u>Boost Your War Thunder Game: Top Strategies for Overcoming Lag and Improving Frames Per Second (FPS)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/comprehensive-chromecast-with-google-tv-analysis-a-new-contender-vs-amazons-firetv/"><u>Comprehensive Chromecast with Google TV Analysis: A New Contender vs Amazon's FireTV</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/discover-the-motorola-one-5g-ace-an-in-depth-review-of-superior-5g-speed-combined-with-extended-battery-life/"><u>Discover the Motorola One 5G Ace – An In-Depth Review of Superior 5G Speed Combined with Extended Battery Life</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/effective-solutions-to-the-quick-valorant-graphics-driver-down-error/"><u>Effective Solutions to the Quick 'Valorant Graphics Driver Down' Error</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-modern-tech-with-our-comprehensive-review-of-the-acer-chromebook-r-11-portability-perfected/"><u>Experience Modern Tech with Our Comprehensive Review of the Acer Chromebook R 11: Portability Perfected</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-to-the-most-preferred-free-video-players-our-best-12-picks-pcmobile-for-2024/"><u>Guide to the Most Preferred Free Video Players Our Best 12 Picks (PC/Mobile) for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/how-to-get-msi-afterburner-to-detect-your-graphics-card-on-pc-windows-10-and-11/"><u>How to Get MSI Afterburner to Detect Your Graphics Card on PC (Windows 10 & 11)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pc-troubleshooting-fixing-constant-crashes-in-alien-fireteam-elite/"><u>PC Troubleshooting: Fixing Constant Crashes in Alien: Fireteam Elite</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-to-downloading-drivers-for-your-asus-z370-e-platform/"><u>Quick Guide to Downloading Drivers for Your ASUS Z370-E Platform</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sizzling-skills-tested-in-depth-analysis-of-overcooked-2s-gastronomic-adventure/"><u>Sizzling Skills Tested: In-Depth Analysis of Overcooked! 2'S Gastronomic Adventure</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/trouble-looms-as-diablo-ii-reborn-struggles-with-initial-launch-setbacks/"><u>Trouble Looms as Diablo II Reborn Struggles with Initial Launch Setbacks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/ultimate-guide-unboxing-and-testing-tp-link-re505x-range-extender/"><u>Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender</u></a></li>
 </ul></div>
 

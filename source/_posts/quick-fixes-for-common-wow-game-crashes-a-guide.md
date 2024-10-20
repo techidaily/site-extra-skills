@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes for Common WoW Game Crashes: A Guide"
-date: 2024-10-08T21:57:16.126Z
-updated: 2024-10-13T20:59:57.590Z
+date: 2024-10-17T20:43:16.430Z
+updated: 2024-10-19T16:01:27.911Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 8. **[Adjust your Windows system for the best performance](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets the system requirements for DayZ
 
@@ -90,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 ![Driver Easy update graphics driver](https://images.drivereasy.com/wp-content/uploads/2019/07/Driver-Easy-update-graphics-driver-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.
@@ -103,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest DayZ patch
 
@@ -122,20 +136,27 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Click **NVIDIA Control Panel**  to open it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Lower the in-game graphics settings
 
@@ -166,22 +187,15 @@ See if you can play the game smoothly. If not, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Run DayZ again to see if you can play the game smoothly. If the FPS in DayZ still drops, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Temporarily disable the third-party antivirus application
 
@@ -195,13 +209,6 @@ See if you can play the game smoothly. If not, try the next fix, below.
 
 Try the next fix below if this fix didn’t work for you.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Change the power plan of your PC
 
  Most PC are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU. If the power plan of your PC is **Power saver**  or **Balanced** , you might run into the game FPS drops issue.
@@ -211,14 +218,15 @@ Try the next fix below if this fix didn’t work for you.
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch DayZ to see if you resolve the FPS drops issue. If not, try the next fix below to adjust your Windows system for the best performance.
 
@@ -231,13 +239,6 @@ Try the next fix below if this fix didn’t work for you.
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **control sysdm.cpl** and press **Enter** to open the**System Properties** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-system-properties.png)
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
@@ -268,24 +269,24 @@ Try the next fix below if this fix didn’t work for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-linuxs-best-pick-screen-capture-and-save-tools/"><u>[New] In 2024, Linux's Best Pick Screen Capture & Save Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-insightful-analysis-of-modern-human-interaction-systems/"><u>[New] Insightful Analysis of Modern Human Interaction Systems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-masterful-videography-top-15-cameras-selection-guide/"><u>[New] Masterful Videography Top 15 Cameras Selection Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfect-pathway-setting-up-movie-maker-6/"><u>[New] Perfect Pathway Setting Up Movie Maker 6</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-precisely-how-to-disconnect-from-your-outdated-linkedin-account/"><u>[New] Precisely How To Disconnect From Your Outdated LinkedIn Account</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-premium-list-the-finest-4k-monitors-with-recording-features/"><u>[Updated] 2024 Approved Premium List The Finest 4K Monitors with Recording Features</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-key-tips-for-attracting-brands-as-youtubers-sponsors/"><u>[Updated] Key Tips for Attracting Brands as Youtubers' Sponsors</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-master-iphone-cams-with-these-hacks/"><u>[Updated] Master iPhone Cams with These Hacks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-penning-podcasts-to-perfection-a-compreomed-writers-guide/"><u>[Updated] Penning Podcasts to Perfection A Compreomed Writer’s Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-realigning-captions-from-srt-to-subcap/"><u>[Updated] Realigning Captions From SRT to SUBCAP</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-your-youtube-comment-tracking-on-multiple-devices/"><u>[Updated] Unlocking Your YouTube Comment Tracking on Multiple Devices</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-zooming-out-your-guide-to-flawless-borders-for-2024/"><u>[Updated] Zooming Out Your Guide to Flawless Borders for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-mastering-media-migration-tiktok-directly-to-fb/"><u>2024 Approved Mastering Media Migration TikTok Directly to FB</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-infinix-smart-7-hd-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Infinix Smart 7 HD for Free? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sdr-vs-hdr-the-superiority-of-high-dynamic-range-in-video-production/"><u>In 2024, SDR Vs. HDR The Superiority of High Dynamic Range in Video Production</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unveiling-the-premier-android-emulators-for-ps2-games/"><u>In 2024, Unveiling the Premier Android Emulators for PS2 Games</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-your-vision-with-these-6-premier-nft-tools-for-2024/"><u>Master Your Vision with These 6 Premier NFT Tools for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/selective-alarm-tones-optimal-websites-list-for-2024/"><u>Selective Alarm Tones Optimal Websites List for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-effective-screenrecording-practices-for-professionals/"><u>[New] 2024 Approved Effective ScreenRecording Practices for Professionals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-learn-how-to-obtain-fee-free-pictorial-entertainment/"><u>[New] Learn How To Obtain Fee-Free Pictorial Entertainment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-ois-enhanced-smartphones-for-seamless-video-filming-experience/"><u>[New] OIS-Enhanced Smartphones for Seamless Video Filming Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-effortless-pc-sound-logging-with-x-recorder-software-for-2024/"><u>[Updated] Effortless PC Sound Logging with X-Recorder Software for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-masterclass-naming-your-podcast-and-top-50plus-name-suggestions-for-inspiration/"><u>[Updated] Masterclass Naming Your Podcast & Top 50+ Name Suggestions for Inspiration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-up-your-slow-mo-game-expert-guide-for-amazing-android-videos/"><u>[Updated] Step Up Your Slow Mo Game Expert Guide for Amazing Android Videos</u></a></li>
+<li><a href="https://win-superb.techidaily.com/secure-boot/"><u>使用'Secure Boot'设置 - 终止选项的步骤指南</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-oppo-reno-11-5g-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Oppo Reno 11 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722902145645-experience-innovation-with-the-apple-iphone-debut-get-ready/"><u>Experience Innovation with the Apple iPhone Debut – Get Ready</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-set-up-a-dell-pc-recovery-partition-for-windows-10-system-restore/"><u>How to Set Up a Dell PC Recovery Partition for Windows 10 System Restore</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c110-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Nokia C110 Phone without Google Account?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-simple-hdr-photography-methods/"><u>In 2024, Mastering Simple HDR Photography Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-device-editors-for-app-development-art-for-2024/"><u>Leading Device Editors for App Development Art for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-obtaining-professional-photo-banners-for-2024/"><u>Mastering the Art of Obtaining Professional Photo Banners for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pathway-guide-acquiring-movie-maker-6-on-your-system-for-2024/"><u>Pathway Guide Acquiring Movie Maker 6 on Your System for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/seamless-selection-the-finest-10-online-vimeo-file-harvesters-for-2024/"><u>Seamless Selection The Finest 10 Online Vimeo File Harvesters for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-strategies-for-launching-modern-warfare-2-without-a-hitch/"><u>Solution Strategies for Launching Modern Warfare 2 Without a Hitch</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/strategic-placement-sites-for-video-marketing-for-2024/"><u>Strategic Placement Sites for Video Marketing for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/transform-your-snapshots-into-shares-heres-how/"><u>Transform Your Snapshots Into Shares – Here's How</u></a></li>
 </ul></div>
 

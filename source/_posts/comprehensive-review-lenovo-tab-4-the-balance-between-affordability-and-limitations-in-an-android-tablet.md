@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet"
-date: 2024-10-10T18:49:32.259Z
-updated: 2024-10-13T19:55:20.751Z
+date: 2024-10-15T18:21:13.179Z
+updated: 2024-10-19T21:47:45.617Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet"
@@ -59,16 +59,10 @@ Lifewire / Kelsey Simon
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Story: Heavy-handed writing to the exclusion of all else**
@@ -76,6 +70,13 @@ Lifewire / Kelsey Simon
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -86,10 +87,10 @@ Lifewire / Kelsey Simon
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Gameplay: Dialogue prompts and effort**
@@ -97,13 +98,6 @@ Lifewire / Kelsey Simon
  The Tides of Numenera is a third-person[role-playing game](https://www.lifewire.com/best-free-offline-rpg-games-4177675) where almost 75 percent of the gameplay is scrolling dialogue boxes and the various prompts that will pop up as the game tells you the story. These prompts will allow you control over how the story unfolds, and this, more than anything else, is the game’s main mechanic.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -130,16 +124,10 @@ Lifewire / Kelsey Simon
  Lifewire / Kelsey Simon
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Only worth it if you’re keen on the story**
@@ -185,16 +173,18 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-boomerang-magic-in-snapchat-step-by-step-guide-for-2024/"><u>[New] Boomerang Magic in Snapchat – Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-high-end-audio-for-youtubes-best-gamers-for-2024/"><u>[New] High-End Audio for YouTube's Best Gamers for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-premier-8-edits-suites-for-linux-buffs/"><u>[New] Premier 8 Edits Suites for Linux Buffs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-spearheading-groundbre-folks-in-vr-space/"><u>[Updated] Spearheading Groundbre Folks In VR Space</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-light-shadow-and-subtlety-in-film-coloring/"><u>2024 Approved Light, Shadow & Subtlety in Film Coloring</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-top-15-films-featuring-dolby-atmos-for-an-unmatched-home-viewing-experience/"><u>Discover the Top 15 Films Featuring Dolby Atmos for an Unmatched Home Viewing Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-workouts-the-best-vr-treadmill-choices/"><u>In 2024, Revolutionizing Workouts The Best VR Treadmill Choices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-video-integration-with-apple-music-for-2024/"><u>Mastering Video Integration with Apple Music for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-through-quantum-hdr-expertise-for-2024/"><u>Navigating Through Quantum HDR Expertise for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pro-editors-picks-optimal-after-effects-plugin-choices-for-2024/"><u>Pro Editor's Picks Optimal After Effects Plugin Choices for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/snapchat-video-effects-mastery-learn-to-play-your-clips-backwards/"><u>Snapchat Video Effects Mastery: Learn to Play Your Clips Backwards</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-distinguish-real-from-sham-on-your-instagram-circle-quickly/"><u>[New] How to Distinguish Real From Sham on Your Instagram Circle Quickly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-pip-navigating-netflixs-floating-screen-functionality/"><u>[New] Mastering PIP Navigating Netflix's Floating Screen Functionality</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-understanding-the-dynamics-of-ig-reels-vs-ig-stories/"><u>[New] Understanding the Dynamics of IG Reels Vs IG Stories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfectly-sync-apple-music-to-your-videos/"><u>[Updated] Perfectly Sync Apple Music to Your Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-how-to-listen-to-podcasts-on-your-iphone/"><u>2024 Approved How To Listen to Podcasts on Your iPhone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-location-love-your-ultimate-poi-assistant-for-timely-tips-and-tricks/"><u>2024 Approved Location Love Your Ultimate POI Assistant for Timely Tips and Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-step-by-step-guide-to-lut-mastery/"><u>In 2024, Step-by-Step Guide to LUT Mastery</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-narzo-60-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme Narzo 60 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-development-navigating-dev-drive-in-windows-11/"><u>Mastering Development: Navigating Dev Drive in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-learn-the-easy-reset-procedure-to-bring-your-keyboard-back-to-life/"><u>Quick Fix: Learn the Easy Reset Procedure to Bring Your Keyboard Back to Life</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-sound-to-your-lenovo-laptop-essential-tips-and-fixes-for-audio-issues/"><u>Restore Sound to Your Lenovo Laptop: Essential Tips and Fixes for Audio Issues</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-definitive-guide-to-srt-editing-on-mac-for-2024/"><u>The Definitive Guide to SRT Editing on Mac for 2024</u></a></li>
 </ul></div>
 

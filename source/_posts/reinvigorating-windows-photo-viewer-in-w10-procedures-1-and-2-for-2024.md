@@ -1,7 +1,7 @@
 ---
 title: "\"Reinvigorating Windows Photo Viewer in W10  Procedures #1 & #2 for 2024\""
-date: 2024-10-09T23:48:29.854Z
-updated: 2024-10-13T18:05:06.895Z
+date: 2024-10-14T18:11:21.742Z
+updated: 2024-10-20T00:29:51.274Z
 tags: 
   - screen-recording
   - ai video
@@ -58,10 +58,10 @@ Here is why they want to restore Windows Photo Viewer –
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
@@ -73,10 +73,10 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
@@ -97,22 +97,15 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -120,6 +113,13 @@ Here is the detailed guide –
 From the above article, we found out that restoring Windows Photo Viewer on your system is not a tough task. But, without having the proper knowledge you shouldn’t play around with your Photos app. So, this article guides you through a reliable method for restoring Windows Photo Viewer and view your photos like you always loved to. We hope you liked our efforts of enlightening you about Windows Photo Viewer and got the necessary information. Plus, if none of these work, you can use [Windows 10 Photos app alternatives](https://tools.techidaily.com/wondershare/filmora/download/). Thanks for reading! Do comment us below to let us know your views.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -138,22 +138,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-first-timers-map-to-earning-wealth-with-periscope/"><u>[New] First-Timer's Map to Earning Wealth with Periscope</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-reviewing-the-high-quality-video-on-galaxy-s8/"><u>[New] Reviewing the High-Quality Video on Galaxy S8</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-livestream-champions-weighing-up-winners-between-obs-studio-and-bandicam/"><u>[Updated] 2024 Approved Livestream Champions Weighing Up Winners Between OBS Studio and Bandicam</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-capture-your-music-5-pro-tips-for-streaming-sound-online/"><u>[Updated] Capture Your Music 5 Pro Tips for Streaming Sound Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-how-to-set-up-zoom-for-video-meeting/"><u>[Updated] How to Set up Zoom for Video Meeting</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-insight-into-how-luts-transform-your-digital-canvas/"><u>[Updated] Insight Into How LUTs Transform Your Digital Canvas</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-efficiently-engaging-with-numerous-youtube-lectures/"><u>2024 Approved Efficiently Engaging with Numerous YouTube Lectures</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-professional-lands-cooked-by-audacity/"><u>2024 Approved Navigating the Professional Lands Cooked by Audacity</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-online-concert-for-a-click-music-and-memories/"><u>2024 Approved Online Concert for a Click Music and Memories</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-social-sanctuary-secure-access-restored/"><u>2024 Approved Social Sanctuary Secure Access Restored</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-iphone-13-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From iPhone 13 Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-source-authenticity-is-chatgpt-accused-of-plagiarism/"><u>Exploring Source Authenticity: Is ChatGPT Accused of Plagiarism?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-poco-x6-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Poco X6 Pro Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-insight-into-burst-mode-for-dynamic-photography/"><u>In 2024, Insight Into Burst Mode for Dynamic Photography</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-multitasking-firefox-picture-in-picture-explained/"><u>In 2024, Mastering Multitasking Firefox Picture-in-Picture Explained</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-smart-solutions-apply-apple-watch-open-mac/"><u>In 2024, Smart Solutions Apply Apple Watch, Open Mac</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-how-to-break-down-avi-files-into-smaller-clips-a-simple-tutorial-for-2024/"><u>Updated How to Break Down AVI Files Into Smaller Clips A Simple Tutorial for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-views-the-power-of-synergistic-youtube-content-partnerships/"><u>[New] 2024 Approved Elevate Views The Power of Synergistic YouTube Content Partnerships</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pioneering-easy-audio-alterations-for-competitive-play/"><u>[New] Pioneering Easy Audio Alterations for Competitive Play</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-framemaster-top-screen-recorder-reviews-of-the-year/"><u>[Updated] 2024 Approved FrameMaster Top Screen Recorder Reviews of the Year</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-websites-for-free-game-of-thrones-ringtones/"><u>[Updated] Leading Websites for Free Game of Thrones Ringtones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-secure-and-simple-the-top-10-trusted-online-transformers/"><u>[Updated] Secure and Simple The Top 10 Trusted Online Transformers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-selection-of-8-online-sites-featuring-golden-text-in-3d/"><u>2024 Approved Exclusive Selection of 8 Online Sites Featuring Golden Text in 3D</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-vivo-s17-frp-bypass-by-drfone-android/"><u>About Vivo S17 FRP Bypass</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-printer-driver-download-and-update-for-windows-10-11/"><u>HP Printer Driver Download & Update for Windows 10, 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-window-viewer-for-speedy-images/"><u>In 2024, Prime Window Viewer for Speedy Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-gif-software-ranked-apples-favorites-for-2024/"><u>Leading GIF Software Ranked Apple's Favorites for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/srt-conversion-compendium-for-media-professionals-for-2024/"><u>SRT Conversion Compendium for Media Professionals for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-missing-link-in-facebook-news-feeds/"><u>The Missing Link in Facebook News Feeds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-tips-integrating-chatgpt-with-visual-studio-code/"><u>Top 10 Tips: Integrating ChatGPT with Visual Studio Code</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-samsung-galaxy-a15-4g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Samsung Galaxy A15 4G Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
 

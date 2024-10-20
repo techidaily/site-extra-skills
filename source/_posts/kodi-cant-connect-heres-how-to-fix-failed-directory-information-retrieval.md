@@ -1,7 +1,7 @@
 ---
 title: Kodi Can't Connect? Here's How to Fix Failed Directory Information Retrieval
-date: 2024-10-08T18:05:22.707Z
-updated: 2024-10-14T00:36:34.131Z
+date: 2024-10-13T02:00:41.551Z
+updated: 2024-10-19T16:22:47.466Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ Amazon Prime provides thousands of great series and movies which you can enjoy a
 * [Disable your VPN and third-party apps](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Reboot the browser
@@ -40,6 +40,13 @@ Amazon Prime provides thousands of great series and movies which you can enjoy a
  Make sure you’re using the latest version of your browser.
 
  Then close the web browser and restart it. Or you can change another browser to open Amazon prime video.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check your internet connection
 
@@ -76,28 +83,8 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-715.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable your VPN and third-party apps
 
@@ -120,13 +107,6 @@ OR
  Make sure your Amazon Prime video account is paid and active. You can go to[your account page](https://www.amazon.com/ap/signin?%5Fencoding=UTF8&accountStatusPolicy=P1&clientContext=135-4224850-9503066&openid.assoc%5Fhandle=usflex&openid.claimed%5Fid=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.mode=checkid%5Fsetup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max%5Fauth%5Fage=0&openid.return%5Fto=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fsettings%2Fref%3Ddv%5Fweb%5Fauth%5Fno%5Fre%5Fsig%3Fie%3DUTF8%26tag%3Dbisafetynet2-20) to check. Check your app version, update it to the latest version.  
  Then close the Prime video app and restart it, if it doesn’t work, reboot your smart TV. Rebooting is always the first and effective method to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Resign-in to the app
 
  Sign out and sign back into the app sounds stupid, but it works for many people. You can select Settings on your TV and sign out.
@@ -141,6 +121,13 @@ If the cable is the culprit, you may need to purchase a new cable.
 
 [](https://images.drivereasy.com/wp-content/uploads/2020/08/61SDW7VbneL._AC_SL1500_-1200x950.jpg) ](https://www.amazon.com/AmazonBasics-High-Speed-HDMI-Cable-2-Pack/dp/B014I8SX4Y/ref=sr%5F1%5F4?dchild=1&keywords=hdmi&qid=1597731890&sr=8-4&tag=drivereasycom-20)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fixes for Amazon prime video not working on smartphone
 
 * [Restart the Amazon Prime](https://tools.techidaily.com/drivereasy/download/)
@@ -153,10 +140,10 @@ If the cable is the culprit, you may need to purchase a new cable.
  Then close the Prime video app and restart it. Rebooting is always the first and effective method to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check your internet connection
@@ -164,6 +151,13 @@ If the cable is the culprit, you may need to purchase a new cable.
  Check your internet connection. Make sure you’re linked to the WiFi or using the cellular data.
 
  If your Wi-Fi is not working, you can press the power button on the back of the router to perform a soft reset.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall the app
 
@@ -188,20 +182,15 @@ If the cable is the culprit, you may need to purchase a new cable.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-top-3-beyond-youtube-innovative-videostreaming-communities/"><u>[New] In 2024, Top 3 Beyond Youtube Innovative Videostreaming Communities</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-premier-ios-ps2-emulation-tools/"><u>[Updated] In 2024, Premier iOS PS2 Emulation Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-portable-battery-packs-to-keep-recording-longer/"><u>[Updated] Portable Battery Packs to Keep Recording Longer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-finances-in-your-podcast-journey/"><u>2024 Approved Navigating Finances in Your Podcast Journey</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bridging-the-gap-with-magix-music-maker-for-beginners/"><u>Bridging the Gap with Magix Music Maker for Beginners</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fix-and-revive-a-users-handbook-to-successfully-rebooting-a-macbook-pro/"><u>Fix & Revive: A User's Handbook to Successfully Rebooting a MacBook Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-windows-11-sluggish-closure-problem-complete-solution/"><u>Fix Your Windows 11 Sluggish Closure Problem – Complete Solution</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-aspect-ratios-for-video-production/"><u>In 2024, Optimal Aspect Ratios for Video Production</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premium-playlist-manager-for-android-users/"><u>In 2024, Premium Playlist Manager for Android Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-home-internet-speed-with-orbis-advanced-mesh-wi-fi-6-network-an-in-depth-analysis/"><u>Maximizing Home Internet Speed with Orbi's Advanced Mesh Wi-Fi 6 Network: An In-Depth Analysis</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mixing-masterclass-for-dji-miniair-2-owners-no-cost-here-for-2024/"><u>Mixing Masterclass for DJI Mini/Air 2 Owners - No Cost Here for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pro-tips-to-perfect-minecraft-pixelation-for-2024/"><u>Pro Tips to Perfect Minecraft Pixelation for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/rallying-towards-partnership-reach-the-critical-10k-view-target-quickly-for-2024/"><u>Rallying Towards Partnership Reach the Critical 10K View Target Quickly for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revitalize-your-reels-a-compreenas-guide-for-enhancer-22/"><u>Revitalize Your Reels A Compreenas Guide for Enhancer 2.2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009424928-windows-11-taskbar-trouble-heres-how-to-make-it-work-again/"><u>Windows 11 Taskbar Trouble? Here's How to Make It Work Again</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pinnacle-top-5-camcorders-for-flexible-filming/"><u>[New] Pinnacle Top 5 Camcorders for Flexible Filming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-round-the-houses-full-rotation-photography/"><u>[Updated] Round the Houses Full Rotation Photography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-personalize-win11-panorama-selecting-stunning-walls/"><u>2024 Approved Personalize Win11 Panorama Selecting Stunning Walls</u></a></li>
+<li><a href="https://fox-search.techidaily.com/5yqg5aplusg5lplusd6k235pya5l2z6yg45poh77ya5a6j5ywo5zyw6yplush5yop5yiw6zuy56uv56ob56kf5ywn5a2y/"><u>加密保護最佳選擇：安全地鏡像到雲端磁碟內存</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-pop-7-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Tecno Pop 7 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-psd-visual-enhancements/"><u>In 2024, Prime PSD Visual Enhancements</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/no-cost-digital-revenue-prognosticator-for-2024/"><u>No-Cost Digital Revenue Prognosticator for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncovering-the-secret-connecting-your-airpods-to-a-nintendo-console/"><u>Uncovering the Secret: Connecting Your AirPods to a Nintendo Console</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-electronics-with-toms-hardware-guidance/"><u>Unveiling the Best Electronics with Tom's Hardware Guidance</u></a></li>
 </ul></div>
 

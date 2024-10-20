@@ -1,7 +1,7 @@
 ---
 title: "Investigating Diverse Google AR Adornments for 2024"
-date: 2024-07-31T10:56:23.592Z
-updated: 2024-08-01T10:56:23.592Z
+date: 2024-10-12T23:50:48.476Z
+updated: 2024-10-19T17:45:15.207Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,13 @@ Think of stickers that you can put on images or videos. However, these stickers 
 
 You can look at Pokemon Go to understand it better. The game allows you to "place" your Pokemon in the real world and take photos of them. Google AR stickers are like that, except the stickers are not strictly only Pokemon. There are letters, food, Stranger Things characters, and more!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## History of Google AR Sticker
 
 Back in 2017, virtual reality and augmented reality received an increase in interest. While these technologies weren't really new, it was at this time that they became common. Apps like Snapchat included AR stickers that allowed users to take photos and videos with their favorite fictional characters and such. Google hopped on the trend by incorporating AR stickers into its smartphone, Pixel 2.
@@ -38,9 +45,6 @@ The thing is that it did not last long. Ever since Google launched its Pixel 4a 
 
 Owners of older Pixel models should not worry since the devices' hardware isn't changed. Thus, they will continue to support Playground, the app needed to use Google AR Stickers.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## How To Use Google Playground AR Stickers on Pixel 4 and Earlier
 
 As mentioned above, older Pixel models still have Google Playground support. These devices are Pixel 4 and earlier. Meanwhile, Playmojis (3D AR Stickers) are available only for Pixel 3, 3a, and 4.
@@ -59,9 +63,6 @@ Step5 Tap the AR Sticker or Playmoji that you want to use.
 
 Step6 Touch and hold, and drag the AR sticker where you want it to be on the photo or video. Adjust the sticker as needed.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dragging star wars sticker to camera screen](https://images.wondershare.com/filmora/article-images/google-ar-stickers-6.jpg)
 
 Step7 Tap "Capture" to take a photo. If in video mode, touch and hold "Capture" instead.
@@ -76,9 +77,6 @@ Suppose you own a Google Pixel 4a or a later model, and you want to try augmente
 
 Are you an Android or iPhone user? Filmora AR Camera is also available on these platforms. So you can join in on the fun!
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Filmora AR Camera Features
 
 Filmora for Mobile's AR Camera feature has many things to offer. It lets you take photos and videos with virtual characters. Also, you can add digital content (a helmet on your head, for example) to your photo to enhance it. You also don't have to be in the frame to use Filmora for Mobile's AR stickers. There are so many sticker options you can use as the subject instead.
@@ -86,8 +84,12 @@ Filmora for Mobile's AR Camera feature has many things to offer. It lets you tak
 The best thing about Filmora AR Camera is it lets you record multiple videos with different AR stickers. Filmora for Mobile will automatically combine and arrange them.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Use Filmora AR Camera To Record a Video
 
 Here's a tutorial on how to record an AR video & how to edit an AR selfie video on iPhone.
@@ -98,10 +100,14 @@ Step1 Install Filmora for Mobile from the App store.
 
 Step2 Tap the "Camera" button on the right panel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ar camera option on filmora iphone](https://images.wondershare.com/filmorago/article-image/camera-icon-on-filmorago.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Tap the "Frame" icon at the top right to adjust the video ratio. It's also how you switch between the front and rear cameras.
 
@@ -111,6 +117,13 @@ Step4 Select "Props" from the options at the bottom of the screen. Select the AR
 
 ![using an ar sticker on filmora](https://images.wondershare.com/filmorago/article-image/props-icon-on-filmorago-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 Tap the purple circle button at the bottom center of the screen to start recording a video.
 
 Step6 You'll see the video you recorded on the left side of the screen. Tap the "Edit" button to proceed to the video timeline.
@@ -119,35 +132,25 @@ Step6 You'll see the video you recorded on the left side of the screen. Tap the 
 
 Step7 Preview your video, edit as needed, and export it.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![exporting recorded video on filmora iphone](https://images.wondershare.com/filmorago/article-image/trim-the-animoji-video-you-record-on-filmorago.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### To Edit an AR Selfie Video on iPhone
 
 Step1 After recording an AR video, tap "Edit."
 
 Step2 Tap "Canvas" to adjust the video ratio size so it would be perfect for TikTok or Instagram. We also recommend using Filmora for Mobile's features to blur the background to enhance the video.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![canvas button on filmora for iphone](https://images.wondershare.com/filmorago/article-image/canvas-setting-for-video-on-filmorago.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Tap "Filters" to add more magic to the video.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![adding filters on filmora for iphone](https://images.wondershare.com/filmorago/article-image/tap-filter-button-for-ar-video-on-filmorago.jpg)
 
 Step4 Suppose there is more than one video clip, and you're combining them. Tap the junction between them to add transition effects so that the switch would not look too abrupt or to make the video cooler.
@@ -159,8 +162,18 @@ Step5 Preview the video. If you're already satisfied, tap "EXPORT" to save and s
 ![previewing or exporting ar video](https://images.wondershare.com/filmorago/article-image/preview-ar-video-and-export-it.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## People Also Ask
 
 Do you still want to know more about AR stickers? It's understandable since "augmented reality" sounds very advanced and complex. Here are some FAQs about it to make you more informed about the subject.
@@ -199,32 +212,20 @@ Filmora for Mobile's AR Camera feature has many things to offer. It lets you tak
 
 The best thing about Filmora AR Camera is it lets you record multiple videos with different AR stickers. Filmora for Mobile will automatically combine and arrange them.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use Filmora AR Camera To Record a Video
 
 Here's a tutorial on how to record an AR video & how to edit an AR selfie video on iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### To Record an AR Video
 
 Step1 Install Filmora for Mobile from the App store.
 
 Step2 Tap the "Camera" button on the right panel.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ar camera option on filmora iphone](https://images.wondershare.com/filmorago/article-image/camera-icon-on-filmorago.jpg)
 
 Step3 Tap the "Frame" icon at the top right to adjust the video ratio. It's also how you switch between the front and rear cameras.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![changing canvas size on filmora](https://images.wondershare.com/filmorago/article-image/frame-icon-on-filmorago-camera.jpg)
 
 Step4 Select "Props" from the options at the bottom of the screen. Select the AR effect that you want to use.
@@ -235,18 +236,19 @@ Step5 Tap the purple circle button at the bottom center of the screen to start r
 
 Step6 You'll see the video you recorded on the left side of the screen. Tap the "Edit" button to proceed to the video timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![edit option on filmora ar camera](https://images.wondershare.com/filmorago/article-image/click-edit-when-you-created-your-animoji-video-on-filmorago.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step7 Preview your video, edit as needed, and export it.
 
 ![exporting recorded video on filmora iphone](https://images.wondershare.com/filmorago/article-image/trim-the-animoji-video-you-record-on-filmorago.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### To Edit an AR Selfie Video on iPhone
 
 Step1 After recording an AR video, tap "Edit."
@@ -268,8 +270,12 @@ Step5 Preview the video. If you're already satisfied, tap "EXPORT" to save and s
 ![previewing or exporting ar video](https://images.wondershare.com/filmorago/article-image/preview-ar-video-and-export-it.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## People Also Ask
 
 Do you still want to know more about AR stickers? It's understandable since "augmented reality" sounds very advanced and complex. Here are some FAQs about it to make you more informed about the subject.
@@ -320,5 +326,26 @@ Google AR Stickers are great for enhancing your photos and videos. Too bad it's 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-best-matches-top-ten-gimbals-for-quality-shoots/"><u>[New] Best Matches Top Ten Gimbals for Quality Shoots</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-speech-to-text-powered-by-microsoft-word-your-pathway-to-efficient-workflow-management/"><u>[New] Speech to Text Powered by Microsoft Word Your Pathway to Efficient Workflow Management</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ransformative-techniques-to-mute-background-noise/"><u>[New] Transformative Techniques to Mute Background Noise</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-laughter-layouts-design-meme-magic-on-kapwing/"><u>[Updated] Laughter Layouts Design Meme Magic on Kapwing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-audio-preferences-podcasts-or-youtube/"><u>[Updated] Navigating Audio Preferences Podcasts or YouTube?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-polishing-pixels-8-pro-photo-frames-for-images-online/"><u>[Updated] Polishing Pixels 8 Pro Photo Frames for Images Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sparkle-in-your-ads-20-most-effective-marketing-terms/"><u>[Updated] Sparkle in Your Ads 20 Most Effective Marketing Terms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-process-for-formulating-perfect-podcast-names/"><u>[Updated] Step-by-Step Process for Formulating Perfect Podcast Names</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-fine-art-of-focusing-enhanced-zoom-on-roblox-games-for-2024/"><u>[Updated] The Fine Art of Focusing Enhanced Zoom on Roblox Games for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-ultimate-obs-studio-guide-to-facebook-live-broadcasts/"><u>2024 Approved The Ultimate OBS Studio Guide to Facebook Live Broadcasts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/deep-dive-into-sharex-feedback-and-substitutes/"><u>Deep Dive Into ShareX Feedback & Substitutes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fallout-4-stuttering-heres-the-fix/"><u>Fallout 4 Stuttering? Here’s the Fix!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-video-editing-on-a-budget-with-free-fcp/"><u>In 2024, Mastering Video Editing on a Budget with Free FCP</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premier-music-selections-for-movie-making/"><u>In 2024, Premier Music Selections for Movie Making</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-speed-photography-crafting-time-lapses-on-samsung-phones/"><u>In 2024, Speed Photography Crafting Time-Lapses on Samsung Phones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-apple-iphone-se-2022-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your Apple iPhone SE (2022) on MetroPCS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-websites-your-source-for-legal-skype-ringtones-for-2024/"><u>Leading Websites Your Source for Legal Skype Ringtones for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ottimizza-i-tuoi-filmati-su-qualsiasi-dispositivo-con-le-tue-soluzioni-di-stabilizzazione-video-per-pcmacsmartphonetablet/"><u>Ottimizza I Tuoi Filmati Su Qualsiasi Dispositivo Con Le Tue Soluzioni Di Stabilizzazione Video per PC/Mac/Smartphone/Tablet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-download-install-your-thrustmaster-t150-gamepad-with-expert-guides/"><u>Quick Download: Install Your Thrustmaster T150 Gamepad with Expert Guides</u></a></li>
+</ul></div>
 

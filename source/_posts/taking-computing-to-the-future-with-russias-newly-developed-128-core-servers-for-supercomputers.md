@@ -1,7 +1,7 @@
 ---
 title: Taking Computing to the Future with Russia's Newly Developed 128-Core Servers for Supercomputers
-date: 2024-10-10T18:07:11.116Z
-updated: 2024-10-13T23:05:23.992Z
+date: 2024-10-19T00:14:57.131Z
+updated: 2024-10-19T18:26:12.932Z
 tags:
   - desktop
 categories:
@@ -46,26 +46,31 @@ Pick up a powerful new gaming or productivity desktop from Lenovo with a tasty d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-master-guide-convert-youtube-videos-seamlessly-to-mpeg/"><u>[New] Master Guide Convert YouTube Videos Seamlessly to MPEG</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-the-craft-of-macro-video-production-techniques/"><u>[New] Mastering the Craft of Macro Video Production Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-next-gen-vision-top-10-cameras-of-the-year-2024/"><u>[New] Next-Gen Vision – Top 10 Cameras of the Year 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-approach-to-understanding-and-using-telegram-online/"><u>[New] Step-By-Step Approach to Understanding and Using Telegram Online</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-sleek-skill-using-watch-to-unlock-mac/"><u>[Updated] 2024 Approved Sleek Skill Using Watch to Unlock Mac</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-from-undiscovered-to-famous-the-seo-playbook-for-your-podcast/"><u>[Updated] From Undiscovered to Famous The SEO Playbook for Your Podcast</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-macos-sierras-reversion-to-el-capitan/"><u>[Updated] Navigating MacOS Sierra's Reversion to El Capitan</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-beginners-journey-into-advanced-video-coding/"><u>2024 Approved Beginner's Journey Into Advanced Video Coding</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/motionmaster-win8-edition-for-2024/"><u>MotionMaster Win8 Edition for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pros-best-top-8-tripods-excelling-at-4k-video-capture-for-2024/"><u>Pro's Best Top 8 Tripods Excelling at 4K Video Capture for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-your-phones-potential-with-custom-android-audio-alerts-for-2024/"><u>Unlocking Your Phone's Potential with Custom Android Audio Alerts for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-expert-recommended-video-animation-apps-for-mobile/"><u>Updated In 2024, Expert-Recommended Video Animation Apps for Mobile</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-the-best-video-editing-software-videopad-review-and-comparison/"><u>Updated The Best Video Editing Software? Videopad Review and Comparison</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-evolution-the-significant-changes-from-w10-to-w11/"><u>Windows Evolution: The Significant Changes From W10 to W11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-briskbounce-momentmirror-tape/"><u>[New] 2024 Approved BriskBounce MomentMirror Tape</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-lens-wisdom-advanced-insights-into-capturing-and-editing-art/"><u>[New] Lens Wisdom Advanced Insights Into Capturing & Editing Art</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-secrets-revealed-streamlined-importation-on-windows-10-os/"><u>[New] Secrets Revealed Streamlined Importation on Windows 10 OS</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-trending-image-memes-unveiling-the-real-story/"><u>[New] Trending Image Memes Unveiling the Real Story</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-alter-twitter-video-headline-image/"><u>[Updated] In 2024, Alter Twitter Video Headline Image</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-overcoming-common-gs-pitfalls-in-kinemaster/"><u>[Updated] Overcoming Common GS Pitfalls in KineMaster</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pocketsized-skies-budget-large-data-haven/"><u>[Updated] PocketSized Skies - Budget Large Data Haven</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-ultimate-action-plan-from-ttml-and-xml-to-srt-translation/"><u>[Updated] The Ultimate Action Plan From TTML & XML to SRT Translation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-image-haven-best-10-sites-reviewed/"><u>In 2024, Free Image Haven Best 10 Sites Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-jumpstart-your-meme-making-skills-with-9gag-techniques/"><u>In 2024, Jumpstart Your Meme-Making Skills with 9GAG Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-streamline-your-view-adding-captions-on-windows-media-player/"><u>In 2024, Streamline Your View Adding Captions on Windows Media Player</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-youtubes-power-for-free-educational-sessions/"><u>In 2024, Unlock YouTube's Power for FREE Educational Sessions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unlock-the-magic-of-stories-in-fb-free-cross-platform-tools-for-2024/"><u>Unlock the Magic of Stories in FB – Free, Cross-Platform Tools for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

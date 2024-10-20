@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting GPU Activation for Cyberpunk 2077 Players on the Latest Windows 11 System
-date: 2024-10-12T22:34:42.578Z
-updated: 2024-10-14T02:55:59.094Z
+date: 2024-10-12T20:52:46.678Z
+updated: 2024-10-19T17:41:48.815Z
 tags:
   - win11
   - win10
@@ -101,6 +101,19 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1:**Update your device drivers**
 
  Your crashing issue in FIFA 20 may be caused by outdated or corrupt device drivers (especially graphics card drivers). If you’re not sure whether all your device drivers are up-to-date, you should check.
@@ -120,10 +133,10 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -131,13 +144,6 @@ In case you don’t know how, here’s the guidance:
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -154,10 +160,16 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-212.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
@@ -165,10 +177,10 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Roll Back Driver** .
@@ -222,28 +234,28 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your**fifasetup.ini** file is already set to**0** when you first open it, then try changing it to**1** instead.
 
  Run FIFA 20 and check whether it continues to crash. If it does, try out the next fix then.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Adjust settings in NVIDIA Control Panel
 
@@ -264,13 +276,6 @@ In case you don’t know how, here’s the guidance:
 If you continue to face the crashing problem, please move on to Fix 6.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
 
@@ -299,6 +304,19 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
 
  If, after running sfc you still experience the crashing issue, try running dism.exe as described below.
@@ -326,10 +344,10 @@ dism.exe /online /cleanup-image /restorehealth
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Close unnecessary programs
@@ -368,21 +386,17 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-complete-razer-kiyo-webcam-overview-for-2024/"><u>[New] Complete Razer Kiyo Webcam Overview for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-luts-guide-to-professional-movie-coloring/"><u>[New] Luts Guide to Professional Movie Coloring</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mkv-mastery-best-mac-app-compilation/"><u>[New] MKV Mastery Best Mac App Compilation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-perfecting-date-placement-on-visual-memories/"><u>[New] Perfecting Date Placement on Visual Memories</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigating-the-maze-of-facebook-story-networking/"><u>[Updated] In 2024, Navigating the Maze of Facebook Story Networking</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-lightning-lanes-moving-iphone-photos-to-pc/"><u>[Updated] Lightning Lanes Moving iPhone Photos to PC</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-memetic-masterpieces-behind-the-photo/"><u>[Updated] Memetic Masterpieces Behind the Photo</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-embellish-slides-with-sonic-elements/"><u>2024 Approved Embellish Slides with Sonic Elements</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-start-recording-audio-on-windows-11/"><u>2024 Approved Quick Start Recording Audio on Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/conquer-lunapic-elevate-your-photographic-skills-for-2024/"><u>Conquer Lunapic Elevate Your Photographic Skills for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-seven-water-resilient-camera-brands/"><u>In 2024, Pioneering Seven Water-Resilient Camera Brands</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-driver-installation-guide-for-brother-mfc-380dw-on-pcs-with-windows-os/"><u>Latest Driver Installation Guide for Brother MFC-#380DW on PCs with Windows OS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/nine-widely-held-false-beliefs-about-smart-conversational-agents-disproved/"><u>Nine Widely-Held False Beliefs About Smart Conversational Agents Disproved</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/quick-and-comfortable-game-capture-tips-for-rainbow-six-siege-for-2024/"><u>Quick & Comfortable Game Capture Tips for Rainbow Six Siege for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unleash-potential-upgrade-your-homes-into-pros-with-win11/"><u>Unleash Potential: Upgrade Your Homes Into Pros with Win11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrade-your-displays-guide-for-updating-targus-drivers-in-windows-operating-systems/"><u>Upgrade Your Displays: Guide for Updating Targus Drivers in Windows Operating Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-lg-redefines-gaming-with-its-innovative-360-degree-vr-experience/"><u>[New] LG Redefines Gaming with Its Innovative 360-Degree VR Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplified-avi-to-gif-editing-with-filmora-on-windows-and-macos-platforms/"><u>[New] Simplified AVI to GIF Editing with Filmora on Windows & macOS Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-essential-emulators-reviving-sonys-ps1-games/"><u>2024 Approved Essential Emulators Reviving Sony's PS1 Games</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-from-live-action-to-digital-footage-gadget-guidebook/"><u>2024 Approved From Live Action to Digital Footage Gadget Guidebook</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/6-pioneering-nft-creators-spurring-artistic-genius/"><u>6 Pioneering NFT Creators Spurring Artistic Genius</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movaviswfmkv/"><u>在線無需付錢：Movavi的SWF轉換器，直接下輸入並轉化為MKV影片</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/advanced-mac-video-downloaders-superior-substitutes-to-freemake/"><u>Advanced Mac Video Downloaders: Superior Substitutes to Freemake</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-our-choice-the-quintessential-list-of-free-racing-games-for-windows-in-202n/"><u>Explore Our Choice: The Quintessential List of Free Racing Games for Windows in 202N</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-redmi-note-13-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi Redmi Note 13 5G Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-youtubes-comment-analysis/"><u>In 2024, Mastering YouTube's Comment Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pathways-to-discovering-elite-filmmakers/"><u>In 2024, Pathways to Discovering Elite Filmmakers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-precision-and-panache-advanced-tiktok-editing-skills/"><u>In 2024, Precision and Panache Advanced TikTok Editing Skills</u></a></li>
 </ul></div>
 

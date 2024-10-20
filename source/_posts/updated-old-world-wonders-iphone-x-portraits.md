@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Old World Wonders – iPhone X Portraits"
-date: 2024-10-10T17:25:31.708Z
-updated: 2024-10-13T17:06:15.752Z
+date: 2024-10-12T17:12:41.592Z
+updated: 2024-10-19T20:34:21.123Z
 tags: 
   - screen-recording
   - ai video
@@ -35,19 +35,6 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### For iPhone 7 Plus/8 Plus/X users
 
  **Using the Portrait Mode on an iPhone**
@@ -57,13 +44,6 @@ The quality of cameras on iPhones has been improving over the years, and Portrai
 However, the Portrait Mode is only featured on iOS 10.1 or some more recent versions of the iOS, so if you want to use the Portrait Mode you need to upgrade your device's iOS. After you launched the camera app, swipe left and look for the Portrait Mode. Once you find the feature, make sure it is marked yellow, in order to start using its tools. The app will display several different lighting options including the Natural Light preset that is essential for creating photos with Portrait Lightning.
 
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image resource: 9to5mac
 
@@ -81,6 +61,13 @@ Launch the Camera app, and swipe to the Portrait option, and then tap on the Cam
 
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### For iPhone 8, 7 or older iPhones users
 
 #### [FabFocus](https://itunes.apple.com/us/app/fabfocus-portraits-with-depth-and-bokeh/id1080434313?mt=8)
@@ -92,16 +79,10 @@ If there is not enough light or if you are too far away from the camera, the app
 ![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
@@ -124,6 +105,13 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
 #### [Defocus](https://itunes.apple.com/us/app/defocus/id1048310180?mt=8)
@@ -135,10 +123,10 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
@@ -160,20 +148,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-masterful-text-setups-in-adobe-after-effects/"><u>[New] Masterful Text Setups in Adobe After Effects</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-past-paints-legal-freedoms-for-classics/"><u>[New] Past Paints Legal Freedoms for Classics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pivotal-movie-edits-ranked-by-professionals/"><u>[New] Pivotal Movie Edits Ranked by Professionals</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-revolutionizing-your-gaming-with-advanced-controller-software/"><u>[New] Revolutionizing Your Gaming with Advanced Controller Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-on-the-go-motion-dampener-for-videography/"><u>[Updated] On-the-Go Motion Dampener for Videography</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transform-your-chromebooks-auditory-experience-with-top-5-web-tools/"><u>[Updated] Transform Your Chromebook's Auditory Experience with Top 5 Web Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-opening-and-playing-srt-files-in-different-oses/"><u>2024 Approved Opening and Playing SRT Files in Different OSes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-podcast-feature-listen-and-share-with-friends/"><u>2024 Approved Podcast Feature Listen and Share with Friends</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-the-filmmakers-toolkit-essential-color-grading-of-7-techniques/"><u>2024 Approved The Filmmaker's Toolkit Essential Color Grading of 7 Techniques</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-to-resolving-fifa-20s-troublesome-directx-problem/"><u>Comprehensive Guide to Resolving FIFA 20'S Troublesome DirectX Problem</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/globale-allianz-abbyy-bildet-mit-synpulse-eine-umfassende-europapartnerschaft/"><u>Globale Allianz: ABBYY Bildet Mit Synpulse Eine Umfassende Europapartnerschaft</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/cting-content-rights-in-youtube-to-mp4-transfers-for-2024/"><u>Protecting Content Rights in Youtube-to-MP4 Transfers for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/snappy-strategies-for-reacquiring-deleted-posts-for-2024/"><u>Snappy Strategies for Reacquiring Deleted Posts for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unboxing-the-google-wireless-nest-doorbell-on-batteries-features-benefits-and-drawbacks/"><u>Unboxing the Google Wireless Nest Doorbell on Batteries: Features, Benefits and Drawbacks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-from-clicks-to-cash-the-systematic-triple-pathway-for-youtube-revenue-tracking/"><u>[New] In 2024, From Clicks to Cash The Systematic Triple Pathway for YouTube Revenue Tracking</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/beelink-gti14-the-new-meteor-lake-mini-pc-featuring-an-external-expansion-port-for-gpu-connectivity/"><u>Beelink GTi14: The New Meteor Lake Mini-PC Featuring an External Expansion Port for GPU Connectivity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clocking-down-the-big-day-10-best-mobile-apps-revealed/"><u>Clocking Down the Big Day 10 Best Mobile Apps Revealed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/elevate-your-tech-experience-with-beefy-meteor-lake-processor-the-onexplayer-m1-featuring-a-powerful-intel-core-coffee-lake-i9-up-to-32gb-of-ram-and-future-89/"><u>Elevate Your Tech Experience with Beefy Meteor Lake Processor: The OneXPlayer M1, Featuring a Powerful Intel Core Coffee Lake I9, Up to 32GB of RAM & Future-Ready Connectivity Options</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-6-best-free-daw-software-for-beginners-to-use/"><u>New 2024 Approved 6 Best Free DAW Software for Beginners to Use</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/next-level-custom-pc-build-high-performance-computing-meets-brewed-perfection-within-chassis/"><u>Next-Level Custom PC Build: High-Performance Computing Meets Brewed Perfection Within Chassis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-your-dall-e-images-switching-from-webp-to-jpegpng/"><u>Optimize Your DALL-E Images: Switching From WebP to JPEG/PNG</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimized-text-designs-for-after-effects-for-2024/"><u>Optimized Text Designs for After Effects for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/unleashing-performance-the-toms-hardware-scoop/"><u>Unleashing Performance: The Tom's Hardware Scoop</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/1723262406386-wds-ultrastar-transporter-a-game-changer-in-data-mobility-with-368tb-nvme-storage-capacity-and-high-end-specs/"><u>WD's Ultrastar Transporter: A Game-Changer in Data Mobility with 368TB NVMe Storage Capacity and High-End Specs!</u></a></li>
 </ul></div>
 

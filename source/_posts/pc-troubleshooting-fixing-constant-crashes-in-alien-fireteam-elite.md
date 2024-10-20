@@ -1,7 +1,7 @@
 ---
 title: "PC Troubleshooting: Fixing Constant Crashes in Alien: Fireteam Elite"
-date: 2024-10-08T18:18:50.688Z
-updated: 2024-10-13T19:51:40.525Z
+date: 2024-10-18T21:06:41.054Z
+updated: 2024-10-19T23:09:32.088Z
 tags:
   - win11
   - win10
@@ -40,9 +40,29 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/keyboard.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher to see if you’ve resolved this issue.
 
@@ -57,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
  On your keyboard, press**the Windows logo key** and type**Epic Games Launcher** . In the list of search results, click**Epic Games Launcher** to run it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1048.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if you can launch the program. If so, you should delete its shortcut on your desktop and create a new one. If it still won’t launch, don’t worry. Try the next fix, below.
 
@@ -82,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Run Epic Games Launcher again to see if this issue reappears.
@@ -93,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
  If not, congratulations! You’ve fixed this issue. If this issue persists, try the next fix to update your graphics driver.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -114,10 +120,10 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1071.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -127,6 +133,19 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
  Alternatively, if you’re comfortable manually installing drivers, you can click**Update** next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1072.png)
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
@@ -149,31 +168,11 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Run Epic Games Launcher again to see if this fix works.
 
  If it won’t open, try the next fix to disable your antivirus software temporarily.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
 
@@ -195,16 +194,16 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1069.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Launch Epic Games Launcher again when Windows completes the repair process.
 
@@ -223,6 +222,13 @@ _You can do it for free if you like, but it’s partly manual._
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Restart your computer.
 
@@ -252,22 +258,16 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-inexpensive-pcs-revealed-by-best-obs-setup/"><u>[New] In 2024, Inexpensive PCs Revealed by Best OBS Setup</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-revamp-photos-iphoneandroids-top-sticker-adorning-software/"><u>[New] Revamp Photos IPhone/Android’s Top Sticker Adorning Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-quick-tunes-on-your-phone-top-speed-up-apps/"><u>[Updated] Quick Tunes on Your Phone Top Speed-Up Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-next-gen-gaming-horizon-upcoming-bests-in-playstation-vr/"><u>2024 Approved Next-Gen Gaming Horizon Upcoming Bests in PlayStation VR</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-no-video-display-on-sony-a6400-screen/"><u>2024 Approved No Video Display on Sony A6400 Screen</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/windows-n74/"><u>失われたデータを取り戻せ!Windows N7フォルダー復元テクニックトップ4</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discovering-your-hidden-instagram-reels-a-step-by-step-guide/"><u>Discovering Your Hidden Instagram Reels: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gli-ottimi-trick-per-trasformare-i-tuoi-video-avchdm2ts-in-mp4-senza-perdite-scopri-le-5-strategie-chiave/"><u>Gli Ottimi Trick per Trasformare I Tuoi Video AVCHD/M2TS in MP4 Senza Perdite: Scopri Le 5 Strategie Chiave</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-refresh-your-apple-studio-display-with-new-firmware-versions-the-essential-tutorial-for-mac-enthusiasts-gizmopundit/"><u>How to Refresh Your Apple Studio Display with New Firmware Versions – The Essential Tutorial for Mac Enthusiasts - GizmoPundit</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-plus-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 Plus iOS System? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-find-x7-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Find X7 Ultra without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-laugh-loom-image-stitcher/"><u>In 2024, Laugh Loom Image Stitcher</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-light-up-your-media-select-5-excellent-apps/"><u>In 2024, Light Up Your Media Select 5 Excellent Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-radiate-on-screen-quicker-ways-to-brighten-iphone-media/"><u>In 2024, Radiate on Screen Quicker Ways to Brighten iPhone Media</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-stepping-into-filmmaking-learning-the-basics-of-key-shots/"><u>In 2024, Stepping Into Filmmaking Learning the Basics of Key Shots</u></a></li>
-<li><a href="https://article-posts.techidaily.com/shade-3-battleground-apparition-4-unleashed-for-2024/"><u>Shade 3 Battleground Apparition 4 Unleashed for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-google-pixel-7a-by-fonelab-android-recover-music/"><u>The way to get back lost music from Google Pixel 7a</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-speak-up-enhancing-interactions-with-youtube-viewers/"><u>[New] 2024 Approved Speak Up Enhancing Interactions with YouTube Viewers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-cutting-edge-editing-strategies-story-remix-meets-windows-photos-for-2024/"><u>[Updated] Cutting-Edge Editing Strategies Story Remix Meets Windows Photos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photography-editing-tips-for-creating-stunning-photos/"><u>[Updated] Photography Editing Tips for Creating Stunning Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-audio-connection-must-have-tips-for-podcasters/"><u>2024 Approved Perfect Audio Connection Must-Have Tips for Podcasters</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-lava-yuva-3-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Lava Yuva 3 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-motorola-edge-40-phone-by-drfone-android/"><u>How to Reset a Locked Motorola Edge 40 Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-web-browsing-on-edge-with-picture-in-picture-mode/"><u>In 2024, Seamless Web Browsing on Edge with Picture-in-Picture Mode</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-up-your-speaking-game-access-free-user-friendly-audio-alteration-tools/"><u>In 2024, Step Up Your Speaking Game - Access Free, User-Friendly Audio Alteration Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openai-is-it-losing-the-reins-on-chatgpts-future/"><u>OpenAI: Is It Losing the Reins on ChatGPT's Future?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/techniques-to-procure-free-visual-frame-videos-for-2024/"><u>Techniques to Procure Free Visual Frame Videos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/uncovering-budget-friendly-video-conferencing-tools-for-multiple-systems/"><u>Uncovering Budget-Friendly Video Conferencing Tools for Multiple Systems</u></a></li>
 </ul></div>
 

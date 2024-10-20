@@ -1,7 +1,7 @@
 ---
 title: "Speedy Glimpse Through Windows Files for 2024"
-date: 2024-10-08T17:01:08.502Z
-updated: 2024-10-14T01:33:00.419Z
+date: 2024-10-17T23:54:59.607Z
+updated: 2024-10-19T18:22:08.848Z
 tags: 
   - screen-recording
   - ai video
@@ -41,10 +41,10 @@ Step3 After successfully installing QuickLook, head to File Explorer and select 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Get the App on GitHub
@@ -57,16 +57,16 @@ Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and
 
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
 
@@ -76,6 +76,13 @@ Step4 After a successful installation, find the file you want to preview and sel
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
 
 Mac users have enjoyed the powerful QuickLook capabilities for at least 15 years. But are we going to see QuickLook coming to Windows 10/11 anytime soon? According to sources, plans are already underway to add this feature to Microsoft Windows and rename it Peek. After selecting a file on Explorer, simply tap the Shift + Space bar to preview the content. Like the macOS version, you can preview PDFs, Excels, Words, images, videos, audio, and pretty much anything.
@@ -83,13 +90,6 @@ Mac users have enjoyed the powerful QuickLook capabilities for at least 15 years
 Meanwhile, it’s expected that QuickLook will come with a small preview screen. However, that should be enough space to preview whatever file you’re searching for. Also, it’s expected that Windows will embed the QuickLook capabilities into the Photos app. But it’s not yet clear if Peek will work with media files like videos and audio as it is on Mac.
 
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Frequently Asked Questions
 
@@ -106,10 +106,10 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -146,20 +146,24 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-pinnacle-business-cloud-haven/"><u>[New] 2024 Approved Pinnacle Business Cloud Haven</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-get-started-in-editing-videos-via-windows-11s-movie-maker/"><u>[Updated] Get Started in Editing Videos via Windows 11'S Movie Maker</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-mastery-over-windows-10s-photo-app-stability-challenges/"><u>[Updated] Mastery Over Windows 10'S Photo App Stability Challenges</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-plotting-your-way-through-successful-instagram-video-marketing-for-2024/"><u>[Updated] Plotting Your Way Through Successful Instagram Video Marketing for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-rejuvenate-your-pictures-the-most-powerful-10-online-edits/"><u>[Updated] Rejuvenate Your Pictures The Most Powerful 10 Online Edits</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-pubg-tones-in-minutes/"><u>2024 Approved Mastering PUBG Tones in Minutes</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-step-up-your-file-game-compiling-top-20-free-spacious-cloud-storage-solutions/"><u>2024 Approved Step Up Your File Game Compiling Top 20 Free, Spacious Cloud Storage Solutions</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-iphone-xs-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your iPhone XS?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-leading-sites-boosting-youtube-viewership/"><u>In 2024, Leading Sites Boosting YouTube Viewership</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-media-subtitles-transformation/"><u>In 2024, Mastering Media Subtitles Transformation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mobility-boosted-video-stability-device/"><u>In 2024, Mobility Boosted Video Stability Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-efficient-battery-ups-apc-be600m1-and-its-convenient-built-in-charger/"><u>In-Depth Analysis of the Efficient Battery UPS: APC BE600M1 & Its Convenient Built-In Charger</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/phantom-slow-motion-camera-guide-for-2024/"><u>Phantom Slow Motion Camera Guide for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-academic-writing-chatgpts-role/"><u>Revolutionizing Academic Writing: ChatGPT's Role</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/start-here-how-to-expedite-videos-in-snapchat-for-new-users-for-2024/"><u>Start Here How to Expedite Videos in Snapchat for New Users for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/irqlfixed-windows-bsod-equal-issue/"><u>[IRQL_FIXED] Windows BSOD - Equal Issue</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-to-check-who-unfollowed-me-on-instagram/"><u>[Updated] 2024 Approved How to Check Who Unfollowed Me on Instagram?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-craft-compelling-videos-utilize-no-cost-templates-and-samples/"><u>[Updated] In 2024, Craft Compelling Videos Utilize No-Cost Templates & Samples</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-ascend-to-million-view-milestone-with-this-guide/"><u>2024 Approved Ascend to Million View Milestone with This Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/6-fast-solutions-to-enhance-your-elden-ring-gameplay-experience/"><u>6 Fast Solutions to Enhance Your Elden Ring Gameplay Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/consumer-favorites-elite-list-of-wire-free-phones-in-2er-years/"><u>Consumer Favorites: Elite List of Wire-Free Phones in 2Er Years</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/convertir-audio-mpe-a-ogg-sin-costo-utilizando-el-convertidor-en-linea-de-movavi/"><u>Convertir Audio MPE a Ogg Sin Costo Utilizando El Convertidor en Línea De Movavi</u></a></li>
+<li><a href="https://discover-best.techidaily.com/enhancing-and-restoring-tiktok-video-clarity-after-sharing/"><u>Enhancing and Restoring TikTok Video Clarity After Sharing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-smooth-video-trimming-in-photos-for-2024/"><u>Expert Tips for Smooth Video Trimming in Photos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/exploring-top-6-reasons-for-youtube-premium-enthusiasts/"><u>Exploring Top 6 Reasons for YouTube Premium Enthusiasts</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-oneplus-ace-2-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change OnePlus Ace 2 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-xiaomi-redmi-a2-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Xiaomi Redmi A2 is off? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/investigating-the-speed-and-longevity-in-jabra-talk-25-microphone/"><u>Investigating the Speed and Longevity in Jabra Talk 25 Microphone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/solve-your-logitech-g933s-sound-issues-with-these-simple-fixes/"><u>Solve Your Logitech G933's Sound Issues with These Simple Fixes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oneplus-12-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your OnePlus 12 Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/troubleshooting-gpu-activation-for-cyberpunk-2077-players-on-the-latest-windows-11-system/"><u>Troubleshooting GPU Activation for Cyberpunk 2077 Players on the Latest Windows 11 System</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/ultimate-guide-to-prevent-new-world-from-frequent-pc-disruptions/"><u>Ultimate Guide to Prevent 'New World' From Frequent PC Disruptions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/unmatched-efficiency-with-stellars-automated-data-purging-standard-version-for-mac/"><u>Unmatched Efficiency with Stellar's Automated Data Purging - Standard Version for Mac</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-leaving-spotify-is-harder-than-youd-think-even-if-you-hate-it/"><u>Why Leaving Spotify Is Harder Than You'd Think Even If You Hate It</u></a></li>
 </ul></div>
 
