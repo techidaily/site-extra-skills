@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pictorial Pop Culture  Their Tales\""
-date: 2024-07-31T10:47:44.089Z
-updated: 2024-08-01T10:47:44.089Z
+date: 2024-10-20T20:43:33.516Z
+updated: 2024-10-25T22:27:50.999Z
 tags: 
   - screen-recording
   - ai video
@@ -24,9 +24,6 @@ So, what are the most popular stock photo memes, and how did they reach this sta
 
 ## Part1: Hide the Pain Harold
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
 
 Since 2011, Hide the Pain Harold continues to rank as one of the world's most popular stock photo memes. Here are some numbers to show you how popular the meme is.
@@ -34,9 +31,6 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 * It also features on stock image sites such as Imgur, where user “someshitbag” has a gallery post titled Hide-the-pain-Harold. In addition, the page received over 880 thousand views during the first three weeks. Furthermore, it won Imgur's meme of the decade title in 2020 by receiving 10,954 votes (about 20%) of the 54,768 votes cast by Imgurians.
 * The meme appears on social media platforms such as Facebook, 4Chan, and Reddit. For example, a Facebook page titled Maurice has had over 10,000 likes since its creation in January 2014.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![meme appears on social media](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-2.jpg)
 
 * A text-to-speech YouTube video on the meme has over 492,000 views since going live in September 2015.
@@ -53,16 +47,10 @@ Currently, Hide the Pain Harold has over 300,000 followers across all platforms.
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -78,17 +66,24 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part3: I Bet He's Thinking About Other Women
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
 
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
@@ -101,10 +96,14 @@ A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
 
@@ -112,12 +111,23 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part4: Bonjour Bear
 
@@ -129,9 +139,6 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 
 * In this version, Bonjour Bear reacts to the discovery of a wound after using hand sanitizer. The post became popular during the COVID-19 pandemic when using hand sanitizer was at its peak.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
@@ -142,8 +149,12 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part5: FAQs
 
 ### 1\. Can you use stock photos for memes?
@@ -190,5 +201,17 @@ Therefore, always perform stock image reverse searches to verify the image permi
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/levate-engagement-discover-these-top-12-techniques-for-video-success-for-2024/"><u>[New] Elevate Engagement - Discover These Top 12 Techniques for Video Success for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-new-wins-for-windows-11-users/"><u>[New] New Wins for Windows 11 Users</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-accelerate-your-library-quick-tiktok-download-strategies/"><u>[Updated] In 2024, Accelerate Your Library Quick TikTok Download Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-8-web-destinations-for-free-access-to-3d-text-psds/"><u>[Updated] Leading 8 Web Destinations for FREE Access to 3D Text PSDs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-maximizing-profits-ensuring-proper-youtube-channel-monetization/"><u>[Updated] Maximizing Profits Ensuring Proper YouTube Channel Monetization</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/autonomy-in-action-auto-gpt-versus-chatgpt-comparison-overview/"><u>Autonomy in Action: Auto-GPT Versus ChatGPT Comparison Overview</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-cryptocurrency-the-essential-guide-to-understanding-tokens-vs-coins/"><u>Deciphering Cryptocurrency: The Essential Guide to Understanding Tokens Vs. Coins</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-methods-to-import-your-favorite-songs-from-cds-onto-your-iphone/"><u>Free Methods to Import Your Favorite Songs From CDs Onto Your iPhone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-lecture-transcription-at-zero-expense/"><u>In 2024, Lecture Transcription at Zero Expense</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-retro-reel-upgrade-converting-photographs-to-videos/"><u>In 2024, Retro Reel Upgrade Converting Photographs to Videos</u></a></li>
+</ul></div>
 

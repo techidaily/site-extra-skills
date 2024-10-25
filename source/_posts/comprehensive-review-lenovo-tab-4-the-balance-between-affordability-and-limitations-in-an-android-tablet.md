@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet"
-date: 2024-10-15T18:21:13.179Z
-updated: 2024-10-19T21:47:45.617Z
+date: 2024-10-22T22:29:07.729Z
+updated: 2024-10-25T20:07:37.513Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet"
@@ -58,25 +58,11 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -87,10 +73,10 @@ Lifewire / Kelsey Simon
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Gameplay: Dialogue prompts and effort**
@@ -113,6 +99,13 @@ Lifewire / Kelsey Simon
 
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Graphics: Outdated and simplistic**
 
  Tides of Numenera was created in 2017―however, you wouldn’t know this if you jumped into the game and made a guess based upon the[graphics](https://www.lifewire.com/optimizing-video-game-frame-rates-811784) . The graphics look more like they’re stuck in the early 2000s, with blocky, almost pixelated characters. There is some forgiveness to be had because the game isn’t focused on the visuals―it’s more about the words and the story. But there is a limit to how forgiving one can be considering the game isn’t that old.
@@ -121,14 +114,14 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
- Lifewire / Kelsey Simon
-
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Kelsey Simon
 
 ## **Price: Only worth it if you’re keen on the story**
 
@@ -149,6 +142,13 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -173,18 +173,24 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-distinguish-real-from-sham-on-your-instagram-circle-quickly/"><u>[New] How to Distinguish Real From Sham on Your Instagram Circle Quickly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-pip-navigating-netflixs-floating-screen-functionality/"><u>[New] Mastering PIP Navigating Netflix's Floating Screen Functionality</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-understanding-the-dynamics-of-ig-reels-vs-ig-stories/"><u>[New] Understanding the Dynamics of IG Reels Vs IG Stories</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfectly-sync-apple-music-to-your-videos/"><u>[Updated] Perfectly Sync Apple Music to Your Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-how-to-listen-to-podcasts-on-your-iphone/"><u>2024 Approved How To Listen to Podcasts on Your iPhone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-location-love-your-ultimate-poi-assistant-for-timely-tips-and-tricks/"><u>2024 Approved Location Love Your Ultimate POI Assistant for Timely Tips and Tricks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-step-by-step-guide-to-lut-mastery/"><u>In 2024, Step-by-Step Guide to LUT Mastery</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-narzo-60-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme Narzo 60 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-development-navigating-dev-drive-in-windows-11/"><u>Mastering Development: Navigating Dev Drive in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-learn-the-easy-reset-procedure-to-bring-your-keyboard-back-to-life/"><u>Quick Fix: Learn the Easy Reset Procedure to Bring Your Keyboard Back to Life</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-sound-to-your-lenovo-laptop-essential-tips-and-fixes-for-audio-issues/"><u>Restore Sound to Your Lenovo Laptop: Essential Tips and Fixes for Audio Issues</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-definitive-guide-to-srt-editing-on-mac-for-2024/"><u>The Definitive Guide to SRT Editing on Mac for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-demystify-the-screen-time-analyze-your-posts-viewership/"><u>[New] In 2024, Demystify the Screen Time Analyze Your Post's Viewership</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-transform-your-content-the-science-of-instagram-video-loops/"><u>[Updated] 2024 Approved Transform Your Content The Science of Instagram Video Loops</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-budget-friendly-recorder-choices-for-youtube-vloggers-for-2024/"><u>[Updated] Budget-Friendly Recorder Choices for YouTube Vloggers for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-compreranzo-il-background-ottenere-video-piu-chiaro-su-youtube-for-2024/"><u>[Updated] Compreranzo Il Background Ottenere Video Più Chiaro Su YouTube for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-hdr-basics-for-everyday-shooting-enthusiasts/"><u>[Updated] IPhone HDR Basics for Everyday Shooting Enthusiasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-masterclass-refining-youtube-videos-through-imovie/"><u>[Updated] Masterclass Refining YouTube Videos Through iMovie</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-iphone-flipping-and-tilting-photos-perfectly/"><u>[Updated] Mastering iPhone Flipping & Tilting Photos Perfectly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-no-pay-no-problem-get-your-free-passport-photo-creator-now-online-and-on-desktop/"><u>[Updated] No Pay, No Problem Get Your Free Passport Photo Creator Now Online & On Desktop</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-non-gta-worlds-a-list-of-comparable-mega-hits/"><u>[Updated] Non-GTA Worlds A List of Comparable Mega-Hits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pioneering-podcast-production-writing-and-examples-guide/"><u>[Updated] Pioneering Podcast Production Writing & Examples Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-essential-guide-to-transferring-tunes-across-platforms-for-2024/"><u>[Updated] The Essential Guide to Transferring Tunes Across Platforms for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-joyful-account-access-instructions/"><u>2024 Approved Joyful Account Access Instructions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-the-color-grading-revolution-with-lightrooms-best-10-luts/"><u>2024 Approved Leading the Color Grading Revolution with LightRoom’s Best 10 LUTs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/dive-into-vivacut-a-thorough-2024-guide-and-critique/"><u>Dive Into VivaCut A Thorough 2024 Guide & Critique</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-pova-5-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Pova 5 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-professional-video-editor-essentials-top-5-macos-sierra-software/"><u>In 2024, Professional Video Editor Essentials Top 5 macOS Sierra Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mobiles-leading-free-image-enhancement-and-layer-apps-ranked-for-2024/"><u>Mobile's Leading Free Image Enhancement & Layer Apps Ranked for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/soft-sonata-reducing-volume-in-os-for-2024/"><u>Soft Sonata Reducing Volume in OS for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Taking Computing to the Future with Russia's Newly Developed 128-Core Servers for Supercomputers
-date: 2024-10-19T00:14:57.131Z
-updated: 2024-10-19T18:26:12.932Z
+date: 2024-10-20T17:47:05.084Z
+updated: 2024-10-25T16:22:35.619Z
 tags:
   - desktop
 categories:
@@ -46,31 +46,31 @@ Pick up a powerful new gaming or productivity desktop from Lenovo with a tasty d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-briskbounce-momentmirror-tape/"><u>[New] 2024 Approved BriskBounce MomentMirror Tape</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-lens-wisdom-advanced-insights-into-capturing-and-editing-art/"><u>[New] Lens Wisdom Advanced Insights Into Capturing & Editing Art</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-secrets-revealed-streamlined-importation-on-windows-10-os/"><u>[New] Secrets Revealed Streamlined Importation on Windows 10 OS</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-trending-image-memes-unveiling-the-real-story/"><u>[New] Trending Image Memes Unveiling the Real Story</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-alter-twitter-video-headline-image/"><u>[Updated] In 2024, Alter Twitter Video Headline Image</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-overcoming-common-gs-pitfalls-in-kinemaster/"><u>[Updated] Overcoming Common GS Pitfalls in KineMaster</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pocketsized-skies-budget-large-data-haven/"><u>[Updated] PocketSized Skies - Budget Large Data Haven</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-ultimate-action-plan-from-ttml-and-xml-to-srt-translation/"><u>[Updated] The Ultimate Action Plan From TTML & XML to SRT Translation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-image-haven-best-10-sites-reviewed/"><u>In 2024, Free Image Haven Best 10 Sites Reviewed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-jumpstart-your-meme-making-skills-with-9gag-techniques/"><u>In 2024, Jumpstart Your Meme-Making Skills with 9GAG Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-streamline-your-view-adding-captions-on-windows-media-player/"><u>In 2024, Streamline Your View Adding Captions on Windows Media Player</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-youtubes-power-for-free-educational-sessions/"><u>In 2024, Unlock YouTube's Power for FREE Educational Sessions</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unlock-the-magic-of-stories-in-fb-free-cross-platform-tools-for-2024/"><u>Unlock the Magic of Stories in FB – Free, Cross-Platform Tools for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-best-free-after-effects-title-templates/"><u>[New] 2024 Approved Best Free After Effects Title Templates</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-zoom-webcams-top-picks-of-the-season/"><u>[New] Best Zoom Webcams – Top Picks of the Season</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-destinations-amplifying-youtube-videos/"><u>[New] Premier Destinations Amplifying YouTube Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-snapchat-spotlight-how-and-why-it-matters/"><u>[New] Snapchat Spotlight How & Why It Matters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-mobile-podcast-apps/"><u>[Updated] Premier Mobile Podcast Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-age-information-in-tiktok-profiles/"><u>2024 Approved Optimizing Age Information in TikTok Profiles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-speed-up-your-social-art-collage-creation-on-the-fly/"><u>2024 Approved Speed-Up Your Social Art Collage Creation on the Fly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-straightforward-recording-for-windows-10/"><u>2024 Approved Straightforward Recording for Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-m1-advantages-in-high-quality-video-production-workstations/"><u>In 2024, M1 Advantages in High-Quality Video Production Workstations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-removing-borders-quick-and-effective-image-retouch-methods/"><u>In 2024, Removing Borders Quick & Effective Image Retouch Methods</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pickus-impact-on-mobile-photography-a-comparative-study-for-2024/"><u>PickU's Impact on Mobile Photography – A Comparative Study for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premium-5-web-based-video-recorders/"><u>Premium 5 Web-Based Video Recorders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quintessential-writes-for-diverse-cinematic-fields-for-2024/"><u>Quintessential Writes for Diverse Cinematic Fields for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-analysis-choosing-between-an-in-place-update-or-a-complete-reinstallation-for-your-windows-server/"><u>Step-by-Step Analysis: Choosing Between an In-Place Update or a Complete Reinstallation for Your Windows Server</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-best-locations-for-finding-top-quality-insta-tones-and-crafting-excellent-alarms-for-2024/"><u>Unveiling the Best Locations for Finding Top-Quality Insta Tones and Crafting Excellent Alarms for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

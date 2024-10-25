@@ -1,7 +1,7 @@
 ---
 title: "What Are LUTs and How They Change Your Photo for 2024"
-date: 2024-10-18T02:17:04.294Z
-updated: 2024-10-19T16:11:24.614Z
+date: 2024-10-19T16:07:31.008Z
+updated: 2024-10-25T22:34:14.137Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,10 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use LUTs using Photoshop CC?
@@ -66,10 +66,10 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Choose Adjustment Layer
@@ -80,13 +80,6 @@ Choose Adjustment Layer
 
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 load 3d lut
 
 1. When you select one, you'll see how the color and tone of the image change.
@@ -94,6 +87,13 @@ load 3d lut
 3. You can change the Layer Blending mode at any time.
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Here's the first method
 
@@ -119,10 +119,16 @@ Grow Together
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -163,21 +169,16 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-adapt-to-facebooks-algorithm-shift-now/"><u>[New] 2024 Approved Adapt to Facebook's Algorithm Shift Now</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-sierra-mastering-icloud-drives-accessibility/"><u>[New] Navigating Sierra Mastering iCloud Drives' Accessibility</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-passport-photo-creation-made-easy-10-images-at-no-cost/"><u>[New] Passport Photo Creation Made Easy 10 Images at No Cost</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-sideways-scene-understanding-igs-upside-down-issue/"><u>[New] Sideways Scene Understanding IG's Upside-Down Issue</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-5-youtube-video-editor-alternatives/"><u>[Updated] In 2024, Best 5 YouTube Video Editor Alternatives</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-rapid-reader-of-windows-photos-and-images/"><u>[Updated] Rapid Reader of Windows Photos & Images</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/achieving-unparalleled-detail-with-remote-screens-for-2024/"><u>Achieving Unparalleled Detail with Remote Screens for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-wacom-intuos-pro-desktop-tablet-drivers-latest-version/"><u>Free Download: Wacom Intuos Pro Desktop Tablet Drivers Latest Version</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-nokia-c22-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Nokia C22 Phone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-instagram-group-photography/"><u>In 2024, Mastering the Art of Instagram Group Photography</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premier-editing-software-for-mobile-app-creation/"><u>In 2024, Premier Editing Software for Mobile App Creation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-color-grading-in-photoshop-the-power-of-3d-lut-techniques-for-2024/"><u>Mastering Color Grading in Photoshop The Power of 3D LUT Techniques for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/our-shared-struggles-with-iphone-ios-18-update-what-we-could-have-done-differently/"><u>Our Shared Struggles with iPhone iOS 18 Update - What We Could Have Done Differently</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Poco M6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transform-powerpoint-decks-into-avi-movies-for-free-with-these-web-based-tools/"><u>Transform PowerPoint Decks Into AVI Movies for Free with These Web-Based Tools!</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-catchy-lyrics-on-the-rise-with-tiktoks-newest-songs-for-2024/"><u>[New] Catchy Lyrics on the Rise with TikTok's Newest Songs for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-android-vr3d-player-selection/"><u>[New] Premium Android VR/3D Player Selection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-take-portrait-photo-with-your-old-iphone-x8-plus7-plus/"><u>[New] Take Portrait Photo with Your Old iPhone X/8 Plus/7 Plus</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-experts-guide-to-effortless-video-submissions-on-igtv/"><u>[Updated] The Expert's Guide to Effortless Video Submissions on IGTV</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-max-effects-for-vector-files/"><u>2024 Approved Max Effects for Vector Files</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-background-extraction-in-figma-designs-easily/"><u>2024 Approved Navigating Background Extraction in Figma Designs Easily</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/banishing-curved-visuals-correcting-gopros-fish-eye-for-2024/"><u>Banishing Curved Visuals Correcting GoPro's Fish Eye for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-y200e-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo Y200e 5G</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-8-pioneering-exercise-videos-to-keep-your-viewers-active/"><u>In 2024, 8 Pioneering Exercise Videos To Keep Your Viewers Active</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/premium-hardware-choices-for-uhd-editors/"><u>Premium Hardware Choices for UHD Editors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-itel-a60s-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Itel A60s</u></a></li>
 </ul></div>
 

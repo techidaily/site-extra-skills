@@ -1,7 +1,7 @@
 ---
 title: "2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC"
-date: 2024-10-16T23:44:28.930Z
-updated: 2024-10-19T19:27:24.198Z
+date: 2024-10-19T18:57:20.931Z
+updated: 2024-10-25T18:16:17.107Z
 categories:
   - BestProducts
 description: "This Article Describes 2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC"
@@ -43,6 +43,13 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/3Kfyp4XgBEtCuXPHAVw99RFqQs8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_HeroSquare-2e5c3941b8fe49afbd7464f382164976.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
 [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Famazon-halo-activity-and-sleep-tracker-medium-7-onyx%2F6445215.p)
@@ -69,6 +76,19 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/W0-czfRzA-7ixa5VS8Cb4sBcaqM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_02-b2292f1ee1b54f4e9990c92e582c5a4b.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
 ## Design: An accessory that blends in
@@ -79,14 +99,14 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/QHImxX0EsYwunnnS2aNtTX9j80s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_03-66da73beea854cd39f6c35c06975ef4e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Comfort: Streamlined but not immune to typical fit issues
 
@@ -116,6 +136,13 @@ Lifewire / Yoona Wagener
 
  The body fat scan is based on pictures uploaded to the app—and based on prompts from the app. While it felt invasive and isn’t a feature I’d seek out in a fitness tracker, it worked without issue. Amazon reports that this technology is twice as accurate as smart scales. For the right user who feels comfortable with this kind of data compilation, this feature also offers visualizations of how different body fat percentages would look on your frame and stores your scans for a look at trends over time. All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the[cloud](https://www.lifewire.com/what-is-cloud-computing-817770) , which Amazon assures is private and well secured.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Software: An essential and user-friendly mobile app
 
  Without a visual display to interact with, the accompanying Halo mobile app is absolutely essential to the user experience. It delivers helpful explanations and guidance that most users want. Compatible with[iOS](https://www.lifewire.com/what-is-ios-1994355) and[Android](https://www.lifewire.com/what-is-google-android-1616887) phones, the Halo app makes everything from the initial setup to body scanning and voice tracking straightforward. Sleep data is backed up by explanations as is the activity point tracking system. Automatically tracked workout data is also easily accessible and so is the option to manually upload workout activities (there are 38 to choose from, including an all-encompassing Other category).
@@ -126,13 +153,6 @@ Lifewire / Yoona Wagener
 
  The app makes everything from the initial setup to body scanning and voice tracking straightforward.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Battery: Enough juice to last nearly a week
 
  Amazon says that with tone tracking enabled, the band should last up to seven days on a single charge. There are two options for tracking tone: one for more accuracy and one to optimize battery life. I chose the latter and found that the band lasted for six days, which comes close to the manufacturer’s claims. I also noticed that by manually muting the mic, the battery drained far less quickly than when I left it on to listen at all times.
@@ -141,21 +161,7 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/fBsShcBruhAWkg-kTKPWkYUaImo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_04-ee532fbe8d2f4e8195e63ed9dd45611a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Yoona Wagener
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Price: A reasonable price for the feature set
 
@@ -174,16 +180,10 @@ Lifewire / Yoona Wagener
  The Amazon Halo isn’t for everyone with its lack of display and additional layers of data tracking to capture tone of voice and body fat percentage. But for the user that wants a little less hardware but more forward-thinking fitness/health tracking, this unique wearable offers a different approach to increasing activity and wellness awareness on a daily basis.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -223,20 +223,18 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unleashing-shareability-secrets-of-trending-on-fb/"><u>[New] 2024 Approved Unleashing Shareability Secrets of Trending on Fb</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-panopticon-perspective-analysis/"><u>[New] Panopticon Perspective Analysis</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-scooping-strategies-review-rundown/"><u>[New] SCOOPING STRATEGIES Review Rundown</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-sound-capture-in-windows-11/"><u>2024 Approved Mastering Sound Capture in Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-guide-securing-your-favorite-audio-narratives-on-iphoneipad/"><u>2024 Approved Quick Guide Securing Your Favorite Audio Narratives on iPhone/iPad</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/connect-and-learn-pearsons-interactive-classroom/"><u>Connect and Learn: Pearson's Interactive Classroom</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creating-an-engaging-text-based-rpg-with-chatgpt-a-comprehensive-guide/"><u>Creating an Engaging Text-Based RPG with ChatGPT: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-spark-go-2024-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Spark Go (2024) | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-reno-11-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Oppo Reno 11 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-integrating-aesthetic-enhancements-into-windows-photos-audio-plus-visuals/"><u>In 2024, Integrating Aesthetic Enhancements Into Windows Photos Audio + Visuals</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-photographers-weigh-in-the-aurora-verdict/"><u>In 2024, Photographers Weigh In The Aurora Verdict</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-the-nuances-of-video-sound-design-for-2024/"><u>Mastering the Nuances of Video Sound Design for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-troubleshooting-a-step-by-step-guide-to-making-windows-11-speakers-functional/"><u>Mastering Troubleshooting: A Step-by-Step Guide to Making Windows 11 Speakers Functional</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-apple-podcast-submission-process-for-2024/"><u>Navigating Apple Podcast Submission Process for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-to-pairing-your-camera-gimbal/"><u>[New] Step-by-Step Guide to Pairing Your Camera Gimbal</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-fashion-forward-video-ideas/"><u>[Updated] 2024 Approved Fashion Forward Video Ideas</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/16-amazing-and-complimentary-websites-to-start-learning-sign-language-today/"><u>16 Amazing and Complimentary Websites to Start Learning Sign Language Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-productivity-boosters-while-binge-listening-to-podcasts/"><u>2024 Approved Productivity Boosters While Binge-Listening to Podcasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youth-inspiration-tales-of-overcoming-challenges/"><u>2024 Approved Youth Inspiration Tales of Overcoming Challenges</u></a></li>
+<li><a href="https://windows11.techidaily.com/amplifying-security-the-art-of-longer-pin-codes-in-win11/"><u>Amplifying Security: The Art of Longer Pin Codes in Win11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-realme-c51-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Realme C51 FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-s23-tactical-edition-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy S23 Tactical Edition Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-100-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Honor 100 Phone with Broken Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-softening-the-edges-a-guide-to-dimmed-audio-in-logic-pro/"><u>In 2024, Softening the Edges A Guide to Dimmed Audio in Logic Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inshots-counterparts-for-pc-video-editing-for-2024/"><u>Inshot's Counterparts for PC Video Editing for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-nvidia-output-unplugged-issues/"><u>Troubleshooting Guide: Solving 'Nvidia Output Unplugged' Issues</u></a></li>
 </ul></div>
 

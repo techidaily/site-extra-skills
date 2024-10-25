@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting GPU Activation for Cyberpunk 2077 Players on the Latest Windows 11 System
-date: 2024-10-12T20:52:46.678Z
-updated: 2024-10-19T17:41:48.815Z
+date: 2024-10-22T22:19:04.097Z
+updated: 2024-10-25T17:07:26.527Z
 tags:
   - win11
   - win10
@@ -101,19 +101,6 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1:**Update your device drivers**
 
  Your crashing issue in FIFA 20 may be caused by outdated or corrupt device drivers (especially graphics card drivers). If you’re not sure whether all your device drivers are up-to-date, you should check.
@@ -131,13 +118,6 @@ In case you don’t know how, here’s the guidance:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -160,28 +140,15 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-212.png)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Roll Back Driver** .
 
@@ -192,6 +159,13 @@ In case you don’t know how, here’s the guidance:
  4) Choose one of the reasons based on your own situation and click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Restart your computer for the changes to take effect.
 
@@ -206,6 +180,13 @@ In case you don’t know how, here’s the guidance:
  1) On your keyboard, press the **Windows logo key** and **I** at the same time to open the **Settings** window. Then click **Updates & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
 
@@ -233,22 +214,15 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your**fifasetup.ini** file is already set to**0** when you first open it, then try changing it to**1** instead.
@@ -270,6 +244,13 @@ In case you don’t know how, here’s the guidance:
  On completion, click**Apply** to save the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
 
@@ -296,6 +277,13 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
 
 sfc /scannow
@@ -303,19 +291,6 @@ sfc /scannow
  After you finish entering the command, hit **Enter** on your keyboard. Then the sfc tool will begin to scan all system files and repair the corrupted or missing ones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
 
@@ -339,16 +314,16 @@ dism.exe /online /cleanup-image /restorehealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Close unnecessary programs
 
@@ -359,6 +334,13 @@ dism.exe /online /cleanup-image /restorehealth
  If, after restoring the game files mistakenly deleted by your antivirus the game is still crashing, you should try to download and install it once again. However, make sure you turn off the antivirus temporarily during the reinstall process of FIFA 20.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Wait for more game updates
 
@@ -386,17 +368,22 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-lg-redefines-gaming-with-its-innovative-360-degree-vr-experience/"><u>[New] LG Redefines Gaming with Its Innovative 360-Degree VR Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-simplified-avi-to-gif-editing-with-filmora-on-windows-and-macos-platforms/"><u>[New] Simplified AVI to GIF Editing with Filmora on Windows & macOS Platforms</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-essential-emulators-reviving-sonys-ps1-games/"><u>2024 Approved Essential Emulators Reviving Sony's PS1 Games</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-from-live-action-to-digital-footage-gadget-guidebook/"><u>2024 Approved From Live Action to Digital Footage Gadget Guidebook</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/6-pioneering-nft-creators-spurring-artistic-genius/"><u>6 Pioneering NFT Creators Spurring Artistic Genius</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movaviswfmkv/"><u>在線無需付錢：Movavi的SWF轉換器，直接下輸入並轉化為MKV影片</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/advanced-mac-video-downloaders-superior-substitutes-to-freemake/"><u>Advanced Mac Video Downloaders: Superior Substitutes to Freemake</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-our-choice-the-quintessential-list-of-free-racing-games-for-windows-in-202n/"><u>Explore Our Choice: The Quintessential List of Free Racing Games for Windows in 202N</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-redmi-note-13-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi Redmi Note 13 5G Phone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-youtubes-comment-analysis/"><u>In 2024, Mastering YouTube's Comment Analysis</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pathways-to-discovering-elite-filmmakers/"><u>In 2024, Pathways to Discovering Elite Filmmakers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-precision-and-panache-advanced-tiktok-editing-skills/"><u>In 2024, Precision and Panache Advanced TikTok Editing Skills</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-unlock-ultra-hd-content-with-youtubes-advanced-video-setting/"><u>[New] 2024 Approved Unlock Ultra HD Content with YouTube’s Advanced Video Setting</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-revolutionizing-personal-cinema-with-xiaomis-mi-11-lite-features-for-2024/"><u>[New] Revolutionizing Personal Cinema with Xiaomi's Mi 11 Lite Features for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-securing-sharp-visibility-a-guide-to-efficient-zooming-in-google-meets/"><u>[New] Securing Sharp Visibility A Guide to Efficient Zooming in Google Meets</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-audacitys-volume-dissipation-features/"><u>[Updated] Navigating Audacity's Volume Dissipation Features</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-onscreen-excellence-video-talent-licensing/"><u>[Updated] Onscreen Excellence Video Talent Licensing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quantum-hdrs-role-in-modern-photography-trends/"><u>[Updated] Quantum HDR's Role in Modern Photography Trends</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-investigating-alternatives-to-popular-video-broadcaster/"><u>2024 Approved Investigating Alternatives to Popular Video Broadcaster</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximize-your-spotify-campaign-roi-an-expert-guide/"><u>2024 Approved Maximize Your Spotify Campaign ROI - An Expert Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sony-a6400-video-not-showing-troubleshooting-guide/"><u>2024 Approved Sony A6400 Video Not Showing Troubleshooting Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-entrepreneurial-roadmap-for-starting-an-online-product-critique-site/"><u>2024 Approved The Entrepreneurial Roadmap for Starting an Online Product Critique Site</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-realme-narzo-60-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Realme Narzo 60 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-7-plus-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 7 Plus Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dragon-ball-marathon-mastery-how-to-binge-the-series-correctly/"><u>Dragon Ball Marathon Mastery: How to Binge the Series Correctly</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-pathways-for-opening-hardware-spaces-on-w10w11/"><u>Essential Pathways for Opening Hardware Spaces on W10/W11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-epson-v39-driver-upgrades-now-compatible-with-win7810/"><u>Get Your Epson V39 Driver Upgrades Now - Compatible with Win7/8/10!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-sketches-prime-ipados-drawing-software/"><u>In 2024, Revolutionizing Sketches Prime iPadOS Drawing Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-selection-freepluspaid-iphone-cinema-apps-reviewed-for-2024/"><u>Premier Selection FREE+Paid iPhone Cinema Apps Reviewed for 2024</u></a></li>
 </ul></div>
 
