@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender"
-date: 2024-10-20T19:54:54.666Z
-updated: 2024-10-25T18:04:19.652Z
+date: 2024-10-25T17:41:05.643Z
+updated: 2024-10-31T17:44:29.741Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender"
@@ -70,10 +70,10 @@ Lifewire / Erika Rawes
  The[Netgear](https://www.lifewire.com/best-netgear-routers-4159862) Nighthawk RAX120 is supposed to provide lightning-fast speeds while serving as one of the[best long-range wireless routers](https://www.lifewire.com/best-long-range-routers-4122554) currently on the market. Fully loaded with[Wi-Fi 6 technology](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) , smart home connectivity, and a slew of other features, the AX12 should be an ideal router for small businesses, very large homes, or for homes with multiple devices. I tested the Netgear Nighthawk RAX120 to see how well it performs in the real world.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Design: Batman’s router**
@@ -85,6 +85,13 @@ Lifewire / Erika Rawes
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/fw0FJuD9bAOkQEHuAZ9OFq5toXk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_05-2a03227466354aad82fe55b884b76ac6-4d18f476974a44b081aafc943a8e56b1.jpg)
 
 Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup: Quick and easy**
 
@@ -102,6 +109,13 @@ Lifewire / Erika Rawes
 
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/y2V4Ncx3Z1ul8B-4lsc_IeiyCRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_04-9e452ddedd2b4a46893fddd147c06d4f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 ## **Network performance: Stellar**
@@ -115,6 +129,13 @@ Lifewire / Erika Rawes
  Final Verdict
 
  The RAX120 is backward compatible with 802.11a/b/g/n/ac as well, so it’ll work with virtually all of your devices, Wi-Fi 6 or not.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Key Features: Quality hardware, lacks antivirus**
 
@@ -134,32 +155,24 @@ Lifewire / Erika Rawes
 
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/MPwp1LtMC7Ua30t8VnJy7bjuqn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_02-94fbae95ca5d4851a1cf40b197da4161.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: Expensive**
 
  The Netgear Nighthawk RAX120 12-Stream AX6000 Wi-Fi 6 Router will cost you a pretty penny—it sells for $400, which is $100 lower than its original retail price of $500\. But it’s still on the higher end of the price spectrum, especially considering it doesn’t include any sort of mesh points, and you only get the router, power supply, and an Ethernet cable.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Netgear Nighthawk RAX120 vs. TP-Link Archer AX6000**
 
@@ -170,13 +183,6 @@ Lifewire / Erika Rawes
  **A cool looking router that’s faster and more powerful than you probably need.**
 
  The Nighthawk RAX120 performs impressively, but it‘s costly and lacks some user-friendly features like strong parental controls and easy-to-manage antivirus, so it’ll be more desirable for those with heavier networking demands than the average user.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -216,19 +222,24 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-master-your-media-best-6-video-apps-for-macos-big-sur-users/"><u>[New] Master Your Media Best 6 Video Apps for macOS Big Sur Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-optimal-aerial-vehicles-your-next-purchase/"><u>[New] Optimal Aerial Vehicles Your Next Purchase</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-prime-choice-devices-turn-pics-to-films/"><u>[New] Prime Choice Devices Turn Pics to Films</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-insight-into-the-asus-proart-pa-329q-professional-monitor/"><u>[New] The Ultimate Insight Into the Asus ProArt PA 329Q Professional Monitor</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-video-capture-app-for-fb-messenger/"><u>[Updated] In 2024, Video Capture App for FB Messenger</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-virtual-lecture-title-craftsman/"><u>[Updated] Prime Virtual Lecture Title Craftsman</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-step-by-step-instructions-for-using-telegram-online-professionally/"><u>2024 Approved Step-By-Step Instructions For Using Telegram Online Professionally</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-subtitled-freely-top-10-tools-for-youtubes-text-extractors/"><u>2024 Approved Subtitled Freely Top 10 Tools for YouTube's Text Extractors</u></a></li>
-<li><a href="https://driver-download.techidaily.com/grab-your-gigabyte-auditory-drivers-now-no-cost/"><u>Grab Your Gigabyte Auditory Drivers Now - No Cost</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-exclude-email-address-in-windows-login-settings/"><u>How to Exclude Email Address in Windows Login Settings</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/innovate-your-images-with-leading-snapchat-effects-for-2024/"><u>Innovate Your Images with Leading Snapchat Effects for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/overcoming-virtual-reality-discomfort-for-2024/"><u>Overcoming Virtual Reality Discomfort for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sharpening-zoom-visuals-immediate-upgrades-for-2024/"><u>Sharpening Zoom Visuals Immediate Upgrades for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/wd-my-passport-windows-111087/"><u>WD My Passport跨版本圖書館备份: Windows 11、10、8及7的完美解決方案</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-key-concepts-of-interactive-storytelling/"><u>[New] Key Concepts of Interactive Storytelling</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-lucidsound-ls30-mic-not-working/"><u>[Solved] LucidSound LS30 Mic Not Working</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-a-comprehensive-analysis-of-how-to-speed-up-audio-files-on-spotify-safely/"><u>[Updated] 2024 Approved A Comprehensive Analysis of How to Speed Up Audio Files on Spotify Safely</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-press-record-on-your-pc-with-simplicity/"><u>[Updated] 2024 Approved Press 'Record' On Your PC with Simplicity</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-non-retweeted-video-tweet-guide-for-iphone-and-android-users/"><u>[Updated] In 2024, Non-Retweeted Video Tweet Guide for iPhone & Android Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-measuring-64gbs-video-holding-ability/"><u>[Updated] Measuring 64Gb's Video Holding Ability</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pixel-perfecting-free-high-quality-mobile-photography-boost/"><u>[Updated] Pixel Perfecting Free, High-Quality Mobile Photography Boost</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-precision-and-persuasion-crafting-content-that-sticks-on-reddit/"><u>[Updated] Precision and Persuasion Crafting Content That Sticks on Reddit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-blur-apps-for-clear-portraits/"><u>2024 Approved Mastering Blur Apps for Clear Portraits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-pics-and-vids-the-art-of-snapchat-zooming/"><u>2024 Approved Perfecting Pics & Vids The Art of Snapchat Zooming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pinpointing-the-premier-top-10-pc-vr-headset-models-of-2-written-by-dr-jane-smith-on-january-15-2023/"><u>2024 Approved Pinpointing the Premier Top 10 PC VR Headset Models of 2 Written by Dr. Jane Smith on January 15, 2023</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-edge-40-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola Edge 40 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95783064-9781594779732-dmt-the-spirit-molecule/"><u>DMT: The Spirit Molecule | Free Book</u></a></li>
+<li><a href="https://discover-great.techidaily.com/hdmp4/"><u>HD変換：効果的なMP4ビデオ解像度調整テクニック</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-google-pixel-7amirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Google Pixel 7aMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-nokia-xr21-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Nokia XR21 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-making-a-channels-story-visible-in-snippets/"><u>In 2024, Making a Channel's Story Visible in Snippets</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-autofocus-on-iphone-a-step-by-step-approach/"><u>In 2024, Mastering Autofocus on iPhone A Step-by-Step Approach</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-into-the-world-of-film-making-effective-use-of-movie-maker-on-windows-8-pcs-for-2024/"><u>Step Into the World of Film Making Effective Use of Movie Maker on Windows 8 PCs for 2024</u></a></li>
 </ul></div>
 

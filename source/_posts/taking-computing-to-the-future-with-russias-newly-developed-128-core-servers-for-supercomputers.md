@@ -1,7 +1,7 @@
 ---
 title: Taking Computing to the Future with Russia's Newly Developed 128-Core Servers for Supercomputers
-date: 2024-10-20T17:47:05.084Z
-updated: 2024-10-25T16:22:35.619Z
+date: 2024-10-30T16:28:38.247Z
+updated: 2024-10-31T17:08:00.519Z
 tags:
   - desktop
 categories:
@@ -46,31 +46,29 @@ Pick up a powerful new gaming or productivity desktop from Lenovo with a tasty d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-best-free-after-effects-title-templates/"><u>[New] 2024 Approved Best Free After Effects Title Templates</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-best-zoom-webcams-top-picks-of-the-season/"><u>[New] Best Zoom Webcams – Top Picks of the Season</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premier-destinations-amplifying-youtube-videos/"><u>[New] Premier Destinations Amplifying YouTube Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-snapchat-spotlight-how-and-why-it-matters/"><u>[New] Snapchat Spotlight How & Why It Matters</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premier-mobile-podcast-apps/"><u>[Updated] Premier Mobile Podcast Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-age-information-in-tiktok-profiles/"><u>2024 Approved Optimizing Age Information in TikTok Profiles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-speed-up-your-social-art-collage-creation-on-the-fly/"><u>2024 Approved Speed-Up Your Social Art Collage Creation on the Fly</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-straightforward-recording-for-windows-10/"><u>2024 Approved Straightforward Recording for Windows 10</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Tecno Pova 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-m1-advantages-in-high-quality-video-production-workstations/"><u>In 2024, M1 Advantages in High-Quality Video Production Workstations</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-removing-borders-quick-and-effective-image-retouch-methods/"><u>In 2024, Removing Borders Quick & Effective Image Retouch Methods</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pickus-impact-on-mobile-photography-a-comparative-study-for-2024/"><u>PickU's Impact on Mobile Photography – A Comparative Study for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/premium-5-web-based-video-recorders/"><u>Premium 5 Web-Based Video Recorders</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quintessential-writes-for-diverse-cinematic-fields-for-2024/"><u>Quintessential Writes for Diverse Cinematic Fields for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-analysis-choosing-between-an-in-place-update-or-a-complete-reinstallation-for-your-windows-server/"><u>Step-by-Step Analysis: Choosing Between an In-Place Update or a Complete Reinstallation for Your Windows Server</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-best-locations-for-finding-top-quality-insta-tones-and-crafting-excellent-alarms-for-2024/"><u>Unveiling the Best Locations for Finding Top-Quality Insta Tones and Crafting Excellent Alarms for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-your-guide-to-top-rated-church-streaming-platforms/"><u>[New] 2024 Approved Your Guide to Top-Rated Church Streaming Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mystic-modulation-is-this-speech-shifting-software-authentic-or-fiction-discover-substitutes/"><u>[New] Mystic Modulation Is This Speech-Shifting Software Authentic or Fiction? Discover Substitutes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-audio-junction-expert-logic-pro-x-tips/"><u>[New] Seamless Audio Junction Expert Logic Pro X Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-snap-instantly-with-iphone-time-lapse-tips/"><u>[New] Snap Instantly with iPhone Time Lapse Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-quiet-curtains-the-pp-approach-to-invisible-sound-endings/"><u>[Updated] Crafting Quiet Curtains The PP Approach to Invisible Sound Endings</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-elevating-social-media-interaction-via-fb-story-links-for-2024/"><u>[Updated] Elevating Social Media Interaction via FB Story Links for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experts-top-picks-for-creating-art-on-windows/"><u>[Updated] Expert's Top Picks for Creating Art on Windows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-macos-11-big-sur-a-complete-hardware-overview/"><u>2024 Approved MacOS 11 Big Sur A Complete Hardware Overview</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photo-trickery-how-faces-decipher-on-apple-and-samsung-gadgets/"><u>2024 Approved Photo Trickery How Faces Decipher on Apple & Samsung Gadgets</u></a></li>
+<li><a href="https://win-dash.techidaily.com/boost-your-gaming-experience-with-the-latest-amd-drivers-download-and-install-now/"><u>Boost Your Gaming Experience with the Latest AMD Drivers – Download & Install Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725284832968-dvd-winx-dvd-ripper/"><u>DVDコピーソフト WinX DVD Ripperの効果的な使い方：推薦情報</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-windows-updates-switching-to-new-amd-drivers/"><u>Effortless Windows Updates: Switching to New AMD Drivers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/groundbreenas-choosing-first-time-gamers-editing-apps/"><u>Groundbreenas Choosing First-Time Gamers' Editing Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionize-tech-connectivity-top-free-speech-conversion-tools-for-macos/"><u>In 2024, Revolutionize Tech Connectivity Top Free Speech Conversion Tools for MacOS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-wmp-techniques-for-efficient-cd-handling-and-recordings-for-2024/"><u>Master WMP Techniques for Efficient CD Handling and Recordings for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/metaverse-mingle-match-ultimate-pairings-for-2024/"><u>Metaverse Mingle Match Ultimate Pairings for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-reset-and-refresh-fixing-common-issues-in-final-cut-pro-x-for-2024/"><u>Updated Reset and Refresh Fixing Common Issues in Final Cut Pro X for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

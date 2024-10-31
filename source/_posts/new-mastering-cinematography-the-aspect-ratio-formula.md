@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Cinematography  The Aspect Ratio Formula\""
-date: 2024-10-08T22:36:45.050Z
-updated: 2024-10-13T20:16:14.673Z
+date: 2024-10-26T17:25:10.751Z
+updated: 2024-10-31T16:04:22.361Z
 tags: 
   - screen-recording
   - ai video
@@ -36,16 +36,16 @@ There is no same aspect ratio that is used across all social media platforms. De
 
 This aspect ratio is recognized as the worldwide reference format for film, mobile devides, DSLR cameras, streaming platforms, social media platforms, and many more. It is known as landscape viewing which include 720p, 1080p HD and 4K resolution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4:3 Standard
 
 This resolution is originally used in older television screens, which transformed into mobile use as this aspect ratio works really well for Instagram and Facebook videos, referring to the 9:16 phone resolution making a square video more pleasant to watch and to be featured in in-feed videos.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 9:16 Vertical
 
@@ -55,15 +55,22 @@ The 9:16 aspect ratio has become the mainstream resolution for smartphones for e
 
 The 21:9 resolution is designed for filming ultra-wide screen movies that gives the viewer a theater-like feeling. It's mostly used to display films and movies in anamorphic formats. Just like on ultra-wide monitors, it allows the video to be shown across the entire screen, giving you a cinema-like experience. This resolution contributes to a broader viewing experience in any shape or form.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Which aspect ratio should I choose?
 
 Depending on your project, broadcast location and filming options, here you can find an overview of which platforms are using which resolutions and how you can use that to improve your filming and viewer experience.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Facebook
@@ -89,6 +96,13 @@ To this day, it's safe to say that YouTube is the leading platform in the video 
 16:9 for regular HD videos
 
 21:9 for cinematic videos/shortfilms
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Instagram
 
@@ -118,39 +132,19 @@ Before Musical.ly users were migrated to a new platform called TikTok in 2018, i
 
 1:1; 16:9 or 9:16 for TikTok advertisements
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. How to adjust the aspect ratio of a video?
 
 A very important point we'd like to mention is that we don't recommend changing the aspect ratio after filming, because it could harm the video quality and we think it's best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Black bars
 
 When editing your video, adding black bars is not changing the aspect ratio as you are just adding black bars to the screen. What we do recommend is cropping the video until you get the desired result. Adding black bars won't automatically make the platform adjust the video and it will affect the viewer experience.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cropping
@@ -193,19 +187,21 @@ Having your video tested on multiple devices will allow you to see a preview of 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-female-gamers-faction-yts-10-stars/"><u>[New] In 2024, Female Gamers Faction YT's #10 Stars</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mac-video-excellence-the-creme-de-la-liste-for-sierra-users/"><u>[New] Mac Video Excellence The Crème De La Liste for Sierra Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-make-your-own-meme/"><u>[New] Make Your Own Meme</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-for-crafting-top-tier-memes-on-9gag/"><u>[Updated] Step-By-Step for Crafting Top-Tier Memes on 9GAG</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastery-in-making-single-stream-live-events-stand-out/"><u>2024 Approved Mastery in Making Single-Stream LIVE Events Stand Out</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pickup-or-something-else-unveiling-best-android-photo-editor/"><u>2024 Approved PickUp or Something Else? Unveiling Best Android Photo Editor</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-audio-integration-essential-tips-for-podcasters/"><u>2024 Approved Pro Audio Integration Essential Tips for Podcasters</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726028898564-windows/"><u>内部音声だけを取り込んだWindows</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/best-free-diy-id-picture-software-top-7-photo-capture-tools-for-ios-and-android-users/"><u>Best Free DIY I.D. Picture Software: Top 7 Photo Capture Tools for iOS & Android Users</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-iphone-8-plus-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From iPhone 8 Plus?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-youtube-shorts-earnings-guide-must-knows-and-future-potential/"><u>In 2024, Youtube Shorts Earnings Guide Must-Knows & Future Potential</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/masterclass-in-3d-color-grading-with-custom-luts-for-2024/"><u>Masterclass in 3D Color Grading with Custom LUTs for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/masterclass-in-cutting-edge-video-editing-vivacuts-2024-insight/"><u>Masterclass in Cutting Edge Video Editing - VivaCut's 2024 Insight</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-image-size-on-windows-11-explore-the-best-techniques/"><u>Optimize Image Size on Windows 11: Explore the Best Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-create-awesome-instagram-videos-for-2024/"><u>[New] How to Create Awesome Instagram Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigate-and-watch-harnessing-netflixs-picture-in-picture-functionality/"><u>[New] Navigate and Watch Harnessing Netflix's Picture-in-Picture Functionality</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-auditory-anatomy-understanding-video-audio-for-ig-feeds-for-2024/"><u>[Updated] Auditory Anatomy Understanding Video Audio for IG Feeds for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-latest-samsung-bd-j5900-updated-review-2023/"><u>[Updated] Latest Samsung BD-J5900 Updated Review 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-proportion-refinement-from-home/"><u>[Updated] Seamless Proportion Refinement From Home</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-to-creating-breathtaking-tile-art/"><u>[Updated] Step-by-Step Guide to Creating Breathtaking Tile Art</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nubia-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nubia</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-practices-top-photo-frame-tech-of-2024/"><u>Best Practices Top Photo Frame Tech of 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-m14-4g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy M14 4G Phones with/without a PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-6s-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone 6s Apple ID and Apple Pay</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-guide-engage-with-audio-content-seamlessly/"><u>In 2024, IPhone Guide Engage with Audio Content Seamlessly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-through-beginners-guide-on-telegram-promotions-for-2024/"><u>Navigating Through Beginner’s Guide on Telegram Promotions for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pioneers-in-the-realm-of-vr-viewing-for-2024/"><u>Pioneers in the Realm of VR Viewing for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-ways-to-overcome-elgato-hd60-driver-complications/"><u>Quick & Easy Ways to Overcome Elgato HD60 Driver Complications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transfer-your-animated-images-into-static-photos-no-cost-use-our-simple-gif-to-jpeg-online-tool/"><u>Transfer Your Animated Images Into Static Photos - No Cost! Use Our Simple GIF-to-JPEG Online Tool</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/forming-channels-with-powerful-visual-branding-strategies/"><u>Transforming Channels with Powerful Visual Branding Strategies</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Close-Up Views in Roblox Games\""
-date: 2024-10-06T20:25:23.920Z
-updated: 2024-10-13T19:38:37.272Z
+date: 2024-10-25T17:57:42.922Z
+updated: 2024-10-31T18:14:20.780Z
 tags: 
   - screen-recording
   - ai video
@@ -50,16 +50,16 @@ Step1Go to the Roblox website in your favourite web browser by opening it. Start
 
 ![start testing game session roblox](https://images.wondershare.com/filmora/article-images/2022/07/start-testing-game-session-roblox.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2Once your gaming session has begun, you may zoom by using the wheel while moving ahead. Once again, if you scroll all the way down, this action will put you in first person perspective. Now all you have to do is use your cursor to scroll ahead to zoom in.
 
 ![zoom in with cursoe scroll](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-with-cursoe-scroll.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3When the game's map is in your field of vision and you reach the maximum zoom level, just scroll backward with your mouse to zoom out. It will be essential to do the opposite operation, namely scroll the other direction, to zoom out on your character, in order to zoom in.
 
@@ -75,29 +75,9 @@ Step1There is a simple and convenient technique to manage the zoom while playing
 
 ![push r3 button ontroller](https://images.wondershare.com/filmora/article-images/2022/07/push-r3-button-controller.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2Zoom in by pressing forward on the right thumbstick that has been clicked down.
 
 ![press forward right thumbstick](https://images.wondershare.com/filmora/article-images/2022/07/press-forward-right-thumbstick.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3Pull rearward on the clicked-down right thumbstick to zoom out. The same joystick (right) must constantly be pulled rearward to zoom out.
 
@@ -111,9 +91,23 @@ Step1Open the Roblox app, sign in, and then start a test gaming session. The fir
 
 ![zoom in roblox teblet](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-roblox-teblet.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2To zoom, just use two fingers and slide them apart (for zooming in) or together (for zooming out) like you would to do so on a smartphone (zoom out).
 
 ![zoom roblox with fingers](https://images.wondershare.com/filmora/article-images/2022/07/zoom-roblox-with-fingers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3You will be given the best method using the touchpad: while holding down the right side, move the screen to view your character from the front and from behind!
 
@@ -122,16 +116,10 @@ Step4The camera angle and/or your character will only move if one of your finger
 ![zoom character on roblox](https://images.wondershare.com/filmora/article-images/2022/07/zoom-character-on-roblox.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -170,24 +158,18 @@ You may wish to change your viewpoint when playing games on Roblox, the most cut
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-blending-and-bonding-creating-unique-image-collages/"><u>[New] Blending and Bonding Creating Unique Image Collages</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-skyrocketing-views-tactics-for-a-100kplus-youtube-hit/"><u>[New] Skyrocketing Views Tactics for a 100K+ YouTube Hit</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-peering-into-the-future-lg-tv-bp550-2023-review/"><u>[Updated] Peering Into the Future LG TV BP550 2023 Review</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-solved-obs-full-screen-anomaly/"><u>[Updated] Solved OBS Full Screen Anomaly</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-uncomplicated-steps-for-archiving-gotomeeting-dialogues/"><u>[Updated] Uncomplicated Steps for Archiving GoToMeeting Dialogues</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unmatched-video-upload-aides-to-twitter/"><u>[Updated] Unmatched Video Upload Aides to Twitter</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-your-iphones-selfie-experience-the-10-finest-free-apps/"><u>2024 Approved Perfect Your iPhone’s Selfie Experience The 10 Finest Free Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-proven-picks-the-top-5-online-title-makers-you-need-to-know/"><u>2024 Approved Proven Picks The Top 5 Online Title Makers You Need to Know</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-meizu-21-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Meizu 21 Unlock Without Password</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-laughs-in-layout-designer/"><u>In 2024, Best Laughs in Layout Designer</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-make-a-statement-with-free-profile-pics/"><u>In 2024, Make a Statement With Free Profile Pics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-iphone-x-secure-access-restoring-biometric-lock/"><u>In 2024, Mastering iPhone X Secure Access Restoring Biometric Lock</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-melodic-milestinas-where-to-find-elegant-mobile-alerts/"><u>In 2024, Melodic Milestinas Where to Find Elegant Mobile Alerts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-outro-aesthetics-selecting-templates-any-budget/"><u>In 2024, Outro Aesthetics Selecting Templates, Any Budget</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pursuit-of-perfection-zooming-into-high-quality-video/"><u>In 2024, Pursuit of Perfection Zooming Into High-Quality Video</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-scripting-a-riveting-movie-in-miniature/"><u>In 2024, Scripting a Riveting Movie-in-Miniature</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721473825084-iphone-wont-stay-connected-try-these-5-wi-fi-troubleshooting-tips/"><u>IPhone Won't Stay Connected? Try These 5 Wi-Fi Troubleshooting Tips</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-samsung-galaxy-a05s-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Samsung Galaxy A05s Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/what-you-should-expect-to-make-as-a-podcaster/"><u>What You Should Expect to Make as a Podcaster</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-drone-flight-optimal-lipo-battery-selection/"><u>[New] Mastering Drone Flight Optimal LiPo Battery Selection</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-xsplit-versus-obs-which-takes-live-streaming-to-the-next-level-for-2024/"><u>[New] XSplit versus OBS - Which Takes Live Streaming to the Next Level for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-comprehensive-review-of-premium-pc-cameras-in-win-11/"><u>[Updated] Comprehensive Review of Premium PC Cameras in Win 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-foremost-youtube-networks-for-news-enthusiasts-for-2024/"><u>[Updated] Foremost YouTube Networks for News Enthusiasts for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-jake-pauls-youtube-odyssey-a-tale-of-growth-for-2024/"><u>[Updated] Jake Paul's YouTube Odyssey A Tale of Growth for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-next-level-experience-in-metaverse-with-top-8-accessories/"><u>[Updated] Next-Level Experience in Metaverse with Top 8 Accessories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-social-media-sharing-with-convertors/"><u>2024 Approved Mastering the Art of Social Media Sharing with Convertors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simple-definition-of-storytelling/"><u>2024 Approved Simple Definition of Storytelling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-failed-writable-operation-files-in-windows/"><u>Addressing Failed Writable Operation Files in Windows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-through-the-10-leading-countdown-clock-apps-for-your-big-day-androidios/"><u>In 2024, Navigating Through the 10 Leading Countdown Clock Apps for Your Big Day (Android/iOS)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-honor-90-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Honor 90 Pro Phones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlock-facebook-slide-in-content-access-for-2024/"><u>Unlock Facebook Slide-In Content Access for 2024</u></a></li>
 </ul></div>
 

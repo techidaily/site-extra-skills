@@ -1,7 +1,7 @@
 ---
 title: Guide to Diagnosing and Correcting 'Unknown' Speaker Setup on Windows 11 Systems
-date: 2024-10-22T16:34:48.347Z
-updated: 2024-10-25T20:09:00.951Z
+date: 2024-10-30T17:55:19.900Z
+updated: 2024-10-31T16:25:18.937Z
 tags:
   - win11
   - win10
@@ -69,41 +69,41 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
-
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
@@ -114,17 +114,18 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
@@ -152,21 +153,19 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-leading-stock-pictures-tales-and-internet-fame/"><u>[New] Leading Stock Pictures' Tales and Internet Fame</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-polaroid-camplus-pro-a-complete-action-recorder-review/"><u>[New] Polaroid Cam+ Pro A Complete Action Recorder Review</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pro-level-streaming-tech-innovations-you-need/"><u>[New] Pro-Level Streaming Tech Innovations You Need</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-practical-ways-keeping-a-record-of-google-voice-interactions/"><u>[Updated] In 2024, Practical Ways Keeping a Record of Google Voice Interactions</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-mastery-of-fb-instream-ad-setup-and-evaluation-techniques-in-digital-marketing/"><u>[Updated] Mastery of FB Instream Ad Setup & Evaluation Techniques in Digital Marketing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unrivaled-dramas-from-the-eightfold-storytelling-sphere/"><u>[Updated] Unrivaled Dramas From the Eightfold Storytelling Sphere</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leveraging-linkedin-groups-effectively/"><u>2024 Approved Leveraging LinkedIn Groups Effectively</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pixel-power-face-off-sj6-prodigy-meets-yi-4k-creator/"><u>2024 Approved Pixel Power Face-Off SJ6 Prodigy Meets Yi 4K Creator</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unlocking-facebook-stories-a-curated-list-of-download-methods/"><u>2024 Approved Unlocking Facebook Stories A Curated List of Download Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/download-ios-18-complete-guide-on-installation-and-compatible-iphone-models/"><u>Download IOS 18: Complete Guide on Installation & Compatible iPhone Models</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-guide-streaming-your-iphone-12-or-iphone-13-display-onto-a-television/"><u>Easy Guide: Streaming Your iPhone 12 or iPhone 13 Display Onto a Television</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-analytics-with-cookiebot-the-key-to-advanced-user-data-insights/"><u>Elevate Analytics with Cookiebot - The Key to Advanced User Data Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-guide-to-prime-church-livestreaming-services/"><u>In 2024, Guide to Prime Church Livestreaming Services</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-live-streaming-software-vs-hardware-which-is-better/"><u>In 2024, Live Streaming Software Vs Hardware Which Is Better</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-nextv-networks-worldwide-streaming-with-your-locals/"><u>In 2024, NexTV Networks Worldwide Streaming With Your Locals</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-youtube-subtitles-a-guide-with-3-efficient-techniques/"><u>In 2024, Unlocking YouTube Subtitles A Guide with 3 Efficient Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revolutionary-tools-elevating-vr-games/"><u>[New] Revolutionary Tools Elevating VR Games</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-quickest-photo-scanner-in-windows-land-for-2024/"><u>[Updated] Quickest Photo Scanner in Windows Land for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-going-against-gravity-reversing-your-vids/"><u>2024 Approved Going Against Gravity Reversing Your Vids</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-pull-off-professional-video-edits-with-ken-burns-effect/"><u>2024 Approved Pull Off Professional Video Edits with Ken Burns Effect</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-content-addition-enhancing-your-personalized-youtube-plays/"><u>2024 Approved Seamless Content Addition Enhancing Your Personalized YouTube Plays</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-softening-audio-routine/"><u>2024 Approved Step-by-Step Softening Audio Routine</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/fy-your-videos-reach-perfect-title-description-and-tags/"><u>Amplify Your Video's Reach Perfect Title, Description & Tags</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/getting-started-a-primer-on-screencastify-use-for-2024/"><u>Getting Started A Primer on Screencastify Use for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-keep-your-ati-radeon-graphics-card-up-to-date-on-a-windows-machine/"><u>How to Keep Your ATI Radeon Graphics Card Up-to-Date on a Windows Machine</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-streaming-platforms-reviewed-and-rated/"><u>In 2024, Premier Streaming Platforms Reviewed & Rated</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-tailoring-titles-and-tags-for-top-youtube-performance/"><u>In 2024, Tailoring Titles and Tags for Top YouTube Performance</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-icons-unveiled-elevate-your-fame-and-followers-in-record-time-heres-how/"><u>Instagram Icons Unveiled Elevate Your Fame & Followers in Record Time – Here's How</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lg-redefines-gaming-with-its-innovative-360-degree-vr-experience-for-2024/"><u>LG Redefines Gaming with Its Innovative 360-Degree VR Experience for 2024</u></a></li>
 </ul></div>
 

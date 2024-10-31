@@ -1,7 +1,7 @@
 ---
 title: "Cryptocurrency Crusaders' Guide: Top 5 AI Trading Tips"
-date: 2024-10-22T21:02:52.204Z
-updated: 2024-10-25T19:05:14.021Z
+date: 2024-10-29T16:52:38.166Z
+updated: 2024-10-31T17:49:55.921Z
 tags:
   - chatgpt
   - open-ai
@@ -40,15 +40,22 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. chatgpt-go.online
 
@@ -59,31 +66,17 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. AI Photo
 
@@ -94,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -132,20 +132,21 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-ipads-drawing-dynasty-top-8-sketch-apps/"><u>[New] IPad's Drawing Dynasty Top 8 Sketch Apps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-essential-guide-to-using-vsdc-and-comparing-it-with-others/"><u>[Updated] 2024 Approved The Essential Guide to Using VSDC & Comparing It with Others</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-navigate-and-dominate-with-youtube-studios-advanced-editing-features/"><u>[Updated] In 2024, Navigate and Dominate with YouTube Studio's Advanced Editing Features</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-masterful-digital-brushstrokes-essential-top-10-android-graphics-apps/"><u>[Updated] Masterful Digital Brushstrokes Essential Top 10 Android Graphics Apps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-mastering-the-art-of-fcp-freedom-for-2024/"><u>[Updated] Mastering the Art of FCP Freedom for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfecting-presentation-adding-fonts-to-ae-projects/"><u>[Updated] Perfecting Presentation Adding Fonts to AE Projects</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/10-pivotal-tactics-for-striking-podcast-covers/"><u>10 Pivotal Tactics for Striking Podcast Covers</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-y100t-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo Y100t Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-lightning-fast-windowed-photo-reader-for-win11/"><u>In 2024, Lightning-Fast Windowed Photo Reader for Win11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/journey-to-audio-excellence-mastering-ios-based-recording-techniques-for-2024/"><u>Journey to Audio Excellence Mastering iOS-Based Recording Techniques for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/learning-vector-artistry-an-overview-for-starters-and-software-picks/"><u>Learning Vector Artistry An Overview for Starters & Software Picks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mediamerge-creating-slideshows-on-macsierra-for-2024/"><u>MediaMerge Creating Slideshows on MacSierra for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/movavi-mmf-mp3/"><u>Movavi의 간단한 MMF-MP3 바인딩 원칙 - 무료 제공 서비스</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/silent-symphony-a-compendium-of-top-speech-to-text-tools-for-2024/"><u>Silent Symphony A Compendium of Top Speech-to-Text Tools for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-0x800f0922-update-fix-strategies/"><u>Windows 11'S 0X800F0922 Update Fix Strategies</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-adobes-toolset-perfecting-your-youtube-uploads/"><u>[New] 2024 Approved Adobe's Toolset Perfecting Your YouTube Uploads</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-subtlety-in-sound-fading-out-effectively-in-logic-pro/"><u>[Updated] 2024 Approved Subtlety In Sound Fading Out Effectively in Logic Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-co-branded-content-on-youtube-platforms/"><u>[Updated] Crafting Co-Branded Content on YouTube Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-playing-srt-files-in-windowsmac/"><u>[Updated] Playing SRT Files in Windows/MAC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-up-your-content-game-top-30-video-plans/"><u>[Updated] Step Up Your Content Game Top 30 Video Plans</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-world-of-digital-sound-capture-a-deep-dive/"><u>2024 Approved Navigating the World of Digital Sound Capture A Deep Dive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-sony-and-bose-uncovering-the-best-immersive-soundbar-as-featured-in-our-latest-zdnet-analysis/"><u>Beyond Sony and Bose: Uncovering the Best Immersive Soundbar as Featured in Our Latest ZDNet Analysis</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-infinix-note-30i-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Infinix Note 30i Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-efficient-flow-of-content-tiktok-to-your-fb-profile/"><u>In 2024, The Efficient Flow of Content TikTok to Your FB Profile</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-t2-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo T2 5G Location | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-photo-color-correction-for-2024/"><u>Mastering the Art of Photo Color Correction for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-audio-preferences-podcasts-or-youtube-for-2024/"><u>Navigating Audio Preferences Podcasts or YouTube for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-top-free-mod-video-editors-you-need-to-try/"><u>New The Top Free MOD Video Editors You Need to Try</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/places-to-find-background-music-for-videos-for-2024/"><u>Places to Find Background Music for Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/professional-drone-use-in-visual-storytelling-for-2024/"><u>Professional Drone Use in Visual Storytelling for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unleash-the-power-of-nature-on-your-screen-the-durable-55-inch-veranda-tv-by-sunbrite/"><u>Unleash the Power of Nature on Your Screen - The Durable 55-Inch Veranda TV by SunBrite</u></a></li>
 </ul></div>
 

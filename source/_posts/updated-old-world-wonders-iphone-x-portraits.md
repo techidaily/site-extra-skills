@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Old World Wonders – iPhone X Portraits"
-date: 2024-10-24T19:09:16.120Z
-updated: 2024-10-25T19:27:04.820Z
+date: 2024-10-30T17:14:49.910Z
+updated: 2024-10-31T17:02:32.734Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,10 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For iPhone 7 Plus/8 Plus/X users
@@ -53,10 +53,10 @@ However, the Portrait Mode is only featured on iOS 10.1 or some more recent vers
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image resource: 9to5mac
@@ -69,13 +69,6 @@ The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera
 
 ![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Image resource: imore
 
 Launch the Camera app, and swipe to the Portrait option, and then tap on the Camera Swap feature to start using the front camera on your iPhone. Find the Portrait Lightning feature in the camera's Portrait mode, then select one of the options provided by the Portrait Lightning such as Studio Light or Natural light, and proceed to snap a selfie by tapping on the shutter button.
@@ -83,10 +76,10 @@ Launch the Camera app, and swipe to the Portrait option, and then tap on the Cam
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For iPhone 8, 7 or older iPhones users
@@ -119,6 +112,13 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
 #### [Defocus](https://itunes.apple.com/us/app/defocus/id1048310180?mt=8)
@@ -148,24 +148,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-targeted-thought-leadership-with-profound-fb-video-strategies/"><u>[New] 2024 Approved Targeted Thought Leadership with Profound FB Video Strategies</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-elevate-your-videos-with-these-11-grading-guides/"><u>[New] Elevate Your Videos with These 11 Grading Guides</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-professional-gopro-cinematography/"><u>[New] Mastering the Art of Professional Gopro Cinematography</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pros-guide-crafting-authentic-3d-characters-in-ps/"><u>[New] Pro's Guide Crafting Authentic 3D Characters in PS</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-building-impressive-facebook-slideshows-a-practical-guide-for-2024/"><u>[Updated] Building Impressive Facebook SlideShows A Practical Guide for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-ig-music-companion/"><u>[Updated] In 2024, The Ultimate IG Music Companion</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-master-the-art-of-collages-thanks-to-picshot/"><u>[Updated] Master the Art of Collages, Thanks to Picshot</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-photographers-choice-top-10-watermarks-software/"><u>[Updated] Photographer's Choice Top 10 Watermarks Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-professional-video-shooting-on-the-go-the-10-leading-smartphone-titans-with-ois/"><u>[Updated] Professional Video Shooting on the Go The 10 Leading Smartphone Titans with OIS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-pdf-enhancements/"><u>2024 Approved Premier PDF Enhancements</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-edge-with-free-best-premiere-pro-resources/"><u>2024 Approved Professional Edge with FREE, Best Premiere Pro Resources</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1728491047148-windows/"><u>復原Windows隱藏磁碟中數據，五則有效方法指南</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/live-link-luxuries-are-codes-more-crucial-than-cables-in-2024/"><u>Live Link Luxuries Are Codes More Crucial Than Cables, In 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/picshot-enhancing-creativity-in-digital-collage-art-for-2024/"><u>Picshot Enhancing Creativity in Digital Collage Art for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/side-by-side-progopro-analysis-for-2024/"><u>Side by Side ProGoPro Analysis for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/idden-costs-of-youtube-earning-for-2024/"><u>The Hidden Costs of YouTube Earning for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-list-all-rounder-camcorders-for-2024/"><u>Ultimate List All-Rounder Camcorders for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-pixelpeek-presenters-paper-for-2024/"><u>[New] PixelPeek Presenter's Paper for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-applications-for-animating-3d-scenes/"><u>[Updated] Premium Applications for Animating 3D Scenes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-discovering-hidden-gems-time-lapse-photography-on-hero5-black/"><u>2024 Approved Discovering Hidden Gems Time-Lapse Photography on Hero5 Black</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exemplary-6-online-communities-for-corporate-growth/"><u>2024 Approved Exemplary 6 Online Communities for Corporate Growth</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-low-cost-recording-choices-top-11-vlogger-essentials/"><u>2024 Approved Low-Cost Recording Choices Top 11 Vlogger Essentials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-through-vlc-features-settings-and-troubleshooting-mac/"><u>2024 Approved Navigating Through VLC Features, Settings & Troubleshooting (Mac)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-precision-sound-transmitter-for-casters/"><u>2024 Approved Precision Sound Transmitter for Casters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-restore-windows-photo-viewer-efficiency-on-windows-10-pcs/"><u>2024 Approved Restore Windows Photo Viewer Efficiency on Windows 10 PCs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-top-10-jpg-to-gif-converters-online-free/"><u>2024 Approved Top 10 JPG to GIF Converters Online Free</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-a25-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy A25 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-redefine-your-viewing-experience-without-xplit/"><u>In 2024, Redefine Your Viewing Experience Without Xplit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sculpted-sentences-turning-text-into-3d-art-for-2024/"><u>Sculpted Sentences Turning Text Into 3D Art for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-switch-game-screencasting/"><u>The Ultimate Guide to Switch Game Screencasting</u></a></li>
+<li><a href="https://video-capture.techidaily.com/voice-over-fundamentals-from-syncing-dialogue-to-final-cut-for-2024/"><u>Voice Over Fundamentals From Syncing Dialogue to Final Cut for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sky-High Adventures  The GoPro Karma Experience\""
-date: 2024-10-23T19:59:38.053Z
-updated: 2024-10-25T19:48:46.841Z
+date: 2024-10-24T17:49:13.555Z
+updated: 2024-10-31T17:16:35.457Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Detailed review for GoPro Karma
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -110,10 +110,10 @@ Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -131,19 +131,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-professional-adobe-tips-resurrect-the-color-of-faded-iphone-hdr-in-video-editing-for-2024/"><u>[New] [Professional Adobe Tips] Resurrect the Color of Faded iPhone HDR in Video Editing for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-climb-the-popularity-ladder-essential-youtube-seo-practices-uncovered/"><u>[New] 2024 Approved Climb the Popularity Ladder Essential YouTube SEO Practices Uncovered</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-sonic-layering-a-guide-to-music-vids-on-instagram/"><u>[New] Sonic Layering A Guide to Music Vids on Instagram</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-crafting-digital-worlds-the-essential-software-list-for-animators/"><u>[Updated] Crafting Digital Worlds The Essential Software List for Animators</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-an-android-enthusiasts-dream-customizing-your-phone-alerts-with-style-and-personality/"><u>[Updated] In 2024, An Android Enthusiast’s Dream Customizing Your Phone Alerts with Style and Personality</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-on-screen-labels-and-descriptions-for-video-files-windows-11/"><u>[Updated] Mastering On-Screen Labels and Descriptions for Video Files (Windows 11)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-drone-trailblazers-the-most-attentive-models/"><u>2024 Approved Drone Trailblazers The Most Attentive Models</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-action-cams-that-keep-moving-steady/"><u>2024 Approved Leading Action Cams That Keep Moving Steady</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/1725283985645-ai/"><u>前六名AI電影加強器: 絕妙的電影觀賞選擇</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-fresh-take-on-samsungs-ultrablade-k850-review/"><u>In 2024, A Fresh Take on Samsung’s UltraBlade K850 Review</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-limitless-text-in-format-best-free-psd/"><u>In 2024, Limitless Text in Format Best FREE PSD</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-your-brands-presence-in-spotify-advertising/"><u>In 2024, Optimizing Your Brand's Presence in Spotify Advertising</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfect-whatsapp-ringtones-for-iphone-and-android-users-for-2024/"><u>Perfect WhatsApp Ringtones for iPhone & Android Users for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ultimate-training-harnessing-the-power-of-adobe-captivates-screen-record-feature-for-2024/"><u>Ultimate Training Harnessing the Power of Adobe Captivate's Screen Record Feature for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/caling-youtube-earnings-device-independent-studio-tactics/"><u>[New] Scaling YouTube Earnings Device-Independent Studio Tactics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-secrets-to-choosing-the-ultimate-free-online-srt-translators/"><u>[Updated] Secrets to Choosing the Ultimate Free Online SRT Translators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-pinterest-content-top-5-free-download-apps/"><u>2024 Approved Mastering Pinterest Content Top 5 FREE Download Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/childs-play-in-the-sky-top-kid-friendly-drones-list/"><u>Child's Play in the Sky Top Kid-Friendly Drones List</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-5-essential-strategies-for-successful-twitch-livestreaming/"><u>In 2024, 5 Essential Strategies for Successful Twitch Livestreaming</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-quick-quirks-making-manipulations-more-minimal/"><u>In 2024, Quick Quirks Making Manipulations More Minimal</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-search-of-the-best-fps-experience-ever/"><u>In Search of the Best FPS Experience Ever</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inter-app-playlist-exchange-made-simple-for-2024/"><u>Inter-App Playlist Exchange Made Simple for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-convert-webm-to-mp3-top-rated-conversion-tools/"><u>New 2024 Approved Convert WebM to MP3 Top-Rated Conversion Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/olympic-ice-showdown-highlights-of-speed-skating-short-track-for-2024/"><u>Olympic Ice Showdown Highlights of Speed Skating Short Track for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revolutionizing-creativity-premier-tablet-apps-for-ipados-for-2024/"><u>Revolutionizing Creativity Premier Tablet Apps for iPadOS for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On HTC U23? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shadowy Time-Lapse Recording Methods\""
-date: 2024-10-18T22:01:00.974Z
-updated: 2024-10-19T21:25:44.947Z
+date: 2024-10-24T16:25:03.891Z
+updated: 2024-10-31T18:09:18.248Z
 tags: 
   - screen-recording
   - ai video
@@ -55,13 +55,6 @@ Phantom cameras are the newest type of camera on the market that can capture slo
 
 One of the most popular ways to use a phantom slow-motion camera is to capture beautiful slow-motion footage of nature. This can be done by setting up the camera in a location where there is a lot of natural movement. The camera will then capture the movement in slow motion, allowing you to see the beauty of the movement that would otherwise be missed.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to create a time-lapse video on a phantom slow-motion camera
 
 A phantom slow-motion camera is a special type of camera that can be used to create time-lapse videos. Time-lapse videos are created by taking a series of photos or videos over a while and then playing them back at a faster speed. This gives the appearance of time moving faster or slower than it is. To create a time-lapse video using a phantom slow-motion camera, you will need the following:
@@ -74,6 +67,13 @@ A phantom slow-motion camera is a special type of camera that can be used to cre
 Once you have all of the necessary equipment, you will need to set up your camera on the tripod and position it in the desired location. Then, you will need to set the camera to record in slow motion. Once the camera is recording, you will need to use the remote shutter release to take a picture every few seconds.
 
 Depending on the length of the video you want to create, you may need to take thousands of pictures. Once you have all of the pictures, you will need to use a time-lapse video editing software to put them all together.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to edit time-lapse video on a computer
 
@@ -106,10 +106,10 @@ You can easily install Filmora for free, after installing click on it three opti
 ![open filmora and create a new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step2 Add some media to edit
@@ -119,10 +119,10 @@ After creating a new project, there is an option to add media you can your the v
 ![add media to library on filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-media-to-library-on-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step3 Drop the media to timeline
@@ -130,19 +130,6 @@ After creating a new project, there is an option to add media you can your the v
 Drag and drop your videos on the timeline to start the editing. Once you placed your videos on timelines put the video header at the front.
 
 ![drag media into timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/drag-media-into-timeline-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4 Add titles, effects, and transitions to your video
 
@@ -155,13 +142,6 @@ Filmora provides several titles, effects, and transitions. You can add them acco
 When you want to save your video or share it on social media just click on the export button. It will provide you with different features like you can export your video on a desktop or where ever you want. You can export it in HD form.
 
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -192,10 +172,10 @@ The camera will then capture the movement in slow motion, allowing you to see th
 ![shoot video with phantom camera](https://images.wondershare.com/filmora/article-images/2022/11/shoot-video-with-phantom-camera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why do we need a phantom slow-motion camera?
@@ -249,11 +229,25 @@ You can easily install Filmora for free, after installing click on it three opti
 
 ![open filmora and create a new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2 Add some media to edit
 
 After creating a new project, there is an option to add media you can your the video which you want to edit.
 
 ![add media to library on filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-media-to-library-on-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3 Drop the media to timeline
 
@@ -267,24 +261,18 @@ Filmora provides several titles, effects, and transitions. You can add them acco
 
 ![add title and effects to video filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-title-and-effects-to-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step5 Export to your desktop
 
 When you want to save your video or share it on social media just click on the export button. It will provide you with different features like you can export your video on a desktop or where ever you want. You can export it in HD form.
 
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -320,24 +308,24 @@ As filmmakers and video lovers, we have come up with some solid examples of time
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-demystifying-youtube-seo-terminology-and-tactics/"><u>[New] In 2024, Demystifying YouTube SEO Terminology and Tactics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-quick-windows-documentation-checks/"><u>[New] Mastering Quick Windows Documentation Checks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mi-drone-reviewed-capturing-landscapes-in-full-resolution/"><u>[New] MI Drone Reviewed Capturing Landscapes in Full Resolution</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-buzzfeed-gurus-flashing-with-snapchat/"><u>[Updated] 2024 Approved BuzzFeed Gurus Flashing with Snapchat</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-monetized-critique-videos-the-truth-unveiled/"><u>[Updated] Monetized Critique Videos The Truth Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimizing-your-creative-process-windows-movie-maker-on-windows-8-unveiled/"><u>[Updated] Optimizing Your Creative Process Windows Movie Maker on Windows 8 Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-samsung-bd-j5900-review-2023-update/"><u>[Updated] Samsung BD-J5900 Review - 2023 Update</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-snapshot-styles-a-guide-to-using-old-school-vhs-in-modern-editing/"><u>[Updated] Snapshot Styles A Guide to Using Old-School VHS in Modern Editing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-the-potential-of-closeup-cinematography/"><u>[Updated] Unlocking the Potential of Closeup Cinematography</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-eclipse-etiquette-secrets-to-stunning-night-photos/"><u>2024 Approved Eclipse Etiquette Secrets to Stunning Night Photos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-ranked-10-best-low-cost-user-friendly-passport-photo-services/"><u>2024 Approved Ranked 10 Best Low-Cost, User-Friendly Passport Photo Services</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-shh-9-secrets-of-simple-stock-editing/"><u>2024 Approved Shh! 9 Secrets of Simple Stock Editing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-streamlining-post-processing-with-effective-use-of-luts-in-pscc/"><u>2024 Approved Streamlining Post-Processing with Effective Use of LUTs in PSCC</u></a></li>
-<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-s24-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy S24 FRP Bypass Instantly</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-13-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 13 Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/integrated-sound-system-guidebook-for-2024/"><u>Integrated Sound System Guidebook for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/paperclip-maximizer-dilemma-unraveling-its-significance-within-the-realm-of-artificial-intelligence/"><u>Paperclip Maximizer Dilemma: Unraveling Its Significance Within the Realm of Artificial Intelligence</u></a></li>
-<li><a href="https://facebook.techidaily.com/zen-your-feed-eliminate-political-echo-chambranes/"><u>Zen Your Feed: Eliminate Political Echo Chambranes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-novices-selection-guide-to-ideal-filming-cameras/"><u>[New] Novice's Selection Guide to Ideal Filming Cameras</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-sonic-enhancements-for-whatsapp-updates-for-2024/"><u>[New] Sonic Enhancements for WhatsApp Updates for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-circumventing-virtual-classroom-videos-without-hesitation/"><u>[Updated] 2024 Approved Circumventing Virtual Classroom Videos Without Hesitation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-mobile-and-desktop-mkv-software/"><u>[Updated] Premier Mobile & Desktop MKV Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-rhythmic-resonance-incor-written-by-assistant/"><u>[Updated] Rhythmic Resonance Incor Written by Assistant</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-macs-premier-mkv-player-picks/"><u>2024 Approved Mac's Premier MKV Player Picks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-make-gif-on-iphone-top-10-gif-apps-for-iphone-x876/"><u>2024 Approved Make GIF on iPhone Top 10 GIF Apps for iPhone X/8/7/6</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigate-angular-video-transitions-on-android-devices/"><u>2024 Approved Navigate Angular Video Transitions on Android Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-audio-packs-for-visual-storytelling/"><u>2024 Approved Premium Audio Packs for Visual Storytelling</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-instructions-on-chromes-pip-across-all-platforms/"><u>2024 Approved Step-by-Step Instructions on Chrome’s PIP Across All Platforms</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/erate-how-to-swiftly-broadcast-playlists-for-2024/"><u>Accelerate How To Swiftly Broadcast Playlists for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/google-maps-mastery-navigating-to-the-closest-electric-vehicle-charge-points/"><u>Google Maps Mastery: Navigating to the Closest Electric Vehicle Charge Points</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-6-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 6 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-elevate-video-flair-advanced-techniques-in-youtube-studio-editor/"><u>In 2024, Elevate Video Flair Advanced Techniques in YouTube Studio Editor</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-a05s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel A05s to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/keep-an-eye-detect-vanished-screenshot-photos/"><u>Keep an Eye: Detect Vanished Screenshot Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seo-enhanced-title-builder-for-peak-video-visibility-for-2024/"><u>SEO-Enhanced Title Builder for Peak Video Visibility for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ultimate-10-most-popular-tracks/"><u>The Ultimate 10 Most Popular Tracks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-win-support-for-pci-devices/"><u>Ultimate Win Support for PCI Devices</u></a></li>
 </ul></div>
 

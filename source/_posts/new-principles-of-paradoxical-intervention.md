@@ -1,7 +1,7 @@
 ---
 title: "[New] Principles of Paradoxical Intervention"
-date: 2024-07-31T10:39:04.278Z
-updated: 2024-08-01T10:39:04.278Z
+date: 2024-10-26T16:20:50.965Z
+updated: 2024-10-31T16:43:33.539Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 Always been curious about using time travel devices but have found no solution? This article lets you know the whole process of how you can activate a time travelling teleportation device using clever filming and editing in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Before filming and editing a video, get to know about the time-travel teleportation device.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1\. What Is a Time Travel Teleportation Device?
 
 Teleportation is usually estimated as the travelling between two points which carries unlimited time to complete. It's always considered impossible to make time travel devices and use them in real life.
@@ -33,9 +30,6 @@ However, in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## Part 2\. Filming Prerequisites for Time Travelling Effects
 
 To create shots, we have to do two processing rounds. In the first round, we will film a shot for daytime activity. While in the next round, we will shoot a video for nighttime activity. Get straight into the filming mode and create according to your script.
@@ -48,9 +42,6 @@ Catch us at the below tips to make your video shots more skilled! First, you nee
 
 You can also use a light that is 5,600 kelvins, which indicates blue light. We can easily change the light from its remote, as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![blue light lighting setup](https://images.wondershare.com/filmora/article-images/2023/04/blue-light-lighting-setup.jpg)
 
 If you don't have an asset to get the lighting set up, then don't worry; we have another option.
@@ -61,16 +52,10 @@ Professional videographers create these effects using high-end lighting. But you
 
 First, wrap the colorful divider around the LED light or any other light you're using to take video. The dividers will be melt or burn when the light source gets too hot; therefore, check the temperature of the light after short gaps.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wrap the led light with a plastic binder](https://images.wondershare.com/filmora/article-images/2023/04/wrap-the-led-light-with-a-plastic-binder.jpg)
 
 * Shoot the video now, and experiment with adding suspense, terror, and cheerful effects with various colors.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![final results after changing led light by colorful binders](https://images.wondershare.com/filmora/article-images/2023/04/final-results-after-changing-led-light-by-colorful-binders.jpg)
 
 After setting the lights, now it's time to check the camera!
@@ -79,9 +64,6 @@ After setting the lights, now it's time to check the camera!
 
 It is a very important step that you don't have to change the camera position during filming. Because if the camera angle will not be same, it's difficult to show in the same alignment during editing.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![camera alignment](https://images.wondershare.com/filmora/article-images/2023/04/camera-alignment.gif)
 
 After setting all equipment, now it's time to allow the character to perform in front of the camera.
@@ -98,9 +80,6 @@ In the second round, you have to create a nighttime action indicating that you n
 
 To film a night mode, you need a warmer light, which is used to make shots for the second round. You can also use a light that is under 2700-3000 kelvins because it indicates warm light.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![night time warmer light](https://images.wondershare.com/filmora/article-images/2023/04/night-time-warmer-light.jpg)
 
 You don't need to worry if you don't have enough budget to get this setup. Because plastic binders will make your way easy, and you can create your own at home, as told earlier.
@@ -131,9 +110,6 @@ You can also create a marking by using anything in yours. We are using the midli
 
 **Note:** Ensure to match the **"stepping over"** of the character for better results in the transition video.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![cross line between two rounds](https://images.wondershare.com/filmora/article-images/2023/04/cross-line-between-two-rounds.jpg)
 
 After shooting all the clips, it's time to edit them on Filmora. To do this, check out the step to step guide below.
@@ -170,9 +146,6 @@ The marking of the clips will give better trimming points. For this, mark the ex
 * Next, find the spot where the subject steps over to another dimension from right to left in the daytime clip.
 * Select the clip, and mark it as marker two by pressing on the letter **'M.'**
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![marker 2 on the daytime clip](https://images.wondershare.com/filmora/article-images/2023/04/marker-2-on-the-daytime-clip.jpg)
 
 ##### Step4Drag the nighttime clip
@@ -201,6 +174,13 @@ For better alignment of the clips, trim the nighttime clip where marker one is p
 
 ![trim the nighttime clip at marker 1](https://images.wondershare.com/filmora/article-images/2023/04/trim-the-nighttime-clip-at-marker-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After alignment and trimming points, the timeline is finalized, then add the mask effects for a fascinating look.
 
 ##### Step8Apply a shape mask
@@ -213,11 +193,14 @@ Next, you have to apply the **"Shape Mask"** for smooth movements of the charact
 * Search the **Shape Mask** on the search tab.
 * Then download this effect and apply it to the nighttime clip.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![shape mask from the utility section](https://images.wondershare.com/filmora/article-images/2023/04/shape-mask-from-the-utility-section.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * After that, double-click on the nighttime clips, which will show the settings section of the clip.
 * Go to the Video Effects section and change the shape mask settings.
@@ -241,9 +224,6 @@ To show the energy pack between two time-travel clips, you have to add the effec
 
 ![elemental effects](https://images.wondershare.com/filmora/article-images/2023/04/elemental-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** After dropping the effect, ensure that it starts simultaneously when the nighttime clip appears on the screen.
@@ -262,9 +242,6 @@ To apply the chromatic effect after the power pack effect, follow the below step
 
 ![chromatic aberration effect from distortion](https://images.wondershare.com/filmora/article-images/2023/04/chromatic-aberration-effect-from-distortion.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** Change the settings of the effects as needed from the top left setting panel on filmora.
@@ -280,6 +257,13 @@ To get the thrilling look, you have to apply the laser effect between the two cl
 
 ![apply the laser effect](https://images.wondershare.com/filmora/article-images/2023/04/apply-the-laser-effect.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Reposition and adjust it according to the requirements if needed.
 * Extend the laser effect to the end of the scene.
 
@@ -287,9 +271,6 @@ To get the thrilling look, you have to apply the laser effect between the two cl
 
 Congratulations! You have all done with the time travel teleportation effects and get a bombing video. Check out the results below!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![final results of time travel teleportation effects](https://images.wondershare.com/filmora/article-images/2023/04/final-results-of-time-travel-teleportation-effects.gif)
 
 If you want to change the effects, then you can easily switch from the stock of the Wondershare Filmora. It gives unlimited creative and fun effects to interact with more audiences daily.
@@ -307,11 +288,22 @@ Create for you and add different effects and experiment with new features. You w
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2\. Filming Prerequisites for Time Travelling Effects
 
 To create shots, we have to do two processing rounds. In the first round, we will film a shot for daytime activity. While in the next round, we will shoot a video for nighttime activity. Get straight into the filming mode and create according to your script.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### #1 daylight lighting setup
 
@@ -321,9 +313,6 @@ Catch us at the below tips to make your video shots more skilled! First, you nee
 
 You can also use a light that is 5,600 kelvins, which indicates blue light. We can easily change the light from its remote, as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![blue light lighting setup](https://images.wondershare.com/filmora/article-images/2023/04/blue-light-lighting-setup.jpg)
 
 If you don't have an asset to get the lighting set up, then don't worry; we have another option.
@@ -334,9 +323,6 @@ Professional videographers create these effects using high-end lighting. But you
 
 First, wrap the colorful divider around the LED light or any other light you're using to take video. The dividers will be melt or burn when the light source gets too hot; therefore, check the temperature of the light after short gaps.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wrap the led light with a plastic binder](https://images.wondershare.com/filmora/article-images/2023/04/wrap-the-led-light-with-a-plastic-binder.jpg)
 
 * Shoot the video now, and experiment with adding suspense, terror, and cheerful effects with various colors.
@@ -349,9 +335,6 @@ After setting the lights, now it's time to check the camera!
 
 It is a very important step that you don't have to change the camera position during filming. Because if the camera angle will not be same, it's difficult to show in the same alignment during editing.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![camera alignment](https://images.wondershare.com/filmora/article-images/2023/04/camera-alignment.gif)
 
 After setting all equipment, now it's time to allow the character to perform in front of the camera.
@@ -368,9 +351,6 @@ In the second round, you have to create a nighttime action indicating that you n
 
 To film a night mode, you need a warmer light, which is used to make shots for the second round. You can also use a light that is under 2700-3000 kelvins because it indicates warm light.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![night time warmer light](https://images.wondershare.com/filmora/article-images/2023/04/night-time-warmer-light.jpg)
 
 You don't need to worry if you don't have enough budget to get this setup. Because plastic binders will make your way easy, and you can create your own at home, as told earlier.
@@ -383,7 +363,21 @@ In this round, the subject should start from the right to left and perform stepp
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** Ensure to match the **"stepping over"** of the character for better results in the transition video.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### #3 cross line between two rounds
 
@@ -401,16 +395,10 @@ You can also create a marking by using anything in yours. We are using the midli
 
 **Note:** Ensure to match the **"stepping over"** of the character for better results in the transition video.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![cross line between two rounds](https://images.wondershare.com/filmora/article-images/2023/04/cross-line-between-two-rounds.jpg)
 
 After shooting all the clips, it's time to edit them on Filmora. To do this, check out the step to step guide below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3\. Edit Teleportation Effects in Filmora
 
 Now, we'll take an all-in-one video editor, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), as our editor to show you the way toward teleportation effects. Due to its up to date UI and ready-to-use resources, it saves your a lot of time from tedious work. Follow the steps below to quickly achieve the time travelling effect on your own.
@@ -443,9 +431,6 @@ The marking of the clips will give better trimming points. For this, mark the ex
 * Next, find the spot where the subject steps over to another dimension from right to left in the daytime clip.
 * Select the clip, and mark it as marker two by pressing on the letter **'M.'**
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![marker 2 on the daytime clip](https://images.wondershare.com/filmora/article-images/2023/04/marker-2-on-the-daytime-clip.jpg)
 
 ##### Step4Drag the nighttime clip
@@ -466,9 +451,6 @@ After marking the points on the clips, then you have to align and adjust the cli
 
 To make sure that the video will play smoothly, you ensure the correct alignment of the clips. For this, grab the nighttime clip on the timeline and move it until marker three is roughly aligned with marker two.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![align markers 2 and 3 with each other](https://images.wondershare.com/filmora/article-images/2023/04/align-markers-2-and-3-with-each-other.jpg)
 
 ##### Step7Trim the clips
@@ -489,18 +471,12 @@ Next, you have to apply the **"Shape Mask"** for smooth movements of the charact
 * Search the **Shape Mask** on the search tab.
 * Then download this effect and apply it to the nighttime clip.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![shape mask from the utility section](https://images.wondershare.com/filmora/article-images/2023/04/shape-mask-from-the-utility-section.jpg)
 
 * After that, double-click on the nighttime clips, which will show the settings section of the clip.
 * Go to the Video Effects section and change the shape mask settings.
 * Tweak the mask settings until the nighttime clip appears on the left and the daytime clip with the character on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![change the shape mask settings](https://images.wondershare.com/filmora/article-images/2023/04/change-the-shape-mask-settings.jpg)
 
 Play the video again and check out the smoothness of the actions. As we have already marked the points, that's why the actions match with each other and give an equivalent look!
@@ -520,15 +496,16 @@ To show the energy pack between two time-travel clips, you have to add the effec
 ![elemental effects](https://images.wondershare.com/filmora/article-images/2023/04/elemental-effects.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** After dropping the effect, ensure that it starts simultaneously when the nighttime clip appears on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![after adding the elemental energy effect](https://images.wondershare.com/filmora/article-images/2023/04/after-adding-the-elemental-energy-effect.jpg)
 
 * Resize the effect according to the clip for a better look.
@@ -541,14 +518,8 @@ To apply the chromatic effect after the power pack effect, follow the below step
 * Then go to the top left **Effect** panel and select the video effect from the drop-down list..
 * Find the Distortion section and select the chromatic aberration effect.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chromatic aberration effect from distortion](https://images.wondershare.com/filmora/article-images/2023/04/chromatic-aberration-effect-from-distortion.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** Change the settings of the effects as needed from the top left setting panel on filmora.
@@ -571,25 +542,10 @@ To get the thrilling look, you have to apply the laser effect between the two cl
 
 Congratulations! You have all done with the time travel teleportation effects and get a bombing video. Check out the results below!
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![final results of time travel teleportation effects](https://images.wondershare.com/filmora/article-images/2023/04/final-results-of-time-travel-teleportation-effects.gif)
 
 If you want to change the effects, then you can easily switch from the stock of the Wondershare Filmora. It gives unlimited creative and fun effects to interact with more audiences daily.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Making time travel videos is always fun as to watch them. You can quickly assemble these videos instantly by [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). There is no need to worry if you have thousands of effects on one platform.
@@ -622,5 +578,26 @@ Create for you and add different effects and experiment with new features. You w
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-edit-like-a-pro-how-to-clear-out-photo-borders-quickly/"><u>[New] Edit Like a Pro How to Clear Out Photo Borders Quickly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nsuring-thumbnails-show-shorts-video-troubleshooting/"><u>[New] Ensuring Thumbnails Show Shorts Video Troubleshooting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pinnacle-selections-prolific-iphone-tone-innovators/"><u>[New] Pinnacle Selections Prolific iPhone Tone Innovators</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-essential-how-to-for-extracting-youtube-srt-files/"><u>[Updated] 2024 Approved The Essential How-To for Extracting YouTube SRT Files</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-sixteen-camera-arrays-for-professionals/"><u>[Updated] Prime Sixteen Camera Arrays for Professionals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-correcting-misaligned-youtube-picture-quality/"><u>2024 Approved Correcting Misaligned YouTube Picture Quality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instagrams-video-spin-what-causes-it/"><u>2024 Approved Instagram's Video Spin What Causes It?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-time-lapse-capturing-moments-quickly/"><u>2024 Approved IPhone Time-Lapse Capturing Moments Quickly</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-metacores-finest-vr-headsets-and-eyewear-guide/"><u>2024 Approved Metacore's Finest VR Headsets and Eyewear Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-share-todays-enlightening-voice-lesson/"><u>2024 Approved Share Today's Enlightening Voice Lesson</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-xp-330-printer-drivers-free-download-and-installation-guide/"><u>Epson XP-330 Printer Drivers: Free Download & Installation Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-illuminating-emotions-an-hdr-portraitists-guide/"><u>In 2024, Illuminating Emotions An HDR Portraitist's Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-open-source-tranquility-tracks/"><u>In 2024, Open Source Tranquility Tracks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-pro-blueprints-exclusive-free-2023-collection/"><u>In 2024, Premier Pro Blueprints - Exclusive FREE 2023 Collection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-starting-out-key-equipment-and-software-for-vlogging/"><u>In 2024, Starting Out Key Equipment & Software for Vlogging</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/navigating-android-a-step-by-step-approach-to-sound-customization/"><u>Navigating Android A Step-by-Step Approach to Sound Customization</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reflex-product-assembly-for-2024/"><u>Reflex Product Assembly for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211163090-9781685681043-triunfar-en-la-vida/"><u>Triunfar en la vida | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncover-the-causes-of-overheating-in-your-apple-devices-iphones-and-ipads/"><u>Uncover the Causes of Overheating in Your Apple Devices: IPhones & iPads</u></a></li>
+</ul></div>
 

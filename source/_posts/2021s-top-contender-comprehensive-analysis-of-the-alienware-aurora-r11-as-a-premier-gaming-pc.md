@@ -1,7 +1,7 @@
 ---
 title: "2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC"
-date: 2024-10-19T18:57:20.931Z
-updated: 2024-10-25T18:16:17.107Z
+date: 2024-10-27T17:25:43.864Z
+updated: 2024-10-31T17:57:00.999Z
 categories:
   - BestProducts
 description: "This Article Describes 2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC"
@@ -43,13 +43,6 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/3Kfyp4XgBEtCuXPHAVw99RFqQs8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_HeroSquare-2e5c3941b8fe49afbd7464f382164976.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Yoona Wagener
 
 [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Famazon-halo-activity-and-sleep-tracker-medium-7-onyx%2F6445215.p)
@@ -77,16 +70,10 @@ Lifewire / Yoona Wagener
 ![Amazon Halo](https://www.lifewire.com/thmb/W0-czfRzA-7ixa5VS8Cb4sBcaqM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_02-b2292f1ee1b54f4e9990c92e582c5a4b.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
@@ -102,10 +89,10 @@ Lifewire / Yoona Wagener
 Lifewire / Yoona Wagener
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Comfort: Streamlined but not immune to typical fit issues
@@ -117,6 +104,13 @@ Lifewire / Yoona Wagener
  While the easy-adjusting Velcro strap is a welcome departure from the typical notch-and-clasp closure on most fitness trackers, adjusting the fit or removing the device wasn’t as smooth as I’d expected it to be.
 
  As for water resistance, I didn’t test the 50-meter swimproof rating of the Halo in a pool, but I did shower with the device for three days. Despite the band’s moisture-wicking band material, it remained damp far longer than was comfortable and compared to a fast-drying silicone band. If you’re an avid swimmer or prefer not to remove your wearable while showering, the sport band option will most likely be the more desirable option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Performance: Constantly monitoring movement, not performance
 
@@ -135,13 +129,6 @@ Lifewire / Yoona Wagener
  All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the cloud, which Amazon assures is private and well secured.
 
  The body fat scan is based on pictures uploaded to the app—and based on prompts from the app. While it felt invasive and isn’t a feature I’d seek out in a fitness tracker, it worked without issue. Amazon reports that this technology is twice as accurate as smart scales. For the right user who feels comfortable with this kind of data compilation, this feature also offers visualizations of how different body fat percentages would look on your frame and stores your scans for a look at trends over time. All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the[cloud](https://www.lifewire.com/what-is-cloud-computing-817770) , which Amazon assures is private and well secured.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Software: An essential and user-friendly mobile app
 
@@ -167,6 +154,13 @@ Lifewire / Yoona Wagener
 
  Retailing for just about $100, the Amazon Halo band certainly won’t break the bank for budget-minded shoppers. While the lack of display could be a deterrent, the solid mobile app provides convenient access to the detailed sleep, automatic activity tracking, and specialized tone of voice and body fat analysis the Halo provides.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Amazon Halo vs. WHOOP Strap 3
 
  The WHOOP Strap 3 is another screen-less fitness tracker with a minimalist bent but a bigger buy-in and emphasis on performance. Unlike the Halo, the WHOOP Strap requires a WHOOP membership, which, at the lowest end, costs $30 monthly for a 6-month membership or $180 total (band included). The Halo band comes with a free six-month subscription to Halo app services, then a $3.99 monthly charge, so it’s considerably cheaper—especially since WHOOP recommends replacing their fabric strap every six months as well.
@@ -180,10 +174,10 @@ Lifewire / Yoona Wagener
  The Amazon Halo isn’t for everyone with its lack of display and additional layers of data tracking to capture tone of voice and body fat percentage. But for the user that wants a little less hardware but more forward-thinking fitness/health tracking, this unique wearable offers a different approach to increasing activity and wellness awareness on a daily basis.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -223,18 +217,24 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-to-pairing-your-camera-gimbal/"><u>[New] Step-by-Step Guide to Pairing Your Camera Gimbal</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-fashion-forward-video-ideas/"><u>[Updated] 2024 Approved Fashion Forward Video Ideas</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/16-amazing-and-complimentary-websites-to-start-learning-sign-language-today/"><u>16 Amazing and Complimentary Websites to Start Learning Sign Language Today</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-productivity-boosters-while-binge-listening-to-podcasts/"><u>2024 Approved Productivity Boosters While Binge-Listening to Podcasts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youth-inspiration-tales-of-overcoming-challenges/"><u>2024 Approved Youth Inspiration Tales of Overcoming Challenges</u></a></li>
-<li><a href="https://windows11.techidaily.com/amplifying-security-the-art-of-longer-pin-codes-in-win11/"><u>Amplifying Security: The Art of Longer Pin Codes in Win11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-realme-c51-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Realme C51 FRP Locks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-s23-tactical-edition-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy S23 Tactical Edition Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-100-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Honor 100 Phone with Broken Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 Pro Phone with Broken Screen</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-softening-the-edges-a-guide-to-dimmed-audio-in-logic-pro/"><u>In 2024, Softening the Edges A Guide to Dimmed Audio in Logic Pro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/inshots-counterparts-for-pc-video-editing-for-2024/"><u>Inshot's Counterparts for PC Video Editing for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-nvidia-output-unplugged-issues/"><u>Troubleshooting Guide: Solving 'Nvidia Output Unplugged' Issues</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-curating-relevant-skills-list/"><u>[New] 2024 Approved Curating Relevant Skills List</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-identifying-instagram-disconnects/"><u>[New] Identifying Instagram Disconnects</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-delving-into-youtubes-digital-video-workshop/"><u>[New] In 2024, Delving Into YouTube's Digital Video Workshop</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-optimal-viewing-times-on-instagram-videos-for-2024/"><u>[New] Optimal Viewing Times on Instagram Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-ultimate-ff-downloader-suite-for-social-video-grabs-for-2024/"><u>[New] Ultimate FF Downloader Suite for Social Video Grabs for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-expand-your-horizons-with-these-elite-science-yts/"><u>[Updated] Expand Your Horizons with These Elite Science YTs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seeking-visual-vintage-free-art-archives-online/"><u>[Updated] Seeking Visual Vintage Free Art Archives Online</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unveiling-the-top-methods-of-video-and-screenshots/"><u>[Updated] Unveiling the Top Methods of Video & Screenshots</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-metaverse-masterclass-designing-your-own-hilarious-digital-memeography/"><u>2024 Approved Metaverse Masterclass Designing Your Own Hilarious Digital Memeography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-steadicam-devices-for-professional-drone-cinematography/"><u>2024 Approved Optimal Steadicam Devices for Professional Drone Cinematography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photoshop-for-beginners-top-editing-hacks-revealed/"><u>2024 Approved Photoshop For Beginners Top Editing Hacks Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-visual-appeal-accessories-that-elevate-games/"><u>Beyond Visual Appeal: Accessories that Elevate Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/five-gpt-techniques-for-optimal-cryptocurrency-trading/"><u>Five GPT Techniques for Optimal Cryptocurrency Trading</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-sony-xperia-10-v-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Sony Xperia 10 V Phone FRP Lock</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-sierras-icloud-drive-accessibility/"><u>In 2024, Mastering Sierra’s iCloud Drive Accessibility</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-tiktok-video-enhancement-with-zoom/"><u>In 2024, Mastering TikTok Video Enhancement with Zoom</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lg-27uhd68-screen-a-detailed-freesync-analysis-for-2024/"><u>LG 27UHD68 Screen A Detailed FreeSync Analysis for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/selecting-quality-on-a-shoe-string-10-best-free-lut-picks-for-2024/"><u>Selecting Quality on a Shoe String 10 Best Free LUT Picks for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/snapshot-into-the-heart-of-video-edits-filmoras-top-10-for-2024/"><u>Snapshot Into the Heart of Video Edits - Filmora’s Top 10 for 2024</u></a></li>
 </ul></div>
 

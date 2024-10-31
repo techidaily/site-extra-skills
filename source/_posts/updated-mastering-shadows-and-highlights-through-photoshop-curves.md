@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Shadows & Highlights Through Photoshop Curves"
-date: 2024-07-31T10:43:56.220Z
-updated: 2024-08-01T10:43:56.220Z
+date: 2024-10-29T16:05:53.517Z
+updated: 2024-10-31T16:30:53.465Z
 tags: 
   - screen-recording
   - ai video
@@ -38,23 +38,12 @@ After creating the new document, open the image that you want to curve. You may 
 
 Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking and holding on the Transform Tool in the toolbar. The Warp Tool is located at the bottom of the Transform Tool's fly-out menu. Alternatively, you may press Ctrl+T or Command+T on your keyboard to open the Transform Tool's fly-out menu and then select the Warp Tool from there.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![wrap image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/wrap-image-photoshop.jpg)
 
 With the Warp Tool selected, hover your cursor over the image. You'll see a grid appear over the image. Click and drag one of the middle nodes in the horizontal direction to begin curving the image. As you drag, you'll see the image curve along with your cursor. If you want to increase or decrease the amount of curvature, simply press and hold the Shift key while dragging the node.
 
 Play around with the settings in the options bar. There are quite a few different looks you can achieve just by adjusting these.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
@@ -67,30 +56,25 @@ No advertising on the website.
 
 The **Bend Direction** option rotates the angle of the bend.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
 
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 We hope this post has helped you learn how to curve an image in Photoshop. The best part about it? It's easy to do, and you can do it quickly. So, don't wait another minute! Get out there and start curving your images today (we know we are).
@@ -123,5 +107,20 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-optimal-video-saver-best-chromebook-recorder-for-2024/"><u>[New] Optimal Video Saver Best Chromebook Recorder for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-memimagic-create-funny-images-on-the-go/"><u>[Updated] MemiMagic Create Funny Images On-the-Go</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pinnacle-workshop-25-critique/"><u>2024 Approved Pinnacle Workshop 25 Critique</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-screen-capture-simplified-top-choices-for-easy-video-making/"><u>In 2024, Screen Capture Simplified Top Choices for Easy Video Making</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sony-ps-players-voice-modification-techniques/"><u>In 2024, Sony PS Players' Voice Modification Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-enigma-exchange-where-anonymity-meets-digital-riches-2023-edition/"><u>In 2024, The Enigma Exchange Where Anonymity Meets Digital Riches, 2023 Edition</u></a></li>
+<li><a href="https://facebook.techidaily.com/last-login-tips-what-to-consider-when-bidding-farewell-to-fb/"><u>Last Login Tips: What to Consider When Bidding Farewell to FB</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/next-level-gaming-premium-vr-players-reviewed/"><u>Next-Level Gaming Premium VR Players Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pinnacle-payload-pilots-drone-superlatives-for-2024/"><u>Pinnacle Payload Pilots Drone Superlatives for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/proven-techniques-to-acquire-superior-hdr-cameras-for-2024/"><u>Proven Techniques to Acquire Superior HDR Cameras for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rising-demand-causes-anticipated-increase-of-up-to-15-in-dram-prices-during-first-quarter-of-2024-industry-production-holds-steady/"><u>Rising Demand Causes Anticipated Increase of Up to 15% in DRAM Prices During First Quarter of 2024: Industry Production Holds Steady</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-approach-to-crafting-3d-text-in-photoshop-for-2024/"><u>Step-by-Step Approach to Crafting 3D Text in Photoshop for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-methods-pour-deplacer-des-videos-de-votre-iphone-vers-un-mac/"><u>Top 5 Methods Pour Déplacer Des Vidéos De Votre iPhone Vers Un Mac</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Speedy Glimpse Through Windows Files for 2024"
-date: 2024-10-21T17:42:56.920Z
-updated: 2024-10-25T16:21:01.872Z
+date: 2024-10-29T17:31:20.302Z
+updated: 2024-10-31T17:48:39.068Z
 tags: 
   - screen-recording
   - ai video
@@ -51,32 +51,32 @@ Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
 
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
 
@@ -91,10 +91,10 @@ Meanwhile, it’s expected that QuickLook will come with a small preview screen.
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Frequently Asked Questions
@@ -112,16 +112,10 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -158,20 +152,21 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-maximizing-video-reach-through-title-and-tag-synergy/"><u>[New] 2024 Approved Maximizing Video Reach Through Title & Tag Synergy</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-learn-the-easy-way-unlocking-iphone-screen-recording/"><u>[New] Learn the Easy Way Unlocking Iphone Screen Recording</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-master-class-review-of-dji-inspire-2/"><u>[New] Master Class Review of DJI Inspire 2</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-key-approaches-to-elicit-trust-in-product-reviews-through-videography/"><u>[Updated] Key Approaches to Elicit Trust in Product Reviews Through Videography</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-quick-youtube-revenue-assessments-available-for-2024/"><u>[Updated] Quick YouTube Revenue Assessments Available for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fast-fixes-to-get-your-destiny-2-past-the-stuck-initialization-screen/"><u>Fast Fixes to Get Your Destiny 2 Past The Stuck Initialization Screen</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-iphone-6s-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on Apple iPhone 6s or iPad?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-multitask-media-magic-harnessing-netflixs-picture-in-picture-feature/"><u>In 2024, Multitask Media Magic Harnessing Netflix's Picture-in-Picture Feature</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-quick-methods-to-light-up-dull-iphone-footage/"><u>In 2024, Quick Methods to Light Up Dull iPhone Footage</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-nokia-130-music-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Nokia 130 Music FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-vanguard-virtual-venture-voice/"><u>In 2024, Vanguard Virtual Venture Voice</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pioneering-photography-with-quantum-hdr-tech-for-2024/"><u>Pioneering Photography with Quantum HDR Tech for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamless-streaming-connecting-your-home-theater-to-the-world-wide-web/"><u>Seamless Streaming: Connecting Your Home Theater to the World Wide Web</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/spread-laughter-with-simple-steps-in-kinemaster-for-2024/"><u>Spread Laughter with Simple Steps in KineMaster for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-market-mastery-top-20-words-for-effective-advertising/"><u>[New] Market Mastery Top 20 Words for Effective Advertising</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-editing-removing-out-of-place-backgrounds/"><u>[Updated] Seamless Editing Removing Out-of-Place Backgrounds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prioritize-quality-and-ease-the-top-12-videophones/"><u>2024 Approved Prioritize Quality and Ease The Top 12 Videophones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blur-your-images-soul-the-best-face-pixelation-techniques-for-2024/"><u>Blur Your Image's Soul The Best Face Pixelation Techniques for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-kinemaster-focus-mastery-a-filmmakers-guide-to-sharper-images/"><u>In 2024, Kinemaster Focus Mastery A Filmmaker's Guide to Sharper Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-samsung-camera-toolkit-review-2023-edition/"><u>In 2024, Samsung Camera Toolkit Review – 2023 Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-media-switching-your-ultimate-guide-for-srt-conversion/"><u>In 2024, Seamless Media Switching Your Ultimate Guide for SRT Conversion</u></a></li>
+<li><a href="https://win-premium.techidaily.com/installazione-e-sincronizzazione-cartelle-mac-senza-fatica-il-tuo-manuale-di-guida-completo/"><u>Installazione E Sincronizzazione Cartelle Mac Senza Fatica: Il Tuo Manuale Di Guida Completo</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/key-approaches-to-compelling-client-endorsements-on-film-for-2024/"><u>Key Approaches to Compelling Client Endorsements on Film for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/mejora-tu-disco-duro-tres-formas-sencillas-de-incrementar-espacio-en-unidad-c-en-windows-11/"><u>Mejora Tu Disco Duro: Tres Formas Sencillas De Incrementar Espacio en Unidad C en Windows 11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-exploring-the-frontier-combining-images-with-soundscapes-2utopia-tech-review-2023-for-2024/"><u>New Exploring the Frontier Combining Images with Soundscapes 2Utopia Tech Review, 2023 for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/on-the-road-and-on-a-budget-the-best-bluetooth-earpiece-guide-for-drivers/"><u>On the Road and on a Budget: The Best Bluetooth Earpiece Guide for Drivers</u></a></li>
+<li><a href="https://facebook.techidaily.com/sharp-sanctions-to-combat-falsehood-spreaders-on-fb/"><u>Sharp Sanctions to Combat Falsehood Spreaders on FB</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-infinix-smart-8-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Infinix Smart 8 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-the-value-of-installing-a-wi-fi-mesh-network-in-your-home-or-office/"><u>What's the Value of Installing a Wi-Fi Mesh Network in Your Home or Office?</u></a></li>
 </ul></div>
 

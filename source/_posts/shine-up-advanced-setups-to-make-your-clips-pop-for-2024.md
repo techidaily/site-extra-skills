@@ -1,7 +1,7 @@
 ---
 title: "\"Shine Up  Advanced Setups to Make Your Clips Pop for 2024\""
-date: 2024-07-31T10:42:55.771Z
-updated: 2024-08-01T10:42:55.771Z
+date: 2024-10-25T17:38:24.999Z
+updated: 2024-10-31T16:50:03.067Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -49,18 +46,12 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
@@ -75,9 +66,6 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
@@ -86,9 +74,6 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 After setting up all the lighting above, you can take a look at the comparison below:
@@ -105,10 +90,14 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -142,5 +131,26 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-key-components-to-a-smooth-watching-experience-facebook-livestream/"><u>[New] Key Components to a Smooth Watching Experience Facebook Livestream</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimal-5-filters-for-deep-blue-cinematography/"><u>[New] Optimal 5 Filters for Deep Blue Cinematography</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unleashing-the-potential-of-your-social-media-past-for-2024/"><u>[New] Unleashing the Potential of Your Social Media Past for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-innovative-8th-generation-photographic-fusion-app/"><u>[Updated] Innovative 8Th Generation Photographic Fusion App</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leveraging-speech-recognition-in-googles-popular-docs-application/"><u>[Updated] Leveraging Speech Recognition in Google's Popular Docs Application</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-use-and-maintenance-of-m1-max-clips/"><u>[Updated] Mastering the Use and Maintenance of M1 Max Clips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-selection-of-webcams-for-optimal-zoom-video-quality/"><u>[Updated] Prime Selection of Webcams for Optimal Zoom Video Quality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quietude-creation-garageband-volume-control-methods/"><u>[Updated] Quietude Creation Garageband Volume Control Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revolutionize-online-speech-discover-the-best-chrome-extensions-for-change/"><u>[Updated] Revolutionize Online Speech Discover the Best Chrome Extensions for Change</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-speak-now-act-for-free-via-technology/"><u>2024 Approved Speak Now, Act for Free via Technology</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciding-when-its-time-to-leave-a-digital-gathering-place/"><u>Deciding When It’s Time to Leave a Digital Gathering Place</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-15-pro-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone 15 Pro without Password?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-intriguing-ways-to-twist-images/"><u>In 2024, Intriguing Ways to Twist Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-subtitles-the-ultimate-guide-to-free-tools/"><u>In 2024, Mastering Subtitles The Ultimate Guide to FREE Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-quick-recovery-of-twitch-broadcasts/"><u>In 2024, The Quick Recovery of Twitch Broadcasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secrets-to-skyrocketing-your-subscriber-count-for-2024/"><u>Secrets to Skyrocketing Your Subscriber Count for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-complete-user-manual-for-understanding-imo-instant-chat-pros-and-cons-reviewed/"><u>The Complete User Manual for Understanding Imo Instant Chat: Pros & Cons Reviewed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-system-with-new-drivers-gtx-1650-super-support-for-windows-operating-systems/"><u>Update Your System with New Drivers: GTX 1650 Super Support for Windows Operating Systems</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Prevent 'New World' From Frequent PC Disruptions
-date: 2024-10-22T22:14:34.850Z
-updated: 2024-10-25T16:07:22.892Z
+date: 2024-10-24T16:48:06.228Z
+updated: 2024-10-31T17:48:55.541Z
 tags:
   - win11
   - win10
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Discord as administrator
@@ -69,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
@@ -78,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
  4) Run your game again.
 
 See if this issue reappears. If not, you have fixed this issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
@@ -98,6 +98,13 @@ See if this issue reappears. If not, you have fixed this issue.
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable hardware acceleration in Discord
 
  Hardware acceleration is a feature in**Discord** that uses your GPU to make**Discord** smoother. However, many users have reported that sometimes, this feature may cause the**Discord overlay** to not work.
@@ -108,18 +115,25 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run your game again to see if this issue persists. If not, you have resolved this problem!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
 
@@ -130,13 +144,6 @@ See if this issue reappears. If not, you have fixed this issue.
  i. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **control** and press **Enter** to open the Control Panel.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
@@ -174,19 +181,6 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
@@ -213,21 +207,18 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-facestream-recorder-pro-messenger-for-2024/"><u>[New] FaceStream Recorder Pro-Messenger for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-selecting-your-perfect-21-hdmi-monitor-a-buyers-guide/"><u>[New] Selecting Your Perfect 2.1 HDMI Monitor - A Buyer's Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-spectacular-visuals-the-power-of-tiktok-effects/"><u>[New] Spectacular Visuals The Power of TikTok Effects</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-pcs-premier-ps3-clones-2023-edition/"><u>[Updated] 2024 Approved PC's Premier PS3 Clones - 2023 Edition</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-explore-the-best-free-online-video-capture-platforms/"><u>[Updated] Explore the Best Free Online Video Capture Platforms</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-from-silence-to-sonata-cropping-and-mixing-music-into-video-content-for-2024/"><u>[Updated] From Silence to Sonata Cropping & Mixing Music Into Video Content for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-master-the-art-of-captivating-audiences-in-tiktok-unpack-videos/"><u>[Updated] In 2024, Master the Art of Captivating Audiences in TikTok Unpack Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pro-photoshop-power-top-10-canva-design-secrets/"><u>[Updated] Pro Photoshop Power Top 10 Canva Design Secrets</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-top-vr-game-engines-2023-update/"><u>2024 Approved Top VR Game Engines -2023 Update</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-create-a-successful-video-earnings-model-on-vimeo/"><u>In 2024, How to Create a Successful Video Earnings Model on Vimeo</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revamped-interview-inquiries-to-spark-podcast-fans-curiosity/"><u>In 2024, Revamped Interview Inquiries to Spark Podcast Fans' Curiosity</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/leaders-of-head-worn-digital-realms-for-2024/"><u>Leaders of Head-Worn Digital Realms for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/maplestory-wont-open-discover-solutions-and-workarounds/"><u>MapleStory Won't Open? Discover Solutions and Workarounds!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-sales-for-inexpensive-gopros-for-2024/"><u>Navigating Sales for Inexpensive GoPros for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-checklist-for-twitch-broadcasting/"><u>The Ultimate Checklist for Twitch Broadcasting</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upcoming-apple-ring-anticipated-cost-launch-timeline-and-features-what-we-know-so-far/"><u>Upcoming Apple Ring - Anticipated Cost, Launch Timeline & Features: What We Know So Far</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-best-budget-friendly-android-chat-services/"><u>[New] Best Budget-Friendly Android Chat Services</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-spectral-savvy-applying-color-science/"><u>[New] Spectral Savvy Applying Color Science</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-peek-into-vegaspros-future/"><u>[Updated] A Peek Into VegasPro's Future</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastery-in-mixing-pro-tools-prowess-tips-and-tricks/"><u>[Updated] Mastery in Mixing Pro Tools Prowess Tips and Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-pick-for-iphoneandroid-face-modifications/"><u>[Updated] Prime Pick for iPhone/Android Face Modifications</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-luminous-android-videography-techniques/"><u>2024 Approved Luminous Android Videography Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-nostalgia-frame-portraits-on-the-x-phone/"><u>2024 Approved Nostalgia Frame Portraits on the X Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-se-2022-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone SE (2022) Without Previous Owner?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-make-your-images-stand-out-mastering-background-removal-with-photopea/"><u>In 2024, Make Your Images Stand Out Mastering Background Removal with Photopea</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-microphone-challenges-fixing-the-steelseries-arctis-7-headset-issue/"><u>Overcoming Microphone Challenges: Fixing the SteelSeries Arctis 7 Headset Issue</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-y100t-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Y100t</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-stuttering-in-cyberpunk-2077-performance-improvements-unveiled/"><u>Say Goodbye to Stuttering in Cyberpunk 2077: Performance Improvements Unveiled</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: How to Resolve 'Google Hangouts Mic' Issues"
-date: 2024-10-22T17:37:56.642Z
-updated: 2024-10-25T18:29:29.074Z
+date: 2024-10-29T17:03:09.414Z
+updated: 2024-10-31T16:51:55.320Z
 tags:
   - win11
   - win10
@@ -28,48 +28,54 @@ Before you try the solutions below, please check these several things as it can 
 Click on it to turn it to ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17b9647cefb.png) . If you make sure your microphone is connect properly to your computer and it’s turned on correctly, but your microphone still doesn’t work, try the following methods.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1: Restart your computer
 
 Sometimes, a simple restart can solve a lot computer woes. When you find your microphone stops working on Hangouts, you can also give the simple restart a shot. 1) Restart your computer from the Start menu. 2) Call the person on Hangouts again to see if he can hear you.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Update your microphone and other related driver
 
 Your microphone not working issue can be probably caused by an old, corrupted or missing driver. Besides, if your microphone is connected with a USB cable, the USB controller driver also takes an effect on your microphone function. So you can update your microphone driver and other related, like USB controller driver, sound card driver, to try to solve the problem. To update your device driver, you can go to its manufacturer’s website to download the latest driver and install the new driver on your computer or, if you’re not confident with playing around with drivers manually, let **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** help you do it automatically. Driver Easy will automatically recognize your system and find the correct drivers for it. The drivers supplied by Driver Easy are all from the official manufacturer’s website, so you can totally trust it. 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy. 2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1672bcbc0a7.jpg)3) If you try the Free version, click **Update** next to any flagged driver to automatically download and install the correct version of this driver. Or if you use the Pro version, click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system.(and you get full support and a 30-day money back guarantee)
 
-![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17c23a6c56a.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17c23a6c56a.jpg)
 
 4) Restart your computer and call the person on Hangouts again to see if he can hear you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Close other programs those might use your microphone
 
  If there are some other programs running on your computer when you’re on Google Hangouts, the other programs might be using your microphone, too. As a result, your microphone doesn’t function on Hangouts. So, please stop all the other programs that might use your microphone, then check to see if the person can hear you on Hangouts.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How if you can’t hear other people speaking?
 
@@ -92,20 +98,22 @@ If you can’t hear the other person on Hangouts call, ask the person to trouble
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-kinemasters-guide-to-fluid-film-segments/"><u>[New] Kinemaster's Guide to Fluid Film Segments</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-polaroid-xs-100i-action-camera-review/"><u>[New] Polaroid XS 100I Action Camera Review</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-invisible-lines-in-virtual-meetings/"><u>[Updated] In 2024, The Ultimate Guide to Invisible Lines in Virtual Meetings</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-premier-photography-frame-selection-24-for-2024/"><u>[Updated] The Premier Photography Frame Selection '24 for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-insiders-guide-to-pro-windows-10-expertise/"><u>2024 Approved Insider's Guide to Pro WINDOWS 10 Expertise</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-path-to-professionalism-morphvox-transformation-guide/"><u>2024 Approved Path to Professionalism MorphVOX Transformation Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-smooth-start-gradual-appearance/"><u>2024 Approved Smooth Start Gradual Appearance</u></a></li>
-<li><a href="https://driver-install.techidaily.com/a-guide-to-fresh-atheros-wi-fi-drivers-on-modern-pcs/"><u>A Guide to Fresh Atheros Wi-Fi Drivers on Modern PCs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-evaluation-of-the-powerful-and-silent-corsair-air-a115-heatsink-with-a-high-price-point/"><u>Expert Evaluation of the Powerful and Silent Corsair Air A115 Heatsink with a High Price Point</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6s-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6s to the Previous iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-9-proplus-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 9 Pro+ PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-inspirational-movies-for-momentum-and-self-belief/"><u>In 2024, Inspirational Movies for Momentum and Self-Belief</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-photo-editing-advanced-3d-lut-techniques-in-ps/"><u>In 2024, Mastering Photo Editing Advanced 3D LUT Techniques in PS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premiere-seminar-title-assembler/"><u>In 2024, Premiere Seminar Title Assembler</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/seamless-cross-platform-gaming-with-our-app-enjoy-windows-titles-on-your-mac/"><u>Seamless Cross-Platform Gaming with Our App - Enjoy Windows Titles on Your Mac!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-redefining-realities-practical-vr-uses/"><u>[New] Redefining Realities Practical VR Uses</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/66742832-updated-2024-approved-supercharge-your-media-download-sounds-for-editing/"><u>[Updated] 2024 Approved Supercharge Your Media Download Sounds for Editing!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-exposed-the-art-of-prolonged-photography/"><u>[Updated] IPhone Exposed The Art of Prolonged Photography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-optimal-free-webcam-video-grabber-app/"><u>[Updated] Optimal Free Webcam Video Grabber App</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterclass-softening-audio-endings/"><u>2024 Approved Masterclass Softening Audio Endings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-overcome-noisy-calls-solutions-for-zoom-audio-issues/"><u>2024 Approved Overcome Noisy Calls Solutions for Zoom Audio Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-secured-email-platforms-a-guide-to-staying-protected-online/"><u>Discover the Leading Secured Email Platforms: A Guide to Staying Protected Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-channel-your-inner-metaverse-wit/"><u>How to Channel Your Inner Metaverse Wit</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-quickly-fix-the-notorious-pc-game-crashes-in-assassins-creed-odyssey/"><u>How To Quickly Fix the Notorious PC Game Crashes in Assassin's Creed Odyssey</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-microsofts-vision-of-tomorrow-with-hololens-exploration/"><u>In 2024, Microsoft’s Vision of Tomorrow With HoloLens Exploration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-sharpness-control-on-photos-with-pcmobile/"><u>In 2024, Perfect Sharpness Control on Photos with PC/Mobile</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-speech-to-text-solutions-for-engaging-ppts/"><u>In 2024, Speech-to-Text Solutions for Engaging PPTs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leveraging-innovative-features-a-guide-to-implementing-speech-inputs-in-powerpoint-for-2024/"><u>Leveraging Innovative Features A Guide to Implementing Speech Inputs in PowerPoint for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-your-phones-podcast-landscape-for-2024/"><u>Navigating Your Phone's Podcast Landscape for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-android-sms-receiving-errors-quick-and-easy-tips/"><u>Overcoming Android SMS Receiving Errors: Quick and Easy Tips</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sony-walkman-nw-a35-review/"><u>Sony Walkman NW-A35 Review</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/step-by-step-guide-recognizing-and-stopping-malicious-programs-via-task-manager/"><u>Step-by-Step Guide: Recognizing and Stopping Malicious Programs via Task Manager</u></a></li>
 </ul></div>
 
