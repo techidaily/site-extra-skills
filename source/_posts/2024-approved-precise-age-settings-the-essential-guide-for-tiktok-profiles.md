@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Precise Age Settings  The Essential Guide for TikTok Profiles\""
-date: 2024-07-31T10:28:07.988Z
-updated: 2024-08-01T10:28:07.988Z
+date: 2024-10-31T19:16:10.643Z
+updated: 2024-11-06T10:24:27.598Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ TikTok is currently among the most popular apps in the world. It is a video-shar
 
 The accounts of teens from 13 to 16 have been made private to minimize the negative effects. If you, by mistake, have entered the wrong birthdate when setting up your account, you can learn **how to change your age on TikTok** from this article.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![change age on tiktok featured image](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-1.jpg)
 
 ## Part 1: How to Change Your Age on TikTok
@@ -34,8 +31,12 @@ The 13-year age restriction on TikTok is not only to protect minors from the har
 It has also made all the accounts of those under 16 privates. If your account has been age-restricted by mistake, below are two possible methods on **how** **to edit age on TikTok**.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Way 1: Contact TikTok Support Team to Change Your Age (Recommended)
 
 Since TikTok has removed the feature to edit your birthdate from its app, you will need to contact their support team to change your age. You can contact support through the app if your account is still working. Otherwise, you will need to contact them through email. Below are the steps to contact support for changing your age through the TikTok app on your smartphone:
@@ -50,15 +51,8 @@ Since TikTok has removed the feature to edit your birthdate from its app, you wi
 
 **Step 3:** Here, choose "Other," and on the next window, press “Need More Help?” It will open a feedback form where you can mention your problem and request the support team to solve it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![tap on need more help](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Way 2: Create a New TikTok Account to Change Your Age (Not-Recommended)
 
 If your TikTok account has been placed under age restriction, you can create a new TikTok account with the correct age. However, it is not the recommended method, as you will lose all of your old account data and followers.
@@ -71,14 +65,25 @@ If you are underage, you should not try to create a new account with a false age
 
 **Step 2:** If you choose “Email or Phone,” you will need to provide your “Email” or “Phone” on the next screen. You will need to go through a verification CAPTCHA and, on the next screen, create a password for your account. Provide your correct birthdate and press "Next" to complete the account creation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![confirm your birthdate](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** You can also use your Google, Facebook, Apple, or Twitter account to create your TikTok account. Pressing any of these will take you to the respective app for login verification. Provide the confirmation, and your TikTok account will be created.
 
 ![select social media to sign up](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: TikTok Video Editor – Filmora for Mobile
 
@@ -92,30 +97,32 @@ With its help, you can trim clips, add transition effects, insert music, and cha
 
 We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Protecting underage teens and kids from the negative side of the internet is important. A simple online search can show many examples where harmful TikTok content affected minors to the extent of severe physical injuries. Thus, you should only learn **how to change your age on TikTok** if you are older than 16.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Protecting underage teens and kids from the negative side of the internet is important. A simple online search can show many examples where harmful TikTok content affected minors to the extent of severe physical injuries. Thus, you should only learn **how to change your age on TikTok** if you are older than 16.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
 
 We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
@@ -125,6 +132,13 @@ We have prepared you a video to help you better start your video editing journey
 Protecting underage teens and kids from the negative side of the internet is important. A simple online search can show many examples where harmful TikTok content affected minors to the extent of severe physical injuries. Thus, you should only learn **how to change your age on TikTok** if you are older than 16.
 
 ![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
 
@@ -154,5 +168,20 @@ Protecting underage teens and kids from the negative side of the internet is imp
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-go-full-screen-with-ease-masterful-mac-scaling-methods-for-insta-posts/"><u>[New] Go Full Screen with Ease Masterful Mac Scaling Methods for Insta Posts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-unveiling-vimeo-subscription-perks-for-every-user-type/"><u>[New] In 2024, Unveiling Vimeo Subscription Perks for Every User Type</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-secrets-revealed-skyrocketing-your-insta-video-audience/"><u>[Updated] In 2024, Secrets Revealed Skyrocketing Your Insta Video Audience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-next-level-video-top-webcam-filters-for-flawless-broadcasts/"><u>[Updated] Next Level Video Top Webcam Filters for Flawless Broadcasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-puzzled-by-my-videos-rotating-appearance-on-instagram/"><u>[Updated] Puzzled by My Video’s Rotating Appearance on Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-overcoming-youtube-distortion-for-better-playback/"><u>2024 Approved Overcoming YouTube Distortion for Better Playback</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-meme-masterpieces-iphones-here/"><u>In 2024, Meme Masterpieces, iPhones Here</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-painless-audio-progression-the-unobtrusive-way/"><u>In 2024, Painless Audio Progression The Unobtrusive Way</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-lenovo-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Lenovo</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leveraging-fb-platforms-for-public-health-initiatives-for-2024/"><u>Leveraging FB Platforms for Public Health Initiatives for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/navigating-through-challenges-with-non-functional-fb-video-share/"><u>Navigating Through Challenges with Non-Functional FB Video Share</u></a></li>
+</ul></div>
 

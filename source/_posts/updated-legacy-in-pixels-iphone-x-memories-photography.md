@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Legacy in Pixels  IPhone X Memories Photography\""
-date: 2024-10-26T16:13:29.177Z
-updated: 2024-10-31T17:22:15.597Z
+date: 2024-10-30T23:44:43.640Z
+updated: 2024-11-06T06:27:53.204Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,10 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For iPhone 7 Plus/8 Plus/X users
@@ -53,10 +53,10 @@ However, the Portrait Mode is only featured on iOS 10.1 or some more recent vers
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image resource: 9to5mac
@@ -68,6 +68,13 @@ Portrait mode enables you to set the timer, turn off the flash or apply photo fi
 The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera system. Unlike the rear camera system, the front-facing camera doesn't have multiple physical camera lenses; instead, it uses sensors from the TrueDepth system to measure a precise depth map.
 
 ![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image resource: imore
 
@@ -106,10 +113,10 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
@@ -126,13 +133,6 @@ The plethora of blur options provided by the Defocus camera app is impressive. D
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -148,20 +148,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-best-offer-top-business-cloud-solutions-for-2024/"><u>[New] Best Offer Top Business Cloud Solutions for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-youtube-title-wizardry-at-your-command/"><u>[New] In 2024, YouTube Title Wizardry at Your Command</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-video-creation-the-complete-review-of-sj-cam-s6/"><u>[New] Mastering Video Creation The Complete Review of SJ-CAM S6</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-simplified-methods-for-google-meet-recordings/"><u>[New] Simplified Methods for Google Meet Recordings</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-starting-simple-a-practical-approach-to-becoming-an-e-review-expert/"><u>[New] Starting Simple A Practical Approach to Becoming an E-Review Expert</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-engaging-content-the-ultimate-6-video-strategies/"><u>[Updated] 2024 Approved Engaging Content The Ultimate 6 Video Strategies</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-core-framework-principles-for-engaging-online-promotions-for-2024/"><u>[Updated] Core Framework Principles for Engaging Online Promotions for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-inside-out-the-100-complete-theta-s-study/"><u>[Updated] Inside Out The 100% Complete Theta S Study</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-shadowless-shots-overcoming-challenges-with-light-techniques/"><u>[Updated] Shadowless Shots Overcoming Challenges with Light Techniques</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-kinemaster-proficiency-unleashed-strategies-features-and-10-online-rivals/"><u>2024 Approved KineMaster Proficiency Unleashed Strategies, Features & 10 Online Rivals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/archive-your-future-with-chatgpt/"><u>Archive Your Future with ChatGPT</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-5-displays-for-immersive-ps5-gaming/"><u>In 2024, Optimal 5 Displays for Immersive PS5 Gaming</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/merge-music-and-graphics-in-ppt-for-2024/"><u>Merge Music and Graphics in PPT for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/newbie-vlogger-tips-simple-video-concepts-for-2024/"><u>Newbie Vlogger Tips Simple Video Concepts for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/simultaneous-capture-excellence-with-iphones-features-for-2024/"><u>Simultaneous Capture Excellence with iPhone's Features for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-essential-forgotten-tips-for-instagram-proficiency/"><u>[New] Essential, Forgotten Tips for Instagram Proficiency</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-precise-methods-for-creating-impactful-client-spots-on-film/"><u>[New] Precise Methods for Creating Impactful Client Spots on Film</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pushing-boundaries-the-future-of-filmmaking-in-4k-with-yi/"><u>[New] Pushing Boundaries The Future of Filmmaking in 4K With Yi</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-experts-path-to-masterful-discord-screen-broadcasting-for-2024/"><u>[New] The Expert's Path to Masterful Discord Screen Broadcasting for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-covertly-crafted-covers-for-iphones-and-androids-for-2024/"><u>[Updated] Covertly Crafted Covers for iPhones & Androids for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-intuitive-audio-fading-strategies-with-garageband/"><u>[Updated] Intuitive Audio Fading Strategies with Garageband</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-securely-archiving-your-google-voice-talks/"><u>[Updated] Securely Archiving Your Google Voice Talks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sleek-superior-substantial-reviewing-the-asus-mg28uq-4k-display/"><u>2024 Approved Sleek, Superior, Substantial – Reviewing the ASUS MG28UQ 4K Display</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-vivo-y77t-frp-by-drfone-android/"><u>How Can We Bypass Vivo Y77t FRP?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-y27-4g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo Y27 4G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-jumpstart-your-pc-for-windows-11-compatibility/"><u>In 2024, Jumpstart Your PC for Windows 11 Compatibility</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-seamlessly-blend-music-with-visuals-in-premiere-pro/"><u>In 2024, Seamlessly Blend Music with Visuals in Premiere Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-price-variations-in-cloud-services-for-2024/"><u>Navigating Price Variations in Cloud Services for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revamped-dialogue-strategies-for-engaging-podcasters-for-2024/"><u>Revamped Dialogue Strategies for Engaging Podcasters for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-itel-p55t-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Itel P55T for Parents | Dr.fone</u></a></li>
 </ul></div>
 

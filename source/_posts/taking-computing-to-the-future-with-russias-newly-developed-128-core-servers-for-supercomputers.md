@@ -1,7 +1,7 @@
 ---
 title: Taking Computing to the Future with Russia's Newly Developed 128-Core Servers for Supercomputers
-date: 2024-10-30T16:28:38.247Z
-updated: 2024-10-31T17:08:00.519Z
+date: 2024-11-01T03:17:55.861Z
+updated: 2024-11-06T02:26:07.434Z
 tags:
   - desktop
 categories:
@@ -46,29 +46,31 @@ Pick up a powerful new gaming or productivity desktop from Lenovo with a tasty d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-your-guide-to-top-rated-church-streaming-platforms/"><u>[New] 2024 Approved Your Guide to Top-Rated Church Streaming Platforms</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mystic-modulation-is-this-speech-shifting-software-authentic-or-fiction-discover-substitutes/"><u>[New] Mystic Modulation Is This Speech-Shifting Software Authentic or Fiction? Discover Substitutes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-audio-junction-expert-logic-pro-x-tips/"><u>[New] Seamless Audio Junction Expert Logic Pro X Tips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-snap-instantly-with-iphone-time-lapse-tips/"><u>[New] Snap Instantly with iPhone Time Lapse Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-quiet-curtains-the-pp-approach-to-invisible-sound-endings/"><u>[Updated] Crafting Quiet Curtains The PP Approach to Invisible Sound Endings</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-elevating-social-media-interaction-via-fb-story-links-for-2024/"><u>[Updated] Elevating Social Media Interaction via FB Story Links for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-experts-top-picks-for-creating-art-on-windows/"><u>[Updated] Expert's Top Picks for Creating Art on Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-macos-11-big-sur-a-complete-hardware-overview/"><u>2024 Approved MacOS 11 Big Sur A Complete Hardware Overview</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-photo-trickery-how-faces-decipher-on-apple-and-samsung-gadgets/"><u>2024 Approved Photo Trickery How Faces Decipher on Apple & Samsung Gadgets</u></a></li>
-<li><a href="https://win-dash.techidaily.com/boost-your-gaming-experience-with-the-latest-amd-drivers-download-and-install-now/"><u>Boost Your Gaming Experience with the Latest AMD Drivers – Download & Install Now!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725284832968-dvd-winx-dvd-ripper/"><u>DVDコピーソフト WinX DVD Ripperの効果的な使い方：推薦情報</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-windows-updates-switching-to-new-amd-drivers/"><u>Effortless Windows Updates: Switching to New AMD Drivers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/groundbreenas-choosing-first-time-gamers-editing-apps/"><u>Groundbreenas Choosing First-Time Gamers' Editing Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionize-tech-connectivity-top-free-speech-conversion-tools-for-macos/"><u>In 2024, Revolutionize Tech Connectivity Top Free Speech Conversion Tools for MacOS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-wmp-techniques-for-efficient-cd-handling-and-recordings-for-2024/"><u>Master WMP Techniques for Efficient CD Handling and Recordings for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/metaverse-mingle-match-ultimate-pairings-for-2024/"><u>Metaverse Mingle Match Ultimate Pairings for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-reset-and-refresh-fixing-common-issues-in-final-cut-pro-x-for-2024/"><u>Updated Reset and Refresh Fixing Common Issues in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-videotwit-hatcher-harvest-tweets-visuals-for-ios-devices/"><u>[New] In 2024, VideoTwit Hatcher Harvest Tweets' Visuals for iOS Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-luxury-levels-screen-brightness-on-android/"><u>[New] Luxury Levels Screen Brightness on Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-kinemasters-features-with-ease-ranked-by-best-opponent-games/"><u>[Updated] Master KineMaster's Features with Ease, Ranked by Best Opponent Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-job-interviews-with-confidence-and-competence/"><u>[Updated] Navigating Job Interviews with Confidence and Competence</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-countdown-best-zombie-games-ranked/"><u>[Updated] The Ultimate Countdown Best Zombie Games Ranked</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-guide-to-using-zoom-features-in-gmail-emails-for-2024/"><u>[Updated] The Ultimate Guide to Using Zoom Features in Gmail Emails for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-picks-of-the-year-premium-google-cardboard-vr-gaming/"><u>2024 Approved Picks of the Year Premium Google Cardboard VR Gaming</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-the-samsung-galaxy-watch-active-the-ultimate-health-and-fitness-companion/"><u>Comprehensive Guide to the Samsung Galaxy Watch Active - The Ultimate Health & Fitness Companion</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-budget-friendly-secret-to-superior-sound-amazon-basics/"><u>Discover the Budget-Friendly Secret to Superior Sound: Amazon Basics</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-se-2022-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone SE (2022) and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-reserve-an-appointment-time-at-any-local-apple-retailer/"><u>How to Reserve an Appointment Time at Any Local Apple Retailer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-s17t-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo S17t Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-luts-galore-complimentary-package-now-available-to-dji-fans/"><u>In 2024, LUTs Galore - Complimentary Package Now Available to DJI Fans</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/meme-magic-unleashed-top-humorous-creations-for-the-metaverse-world-for-2024/"><u>Meme Magic Unleashed Top Humorous Creations for the Metaverse World for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/nvidia-driver-updates-enhance-your-gaming-on-windows-11-and-10-systems-now/"><u>NVIDIA Driver Updates: Enhance Your Gaming on Windows 11 & 10 Systems Now!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfect-pairings-the-science-of-matching-music-with-imagery-for-2024/"><u>Perfect Pairings The Science of Matching Music with Imagery for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revel-in-the-wonders-of-asmrs-positive-effects-for-2024/"><u>Revel in the Wonders of ASMR's Positive Effects for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sailing-the-skies-easily-how-to-pair-drones-and-propellers-for-2024/"><u>Sailing the Skies Easily How to Pair Drones and Propellers for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultra-compact-apple-vision-pro-protective-case-smaller-than-ever-before/"><u>Ultra-Compact Apple Vision Pro Protective Case - Smaller Than Ever Before!</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

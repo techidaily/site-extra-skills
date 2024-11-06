@@ -1,7 +1,7 @@
 ---
 title: "'Bloodhunt' PC Woes: Comprehensive Guide to Fix Glitchy Execution"
-date: 2024-10-25T17:12:05.251Z
-updated: 2024-10-31T16:55:41.902Z
+date: 2024-10-29T23:48:14.418Z
+updated: 2024-11-06T05:54:44.991Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ If you are a football lover, you might have waited for FIFA 21 for long. The gam
 6. **[Modify the in-game settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable overlay](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Play in offline mode](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1 – Ensure your PC meets the minimum requirements to play FIFA 21
 
@@ -93,13 +86,6 @@ Recommended system requirements of FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Select the**Driver** tab, and click**Roll Back Driver** .
 
  If the**Roll Back Driver** option is grayed out, it means there’s no driver to roll back to, and you can directly skip to **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  below.
@@ -113,6 +99,13 @@ Recommended system requirements of FIFA 21
  After the process completes, you can restart your computer for the changes to take effect. Then, launch FIFA 21 and see if the crashing issue reoccurs. If yes, please continue to the next method.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your device drivers
 
@@ -134,19 +127,6 @@ Recommended system requirements of FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -166,27 +146,20 @@ Recommended system requirements of FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click**FIFA 21** from the game list, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-16-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-3-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait until the process completes and go back to your pitch to test the issue. If the crashing persists, check out **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  then.
 
@@ -196,6 +169,13 @@ Recommended system requirements of FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click**FIFA 21** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-5.jpg)
@@ -203,6 +183,13 @@ Recommended system requirements of FIFA 21
  After the process finishes, go back to your pitch and test if this method works. If not, please continue to the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Change the DirectX settings
 
@@ -215,19 +202,6 @@ C:\Users\<username>\Documents\FIFA 21
 **2)** Right-click the**fifasetup.ini** file and click**Open with** \>**Notepad** . You can also use other similar editing tools.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_11-49-10.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** On your keyboard, press**Ctrl** and**F** at the same time to open the Find box. Then, paste**DIRECTX\_SELECT** and click**Find Next** .
 
@@ -243,13 +217,6 @@ C:\Users\<username>\Documents\FIFA 21
  After you apply the settings above, the DirectX error message should be gone and FIFA 21 can run properly. If the game is still unplayable, read on to find more fixes below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6 – Modify the in-game settings
 
@@ -279,15 +246,22 @@ C:\Users\<username>\Documents\FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click**FIFA 21** from the list in the left pane and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-16-14-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Untick the box next to**Enable the Steam Overlay while in-game** .
@@ -302,9 +276,23 @@ C:\Users\<username>\Documents\FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-4-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Launch**FIFA 21** and click the**settings** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_11-15-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Untick**Enable Origin in Game for EA SPORTS FIFA 21 Ultimate Edition** , and click**Save** .
 
@@ -344,18 +332,20 @@ C:\Users\<username>\Documents\FIFA 21
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-directly-send-snaps-from-your-phone-a-tutorial/"><u>[New] 2024 Approved Directly Send Snaps From Your Phone - A Tutorial</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-professionals-picks-the-top-5-drones-to-invest-in/"><u>[New] Professional's Picks The Top 5 Drones to Invest In</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-vegas-pro-2021-unpacked-game-changer-or-just-another-tool-in-2024/"><u>[Updated] Vegas Pro 2021 Unpacked Game Changer or Just Another Tool, In 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-burst-mode-capturing-rapid-shots/"><u>2024 Approved IPhone Burst Mode Capturing Rapid Shots</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-punchline-creator-suite/"><u>2024 Approved Punchline Creator Suite</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-resolve-black-screen-problem-in-resident-evil-village-pc/"><u>Fixing the Issue: How to Resolve Black Screen Problem in Resident Evil Village (PC)</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone 12 mini?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-jriver-media-centre-non-microsoft-media-option/"><u>In 2024, JRiver Media Centre Non-Microsoft Media Option</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-precision-editing-perfecting-the-art-of-fades-in-pro/"><u>In 2024, Precision Editing Perfecting the Art of Fades in Pro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-mobile-melodies-personalize-ios-ringtones-for-2024/"><u>Mastering Mobile Melodies Personalize iOS Ringtones for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-huawei-nova-y71-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Huawei Nova Y71</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/revised-question-series-to-connect-with-podcast-audience/"><u>Revised Question Series to Connect with Podcast Audience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/using-a-vpn-is-chatgpt-still-available/"><u>Using a VPN: Is ChatGPT Still Available?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-leverage-igs-busiest-hours-for-your-content/"><u>[New] 2024 Approved How to Leverage IG's Busiest Hours for Your Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-live-webcam-capture-in-vlc-media-player/"><u>[New] 2024 Approved Live Webcam Capture in VLC Media Player</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-showcase-a-dialogue-in-one-instagram-post/"><u>[New] Showcase a Dialogue in One Instagram Post</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mood-matcher-auditory-selection-for-videos/"><u>[Updated] Mood Matcher Auditory Selection for Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-refine-your-virtual-interactions-learning-to-use-zooms-filters/"><u>[Updated] Refine Your Virtual Interactions Learning to Use Zoom's Filters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spark-your-creativity-with-these-free-tools/"><u>[Updated] Spark Your Creativity with These Free Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-iphone-x-the-ultimate-guide-for-users/"><u>2024 Approved Mastering iPhone X The Ultimate Guide for Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perspective-play-using-edits-to-redefine-images/"><u>2024 Approved Perspective Play Using Edits to Redefine Images</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-professional-edge-mastering-bordered-videos-on-insta/"><u>2024 Approved Professional Edge Mastering Bordered Videos on Insta</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-for-blue-screen-of-death-error-0xc000021a-on-win-108-issue-resolved/"><u>Comprehensive Solutions for Blue Screen of Death Error 0xC000021A on Win 10/8 [Issue Resolved]</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/italy-enforces-swift-suspension-on-chatgpt-discover-the-motivation/"><u>Italy Enforces Swift Suspension on ChatGPT - Discover the Motivation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-your-chromebooks-pitch-and-tone-with-our-top-5-web-tools-for-2024/"><u>Master Your Chromebook's Pitch and Tone with Our Top 5 Web Tools for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximize-video-experience-enable-pip-on-youtube-ios-for-2024/"><u>Maximize Video Experience Enable PIP on YouTube iOS for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-windows-11-notebook-using-ai-expert/"><u>Upgrade Windows 11 Notebook Using AI Expert</u></a></li>
 </ul></div>
 

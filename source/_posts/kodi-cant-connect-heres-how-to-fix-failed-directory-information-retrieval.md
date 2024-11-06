@@ -1,7 +1,7 @@
 ---
 title: Kodi Can't Connect? Here's How to Fix Failed Directory Information Retrieval
-date: 2024-10-26T17:00:58.547Z
-updated: 2024-10-31T16:36:02.529Z
+date: 2024-11-05T03:36:33.841Z
+updated: 2024-11-06T05:38:33.343Z
 tags:
   - win11
   - win10
@@ -27,19 +27,19 @@ Amazon Prime provides thousands of great series and movies which you can enjoy a
 * [Check your internet connection](https://tools.techidaily.com/drivereasy/download/)
 * [Disable your VPN and third-party apps](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reboot the browser
 
  Make sure your Amazon Prime video account is paid and active. You can go to[your account page](https://www.amazon.com/ap/signin?%5Fencoding=UTF8&accountStatusPolicy=P1&clientContext=135-4224850-9503066&openid.assoc%5Fhandle=usflex&openid.claimed%5Fid=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.mode=checkid%5Fsetup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max%5Fauth%5Fage=0&openid.return%5Fto=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fsettings%2Fref%3Ddv%5Fweb%5Fauth%5Fno%5Fre%5Fsig%3Fie%3DUTF8%26tag%3Dbisafetynet2-20) to check.  
  Make sure you’re using the latest version of your browser.
 
  Then close the web browser and restart it. Or you can change another browser to open Amazon prime video.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Check your internet connection
 
@@ -74,20 +74,21 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-714.png)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-715.png)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -110,10 +111,10 @@ OR
 * [Check your HDMI cable](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Reboot your devices/apps
@@ -141,30 +142,29 @@ If the cable is the culprit, you may need to purchase a new cable.
 * [Check your internet connection](https://tools.techidaily.com/drivereasy/download/)
 * [Reinstall the app](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart the Amazon Prime
 
  Make sure your Amazon Prime video account is paid and active. You can go to[your account page](https://www.amazon.com/ap/signin?%5Fencoding=UTF8&accountStatusPolicy=P1&clientContext=135-4224850-9503066&openid.assoc%5Fhandle=usflex&openid.claimed%5Fid=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.mode=checkid%5Fsetup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max%5Fauth%5Fage=0&openid.return%5Fto=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fsettings%2Fref%3Ddv%5Fweb%5Fauth%5Fno%5Fre%5Fsig%3Fie%3DUTF8%26tag%3Dbisafetynet2-20) to check. Check your app version, update it to the latest version.  
  Then close the Prime video app and restart it. Rebooting is always the first and effective method to try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Check your internet connection
 
  Check your internet connection. Make sure you’re linked to the WiFi or using the cellular data.
 
  If your Wi-Fi is not working, you can press the power button on the back of the router to perform a soft reset.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall the app
 
@@ -189,22 +189,19 @@ If the cable is the culprit, you may need to purchase a new cable.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unleash-creative-energy-video-creation-tips-on-the-latest-windows-10-edition/"><u>[New] 2024 Approved Unleash Creative Energy Video Creation Tips on the Latest Windows 10 Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-master-list-of-premier-game-broadcasting-apps/"><u>[New] Master List of Premier Game Broadcasting Apps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-chat-room-to-screen-step-by-step-google-meet-youtube-streams/"><u>[Updated] In 2024, From Chat Room to Screen Step-by-Step Google Meet YouTube Streams</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-inside-vivas-video-app-a-complete-analysis/"><u>[Updated] Inside Viva's Video App A Complete Analysis</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-audio-quality-integrating-srt-into-mp4/"><u>[Updated] Mastering Audio Quality Integrating SRT Into MP4</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-realm-of-time-lapses-gopro-hero-10-in-action/"><u>[Updated] Navigating the Realm of Time Lapses GoPro Hero 10 in Action</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1-top-losungen-zum-auffinden-des-nicht-gespeicherten-systemgenerators/"><u>1. Top-Lösungen Zum Auffinden Des Nicht Gespeicherten Systemgenerators</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-15-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 15 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/academic-insight-essential-checks-for-gpts-learning-algorithm/"><u>Academic Insight: Essential Checks for GPT's Learning Algorithm</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-ranking-the-best-free-vector-and-illustration-online-spots/"><u>In 2024, Ranking the Best FREE Vector & Illustration Online Spots</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-a14-4g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy A14 4G Phone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/innovative-insights-for-streaming-success-on-tiktoks-computer-interface-for-2024/"><u>Innovative Insights for Streaming Success on TikTok's Computer Interface for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/make-marine-scenes-fluidly-with-these-7-tricks-for-2024/"><u>Make Marine Scenes Fluidly with These 7 Tricks for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimal-slow-motion-shooting-tools-iphoneandroid-devices-for-2024/"><u>Optimal Slow Motion Shooting Tools iPhone/Android Devices for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/rotating-video-footage-effortlessly-alternatives-to-windows-media-player/"><u>Rotating Video Footage Effortlessly - Alternatives to Windows Media Player</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/step-by-step-turn-your-images-darker-for-2024/"><u>Step-by-Step Turn Your Images Darker for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-internets-locked-up-landmarks-fixes-for-windows-browsers/"><u>Unlocking the Internet's Locked-Up Landmarks: Fixes for Window's Browsers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-professional-touch-ups-for-your-tiktok-media/"><u>[New] Professional Touch-Ups for Your TikTok Media</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-becoming-an-expert-in-fisheye-panoramic-shots/"><u>[Updated] 2024 Approved Becoming an Expert in Fisheye Panoramic Shots</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-conquering-hdr-photography-with-ease/"><u>[Updated] 2024 Approved Conquering HDR Photography with Ease</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-solutions-for-reverse-playback/"><u>[Updated] IPhone Solutions for Reverse Playback</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-joke-junction-ultimate-free-comic-templates/"><u>[Updated] Joke Junction Ultimate Free Comic Templates</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamlessly-post-pictures-your-youtube-visual-guide/"><u>[Updated] Seamlessly Post Pictures Your YouTube Visual Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spectral-imagery-phantasmal-camera-analysis/"><u>[Updated] Spectral Imagery Phantasmal Camera Analysis</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unparalleled-pc-sound-control/"><u>[Updated] Unparalleled PC Sound Control</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/campus-connections-tapping-into-exclusive-dell-offers-for-students-only/"><u>Campus Connections: Tapping Into Exclusive Dell Offers for Students Only</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-guide-handling-physxloaderdll-not-detected-or-missing-errors-successfully/"><u>Fix Guide: Handling 'physxloader.dll Not Detected' Or Missing Errors Successfully</u></a></li>
+<li><a href="https://extra-information.techidaily.com/high-speed-windowed-image-inspector/"><u>High-Speed Windowed Image Inspector</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-windows-10-top-5-recording-techniques/"><u>In 2024, Maximize Windows 10 Top 5 Recording Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimal-data-rescue-utility/"><u>Optimal Data Rescue Utility</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-y78plus-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y78+ Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

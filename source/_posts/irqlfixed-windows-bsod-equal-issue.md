@@ -1,7 +1,7 @@
 ---
 title: "[IRQL_FIXED] Windows BSOD - Equal Issue"
-date: 2024-10-24T16:39:13.290Z
-updated: 2024-10-31T17:10:40.662Z
+date: 2024-10-30T00:58:52.422Z
+updated: 2024-11-05T19:36:40.298Z
 tags:
   - win11
   - win10
@@ -62,6 +62,13 @@ Following steps are for your reference on how to uninstall a driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13fde1d72b1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In Device Manager, locate the faulty driver. If the driver is having problems, you’ll see a yellow mark next to the device name. Then right-click on the device name (For example, uninstall graphics card driver.) and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13fe52a4642.jpg)
@@ -71,19 +78,19 @@ Following steps are for your reference on how to uninstall a driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13feb35a43d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Restart your PC and check to see if the blue screen is gone  .  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3 **: Perform a System Restore to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
@@ -98,25 +105,11 @@ Following steps are for your reference on how to uninstall a driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13ffd6b0139.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click Next then you may see the following screen. Select a restore point created before the error occurred. You can tell from the created**Date and Time** . Click **Next** to continue and follow the on-screen instructions to finish the restore.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a14004645d52.png)
 
 4) Reboot your PC and check to see if the blue screen is gone.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Solution** 4: Reset or reinstall Windows
 
@@ -133,6 +126,13 @@ Following steps are for your reference on how to uninstall a driver:
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -159,14 +159,17 @@ Following steps are for your reference on how to uninstall a driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-guide-to-enable-dynamic-hdr-in-windows-11-for-2024/"><u>[New] Guide to Enable Dynamic HDR in Windows 11 for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-the-landscape-of-color-correction-innovative-uses-of-luts-in-video-editing/"><u>[New] Navigating the Landscape of Color Correction Innovative Uses of LUTs in Video Editing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-snapshot-sharpening-affinitys-bg-exclusion/"><u>[Updated] Snapshot Sharpening - Affinity's Bg Exclusion</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-reclaiming-deleted-posts-on-reddit-in-minutes/"><u>2024 Approved Reclaiming Deleted Posts on Reddit in Minutes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-best-4-tools-to-verify-chatgpt-conversations-ideal-for-academics-and-supervisors/"><u>Discover the Best 4 Tools to Verify ChatGPT Conversations: Ideal for Academics and Supervisors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-note-30-vip-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Note 30 VIP to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-power-beats-for-peak-performance-best-music-to-workout-to/"><u>In 2024, Power Beats for Peak Performance Best Music to Workout To</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-input-transfer-a-stepwise-guide-to-using-barriers-for-sharing/"><u>Optimizing Input Transfer: A Stepwise Guide to Using Barriers for Sharing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-to-fix-corsair-icue-not-responding-in-windows-10-or-11/"><u>Step-by-Step Solution to Fix Corsair iCUE Not Responding in Windows 10 or 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-clipcomposers-evaluation-full-breakdown-of-video-editing-software/"><u>[New] 2024 Approved ClipComposer's Evaluation – Full Breakdown of Video Editing Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-key-practices-for-amassing-picture-resources/"><u>[New] Key Practices for Amassing Picture Resources</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-precision-cuts-in-kinemaster-transition-essentials/"><u>[New] Precision Cuts in Kinemaster Transition Essentials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-secure-stock-images-avoiding-watermarks/"><u>2024 Approved Secure Stock Images Avoiding Watermarks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-7-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-x-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone X To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-solutions-to-find-your-apple-iphone-15-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Solutions to Find Your Apple iPhone 15 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-nubia-z50-ultra-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Nubia Z50 Ultra</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-motorola-g54-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Motorola G54 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-to-easy-nft-crafting/"><u>In 2024, Step-by-Step to Easy NFT Crafting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revel-in-photo-excellence-with-this-guide-to-mastering-the-background-erase-tool-for-2024/"><u>Revel in Photo Excellence with This Guide to Mastering the Background Erase Tool for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-ultimate-apple-watch-display-shields-of-2eplust6-in-depth-comparison-and-rankings-by-zdnet/"><u>Unveiling the Ultimate Apple Watch Display Shields of 2E+t6 | In-Depth Comparison & Rankings by ZDNET</u></a></li>
 </ul></div>
 

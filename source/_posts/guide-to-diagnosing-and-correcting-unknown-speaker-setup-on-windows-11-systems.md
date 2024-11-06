@@ -1,7 +1,7 @@
 ---
 title: Guide to Diagnosing and Correcting 'Unknown' Speaker Setup on Windows 11 Systems
-date: 2024-10-30T17:55:19.900Z
-updated: 2024-10-31T16:25:18.937Z
+date: 2024-10-30T16:12:08.215Z
+updated: 2024-11-06T08:49:39.507Z
 tags:
   - win11
   - win10
@@ -73,38 +73,18 @@ Read on and follow the easy-doing images below!
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -114,20 +94,36 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
  Try to play audio with your computer again to see if the sound still cuts out.
@@ -153,19 +149,19 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-revolutionary-tools-elevating-vr-games/"><u>[New] Revolutionary Tools Elevating VR Games</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-quickest-photo-scanner-in-windows-land-for-2024/"><u>[Updated] Quickest Photo Scanner in Windows Land for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-going-against-gravity-reversing-your-vids/"><u>2024 Approved Going Against Gravity Reversing Your Vids</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-pull-off-professional-video-edits-with-ken-burns-effect/"><u>2024 Approved Pull Off Professional Video Edits with Ken Burns Effect</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-content-addition-enhancing-your-personalized-youtube-plays/"><u>2024 Approved Seamless Content Addition Enhancing Your Personalized YouTube Plays</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-softening-audio-routine/"><u>2024 Approved Step-by-Step Softening Audio Routine</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/fy-your-videos-reach-perfect-title-description-and-tags/"><u>Amplify Your Video's Reach Perfect Title, Description & Tags</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/getting-started-a-primer-on-screencastify-use-for-2024/"><u>Getting Started A Primer on Screencastify Use for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-keep-your-ati-radeon-graphics-card-up-to-date-on-a-windows-machine/"><u>How to Keep Your ATI Radeon Graphics Card Up-to-Date on a Windows Machine</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premier-streaming-platforms-reviewed-and-rated/"><u>In 2024, Premier Streaming Platforms Reviewed & Rated</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-tailoring-titles-and-tags-for-top-youtube-performance/"><u>In 2024, Tailoring Titles and Tags for Top YouTube Performance</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-icons-unveiled-elevate-your-fame-and-followers-in-record-time-heres-how/"><u>Instagram Icons Unveiled Elevate Your Fame & Followers in Record Time – Here's How</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/lg-redefines-gaming-with-its-innovative-360-degree-vr-experience-for-2024/"><u>LG Redefines Gaming with Its Innovative 360-Degree VR Experience for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-editing-magic-transformative-strategies-for-youtube-creators/"><u>[New] Editing Magic Transformative Strategies for YouTube Creators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-ps5xbox-series-x-the-elite-tvs-for-gamers/"><u>[New] PS5/Xbox Series X The Elite TVs for Gamers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-speed-demon-the-top-windows-photo-browser/"><u>[New] Speed Demon The Top Windows Photo Browser</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-windows-11-ultimate-video-recorder-software-for-2024/"><u>[New] Windows 11 Ultimate Video Recorder Software for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-luts-optimizing-images-on-the-go/"><u>[Updated] Mastering LUTs Optimizing Images On-the-Go</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-funnygenius-create-and-share-memes/"><u>2024 Approved FunnyGenius Create and Share Memes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-scouting-talent-top-5-video-artists-who-create-with-rhythm-and-beat/"><u>In 2024, Scouting Talent Top 5 Video Artists Who Create With Rhythm & Beat</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-smooth-screenshots-selecting-the-ultimate-handheld-stabilizer/"><u>In 2024, Smooth Screenshots Selecting the Ultimate Handheld Stabilizer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-top-audiovisual-enhancements-for-video-producers/"><u>In 2024, Top Audiovisual Enhancements for Video Producers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-cordless-communication-devices/"><u>Leading Cordless Communication Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-t420-driver-download-and-installation-guide-for-windows-users/"><u>Lenovo T420 Driver Download and Installation Guide for Windows Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-iphone-layout-artistry-for-2024/"><u>Mastering iPhone Layout Artistry for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-iphone-storage-a-step-by-step-guide-to-clearing-out-the-clutter/"><u>Maximize Your iPhone Storage: A Step-by-Step Guide to Clearing Out the Clutter</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/speech-to-text-efficient-conversion-techniques-for-microsoft-word-users-for-2024/"><u>Speech to Text Efficient Conversion Techniques for Microsoft Word Users for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Close-Up Views in Roblox Games\""
-date: 2024-10-25T17:57:42.922Z
-updated: 2024-10-31T18:14:20.780Z
+date: 2024-11-03T01:04:48.243Z
+updated: 2024-11-06T01:50:15.975Z
 tags: 
   - screen-recording
   - ai video
@@ -50,16 +50,16 @@ Step1Go to the Roblox website in your favourite web browser by opening it. Start
 
 ![start testing game session roblox](https://images.wondershare.com/filmora/article-images/2022/07/start-testing-game-session-roblox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2Once your gaming session has begun, you may zoom by using the wheel while moving ahead. Once again, if you scroll all the way down, this action will put you in first person perspective. Now all you have to do is use your cursor to scroll ahead to zoom in.
 
 ![zoom in with cursoe scroll](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-with-cursoe-scroll.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3When the game's map is in your field of vision and you reach the maximum zoom level, just scroll backward with your mouse to zoom out. It will be essential to do the opposite operation, namely scroll the other direction, to zoom out on your character, in order to zoom in.
 
@@ -92,22 +92,15 @@ Step1Open the Roblox app, sign in, and then start a test gaming session. The fir
 ![zoom in roblox teblet](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-roblox-teblet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2To zoom, just use two fingers and slide them apart (for zooming in) or together (for zooming out) like you would to do so on a smartphone (zoom out).
 
 ![zoom roblox with fingers](https://images.wondershare.com/filmora/article-images/2022/07/zoom-roblox-with-fingers.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3You will be given the best method using the touchpad: while holding down the right side, move the screen to view your character from the front and from behind!
 
@@ -116,10 +109,17 @@ Step4The camera angle and/or your character will only move if one of your finger
 ![zoom character on roblox](https://images.wondershare.com/filmora/article-images/2022/07/zoom-character-on-roblox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -158,18 +158,18 @@ You may wish to change your viewpoint when playing games on Roblox, the most cut
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-drone-flight-optimal-lipo-battery-selection/"><u>[New] Mastering Drone Flight Optimal LiPo Battery Selection</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-xsplit-versus-obs-which-takes-live-streaming-to-the-next-level-for-2024/"><u>[New] XSplit versus OBS - Which Takes Live Streaming to the Next Level for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-comprehensive-review-of-premium-pc-cameras-in-win-11/"><u>[Updated] Comprehensive Review of Premium PC Cameras in Win 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-foremost-youtube-networks-for-news-enthusiasts-for-2024/"><u>[Updated] Foremost YouTube Networks for News Enthusiasts for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-jake-pauls-youtube-odyssey-a-tale-of-growth-for-2024/"><u>[Updated] Jake Paul's YouTube Odyssey A Tale of Growth for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-next-level-experience-in-metaverse-with-top-8-accessories/"><u>[Updated] Next-Level Experience in Metaverse with Top 8 Accessories</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-social-media-sharing-with-convertors/"><u>2024 Approved Mastering the Art of Social Media Sharing with Convertors</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-simple-definition-of-storytelling/"><u>2024 Approved Simple Definition of Storytelling</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-failed-writable-operation-files-in-windows/"><u>Addressing Failed Writable Operation Files in Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-through-the-10-leading-countdown-clock-apps-for-your-big-day-androidios/"><u>In 2024, Navigating Through the 10 Leading Countdown Clock Apps for Your Big Day (Android/iOS)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-honor-90-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Honor 90 Pro Phones</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Nokia C210? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlock-facebook-slide-in-content-access-for-2024/"><u>Unlock Facebook Slide-In Content Access for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-starks-serenade-where-to-find-your-game-of-thrones-ringtones/"><u>[Updated] Stark's Serenade Where to Find Your Game of Thrones Ringtones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-tutorial-to-design-unique-youtube-thumbnails/"><u>[Updated] Step-by-Step Tutorial to Design Unique YouTube Thumbnails</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-stream-rates-on-netflix/"><u>2024 Approved Optimizing Stream Rates on Netflix</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-personalize-chromes-sound-review-of-the-top-web-based-speech-converters/"><u>2024 Approved Personalize Chrome's Sound Review of the Top Web-Based Speech Converters</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-oppo-a18-by-fonelab-android-recover-music/"><u>How to restore wiped music on Oppo A18</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-flaunt-your-brand-with-ease-the-top-10-youtube-theme-designers/"><u>In 2024, Flaunt Your Brand with Ease - The Top 10 YouTube Theme Designers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-overlooked-marvels-free-transcription-tools-for-macos/"><u>In 2024, Overlooked Marvels Free Transcription Tools for macOS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-start-marketing-tricks-elevating-your-brands-reach/"><u>In 2024, Quick-Start Marketing Tricks Elevating Your Brand's Reach</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/join-the-elite-group-testing-apple-vision-pro-apps-early-with-testflight-exclusive-steps-revealed/"><u>Join the Elite Group Testing Apple Vision Pro Apps Early with TestFlight - Exclusive Steps Revealed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722997188024-launch-problem-with-rainbow-six-siege-resolved/"><u>Launch Problem with Rainbow Six Siege - Resolved!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719255690388-pro-tips-to-improve-your-snip-and-sketch-screenshot-experience/"><u>Pro Tips to Improve Your Snip & Sketch Screenshot Experience</u></a></li>
 </ul></div>
 

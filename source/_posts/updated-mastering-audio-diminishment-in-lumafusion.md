@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Audio Diminishment in Lumafusion"
-date: 2024-10-25T16:56:22.188Z
-updated: 2024-10-31T16:34:27.525Z
+date: 2024-10-31T00:48:25.880Z
+updated: 2024-11-06T11:20:34.500Z
 tags: 
   - screen-recording
   - ai video
@@ -62,11 +62,31 @@ Drag and drop your sound recordings from the media library to the timeline at th
 
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4 Share and export
 
@@ -74,36 +94,22 @@ After finishing the method for editing audio in Filmora, click the Export button
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. Related FAQs about LumaFusion
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. How to you split audio and video in LumaFusion?
 
@@ -123,6 +129,13 @@ Drag and drop your sound recordings from the media library to the timeline at th
 
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
@@ -130,16 +143,10 @@ The fade-in audio button inside your audio file may be seen when you just hover 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step4 Share and export
@@ -147,13 +154,6 @@ The fade-in audio button inside your audio file may be seen when you just hover 
 After finishing the method for editing audio in Filmora, click the Export button in the top menu corner as shown here:
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Related FAQs about LumaFusion
 
@@ -193,24 +193,17 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-a-comprehensive-tutorial-on-vimeo-in-insta/"><u>[New] 2024 Approved A Comprehensive Tutorial on Vimeo in Insta</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-complete-rotation-recording-versus-stereo-capture/"><u>[New] Complete Rotation Recording Versus Stereo Capture</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-evaluating-apowersofts-tech-against-other-screen-recorders-for-2024/"><u>[New] Evaluating Apowersoft's Tech Against Other Screen Recorders for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-introduce-audible-elements-seamlessly-to-premiere-pro/"><u>[New] Introduce Audible Elements Seamlessly to Premiere Pro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-mixed-media-with-color/"><u>[Updated] Mastering Mixed Media with Color</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-next-gen-cinema-a-virtual-leap-forward/"><u>[Updated] Next-Gen Cinema A Virtual Leap Forward</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-art-of-earning-ajeys-success-story-in-video-income/"><u>[Updated] The Art of Earning Ajey's Success Story in Video Income</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-optimize-your-browser-experience-exploring-pip-features-in-microsoft-edge/"><u>2024 Approved Optimize Your Browser Experience Exploring PIP Features in Microsoft Edge</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-x-flip-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo X Flip</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-poco-c65-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Poco C65 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-luts-unveiled-transforming-the-lands-market/"><u>In 2024, LUTs Unveiled Transforming the Lands Market</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-macos-to-optimize-mixer-streams/"><u>In 2024, Navigating MacOS to Optimize Mixer Streams</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premier-quality-4k-panels-for-expert-colour-correction/"><u>In 2024, Premier Quality 4K Panels for Expert Colour Correction</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-realigning-lens-distortion-essential-gopro-correction-guide/"><u>In 2024, Realigning Lens Distortion Essential GoPro Correction Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sky-high-adventures-the-gopro-karma-experience/"><u>In 2024, Sky-High Adventures The GoPro Karma Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premier-10-drone-teams-for-cinematic-mastery-for-2024/"><u>Premier 10-Drone Teams for Cinematic Mastery for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ess-techniques-for-swift-removal-of-your-youtube-comments-for-2024/"><u>Seamless Techniques for Swift Removal of Your Youtube Comments for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-perfect-blend-of-affordability-and-features-tcls-50s425-roku-tv-review-2019/"><u>The Perfect Blend of Affordability and Features: TCL's 50S425 Roku TV Review (2019)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-twitter-success-the-ultimate-guide-to-participating-in-twitter-chats/"><u>Unlocking Twitter Success: The Ultimate Guide to Participating in Twitter Chats</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-haven-for-harmonious-hits-download-classics-now/"><u>[New] 2024 Approved Haven for Harmonious Hits Download Classics Now</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astering-video-creation-our-picks-for-the-top-12-flip-screen-cams-for-2024/"><u>[New] Mastering Video Creation Our Picks for the Top 12 Flip-Screen Cams for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-key-insights-into-virtual-tale-crafting/"><u>[Updated] Key Insights Into Virtual Tale Crafting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-paramount-top-rated-vr-movies/"><u>2024 Approved Paramount Top-Rated VR Movies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-up-your-sj4000-game-with-these-accessories/"><u>2024 Approved Step Up Your SJ4000 Game with These Accessories</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-audio-quality-on-spotify-quickly-and-safely/"><u>Enhancing Audio Quality on Spotify Quickly & Safely</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-gt-3-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme GT 3 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-reel-it-in-top-5-action-cameras-for-anglers/"><u>In 2024, Reel It In Top 5 Action Cameras for Anglers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-social-media-synergy-linking-instagram-with-tiktok/"><u>In 2024, Social Media Synergy Linking Instagram with TikTok</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unveiling-the-hidden-power-of-windows-11/"><u>In 2024, Unveiling the Hidden Power of Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/uncovering-your-just-watched-list-on-facebook/"><u>Uncovering Your Just-Watched List on Facebook</u></a></li>
 </ul></div>
 

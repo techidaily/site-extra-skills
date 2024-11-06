@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Cinematography  The Aspect Ratio Formula\""
-date: 2024-10-26T17:25:10.751Z
-updated: 2024-10-31T16:04:22.361Z
+date: 2024-10-31T23:52:48.821Z
+updated: 2024-11-06T07:12:42.272Z
 tags: 
   - screen-recording
   - ai video
@@ -37,15 +37,22 @@ There is no same aspect ratio that is used across all social media platforms. De
 This aspect ratio is recognized as the worldwide reference format for film, mobile devides, DSLR cameras, streaming platforms, social media platforms, and many more. It is known as landscape viewing which include 720p, 1080p HD and 4K resolution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4:3 Standard
 
 This resolution is originally used in older television screens, which transformed into mobile use as this aspect ratio works really well for Instagram and Facebook videos, referring to the 9:16 phone resolution making a square video more pleasant to watch and to be featured in in-feed videos.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 9:16 Vertical
 
@@ -56,10 +63,10 @@ The 9:16 aspect ratio has become the mainstream resolution for smartphones for e
 The 21:9 resolution is designed for filming ultra-wide screen movies that gives the viewer a theater-like feeling. It's mostly used to display films and movies in anamorphic formats. Just like on ultra-wide monitors, it allows the video to be shown across the entire screen, giving you a cinema-like experience. This resolution contributes to a broader viewing experience in any shape or form.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Which aspect ratio should I choose?
@@ -67,10 +74,10 @@ The 21:9 resolution is designed for filming ultra-wide screen movies that gives 
 Depending on your project, broadcast location and filming options, here you can find an overview of which platforms are using which resolutions and how you can use that to improve your filming and viewer experience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Facebook
@@ -96,13 +103,6 @@ To this day, it's safe to say that YouTube is the leading platform in the video 
 16:9 for regular HD videos
 
 21:9 for cinematic videos/shortfilms
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Instagram
 
@@ -141,10 +141,10 @@ A very important point we'd like to mention is that we don't recommend changing 
 When editing your video, adding black bars is not changing the aspect ratio as you are just adding black bars to the screen. What we do recommend is cropping the video until you get the desired result. Adding black bars won't automatically make the platform adjust the video and it will affect the viewer experience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cropping
@@ -187,21 +187,17 @@ Having your video tested on multiple devices will allow you to see a preview of 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-how-to-create-awesome-instagram-videos-for-2024/"><u>[New] How to Create Awesome Instagram Videos for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigate-and-watch-harnessing-netflixs-picture-in-picture-functionality/"><u>[New] Navigate and Watch Harnessing Netflix's Picture-in-Picture Functionality</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-auditory-anatomy-understanding-video-audio-for-ig-feeds-for-2024/"><u>[Updated] Auditory Anatomy Understanding Video Audio for IG Feeds for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-latest-samsung-bd-j5900-updated-review-2023/"><u>[Updated] Latest Samsung BD-J5900 Updated Review 2023</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamless-proportion-refinement-from-home/"><u>[Updated] Seamless Proportion Refinement From Home</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-to-creating-breathtaking-tile-art/"><u>[Updated] Step-by-Step Guide to Creating Breathtaking Tile Art</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nubia-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nubia</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-practices-top-photo-frame-tech-of-2024/"><u>Best Practices Top Photo Frame Tech of 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-m14-4g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy M14 4G Phones with/without a PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-6s-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone 6s Apple ID and Apple Pay</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-guide-engage-with-audio-content-seamlessly/"><u>In 2024, IPhone Guide Engage with Audio Content Seamlessly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-through-beginners-guide-on-telegram-promotions-for-2024/"><u>Navigating Through Beginner’s Guide on Telegram Promotions for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pioneers-in-the-realm-of-vr-viewing-for-2024/"><u>Pioneers in the Realm of VR Viewing for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-ways-to-overcome-elgato-hd60-driver-complications/"><u>Quick & Easy Ways to Overcome Elgato HD60 Driver Complications</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transfer-your-animated-images-into-static-photos-no-cost-use-our-simple-gif-to-jpeg-online-tool/"><u>Transfer Your Animated Images Into Static Photos - No Cost! Use Our Simple GIF-to-JPEG Online Tool</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/forming-channels-with-powerful-visual-branding-strategies/"><u>Transforming Channels with Powerful Visual Branding Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphones-quintet-of-premier-podcast-tools/"><u>[New] IPhone's Quintet of Premier Podcast Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-skating-moments-from-22/"><u>[New] Prime Skating Moments From '22</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-rhythmic-raptor-rumba/"><u>[New] Rhythmic Raptor Rumba</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-boost-your-like-ratio-tips-for-squaring-up-videos/"><u>[Updated] In 2024, Boost Your Like Ratio Tips for Squaring Up Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-progopro-sessions-four-meets-five/"><u>[Updated] ProGoPro Sessions Four Meets Five</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-rapid-transition-from-srt-to-subc-with-simple-steps/"><u>[Updated] Rapid Transition From SRT to SUBC with Simple Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-real-world-stories-an-insight-into-documentary-screenplay-writing-for-2024/"><u>Crafting Real World Stories An Insight Into Documentary Screenplay Writing for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-absence-of-built-in-screen-capture-buttons-on-modern-gaming-mice-a-users-inquiry/"><u>Exploring the Absence of Built-In Screen Capture Buttons on Modern Gaming Mice: A User's Inquiry</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-itel-p55plus-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Itel P55+ Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/proven-youtube-seo-tricks-boosting-video-reach-and-visibility/"><u>Proven YouTube SEO Tricks Boosting Video Reach and Visibility</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/psvr-2-unveiled-detailed-insights-on-price-points-market-arrival-and-hardware-capabilities/"><u>PSVR 2 Unveiled: Detailed Insights on Price Points, Market Arrival & Hardware Capabilities</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-step-by-step-instructions-installing-an-ssd-in-a-dell-xps-8910-laptop/"><u>Ultimate Step-by-Step Instructions: Installing an SSD in a Dell XPS #8910 Laptop</u></a></li>
 </ul></div>
 

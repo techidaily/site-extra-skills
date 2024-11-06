@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting GPU Activation for Cyberpunk 2077 Players on the Latest Windows 11 System
-date: 2024-10-29T17:18:15.340Z
-updated: 2024-10-31T16:37:45.655Z
+date: 2024-11-01T21:40:15.685Z
+updated: 2024-11-05T18:29:17.825Z
 tags:
   - win11
   - win10
@@ -79,6 +79,19 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8 fixes for FIFA 20 crashing
 
  Here are 8 fixes that have proved helpful to solve the FIFA 20 crashing issues. You may not need to try them all; just work your way down the list until you find the one that does the trick.
@@ -101,6 +114,13 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1:**Update your device drivers**
 
  Your crashing issue in FIFA 20 may be caused by outdated or corrupt device drivers (especially graphics card drivers). If you’re not sure whether all your device drivers are up-to-date, you should check.
@@ -118,6 +138,13 @@ In case you don’t know how, here’s the guidance:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -139,13 +166,6 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-212.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
@@ -165,13 +185,6 @@ In case you don’t know how, here’s the guidance:
  Now run FIFA 20 and check whether your crashing problem still exists. If it does, then please proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update Windows operating system
 
@@ -207,28 +220,29 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your**fifasetup.ini** file is already set to**0** when you first open it, then try changing it to**1** instead.
 
  Run FIFA 20 and check whether it continues to crash. If it does, try out the next fix then.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Adjust settings in NVIDIA Control Panel
 
@@ -250,6 +264,13 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Repair corrupted system files
 
  It’s possible that some of the system files in your PC have been damaged and hence gave rise to crashing in FIFA 20\. To check for such problems, here are at least two things you should do:
@@ -266,22 +287,15 @@ If you continue to face the crashing problem, please move on to Fix 6.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
 
@@ -304,10 +318,10 @@ sfc /scannow
 ![This image has an empty alt attribute; its file name is image-182.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If prompted for consent, click **Yes** .
@@ -320,23 +334,9 @@ dism.exe /online /cleanup-image /restorehealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Close unnecessary programs
 
@@ -374,22 +374,20 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-picture-in-progressive-screen-mastery-for-chrome-users-across-platforms/"><u>[New] Picture in Progressive Screen Mastery for Chrome Users Across Platforms</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-secrets-to-seamless-overwatch-game-captures-unveiled-for-2024/"><u>[New] Secrets to Seamless Overwatch Game Captures Unveiled for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-harness-the-power-of-insights-a-curated-list-of-instagram-performance-trackers/"><u>[Updated] In 2024, Harness the Power of Insights A Curated List of Instagram Performance Trackers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-optimizing-youtube-videos-for-igtv-exposure/"><u>[Updated] In 2024, Optimizing YouTube Videos for IGTV Exposure</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-photoshop-and-beyond-top-monitors-reviewed-editors-picks/"><u>[Updated] Photoshop & Beyond Top Monitors Reviewed [Editors' Picks]</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-speedy-shifts-in-powerpoint-video-speed/"><u>[Updated] Speedy Shifts in PowerPoint Video Speed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionize-virtual-reality-with-our-expertise/"><u>2024 Approved Revolutionize Virtual Reality with Our Expertise</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-scrutinizing-the-new-parrot-ar-drone-edition/"><u>2024 Approved Scrutinizing the New Parrot AR Drone Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-stealthy-styles-easy-color-corrections-techniques/"><u>2024 Approved Stealthy Styles Easy Color Corrections Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/efficient-strategies-for-repairing-issues-with-nwstoreexe-application-errors/"><u>Efficient Strategies for Repairing Issues with NW_store.exe Application Errors</u></a></li>
-<li><a href="https://facebook.techidaily.com/enjoy-personalized-playlists-on-a-smaller-screen-spotify-in-fb/"><u>Enjoy Personalized Playlists on a Smaller Screen - Spotify in FB</u></a></li>
-<li><a href="https://win-latest.techidaily.com/guia-paso-a-paso-para-evitar-el-reposicionamiento-de-windows-11-que-espera-en-iniciar/"><u>Guía Paso a Paso Para Evitar El Reposicionamiento De Windows 11 Que Espera en Iniciar</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oneplus-ace-2v-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track OnePlus Ace 2V Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-the-art-of-blurring-parts-in-digital-pictures-for-2024/"><u>Master the Art of Blurring Parts in Digital Pictures for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-free-green-screen-apps-you-need-to-try-on-your-android-or-ios-device/"><u>New In 2024, Free Green Screen Apps You Need to Try on Your Android or iOS Device</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfecting-audio-attenuation-a-focus-on-lumafusions-tools-for-2024/"><u>Perfecting Audio Attenuation A Focus on Lumafusion's Tools for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-lava-blaze-curve-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Lava Blaze Curve 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-enhancing-clarity-with-time-indicators-in-youtube-media-for-2024/"><u>[New] Enhancing Clarity with Time Indicators in YouTube Media for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-farm-team-time-top-10-agricultural-games-to-share-and-compete-for-2024/"><u>[New] Farm Team Time Top 10 Agricultural Games to Share & Compete for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-import-in-windows-10-photo-space/"><u>[New] Mastering the Art of Import in Windows 10 Photo Space</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-metavision-uncovered-analyzing-6-compelling-metaverse-cases/"><u>[New] Metavision Uncovered Analyzing 6 Compelling Metaverse Cases</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-podcast-vs-youtube-the-ideal-medium-explored/"><u>[New] Podcast vs YouTube The Ideal Medium Explored</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-selective-selections-notable-sites-for-snagging-snapalert-tunes/"><u>[New] Selective Selections Notable Sites for Snagging SnapAlert Tunes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-visual-storytelling-the-top-cinematic-secrets/"><u>[Updated] Mastering Visual Storytelling The Top Cinematic Secrets</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-melody-matters-10-must-hear-sources-for-podcast-beginnings/"><u>[Updated] Melody Matters 10 Must-Hear Sources for Podcast Beginnings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/customizing-gmail-notification-tones-how-to-add-new-mail-sounds-easily/"><u>Customizing Gmail Notification Tones - How to Add New Mail Sounds Easily</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-the-differences-between-srgb-and-rgb/"><u>Exploring the Differences Between Srgb & Rgb</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-momentum-in-motion-our-choice-of-top-10-film-titles/"><u>In 2024, Momentum in Motion Our Choice of Top 10 Film Titles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-novices-guide-to-photo-enhancements-with-photoshop/"><u>In 2024, Novice's Guide to Photo Enhancements with Photoshop</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-leap-unlock-global-communication-with-vr/"><u>Language Leap: Unlock Global Communication with VR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-artistry-selecting-from-6-best-nft-makers-for-2024/"><u>Navigating Artistry Selecting From 6 Best NFT Makers for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nubia-red-magic-9-proplus-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Red Magic 9 Pro+ Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

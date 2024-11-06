@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sky-High Adventures  The GoPro Karma Experience\""
-date: 2024-10-24T17:49:13.555Z
-updated: 2024-10-31T17:16:35.457Z
+date: 2024-10-31T03:39:16.877Z
+updated: 2024-11-06T02:39:12.889Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Detailed review for GoPro Karma
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -110,10 +110,10 @@ Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -131,17 +131,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/caling-youtube-earnings-device-independent-studio-tactics/"><u>[New] Scaling YouTube Earnings Device-Independent Studio Tactics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-secrets-to-choosing-the-ultimate-free-online-srt-translators/"><u>[Updated] Secrets to Choosing the Ultimate Free Online SRT Translators</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-pinterest-content-top-5-free-download-apps/"><u>2024 Approved Mastering Pinterest Content Top 5 FREE Download Apps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/childs-play-in-the-sky-top-kid-friendly-drones-list/"><u>Child's Play in the Sky Top Kid-Friendly Drones List</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-5-essential-strategies-for-successful-twitch-livestreaming/"><u>In 2024, 5 Essential Strategies for Successful Twitch Livestreaming</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-quick-quirks-making-manipulations-more-minimal/"><u>In 2024, Quick Quirks Making Manipulations More Minimal</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-search-of-the-best-fps-experience-ever/"><u>In Search of the Best FPS Experience Ever</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/inter-app-playlist-exchange-made-simple-for-2024/"><u>Inter-App Playlist Exchange Made Simple for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-convert-webm-to-mp3-top-rated-conversion-tools/"><u>New 2024 Approved Convert WebM to MP3 Top-Rated Conversion Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/olympic-ice-showdown-highlights-of-speed-skating-short-track-for-2024/"><u>Olympic Ice Showdown Highlights of Speed Skating Short Track for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revolutionizing-creativity-premier-tablet-apps-for-ipados-for-2024/"><u>Revolutionizing Creativity Premier Tablet Apps for iPadOS for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfect-for-broadcasters-top-360-cameras-listed/"><u>[New] Perfect for Broadcasters Top 360° Cameras Listed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplifying-the-complexity-of-digital-enhancements/"><u>[New] Simplifying the Complexity of Digital Enhancements</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-interactive-learning-landscapes-with-vr/"><u>[Updated] Interactive Learning Landscapes with VR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-online-method-for-altering-video-proportions/"><u>[Updated] Online Method for Altering Video Proportions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-guide-adding-videos-for-2024/"><u>[Updated] Twitter's Guide Adding Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastery-and-inspiration-the-ultimate-list-of-android-drawing-apps/"><u>2024 Approved Mastery & Inspiration The Ultimate List of Android Drawing Apps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-realme-v30-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Realme V30 without App | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/converting-between-ogg-and-mp3-formats-with-audacity-a-comprehensive-guide/"><u>Converting Between Ogg & MP3 Formats with Audacity: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-best-audio-performance-on-windows-n-by-downloading-updated-drivers/"><u>Get the Best Audio Performance on Windows N by Downloading Updated Drivers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guida-istantanea-creare-una-slow-motion-masterpiece-su-android-con-semplici-4-fasi-scatti-di-movavi/"><u>Guida Istantanea: Creare Una Slow-Motion Masterpiece Su Android Con Semplici 4 Fasi - Scatti Di Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ideal-accessories-for-optimal-gopro-photography/"><u>Ideal Accessories for Optimal GoPro Photography</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-audio-identity-the-art-of-adding-your-own-tones-to-android/"><u>In 2024, Crafting Audio Identity The Art of Adding Your Own Tones to Android</u></a></li>
 </ul></div>
 

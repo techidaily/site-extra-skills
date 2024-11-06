@@ -1,7 +1,7 @@
 ---
 title: "Masterclass on Blending Sound & Sight for Media Professionals for 2024"
-date: 2024-10-30T16:56:07.075Z
-updated: 2024-10-31T16:11:52.648Z
+date: 2024-11-01T05:42:01.358Z
+updated: 2024-11-06T02:59:51.266Z
 tags: 
   - screen-recording
   - ai video
@@ -45,10 +45,10 @@ But here's the good news: the way you add either option is the same in Filmora.
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to add narration
@@ -58,10 +58,10 @@ So the easiest way to add narration is directly to a project. The benefit of thi
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
@@ -77,10 +77,10 @@ You can record your narration and click stop.
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Some Tips for Recording Narration
@@ -93,19 +93,6 @@ You can edit pauses or weak parts out of the voiceover to trim it up. But if it 
 
 Fortunately, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) comes equipped with video b-roll which is another great option. When using b-roll, it's better to use multiple shorter clips than one longer clip in most cases. But adding the same b-roll clip near the beginning and another section of the same b-roll clip, later on, should help you match the length of your narration to the video timeline.
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Narration is a great storytelling device
 
 Narration is a fantastic tool to have in your arsenal as a young filmmaker. It allows you to quickly communicate feelings, backstory, and context quickly and effectively.
@@ -113,6 +100,13 @@ Narration is a fantastic tool to have in your arsenal as a young filmmaker. It a
 Practice adding it to your videos to see how it adds depth and dimension to your videos.
 
 It can also help make a connection with your audience because you can be relating to the images on the screen as they watch them. This is effective in building your YouTube audience.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Always use a good mic
 
@@ -160,18 +154,18 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-revolutionize-virtual-participation-with-top-10-free-recorder-software/"><u>[New] Revolutionize Virtual Participation with Top 10 Free Recorder Software</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-convert-srt-free-top-10-web-subtitle-services/"><u>[Updated] 2024 Approved Convert SRT Free Top 10 Web Subtitle Services</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-in-depth-exploration-of-durecorder-features/"><u>[Updated] 2024 Approved In-Depth Exploration of DuRecorder Features</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-choosing-excellent-videographers/"><u>[Updated] Mastering the Art of Choosing Excellent Videographers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-combat-black-screen-disruptions-in-gaming-feeds/"><u>2024 Approved Combat Black Screen Disruptions in Gaming Feeds</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-impact-with-strategic-fb-giveaway-announcements/"><u>2024 Approved Maximizing Impact with Strategic FB Giveaway Announcements</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-realme-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Realme .</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/from-ordinary-to-extraordinary-profile-videos-for-2024/"><u>From Ordinary to Extraordinary Profile Videos for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/justifying-mts-for-the-highest-tier-of-games/"><u>Justifying MTs for the Highest Tier of Games</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/operational-handling-of-srt-in-oses-for-2024/"><u>Operational Handling of SRT in OSes for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/photoshops-stabilization-capabilities-real-advantage-for-2024/"><u>Photoshop's Stabilization Capabilities Real Advantage for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/securing-privacy-efficient-blur-techniques-in-images-for-2024/"><u>Securing Privacy Efficient Blur Techniques in Images for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-samsung-galaxy-f15-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Samsung Galaxy F15 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-rapid-routines-easy-iphone-media-sharing/"><u>[New] Rapid Routines Easy iPhone Media Sharing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-10-best-youtube-conversion-tools-for-webm-format/"><u>[Updated] 10 Best YouTube Conversion Tools for WebM Format</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-iphones-simple-methods-for-effective-screening/"><u>[Updated] In 2024, IPhone's Simple Methods for Effective Screening</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mastering-srt-file-creation-a-comprehensive-manual-for-2024/"><u>[Updated] Mastering SRT File Creation A Comprehensive Manual for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-date-placement-on-visual-memories/"><u>[Updated] Perfecting Date Placement on Visual Memories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revolutionize-playtime-win11s-game-library/"><u>[Updated] Revolutionize Playtime Win11's Game Library</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-snap-motion-blur-photos-effortlessly-with-iphone-techniques/"><u>[Updated] Snap Motion-Blur Photos Effortlessly with iPhone Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-strategies-regain-full-control-of-your-gmail-with-these-proven-forgotten-password-solutions/"><u>Expert Strategies: Regain Full Control of Your Gmail with These Proven Forgotten Password Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-joyous-film-grabber-assessment/"><u>In 2024, Joyous Film Grabber Assessment</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-tecno-pop-7-pro-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Tecno Pop 7 Pro FRP</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/practical-photoshop-fixes-for-facial-pixelation-purposes-for-2024/"><u>Practical Photoshop Fixes for Facial Pixelation Purposes for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/strategies-for-eye-popping-fb-ad-videos/"><u>Strategies for Eye-Popping FB Ad Videos</u></a></li>
 </ul></div>
 

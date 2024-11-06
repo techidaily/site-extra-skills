@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet"
-date: 2024-10-27T16:07:10.881Z
-updated: 2024-10-31T17:04:07.733Z
+date: 2024-11-01T05:04:22.676Z
+updated: 2024-11-06T03:37:06.750Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet"
@@ -36,9 +36,23 @@ Lifewire / Kelsey Simon
 
 2.7
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -58,13 +72,6 @@ Lifewire / Kelsey Simon
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
  Torment: Tides of Numenera is a third-person role-playing game focused strongly on story―and oh, there is so much story. The game begins with the character you’ll play as waking up in a panic. Someone will narrate everything that’s going on to you, including what the area around you looks like. After a short introduction, you’ll be prompted to pick what you want to play as: Glaive, Jack, or Nano. These will roughly translate into someone more physical, someone mixed physical and magical, and a mage, but of course, set in this strange half-fantastical, half-science-fiction world where everything is new and unique.
@@ -78,13 +85,6 @@ Lifewire / Kelsey Simon
  I did continue forward, even though I was already disinterested, hoping the game would become more gripping. After the memory room, you’ll wake to another platform where a being tells you you’ve suffered a great injury and they are in your mind. He tries to explain who you are but before he gets too far, you’ll be attacked by something called the Sorrow. Eventually, you’ll wake in the real world, enter the game’s main city, and be able to talk to the wealth of characters living there. You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
 
  You’re a castoff of the powerful Changing God, and you’ve got a lot to figure out―the question is, do you want to read a poorly written novel in video game format?
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Gameplay: Dialogue prompts and effort**
 
@@ -115,13 +115,26 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Only worth it if you’re keen on the story**
 
@@ -142,13 +155,6 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -173,14 +179,21 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-optimize-remote-work-with-smart-zoom-scheduling/"><u>[New] 2024 Approved Optimize Remote Work with Smart Zoom Scheduling</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-monitor-selection-mastery-ultrawide-versus-uhd-4k/"><u>[New] Monitor Selection Mastery UltraWide Versus UHD 4K</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-step-by-step-journey-to-captivating-hdr-portraits/"><u>[Updated] 2024 Approved Step-by-Step Journey to Captivating HDR Portraits</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-gaming-streams-best-recording-programs/"><u>[Updated] In 2024, Gaming Streams Best Recording Programs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-outstanding-graphic-revisions/"><u>[Updated] Outstanding Graphic Revisions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-lut-applications-in-premiere-pro/"><u>2024 Approved Mastering LUT Applications in Premiere Pro</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/abbyy-at-the-joint-conference-on-shared-services-and-outsourcing/"><u>ABBYY at the Joint Conference on Shared Services & Outsourcing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-professional-insights-into-magix-acid-pro-and-alternatives/"><u>In 2024, Professional Insights Into Magix ACID Pro and Alternatives</u></a></li>
-<li><a href="https://techidaily.com/the-declining-performance-of-copilot-feature-in-windows-11/"><u>The Declining Performance of Copilot Feature in Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-6-apps-to-transform-photos-by-eliminating-backgrounds/"><u>[New] Leading 6 Apps to Transform Photos by Eliminating Backgrounds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-live-streaming-services-a-detailed-comparison/"><u>[New] Leading Live Streaming Services A Detailed Comparison</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-seamlessly-stream-your-laptops-dvd-library/"><u>[Updated] 2024 Approved Seamlessly Stream Your Laptop's DVD Library</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-momentfreeze-immediate-screen-grab-guide/"><u>[Updated] In 2024, MomentFreeze Immediate Screen Grab Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revamp-your-photos-is-pickup-a-game-changer-for-android-users/"><u>[Updated] Revamp Your Photos Is PickUp a Game-Changer for Android Users?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-5-iphone-backdrop-modification-programs/"><u>2024 Approved Leading 5 iPhone Backdrop Modification Programs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-roadmap-for-successful-online-brand-collaborations-on-youtube/"><u>2024 Approved The Roadmap for Successful Online Brand Collaborations on Youtube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-amplifying-online-presence-focusing-on-details/"><u>In 2024, Amplifying Online Presence Focusing on Details</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-investment-alert-avoid-the-trap-of-artificial-youtube-engagement/"><u>In 2024, Investment Alert Avoid the Trap of Artificial YouTube Engagement</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-podcasting-with-androids-best-six-for-2024/"><u>Mastering the Art of Podcasting with Android's Best Six for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-windows-for-an-exceptional-listening-experience-top-8-for-2024/"><u>Navigating Windows for an Exceptional Listening Experience (Top 8) for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-gopro-editing-applications-on-smartphones-for-2024/"><u>Premium GoPro Editing Applications on Smartphones for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/staying-positive-in-the-face-of-internet-skeptics-for-2024/"><u>Staying Positive in the Face of Internet Skeptics for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-tutorial-on-video-cropping-with-adobe-premiere-pro/"><u>Step-by-Step Tutorial on Video Cropping with Adobe Premiere Pro</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/superdoper-ersatz-die-top-wahl-fur-windows-10-und-7-nutzer/"><u>Superdoper Ersatz: Die Top-Wahl Für Windows 10 Und 7 Nutzer</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unveiling-secrets-how-to-save-your-google-conversations-for-2024/"><u>Unveiling Secrets How to Save Your GooGle Conversations for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PC Troubleshooting: Fixing Constant Crashes in Alien: Fireteam Elite"
-date: 2024-10-25T17:59:07.976Z
-updated: 2024-10-31T17:43:37.019Z
+date: 2024-11-03T01:17:42.313Z
+updated: 2024-11-06T06:21:15.407Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: End the Epic Games Launcher process in Task Manager
 
  Make sure the Epic Games launcher is not running in the background. If it is, when you double-click its shortcut on your desktop, it won’t launch. So you need to end the processes related to Epic Games Launcher in Task Manager first. Here’s how to do it:
@@ -43,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher to see if you’ve resolved this issue.
 
@@ -59,10 +73,16 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1048.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See if you can launch the program. If so, you should delete its shortcut on your desktop and create a new one. If it still won’t launch, don’t worry. Try the next fix, below.
@@ -78,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the**Scale and layout** section, make sure it is set to**100%** .
@@ -93,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
  If not, congratulations! You’ve fixed this issue. If this issue persists, try the next fix to update your graphics driver.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -114,29 +141,16 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1072.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _You can do it for free if you like, but it’s partly manual._
 
  The Pro version of Driver Easy comes with full technical support.  
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Change Epic Games Launcher Properties
@@ -160,13 +174,6 @@ _You can do it for free if you like, but it’s partly manual._
  If it won’t open, try the next fix to disable your antivirus software temporarily.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
 
@@ -206,28 +213,15 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Restart your computer.
@@ -258,14 +252,18 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-effortless-strategy-deleting-dislikes-from-youtube-discussions/"><u>[New] Effortless Strategy Deleting Dislikes From YouTube Discussions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-samsung-photo-editor-review-pros-con-features-and-guide/"><u>[New] Samsung Photo Editor Review - Pros, Con, Features, and Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-inside-ustream-review-alternatives-on-hand/"><u>[Updated] 2024 Approved Inside Ustream Review, Alternatives on Hand</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-driveease-expert-analysis/"><u>[Updated] DriveEase Expert Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-deploy-chatgpt-for-personalized-movie-and-show-recommendations/"><u>How to Deploy ChatGPT for Personalized Movie & Show Recommendations</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-passport-self-portrait-maker-free-access-to-top-quality-images/"><u>In 2024, Passport Self-Portrait Maker – Free Access to Top Quality Images</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lenovo-t430-driver-installation-made-simple-compatible-with-windows-11-8-and-7-download-guide/"><u>Lenovo T430 Driver Installation Made Simple: Compatible with Windows 11, 8 & 7 - Download Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-3d-luts-complete-guide-for-2024/"><u>Mastering 3D LUTs Complete Guide for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pcs-best-vr-top-10-immersive-360-video-players-for-2024/"><u>PC's Best VR Top 10 Immersive 360 Video Players for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-acquiring-high-quality-copyright-free-images/"><u>[New] Acquiring High-Quality Copyright-Free Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-megadron-mastery-industrys-top-heavy-loaders/"><u>[Updated] Megadron Mastery Industry's Top Heavy Loaders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-orchestrating-originality-top-8-schools-for-story-innovation/"><u>[Updated] Orchestrating Originality Top 8 Schools for Story Innovation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sharp-images-no-fog-protecting-gopro-quality/"><u>[Updated] Sharp Images, No Fog Protecting GoPro Quality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simplifying-massive-media-swap-iphone-to-mac-file-relocation/"><u>2024 Approved Simplifying Massive Media Swap IPhone-to-Mac File Relocation</u></a></li>
+<li><a href="https://win-docs.techidaily.com/discover-the-enhanced-massmail-experience-with-the-latest-email-studio-revolution/"><u>Discover the Enhanced MassMail Experience with the Latest Email Studio Revolution</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/disseminate-vimeo-videos-widely/"><u>Disseminate Vimeo Videos Widely</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978560981-get-the-latest-nvidia-geforce-rtx-1080-driver-update-on-windows-10-made-easy/"><u>Get the Latest NVIDIA Geforce RTX 1080 Driver Update on Windows 10 Made Easy!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-from-idea-to-reality-explore-these-12-inspirational-free-image-websites/"><u>In 2024, From Idea to Reality – Explore These 12 Inspirational Free Image Websites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximize-your-iphones-capture-potential-for-2024/"><u>Maximize Your iPhone's Capture Potential for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securely-remove-old-conversations-with-gpt/"><u>Securely Remove Old Conversations with GPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/transfert-de-donnees-rapide-pourquoi-le-clonage-sur-les-appareils-samsung-ne-marche-plus/"><u>Transfert De Données Rapide : Pourquoi Le Clonage Sur Les Appareils Samsung Ne Marche Plus</u></a></li>
 </ul></div>
 
