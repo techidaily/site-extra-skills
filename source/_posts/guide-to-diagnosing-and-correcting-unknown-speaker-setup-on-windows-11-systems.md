@@ -1,7 +1,7 @@
 ---
 title: Guide to Diagnosing and Correcting 'Unknown' Speaker Setup on Windows 11 Systems
-date: 2024-10-30T16:12:08.215Z
-updated: 2024-11-06T08:49:39.507Z
+date: 2024-11-13T16:11:52.581Z
+updated: 2024-11-16T18:07:46.347Z
 tags:
   - win11
   - win10
@@ -72,15 +72,15 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
@@ -95,33 +95,33 @@ Read on and follow the easy-doing images below!
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
@@ -149,19 +149,19 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-editing-magic-transformative-strategies-for-youtube-creators/"><u>[New] Editing Magic Transformative Strategies for YouTube Creators</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-ps5xbox-series-x-the-elite-tvs-for-gamers/"><u>[New] PS5/Xbox Series X The Elite TVs for Gamers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-speed-demon-the-top-windows-photo-browser/"><u>[New] Speed Demon The Top Windows Photo Browser</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-windows-11-ultimate-video-recorder-software-for-2024/"><u>[New] Windows 11 Ultimate Video Recorder Software for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-luts-optimizing-images-on-the-go/"><u>[Updated] Mastering LUTs Optimizing Images On-the-Go</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-funnygenius-create-and-share-memes/"><u>2024 Approved FunnyGenius Create and Share Memes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-scouting-talent-top-5-video-artists-who-create-with-rhythm-and-beat/"><u>In 2024, Scouting Talent Top 5 Video Artists Who Create With Rhythm & Beat</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-smooth-screenshots-selecting-the-ultimate-handheld-stabilizer/"><u>In 2024, Smooth Screenshots Selecting the Ultimate Handheld Stabilizer</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-top-audiovisual-enhancements-for-video-producers/"><u>In 2024, Top Audiovisual Enhancements for Video Producers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/leading-cordless-communication-devices/"><u>Leading Cordless Communication Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-t420-driver-download-and-installation-guide-for-windows-users/"><u>Lenovo T420 Driver Download and Installation Guide for Windows Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-iphone-layout-artistry-for-2024/"><u>Mastering iPhone Layout Artistry for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximize-your-iphone-storage-a-step-by-step-guide-to-clearing-out-the-clutter/"><u>Maximize Your iPhone Storage: A Step-by-Step Guide to Clearing Out the Clutter</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/speech-to-text-efficient-conversion-techniques-for-microsoft-word-users-for-2024/"><u>Speech to Text Efficient Conversion Techniques for Microsoft Word Users for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-meme-magic-perfect-10-design-tips-and-tricks/"><u>[New] Meme Magic Perfect 10 Design Tips & Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-stabilized-gimbals-for-mobile-and-pro-cameras-unveiled/"><u>[Updated] Best Stabilized Gimbals for Mobile and Pro Cameras Unveiled</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-ideal-8-visuals-to-elevate-your-mbp-aesthetics/"><u>[Updated] In 2024, Ideal 8 Visuals to Elevate Your MBP Aesthetics</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-instagram-stories-mastering-the-art-of-time-manipulation-for-2024/"><u>[Updated] Instagram Stories – Mastering the Art of Time Manipulation for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-secrets-revealed-mastering-chapter-integration-in-youtube-videos/"><u>[Updated] Secrets Revealed Mastering Chapter Integration in YouTube Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-influencers-blueprint-five-steps-to-proven-marketing-success/"><u>[Updated] The Influencer's Blueprint Five Steps to Proven Marketing Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-virtual-backgrounds-with-kinemasters-stepwise-guide-to-green-screen/"><u>2024 Approved Mastering Virtual Backgrounds with Kinemaster's Stepwise Guide to Green Screen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/freeze-frame-creation-through-stabilized-capture/"><u>Freeze-Frame Creation Through Stabilized Capture</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-first-to-fourth-a-comprehensive-analysis-of-openais-improved-gpt-versions/"><u>From First to Fourth: A Comprehensive Analysis of OpenAI's Improved GPT Versions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-oneplus-nord-n30-5g-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/i-piu-efficienti-programmi-per-convertire-i-formati-video-da-4k-a-hdfull-hd-sul-pcmac-del-2019/"><u>I Più Efficienti Programmi per Convertire I Formati Video Da 4K a HD/Full HD Sul PC/Mac Del 2019</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-windows-11-photo-app-stability-troubleshooting/"><u>In 2024, Mastering Windows 11 Photo App Stability Troubleshooting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-soaring-in-high-definition-an-in-depth-xiaomi-analysis/"><u>In 2024, Soaring in High Definition An In-Depth Xiaomi Analysis</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1728500232697-synology-nas/"><u>Synology NASデバイスに保存したデータを外部ドライブへ安全に複写する方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender"
-date: 2024-10-30T00:34:23.648Z
-updated: 2024-11-05T21:52:53.983Z
+date: 2024-11-12T16:50:47.946Z
+updated: 2024-11-16T17:01:25.637Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender"
@@ -39,22 +39,15 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Netgear Nighthawk RAX120 12-Stream AX6000 Wi-Fi 6 Router
 
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/_gP-SgRbIGXPYdlmqqhNJSxhmSs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_HeroSquare-61fda9713bb44c89bf3c2f1f74386bee.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
@@ -83,19 +76,6 @@ Lifewire / Erika Rawes
 
  The[Netgear](https://www.lifewire.com/best-netgear-routers-4159862) Nighthawk RAX120 is supposed to provide lightning-fast speeds while serving as one of the[best long-range wireless routers](https://www.lifewire.com/best-long-range-routers-4122554) currently on the market. Fully loaded with[Wi-Fi 6 technology](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) , smart home connectivity, and a slew of other features, the AX12 should be an ideal router for small businesses, very large homes, or for homes with multiple devices. I tested the Netgear Nighthawk RAX120 to see how well it performs in the real world.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Batman’s router**
 
  The Netgear Nighthawk RAX120 has a futuristic design—angular, with clean lines. It looks like a cross between a spaceship and the Batmobile. It’s matte black and rectangular, but instead of the multiple antennas you’d typically see protruding from the top of a Nighthawk router, it has two wing-like extensions that come from each side.
@@ -106,18 +86,18 @@ Lifewire / Erika Rawes
 
 Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup: Quick and easy**
 
  The Netgear Nighthawk app walks you through the setup process. There’s a QR code sticker on the router, as well as a temporary network name and password on the label, which allow you to connect quickly and easily.
 
  The app guides you through creating separate 2.4 and 5GHz networks, but you can also take advantage of a feature called smart connect, which combines your networks and designates your devices based on optimal performance. You can create a guest network, as well as manage and monitor your devices individually. The initial setup process took me about ten minutes in total.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Connectivity: Superfast speeds**
 
@@ -129,7 +109,21 @@ Lifewire / Erika Rawes
 
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/y2V4Ncx3Z1ul8B-4lsc_IeiyCRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_04-9e452ddedd2b4a46893fddd147c06d4f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Network performance: Stellar**
 
@@ -162,10 +156,10 @@ Lifewire / Erika Rawes
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/MPwp1LtMC7Ua30t8VnJy7bjuqn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_02-94fbae95ca5d4851a1cf40b197da4161.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
@@ -222,22 +216,15 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-smarter-spending-on-cloud-data-services-insights-and-recommendations/"><u>[New] Smarter Spending on Cloud Data Services Insights & Recommendations</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-10-webcam-covers-that-keep-you-safe-online/"><u>[Updated] In 2024, 10 Webcam Covers That Keep You Safe Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-leading-meaningful-conversations-an-interviewers-journey/"><u>[Updated] Leading Meaningful Conversations An Interviewer's Journey</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-snap-your-world-how-to-watch-360-videos-on-android/"><u>[Updated] Snap Your World How to Watch 360 Videos on Android</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-snapchat-soundtrack-sourcebook-choosing-from-the-best-websites/"><u>[Updated] Snapchat Soundtrack Sourcebook Choosing From the Best Websites</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-unlock-your-creativity-with-photoshops-radial-blur-and-shadow-tools/"><u>[Updated] Unlock Your Creativity with Photoshop's Radial Blur & Shadow Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-snapcutmaster-insights-full-video-editor-evaluation/"><u>2024 Approved SnapCutMaster Insights – Full Video Editor Evaluation</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/windows-11-sd/"><u>如何在 Windows 11 系统中有效利用 SD 卡作为本地存储解决方案</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/current-state-of-vr-hardware-for-2024/"><u>Current State of VR Hardware for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-guide-converting-avi-files-to-m4v-format-on-macos-and-windows/"><u>Easy Guide: Converting AVI Files to M4V Format on macOS & Windows</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/harness-the-power-of-video-editing-cropping-to-perfect-instagram-posts-for-2024/"><u>Harness the Power of Video Editing Cropping to Perfect Instagram Posts for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-essential-strategies-for-effective-content-management-in-creator-studio/"><u>In 2024, Essential Strategies for Effective Content Management in Creator Studio</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-12-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 12 After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-motorola-razr-40-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Motorola Razr 40 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-audio-on-windows-best-8-podcast-applications-unveiled-for-2024/"><u>Mastering Audio on Windows Best 8 Podcast Applications Unveiled for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/most-effective-dvd-to-mpeg-4-transcoder-software-optimized-for-win10win11/"><u>Most Effective DVD to MPEG-4 Transcoder Software : Optimized for Win10/Win11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimize-iphone-usage-how-to-manipulate-picture-in-picture-on-youtube-for-2024/"><u>Optimize iPhone Usage How to Manipulate Picture-in-Picture on YouTube for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-expert-picks-the-10-most-affordable-video-conferencing-for-ios-and-android/"><u>[New] 2024 Approved Expert Picks The 10 Most Affordable Video Conferencing for iOS & Android</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-gradual-volume-reduction-in-studio-projects-using-logic-pro-for-2024/"><u>[New] Gradual Volume Reduction in Studio Projects Using Logic Pro for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-smm-landscape-key-steps-to-success/"><u>[New] Navigating the SMM Landscape Key Steps to Success</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastery-in-purchasing-pristine-stock-images/"><u>2024 Approved Mastery in Purchasing Pristine Stock Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-shadow-broadcasters-master-the-art-of-anonymous-livestreaming-on-instagram/"><u>2024 Approved Shadow Broadcasters Master the Art of Anonymous Livestreaming on Instagram</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a05s-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A05s?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-y77t-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-realme-c51-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Realme C51 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/key-approaches-turning-visual-content-into-music-files-for-2024/"><u>Key Approaches Turning Visual Content Into Music Files for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/roundabout-viewpoint-versus-threefold-imaging-for-2024/"><u>Roundabout Viewpoint Versus Threefold Imaging for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastery of Color Grading  Premiere Pro's LUT Capabilities\""
-date: 2024-10-29T18:39:19.495Z
-updated: 2024-11-06T10:56:09.973Z
+date: 2024-11-15T18:00:15.206Z
+updated: 2024-11-16T16:50:17.918Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,19 @@ Step2Locate the Lumetri LUTs folder in your Premiere Pro installation directory 
 
 Step3Paste all of your fresh LUTs in this folder at this time. Your new LUTs will now show up in the Lumetri Color Panel when you launch Premiere Pro (or restart the software if it was already open). Innovative >> Looks
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to add LUTs to your footage
 
 Step1Choose the Color Workspace at the top after your clip is in the timeline and prepared for grading.
@@ -41,6 +54,13 @@ Step2Click OK after selecting New Item > Adjustment Layer in the Project window'
 Step3The first Basic Correction option in the right-hand panel of Lumetri Color is Input LUT. Choose this, click Browse, and then go to the location where your LUTs are stored.
 
 Step4Double-click the LUT you wish to use once you've located it, and it will be applied immediately.A tiny tip I like to use occasionally is to find the Effect Controls panel on the left side, then click the drop-down arrow next to Opacity, and make adjustments if you input your LUT and feel that it's too intense.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Why use LUTs in your project?
 
@@ -53,10 +73,16 @@ Because of this, some designers employ look-up tables (LUTs) that they have crea
 When it comes to working on a project for a customer that has a stringent deadline to fulfill, poor color grading could result in a negative impression of your work. This is the case even if everything from the sound effects to the video effects is done to a high standard and is done well.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Can you adjust the strength of the LUT?
@@ -68,10 +94,10 @@ The entire color panel in Premiere Pro is packed with all of the color grading t
 The end outcome does not vary by a substantial amount, but how it looks can change depending on the LUT you use. In the event that something seems to be lacking, you can always modify the color grading.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Export LUTs
@@ -86,13 +112,6 @@ Step2Export ".cube" This function exports lookup tables in the.cube format so th
 
 Step3Store Preset: You can personalize the settings for each color effect, then save the resulting combinations as presets. Within the Save Preset dialog box, give your preset the name you want it to have. If desired, enter a description. Please visit the article on how to create and store an effect preset for further details.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Where can you find LUTs?
 
 You might be asking, "Now that I've learned more about LUTs (Lookup Tables), where can I get even more LUTs?" since you've gained some new knowledge. In the end, being able to use the built-in LUTs in Luminar is a nice feature, but these are merely samples of the thousands upon thousands of LUTs that are accessible, both for free and for purchase.
@@ -105,13 +124,6 @@ You might be asking, "Now that I've learned more about LUTs (Lookup Tables), whe
 * Complete Cinema LUTs
 * Filmic Tone LUTs
 * Urban Dark Creative LUTs
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,19 +161,20 @@ Sometimes, some of them are out there to steal your money rather than provide th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-promoting-dialogue-enriching-conversations-in-the-youtube-community/"><u>[New] Promoting Dialogue Enriching Conversations in the YouTube Community</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-unveiling-past-moments-with-your-iphone/"><u>[Updated] In 2024, Unveiling Past Moments with Your iPhone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-key-techniques-for-smooth-inshot-pivots/"><u>[Updated] Key Techniques for Smooth Inshot Pivots</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-windows-11-movie-maker-your-ultimate-instruction-manual/"><u>2024 Approved Navigating Windows 11 Movie Maker Your Ultimate Instruction Manual</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-7-video-software-for-apple-machines/"><u>2024 Approved Prime 7 Video Software for Apple Machines</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-12-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone 12 Pro Max to Android | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/converta-imagens-png-para-jpeg-sem-esforco-utilizando-o-solucao-de-conexao-seca-da-movavi/"><u>Converta Imagens PNG Para JPEG Sem Esforço Utilizando O Solução De Conexão Seca Da Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-and-run-chatgpt-alternative-on-windows-pc-without-costs-with-gpt4all/"><u>Download and Run ChatGPT Alternative on Windows PC Without Costs with GPT4All</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevate-your-videos-with-these-11-grading-guides/"><u>Elevate Your Videos with These 11 Grading Guides</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-windows-color-rich-video-landscape-for-2024/"><u>Navigating Windows' Color-Rich Video Landscape for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-subtitle-tutorial-adding-captions-for-better-video-engagement/"><u>New FCPX Subtitle Tutorial Adding Captions for Better Video Engagement</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pre-upgrade-wisdom-a-primer-on-improvement-for-2024/"><u>Pre-Upgrade Wisdom A Primer on Improvement for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-windows-11-audio-output-expert-tips-for-restoring-your-pcs-sound/"><u>Revive Windows 11 Audio Output: Expert Tips for Restoring Your PC's Sound</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-elite-watchlist-top-10-advanced-video-capture-programs/"><u>[New] 2024 Approved Elite Watchlist Top 10 Advanced Video Capture Programs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nhancing-income-through-the-science-of-youtube-trailer-creation/"><u>[New] Enhancing Income Through the Science of YouTube Trailer Creation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-shadowy-time-lapse-recording-methods/"><u>[New] Shadowy Time-Lapse Recording Methods</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-elite-display-decoded-examining-samsungs-ue590-monitor/"><u>[Updated] In 2024, Elite Display Decoded Examining Samsung's UE590 Monitor</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-ultimate-guide-to-skyrocketing-subscriber-count-on-igtv/"><u>[Updated] In 2024, The Ultimate Guide to Skyrocketing Subscriber Count on IGTV</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-is-this-a-bug-or-intentional-edit-on-instagram/"><u>[Updated] Is This a Bug or Intentional Edit on Instagram?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-2024-camcorders-for-quality-imaging/"><u>[Updated] Top 2024 Camcorders for Quality Imaging</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastery-through-motion-a-garageband-guide-to-podcasting/"><u>2024 Approved Mastery Through Motion A GarageBand Guide to Podcasting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pushing-photography-to-new-heights-with-lightrooms-hdr/"><u>2024 Approved Pushing Photography to New Heights with Lightroom's HDR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-windows-11-revolutionary-techniques-for-efficient-video-trimming/"><u>In 2024, Master Window's 11 Revolutionary Techniques for Efficient Video Trimming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quickly-crafting-a-facebook-collage-a-step-by-step-guide/"><u>In 2024, Quickly Crafting a Facebook Collage A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-unlock-the-secrets-to-amazing-instagram-films/"><u>In 2024, Unlock the Secrets to Amazing Instagram Films</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quietly-revolutionizing-travel-charging-the-3-in-1-magsafe-adapter-thats-taking-over/"><u>Quietly Revolutionizing Travel Charging: The 3-in-1 MagSafe Adapter That's Taking Over!</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y78plus-t1-edition-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo Y78+ (T1) Edition</u></a></li>
 </ul></div>
 

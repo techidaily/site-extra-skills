@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Cinematography  The Aspect Ratio Formula\""
-date: 2024-10-31T23:52:48.821Z
-updated: 2024-11-06T07:12:42.272Z
+date: 2024-11-15T18:17:48.648Z
+updated: 2024-11-16T18:02:36.268Z
 tags: 
   - screen-recording
   - ai video
@@ -36,49 +36,41 @@ There is no same aspect ratio that is used across all social media platforms. De
 
 This aspect ratio is recognized as the worldwide reference format for film, mobile devides, DSLR cameras, streaming platforms, social media platforms, and many more. It is known as landscape viewing which include 720p, 1080p HD and 4K resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4:3 Standard
 
 This resolution is originally used in older television screens, which transformed into mobile use as this aspect ratio works really well for Instagram and Facebook videos, referring to the 9:16 phone resolution making a square video more pleasant to watch and to be featured in in-feed videos.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 9:16 Vertical
 
 The 9:16 aspect ratio has become the mainstream resolution for smartphones for easier viewing of videos. This resolution allows for the vertical display of videos on tablets and phones, meaning that it allows videos to play while the device is being held in its upright position. This works ideally for Facebook, Instagram, Snapchat, YouTube Shorts, and more.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 21:9 Cinematic Widescreen
 
 The 21:9 resolution is designed for filming ultra-wide screen movies that gives the viewer a theater-like feeling. It's mostly used to display films and movies in anamorphic formats. Just like on ultra-wide monitors, it allows the video to be shown across the entire screen, giving you a cinema-like experience. This resolution contributes to a broader viewing experience in any shape or form.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Which aspect ratio should I choose?
 
 Depending on your project, broadcast location and filming options, here you can find an overview of which platforms are using which resolutions and how you can use that to improve your filming and viewer experience.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Facebook
 
@@ -103,6 +95,19 @@ To this day, it's safe to say that YouTube is the leading platform in the video 
 16:9 for regular HD videos
 
 21:9 for cinematic videos/shortfilms
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Instagram
 
@@ -132,6 +137,13 @@ Before Musical.ly users were migrated to a new platform called TikTok in 2018, i
 
 1:1; 16:9 or 9:16 for TikTok advertisements
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. How to adjust the aspect ratio of a video?
 
 A very important point we'd like to mention is that we don't recommend changing the aspect ratio after filming, because it could harm the video quality and we think it's best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.
@@ -140,16 +152,16 @@ A very important point we'd like to mention is that we don't recommend changing 
 
 When editing your video, adding black bars is not changing the aspect ratio as you are just adding black bars to the screen. What we do recommend is cropping the video until you get the desired result. Adding black bars won't automatically make the platform adjust the video and it will affect the viewer experience.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Cropping
 
 Cropping your video will allow you to remove a section from your video, which works perfect for unwanted objects or people. While cropping the video, you are forced to pick the essential part of your video and disregard the rest of the video and to remove distraction from the frame.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -187,17 +199,17 @@ Having your video tested on multiple devices will allow you to see a preview of 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-iphones-quintet-of-premier-podcast-tools/"><u>[New] IPhone's Quintet of Premier Podcast Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-prime-skating-moments-from-22/"><u>[New] Prime Skating Moments From '22</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-rhythmic-raptor-rumba/"><u>[New] Rhythmic Raptor Rumba</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-boost-your-like-ratio-tips-for-squaring-up-videos/"><u>[Updated] In 2024, Boost Your Like Ratio Tips for Squaring Up Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-progopro-sessions-four-meets-five/"><u>[Updated] ProGoPro Sessions Four Meets Five</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-rapid-transition-from-srt-to-subc-with-simple-steps/"><u>[Updated] Rapid Transition From SRT to SUBC with Simple Steps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-real-world-stories-an-insight-into-documentary-screenplay-writing-for-2024/"><u>Crafting Real World Stories An Insight Into Documentary Screenplay Writing for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-absence-of-built-in-screen-capture-buttons-on-modern-gaming-mice-a-users-inquiry/"><u>Exploring the Absence of Built-In Screen Capture Buttons on Modern Gaming Mice: A User's Inquiry</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-itel-p55plus-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Itel P55+ Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/proven-youtube-seo-tricks-boosting-video-reach-and-visibility/"><u>Proven YouTube SEO Tricks Boosting Video Reach and Visibility</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/psvr-2-unveiled-detailed-insights-on-price-points-market-arrival-and-hardware-capabilities/"><u>PSVR 2 Unveiled: Detailed Insights on Price Points, Market Arrival & Hardware Capabilities</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ultimate-step-by-step-instructions-installing-an-ssd-in-a-dell-xps-8910-laptop/"><u>Ultimate Step-by-Step Instructions: Installing an SSD in a Dell XPS #8910 Laptop</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphoneipad-podcasting-for-excellent-travel-sessions/"><u>[New] IPhone/iPad Podcasting for Excellent Travel Sessions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-discreet-watcher-of-social-media-life-for-2024/"><u>[Updated] Discreet Watcher of Social Media Life for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-impeccable-console-replication-best-5-emulators/"><u>[Updated] In 2024, Impeccable Console Replication Best 5 Emulators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-how-to-master-zoom-in-windows-10/"><u>[Updated] Step-by-Step How to Master Zoom in Windows 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastery-of-close-up-engagement-on-the-web/"><u>2024 Approved Mastery of Close-Up Engagement on the Web</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spin-innovator-pack/"><u>2024 Approved Spin Innovator Pack</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-7-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 7 Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-approaches-to-restoring-windows-11-logins/"><u>Masterful Approaches to Restoring Windows 11 Logins</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/resolve-poor-zoom-sound-tips-to-enhance-quality/"><u>Resolve Poor Zoom Sound Tips to Enhance Quality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-guide-to-convert-avis-into-gifs-via-filmora-software-for-2024/"><u>Step-by-Step Guide to Convert AVIs Into GIFs via Filmora Software for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-free-video-blur-hack-online-solution/"><u>Updated 2024 Approved The Ultimate Free Video Blur Hack Online Solution</u></a></li>
 </ul></div>
 

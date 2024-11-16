@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Professional Audio Techniques in Audacity\""
-date: 2024-07-31T10:27:11.732Z
-updated: 2024-08-01T10:27:11.732Z
+date: 2024-11-09T17:41:24.130Z
+updated: 2024-11-16T17:49:51.017Z
 tags: 
   - screen-recording
   - ai video
@@ -20,19 +20,12 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 
 Most users choose for Voice Memos on Mac or Sound Recorder on PC when they wish to capture audio on their computer. However, despite the fact that these tools let you record audio using the microphone, they lack the features needed for more sophisticated audio recording and editing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![record profeesional audio](https://images.wondershare.com/filmora/article-images/Audacity-add-audio.jpg)
 
 Therefore, the majority of users think of Audacity when they wish to record and edit high-quality audio on their PCs. Most people use this open-source audio recorder as their go-to tool because it is totally free to use.
 
 However, due to its large and difficult to comprehend interface, the majority of users find it difficult to operate. In this tutorial, we'll show you how to quickly record your desktop using Audacity. Even if you've never used Audacity before, the procedures we explain here will make it simple for you to record audio of any length.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 1\. Download the software
 
 Step1Go to your preferred browser and visit the official <https://www.audacityteam.org/> website using your preferred web browser.
@@ -44,8 +37,12 @@ Step3To choose the kind of track you want, click "Tracks" at the top of the page
 Step4To begin the recording, simply click the "Record" button. As soon as you press record, an audio graph of your voice should start to display. Using the "Shift + R" hotkeys on your keyboard, you can add a new recording if you'd like to.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Recording using Mac
 
 To record audio on your Mac, you might need to install Audacity and additional plugins. The best option is to use the Soundflower program, which enables you to send sound to other apps rather than your computer's speakers. Here's how to use Soundflower and Audacity to record audio on a Mac.
@@ -59,8 +56,12 @@ Step3In the "Device" section of the Audacity preferences box, choose "Soundflowe
 Step4Launch audacity, then open the app whose audio you wish to record. To begin the recording, click the "Record" button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Export your audio
 
 It's time to export the finished file after finishing up your Audacity project's modification. It's crucial to realize that simply saving your Audacity project doesn't produce a file that you can share with others.
@@ -107,5 +108,26 @@ Simply select the necessary file format from the drop-down box that appears next
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-quick-refresher-green-screen-film-tech-basics/"><u>[New] In 2024, Quick Refresher Green Screen Film Tech Basics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inside-mastery-exploring-polarrs-sophisticated-image-editing/"><u>[New] Inside Mastery Exploring Polarr's Sophisticated Image Editing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-gear-youtube-pros-choice-in-shaky-free-video-capture/"><u>[New] Top Gear YouTube Pros' Choice in Shaky-Free Video Capture</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-transforming-instagram-footage-into-square-stories-using-imovie-tips-for-2024/"><u>[New] Transforming Instagram Footage Into Square Stories Using iMovie Tips for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-video-zoom-on-youtube/"><u>[Updated] Perfecting Video Zoom on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-secure-shots-with-a-steadier-gopro-video-technique/"><u>[Updated] Secure Shots with a Steadier GoPro Video Technique</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-srt-playback-guide-on-different-os-platforms/"><u>[Updated] SRT Playback Guide on Different OS Platforms</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-step-by-step-guide-to-perfecting-tiktok-broadcast-on-zoom-for-2024/"><u>[Updated] Step-by-Step Guide to Perfecting TikTok Broadcast on Zoom for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-sounds-policy-explained/"><u>2024 Approved Instagram Sounds Policy Explained</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-gear-tips-gopro-edition/"><u>2024 Approved Professional Gear Tips GoPro Edition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-s24plus-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy S24+</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-concept-to-cut-tape-imovie-steps-for-optimizing-youtube-edits/"><u>In 2024, From Concept to Cut-Tape IMovie Steps for Optimizing YouTube Edits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leveraging-adobes-tools-to-add-music-to-your-videos/"><u>In 2024, Leveraging Adobe's Tools to Add Music to Your Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-headline-economy-utilizing-slug-lines-smartly/"><u>In 2024, Mastering Headline Economy Utilizing Slug Lines Smartly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pivotal-ideas-behind-digital-tale-weaving/"><u>In 2024, Pivotal Ideas Behind Digital Tale Weaving</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-up-to-stardom-10-pro-tips-for-pixlr-excellence/"><u>In 2024, Step up to Stardom 10 Pro Tips for Pixlr Excellence</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-stability-ensuring-a-seamless-play-of-dragon-age-origins-on-your-windows-11-pc/"><u>Mastering Stability: Ensuring a Seamless Play of Dragon Age: Origins on Your Windows 11 PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-gigabyte-motherboard-design-supports-weight-up-to-128-pounds-on-graphics-cards-but-cracking-concerns-remain-with-reinforced-slots/"><u>New Gigabyte Motherboard Design: Supports Weight Up to 128 Pounds on Graphics Cards - But Cracking Concerns Remain with Reinforced Slots</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/overcoming-compression-artifacts-on-youtube-videos-for-2024/"><u>Overcoming Compression Artifacts on YouTube Videos for 2024</u></a></li>
+</ul></div>
 

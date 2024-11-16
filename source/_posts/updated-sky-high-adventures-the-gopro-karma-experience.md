@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sky-High Adventures  The GoPro Karma Experience\""
-date: 2024-10-31T03:39:16.877Z
-updated: 2024-11-06T02:39:12.889Z
+date: 2024-11-14T16:56:06.377Z
+updated: 2024-11-16T16:44:07.199Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Detailed review for GoPro Karma
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -110,10 +110,10 @@ Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -131,17 +131,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-perfect-for-broadcasters-top-360-cameras-listed/"><u>[New] Perfect for Broadcasters Top 360° Cameras Listed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-simplifying-the-complexity-of-digital-enhancements/"><u>[New] Simplifying the Complexity of Digital Enhancements</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-interactive-learning-landscapes-with-vr/"><u>[Updated] Interactive Learning Landscapes with VR</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-online-method-for-altering-video-proportions/"><u>[Updated] Online Method for Altering Video Proportions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitters-guide-adding-videos-for-2024/"><u>[Updated] Twitter's Guide Adding Videos for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastery-and-inspiration-the-ultimate-list-of-android-drawing-apps/"><u>2024 Approved Mastery & Inspiration The Ultimate List of Android Drawing Apps</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-realme-v30-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Realme V30 without App | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/converting-between-ogg-and-mp3-formats-with-audacity-a-comprehensive-guide/"><u>Converting Between Ogg & MP3 Formats with Audacity: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-best-audio-performance-on-windows-n-by-downloading-updated-drivers/"><u>Get the Best Audio Performance on Windows N by Downloading Updated Drivers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/guida-istantanea-creare-una-slow-motion-masterpiece-su-android-con-semplici-4-fasi-scatti-di-movavi/"><u>Guida Istantanea: Creare Una Slow-Motion Masterpiece Su Android Con Semplici 4 Fasi - Scatti Di Movavi</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ideal-accessories-for-optimal-gopro-photography/"><u>Ideal Accessories for Optimal GoPro Photography</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-audio-identity-the-art-of-adding-your-own-tones-to-android/"><u>In 2024, Crafting Audio Identity The Art of Adding Your Own Tones to Android</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-adjustment-tips-for-subtle-audio-reduction-in-logic-pro/"><u>[New] In 2024, Adjustment Tips for Subtle Audio Reduction in Logic Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-next-level-entertainment-the-rise-of-vr-applications/"><u>[New] Next-Level Entertainment The Rise of VR Applications</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pivot-and-merge-videos-with-ease-on-android-gadgets/"><u>[New] Pivot and Merge Videos with Ease on Android Gadgets</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplify-multitasking-on-iphone-activatedeactivate-youtubes-pip-feature/"><u>[New] Simplify Multitasking on iPhone Activate/Deactivate YouTube's PIP Feature</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-integration-with-picture-in-picture-mode/"><u>2024 Approved Seamless Integration with Picture-In-Picture Mode</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-methods-for-transforming-blu-ray-multitracks-m2ts-to-portable-movie-formats-like-mov/"><u>Easy Methods for Transforming Blu-Ray Multitracks (M2TS) to Portable Movie Formats Like MOV</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-bizarre-tiktok-quests-the-10-most-hilarious-games-to-try-now/"><u>In 2024, Bizarre TikTok Quests The 10 Most Hilarious Games to Try Now</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-drones-key-parts-for-peak-performance/"><u>In 2024, Mastering Drones Key Parts for Peak Performance</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-video-and-photography-harnessing-the-power-of-hero5-black/"><u>In 2024, Pro Video & Photography Harnessing the Power of Hero5 Black</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-boundaries-top-prime-lenses-for-industry-pros/"><u>In 2024, Pushing Boundaries Top Prime Lenses for Industry Pros</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-revealing-the-top-10-hidden-story-supporters/"><u>In 2024, Revealing the Top 10 Hidden Story Supporters</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-to-resolve-game-crash-issues-on-nioh-2-complete/"><u>Step-by-Step Tutorial to Resolve Game-Crash Issues on Nioh 2 (Complete)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-15-pro-max-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-20-kostenlose-video-konverter-fur-windows-10-8-and-7-gratis-tools/"><u>Top 20 Kostenlose Video Konverter Für Windows 10, 8 & 7 - Gratis Tools!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-5-easy-ways-to-extract-embedded-video-content/"><u>Top 5 Easy Ways to Extract Embedded Video Content</u></a></li>
 </ul></div>
 

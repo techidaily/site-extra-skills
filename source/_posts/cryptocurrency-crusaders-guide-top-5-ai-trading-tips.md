@@ -1,7 +1,7 @@
 ---
 title: "Cryptocurrency Crusaders' Guide: Top 5 AI Trading Tips"
-date: 2024-11-01T20:36:39.766Z
-updated: 2024-11-06T10:55:37.738Z
+date: 2024-11-10T17:40:20.981Z
+updated: 2024-11-16T16:55:17.533Z
 tags:
   - chatgpt
   - open-ai
@@ -31,19 +31,6 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. openai-pc-pro.online
 
  The experts at CRIL also discovered an unidentified malware strain being distributed through the domain “openai-pc-pro.online,” a malicious domain posing as the official ChatGPT website.
@@ -56,16 +43,16 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. pay.chatgptftw.com
 
@@ -73,26 +60,40 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -103,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
  If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
@@ -138,22 +132,22 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-quick-fixes-to-enhance-your-youtube-reach/"><u>[New] 2024 Approved Quick-Fixes to Enhance Your YouTube Reach</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-ground-to-sky-expert-and-beginners-guide-to-editing-drones/"><u>[New] From Ground to Sky - Expert and Beginner's Guide to Editing Drones</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-high-definition-screens-selecting-your-optimal-4k-display/"><u>[Updated] High Definition Screens Selecting Your Optimal 4K Display</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-personalize-win11-panorama-selecting-stunning-walls/"><u>[Updated] Personalize Win11 Panorama Selecting Stunning Walls</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pinnacle-chroma-modifier/"><u>[Updated] Pinnacle Chroma Modifier</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-quip-kernel-memomaker-suite/"><u>[Updated] Quip Kernel MemoMaker Suite</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-balancing-consistency-and-quality-a-key-to-increasing-youtube-viewership/"><u>2024 Approved Balancing Consistency & Quality A Key to Increasing YouTube Viewership</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-b-roll-creative-uses-and-integration/"><u>2024 Approved Maximizing B-Roll Creative Uses and Integration</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oppo-find-x7-ultra-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-nightscape-techniques-unlocked/"><u>In 2024, IPhone Nightscape Techniques Unlocked</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/iphone-photo-excellence-simple-tips-and-tricks-for-2024/"><u>IPhone Photo Excellence Simple Tips & Tricks for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-baldurs-gate-performance-avoid-frustrations-learn-6-fixes-for-seamless-gameplay/"><u>Mastering Baldur's Gate Performance: Avoid Frustrations - Learn 6 Fixes for Seamless Gameplay!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-shade-changes-3-photoshop-hacks-for-2024/"><u>Mastering Shade Changes 3 Photoshop Hacks for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/e-editing-hacks-select-top-10-short-form-apps/"><u>Mobile Editing Hacks Select Top 10 Short Form Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/realism-refined-how-to-use-motion-blur-in-faces-using-picsart-for-2024/"><u>Realism Refined How to Use Motion Blur in Faces Using Picsart for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-reclaiming-disk-space-on-windows-11-systems/"><u>Step-by-Step Guide: Reclaiming Disk Space on Windows 11 Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-resolving-performance-drop-in-forza-horizon-5-on-pc/"><u>Troubleshooting: Resolving Performance Drop in Forza Horizon 5 on PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-instagrams-music-ownership-standards/"><u>[New] Instagram's Music Ownership Standards</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-paragon-of-plot-design-in-cinemas-segmented-landscape/"><u>[New] Paragon of Plot Design in Cinema's Segmented Landscape</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pristine-teaser-trailer-trove/"><u>[New] Pristine Teaser Trailer Trove</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-innovative-10-ideas-thatll-boost-your-brand-on-igtv/"><u>[Updated] 2024 Approved Innovative 10 Ideas That'll Boost Your Brand on IGTV</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-panasonics-hx-a1-the-wearable-action-camera-revealed/"><u>[Updated] Panasonic’s HX-A1 - The Wearable Action Camera Revealed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-professional-video-finishing-touches-device-based-filters/"><u>[Updated] Professional Video Finishing Touches Device-Based Filters</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-tunepiercer-screen-capture-app-review-for-2024/"><u>[Updated] TunePiercer Screen Capture App Review for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-meeting-efficiency-using-zoom-in-your-email-routine-with-gmail/"><u>2024 Approved Maximizing Meeting Efficiency Using Zoom in Your Email Routine with Gmail</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-online-tools-for-dynamic-aspect-adjustment/"><u>2024 Approved Online Tools for Dynamic Aspect Adjustment</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/activate-windows-xp-movie-creation-toolkit/"><u>Activate Windows XP Movie Creation Toolkit</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-metas-newly-discounted-51-2gb-quest-3-headset-best-vr-savings-showcased-by-zdnet/"><u>Get Your Hands on Meta’s Newly Discounted 51 2GB Quest 3 Headset | Best VR Savings Showcased by ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratisk-downloads-av-instagram-videos-i-mp4-format/"><u>Gratisk Downloads Av Instagram Videos I MP4 Format</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-essential-guide-to-free-online-srt-translators-1-8-rankings/"><u>In 2024, Essential Guide to Free Online SRT Translators – #1-#8 Rankings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-precisely-how-to-disconnect-from-your-outdated-linkedin-account/"><u>In 2024, Precisely How To Disconnect From Your Outdated LinkedIn Account</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-shoot-cool-vids-from-scratch-with-your-mac-newcomers-guide/"><u>In 2024, Shoot Cool Vids From Scratch with Your Mac, Newcomers Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mass-effect-legendary-edition-stuck-on-boot-screen-fixes-and-solutions/"><u>Mass Effect Legendary Edition Stuck on Boot Screen - Fixes & Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premiere-pros-finest-10-text-plans/"><u>Premiere Pro's Finest 10 Text Plans</u></a></li>
 </ul></div>
 

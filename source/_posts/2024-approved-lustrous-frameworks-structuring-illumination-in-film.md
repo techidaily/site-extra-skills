@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Lustrous Frameworks  Structuring Illumination in Film\""
-date: 2024-07-31T10:26:16.744Z
-updated: 2024-08-01T10:26:16.744Z
+date: 2024-11-15T17:55:56.150Z
+updated: 2024-11-16T16:09:02.840Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -61,9 +58,6 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -72,16 +66,10 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
@@ -92,9 +80,6 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
@@ -108,8 +93,12 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -142,5 +131,26 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-integrating-music-into-unboxing-videos-a-comprehensible-manual/"><u>[New] Integrating Music Into Unboxing Videos A Comprehensible Manual</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximizing-video-quality-in-zoom-conferences/"><u>[New] Maximizing Video Quality in Zoom Conferences</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-sound-capture-top-mics-pairing-with-4k-video-equipment/"><u>[New] Prime Sound Capture Top Mics Pairing with 4K Video Equipment</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-analyzing-the-significance-of-instagrams-selfie-verification/"><u>[Updated] In 2024, Analyzing the Significance of Instagram's Selfie Verification</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unlock-the-secrets-of-stellar-snaps-and-snapchat-boomers/"><u>[Updated] In 2024, Unlock the Secrets of Stellar Snaps and Snapchat Boomers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-telegram-online-comprehensive-user-guide/"><u>[Updated] Mastering Telegram Online Comprehensive User Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimizing-playback-speed-a-guide-for-spotify-users/"><u>[Updated] Optimizing Playback Speed A Guide for Spotify Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-rhythm-discoverers-toolkit-all-free-and-online/"><u>[Updated] Rhythm Discoverer’s Toolkit – All FREE & Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pushing-boundaries-in-post-production-with-ps-3d-luts/"><u>2024 Approved Pushing Boundaries in Post-Production with PS 3D LUTs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/breach-overcome-restoring-your-facebook-access-for-2024/"><u>Breach Overcome Restoring Your Facebook Access for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-simplified-steps-for-photo-motion-blur-in-photoshop/"><u>In 2024, Simplified Steps for Photo Motion Blur in Photoshop</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-utilizing-picture-in-picture-feature-across-all-chrome-devices/"><u>In 2024, Utilizing Picture In Picture Feature Across All Chrome Devices</u></a></li>
+<li><a href="https://facebook.techidaily.com/interactive-timelines-for-greater-user-retention-on-fb/"><u>Interactive Timelines for Greater User Retention on FB</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/melodic-movies-the-art-of-making-musical-reels-for-2024/"><u>Melodic Movies The Art of Making Musical Reels for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-maximize-your-online-presence-10-best-free-video-hosting-sites/"><u>New 2024 Approved Maximize Your Online Presence 10 Best Free Video Hosting Sites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/simplify-coordination-blending-zoom-into-your-gmail-schedule-for-2024/"><u>Simplify Coordination Blending Zoom Into Your Gmail Schedule for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/stepwise-reduction-tactics-for-audio-levels-in-fl-studio/"><u>Stepwise Reduction Tactics for Audio Levels in FL Studio</u></a></li>
+</ul></div>
 
