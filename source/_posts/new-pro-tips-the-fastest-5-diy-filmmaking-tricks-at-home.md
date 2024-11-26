@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pro Tips  The Fastest 5 DIY Filmmaking Tricks at Home\""
-date: 2024-11-11T18:13:22.023Z
-updated: 2024-11-16T17:04:06.418Z
+date: 2024-11-19T18:18:59.025Z
+updated: 2024-11-25T20:40:29.814Z
 tags: 
   - screen-recording
   - ai video
@@ -32,13 +32,6 @@ You can buy it from a nearby stationery store. Ensure the cardboard is not too b
 
 ![cardboard used for diy flag](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. A Black T-shirt
 
 For the black t-shirt, you can use an old t-shirt that you don't wear anymore. You can also find these shirts at your local thrift shop.
@@ -50,13 +43,6 @@ After managing all the required things, you must wrap and secure the t-shirt aro
 ![process for making diy flag](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-3.png)
 
 With this DIY flag, you can now easily give shape and block the light while filming at home. **Warnings:** Some fabrics are not fireproof, so always keep an eye on the flag.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Final Results for the Flag Light Shaping
 
@@ -100,13 +86,6 @@ Step4 Ensure the lamp switch is off, and install the light bulb.
 
 When you turn on the lamp, the light has been shaped into a smaller light source.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Final Results for the Black Wrap or Cinewrap
 
 You can observe that the light is only at the required place, with no dispersion observed and no scattering. You can create more shapes to foil and then wrap them on the bulb for a different look.
@@ -120,6 +99,10 @@ After experimenting with light shaping and blocking hacks, we will move toward t
 A reflector is a spontaneous or specialized reflective surface that diverts the light to our subject or object. Professional filming setups usually use a large reflector to get a glowing effect on a subject or even more than two.
 
 ![light reflector used in a professional setup](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When applied to flat surfaces, the foil has a reflective surface. It makes it the best alternative to a professional reflector. To make your one, you will need
 
@@ -136,32 +119,20 @@ The next thing you should have to make a reflector is foil paper. The foil paper
 ![foil paper used for making a light reflector](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can wrap the foil paper around the cardboard as smoothly as possible to prevent too many creases. The smoother look, the more chances of a glowing effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Final Results of Using the Foil Light Reflector
 
 You can see clearly that the subject face is brighter than before the reflector usage. You can make large-size reflectors too, as per your requirement.
 
 ![results after using diy light reflector](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-12.png)
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4\. Hack. DIY LED Light Panel
 
@@ -178,10 +149,7 @@ Still, cardboard is the most helpful one. Ensure that the size of the cardboard 
 ![led strips used for making a light panel](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 First, you need to cut the cardboard into the required size. The single LED strip does not provide broad light when spread as a straight line. So, we need cardboard to create a broader light source.
@@ -196,14 +164,11 @@ See how clear the subject's face looks after using an LED panel. Of course, you 
 
 ![results after using diy led light panel](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-16.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As you have noticed, the light is too bright on the subject. However, you can diffuse the light by following the next hack!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5\. Hack. DIY Light Diffuser
 
@@ -224,6 +189,10 @@ It would be best if you had a transparent desk mat, which you can find at any ho
 First, cover the LED light panel as made in the above hack with a desk mat to make diffuse light and soften the light. After covering it, take it near the subject for shooting the video or film of an upcoming project.
 
 ![process of making diy light diffuser](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-19.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Final Results of Using the Light Diffuser
 
@@ -251,6 +220,10 @@ You can observe that the light is only at the required place, with no dispersion
 
 ![results after using cinewrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After experimenting with light shaping and blocking hacks, we will move toward the light reflector hack!
 
 ## Part 3\. Hack. DIY Light Reflector
@@ -266,6 +239,10 @@ When applied to flat surfaces, the foil has a reflective surface. It makes it th
 As mentioned, you can get cardboard from a nearby stationery store. The cardboard size varies according to your requirement to make a light reflector. The reflector will perform better if the cardboard is large.
 
 ![cardboard used in making a diy light reflector](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Foil Paper
 
@@ -301,11 +278,19 @@ Fasten the LED strip on the cardboard into a spiral shape. Make sure that the ga
 
 ![attachment of led strips on cardboard](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Final Results of Using the DIY LED Light Panel
 
 See how clear the subject's face looks after using an LED panel. Of course, you can make a broader panel if you have to film a more extensive subject.
 
 ![results after using diy led light panel](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-16.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 As you have noticed, the light is too bright on the subject. However, you can diffuse the light by following the next hack!
 
@@ -328,13 +313,6 @@ It would be best if you had a transparent desk mat, which you can find at any ho
 First, cover the LED light panel as made in the above hack with a desk mat to make diffuse light and soften the light. After covering it, take it near the subject for shooting the video or film of an upcoming project.
 
 ![process of making diy light diffuser](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-19.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Final Results of Using the Light Diffuser
 
@@ -372,20 +350,18 @@ Experiment with other props at home and see which hack evolved from them. You ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-inside-the-dji-phantom-3-pro-advantages/"><u>[New] Inside the DJI Phantom 3 Pro Advantages</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-protocols-and-performance-macos-meets-mixer/"><u>[New] Protocols and Performance MacOS Meets Mixer</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-gold-medal-glory-olympic-speed-skating-short-track-highlights/"><u>2024 Approved Gold Medal Glory Olympic Speed Skating Short Track Highlights</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-journey-through-updates-unveiling-lg-bp550-new/"><u>2024 Approved Journey Through Updates Unveiling LG BP550 New</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-safeguarding-sound-quality-while-speeding-up-tracks/"><u>2024 Approved Safeguarding Sound Quality While Speeding Up Tracks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-sci-fis-new-frontiers-a-compilation-of-incredible-metaverse-movie-experiences/"><u>2024 Approved Sci-Fi's New Frontiers A Compilation of Incredible Metaverse Movie Experiences</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cookiebot-your-key-to-advanced-website-personalization-and-targeting/"><u>Cookiebot: Your Key to Advanced Website Personalization and Targeting</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/delicious-discoveries-whos-making-eats-go-viral-in-2024/"><u>Delicious Discoveries Who's Making Eats Go Viral, In 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-pro-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 Pro To Android? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-there-a-current-downtime-for-aol-email-or-are-connection-troubles-personal/"><u>Is There a Current Downtime for AOL Email, or Are Connection Troubles Personal?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/live-radio-transmissions-recorded-with-ease-an-experts-guide-for-2024/"><u>Live Radio Transmissions Recorded with Ease An Expert's Guide for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/should-i-replace-my-outdated-phone-or-pod-battery/"><u>Should I Replace My Outdated Phone or Pod Battery?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/shutter-excellence-roundup-top-6-incredible-4k-dslrs-for-2024/"><u>Shutter Excellence Roundup Top 6 Incredible 4K DSLRs for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/step-by-step-guide-to-perfectly-timed-video-loops-on-ig/"><u>Step-by-Step Guide to Perfectly Timed Video Loops on IG</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-11-adding-movescopies-context-menu-commands/"><u>Win 11: Adding Moves/Copies Context Menu Commands</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-20-youtube-time-savers-that-will-skyrocket-engagement-rates/"><u>[New] 2024 Approved 20 YouTube Time Savers That Will Skyrocket Engagement Rates</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-metaverse-meets-the-multiverse-a-detailed-comparison/"><u>[New] Metaverse Meets the Multiverse A Detailed Comparison</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-photo-addition-to-instagram/"><u>[New] Step-by-Step Photo Addition to Instagram</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tep-by-step-strategies-how-to-create-stellar-youtube-shorts/"><u>[New] Step-by-Step Strategies How to Create Stellar YouTube Shorts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-exploring-televised-facebook-live-4-strategies/"><u>[Updated] Exploring Televised Facebook Live 4 Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-ready-for-victory-try-this-top-ranked-free-voice-alteration-software-now/"><u>[Updated] Ready for Victory? Try This Top-Ranked Free Voice Alteration Software Now</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-13-best-ways-to-make-money-on-reddit-no-experience-needed/"><u>2024 Approved 13 Best Ways to Make Money on Reddit - No Experience Needed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-downloading-realteks-updated-drivers-for-your-windows-10-pc/"><u>Easy Installation Guide: Downloading RealTek's Updated Drivers for Your Windows 10 PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevating-educational-experience-with-faster-video-playbacks/"><u>Elevating Educational Experience with Faster Video Playbacks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-back-to-gaming-resolving-steam-remote-play-problems-today/"><u>Get Back to Gaming: Resolving Steam Remote Play Problems Today</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/snapshots-of-progress-windows-10s-new-features-for-2024/"><u>Snapshots of Progress Windows 10'S New Features for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-samsung-galaxy-a51-5g-phone-great-performance-meets-affordability/"><u>Ultimate Guide to the Samsung Galaxy A51 5G Phone – Great Performance Meets Affordability</u></a></li>
 </ul></div>
 

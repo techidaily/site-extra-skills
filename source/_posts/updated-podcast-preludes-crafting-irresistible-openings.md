@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Podcast Preludes  Crafting Irresistible Openings\""
-date: 2024-11-09T17:56:41.786Z
-updated: 2024-11-16T16:57:20.920Z
+date: 2024-11-24T23:16:44.361Z
+updated: 2024-11-25T16:31:54.672Z
 tags: 
   - screen-recording
   - ai video
@@ -62,18 +62,15 @@ We will analyze the intros of the top three podcasts to find out the most import
 
 ![this american life](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 According to the US rankings, "This American Life" is the fourth most popular podcast and focuses on people's real-life stories. This podcast has around 2.2 million listeners. Ira Glass hosts the show, and episodes are released weekly. Ira introduces a new character in each episode and inquires about their background.
 
 ### [My favorite murder](https://www.exactlyrightmedia.com/myfavoritemurder)
 
 ![my favorite murder](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 My favorite murder is the fifth most popular podcast according to the US charts. Karen Kilgariff and Georgia Hardstark host this show and discuss the true crime stories narrated by their friends or family. It has also been nominated for the best podcast award and has about 30 million listeners.
 
@@ -82,10 +79,7 @@ My favorite murder is the fifth most popular podcast according to the US charts.
 ![stuff you should know](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 "Stuff You Should Know" is the sixth most popular podcast, and it is hosted by Josh Clark and Charles W, who usually talk about current customs and traditions. This podcast is very informative and addresses concerns that people face daily. Now let's analyze the intros of the podcasts as mentioned above.
@@ -103,6 +97,10 @@ My favorite murder is the fifth most popular podcast according to the US charts.
 _Table 1: shows the analysis of intros of the top 3 podcasts discussed above_
 
 Now that we've established which elements are more prominent in the intros of some of the most popular podcasts. Let's review the essentials you should keep in mind when designing your introduction.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. How to make a good podcast intro?
 
@@ -151,9 +149,17 @@ Let's look at the samples of some of the most popular podcast intros.
 
 Once you've figured out how a good podcast intro should be, the last step would be to glance at the intros of the following popular podcasts to eliminate any further ambiguity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Crushed - A Comedy Podcast
 
 ![crushed](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Crushed is one of the top comedy podcasts in which people narrate their one-sided love stories to the host. First, let's look at its intro.
 
@@ -177,6 +183,10 @@ Hello! and welcome to —------------ (podcast name); the podcast is about the �
 
 ![global news podcast](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Global News Podcast is one of the top news podcasts by BBC World Service, and its intro is as follows.
 
 **Global News Podcast's Intro**
@@ -194,13 +204,6 @@ Hello! This is the —----- news podcast from the —--------- (introduce the ch
 ### [The Joe Rogan Experience](https://podcast.app/the-joe-rogan-experience-p15/) \- A culture and society podcast
 
 ![the joe rogan experience](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 It is one of the top culture and society podcasts, with the following intro.
 
@@ -272,6 +275,10 @@ _Table 1: shows the analysis of intros of the top 3 podcasts discussed above_
 
 Now that we've established which elements are more prominent in the intros of some of the most popular podcasts. Let's review the essentials you should keep in mind when designing your introduction.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4\. How to make a good podcast intro?
 
 If you want the audience to be unable to resist your podcast, design your podcast intro with the following tips in mind.
@@ -307,13 +314,6 @@ A call to action is also effective in establishing familiarity with the listener
 
 For instance, in the intro of "This American Life," Ira Glass uses the phrase, "If you haven't tried the previous episodes yet, you should." reminding the new audience to check the previous episodes as well.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is the right time to introduce yourself and your guests?
 
 Logically it would help if you introduced yourself to the new audience right after introducing the name of your podcast. Introducing yourself is not challenging, but you can use guest introductions to create a buzz that will help you gain your listeners' attention.
@@ -325,13 +325,6 @@ Let's look at the samples of some of the most popular podcast intros.
 ## Part 5\. Effective podcast introduction examples
 
 Once you've figured out how a good podcast intro should be, the last step would be to glance at the intros of the following popular podcasts to eliminate any further ambiguity.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Crushed - A Comedy Podcast
 
@@ -359,6 +352,10 @@ Hello! and welcome to —------------ (podcast name); the podcast is about the �
 
 ![global news podcast](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Global News Podcast is one of the top news podcasts by BBC World Service, and its intro is as follows.
 
 **Global News Podcast's Intro**
@@ -374,10 +371,7 @@ Once again, the introduction is concise and hooks listeners in just 17 seconds. 
 Hello! This is the —----- news podcast from the —--------- (introduce the channel). With reports and analyses shown across the world and the latest news —------------ (introduce the purpose of the broadcast), —------- podcasts are supported by —-----------------. (the name of your sponsor, if any)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [The Joe Rogan Experience](https://podcast.app/the-joe-rogan-experience-p15/) \- A culture and society podcast
@@ -402,19 +396,6 @@ Hey! What's going on, ladies and gentlemen? This podcast is a —---------------
 
 ![welcome to your fantasy](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Welcome to Your Fantasy is one of the most popular crime show podcasts.
 
 **Welcome to Your Fantasy's Intro**
@@ -432,6 +413,10 @@ It is a classic 2-minute intro that starts with a disclaimer and then the recap 
 The following program contains adult content, violence, and strong language. The listener's discretion is advised. Previously on (the podcast name) —----------------- (recap of the last episode). So in this final episode, we are going to hear from —--------- (guests of the episode).
 
 Despite operating in plain sight for almost —-----, it took a twist of fate for his reign of terror to finally come to an end. And yes, you guessed it, right, ladies and gentlemen, today we will talk about the infamous —------.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Football Weekly](https://www.theguardian.com/football/series/footballweekly)\- A sports podcast
 
@@ -452,13 +437,6 @@ The intro tells the platform, then what will be discussed in the episode, and en
 This is —-------(the podcast's name). Hello and welcome to the —----------; more votes are needed for—-------, this time losing at the bottom of the league (a tagline related to any of the sports teams to hook the audience)
 
 —-------- is at the panel today with us (introduce the guest of the episode). Yesterday's game of —--- was a bummer, and we'll talk about it later in the episode.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Final words
 
@@ -494,19 +472,18 @@ And hopefully, after going over the crux and tips mentioned above, you will be a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-masterful-outros-and-descriptions-a-guide-to-excellence/"><u>[New] In 2024, Masterful Outros and Descriptions A Guide to Excellence</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-pip-navigating-netflixs-floating-screen-functionality/"><u>[New] Mastering PIP Navigating Netflix's Floating Screen Functionality</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-scripting-for-success-filmmakers-secrets/"><u>[New] Scripting for Success Filmmaker's Secrets</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-world-of-avis-to-gifs-with-help-from-filmora/"><u>[Updated] Navigating the World of AVIs to GIFs with Help From Filmora</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-on-demand-video-text-transformers-prime-selections/"><u>[Updated] On-Demand Video-Text Transformers Prime Selections</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-simplicity-in-pc-audio-capture-choose-x-recorder/"><u>[Updated] Simplicity in Pc Audio Capture Choose X-Recorder</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-how-to-listen-to-podcasts-on-your-iphone/"><u>2024 Approved How To Listen to Podcasts on Your iPhone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-location-love-your-ultimate-poi-assistant-for-timely-tips-and-tricks/"><u>2024 Approved Location Love Your Ultimate POI Assistant for Timely Tips and Tricks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-nikon-j5-unleashed-embracing-4k-camera-technology/"><u>2024 Approved Nikon J5 Unleashed Embracing 4K Camera Technology</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-systems-how-to-restore-audio-functionality-on-your-pc/"><u>Fixing Silent Systems: How To Restore Audio Functionality On Your PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/next-gen-title-genius-for-online-content-creators-for-2024/"><u>Next-Gen Title Genius for Online Content Creators for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721479643045-overcome-iphone-display-challenges-with-easy-tips-for-rotating-between-modes/"><u>Overcome iPhone Display Challenges with Easy Tips for Rotating Between Modes</u></a></li>
-<li><a href="https://windows11.techidaily.com/switch-touch-typing-onoff-with-this-windows-tutorial/"><u>Switch Touch Typing On/Off with This Windows Tutorial</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-guide-top-8k-tvs-and-in-depth-comparisons/"><u>Ultimate Guide Top 8K TVs & In-Depth Comparisons</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-tag-with-your-favorite-show-podcast-on-ig/"><u>[New] Tag with Your Favorite Show Podcast on IG</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-steadicams-for-professional-uav-filming/"><u>[Updated] Leading Steadicams for Professional UAV Filming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-virtual-worlds-compreenas-top-8-metaverse-headgear/"><u>[Updated] Mastering Virtual Worlds Compreenas Top 8 Metaverse Headgear</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-next-gen-stabilizing-tools-for-youtube-videographers/"><u>[Updated] Next-Gen Stabilizing Tools for YouTube Videographers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-swap-periscopes-lens-innovative-video-platforms-for-smartphones-for-2024/"><u>[Updated] Swap Periscope's Lens Innovative Video Platforms for Smartphones for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-transform-your-tiktok-narratives-incor-written-by-assistant-ai/"><u>[Updated] Transform Your TikTok Narratives Incor Written by Assistant AI</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-one-voice-many-listeners-a-solo-podcast-blueprint/"><u>2024 Approved One Voice, Many Listeners A Solo Podcast Blueprint</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/from-camera-to-feed-instagram-video-upload-on-desktop/"><u>From Camera to Feed Instagram Video Upload on Desktop</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-chaos-to-calm-quick-edits-for-your-overwhelming-tiktok-drafters/"><u>In 2024, From Chaos to Calm Quick Edits for Your Overwhelming TikTok Drafters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-spotify-promotion-a-comprehensive-guide/"><u>In 2024, Mastering Spotify Promotion A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-cash-on-reddit-here-are-13-ways-for-new-users/"><u>In 2024, Quick Cash on Reddit? Here Are 13 Ways for New Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-share-premium-gopro-footage-on-instagram-with-excellent-quality/"><u>Steps to Share Premium GoPro Footage on Instagram with Excellent Quality</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warno-software-stability-overcoming-continuous-pc-breakdowns-and-errors/"><u>WARNO Software Stability: Overcoming Continuous PC Breakdowns and Errors</u></a></li>
 </ul></div>
 

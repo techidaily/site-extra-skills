@@ -1,7 +1,7 @@
 ---
 title: Score a Steal with MSI Aegis R2 - Top Specs and Price Cut! Get RTX 4070 & Intel's Latest I7 at an Unbeatable Price Below $1,600.
-date: 2024-11-15T18:01:04.780Z
-updated: 2024-11-16T16:02:41.126Z
+date: 2024-11-20T16:59:38.564Z
+updated: 2024-11-26T02:56:51.318Z
 tags:
   - desktop
 categories:
@@ -41,6 +41,10 @@ These are the specifications of the two Asus ROG NUC models:
 
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -64,27 +68,24 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-photobook-to-film-the-guide-for-digitizing-classic-photographs/"><u>[New] Photobook to Film The Guide for Digitizing Classic Photographs</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-quick-guide-to-softening-youtube-videos-surroundings/"><u>[New] Quick Guide to Softening YouTube Videos' Surroundings</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-reigning-reddit-stars-10-all-time-favorites/"><u>[New] Reigning Reddit Stars 10 All-Time Favorites</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-androids-favorite-is-pickup-superior-to-other-photo-editors/"><u>[Updated] Android’s Favorite Is PickUp Superior to Other Photo Editors?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-exposing-sham-numbers-the-danger-of-fabricated-youtube-views/"><u>[Updated] In 2024, Exposing Sham Numbers The Danger of Fabricated YouTube Views</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-security-accessories-for-webcams/"><u>[Updated] In 2024, Top Security Accessories for Webcams</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-obsessed-with-broadcasting-choose-between-xsplit-and-obs/"><u>[Updated] Obsessed with Broadcasting? Choose Between XSplit & OBS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unmatched-subtitle-expertise-top-10-leaders-in-video-caption-manipulation/"><u>[Updated] Unmatched Subtitle Expertise – Top 10 Leaders in Video Caption Manipulation</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-best-dramatic-writing-site/"><u>2024 Approved Best Dramatic Writing Site</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-version-of-amds-gpio-driver-today/"><u>Download the Latest Version of AMD's GPIO Driver Today!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-no-credit-calls-unlocking-free-tools-for-iphone-photo-blurring/"><u>In 2024, No Credit Calls Unlocking Free Tools for iPhone Photo Blurring</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-metaverse-comedy-crafting-memetic-gold-for-2024/"><u>Mastering Metaverse Comedy Crafting Memetic Gold for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/projected-expenses-for-bringing-songs-to-life-on-screen-for-2024/"><u>Projected Expenses for Bringing Songs to Life on Screen for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/stealthy-strategies-for-anonymous-instagram-broadcasts-for-2024/"><u>Stealthy Strategies for Anonymous Instagram Broadcasts for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/swiftly-uncover-unfollowers-on-instagram/"><u>Swiftly Uncover Unfollowers on Instagram</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-soundscapes-for-social-scenarios-on-facebook/"><u>[New] 2024 Approved Soundscapes for Social Scenarios on Facebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-recording-audio-for-impactful-ppts-and-presentations/"><u>[New] Recording Audio For Impactful PPTs & Presentations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-scrutinizing-vrs-enchantment-and-challenges-ahead/"><u>[Updated] Scrutinizing VR's Enchantment and Challenges Ahead</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-gaming-on-record-the-pros-perspective/"><u>2024 Approved Gaming on Record The Pro's Perspective</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-kinemasters-guide-to-fluid-film-segments/"><u>2024 Approved Kinemaster's Guide to Fluid Film Segments</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lapscape-dreaming-choosing-the-best-websites-for-aesthetic-backgrounds/"><u>2024 Approved Lapscape Dreaming Choosing the Best Websites for Aesthetic Backgrounds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photo-clips-melody-layers-in-new-videos/"><u>2024 Approved Photo Clips, Melody Layers in New Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-preeminence-in-premiere-pro-mastering-fullscreen-vistas/"><u>2024 Approved Preeminence in Premiere Pro Mastering Fullscreen Vistas</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-realme-12-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Realme 12 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/comment-recuperer-un-document-microsoft-word-perdu-sous-windows-guide-pratique/"><u>Comment Récupérer Un Document Microsoft Word Perdu Sous Windows - Guide Pratique</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-10-update-issue-guide-to-resolve-error-code-0x800705b4/"><u>Fixing the Windows 10 Update Issue: Guide to Resolve Error Code 0X800705b4</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-quickly-resolve-steamvr-malfunctions-and-enjoy-seamless-vr/"><u>How to Quickly Resolve SteamVR Malfunctions & Enjoy Seamless VR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photosweeperxtreme-ultimate-bg-eraser-suite/"><u>In 2024, PhotoSweeperXtreme Ultimate BG Eraser Suite</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pinnacle-picture-enhancer-resolution-rise/"><u>In 2024, Pinnacle Picture Enhancer Resolution Rise</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/making-the-right-pick-a-detailed-comparison-of-apples-m3-and-m2-macbook-air-find-out-which-one-suits-you-best/"><u>Making The Right Pick: A Detailed Comparison of Apple's M3 & M2 MacBook Air - Find Out Which One Suits You Best!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-aerial-companions-for-gopro-hd-adventures-for-2024/"><u>Premium Aerial Companions for GoPro HD Adventures for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-when-your-usb-port-sharing-fails/"><u>Step-by-Step Solutions When Your USB Port Sharing Fails</u></a></li>
+<li><a href="https://some-skills.techidaily.com/subtlety-in-chords-pc-and-mac-music-settings-for-2024/"><u>Subtlety in Chords PC & Mac Music Settings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-unnoticed-windows-11-advantages-for-savvy-users/"><u>Top Unnoticed Windows 11 Advantages for Savvy Users</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

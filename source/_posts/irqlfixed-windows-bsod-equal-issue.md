@@ -1,7 +1,7 @@
 ---
 title: "[IRQL_FIXED] Windows BSOD - Equal Issue"
-date: 2024-11-15T17:48:37.547Z
-updated: 2024-11-16T18:00:56.579Z
+date: 2024-11-21T03:32:40.710Z
+updated: 2024-11-25T17:48:09.770Z
 tags:
   - win11
   - win10
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 2: Uninstall problem drivers to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
 
  The problem can be caused by faulty drivers. To fix the problem, go to**Device Manager** and find the faulty drivers, then uninstall the drivers. If a driver is having problems, you’ll see a yellow mark next to its device (see the screenshot shown below).
@@ -63,10 +67,7 @@ Following steps are for your reference on how to uninstall a driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13fde1d72b1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In Device Manager, locate the faulty driver. If the driver is having problems, you’ll see a yellow mark next to the device name. Then right-click on the device name (For example, uninstall graphics card driver.) and select**Uninstall** .
@@ -76,13 +77,6 @@ Following steps are for your reference on how to uninstall a driver:
  4) If prompted to confirm  the uninstall, check the box next to “Delete the driver software for this device.” then click the **OK**  button. If you don’t see this box, just click**OK** to uninstall the driver.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13feb35a43d.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Restart your PC and check to see if the blue screen is gone  .  
 
@@ -98,11 +92,19 @@ Following steps are for your reference on how to uninstall a driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13ffd6b0139.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click Next then you may see the following screen. Select a restore point created before the error occurred. You can tell from the created**Date and Time** . Click **Next** to continue and follow the on-screen instructions to finish the restore.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a14004645d52.png)
 
 4) Reboot your PC and check to see if the blue screen is gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution** 4: Reset or reinstall Windows
 
@@ -115,23 +117,13 @@ Following steps are for your reference on how to uninstall a driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -159,18 +151,18 @@ Following steps are for your reference on how to uninstall a driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-panorama-pixels-cutting-edge-photo-assembler/"><u>[New] Panorama Pixels Cutting-Edge Photo Assembler</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-spectacularly-in-3d-apt-selection-of-top-decks/"><u>[New] Spectacularly in 3D Apt Selection of Top Decks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-explore-our-12-tycoon-classics-for-engrossing-experiences/"><u>[Updated] In 2024, Explore Our #12 Tycoon Classics for Engrossing Experiences</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-approach-for-verifying-your-age-on-tiktok/"><u>[Updated] Step-by-Step Approach for Verifying Your Age on TikTok</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-infinix-note-30i-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Infinix Note 30i.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-matches-best-8-stability-systems-for-4k-cameras/"><u>Elite Matches Best 8 Stability Systems for 4K Cameras</u></a></li>
-<li><a href="https://win-community.techidaily.com/enhancing-your-pc-experience-for-free-discover-the-benefits-of-using-powertoys-fancyzones-on-windows-systems/"><u>Enhancing Your PC Experience for Free: Discover the Benefits of Using PowerToys' FancyZones on Windows Systems</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-take-control-of-your-tiktok-videos-learn-numeric-editing-techniques/"><u>In 2024, Take Control of Your TikTok Videos Learn Numeric Editing Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/iphone-tips-bringing-out-the-best-with-hdr-photography-for-2024/"><u>IPhone Tips Bringing Out the Best with HDR Photography for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/live-action-revealed-an-in-depth-review-of-polaroids-new-camera-for-2024/"><u>Live-Action Revealed An In-Depth Review of Polaroid's New Camera for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/perfect-your-edits-without-compromise-mastering-high-fidelity-video-cropping-techniques/"><u>Perfect Your Edits Without Compromise: Mastering High-Fidelity Video Cropping Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tactics-for-securing-royalty-free-creative-pieces-for-2024/"><u>Tactics for Securing Royalty-Free Creative Pieces for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-best-communication-equipment-for-your-gaming-setup-revealed/"><u>The Best Communication Equipment for Your Gaming Setup Revealed</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-how-to-blend-in-as-an-audience-member-on-tiktok/"><u>[Updated] 2024 Approved How to Blend in as an Audience Member on TikTok</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-periscope-techniques-for-effective-livestreams/"><u>[Updated] 2024 Approved Periscope Techniques for Effective Livestreams</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inshot-tips-import-music-into-videos-effortlessly/"><u>[Updated] InShot Tips Import Music Into Videos Effortlessly</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/from-struggle-to-success-a-collection-of-best-practices-for-fb-profiles/"><u>From Struggle to Success A Collection of Best Practices for FB Profiles</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-s21-fe-5g-2023-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy S21 FE 5G (2023) FRP Locks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211202540-9781803414379-glowing-deeper/"><u>Glowing Deeper | Free Book</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-samsung-galaxy-z-flip-5-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Samsung Galaxy Z Flip 5 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-background-removal-in-images-using-canva/"><u>In 2024, Mastering Background Removal in Images Using Canva</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-shadow-play-with-iphone-pro-photography-tips/"><u>In 2024, Shadow Play with iPhone Pro Photography Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lush-backgrounds-a-compendium-of-free-screen-free-downloadables-for-2024/"><u>Lush Backgrounds A Compendium of Free Screen-Free Downloadables for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/managing-excessive-tiktoks-mastering-edits-and-deletions-for-2024/"><u>Managing Excessive TikToks Mastering Edits & Deletions for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/scrutinizing-the-premier-collection-of-affordable-lut-files-for-2024/"><u>Scrutinizing the Premier Collection of Affordable LUT Files for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sculpting-success-in-visual-communications-for-2024/"><u>Sculpting Success in Visual Communications for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring Performance & Value in the Corsair One I500 Tiny Gaming Rig
-date: 2024-11-14T16:32:46.735Z
-updated: 2024-11-16T17:39:27.458Z
+date: 2024-11-18T17:56:20.333Z
+updated: 2024-11-25T22:53:58.749Z
 tags:
   - desktop
 categories:
@@ -40,6 +40,10 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,9 +56,17 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Miniproca)
 
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Miniproca)
 
@@ -77,23 +89,19 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-latest-vr-gaming-engines-review-2023-edition/"><u>[New] Latest VR Gaming Engines Review - 2023 Edition</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-8-best-screen-capture-tools-for-linux/"><u>[Updated] 8 Best Screen Capture Tools for Linux</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-three-techniques-to-preserve-discord-live-streams-for-2024/"><u>[Updated] Mastering Three Techniques to Preserve Discord Live Streams for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-revolutionary-6-sustainable-minecraft-homes-for-2024/"><u>[Updated] Revolutionary 6 Sustainable Minecraft Homes for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-revolutionizing-image-quality-with-advanced-exposure-controls/"><u>[Updated] Revolutionizing Image Quality with Advanced Exposure Controls</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-a25-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy A25 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/boost-business-growth-dominate-the-market-by-luring-away-rivals-customers-with-stealth-marketing/"><u>Boost Business Growth: Dominate the Market by Luring Away Rivals' Customers with Stealth Marketing!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/hesitate-before-getting-iphone-16-explore-if-apples-ingenuity-measures-up/"><u>Hesitate Before Getting iPhone 16? Explore if Apple’s Ingenuity Measures Up!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/lumix-dc-fz80-multipurpose-powerhouse/"><u>Lumix DC-FZ80: Multipurpose Powerhouse</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/outstanding-20-free-no-right-pubg-montages-for-2024/"><u>Outstanding 20 Free, No-Right PUBG Montages for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/reel-it-in-top-5-action-cameras-for-anglers-for-2024/"><u>Reel It In Top 5 Action Cameras for Anglers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-strategizing-visibility-for-podcasts-through-design/"><u>[New] 2024 Approved Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimized-video-transformation-on-macios-the-8-list/"><u>[New] Optimized Video Transformation on Mac/iOS The #8 List</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-ultimate-highlight-hits-ios-and-android-instagram-covers-apps-for-2024/"><u>[New] Ultimate Highlight Hits IOS & Android Instagram Covers Apps for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-invent-iconic-images-through-giphy/"><u>[Updated] Invent Iconic Images Through Giphy</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-peak-performance-frames-per-second-slow-motion/"><u>[Updated] Peak Performance Frames Per Second Slow Motion</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-summit-build-lab-examination/"><u>[Updated] Summit Build Lab Examination</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lowering-sound-gradually-a-logic-pro-method/"><u>2024 Approved Lowering Sound Gradually A Logic Pro Method</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-remote-ratio-reformation-online-calculation/"><u>2024 Approved Remote Ratio Reformation Online Calculation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-picture-perfection-the-ultimate-iosandroid-covers-app/"><u>In 2024, Picture Perfection The Ultimate iOS/Android Covers App</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-streamlining-your-youtube-views-a-guide-to-blocking-advertisements/"><u>In 2024, Streamlining Your YouTube Views A Guide to Blocking Advertisements</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-the-apple-m3-macbook-air-the-revolutionary-budget-friendly-ai-device-you-cant-miss-review-by-zdnet/"><u>Introducing the Apple M3 MacBook Air: The Revolutionary, Budget-Friendly AI Device You Can't Miss | Review by ZDNET</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategies-to-ensure-iphone-camera-focus-for-2024/"><u>Strategies to Ensure iPhone Camera Focus for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-poco-c51-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Poco C51 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/upgrading-made-easy-navigating-to-windows-11-success/"><u>Upgrading Made Easy Navigating to Windows 11 Success</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

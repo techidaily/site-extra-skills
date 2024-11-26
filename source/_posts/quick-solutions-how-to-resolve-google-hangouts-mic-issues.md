@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: How to Resolve 'Google Hangouts Mic' Issues"
-date: 2024-11-13T17:18:21.781Z
-updated: 2024-11-16T17:25:50.741Z
+date: 2024-11-24T00:42:50.982Z
+updated: 2024-11-26T04:15:17.026Z
 tags:
   - win11
   - win10
@@ -25,51 +25,43 @@ Before you try the solutions below, please check these several things as it can 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17b93b12398.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click on it to turn it to ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17b9647cefb.png) . If you make sure your microphone is connect properly to your computer and it’s turned on correctly, but your microphone still doesn’t work, try the following methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Restart your computer
 
 Sometimes, a simple restart can solve a lot computer woes. When you find your microphone stops working on Hangouts, you can also give the simple restart a shot. 1) Restart your computer from the Start menu. 2) Call the person on Hangouts again to see if he can hear you.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Update your microphone and other related driver
 
 Your microphone not working issue can be probably caused by an old, corrupted or missing driver. Besides, if your microphone is connected with a USB cable, the USB controller driver also takes an effect on your microphone function. So you can update your microphone driver and other related, like USB controller driver, sound card driver, to try to solve the problem. To update your device driver, you can go to its manufacturer’s website to download the latest driver and install the new driver on your computer or, if you’re not confident with playing around with drivers manually, let **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** help you do it automatically. Driver Easy will automatically recognize your system and find the correct drivers for it. The drivers supplied by Driver Easy are all from the official manufacturer’s website, so you can totally trust it. 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy. 2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1672bcbc0a7.jpg)3) If you try the Free version, click **Update** next to any flagged driver to automatically download and install the correct version of this driver. Or if you use the Pro version, click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system.(and you get full support and a 30-day money back guarantee)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17c23a6c56a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer and call the person on Hangouts again to see if he can hear you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Close other programs those might use your microphone
 
  If there are some other programs running on your computer when you’re on Google Hangouts, the other programs might be using your microphone, too. As a result, your microphone doesn’t function on Hangouts. So, please stop all the other programs that might use your microphone, then check to see if the person can hear you on Hangouts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How if you can’t hear other people speaking?
 
@@ -92,18 +84,24 @@ If you can’t hear the other person on Hangouts call, ask the person to trouble
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-bumper-buddies-bonanza-for-youths/"><u>[Updated] Bumper Buddies Bonanza for Youths</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-channel-hit-the-10000-view-mark-fast/"><u>[Updated] Elevate Your Channel Hit the 10,000 View Mark Fast!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-next-gen-cinema-a-virtual-leap-forward/"><u>2024 Approved Next-Gen Cinema A Virtual Leap Forward</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-practices-for-blending-b-roll-into-main-clips/"><u>2024 Approved Optimal Practices for Blending B-Roll Into Main Clips</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/an-easy-to-follow-guide-to-applying-cc-license-types-for-2024/"><u>An Easy-to-Follow Guide to Applying CC License Types for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/best-free-premiere-pro-templates-2023-for-2024/"><u>Best Free Premiere Pro Templates 2023 for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-top-family-friendly-films-streaming-on-amazon-prime-video-in-july-2024/"><u>Discover the Top Family-Friendly Films Streaming on Amazon Prime Video in July 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/explore-infinite-artistic-possibilities-with-top-10-apps-for-2024/"><u>Explore Infinite Artistic Possibilities with Top 10 Apps for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-is-generative-ai-emerging-as-the-next-frontier-in-spreading-misinformation/"><u>How Is Generative AI Emerging as the Next Frontier in Spreading Misinformation?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-a78-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo A78 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/mastering-typing-ease-with-the-microsoft-sculpt-keyboard-best-features-and-costs-unveiled/"><u>Mastering Typing Ease with the Microsoft Sculpt Keyboard – Best Features and Costs Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sony-bdp-s3700-review-latest-update-summary-for-2024/"><u>Sony BDP-S3700 Review Latest Update Summary for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-k11-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo K11 5G FRP Bypass</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-10-indispensable-fcp-enhancing-plugins/"><u>[New] 2024 Approved 10 Indispensable FCP-Enhancing Plugins</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-multimedia-slides-with-speech-recordings-powerpoint/"><u>[New] Mastering Multimedia Slides with Speech Recordings (PowerPoint)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-stabilized-mobile-shooting-with-precision-mounts/"><u>[New] Stabilized Mobile Shooting with Precision Mounts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-enhancing-twitter-posts-via-facebook-connection/"><u>[Updated] 2024 Approved Enhancing Twitter Posts via Facebook Connection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-restrict-viewership-of-your-youtube-content/"><u>[Updated] 2024 Approved How to Restrict Viewership of Your YouTube Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-decoding-ig-analytics-mastering-the-art-of-social-media-insights/"><u>[Updated] Decoding IG Analytics Mastering the Art of Social Media Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-masterclass-comprehensive-overview-of-dji-phantom-4/"><u>[Updated] Masterclass Comprehensive Overview of DJI Phantom 4</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-mastering-the-art-with-tiktoks-symbolic-expressions-for-2024/"><u>[Updated] Mastering the Art with TikTok's Symbolic Expressions for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterful-8-tools-for-flawless-sub-and-srt-conversion/"><u>2024 Approved Masterful 8 Tools for Flawless Sub and SRT Conversion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-cloud-data-costs-comparison-and-best-price-paths/"><u>2024 Approved Navigating Cloud Data Costs Comparison & Best Price Paths</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-no-cost-creative-corner-finding-the-finest-tiktok-backgrounds/"><u>2024 Approved No-Cost Creative Corner Finding the Finest TikTok Backgrounds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pinnacle-of-plot-construction-the-worlds-best-8-academies/"><u>2024 Approved Pinnacle of Plot Construction – The World's Best 8 Academies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-pcs-potential-to-handle-intel-driver-setup/"><u>Boost PC's Potential to Handle Intel Driver Setup</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/diagnosing-and-resolving-connectivity-issues-with-amazon-prime-video-for-a-seamless-streaming-experience/"><u>Diagnosing and Resolving Connectivity Issues with Amazon Prime Video for a Seamless Streaming Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-samsung-galaxy-m54-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Samsung Galaxy M54 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-your-video-with-story-remix-and-windows-photos/"><u>In 2024, Perfecting Your Video with Story Remix & Windows Photos</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-revolutionize-your-job-search-top-video-resume-makers-and-free-templates/"><u>New Revolutionize Your Job Search Top Video Resume Makers and Free Templates</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-your-images-lightrooms-favorite-luts-for-2024/"><u>Perfecting Your Images LightRoom's Favorite LUTs for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-smooth-transitions-made-easy-2-methods-for-fading-audio-in-final-cut-pro-for-2024/"><u>Updated Smooth Transitions Made Easy 2 Methods for Fading Audio in Final Cut Pro for 2024</u></a></li>
 </ul></div>
 

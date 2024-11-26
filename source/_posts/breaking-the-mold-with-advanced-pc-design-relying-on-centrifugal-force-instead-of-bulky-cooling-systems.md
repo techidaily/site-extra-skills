@@ -1,7 +1,7 @@
 ---
 title: "Breaking the Mold with Advanced PC Design: Relying on Centrifugal Force Instead of Bulky Cooling Systems"
-date: 2024-11-11T17:16:30.346Z
-updated: 2024-11-16T16:55:28.589Z
+date: 2024-11-21T01:39:45.634Z
+updated: 2024-11-25T16:43:01.854Z
 tags:
   - desktop
 categories:
@@ -30,6 +30,10 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  YouTuber RECNAS also has a minute-long YouTube video that highlights his Super Socket 7 motherboard and, subsequently, an AGP-to-PCI networking adapter. Since RECNAS wanted to repurpose this roughly late 90s-era Super Socket 7 motherboard as a[NAS](https://www.tomshardware.com/tag/nas) , he didn't want to be relegated to the slower, shared PCI bandwidth on the board.
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -60,24 +64,22 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-premium-accelerated-photo-browser-for-windows/"><u>[New] Premium Accelerated Photo Browser for Windows</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-beginners-blueprint-for-zoom-engagements/"><u>[Updated] Beginner’s Blueprint for Zoom Engagements</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-cutting-edge-ways-of-shooting-with-a-fisheye-lens-for-2024/"><u>[Updated] Cutting-Edge Ways of Shooting with a Fisheye Lens for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-ignite-attention-driving-success-in-instagram-posts/"><u>[Updated] In 2024, Ignite Attention Driving Success in Instagram Posts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mac-users-the-best-5-streaming-platforms-revealed/"><u>[Updated] Mac Users The Best 5 Streaming Platforms Revealed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-shoot-and-capture-with-tracker-tech/"><u>2024 Approved Seamless Shoot-and-Capture with Tracker Tech</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/cookiebot-fueled-insights-enhancing-your-websites-user-experience/"><u>Cookiebot-Fueled Insights: Enhancing Your Website's User Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-secrets-to-the-ultimate-5-free-pinterest-video-loader/"><u>In 2024, Secrets to the Ultimate 5-Free Pinterest Video Loader</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-5-innovative-book-tts-for-lovers-of-literature/"><u>In 2024, Unveiling 5 Innovative Book TTs for Lovers of Literature</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/peak-performance-packages-best-converters-for-srt-systems-on-macwin-for-2024/"><u>Peak Performance Packages Best Converters for SRT Systems on Mac/Win for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-process-to-install-intels-nvme-drivers-quickly-and-smoothly/"><u>Step-by-Step Process to Install Intel’s NVMe Drivers Quickly and Smoothly</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915269358-top-platforms-in-social-networking-explore-facebook-twitter-instagram-and-youtube/"><u>Top Platforms in Social Networking - Explore Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-accelerated-download-solutions-for-vimeo-files/"><u>[New] 2024 Approved Accelerated Download Solutions for Vimeo Files</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-bridging-beats-unraveling-the-secrets-of-crossfade/"><u>[New] 2024 Approved Bridging Beats Unraveling the Secrets of Crossfade</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-crafting-impactful-medical-messages-in-social-media/"><u>[New] 2024 Approved Crafting Impactful Medical Messages in Social Media</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-10-best-flvto-alternatives-youtube-converter-you-can-try/"><u>[New] In 2024, Top 10 Best Flvto Alternatives YouTube Converter You Can Try</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-free-graphic-resource-hubs-to-elevate-your-artistry/"><u>[New] Leading Free Graphic Resource Hubs to Elevate Your Artistry</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-old-masters-legacy-images-without-limits/"><u>[New] Old Masters' Legacy Images Without Limits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastery-of-microscopic-minecraft-mapping/"><u>[Updated] Mastery of Microscopic Minecraft Mapping</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-merge-easy-to-use-skype-with-advanced-zoom-features/"><u>[Updated] Merge Easy-to-Use Skype with Advanced Zoom Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-access-all-shows-seamless-apods-installation-tips/"><u>2024 Approved Access All Shows Seamless APods Installation Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-secure-storage-safeguarding-your-mov-videos-in-win-11/"><u>2024 Approved Secure Storage Safeguarding Your MOV Videos in Win 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-guide-to-infectious-internet-memes-gifs/"><u>2024 Approved Step-by-Step Guide to Infectious Internet Memes (GIFs)</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2021-how-to-fix-the-persistent-loading-screen-issue/"><u>Football Manager 2021: How to Fix the Persistent Loading Screen Issue</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-movie-sneak-peeks-ensemble/"><u>In 2024, Premier Movie Sneak Peeks Ensemble</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-professional-photography-with-canons-complimentary-luts/"><u>In 2024, Professional Photography with Canon's Complimentary LUTs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-top-5-video-and-picture-capturing-tools-for-smartphones/"><u>In 2024, Top 5 Video & Picture Capturing Tools for Smartphones</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-top-sony-vegas-replacements-for-windows-users-for-2024/"><u>New Top Sony Vegas Replacements for Windows Users for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-the-fisheye-lens-for-immersive-views-for-2024/"><u>Perfecting the Fisheye Lens for Immersive Views for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

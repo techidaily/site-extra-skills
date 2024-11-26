@@ -1,7 +1,7 @@
 ---
 title: Guide to Diagnosing and Correcting 'Unknown' Speaker Setup on Windows 11 Systems
-date: 2024-11-13T16:11:52.581Z
-updated: 2024-11-16T18:07:46.347Z
+date: 2024-11-21T20:47:12.394Z
+updated: 2024-11-25T22:44:12.930Z
 tags:
   - win11
   - win10
@@ -38,6 +38,11 @@ Read on and follow the easy-doing images below!
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
@@ -51,6 +56,10 @@ Read on and follow the easy-doing images below!
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -69,6 +78,10 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
 
@@ -76,15 +89,16 @@ Read on and follow the easy-doing images below!
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -94,13 +108,6 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
@@ -108,20 +115,14 @@ Read on and follow the easy-doing images below!
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
@@ -149,19 +150,20 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-meme-magic-perfect-10-design-tips-and-tricks/"><u>[New] Meme Magic Perfect 10 Design Tips & Tricks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-stabilized-gimbals-for-mobile-and-pro-cameras-unveiled/"><u>[Updated] Best Stabilized Gimbals for Mobile and Pro Cameras Unveiled</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-ideal-8-visuals-to-elevate-your-mbp-aesthetics/"><u>[Updated] In 2024, Ideal 8 Visuals to Elevate Your MBP Aesthetics</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-instagram-stories-mastering-the-art-of-time-manipulation-for-2024/"><u>[Updated] Instagram Stories – Mastering the Art of Time Manipulation for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-secrets-revealed-mastering-chapter-integration-in-youtube-videos/"><u>[Updated] Secrets Revealed Mastering Chapter Integration in YouTube Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-influencers-blueprint-five-steps-to-proven-marketing-success/"><u>[Updated] The Influencer's Blueprint Five Steps to Proven Marketing Success</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-virtual-backgrounds-with-kinemasters-stepwise-guide-to-green-screen/"><u>2024 Approved Mastering Virtual Backgrounds with Kinemaster's Stepwise Guide to Green Screen</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/freeze-frame-creation-through-stabilized-capture/"><u>Freeze-Frame Creation Through Stabilized Capture</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-first-to-fourth-a-comprehensive-analysis-of-openais-improved-gpt-versions/"><u>From First to Fourth: A Comprehensive Analysis of OpenAI's Improved GPT Versions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-oneplus-nord-n30-5g-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from OnePlus Nord N30 5G</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/i-piu-efficienti-programmi-per-convertire-i-formati-video-da-4k-a-hdfull-hd-sul-pcmac-del-2019/"><u>I Più Efficienti Programmi per Convertire I Formati Video Da 4K a HD/Full HD Sul PC/Mac Del 2019</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-windows-11-photo-app-stability-troubleshooting/"><u>In 2024, Mastering Windows 11 Photo App Stability Troubleshooting</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-soaring-in-high-definition-an-in-depth-xiaomi-analysis/"><u>In 2024, Soaring in High Definition An In-Depth Xiaomi Analysis</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1728500232697-synology-nas/"><u>Synology NASデバイスに保存したデータを外部ドライブへ安全に複写する方法</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-editing-enhanced-mastering-movies-in-windows-11-environment/"><u>[New] 2024 Approved Editing Enhanced Mastering Movies in Windows 11 Environment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-podcast-vs-youtube-the-battle-of-audio-and-visual-media/"><u>[New] Podcast vs YouTube The Battle of Audio and Visual Media</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-spotlight-on-windows-11-innovations/"><u>[New] Spotlight on Windows 11 Innovations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-accelerate-yt-growth-strategies-for-1kplus-subscribers/"><u>[Updated] 2024 Approved Accelerate YT Growth Strategies for 1K+ Subscribers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-nets-and-currents-tips-for-gopro-underwater-shots/"><u>[Updated] Navigating Nets & Currents Tips for GoPro Underwater Shots</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-insider-tips-skyrocketing-your-canva-experience/"><u>2024 Approved Insider Tips Skyrocketing Your Canva Experience</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-guide-to-screencasting-youtube-content-for-free/"><u>2024 Approved Step-by-Step Guide to Screencasting YouTube Content For Free</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unlocking-insta-authenticity-your-selfie-verification-journey/"><u>2024 Approved Unlocking Insta Authenticity Your Selfie Verification Journey</u></a></li>
+<li><a href="https://win-unique.techidaily.com/get-access-to-top-rated-ted-speeches-and-tv-show-episodes-for-pcs-and-macs/"><u>Get Access to Top-Rated TED Speeches and TV Show Episodes for PCs and Macs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimize-gmail-for-video-calls-with-effective-zoom-use/"><u>In 2024, Optimize Gmail for Video Calls with Effective Zoom Use</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-soundscapes-spectrum-music-finder-service/"><u>In 2024, Soundscapes Spectrum Music Finder Service</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inverted-footage-whats-behind-instagrams-peculiarity-for-2024/"><u>Inverted Footage What's Behind Instagram's Peculiarity for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-multiplayer-essential-tips-for-combatting-high-ping-while-playing-back-4-blood/"><u>Mastering Multiplayer: Essential Tips for Combatting High Ping While Playing 'Back 4 Blood'</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-mobile-game-experience-two-sides/"><u>The Mobile Game Experience: Two Sides</u></a></li>
 </ul></div>
 

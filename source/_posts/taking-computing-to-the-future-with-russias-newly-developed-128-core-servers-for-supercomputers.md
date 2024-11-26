@@ -1,7 +1,7 @@
 ---
 title: Taking Computing to the Future with Russia's Newly Developed 128-Core Servers for Supercomputers
-date: 2024-11-10T16:14:32.037Z
-updated: 2024-11-16T17:40:54.161Z
+date: 2024-11-21T16:06:52.573Z
+updated: 2024-11-25T17:27:38.506Z
 tags:
   - desktop
 categories:
@@ -46,27 +46,25 @@ Pick up a powerful new gaming or productivity desktop from Lenovo with a tasty d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unveiling-success-the-best-tools-for-youtube-seo-and-keyword-research/"><u>[New] 2024 Approved Unveiling Success The Best Tools for YouTube SEO and Keyword Research</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-the-interface-key-win11-tricks/"><u>[New] Mastering the Interface Key Win11 Tricks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-next-gen-entertainment-experience-scrutiny/"><u>[New] Next-Gen Entertainment Experience Scrutiny</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-photoshops-stabilization-an-essential-tool-or-overrated-feature/"><u>[New] Photoshop's Stabilization An Essential Tool or Overrated Feature?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-enhancing-engagement-through-thoughtful-youtube-tags-for-2024/"><u>[Updated] Enhancing Engagement Through Thoughtful YouTube Tags for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-laugh-tracks-for-iphone-devices/"><u>[Updated] Laugh Tracks for iPhone Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-periscope-streaming-made-simple/"><u>[Updated] Periscope Streaming Made Simple</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-thriving-in-google-meet-chats/"><u>2024 Approved The Ultimate Guide to Thriving in Google Meet Chats</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/driving-into-the-future-enhanced-google-chrome-and-latest-android-auto-integration-comes-to-vehicles/"><u>Driving Into the Future: Enhanced Google Chrome & Latest Android Auto Integration Comes to Vehicles!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/te-your-mobile-surfing-with-these-top-7-blockers-for-2024/"><u>Elevate Your Mobile Surfing with These Top 7 Blockers for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/hurdles-in-the-horizon-facebooks-predictions/"><u>Hurdles in the Horizon: Facebook's Predictions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-y100i-power-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo Y100i Power 5G</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sound-sleuths-unite-free-beats-tracking-tools-for-2024/"><u>Sound Sleuths Unite! Free Beats-Tracking Tools for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-device-editors-for-app-development/"><u>[New] Prime Device Editors for App Development</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-smooth-processes-for-recording-online-meetings-with-gotomeeting-for-2024/"><u>[New] Smooth Processes for Recording Online Meetings with GoToMeeting for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-through-gopros-burst-recording-options/"><u>[Updated] Navigating Through GoPro's Burst Recording Options</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-professional-picks-the-best-video-cams-year/"><u>[Updated] Professional Picks The Best Video Cams Year</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sculpting-the-digital-experience-through-zooming/"><u>2024 Approved Sculpting the Digital Experience Through Zooming</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-virtual-venues-clash-obstwitch-live/"><u>2024 Approved Virtual Venues Clash OBS/Twitch Live</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/android-and-iphone-video-creators-best-music-integrated-options-for-2024/"><u>Android and iPhone Video Creators Best Music-Integrated Options for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/best-methods-for-cutting-and-editing-movies-for-free-tips-for-windows-11-mac-os-x-and-more/"><u>Best Methods for Cutting & Editing Movies for Free: Tips for Windows 11, Mac OS X and More</u></a></li>
+<li><a href="https://article-helps.techidaily.com/capturing-movie-scenes-as-single-image-snapshots-windows-10-for-2024/"><u>Capturing Movie Scenes as Single Image Snapshots (Windows 10) for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterclass-in-mobile-video-viewing-10-leading-iphoneipad-apps/"><u>In 2024, Masterclass in Mobile Video Viewing 10 Leading iPhone/iPad Apps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-pathway-to-earning-facebook-written-by-your-assistant/"><u>In 2024, The Pathway to Earning Facebook’ Written by Your Assistant</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-quantum-hdr-your-comprehensive-guide/"><u>In 2024, Unlocking Quantum HDR Your Comprehensive Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/is-revenue-derived-from-evaluating-products-in-2024/"><u>Is Revenue Derived From Evaluating Products, In 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-transitions-kinemasters-step-by-step-tutorial-for-2024/"><u>Mastering Transitions Kinemaster's Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/maximiza-la-claridad-y-el-realce-en-tus-videos-usando-winxvideo-ai-guia-seo/"><u>Maximiza La Claridad Y El Realce en Tus Videos Usando Winxvideo AI - Guía SEO</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-samsung-galaxy-note-9-unveiled-top-contender-in-phablets/"><u>Ultimate Guide: Samsung Galaxy Note 9 Unveiled - Top Contender in Phablets</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

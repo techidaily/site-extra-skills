@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting Post-Production on TikTok via Zoom for 2024\""
-date: 2024-11-10T16:52:26.651Z
-updated: 2024-11-16T16:14:37.567Z
+date: 2024-11-23T21:31:54.349Z
+updated: 2024-11-25T17:22:08.725Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ In recent times, TikTok has become a major social media platform and along with 
 
 And one of the main functions of any video editing application is that the user should be able to zoom into videos to showcase specific areas of the video or to make a unique transition. In this article, we are going to learn about face zoom TikTok and how one user can use the Zoom function and make videos with it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. Zoom on TikTok while creating a new video
 
 With its growing popularity, TikTok has been adding many features to its video editing front. And one of such major functions of TikTok is to zoom the video as per your preference. There are two ways in which a user can zoom the video on TikTok.
@@ -32,17 +36,14 @@ The first one involves zooming in while recording the video and the second one i
 
 ![create a new video tiktok](https://images.wondershare.com/filmora/article-images/2022/07/create-a-new-video-tiktok.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * When you tap on the "+" icon, the recording interface will open up. Now, select the duration of the video by tapping the "clock" icon on the left-hand side of the screen. After selecting a set duration, you will find a red shutter button which you will need to hold to start the recording.
 * Now, to zoom in on the recording, you can use any of two methods of zooming in. The first method involves you moving your finger up towards the top of your phone from the shutter icon. This will show you a red circle getting bigger.
 * Alternatively, you can use one finger to pinch into the screen while holding the shutter icon with another finger and this will ultimately help you achieve a zoom effect on your video.
 * For zooming out, you can move your finger towards the shutter button or pinch out and then save the video.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. How to Zoom an existing TikTok video
 
@@ -56,13 +57,6 @@ TikTok is known to provide a vast number of filters as well as editing tools tha
 * Here you will need to find an effect namely the "zoom effect" and tapping on it will apply the effect to your video.
 
 ![choose zoom effect tiktok](https://images.wondershare.com/filmora/article-images/2022/07/choose-zoom-effect-tiktok.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * You can drag the marker of the timeline to set the beginning of the effect on your video. Then press the zoom effect and release it where you want the zoom effect to end.
 * Then save the video and the effect will be applied successfully.
@@ -79,24 +73,22 @@ And if you are new to this platform, you can follow these steps to use this face
 
 ![zoom tiktok filter](https://images.wondershare.com/filmora/article-images/2022/07/zoom-tiktok-filter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * The filter icon background is of turquoise color. You will need to tap on that and your face zoom effect will be activated.
 
 ![activitate face zoom effect](https://images.wondershare.com/filmora/article-images/2022/07/activitate-face-zoom-effect.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Alternatively, you can also go to the effects page and the search bar and then type "Face Zoom" on the text box, followed by a search click to find the TikTok facezoom filter more easily.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -135,24 +127,14 @@ TikTok has become more than just a social media platform and these days almost e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-music-matters-imovie-editing-tips/"><u>[New] Music Matters IMovie Editing Tips</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-the-webs-essence-top-browsers-for-screen-recorders/"><u>[Updated] Capturing the Web’s Essence Top Browsers for Screen Recorders</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-fostering-fandoms-top-three-storytelling-techniques/"><u>[Updated] Fostering Fandoms Top Three Storytelling Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-exploring-asmr-uncover-its-pros-today/"><u>[Updated] In 2024, Exploring ASMR Uncover Its Pros Today</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-reel-in-success-top-drone-video-editors-for-every-stage-of-learning/"><u>[Updated] Reel in Success Top Drone Video Editors for Every Stage of Learning</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-videos-with-these-titans/"><u>[Updated] Streamline Your Videos with These Titans</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-markets-best-gpus-for-uhd-video-processing/"><u>2024 Approved Market's Best GPUs for UHD Video Processing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-podcast-titling-a-comprehensive-approach/"><u>2024 Approved Mastering Podcast Titling A Comprehensive Approach</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-computing-solutions-on-desktops/"><u>2024 Approved Premium Computing Solutions on Desktops</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/a-step-by-step-approach-to-masterful-screen-recordings-on-hp-systems/"><u>A Step-by-Step Approach to Masterful Screen Recordings on HP Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-fixes-for-computers-that-boot-up-but-dont-show-any-video-output/"><u>Expert Fixes for Computers That Boot Up but Don't Show Any Video Output</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-among-us-2024-game-crashes-essential-troubleshooting-guide/"><u>Fixing the 'Among Us' 2024 Game Crashes: Essential Troubleshooting Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-canvas-mastery-streamlining-edges-and-enhancing-visuals/"><u>In 2024, Canvas Mastery Streamlining Edges and Enhancing Visuals</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-locate-inexpensive-deals-on-gopro-cameras-near-you/"><u>In 2024, Locate Inexpensive Deals on GoPro Cameras Near You</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/inside-look-expert-techniques-with-vlc-playback-for-2024/"><u>Inside Look Expert Techniques with VLC Playback for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/iphone-photo-management-guide-for-albums-and-cloud-storage-for-2024/"><u>IPhone Photo Management Guide for Albums & Cloud Storage for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/language-settings-and-preferences-customizing-your-user-experience/"><u>Language Settings & Preferences: Customizing Your User Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-connectivity-iphone-images-to-windows-for-2024/"><u>Quick Connectivity IPhone Images to Windows for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions/"><u>Unlock Hidden Potential, Boost Productivity Essential Activities During Podcast Sessions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instaflash-compile-your-pics-fast-for-2024/"><u>[New] InstaFlash Compile Your Pics Fast for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-post-a-highlight-from-the-latest-audio-show/"><u>[New] Post a Highlight From the Latest Audio Show</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quick-windows-10-tutorial-for-simple-video-trimming/"><u>[New] Quick Windows 10 Tutorial for Simple Video Trimming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mirthful-melodies-top-downloads-for-tones/"><u>[Updated] Mirthful Melodies Top Downloads for Tones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-how-to-erase-photographic-backgrounds/"><u>[Updated] Step-by-Step How to Erase Photographic Backgrounds</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-redmi-13c-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi Redmi 13C 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-x-flip-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo X Flip Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ensuring-seamless-whatsapp-backups-to-icloud-a-step-by-step-guide/"><u>Ensuring Seamless WhatsApp Backups to iCloud: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-keeping-your-gopro-fogless-for-perfection/"><u>In 2024, Keeping Your GoPro Fogless for Perfection</u></a></li>
 </ul></div>
 

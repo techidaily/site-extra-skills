@@ -1,7 +1,7 @@
 ---
 title: "Beelink GTi14: The New Meteor Lake Mini-PC Featuring an External Expansion Port for GPU Connectivity"
-date: 2024-11-12T17:29:25.039Z
-updated: 2024-11-16T17:42:05.138Z
+date: 2024-11-24T19:08:54.190Z
+updated: 2024-11-25T16:07:58.876Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -48,6 +52,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  There's also MSI AI Engine, which adjusts performance based on AI. Then there's AI Frozr, which does the same thing for cooling.
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -70,23 +78,17 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-pictolaugh-design-humor-graphics/"><u>[New] PictoLaugh Design Humor Graphics</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-satirical-space-the-ultimate-guide-to-20plus-humorous-metaverse-imagery/"><u>[New] Satirical Space The Ultimate Guide to 20+ Humorous Metaverse Imagery</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sound-design-strategies-integrating-youtube-music-into-visual-media/"><u>[Updated] Sound Design Strategies Integrating YouTube Music Into Visual Media</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-quick-route-to-true-profile-ages-on-tiktok-for-2024/"><u>[Updated] The Quick Route to True Profile Ages on TikTok for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-tecno-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Tecno Fingerprint Lock</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/boosting-your-profile-top-25-high-gainning-instagram-tags/"><u>Boosting Your Profile Top 25 High-Gainning Instagram Tags</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/conquering-camera-angst-the-ultimate-list-of-video-blogging-phobias-for-2024/"><u>Conquering Camera Angst The Ultimate List of Video Blogging Phobias for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 15 Pro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-instatrends-update-staying-ahead-with-fresh-reel-ideas/"><u>In 2024, InstaTrends Update Staying Ahead with Fresh Reel Ideas</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/output-maximization/"><u>Output Maximization</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/outsmarting-video-based-home-schooling-effortlessly-for-2024/"><u>Outsmarting Video-Based Home Schooling Effortlessly for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-add-featured-channels-on-youtube-a-complete-guide/"><u>[New] In 2024, How to Add Featured Channels on YouTube A Complete Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-strategies-to-become-a-top-notch-interviewer-for-2024/"><u>[New] Strategies to Become a Top-Notch Interviewer for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-superior-real-time-media-streamers/"><u>[Updated] 2024 Approved Superior Real-Time Media Streamers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-gecata-game-recorder-review-complete/"><u>[Updated] Gecata Game Recorder Review [Complete]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pc-friendly-non-inshot-editing-software/"><u>[Updated] PC-Friendly Non-Inshot Editing Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-reducing-inertia-induced-jello-in-uav-videos/"><u>[Updated] Reducing Inertia-Induced Jello in UAV Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revolutionize-your-augmented-reality-graphics-using-custom-luts/"><u>[Updated] Revolutionize Your Augmented Reality Graphics Using Custom LUTs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-elevating-your-shots-with-lightrooms-hdr-merging-magic/"><u>2024 Approved Elevating Your Shots with Lightroom's HDR Merging Magic</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-poco-f5-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Poco F5 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-remedy-for-warped-gopro-imagery-a-comprehensive-tutorial/"><u>In 2024, Remedy for Warped GoPro Imagery A Comprehensive Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/msvcp140dll-replacement-methods/"><u>MSVCP140.dll Replacement Methods</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transformative-photos-lightroom-techniques-for-stunning-hdr/"><u>Transformative Photos Lightroom Techniques for Stunning HDR</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Yitian Nokia 710: The Speed Champion of Alibaba's Server CPUs in Cloud Computing"
-date: 2024-11-13T17:49:15.089Z
-updated: 2024-11-16T17:21:44.537Z
+date: 2024-11-22T20:38:38.865Z
+updated: 2024-11-25T17:48:40.185Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,10 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -56,23 +60,20 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-premier-cloud-storage-guide-for-enterprises/"><u>[New] Premier Cloud Storage Guide for Enterprises</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premium-aerial-companions-for-gopro-hd-adventures/"><u>[New] Premium Aerial Companions for GoPro HD Adventures</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-revolutionizing-podcast-titles-leading-10-ai-generators/"><u>[New] Revolutionizing Podcast Titles Leading 10 AI Generators</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-content-in-the-digital-age-top-strategies-for-2024/"><u>[Updated] Capturing Content in the Digital Age Top Strategies for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-fast-and-fun-the-quick-guide-to-taking-screenshots-on-chromebook/"><u>[Updated] Fast & Fun The Quick Guide to Taking Screenshots on Chromebook</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-livemedia-app-assessment-guide/"><u>2024 Approved LiveMedia App Assessment Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pioneering-artistry-top-5-trailblazers-blending-visuals-plus-music-into-masterpieces/"><u>2024 Approved Pioneering Artistry Top 5 Trailblazers Blending Visuals + Music Into Masterpieces</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-honor-magic-5-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Honor Magic 5 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-future-of-gaming-unpacking-the-steam-decks-potential/"><u>The Future of Gaming? Unpacking the Steam Deck's Potential</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlock-features-amds-latest-vega-3-firmware-patch/"><u>Unlock Features: AMD's Latest Vega 3 Firmware Patch</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-night-vision-with-iphone-capturing-striking-shadows/"><u>[New] Night Vision with iPhone Capturing Striking Shadows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-peak-popularity-on-reddit-10-most-upvoted-stories/"><u>[New] Peak Popularity on Reddit 10 Most Upvoted Stories</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-choices-in-video-calling-platforms-for-tech-users-for-2024/"><u>[New] Premium Choices in Video Calling Platforms for Tech Users for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-multiplatform-iptv-encoding/"><u>[Updated] 2024 Approved Multiplatform IPTV Encoding</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-snug-scenes-for-snowy-screens-a-focused-list/"><u>[Updated] 2024 Approved Snug Scenes for Snowy Screens A Focused List</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-architects-crafting-fantasy-realms-for-marvel/"><u>[Updated] Architects Crafting Fantasy Realms for Marvel</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-exploring-the-features-of-vimeos-innovative-recorder-for-2024/"><u>[Updated] Exploring the Features of Vimeo's Innovative Recorder for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-infuse-projects-with-sounds-in-adobe-premiere-pro/"><u>2024 Approved Infuse Projects with Sounds in Adobe Premiere Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-kinemaster-app-for-android-complete-review/"><u>2024 Approved KineMaster App for Android - Complete Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-novices-selection-guide-to-ideal-filming-cameras/"><u>2024 Approved Novice's Selection Guide to Ideal Filming Cameras</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-range-creativity-with-premium-ae-samples/"><u>In 2024, Free-Range Creativity with Premium AE Samples</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/metaverse-and-multimeva-a-comparative-study-of-features-for-2024/"><u>Metaverse and Multimeva A Comparative Study of Features for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-guide-streamlining-video-calls-on-xbox-one-for-2024/"><u>Quick Guide Streamlining Video Calls on Xbox One for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

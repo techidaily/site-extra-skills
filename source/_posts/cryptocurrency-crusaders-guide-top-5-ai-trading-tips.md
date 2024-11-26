@@ -1,7 +1,7 @@
 ---
 title: "Cryptocurrency Crusaders' Guide: Top 5 AI Trading Tips"
-date: 2024-11-10T17:40:20.981Z
-updated: 2024-11-16T16:55:17.533Z
+date: 2024-11-23T16:46:33.392Z
+updated: 2024-11-25T19:27:40.737Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. openai-pc-pro.online
 
  The experts at CRIL also discovered an unidentified malware strain being distributed through the domain “openai-pc-pro.online,” a malicious domain posing as the official ChatGPT website.
@@ -39,16 +43,13 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. chatgpt-go.online
 
@@ -58,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
 ## 6\. ChatGPT1
@@ -65,35 +70,22 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
- SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
-
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -132,22 +124,16 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-instagrams-music-ownership-standards/"><u>[New] Instagram's Music Ownership Standards</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-paragon-of-plot-design-in-cinemas-segmented-landscape/"><u>[New] Paragon of Plot Design in Cinema's Segmented Landscape</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pristine-teaser-trailer-trove/"><u>[New] Pristine Teaser Trailer Trove</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-innovative-10-ideas-thatll-boost-your-brand-on-igtv/"><u>[Updated] 2024 Approved Innovative 10 Ideas That'll Boost Your Brand on IGTV</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-panasonics-hx-a1-the-wearable-action-camera-revealed/"><u>[Updated] Panasonic’s HX-A1 - The Wearable Action Camera Revealed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-professional-video-finishing-touches-device-based-filters/"><u>[Updated] Professional Video Finishing Touches Device-Based Filters</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-tunepiercer-screen-capture-app-review-for-2024/"><u>[Updated] TunePiercer Screen Capture App Review for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-meeting-efficiency-using-zoom-in-your-email-routine-with-gmail/"><u>2024 Approved Maximizing Meeting Efficiency Using Zoom in Your Email Routine with Gmail</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-online-tools-for-dynamic-aspect-adjustment/"><u>2024 Approved Online Tools for Dynamic Aspect Adjustment</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/activate-windows-xp-movie-creation-toolkit/"><u>Activate Windows XP Movie Creation Toolkit</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-metas-newly-discounted-51-2gb-quest-3-headset-best-vr-savings-showcased-by-zdnet/"><u>Get Your Hands on Meta’s Newly Discounted 51 2GB Quest 3 Headset | Best VR Savings Showcased by ZDNet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratisk-downloads-av-instagram-videos-i-mp4-format/"><u>Gratisk Downloads Av Instagram Videos I MP4 Format</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-essential-guide-to-free-online-srt-translators-1-8-rankings/"><u>In 2024, Essential Guide to Free Online SRT Translators – #1-#8 Rankings</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-precisely-how-to-disconnect-from-your-outdated-linkedin-account/"><u>In 2024, Precisely How To Disconnect From Your Outdated LinkedIn Account</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-shoot-cool-vids-from-scratch-with-your-mac-newcomers-guide/"><u>In 2024, Shoot Cool Vids From Scratch with Your Mac, Newcomers Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mass-effect-legendary-edition-stuck-on-boot-screen-fixes-and-solutions/"><u>Mass Effect Legendary Edition Stuck on Boot Screen - Fixes & Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premiere-pros-finest-10-text-plans/"><u>Premiere Pro's Finest 10 Text Plans</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-tecno-spark-10-4g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Tecno Spark 10 4G FRP</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/8-ways-language-learning-reimagines-your-worldview/"><u>8 Ways Language Learning Reimagines Your Worldview</u></a></li>
+<li><a href="https://win-trending.techidaily.com/experience-the-power-of-flash-on-your-iphone-4-update-allowed/"><u>Experience the Power of Flash on Your iPhone 4 - Update Allowed!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-interactive-horizinas-analyzing-the-triumvirate-of-tech-vr-ar-and-mr/"><u>In 2024, Interactive Horizinas Analyzing the Triumvirate of Tech (VR, AR, & MR)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-smart-picks-user-friendly-bd-software-for-pc-and-mac/"><u>In 2024, Smart Picks User-Friendly BD Software for PC and Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-srt-to-sub-guide-practical-conversion-methods/"><u>In 2024, SRT to SUB Guide Practical Conversion Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-ensuring-accurate-age-on-tiktok/"><u>In 2024, Step-by-Step Ensuring Accurate Age on TikTok</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/narrow-your-focus-on-elite-hdr-camera-systems-for-2024/"><u>Narrow Your Focus on Elite HDR Camera Systems for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726029159328-pc/"><u>PCとスマートフォンで特定のオーディオクリップを取り除く専用ガイド</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-ranked-ergonomic-vertical-mice-a-comprehensive-guide/"><u>Top-Ranked Ergonomic Vertical Mice : A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-place.techidaily.com/understanding-trickbot-threats-protection-tips-and-strategies-cyberguardian/"><u>Understanding TrickBot Threats: Protection Tips & Strategies – CyberGuardian</u></a></li>
 </ul></div>
 

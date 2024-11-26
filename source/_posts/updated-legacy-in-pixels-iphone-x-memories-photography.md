@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Legacy in Pixels  IPhone X Memories Photography\""
-date: 2024-11-12T16:20:40.118Z
-updated: 2024-11-16T16:24:50.393Z
+date: 2024-11-22T04:06:37.371Z
+updated: 2024-11-26T00:43:05.397Z
 tags: 
   - screen-recording
   - ai video
@@ -30,17 +30,14 @@ Until recently, iPhone cameras didn't have lenses that enabled its users to prod
 
 In this article, we are going to show you how to take photos in Portrait Mode, on iPhone X, 8 Plus, and 7 Plus, but we are also going to take a look at a few apps for older versions of iPhone that also enable you to create amazing portraits.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tips for iPhone portrait photos
 
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### For iPhone 7 Plus/8 Plus/X users
 
@@ -63,10 +60,7 @@ The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera
 ![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image resource: imore
@@ -76,10 +70,7 @@ Launch the Camera app, and swipe to the Portrait option, and then tap on the Cam
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For iPhone 8, 7 or older iPhones users
@@ -101,6 +92,10 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 **Compatible with:** iOS 8.0 or later
 
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
@@ -127,10 +122,7 @@ The plethora of blur options provided by the Defocus camera app is impressive. D
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -148,20 +140,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-tiktoks-take-jujutsu-kaisen-challenges-and-laughs/"><u>[New] In 2024, TikTok's Take Jujutsu Kaisen Challenges and Laughs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-chuckle-chronicles-celebratory-gems-for-each-occasion/"><u>[Updated] Chuckle Chronicles Celebratory Gems for Each Occasion</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-leveraging-spotifys-features-a-marketing-gamechanger-guide/"><u>[Updated] In 2024, Leveraging Spotify’s Features A Marketing Gamechanger Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-interactive-learning-landscapes-with-vr-for-2024/"><u>[Updated] Interactive Learning Landscapes with VR for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-samsung-gear-360-alternatives-updated-list-2023/"><u>[Updated] Samsung Gear 360 Alternatives Updated List 2023</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-srt-a-complete-guide-overview/"><u>2024 Approved Mastering SRT A Complete Guide Overview</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-metaverse-vs-multimetaverse-key-distinctions-and-comparison/"><u>2024 Approved Metaverse Vs. Multimetaverse Key Distinctions and Comparison</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/advanced-techniques-in-detecting-installed-software-versions/"><u>Advanced Techniques in Detecting Installed Software Versions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-oneplus-nord-n30-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On OnePlus Nord N30 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-windows-for-an-exceptional-listening-experience-top-8/"><u>In 2024, Navigating Windows for an Exceptional Listening Experience (Top 8)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-securing-stunning-media-backdrops-at-cost-effective-rates/"><u>In 2024, Securing Stunning Media Backdrops at Cost-Effective Rates</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-process-for-photo-backdrop-erasure/"><u>In 2024, Step-by-Step Process for Photo Backdrop Erasure</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/modern-cellphone-lifespan-finding-the-right-moment-for-an-upgrade/"><u>Modern Cellphone Lifespan: Finding the Right Moment for an Upgrade</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-audio-spectral-masterpieces-8-premium-templates-to-transform-your-video-auditory-experience/"><u>New 2024 Approved Audio Spectral Masterpieces 8 Premium Templates to Transform Your Video Auditory Experience</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-apple-iphone-15-pro-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>Wondering the Best Alternative to Hola On Apple iPhone 15 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-xbox-wireless-adapter-drivers-quick-and-easy/"><u>[DOWNLOAD] Xbox Wireless Adapter Drivers | Quick & Easy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-blissful-family-nights-the-top-10-classics-for-summertime/"><u>[New] Blissful Family Nights The Top 10 Classics for Summertime</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-perfection-sizing-your-video-just-right/"><u>[New] Instagram Perfection Sizing Your Video Just Right</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximize-iphone-imaging-select-accessories-for-professionals/"><u>[New] Maximize iPhone Imaging Select Accessories for Professionals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-one-minute-color-concealment/"><u>[New] One-Minute Color Concealment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seeing-beyond-our-elite-rankings-of-camera-lenses-1-10/"><u>[New] Seeing Beyond Our Elite Rankings of Camera Lenses #1-10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-your-podcast-secrets-for-compelling-opening-videos/"><u>2024 Approved Perfect Your Podcast Secrets for Compelling Opening Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-rectifying-gopro-video-warping-a-step-by-step-guide/"><u>2024 Approved Rectifying GoPro Video Warping A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-rigs-the-cutting-edge-features-of-gigabytes-new-aorus-xtreme-and-xtreme-ice-mobos-gpu-lines-revealed-at-computex/"><u>Experience Next-Level Gaming Rigs: The Cutting-Edge Features of Gigabyte’s New Aorus Xtreme and Xtreme Ice Mobos, GPU Lines Revealed at Computex</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-visibility-key-elements-in-youtube-thumbnail-design/"><u>In 2024, Maximizing Visibility Key Elements in YouTube Thumbnail Design</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterful-date-trackers-for-android-and-ios-wedding-planners-for-2024/"><u>Masterful Date-Trackers for Android and iOS Wedding Planners for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-tips-for-a-standout-instagram-groups-project-for-2024/"><u>Quick Tips for a Standout Instagram Groups Project for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/recoveryraid-specializing-in-raid-systems/"><u>RecoveryRaid: Specializing in RAID Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/reset-chronology-fix-windows-time-errors/"><u>Reset Chronology: Fix Windows Time Errors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-fit2-review-the-ultimate-portable-wellness-monitor/"><u>Samsung Galaxy Fit2 Review: The Ultimate Portable Wellness Monitor</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smile-stashers-the-ultimate-list-of-meme-makers-for-2024/"><u>Smile Stashers The Ultimate List of Meme Makers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tricks-for-a-larger-windowed-pin-display-in-win-11/"><u>Tricks for a Larger Windowed Pin Display in Win 11</u></a></li>
 </ul></div>
 

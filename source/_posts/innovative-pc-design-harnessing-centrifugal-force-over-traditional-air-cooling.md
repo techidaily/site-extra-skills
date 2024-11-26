@@ -1,7 +1,7 @@
 ---
 title: "Innovative PC Design: Harnessing Centrifugal Force Over Traditional Air Cooling"
-date: 2024-11-14T16:51:50.995Z
-updated: 2024-11-16T17:31:26.022Z
+date: 2024-11-23T22:58:41.635Z
+updated: 2024-11-26T03:53:59.111Z
 tags:
   - desktop
 categories:
@@ -41,6 +41,10 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -64,31 +68,24 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-how-to-create-metaverse-avatar-with-ease-an-ultimate-guide/"><u>[New] How to Create Metaverse Avatar with Ease An Ultimate Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-ultimate-framework-for-selecting-winning-podcast-names/"><u>[New] In 2024, The Ultimate Framework for Selecting Winning Podcast Names</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigate-the-excellent-world-of-top-vr-cycling/"><u>[New] Navigate the Excellent World of Top VR Cycling</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-storage-capacity-64gb-vs-128gb-for-video-files/"><u>[New] Storage Capacity 64GB vs 128GB for Video Files</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-enhancing-gamers-experience-recording-console-titles-for-pc/"><u>[Updated] In 2024, Enhancing Gamers' Experience Recording Console Titles for PC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-quick-guide-iphones-easiest-screen-recording-method/"><u>[Updated] In 2024, Quick Guide IPhone's Easiest Screen Recording Method</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-select-15-professional-luts-to-boost-gopro-cinematography/"><u>[Updated] Select 15 Professional LUTs to Boost GoPro Cinematography</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-peak-performance-tools-best-4k-cameras-for-professionals/"><u>2024 Approved Peak Performance Tools Best 4K Cameras for Professionals</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhance-creativity-with-these-10-chromebook-art-apps/"><u>Enhance Creativity with These 10 Chromebook Art Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guia-paso-a-paso-para-convertir-video-hevc-en-formato-mp4-manteniendo-calidad-optimal/"><u>Guía Paso a Paso Para Convertir Video HEVC en Formato MP4 Manteniendo Calidad Optimal</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-se-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone SE When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-fast-windows-picture-sight/"><u>In 2024, Flawless Fast Windows Picture Sight</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fundamental-tactics-converting-pin-based-videos-to-mp3s/"><u>In 2024, Fundamental Tactics Converting Pin-Based Videos To MP3s</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-review-how-toolwiz-stacks-up-in-photo-app-landscape/"><u>In 2024, Review How Toolwiz Stacks Up in Photo App Landscape</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/masterclass-in-meme-template-selection-for-2024/"><u>Masterclass in Meme Template Selection for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-virtual-meeting-platforms-zooming-onto-your-android-for-2024/"><u>Navigating Virtual Meeting Platforms Zooming Onto Your Android for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revolutionize-your-iphones-wi-fi-experience-with-8-proven-strategies/"><u>Revolutionize Your iPhone's Wi-Fi Experience with 8 Proven Strategies</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/save-time-money-on-passport-photos-with-our-free-generator-apps-for-2024/"><u>Save Time, Money on Passport Photos with Our Free Generator Apps for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1245861-9781451698589-the-sacred-history/"><u>The Sacred History | Free Book</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-streamlabs-versus-obs-a-compreran-analysis-for-broadcasters/"><u>[New] In 2024, Streamlabs Versus OBS A Compreran Analysis for Broadcasters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-metaverse-laughter-25plus-humorous-meme-ideas-to-share-online/"><u>[New] Metaverse Laughter 25+ Humorous Meme Ideas to Share Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-echoes-of-amusement-comical-tune-transformations/"><u>[Updated] Echoes of Amusement Comical Tune Transformations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-to-radial-blur-effect-on-images/"><u>[Updated] Step-by-Step Guide to Radial Blur Effect on Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-keywords-in-the-realm-of-virtual-reality/"><u>2024 Approved Keywords in the Realm of Virtual Reality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-photographys-selections-the-creme-de-la-4k-dslrs/"><u>2024 Approved Pro Photography's Selections The Crème De La 4K DSLRs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ard-glance-decoding-youtube-video-reversals/"><u>Backward Glance Decoding YouTube Video Reversals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-restoring-copy-and-paste-capabilities-in-windows-11-systems/"><u>Expert Guide: Restoring Copy & Paste Capabilities in Windows 11 Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-15-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 15 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/m1-advantages-in-high-quality-video-production-workstations-for-2024/"><u>M1 Advantages in High-Quality Video Production Workstations for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-a05s-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy A05s Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-metaverse-life-your-ultimate-device-list-for-2024/"><u>Mastering Metaverse Life Your Ultimate Device List for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-simplified-live-streaming-for-2024/"><u>Mastering the Art of Simplified LIVE Streaming for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/meme-magic-crafting-topical-laughs-for-every-scenario-for-2024/"><u>Meme Magic Crafting Topical Laughs for Every Scenario for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-zoomed-details-for-team-collaboration-on-ms-teams-for-2024/"><u>Navigating Zoomed Details for Team Collaboration on MS Teams for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transforming-video-experience-top-tools-for-adjusting-audio-bitrates/"><u>Transforming Video Experience: Top Tools for Adjusting Audio Bitrates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-settings-returning-to-initial-touch-keyboard-configuration/"><u>Win 11 Settings: Returning to Initial Touch Keyboard Configuration</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

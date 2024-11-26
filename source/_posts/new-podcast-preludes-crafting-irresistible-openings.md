@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Podcast Preludes  Crafting Irresistible Openings\""
-date: 2024-11-12T18:17:36.152Z
-updated: 2024-11-16T17:18:48.297Z
+date: 2024-11-24T23:09:44.266Z
+updated: 2024-11-25T21:10:50.956Z
 tags: 
   - screen-recording
   - ai video
@@ -90,22 +90,12 @@ _Table 1: shows the analysis of intros of the top 3 podcasts discussed above_
 
 Now that we've established which elements are more prominent in the intros of some of the most popular podcasts. Let's review the essentials you should keep in mind when designing your introduction.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4\. How to make a good podcast intro?
 
 If you want the audience to be unable to resist your podcast, design your podcast intro with the following tips in mind.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How long should a podcast intro be?
@@ -113,6 +103,10 @@ If you want the audience to be unable to resist your podcast, design your podcas
 Your podcast intro should be brief and snappy. The ideal duration for a podcast intro is between 30 to 60 seconds. However, it should not last more than a minute and a half.
 
 The intro of "This American Life" lasted for sixty seconds, while the intro of stuff you should know was over in about forty seconds. Both of these intros were short and to the point. However, they did an excellent job of providing just the correct information to pique the audience's interest.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Is background music helpful in making the intro more appealing?
 
@@ -147,9 +141,17 @@ The proper way to introduce your episode guest is to tell your audience about th
 
 Let's look at the samples of some of the most popular podcast intros.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5\. Effective podcast introduction examples
 
 Once you've figured out how a good podcast intro should be, the last step would be to glance at the intros of the following popular podcasts to eliminate any further ambiguity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Crushed - A Comedy Podcast
 
@@ -209,16 +211,13 @@ This podcast's intro is a bit of a freestyle that changes with each episode. It'
 
 Hey! What's going on, ladies and gentlemen? This podcast is a —---------------- (explain what the podcast is about). My guest today is —-----, who is a —----- (introduce the guest), and if you are a frequent listener of —------, then you must know that I love talking about life, philosophy, and the differences in society's cultures!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Welcome to Your Fantasy](https://podcasts.apple.com/us/podcast/9-where-the-butt-ends/id1517709981?i=1000533849644) \- A crime show podcast
 
 ![welcome to your fantasy](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Welcome to Your Fantasy is one of the most popular crime show podcasts.
 
@@ -272,16 +271,13 @@ _Table 1: shows the analysis of intros of the top 3 podcasts discussed above_
 
 Now that we've established which elements are more prominent in the intros of some of the most popular podcasts. Let's review the essentials you should keep in mind when designing your introduction.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4\. How to make a good podcast intro?
 
 If you want the audience to be unable to resist your podcast, design your podcast intro with the following tips in mind.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How long should a podcast intro be?
 
@@ -314,6 +310,10 @@ A call to action is also effective in establishing familiarity with the listener
 
 For instance, in the intro of "This American Life," Ira Glass uses the phrase, "If you haven't tried the previous episodes yet, you should." reminding the new audience to check the previous episodes as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When is the right time to introduce yourself and your guests?
 
 Logically it would help if you introduced yourself to the new audience right after introducing the name of your podcast. Introducing yourself is not challenging, but you can use guest introductions to create a buzz that will help you gain your listeners' attention.
@@ -325,13 +325,6 @@ Let's look at the samples of some of the most popular podcast intros.
 ## Part 5\. Effective podcast introduction examples
 
 Once you've figured out how a good podcast intro should be, the last step would be to glance at the intros of the following popular podcasts to eliminate any further ambiguity.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Crushed - A Comedy Podcast
 
@@ -374,10 +367,7 @@ Once again, the introduction is concise and hooks listeners in just 17 seconds. 
 Hello! This is the —----- news podcast from the —--------- (introduce the channel). With reports and analyses shown across the world and the latest news —------------ (introduce the purpose of the broadcast), —------- podcasts are supported by —-----------------. (the name of your sponsor, if any)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [The Joe Rogan Experience](https://podcast.app/the-joe-rogan-experience-p15/) \- A culture and society podcast
@@ -398,16 +388,13 @@ This podcast's intro is a bit of a freestyle that changes with each episode. It'
 
 Hey! What's going on, ladies and gentlemen? This podcast is a —---------------- (explain what the podcast is about). My guest today is —-----, who is a —----- (introduce the guest), and if you are a frequent listener of —------, then you must know that I love talking about life, philosophy, and the differences in society's cultures!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Welcome to Your Fantasy](https://podcasts.apple.com/us/podcast/9-where-the-butt-ends/id1517709981?i=1000533849644) \- A crime show podcast
 
 ![welcome to your fantasy](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Welcome to Your Fantasy is one of the most popular crime show podcasts.
 
@@ -431,13 +418,6 @@ Despite operating in plain sight for almost —-----, it took a twist of fate fo
 
 ![football weekly](https://images.wondershare.com/filmora/article-images/2022/12/podcasts-intros-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Football Weekly is the best sports podcast, and its intro goes like this,
 
 **Football Weekly's Intro**
@@ -453,6 +433,10 @@ The intro tells the platform, then what will be discussed in the episode, and en
 This is —-------(the podcast's name). Hello and welcome to the —----------; more votes are needed for—-------, this time losing at the bottom of the league (a tagline related to any of the sports teams to hook the audience)
 
 —-------- is at the panel today with us (introduce the guest of the episode). Yesterday's game of —--- was a bummer, and we'll talk about it later in the episode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Final words
 
@@ -488,22 +472,18 @@ And hopefully, after going over the crux and tips mentioned above, you will be a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-maximizing-earnings-on-youtube-universal-device-accessibility/"><u>[New] 2024 Approved Maximizing Earnings on YouTube Universal Device Accessibility</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-bandicam-reconnaissance-a-comprehensive-review-of-its-features/"><u>[New] In 2024, Bandicam Reconnaissance A Comprehensive Review of Its Features</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-iphone-camera-savvy-image-optimization-secrets/"><u>[New] IPhone Camera Savvy Image Optimization Secrets</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-secrets-of-the-pocket-acquiring-no-pay-images/"><u>[Updated] Secrets of the Pocket Acquiring No-Pay Images</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-and-choose-from-these-top-10-vector-stockplaces/"><u>2024 Approved Explore and Choose From These Top 10 Vector Stockplaces</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-guide-jpegpng-to-pdf-conversion-techniques/"><u>2024 Approved IPhone Guide JPEG/PNG to PDF Conversion Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-authorship-workshop/"><u>2024 Approved Prime Authorship Workshop</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-streaming-tips-for-uninterrupted-broadcasts/"><u>2024 Approved Seamless Streaming Tips for Uninterrupted Broadcasts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-t2x-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo T2x 5G Is Unlocked</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-x-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone X Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-x100-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo X100 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pixelated-personae-effective-face-covering-tactics/"><u>In 2024, Pixelated Personae Effective Face Covering Tactics</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-viber-out-app-evaluation-features-and-performance/"><u>In-Depth Viber Out App Evaluation: Features & Performance</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premium-android-listening-helpers-for-2024/"><u>Premium Android Listening Helpers for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/repairing-voice-communication-features-in-among-us-tips-and-guides-for-pc-users/"><u>Repairing Voice Communication Features in Among Us - Tips & Guides for PC Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/scheduling-effective-zoom-conversations-on-android-platforms-for-2024/"><u>Scheduling Effective Zoom Conversations on Android Platforms for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/unveiling-tech-secrets-wisdom-from-toms-hardware/"><u>Unveiling Tech Secrets: Wisdom From Tom's Hardware</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/levating-your-contents-impact-an-in-depth-look-at-youtube-thumbnail-size/"><u>[New] Elevating Your Content's Impact An In-Depth Look at YouTube Thumbnail Size</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mac-users-check-your-hardware-for-big-sur/"><u>[New] Mac Users, Check Your Hardware for Big Sur</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-meme-magic-unleashed-top-humorous-creations-for-the-metaverse-world/"><u>[New] Meme Magic Unleashed Top Humorous Creations for the Metaverse World</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-no-more-queasiness-in-vr-worlds/"><u>[New] No More Queasiness in VR Worlds</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-finest-global-virtual-learning-hubs-outside-udemy/"><u>[New] The Finest Global Virtual Learning Hubs Outside Udemy</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-reviving-dull-images-the-most-effective-10-web-editing-aids/"><u>[Updated] Reviving Dull Images The Most Effective 10 Web Editing Aids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-to-stunning-photomontages/"><u>[Updated] Step-by-Step to Stunning Photomontages</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-macs-optimal-clipping-options-reviewed/"><u>2024 Approved Mac's Optimal Clipping Options Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-screenplay-sensation-roundup/"><u>2024 Approved Screenplay Sensation Roundup</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/godfall-game-analysis-why-sonys-ps5-exclusive-falls-short/"><u>Godfall Game Analysis: Why Sony's PS5 Exclusive Falls Short</u></a></li>
+<li><a href="https://win-superb.techidaily.com/gouden-regels-voor-dataverdeling-wieletalen-opheffing-zonder-toepassingsprogrammas/"><u>Gouden Regels Voor Dataverdeling: Wieletalen Opheffing Zonder Toepassingsprogramma's</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-7-secure-video-conferencing-systems-for-smbs-for-2024/"><u>Ultimate 7 Secure Video Conferencing Systems for SMBs for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo Reno 11 5G | Dr.fone</u></a></li>
 </ul></div>
 

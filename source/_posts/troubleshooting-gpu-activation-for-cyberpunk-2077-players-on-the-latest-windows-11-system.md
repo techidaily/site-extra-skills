@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting GPU Activation for Cyberpunk 2077 Players on the Latest Windows 11 System
-date: 2024-11-14T16:37:44.231Z
-updated: 2024-11-16T16:44:18.339Z
+date: 2024-11-21T16:44:44.997Z
+updated: 2024-11-26T00:57:26.972Z
 tags:
   - win11
   - win10
@@ -49,6 +49,10 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-413.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After checking your PC specs, take a look at the minimum and recommended system requirements for FIFA 20:
 
 **MINIMUM REQUIREMENTS**
@@ -78,13 +82,6 @@ In case you don’t know how, here’s the guidance:
  If you find out that your computer cannot keep up with the game, you should upgrade some components first, say replacing your graphics card with a more powerful one (based on your actual situation of course).
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8 fixes for FIFA 20 crashing
 
@@ -127,10 +124,7 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -154,10 +148,7 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-212.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
@@ -167,6 +158,10 @@ In case you don’t know how, here’s the guidance:
  3) Click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
 
@@ -180,13 +175,6 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update Windows operating system
 
  This fix should be helpful especially when your Windows operating system hasn’t been updated for a long time. You should first check for updates, then perform them if there’s any.
@@ -196,15 +184,16 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-947.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait for the system to search for available updates online. If there’s indeed a pending update, then Windows will automatically download the update and install it. Once the process completes, restart your computer for the changes to be fully implemented.
 
@@ -239,10 +228,7 @@ In case you don’t know how, here’s the guidance:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Adjust settings in NVIDIA Control Panel
@@ -264,6 +250,10 @@ In case you don’t know how, here’s the guidance:
 If you continue to face the crashing problem, please move on to Fix 6.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
 
@@ -304,6 +294,10 @@ sfc /scannow
 
 ![This image has an empty alt attribute; its file name is image-182.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If prompted for consent, click **Yes** .
 
  2) In Command Prompt, type the following command (**note** that there’s a space to the left of each slash “/”):
@@ -319,10 +313,7 @@ dism.exe /online /cleanup-image /restorehealth
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Close unnecessary programs
@@ -334,13 +325,6 @@ dism.exe /online /cleanup-image /restorehealth
  If, after restoring the game files mistakenly deleted by your antivirus the game is still crashing, you should try to download and install it once again. However, make sure you turn off the antivirus temporarily during the reinstall process of FIFA 20.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Wait for more game updates
 
@@ -368,20 +352,21 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-regain-seamless-performance-in-your-frozen-or-slowed-down-tiktok-app/"><u>[New] 2024 Approved Regain Seamless Performance in Your Frozen or Slowed Down TikTok App</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-speedy-shutterbugs-iphones-quick-time-lapse-guide/"><u>[New] 2024 Approved Speedy Shutterbugs IPhone's Quick Time-Lapse Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-how-to-edit-the-length-of-a-video-on-youtube/"><u>[New] In 2024, How to Edit the Length of a Video on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-innovate-transforming-raw-footage-into-youtube-thumbnails-via-smartphones-for-2024/"><u>[Updated] How to Innovate Transforming Raw Footage Into YouTube Thumbnails via Smartphones for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-instant-reddit-history-retrieval-for-deleted-threads/"><u>[Updated] Instant Reddit History Retrieval for Deleted Threads</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-performance-probe-a-vll-app-overview/"><u>[Updated] Performance Probe A VLL App Overview</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-joke-generation-made-simple-kapwing-app-guide/"><u>2024 Approved Joke Generation Made Simple – Kapwing App Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-mastering-your-movements-the-complete-guide-to-slow-mo-in-tiktok/"><u>2024 Approved Mastering Your Movements The Complete Guide to Slow Mo in TikTok</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-nvidia-geforce-gtx-1080-graphics-card-drivers-for-windows-10-quick-and-simple/"><u>Download Nvidia GeForce GTX 1080 Graphics Card Drivers for Windows 10 - Quick & Simple</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-set-up-three-monitors/"><u>How to Set Up Three Monitors</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-xiaomi-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Xiaomi Phone Screen?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-leveraging-zoom-for-superior-skype-interactions-and-communication/"><u>In 2024, Leveraging Zoom for Superior Skype Interactions & Communication</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-17-essential-steps-for-capturing-live-online-streams-for-2024/"><u>Navigating 17 Essential Steps for Capturing Live Online Streams for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pro-filmmakers-guide-to-speedy-shot-techniques-for-2024/"><u>Pro Filmmaker's Guide to Speedy Shot Techniques for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/scripting-striking-film-epilogues-for-2024/"><u>Scripting Striking Film Epilogues for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-essential-guide-to-starting-your-first-successful-youtubes-for-business/"><u>[New] 2024 Approved The Essential Guide to Starting Your First Successful YouTubes for Business</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-ace-your-project-advanced-srt-tweaks-on-a-mac/"><u>[New] Ace Your Project Advanced SRT Tweaks on a Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sonic-scenes-from-still-shots/"><u>[New] Sonic Scenes From Still Shots</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-ultimate-hd-experience-1-blu-ray-players-list/"><u>[Updated] In 2024, Ultimate HD Experience #1 Blu-Ray Players List</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photo-gymnastics-mastering-the-art-of-pictorial-twists/"><u>[Updated] Photo Gymnastics Mastering the Art of Pictorial Twists</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-shake-free-video-post-capture-tips-and-tricks/"><u>[Updated] Shake-Free Video Post-Capture Tips & Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sprint-through-photo-composition-googles-easy-way/"><u>[Updated] Sprint Through Photo Composition - Google's Easy Way</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-from-passive-to-active-a-3-step-framework-to-evaluate-your-youtube-financials/"><u>2024 Approved From Passive to Active A 3-Step Framework to Evaluate Your YouTube Financials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mobile-live-streaming-on-yt-without-thousands-in-followers/"><u>2024 Approved Mobile Live Streaming on YT Without Thousands in Followers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/achieve-visual-harmony-optimal-sizing-for-instagram-videos-for-2024/"><u>Achieve Visual Harmony Optimal Sizing for Instagram Videos for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/achieving-success-a-guide-to-setting-health-objectives-using-chatgpt/"><u>Achieving Success: A Guide to Setting Health Objectives Using ChatGPT</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/daily-dose-of-language-learning-urdus-10-minutes/"><u>Daily Dose of Language Learning - Urdu's 10 Minutes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-finding-image-collections-for-media/"><u>In 2024, Mastering the Art of Finding Image Collections for Media</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ipad-102-inch-7th-gen-review-how-ipados-revolutionizes-productivity/"><u>IPad 10.2-Inch (7Th Gen) Review: How iPadOS Revolutionizes Productivity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-insights-into-sony-s6700s-updates-for-2024/"><u>New Insights Into Sony S6700's Updates for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-mini-beast-an-experts-review-of-the-acer-predator-triton-300-ses-power-and-price-balance/"><u>Unveiling the Mini Beast - An Expert's Review of the Acer Predator Triton 300 SE's Power and Price Balance</u></a></li>
 </ul></div>
 
