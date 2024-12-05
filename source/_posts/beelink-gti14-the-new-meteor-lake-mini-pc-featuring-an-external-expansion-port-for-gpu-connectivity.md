@@ -1,7 +1,7 @@
 ---
 title: "Beelink GTi14: The New Meteor Lake Mini-PC Featuring an External Expansion Port for GPU Connectivity"
-date: 2024-11-24T19:08:54.190Z
-updated: 2024-11-25T16:07:58.876Z
+date: 2024-11-28T19:24:21.666Z
+updated: 2024-12-05T21:30:04.906Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,17 +78,24 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-add-featured-channels-on-youtube-a-complete-guide/"><u>[New] In 2024, How to Add Featured Channels on YouTube A Complete Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-strategies-to-become-a-top-notch-interviewer-for-2024/"><u>[New] Strategies to Become a Top-Notch Interviewer for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-superior-real-time-media-streamers/"><u>[Updated] 2024 Approved Superior Real-Time Media Streamers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-gecata-game-recorder-review-complete/"><u>[Updated] Gecata Game Recorder Review [Complete]</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pc-friendly-non-inshot-editing-software/"><u>[Updated] PC-Friendly Non-Inshot Editing Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-reducing-inertia-induced-jello-in-uav-videos/"><u>[Updated] Reducing Inertia-Induced Jello in UAV Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-revolutionize-your-augmented-reality-graphics-using-custom-luts/"><u>[Updated] Revolutionize Your Augmented Reality Graphics Using Custom LUTs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-elevating-your-shots-with-lightrooms-hdr-merging-magic/"><u>2024 Approved Elevating Your Shots with Lightroom's HDR Merging Magic</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-poco-f5-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Poco F5 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-remedy-for-warped-gopro-imagery-a-comprehensive-tutorial/"><u>In 2024, Remedy for Warped GoPro Imagery A Comprehensive Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/msvcp140dll-replacement-methods/"><u>MSVCP140.dll Replacement Methods</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transformative-photos-lightroom-techniques-for-stunning-hdr/"><u>Transformative Photos Lightroom Techniques for Stunning HDR</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-12-pc-clicker-games-to-elevate-gameplay-for-2024/"><u>[New] Essential 12 PC Clicker Games to Elevate Gameplay for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-open-source-tranquil-harmony/"><u>[New] Open Source Tranquil Harmony</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-photoquilt-supreme-eightfold-creation-engine/"><u>[New] PhotoQuilt Supreme Eightfold Creation Engine</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-standout-storytelling-in-multifaceted-cinemascape/"><u>[New] Standout Storytelling in Multifaceted Cinemascape</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-whats-in-it-for-a-million-youtube-viewers/"><u>[New] What’s in It for a Million YouTube Viewers?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-economical-dslrmirrorless-systems/"><u>[Updated] 2024 Approved Economical DSLR/Mirrorless Systems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dismantle-bots-elevate-youtube-watch-time/"><u>[Updated] In 2024, Dismantle Bots, Elevate YouTube Watch Time</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-immortalize-your-gaming-adventures-on-pc-6-ways/"><u>[Updated] In 2024, Immortalize Your Gaming Adventures on PC [6 Ways]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-spots-for-digital-3d-glamour-text-artistry/"><u>2024 Approved Leading Spots for Digital 3D Glamour Text Artistry</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-microscopic-views-in-teams/"><u>2024 Approved Mastering the Microscopic Views in Teams</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-a23-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy A23 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-artificial-intelligence-black-boxes-exploring-how-they-operate/"><u>Demystifying Artificial Intelligence Black Boxes – Exploring How They Operate</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-how-lenovo-ideapad-delivers-essential-features-within-a-robust-design/"><u>Discover How Lenovo Ideapad Delivers Essential Features Within a Robust Design</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-infinix-note-30-vip-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Infinix Note 30 VIP Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-live-photos-iphone-usage-tips/"><u>In 2024, Mastering Live Photos IPhone Usage Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-portable-battery-packs-to-keep-recording-longer/"><u>In 2024, Portable Battery Packs to Keep Recording Longer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-intricacies-of-previewing-off-facebook-activities-for-2024/"><u>Navigating the Intricacies of Previewing Off-Facebook Activities for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/soundscapes-enhancing-photography-online-for-2024/"><u>Soundscapes Enhancing Photography Online for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-and-resolving-driver-problems-on-your-lg-monitor-for-windows-users-versions-10-7-81/"><u>Troubleshooting and Resolving Driver Problems on Your LG Monitor for Windows Users (Versions 10, 7, 8.1)</u></a></li>
 </ul></div>
 

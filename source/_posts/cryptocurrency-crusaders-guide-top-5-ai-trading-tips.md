@@ -1,7 +1,7 @@
 ---
 title: "Cryptocurrency Crusaders' Guide: Top 5 AI Trading Tips"
-date: 2024-11-23T16:46:33.392Z
-updated: 2024-11-25T19:27:40.737Z
+date: 2024-11-30T17:00:23.232Z
+updated: 2024-12-05T20:33:29.485Z
 tags:
   - chatgpt
   - open-ai
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. openai-pc-pro.online
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
  The domain is promoted by “Chat GPT AI,” a popular ChatGPT-themed Facebook page, a page that frequently posts about ChatGPT and [OpenAI’s Jukebox](https://www.makeuseof.com/what-is-openai-jukebox-ai-music/). The posts often contain links to malicious domains, including openai-pc-pro.online.
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. chat-gpt-pc.online
 
@@ -59,33 +55,33 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -96,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
  If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
@@ -124,16 +124,16 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-tecno-spark-10-4g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Tecno Spark 10 4G FRP</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/8-ways-language-learning-reimagines-your-worldview/"><u>8 Ways Language Learning Reimagines Your Worldview</u></a></li>
-<li><a href="https://win-trending.techidaily.com/experience-the-power-of-flash-on-your-iphone-4-update-allowed/"><u>Experience the Power of Flash on Your iPhone 4 - Update Allowed!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-interactive-horizinas-analyzing-the-triumvirate-of-tech-vr-ar-and-mr/"><u>In 2024, Interactive Horizinas Analyzing the Triumvirate of Tech (VR, AR, & MR)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-smart-picks-user-friendly-bd-software-for-pc-and-mac/"><u>In 2024, Smart Picks User-Friendly BD Software for PC and Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-srt-to-sub-guide-practical-conversion-methods/"><u>In 2024, SRT to SUB Guide Practical Conversion Methods</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-ensuring-accurate-age-on-tiktok/"><u>In 2024, Step-by-Step Ensuring Accurate Age on TikTok</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/narrow-your-focus-on-elite-hdr-camera-systems-for-2024/"><u>Narrow Your Focus on Elite HDR Camera Systems for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726029159328-pc/"><u>PCとスマートフォンで特定のオーディオクリップを取り除く専用ガイド</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-ranked-ergonomic-vertical-mice-a-comprehensive-guide/"><u>Top-Ranked Ergonomic Vertical Mice : A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-place.techidaily.com/understanding-trickbot-threats-protection-tips-and-strategies-cyberguardian/"><u>Understanding TrickBot Threats: Protection Tips & Strategies – CyberGuardian</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-tips-and-tricks-to-help-you-use-lunapic-photo-editor-like-a-pro/"><u>[New] In 2024, Tips and Tricks to Help You Use Lunapic Photo Editor Like A Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-10-editors-seamless-image-transformation-pro/"><u>[New] Prime 10 Editors Seamless Image Transformation Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-punpictures-pro-jestjokes-network/"><u>[New] PunPictures Pro JestJokes Network</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-routine-for-large-files-journey-from-iphones-to-macs-for-2024/"><u>[New] The Ultimate Routine for Large Files' Journey From iPhones to Macs for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-reno-10-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo Reno 10 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oneplus-11-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From OnePlus 11 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pinnacle-studios-evaluation-an-in-depth-study/"><u>In 2024, Pinnacle Studios Evaluation An In-Depth Study</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oneplus-ace-2v-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change OnePlus Ace 2V IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/planning-a-dynamic-tiktok-outro-experience/"><u>Planning a Dynamic TikTok Outro Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/protect-privacy-with-these-critical-face-cropping-options-for-2024/"><u>Protect Privacy with These Critical Face Cropping Options for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-ultimate-guide-to-stellar-tiktok-content-through-template-utilization/"><u>The Ultimate Guide to Stellar TikTok Content Through Template Utilization</u></a></li>
 </ul></div>
 

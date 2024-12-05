@@ -1,7 +1,7 @@
 ---
 title: Exploring Performance & Value in the Corsair One I500 Tiny Gaming Rig
-date: 2024-11-18T17:56:20.333Z
-updated: 2024-11-25T22:53:58.749Z
+date: 2024-11-28T16:41:23.463Z
+updated: 2024-12-05T17:42:42.406Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,19 +89,24 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-strategizing-visibility-for-podcasts-through-design/"><u>[New] 2024 Approved Strategizing Visibility for Podcasts Through Design</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-optimized-video-transformation-on-macios-the-8-list/"><u>[New] Optimized Video Transformation on Mac/iOS The #8 List</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-ultimate-highlight-hits-ios-and-android-instagram-covers-apps-for-2024/"><u>[New] Ultimate Highlight Hits IOS & Android Instagram Covers Apps for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-invent-iconic-images-through-giphy/"><u>[Updated] Invent Iconic Images Through Giphy</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-peak-performance-frames-per-second-slow-motion/"><u>[Updated] Peak Performance Frames Per Second Slow Motion</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-summit-build-lab-examination/"><u>[Updated] Summit Build Lab Examination</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-lowering-sound-gradually-a-logic-pro-method/"><u>2024 Approved Lowering Sound Gradually A Logic Pro Method</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-remote-ratio-reformation-online-calculation/"><u>2024 Approved Remote Ratio Reformation Online Calculation</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-picture-perfection-the-ultimate-iosandroid-covers-app/"><u>In 2024, Picture Perfection The Ultimate iOS/Android Covers App</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-streamlining-your-youtube-views-a-guide-to-blocking-advertisements/"><u>In 2024, Streamlining Your YouTube Views A Guide to Blocking Advertisements</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-the-apple-m3-macbook-air-the-revolutionary-budget-friendly-ai-device-you-cant-miss-review-by-zdnet/"><u>Introducing the Apple M3 MacBook Air: The Revolutionary, Budget-Friendly AI Device You Can't Miss | Review by ZDNET</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategies-to-ensure-iphone-camera-focus-for-2024/"><u>Strategies to Ensure iPhone Camera Focus for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-poco-c51-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Poco C51 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/upgrading-made-easy-navigating-to-windows-11-success/"><u>Upgrading Made Easy Navigating to Windows 11 Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximizing-impact-innovative-fb-strategies-for-handc-marketing/"><u>[New] Maximizing Impact Innovative FB Strategies for H&C Marketing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-smartest-titles-at-your-fingertips/"><u>[New] Smartest Titles at Your Fingertips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-mystical-camera-pause-strategies/"><u>[Updated] 2024 Approved Mystical Camera Pause Strategies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-smudge-free-sequence-eliminating-gopro-fog/"><u>[Updated] 2024 Approved The Smudge-Free Sequence Eliminating GoPro Fog</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-jovial-access-key-strategies/"><u>2024 Approved Jovial Access Key Strategies</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/capture-perfection-optimal-use-of-zoom-feature-for-photos-and-videos-for-2024/"><u>Capture Perfection Optimal Use of Zoom Feature for Photos & Videos for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-evaluating-tablets-based-on-their-physical-characteristics-size-and-weight/"><u>Comprehensive Guide to Evaluating Tablets Based on Their Physical Characteristics: Size & Weight</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dynamic-focus-enhanced-handheld-shot-quality/"><u>Dynamic Focus Enhanced Handheld Shot Quality</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/episode-excellence-optimal-launch-windows-for-2024/"><u>Episode Excellence Optimal Launch Windows for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-se-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone SE?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-max-360-vs-hero-11-discovering-the-gopro-video-champion/"><u>In 2024, Max 360 Vs. Hero 11 - Discovering the GoPro Video Champion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-non-proprietary-serene-tunes/"><u>In 2024, Non-Proprietary Serene Tunes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pivoting-from-srt-to-subtitle-format/"><u>In 2024, Pivoting From SRT to Subtitle Format</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionize-with-a-stroke-premier-tablet-draw-tools/"><u>In 2024, Revolutionize with a Stroke Premier Tablet Draw Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-potential-with-best-free-text-psdfree/"><u>In 2024, Unlock Potential with Best Free Text PSDFree</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/instagram-stories-learn-to-modify-video-velocity-for-2024/"><u>Instagram Stories Learn to Modify Video Velocity for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-camera-professional-shots-fixing-shaky-gopro-recording-for-2024/"><u>Pro Camera, Professional Shots Fixing Shaky GoPro Recording for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-application-errors-in-ark-best-practices-for-stable-archival-experiences/"><u>Resolving Application Errors in ARK: Best Practices for Stable Archival Experiences</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide to Perfecting TikTok Broadcast on Zoom\""
-date: 2024-11-22T22:40:16.469Z
-updated: 2024-11-26T01:20:22.809Z
+date: 2024-11-29T16:40:09.944Z
+updated: 2024-12-05T18:42:22.660Z
 tags: 
   - screen-recording
   - ai video
@@ -32,13 +32,17 @@ The first one involves zooming in while recording the video and the second one i
 
 ![create a new video tiktok](https://images.wondershare.com/filmora/article-images/2022/07/create-a-new-video-tiktok.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * When you tap on the "+" icon, the recording interface will open up. Now, select the duration of the video by tapping the "clock" icon on the left-hand side of the screen. After selecting a set duration, you will find a red shutter button which you will need to hold to start the recording.
 * Now, to zoom in on the recording, you can use any of two methods of zooming in. The first method involves you moving your finger up towards the top of your phone from the shutter icon. This will show you a red circle getting bigger.
 * Alternatively, you can use one finger to pinch into the screen while holding the shutter icon with another finger and this will ultimately help you achieve a zoom effect on your video.
 * For zooming out, you can move your finger towards the shutter button or pinch out and then save the video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Zoom an existing TikTok video
@@ -51,16 +55,12 @@ TikTok is known to provide a vast number of filters as well as editing tools tha
 ![tap visual effects tiktok](https://images.wondershare.com/filmora/article-images/2022/07/tap-visual-effects-tiktok.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Here you will need to find an effect namely the "zoom effect" and tapping on it will apply the effect to your video.
 
 ![choose zoom effect tiktok](https://images.wondershare.com/filmora/article-images/2022/07/choose-zoom-effect-tiktok.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * You can drag the marker of the timeline to set the beginning of the effect on your video. Then press the zoom effect and release it where you want the zoom effect to end.
 * Then save the video and the effect will be applied successfully.
@@ -78,18 +78,18 @@ And if you are new to this platform, you can follow these steps to use this face
 ![zoom tiktok filter](https://images.wondershare.com/filmora/article-images/2022/07/zoom-tiktok-filter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * The filter icon background is of turquoise color. You will need to tap on that and your face zoom effect will be activated.
 
 ![activitate face zoom effect](https://images.wondershare.com/filmora/article-images/2022/07/activitate-face-zoom-effect.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Alternatively, you can also go to the effects page and the search bar and then type "Face Zoom" on the text box, followed by a search click to find the TikTok facezoom filter more easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -127,24 +127,16 @@ TikTok has become more than just a social media platform and these days almost e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-videographys-bright-side-5-must-have-apps/"><u>[New] In 2024, Videography's Bright Side 5 Must-Have Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-inside-facetune-an-authoritative-review-for-improved-images/"><u>[New] Inside Facetune An Authoritative Review for Improved Images</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-quick-captioning-method-for-enhanced-youtube-video-quality/"><u>[New] Quick Captioning Method for Enhanced YouTube Video Quality</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-fast-facial-masking-on-piscart-a-convenient-guide/"><u>[Updated] 2024 Approved Fast Facial Masking on PiscArt A Convenient Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-clandestine-fb-live-observer/"><u>[Updated] In 2024, Clandestine FB Live Observer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pictuner-expert-strategies-in-image-distortion/"><u>[Updated] PicTuner Expert Strategies in Image Distortion</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-rhythm-for-rings-how-to-download-and-cut-tamil-melodies/"><u>[Updated] Rhythm for Rings How To Download and Cut Tamil Melodies</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-mais-robusto-e-facil-de-usar-o-melhor-software-para-back-up-e-recuperacao-do-windows-aomei-backupper/"><u>1. Mais Robusto E Fácil De Usar: O Melhor Software Para Back-Up E Recuperação Do Windows - AOMEI Backupper</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-facial-transformation-tools-for-smartphones/"><u>2024 Approved Premier Facial Transformation Tools for Smartphones</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-text-warping-techniques-in-photos-and-videos/"><u>In 2024, Mastering Text Warping Techniques in Photos & Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-obs-or-wirecast-deciding-on-the-best-streamer-tool/"><u>In 2024, OBS or Wirecast? Deciding on the Best Streamer Tool</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-online-tools-for-dynamic-aspect-adjustment/"><u>In 2024, Online Tools for Dynamic Aspect Adjustment</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prime-windows-11-photo-inspector/"><u>In 2024, Prime Windows 11 Photo Inspector</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-powerpoints-voice-recognition-lands-market-for-2024/"><u>Navigating PowerPoint's Voice Recognition Lands Market for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-best-zero-cost-video-editors-for-cutting-and-merging-videos/"><u>New The Best Zero-Cost Video Editors for Cutting and Merging Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/swiftly-implementing-codegpt-for-code-development-on-vs-code/"><u>Swiftly Implementing CodeGPT for Code Development on VS Code</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-teams-mishaps-screen-share-solved/"><u>Win Teams Mishaps: Screen Share Solved</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-disrupted-tunes-the-best-audio-rippers-for-2024/"><u>[New] Disrupted Tunes The Best Audio Rippers for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-reality-altered-by-virtual-sight/"><u>[Updated] Reality Altered by Virtual Sight</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-get-facebook-links-no-cash-required/"><u>2024 Approved Get Facebook Links, No Cash Required</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-short-vid-star-spotlight-check/"><u>2024 Approved Short Vid Star Spotlight Check</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-downloads-4-prime-ringtones-providers/"><u>In 2024, Seamless Downloads 4 Prime Ringtones Providers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/momentary-motion-picture-manuscript-for-2024/"><u>Momentary Motion Picture Manuscript for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/select-selections-ideal-pages-for-acquiring-snapalert-tunes-for-2024/"><u>Select Selections Ideal Pages for Acquiring SnapAlert Tunes for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/skys-biggest-load-carriers-drones-ranked-for-2024/"><u>Sky's Biggest Load Carriers Drones Ranked for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-infographic-yearbook-of-2017s-youtube-insights-and-trends/"><u>The Infographic Yearbook of 2017'S Youtube Insights & Trends</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-5-drone-racing-headsets-ultimate-vr-experience/"><u>Top 5 Drone Racing Headsets Ultimate VR Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-realme-c67-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Realme C67 5G IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet"
-date: 2024-11-23T16:30:50.033Z
-updated: 2024-11-25T23:37:42.490Z
+date: 2024-11-29T20:28:42.860Z
+updated: 2024-12-05T16:05:51.305Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Review: Lenovo Tab ^4 - The Balance Between Affordability and Limitations in an Android Tablet"
@@ -12,10 +12,6 @@ thumbnail: https://thmb.techidaily.com/f2d9a0df990eba4814a4cbbd3bd0e18b69c14ac68
 ## Crafting a New Reality in Torment: A Comprehensive Guide to Science Fiction RPG and Its Unique Setting in Numenera
 
 2.7
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## inXile Entertainment Torment: Tides of Numenera
 
@@ -40,13 +36,13 @@ Lifewire / Kelsey Simon
 
 2.7
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -67,7 +63,7 @@ Lifewire / Kelsey Simon
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Story: Heavy-handed writing to the exclusion of all else**
@@ -104,10 +100,6 @@ Lifewire / Kelsey Simon
 
  The one thing the game does have to offer is a rich and unique world that combines elements of fantasy and science fiction in an interesting way.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Graphics: Outdated and simplistic**
 
  Tides of Numenera was created in 2017―however, you wouldn’t know this if you jumped into the game and made a guess based upon the[graphics](https://www.lifewire.com/optimizing-video-game-frame-rates-811784) . The graphics look more like they’re stuck in the early 2000s, with blocky, almost pixelated characters. There is some forgiveness to be had because the game isn’t focused on the visuals―it’s more about the words and the story. But there is a limit to how forgiving one can be considering the game isn’t that old.
@@ -116,11 +108,11 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
- Lifewire / Kelsey Simon
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Kelsey Simon
 
 ## **Price: Only worth it if you’re keen on the story**
 
@@ -129,6 +121,10 @@ Lifewire / Kelsey Simon
  That said, if role-playing games with a text-heavy focus are of interest to you, then the game does have a lot to offer for the cost. The world of Numenera is vast, and considering all the prompts that alter the story, the game also has a lot of replayability. While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else, and for those players, the $50 cost will be worth it.
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: Other story focused RPGs**
 
@@ -141,6 +137,10 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -165,20 +165,16 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-mastery-in-messaging-perfecting-video-posting-on-discord/"><u>[New] 2024 Approved Mastery in Messaging Perfecting Video Posting on Discord</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-strategic-brand-alliances-for-video-influencers/"><u>[New] Strategic Brand Alliances for Video Influencers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfecting-iphone-timelapse-techniques/"><u>[Updated] Perfecting iPhone Timelapse Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-skyline-spectacular-the-gopro-karma-edition/"><u>[Updated] Skyline Spectacular The GoPro Karma Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-world-of-fpv-drone-propellers/"><u>2024 Approved Navigating the World of FPV Drone Propellers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transformative-approaches-to-engaging-with-online-video-reviews/"><u>2024 Approved Transformative Approaches to Engaging with Online Video Reviews</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-lava-blaze-curve-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-tecno-spark-10c-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-approaches-to-streamline-domestic-life/"><u>AI-Driven Approaches to Streamline Domestic Life</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/building-your-signature-solo-podcast-series-for-2024/"><u>Building Your Signature Solo Podcast Series for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-samsung-galaxy-m54-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Samsung Galaxy M54 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pen-to-pixel-best-photography-caption-apps-iosandroid/"><u>In 2024, Pen to Pixel Best Photography Caption Apps (iOS/Android)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-apples-content-downloading-with-ease-for-2024/"><u>Navigating Apple's Content Downloading with Ease for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/power-play-essential-10-motivational-films-for-2024/"><u>Power Play Essential 10 Motivational Films for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/reclaim-your-control-over-noncooperative-steam-software/"><u>Reclaim Your Control Over Noncooperative Steam Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-next-era-visionaries-explore-10-sci-fi-movies-metaverse-realms/"><u>[New] Next Era Visionaries Explore 10 Sci-Fi Movies' Metaverse Realms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-engagement-hook-generator/"><u>[Updated] Prime Engagement Hook Generator</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-oppo-find-n3-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Oppo Find N3.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-spark-20-proplus-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-basic-to-expert-mastering-the-art-of-adobe-ps-background-removal-for-2024/"><u>From Basic to Expert Mastering the Art of Adobe PS Background Removal for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-htc-u23-pro-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on HTC U23 Pro?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-process-open-mac-seamlessly-with-watch/"><u>In 2024, Pioneering Process Open Mac Seamlessly with Watch</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-tips-the-fastest-5-diy-filmmaking-tricks-at-home/"><u>In 2024, Pro Tips The Fastest 5 DIY Filmmaking Tricks at Home</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-vr-headsets-transforming-drones/"><u>Innovative VR Headsets Transforming Drones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lightroom-classic-learning-hub-for-2024/"><u>Lightroom Classic Learning Hub for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-disk-read-error-in-windows-10-a-comprehensive-guide/"><u>Resolving the 'Disk Read Error' In Windows 10: A Comprehensive Guide</u></a></li>
 </ul></div>
 

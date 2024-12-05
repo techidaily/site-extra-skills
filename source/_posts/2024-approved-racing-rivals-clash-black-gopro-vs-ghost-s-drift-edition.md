@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Racing Rivals Clash  Black GoPro Vs. Ghost-S Drift Edition\""
-date: 2024-07-31T10:07:52.974Z
-updated: 2024-08-01T10:07:52.974Z
+date: 2024-11-30T18:01:11.865Z
+updated: 2024-12-05T21:00:57.865Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/08c3aa17e0d4eaa82a6912035c2625c6aeb814a3c
 
 # GoPro Hero4 Black VS Drift Ghost-S
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -72,25 +69,14 @@ thumbnail: https://thmb.techidaily.com/08c3aa17e0d4eaa82a6912035c2625c6aeb814a3c
 
  Although this bullet shaped Ghost S action cam is bulkier and larger than most competing models but the advantage is that it can store a powerful battery inside. At the same time you will be able to access buttons on the top for all major controls like left/right navigation, Menu and power button that provides direct control over Select/Play and Record functions. A bright LED is provided to reflect the recording status all the time and on the back portion a removable cover is used to hide the 3.5 mm mic jack, Mini USB port, Mini HDMI, Micro SD and battery. A standard screw mount along with speaker is connected at right side.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![Drift-Ghost-S-35832568-design](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_35832568_design.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hero 4 Black layout is really impressive with a Wi-Fi button on the right side and a special setting button that assists in immediate adjustment of camera modes. On the left side of the device, the removable cover is hiding Micro SD slot, Mini USB port and Micro HDMI port etc.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![gopro-hero4-black-design](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-design.jpg)
 
 #### 2\.  Accessories in the Box
@@ -98,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/08c3aa17e0d4eaa82a6912035c2625c6aeb814a3c
  • Drift Ghost S: In the box you will find the camera, battery, remote, a non waterproof type connector that allows easy access to mic ports and mini USB terminal, a universal clip, a wrist strap, two mount clips, one mini USB cable, one goggle mount and a microphone extension cable.
 
 ![Drift-Ghost-S-accessories](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_accessories.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  • Hero 4 Black: This device usually comes with standard housing arrangement and to provide direct access to camera a skeleton backdoor is included. Other than this the box will have rechargeable battery, flat and curved adhesive mount, three way pivot arm, quick release buckles and Mini USB Cable.
 
@@ -204,10 +194,11 @@ Follow @Max Wales
 
  Hero 4 Black layout is really impressive with a Wi-Fi button on the right side and a special setting button that assists in immediate adjustment of camera modes. On the left side of the device, the removable cover is hiding Micro SD slot, Mini USB port and Micro HDMI port etc.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![gopro-hero4-black-design](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-design.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\.  Accessories in the Box
 
@@ -217,9 +208,6 @@ Follow @Max Wales
 
  • Hero 4 Black: This device usually comes with standard housing arrangement and to provide direct access to camera a skeleton backdoor is included. Other than this the box will have rechargeable battery, flat and curved adhesive mount, three way pivot arm, quick release buckles and Mini USB Cable.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![gopro-hero4-black-accessories](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-accessories.jpg)
 
  Need more information about accessories?[Check Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -282,6 +270,10 @@ Follow @Max Wales
 
  The complete comparison provided below in this article will help you to make decision about on which camera you must keep your eye in 2017:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Complete Comparison
 
 #### Specs Comparison between Ghost-S and Hero4 Black
@@ -319,9 +311,6 @@ Follow @Max Wales
 
  Although this bullet shaped Ghost S action cam is bulkier and larger than most competing models but the advantage is that it can store a powerful battery inside. At the same time you will be able to access buttons on the top for all major controls like left/right navigation, Menu and power button that provides direct control over Select/Play and Record functions. A bright LED is provided to reflect the recording status all the time and on the back portion a removable cover is used to hide the 3.5 mm mic jack, Mini USB port, Mini HDMI, Micro SD and battery. A standard screw mount along with speaker is connected at right side.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![Drift-Ghost-S-35832568-design](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_35832568_design.jpg)
 
  Hero 4 Black layout is really impressive with a Wi-Fi button on the right side and a special setting button that assists in immediate adjustment of camera modes. On the left side of the device, the removable cover is hiding Micro SD slot, Mini USB port and Micro HDMI port etc.
@@ -334,11 +323,12 @@ Follow @Max Wales
 
 ![Drift-Ghost-S-accessories](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_accessories.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  • Hero 4 Black: This device usually comes with standard housing arrangement and to provide direct access to camera a skeleton backdoor is included. Other than this the box will have rechargeable battery, flat and curved adhesive mount, three way pivot arm, quick release buckles and Mini USB Cable.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![gopro-hero4-black-accessories](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-accessories.jpg)
 
  Need more information about accessories?[Check Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -383,10 +373,11 @@ Follow @Max Wales
 
  Want to learn more about Ghost-S?[Check Drift Innocations Ghost-S Action Camera Review](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -441,27 +432,21 @@ Follow @Max Wales
 
  Although this bullet shaped Ghost S action cam is bulkier and larger than most competing models but the advantage is that it can store a powerful battery inside. At the same time you will be able to access buttons on the top for all major controls like left/right navigation, Menu and power button that provides direct control over Select/Play and Record functions. A bright LED is provided to reflect the recording status all the time and on the back portion a removable cover is used to hide the 3.5 mm mic jack, Mini USB port, Mini HDMI, Micro SD and battery. A standard screw mount along with speaker is connected at right side.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Drift-Ghost-S-35832568-design](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_35832568_design.jpg)
 
  Hero 4 Black layout is really impressive with a Wi-Fi button on the right side and a special setting button that assists in immediate adjustment of camera modes. On the left side of the device, the removable cover is hiding Micro SD slot, Mini USB port and Micro HDMI port etc.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![gopro-hero4-black-design](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-design.jpg)
 
 #### 2\.  Accessories in the Box
 
  • Drift Ghost S: In the box you will find the camera, battery, remote, a non waterproof type connector that allows easy access to mic ports and mini USB terminal, a universal clip, a wrist strap, two mount clips, one mini USB cable, one goggle mount and a microphone extension cable.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Drift-Ghost-S-accessories](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_accessories.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  • Hero 4 Black: This device usually comes with standard housing arrangement and to provide direct access to camera a skeleton backdoor is included. Other than this the box will have rechargeable battery, flat and curved adhesive mount, three way pivot arm, quick release buckles and Mini USB Cable.
 
@@ -509,10 +494,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Want to learn more about Ghost-S?[Check Drift Innocations Ghost-S Action Camera Review](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -542,5 +528,22 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-best-slow-motion-cameras/"><u>[Updated] Best Slow-Motion Cameras</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-humor-hubs-the-most-enjoyable-ringtone-downloads/"><u>[Updated] In 2024, Humor Hubs The Most Enjoyable Ringtone Downloads</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-the-art-of-locating-concealed-youtube-media-for-2024/"><u>[Updated] Mastering the Art of Locating Concealed YouTube Media for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-hd-screensnap-equipment-for-2024/"><u>[Updated] Ultimate HD Screensnap Equipment for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-10-models-premier-4k-dslr-shoulder-rigs/"><u>2024 Approved Leading 10 Models Premier 4K DSLR Shoulder Rigs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leap-forward-in-editing-embrace-xp-movie-maker/"><u>2024 Approved Leap Forward in Editing Embrace XP Movie Maker</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-solution-for-loading-problems-with-the-origin/"><u>Easy Solution for Loading Problems with the 'Origin'</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-poco-m6-pro-4g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Poco M6 Pro 4G</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instructions-windows-movie-maker-version-6-installation/"><u>In 2024, Instructions Windows Movie Maker Version 6 Installation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-live-stream-titans-clash-twitch-vs-youtube-analysis/"><u>In 2024, Live-Stream Titans Clash Twitch Vs YouTube Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-selecting-premium-microphones-for-ultra-hd-videography/"><u>In 2024, Selecting Premium Microphones for Ultra-HD Videography</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-htc-u23-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For HTC U23 Phones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-odds-comprehensive-take-on-vegas-pro-2021-for-2024/"><u>Navigating the Odds Comprehensive Take on Vegas Pro 2021 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/six-secrets-to-temporarily-halt-updates-on-your-pc/"><u>Six Secrets to Temporarily Halt Updates on Your PC</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/bes-tagging-system-unveiled-for-2024/"><u>YouTube's Tagging System Unveiled for 2024</u></a></li>
+</ul></div>
 

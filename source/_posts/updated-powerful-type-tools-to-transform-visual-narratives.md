@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Powerful Type Tools to Transform Visual Narratives"
-date: 2024-11-23T01:22:02.684Z
-updated: 2024-11-25T20:05:28.186Z
+date: 2024-11-29T17:07:03.987Z
+updated: 2024-12-05T22:07:51.650Z
 tags: 
   - screen-recording
   - ai video
@@ -28,10 +28,6 @@ TextDelay is a native plugin, meaning that you will find it already installed on
 
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## TextExploder
 
 Link: <https://aescripts.com/textexploder/>
@@ -41,7 +37,7 @@ TextExploder is an After Effects plugin that is developed by MamoWorld and it al
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iExpressions 2
@@ -53,7 +49,7 @@ If you want to effectively use the After Effects expressions even if you are not
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## TextBox
@@ -81,7 +77,7 @@ This is the most ideal plugin to choose when you want to add motion trail to the
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shadow Studio
@@ -89,6 +85,14 @@ This is the most ideal plugin to choose when you want to add motion trail to the
 If you are looking for shadow styles that will go very well with your project, Shadow Studio is a good plugin to get. It offers you a wide variety of shadow styles including radial, inner, soft, and long shadows. Most people find it an easier and more affordable way to add soft shadows as compared to traditional methods like raytracing. It is also quite easy to use, meaning that shadow effects that would take hours to complete can be done in a matter of minutes.
 
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Texts Animation Bundle
 
@@ -98,10 +102,6 @@ This is a bundle of more than 80 different templates to add text effects to any 
 
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Artificial Intelligence Titles
 
 Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%5Frank=1>
@@ -109,10 +109,6 @@ Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%
 The Artificial Intelligence Titles is an After Effects text plugin that is designed to be the ultimate typographical solution. Once you have it in After Effects, you can enter any text and the plugin will automatically adjust the entire layout of the text. You can choose to create awesome text boxes, change the color, add special effects and even change the duration, speed, size, and positioning of the text. It also allows users to customize the text animation’s direction without using a keyframe.
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Text Library
 
@@ -123,7 +119,11 @@ This is another great text animation bundle with different options for just abou
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -160,14 +160,19 @@ On its own After Effects comes with so many post-production effects and features
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-cut-cost-and-clutter-together-top-45-best-free-apps-for-saving-videos-on-android/"><u>[Updated] 2024 Approved Cut Cost and Clutter Together Top 45 Best Free Apps for Saving Videos on Android</u></a></li>
-<li><a href="https://fox-access.techidaily.com/become-a-9gag-meme-connoisseur-with-these-simple-steps/"><u>Become a 9GAG Meme Connoisseur with These Simple Steps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionize-streaming-top-converters-transform-4k-content/"><u>In 2024, Revolutionize Streaming Top Converters Transform 4K Content</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-spectral-synchronization-kit/"><u>In 2024, Spectral Synchronization Kit</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/interweaving-art-and-science-in-colors-for-2024/"><u>Interweaving Art and Science in Colors for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/master-the-art-of-livestream-recession-with-these-24-dynamic-tips-for-2024/"><u>Master the Art of Livestream Recession with These 24 Dynamic Tips for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-minefield-of-instasongs-and-rights-for-2024/"><u>Navigating the Minefield of InstaSongs and Rights for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-fastest-way-to-trim-avi-files-a-quick-and-easy-guide/"><u>The Fastest Way to Trim AVI Files A Quick and Easy Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-resolving-black-screen-issue-in-valorant-upon-launch/"><u>Troubleshooting Guide: Resolving 'Black Screen' Issue in Valorant Upon Launch</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-top-rated-8-android-tools-for-team-video-calls/"><u>[New] 2024 Approved The Top-Rated 8 Android Tools for Team Video Calls</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-instagrams-music-ip-policies/"><u>[New] Instagram's Music IP Policies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-resounding-videos-a-tutorial-on-instagrams-musical-integration/"><u>[New] Resounding Videos A Tutorial on Instagram's Musical Integration</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-ultimate-guide-to-going-viral-with-tiktok-edits/"><u>[Updated] 2024 Approved The Ultimate Guide to Going Viral with TikTok Edits</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elevate-your-visual-storytelling-with-innovative-instagram-video-techniques/"><u>Elevate Your Visual Storytelling with Innovative Instagram Video Techniques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-playwright-to-pundit-common-expressions-of-yore/"><u>From Playwright to Pundit: Common Expressions of Yore</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfectly-suited-8-recommended-tools-for-subtitles-and-srts/"><u>In 2024, Perfectly Suited 8 Recommended Tools for Subtitles & SRTs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-speedy-transmission-techniques-ultimate-app-and-extension-guide/"><u>In 2024, Speedy Transmission Techniques Ultimate App and Extension Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lighting-the-way-in-film-tips-for-immaculate-visuals-for-2024/"><u>Lighting the Way in Film Tips for Immaculate Visuals for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-kinemaster-techniques-and-top-10-online-rivals-for-2024/"><u>Mastering KineMaster Techniques & Top 10 Online Rivals for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photo-prospectus-top-10-professional-lens-choices-for-2024/"><u>Photo Prospectus Top 10 Professional Lens Choices for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/revealing-the-smarts-of-z2-play-mobile-for-2024/"><u>Revealing the Smarts of Z2 Play Mobile for 2024</u></a></li>
 </ul></div>
 

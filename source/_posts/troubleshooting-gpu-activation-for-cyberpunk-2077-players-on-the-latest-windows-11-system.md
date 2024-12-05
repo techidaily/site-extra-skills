@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting GPU Activation for Cyberpunk 2077 Players on the Latest Windows 11 System
-date: 2024-11-21T16:44:44.997Z
-updated: 2024-11-26T00:57:26.972Z
+date: 2024-12-01T18:01:53.723Z
+updated: 2024-12-05T22:40:20.253Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-15_15-24-55-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) So this is your **screen resolution** , as illustrated in the following screenshot.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-412.png)
@@ -48,10 +52,6 @@ In case you don’t know how, here’s the guidance:
  6) Don’t rush to close the **Settings** window. Click **Storage**  in the left pane and then you’ll find out the **storage** of your PC easily.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-413.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After checking your PC specs, take a look at the minimum and recommended system requirements for FIFA 20:
 
@@ -123,10 +123,6 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -139,6 +135,10 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 2: Roll back your graphics card driver**
 
  If updating drivers didn’t resolve your problem, then maybe you should roll it back to a previous version that appears more stable. Here’s how:
@@ -147,21 +147,17 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-212.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
 
@@ -183,17 +179,9 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-947.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait for the system to search for available updates online. If there’s indeed a pending update, then Windows will automatically download the update and install it. Once the process completes, restart your computer for the changes to be fully implemented.
 
@@ -221,15 +209,15 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your**fifasetup.ini** file is already set to**0** when you first open it, then try changing it to**1** instead.
 
  Run FIFA 20 and check whether it continues to crash. If it does, try out the next fix then.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Adjust settings in NVIDIA Control Panel
 
@@ -238,6 +226,10 @@ In case you don’t know how, here’s the guidance:
  1) Right-click an empty area on your desktop to open the context menu. Then select**NVIDIA Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-903.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the NVIDIA Control Panel window, click**Manage 3D settings** in the left pane. On the right panel, go to the**Program Settings** tab and click**Add** to select FIFA 20 (navigate to your game file and double-click it). Then, you can customize settings for FIFA 20 based on your liking. For example, you can set**Vertical sync** to**On** .
 
@@ -252,7 +244,7 @@ If you continue to face the crashing problem, please move on to Fix 6.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
@@ -270,9 +262,17 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
 
@@ -294,10 +294,6 @@ sfc /scannow
 
 ![This image has an empty alt attribute; its file name is image-182.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If prompted for consent, click **Yes** .
 
  2) In Command Prompt, type the following command (**note** that there’s a space to the left of each slash “/”):
@@ -308,12 +304,16 @@ dism.exe /online /cleanup-image /restorehealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Close unnecessary programs
@@ -352,21 +352,18 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-essential-guide-to-starting-your-first-successful-youtubes-for-business/"><u>[New] 2024 Approved The Essential Guide to Starting Your First Successful YouTubes for Business</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-ace-your-project-advanced-srt-tweaks-on-a-mac/"><u>[New] Ace Your Project Advanced SRT Tweaks on a Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-sonic-scenes-from-still-shots/"><u>[New] Sonic Scenes From Still Shots</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-ultimate-hd-experience-1-blu-ray-players-list/"><u>[Updated] In 2024, Ultimate HD Experience #1 Blu-Ray Players List</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-photo-gymnastics-mastering-the-art-of-pictorial-twists/"><u>[Updated] Photo Gymnastics Mastering the Art of Pictorial Twists</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-shake-free-video-post-capture-tips-and-tricks/"><u>[Updated] Shake-Free Video Post-Capture Tips & Tricks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sprint-through-photo-composition-googles-easy-way/"><u>[Updated] Sprint Through Photo Composition - Google's Easy Way</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-from-passive-to-active-a-3-step-framework-to-evaluate-your-youtube-financials/"><u>2024 Approved From Passive to Active A 3-Step Framework to Evaluate Your YouTube Financials</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mobile-live-streaming-on-yt-without-thousands-in-followers/"><u>2024 Approved Mobile Live Streaming on YT Without Thousands in Followers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/achieve-visual-harmony-optimal-sizing-for-instagram-videos-for-2024/"><u>Achieve Visual Harmony Optimal Sizing for Instagram Videos for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/achieving-success-a-guide-to-setting-health-objectives-using-chatgpt/"><u>Achieving Success: A Guide to Setting Health Objectives Using ChatGPT</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/daily-dose-of-language-learning-urdus-10-minutes/"><u>Daily Dose of Language Learning - Urdu's 10 Minutes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-finding-image-collections-for-media/"><u>In 2024, Mastering the Art of Finding Image Collections for Media</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ipad-102-inch-7th-gen-review-how-ipados-revolutionizes-productivity/"><u>IPad 10.2-Inch (7Th Gen) Review: How iPadOS Revolutionizes Productivity</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-insights-into-sony-s6700s-updates-for-2024/"><u>New Insights Into Sony S6700's Updates for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-mini-beast-an-experts-review-of-the-acer-predator-triton-300-ses-power-and-price-balance/"><u>Unveiling the Mini Beast - An Expert's Review of the Acer Predator Triton 300 SE's Power and Price Balance</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-superior-video-capture-systems-the-1-to-18-list/"><u>[New] 2024 Approved Superior Video Capture Systems - The #1 to #18 List</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-swiftly-adapt-video-formats-for-mac-pixels/"><u>[New] 2024 Approved Swiftly Adapt Video Formats for MAC Pixels</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-investigating-the-innovation-in-burst-mode-filming-techniques/"><u>[New] Investigating the Innovation in Burst Mode Filming Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-iphone-photography-mastery-of-macro-and-close-up-details/"><u>[Updated] Perfecting iPhone Photography Mastery of Macro and Close-Up Details</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-smooth-transition-uploading-imovie-films-into-vimeo/"><u>[Updated] Smooth Transition Uploading iMovie Films Into Vimeo</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-steadicam-options-for-high-quality-dslr-shoots/"><u>2024 Approved Premium Steadicam Options for High-Quality DSLR Shoots</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-what-phone-is-compatible-with-gear-vr-2023-update/"><u>2024 Approved What Phone Is Compatible with Gear VR? -2023 Update</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-motorola-edge-40-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Motorola Edge 40 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/behind-the-scenes-crafting-confidential-snap-narratives/"><u>Behind the Scenes Crafting Confidential Snap Narratives</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-mpow-microphone-problems-in-microsoft-windows/"><u>Diagnosing and Fixing MPOW Microphone Problems in Microsoft Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-itel-s23-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-telegram-online-comprehensive-user-guide/"><u>In 2024, Mastering Telegram Online Comprehensive User Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-creme-de-la-creme-of-4k-unforgettable-video-clips/"><u>Updated The Crème De La Crème of 4K Unforgettable Video Clips</u></a></li>
 </ul></div>
 

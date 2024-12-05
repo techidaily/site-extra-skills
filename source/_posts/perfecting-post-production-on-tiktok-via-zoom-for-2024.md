@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting Post-Production on TikTok via Zoom for 2024\""
-date: 2024-11-23T21:31:54.349Z
-updated: 2024-11-25T17:22:08.725Z
+date: 2024-12-03T17:49:44.143Z
+updated: 2024-12-05T20:10:59.124Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ In recent times, TikTok has become a major social media platform and along with 
 And one of the main functions of any video editing application is that the user should be able to zoom into videos to showcase specific areas of the video or to make a unique transition. In this article, we are going to learn about face zoom TikTok and how one user can use the Zoom function and make videos with it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. Zoom on TikTok while creating a new video
@@ -37,7 +37,7 @@ The first one involves zooming in while recording the video and the second one i
 ![create a new video tiktok](https://images.wondershare.com/filmora/article-images/2022/07/create-a-new-video-tiktok.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * When you tap on the "+" icon, the recording interface will open up. Now, select the duration of the video by tapping the "clock" icon on the left-hand side of the screen. After selecting a set duration, you will find a red shutter button which you will need to hold to start the recording.
@@ -61,6 +61,10 @@ TikTok is known to provide a vast number of filters as well as editing tools tha
 * You can drag the marker of the timeline to set the beginning of the effect on your video. Then press the zoom effect and release it where you want the zoom effect to end.
 * Then save the video and the effect will be applied successfully.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. How to face zoom TikTok
 
 One of the main reasons why TikTok is so popular amongst users is because its developers give extensive effort to creating amazing effects and filters for the interface. While Snapchat may have been the first application that brought the trend of filters, TikTok has created a whole another level of hype for such effects. And face zoom on TikTok is such a popular option that is used by billions of users.
@@ -74,7 +78,7 @@ And if you are new to this platform, you can follow these steps to use this face
 ![zoom tiktok filter](https://images.wondershare.com/filmora/article-images/2022/07/zoom-tiktok-filter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * The filter icon background is of turquoise color. You will need to tap on that and your face zoom effect will be activated.
@@ -82,14 +86,10 @@ And if you are new to this platform, you can follow these steps to use this face
 ![activitate face zoom effect](https://images.wondershare.com/filmora/article-images/2022/07/activitate-face-zoom-effect.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Alternatively, you can also go to the effects page and the search bar and then type "Face Zoom" on the text box, followed by a search click to find the TikTok facezoom filter more easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -127,14 +127,15 @@ TikTok has become more than just a social media platform and these days almost e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-instaflash-compile-your-pics-fast-for-2024/"><u>[New] InstaFlash Compile Your Pics Fast for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-post-a-highlight-from-the-latest-audio-show/"><u>[New] Post a Highlight From the Latest Audio Show</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-quick-windows-10-tutorial-for-simple-video-trimming/"><u>[New] Quick Windows 10 Tutorial for Simple Video Trimming</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mirthful-melodies-top-downloads-for-tones/"><u>[Updated] Mirthful Melodies Top Downloads for Tones</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-how-to-erase-photographic-backgrounds/"><u>[Updated] Step-by-Step How to Erase Photographic Backgrounds</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-redmi-13c-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi Redmi 13C 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-x-flip-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo X Flip Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ensuring-seamless-whatsapp-backups-to-icloud-a-step-by-step-guide/"><u>Ensuring Seamless WhatsApp Backups to iCloud: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-keeping-your-gopro-fogless-for-perfection/"><u>In 2024, Keeping Your GoPro Fogless for Perfection</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-dazzle-and-stand-out-50-free-youtube-branding-pieces/"><u>[Updated] Dazzle and Stand Out 50 FREE YouTube Branding Pieces!</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-discovering-10-must-love-aspects-in-filmora-editing/"><u>[Updated] Discovering 10 Must-Love Aspects in Filmora Editing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-olympic-rush-short-track-speed-skating-saga/"><u>[Updated] Olympic Rush Short-Track Speed Skating Saga</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-online-cropping-made-simple-step-by-step-processes/"><u>[Updated] Online Cropping Made Simple - Step by Step Processes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-performance-in-a-package-that-pleases-your-pocket/"><u>[Updated] Premium Performance in a Package That Pleases Your Pocket</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-filmmaker-fascination-filmoras-essential-traits/"><u>2024 Approved Navigating Filmmaker Fascination Filmora's Essential Traits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-virtual-lecture-title-craftsman/"><u>2024 Approved Prime Virtual Lecture Title Craftsman</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/default-plugins-for-chatgpt-explored/"><u>Default Plugins for ChatGPT Explored</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/delving-into-the-world-of-mixed-reality-technology-for-2024/"><u>Delving Into the World of Mixed Reality Technology for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-your-dandd-experience-how-to-employ-chatgpt-and-dall-e-in-character-design-processes/"><u>Enhancing Your D&D Experience: How to Employ ChatGPT and DALL-E in Character Design Processes</u></a></li>
 </ul></div>
 
