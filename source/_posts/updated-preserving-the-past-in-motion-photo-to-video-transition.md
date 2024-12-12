@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Preserving the Past in Motion  Photo to Video Transition\""
-date: 2024-12-04T18:35:19.837Z
-updated: 2024-12-05T19:29:06.481Z
+date: 2024-12-10T20:28:21.884Z
+updated: 2024-12-11T23:22:44.828Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,6 @@ Therefore, it is highly recommended to digitize photos to make them lasting. In 
 * [Part 1: How to Digitize Your Memorable Old Photos](#part1)
 * [Part 2: How to Convert Old Photos into a Video with Ease?](#part2)
 * [Part 3: More Editing Tips for Creating Memorable Videos](#part3)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Smart Ways to Digitize Your Memorable Old Photos
 
@@ -90,21 +86,25 @@ To start with, you can just launch Filmora on your system and import your photos
 
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\. Create a timeline for your photos
 
 Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
 
 ![create timeline for photos](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 3\. Edit the video
 
 Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
 
 ![Edit Digitized Photos](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
@@ -118,9 +118,17 @@ To add text to your videos, just go to the “Titles” option here. This will l
 
 ![Add Title to Digitized Photos](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
 ![Add Audio to Digitized Photos](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 5\. Export your video
 
@@ -128,15 +136,7 @@ That’s it! After making all the changes, you can preview your video on the rig
 
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Find more fancy ways to make the best photo and video slideshow with Filmora!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Editing Tips for Creating Memorable Videos
 
@@ -171,7 +171,7 @@ There you go! I’m sure that after reading this guide, you would be able to dig
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -189,20 +189,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-say-goodbye-to-interruptions-youtube-adblocking-made-simple/"><u>[New] 2024 Approved Say Goodbye to Interruptions YouTube Adblocking Made Simple</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-best-practices-for-organizing-online-video-stories/"><u>[New] Best Practices for Organizing Online Video Stories</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-best-non-zoom-video-conferencing-tools-desktopmobile/"><u>[New] In 2024, Best Non-Zoom Video Conferencing Tools (Desktop/Mobile)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leap-into-the-future-a-guide-for-windows-11-installation/"><u>[New] Leap Into the Future A Guide for Windows 11 Installation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-strategies-for-successful-facebook-giving/"><u>[New] Step-by-Step Strategies for Successful Facebook Giving</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-apple-tv-and-facebook-integration-watching-videos-easily-for-2024/"><u>[Updated] Apple TV and Facebook Integration Watching Videos Easily for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-melding-audio-with-visuals-digitally/"><u>[Updated] Melding Audio With Visuals Digitally</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-best-time-lapse-tools-and-techniques-no5/"><u>2024 Approved Best Time-Lapse Tools & Techniques - No.5</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-lens-mastery-essential-photography-hacks/"><u>2024 Approved IPhone Lens Mastery Essential Photography Hacks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-tips-tiktok-age-authentication/"><u>2024 Approved Quick Tips TikTok Age Authentication</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tackling-challenges-head-on-essentials-for-onestream-livestreamers/"><u>2024 Approved Tackling Challenges Head-On Essentials for OneStream Livestreamers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-amplify-and-transform-changing-your-audible-image-on-ig/"><u>In 2024, Amplify and Transform Changing Your Audible Image on IG</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-next-gen-virtual-experiences-anticipated-ps-vr-games-to-enjoy/"><u>In 2024, Next-Gen Virtual Experiences Anticipated PS VR Games to Enjoy</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prime-10-applications-for-real-time-sporting-events-and-football-games/"><u>In 2024, Prime 10 Applications for Real-Time Sporting Events & Football Games</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/instructors-resource-for-enhancing-learning-via-video-for-2024/"><u>Instructor's Resource for Enhancing Learning via Video for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revolutionize-post-production-the-best-11-tutorials-on-color-workflow/"><u>[New] Revolutionize Post-Production The Best 11 Tutorials on Color Workflow</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-the-art-of-joining-youtube-clips/"><u>[Updated] Mastering the Art of Joining YouTube Clips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-stream-controls-netflix-edition/"><u>[Updated] Mastering the Art of Stream Controls - Netflix Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mkv-mastery-best-mac-app-compilation/"><u>[Updated] MKV Mastery Best Mac App Compilation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pureimages-backdrop-refinement-feature/"><u>[Updated] PureImage's Backdrop Refinement Feature</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-power-of-stories-in-youtube-expansion-for-2024/"><u>[Updated] The Power of Stories in YouTube Expansion for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-audience-peak-hours-crafting-release-dates/"><u>2024 Approved Audience Peak Hours Crafting Release Dates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensive-guide-to-remove-images-background-in-canva/"><u>A Comprehensive Guide to Remove Image’s Background In Canva</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effizientes-system-zur-automatischen-datenerfassung-und-uberwachung/"><u>Effizientes System Zur Automatischen Datenerfassung Und -Überwachung</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-skyrocketing-views-tactics-for-a-100kplus-youtube-hit/"><u>In 2024, Skyrocketing Views Tactics for a 100K+ YouTube Hit</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/navigating-the-world-of-fb-video-content-production-for-2024/"><u>Navigating the World of FB Video Content Production for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ricoh-theta-s-uncovered-a-complete-audit/"><u>Ricoh Theta S Uncovered A Complete Audit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/snap-it-all-navigating-the-world-of-free-tiktok-bgs-for-2024/"><u>Snap It All Navigating the World of Free TikTok BGs for 2024</u></a></li>
 </ul></div>
 

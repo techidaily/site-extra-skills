@@ -1,7 +1,7 @@
 ---
 title: Taking Computing to the Future with Russia's Newly Developed 128-Core Servers for Supercomputers
-date: 2024-12-04T21:45:17.104Z
-updated: 2024-12-05T17:22:45.690Z
+date: 2024-12-04T19:19:11.763Z
+updated: 2024-12-11T17:06:02.406Z
 tags:
   - desktop
 categories:
@@ -46,23 +46,24 @@ Pick up a powerful new gaming or productivity desktop from Lenovo with a tasty d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-brush-up-your-skills-and-inspire-creativity-top-10-freeware-for-mac/"><u>[New] 2024 Approved Brush Up Your Skills & Inspire Creativity - Top 10 Freeware for Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-perfect-accompaniments-for-your-sj4000-journey/"><u>[New] Perfect Accompaniments for Your SJ4000 Journey</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-snippet-filmmaker-pro/"><u>[New] Snippet Filmmaker Pro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-ranked-high-8-web-based-image-fusion-service/"><u>[Updated] Ranked High 8 Web-Based Image Fusion Service</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-meizu-21-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Meizu 21 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-access-to-files-on-windows-os/"><u>2024 Approved Quick Access to Files on Windows OS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-storing-image-frames-from-videos-on-windows-11/"><u>2024 Approved Storing Image Frames From Videos on Windows 11</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/9-best-french-video-translators-online-and-download-options/"><u>9 Best French Video Translators Online and Download Options</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1728463243783-windows-10/"><u>解決 Windows 10 登入後的黑屏及誤動作方法</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-the-ultimate-list-of-free-360-degree-vision-software-on-windows-11-and-mac/"><u>Discover the Ultimate List of Free 360-Degree Vision Software on Windows 11 and Mac!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-gionee-f3-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Gionee F3 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/inshot-app-how-to-integrate-external-songs-easily-for-2024/"><u>InShot App How to Integrate External Songs Easily for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/introduction-to-stories-essence-and-art/"><u>Introduction to Stories' Essence and Art</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/transitioning-to-windows-11-pro-a-step-by-step-guide/"><u>Transitioning to Windows 11 Pro: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-champions-of-3d-spatial-displays/"><u>[New] Champions of 3D Spatial Displays</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-kinemaster-guide-to-seamless-green-screen-implementation/"><u>[New] Kinemaster Guide to Seamless Green Screen Implementation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-polaroid-camplus-cube-analysis-when-life-is-on-screen/"><u>[New] Polaroid Cam+ Cube Analysis When Life Is on Screen</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-facebooks-ultimate-guide-selective-downloader-addons-and-extensions-for-firefox/"><u>[Updated] 2024 Approved Facebook's Ultimate Guide Selective Downloader Addons & Extensions for Firefox</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-command-center-conundrums-deciphering-best-cloud-solutions/"><u>[Updated] Command Center Conundrums Deciphering Best Cloud Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-suggestions-best-iphone-audio-innovators/"><u>[Updated] Leading Suggestions Best iPhone Audio Innovators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-stream-like-a-pro-on-youtube-best-webcams-reviewed/"><u>[Updated] Stream Like a Pro on YouTube Best Webcams Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-start-smart-free-video-intro-templates/"><u>2024 Approved Start Smart Free Video Intro Templates</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-starting-with-the-basics-of-av1-codec/"><u>2024 Approved Starting with the Basics of AV1 Codec</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-apple-imacs-style-and-strength-an-in-depth-review-of-the-215-4k-monitor/"><u>Exploring the Apple iMac's Style & Strength: An In-Depth Review of the 21.5 4K Monitor</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sculpting-brilliance-a-deep-dive-into-hdr-in-lightroom/"><u>In 2024, Sculpting Brilliance A Deep Dive Into HDR in Lightroom</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-manipulation-of-iphone-magnification/"><u>In 2024, Seamless Manipulation of iPhone Magnification</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-perfect-companion-for-remote-professionals-a-review-of-the-most-portable-laptops-tested/"><u>The Perfect Companion for Remote Professionals: A Review of the Most Portable Laptops Tested</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unveiling-virtual-background-magic-a-streamers-guide-to-chroma-key-for-2024/"><u>Unveiling Virtual Background Magic A Streamer's Guide to Chroma Key for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210655587-9781454940463-year-of-the-ox/"><u>Year of the Ox | Free Book</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Legacy in Pixels  IPhone X Memories Photography\""
-date: 2024-11-30T21:06:09.754Z
-updated: 2024-12-05T21:23:01.094Z
+date: 2024-12-10T20:35:07.768Z
+updated: 2024-12-11T17:01:30.302Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,7 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For iPhone 7 Plus/8 Plus/X users
@@ -49,10 +49,6 @@ However, the Portrait Mode is only featured on iOS 10.1 or some more recent vers
 
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Image resource: 9to5mac
 
 Portrait mode enables you to set the timer, turn off the flash or apply photo filters, but it doesn't allow its users to create live photos. When using this mode you only have to apply basic photography rules, like don't point your camera in the direction from which the light is coming from and do your best to get within a reasonable distance from the subject of your photos. If you decide to take photos in this mode indoors, you may get slightly underwhelming results because it still doesn't perform great in low-light conditions.
@@ -63,11 +59,19 @@ The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera
 
 ![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image resource: imore
 
 Launch the Camera app, and swipe to the Portrait option, and then tap on the Camera Swap feature to start using the front camera on your iPhone. Find the Portrait Lightning feature in the camera's Portrait mode, then select one of the options provided by the Portrait Lightning such as Studio Light or Natural light, and proceed to snap a selfie by tapping on the shutter button.
 
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### For iPhone 8, 7 or older iPhones users
 
@@ -80,7 +84,7 @@ If there is not enough light or if you are too far away from the camera, the app
 ![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
@@ -103,6 +107,10 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
 #### [Defocus](https://itunes.apple.com/us/app/defocus/id1048310180?mt=8)
@@ -113,17 +121,9 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -140,24 +140,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-from-static-to-spectaculous-the-yi-hero-video-journey/"><u>[New] In 2024, From Static to Spectaculous The Yi Hero Video Journey</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-master-video-editing-turn-your-avis-into-stylish-shareable-gifs-with-filmora/"><u>[New] Master Video Editing Turn Your AVIs Into Stylish, Shareable GIFs with Filmora</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-securing-comfort-in-vr-experiences/"><u>[New] Securing Comfort in VR Experiences</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-affordable-digital-screen-recorders-reviewed-and-rated/"><u>[Updated] 2024 Approved Affordable Digital Screen Recorders Reviewed & Rated</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-introduction-to-moving-graphics-core-principles/"><u>[Updated] Introduction to Moving Graphics Core Principles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-key-scenes-in-video-production/"><u>[Updated] Mastering Key Scenes in Video Production</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-movie-magic-tiktok-effects-techniques/"><u>2024 Approved Mastering Movie Magic TikTok Effects Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-privacy-tip-remove-spotifys-auto-podcast-suggestions/"><u>2024 Approved Privacy Tip Remove Spotify's Auto-Podcast Suggestions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/cameraparticle-evaluation/"><u>CameraParticle Evaluation</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/efi-partij-verdwijnt-4-efficient-levende-alternatieven-te-verkennen/"><u>EFI-Partij Verdwijnt: 4 Efficiënt Levende Alternatieven Te Verkennen!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/guide-to-optimal-vr-headset-selection-freedom-or-connection/"><u>Guide to Optimal VR Headset Selection Freedom or Connection?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-infinix-zero-5g-2023-turbo-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Infinix Zero 5G 2023 Turbo Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premium-handheld-mounts-precision-and-stability-combined/"><u>In 2024, Premium Handheld Mounts Precision and Stability Combined</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-what-is-vimeo-a-peek-at-innovative-content-sharing/"><u>In 2024, What Is Vimeo? A Peek at Innovative Content Sharing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-b-cut-scenarios-in-filmmaking-for-2024/"><u>Mastering B-Cut Scenarios in Filmmaking for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/spotlight-on-professional-shoots-innovative-lighting-techniques-for-2024/"><u>Spotlight on Professional Shoots Innovative Lighting Techniques for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-ultimate-list-top-10-websites-for-free-photo-access-for-2024/"><u>The Ultimate List Top 10 Websites for Free Photo Access for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210251713-9781071592113-transtorno-bipolar-ii-de-um-diagnostico-triste-a-uma-vida-feliz/"><u>Transtorno Bipolar II - De um Diagnóstico Triste a uma Vida Feliz | Free Book</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-beatify-your-content-adding-melodies-to-instagram-stories/"><u>[New] Beatify Your Content Adding Melodies to Instagram Stories</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-esteemed-experts-premium-instragram-highlight-designs-online/"><u>[New] Esteemed Experts Premium Instragram Highlight Designs Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterpiece-tools-filmoras-loved-9-edits-unraveled/"><u>[New] Masterpiece Tools Filmora's Loved 9 Edits Unraveled</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-securing-footage-techniques-for-obscuring-sensitive-info/"><u>[Updated] 2024 Approved Securing Footage Techniques for Obscuring Sensitive Info</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimizing-tiktok-content-via-zoom-tools/"><u>[Updated] Optimizing TikTok Content via Zoom Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pioneering-visual-editing-3dlut-for-photosvideos/"><u>[Updated] Pioneering Visual Editing 3DLUT for Photos/Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-whatsapps-vocal-messaging-system/"><u>2024 Approved Navigating WhatsApp's Vocal Messaging System</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sportswomens-scorecard-poker-analysis/"><u>2024 Approved SPORTSWOMEN'S SCORECARD Poker Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-conversion-simplified-subtitles-transformation/"><u>2024 Approved SRT Conversion Simplified Subtitles Transformation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-srt-file-open-srt-file-on-windows-or-mac/"><u>2024 Approved SRT File Open SRT File on Windows or Mac</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-12-mini-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 12 mini in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/excellent-video-cameras-ideal-for-future-musical-shootouts-for-2024/"><u>Excellent Video Cameras Ideal for Future Musical Shootouts for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-interactive-media-meets-brand-partnerships-on-youtube/"><u>In 2024, Interactive Media Meets Brand Partnerships on YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-mastering-tiktok-audio-transform-into-phone-ringtones/"><u>In 2024, Mastering TikTok Audio Transform Into Phone Ringtones</u></a></li>
 </ul></div>
 

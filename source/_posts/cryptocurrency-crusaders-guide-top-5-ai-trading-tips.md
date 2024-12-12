@@ -1,7 +1,7 @@
 ---
 title: "Cryptocurrency Crusaders' Guide: Top 5 AI Trading Tips"
-date: 2024-11-30T17:00:23.232Z
-updated: 2024-12-05T20:33:29.485Z
+date: 2024-12-08T21:05:17.789Z
+updated: 2024-12-11T17:32:48.413Z
 tags:
   - chatgpt
   - open-ai
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. openai-pc-pro.online
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. pay.chatgptftw.com
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
@@ -65,22 +69,18 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
@@ -124,16 +124,20 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-tips-and-tricks-to-help-you-use-lunapic-photo-editor-like-a-pro/"><u>[New] In 2024, Tips and Tricks to Help You Use Lunapic Photo Editor Like A Pro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-prime-10-editors-seamless-image-transformation-pro/"><u>[New] Prime 10 Editors Seamless Image Transformation Pro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-punpictures-pro-jestjokes-network/"><u>[New] PunPictures Pro JestJokes Network</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-routine-for-large-files-journey-from-iphones-to-macs-for-2024/"><u>[New] The Ultimate Routine for Large Files' Journey From iPhones to Macs for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-reno-10-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo Reno 10 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oneplus-11-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From OnePlus 11 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pinnacle-studios-evaluation-an-in-depth-study/"><u>In 2024, Pinnacle Studios Evaluation An In-Depth Study</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oneplus-ace-2v-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change OnePlus Ace 2V IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/planning-a-dynamic-tiktok-outro-experience/"><u>Planning a Dynamic TikTok Outro Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/protect-privacy-with-these-critical-face-cropping-options-for-2024/"><u>Protect Privacy with These Critical Face Cropping Options for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/the-ultimate-guide-to-stellar-tiktok-content-through-template-utilization/"><u>The Ultimate Guide to Stellar TikTok Content Through Template Utilization</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discover-your-top-10-choice-of-editors-for-youtube-short-videos/"><u>[New] 2024 Approved Discover Your Top 10 Choice of Editors for YouTube Short Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-parrot-bebop-2-review/"><u>[New] Parrot Bebop 2 Review</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-list-of-best-4k-monitors-for-2024/"><u>[New] The Ultimate List of Best 4K Monitors for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-gratuitous-access-to-top-digital-editing-suites/"><u>[Updated] In 2024, Gratuitous Access to Top Digital Editing Suites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-powerful-payload-the-elite-airborne-workhorses/"><u>[Updated] Powerful Payload The Elite Airborne Workhorses</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-expert-tips-zooming-in-on-videoleap-videos/"><u>2024 Approved Expert Tips Zooming In on Videoleap Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-steps-to-disable-auto-recommended-podcasts-in-spotify/"><u>2024 Approved Steps to Disable Auto-Recommended Podcasts in Spotify</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-selection-of-christian-streaming-sites/"><u>2024 Approved The Ultimate Selection of Christian Streaming Sites</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-device-compatibility-asus-drivers-win-update/"><u>Effortless Device Compatibility - ASUS Drivers Win Update</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-virtual-classroom-creation-tool/"><u>In 2024, Prime Virtual Classroom Creation Tool</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sierras-icloud-drive-essentials-for-seamless-workflows/"><u>In 2024, Sierra’s iCloud Drive Essentials for Seamless Workflows</u></a></li>
+<li><a href="https://discover-able.techidaily.com/mkv-to-mp3-free-download-and-conversion-effortless-sound-transfer-using-moveave-online-tool/"><u>MKV to MP3 Free Download & Conversion - Effortless Sound Transfer Using Moveave Online Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steam-decks-for-gaming-enthusiasts/"><u>Navigating Steam Decks for Gaming Enthusiasts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/premier-tips-for-capturing-the-excitement-of-online-cricket-matches-for-2024/"><u>Premier Tips for Capturing the Excitement of Online Cricket Matches for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sony-a6400-fixing-the-invisible-video-playback-for-2024/"><u>Sony A6400 Fixing the Invisible Video Playback for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Simplified Access  How to Dive Into YouTube Comment Threads\""
-date: 2024-07-31T10:01:07.580Z
-updated: 2024-08-01T10:01:07.580Z
+date: 2024-12-04T16:36:57.744Z
+updated: 2024-12-11T19:21:37.387Z
 tags: 
   - screen-recording
   - ai video
@@ -37,8 +37,9 @@ Not only does it show your fans followers that you care about what they have to 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Advantage of YouTube comments
 
 If you're wondering whether you really need to monitor your YouTube comments, here are three compelling reasons why you should:
@@ -59,6 +60,10 @@ Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
 Step3 Click comment to post.
@@ -75,31 +80,29 @@ To manage your comments on YouTube using a PC, the operating system does not mat
 
 Step1 Open your chosen browser, head to YouTube, then sign in to your Google/YouTube account if not already signed in.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Highlighted Comments and Replies on YouTube
 
@@ -109,9 +112,6 @@ For example, you might click on a notification, and YouTube takes you to a parti
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Why Deleting YouTube Comments?
 
 If you consume a lot of YouTube content, you've likely posted hundreds or even thousands of comments on various channels. You might want to:
@@ -131,8 +131,9 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -167,5 +168,26 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-ultimate-guide-to-camstudios-2023-screen-record-features/"><u>[New] 2024 Approved The Ultimate Guide to CamStudio's 2023 Screen Record Features</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-auroras-dynamic-range-feature-a-detailed-perspective/"><u>[New] Aurora's Dynamic Range Feature A Detailed Perspective</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-farm-frontier-favorites-similar-titles-galore-for-2024/"><u>[New] Farm Frontier Favorites Similar Titles Galore for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-next-gen-platform-for-12-hourly-live-broadcasts/"><u>[Updated] Next-Gen Platform for 12 Hourly Live Broadcasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-live-stream-providers-with-10-top-insights/"><u>2024 Approved Navigating Live Stream Providers with 10 Top Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-setting-the-price-for-higher-youtube-engagement/"><u>2024 Approved Setting the Price for Higher YouTube Engagement</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/diving-into-the-worlds-best-free-online-editing-and-visual-effects-sites/"><u>Diving Into the World's Best Free Online Editing and Visual Effects Sites</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/el-salvadors-rise-as-a-crypto-haven-could-it-transform-into-the-americas-singapore-insights-from-vaneck-and-tech-giant-yl/"><u>El Salvador's Rise as a Crypto Haven: Could It Transform Into the 'Americas Singapore'? Insights From VanEck & Tech Giant YL</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/game-on-mastering-the-art-of-play-with-kinemaster-on-android-for-2024/"><u>Game On! Mastering the Art of Play with KineMaster on Android for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/gratis-high-definition-video-player-herunterladen-fur-den-computer-vollwertiges-streaming-von-1080p-und-720p-videos/"><u>Gratis High Definition Video Player Herunterladen Für Den Computer: Vollwertiges Streaming Von 1080P Und 720P Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-revive-the-battery-on-a-non-charging-playstation-4-controller/"><u>How to Revive the Battery on a Non-Charging PlayStation 4 Controller</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-major-6-social-media-venues-optimized-for-company-growth/"><u>In 2024, Major 6 Social Media Venues Optimized for Company Growth</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sony-game-systems-redefine-your-gaming-soundscape/"><u>In 2024, Sony Game Systems Redefine Your Gaming Soundscape</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-the-virtual-reality-screen-revolution-for-2024/"><u>Inside the Virtual Reality Screen Revolution for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/narrative-genius-enhancing-tales-through-chatgpt-expertise/"><u>Narrative Genius: Enhancing Tales Through ChatGPT Expertise</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seamless-transitions-the-top-6-mac-apps-to-cut-videos-in-big-sur-for-2024/"><u>Seamless Transitions The Top 6 Mac Apps to Cut Videos in Big Sur for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seo-secrets-unveiled-a-comprehensive-guide-to-boosting-podcast-rankings-for-2024/"><u>SEO Secrets Unveiled A Comprehensive Guide to Boosting Podcast Rankings for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-strategies-for-successful-youtube-srt-downloads-for-2024/"><u>Step-by-Step Strategies for Successful YouTube SRT Downloads for 2024</u></a></li>
+</ul></div>
 

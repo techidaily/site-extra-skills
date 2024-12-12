@@ -1,7 +1,7 @@
 ---
 title: Exploring Performance & Value in the Corsair One I500 Tiny Gaming Rig
-date: 2024-11-28T16:41:23.463Z
-updated: 2024-12-05T17:42:42.406Z
+date: 2024-12-06T20:26:13.285Z
+updated: 2024-12-11T20:37:53.395Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,24 +89,22 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-maximizing-impact-innovative-fb-strategies-for-handc-marketing/"><u>[New] Maximizing Impact Innovative FB Strategies for H&C Marketing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-smartest-titles-at-your-fingertips/"><u>[New] Smartest Titles at Your Fingertips</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-mystical-camera-pause-strategies/"><u>[Updated] 2024 Approved Mystical Camera Pause Strategies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-smudge-free-sequence-eliminating-gopro-fog/"><u>[Updated] 2024 Approved The Smudge-Free Sequence Eliminating GoPro Fog</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-jovial-access-key-strategies/"><u>2024 Approved Jovial Access Key Strategies</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/capture-perfection-optimal-use-of-zoom-feature-for-photos-and-videos-for-2024/"><u>Capture Perfection Optimal Use of Zoom Feature for Photos & Videos for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-evaluating-tablets-based-on-their-physical-characteristics-size-and-weight/"><u>Comprehensive Guide to Evaluating Tablets Based on Their Physical Characteristics: Size & Weight</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/dynamic-focus-enhanced-handheld-shot-quality/"><u>Dynamic Focus Enhanced Handheld Shot Quality</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/episode-excellence-optimal-launch-windows-for-2024/"><u>Episode Excellence Optimal Launch Windows for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-se-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone SE?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-max-360-vs-hero-11-discovering-the-gopro-video-champion/"><u>In 2024, Max 360 Vs. Hero 11 - Discovering the GoPro Video Champion</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-non-proprietary-serene-tunes/"><u>In 2024, Non-Proprietary Serene Tunes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pivoting-from-srt-to-subtitle-format/"><u>In 2024, Pivoting From SRT to Subtitle Format</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionize-with-a-stroke-premier-tablet-draw-tools/"><u>In 2024, Revolutionize with a Stroke Premier Tablet Draw Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-potential-with-best-free-text-psdfree/"><u>In 2024, Unlock Potential with Best Free Text PSDFree</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/instagram-stories-learn-to-modify-video-velocity-for-2024/"><u>Instagram Stories Learn to Modify Video Velocity for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pro-camera-professional-shots-fixing-shaky-gopro-recording-for-2024/"><u>Pro Camera, Professional Shots Fixing Shaky GoPro Recording for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-application-errors-in-ark-best-practices-for-stable-archival-experiences/"><u>Resolving Application Errors in ARK: Best Practices for Stable Archival Experiences</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-reveling-in-the-highs-of-nature-with-garmins-ultra-30/"><u>[New] Reveling in the Highs of Nature with Garmin's Ultra 30</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-space-saver-strategies-pioneering-the-best-cloud-platforms/"><u>[New] Space-Saver Strategies Pioneering the Best Cloud Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-time-efficient-ways-to-wipe-out-ssgnature-backdrops/"><u>[New] Time-Efficient Ways to Wipe Out Ssgnature Backdrops</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-make-instagram-videos-with-music/"><u>[Updated] Make Instagram Videos With Music</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-navigating-the-insider-features-of-zoom-software-for-windows-11/"><u>[Updated] Navigating the Insider Features of Zoom Software for Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photography-fundamentals-tips-and-apps-for-android/"><u>[Updated] Photography Fundamentals Tips & Apps for Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-polar-pinnacles-beijing-2022-olympic-spotlight/"><u>[Updated] Polar Pinnacles Beijing 2022 Olympic Spotlight</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-photo-toolkit-inserting-text-effortlessly/"><u>[Updated] Premier Photo Toolkit Inserting Text Effortlessly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-video-capacity-in-64128gb-drives/"><u>2024 Approved Maximizing Video Capacity in 64/128GB Drives</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-image-superimposition-for-desktop/"><u>2024 Approved Seamless Image Superimposition for Desktop</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photoshop-facebackground-anonymity-guide/"><u>In 2024, Photoshop Face/Background Anonymity Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-collection-20-free-adobe-premiere-title-and-intro-templates-for-2024/"><u>New The Ultimate Collection 20 Free Adobe Premiere Title and Intro Templates for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-bypassing-itunes-sync-to-transplant-music-files-into-your-ipad/"><u>Step-by-Step Guide: Bypassing iTunes Sync to Transplant Music Files Into Your iPad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/thank-you-for-installing-movavi-presentation-designer-finished-downloading/"><u>Thank You for Installing Movavi Presentation Designer - Finished Downloading!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-busiest-families-guide-to-7-must-have-calendar-sharing-solutions/"><u>The Busiest Families' Guide to 7 Must-Have Calendar Sharing Solutions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210023092-9781734758023-the-nature-of-god-the-revelation/"><u>The Nature of God: The Revelation | Free Book</u></a></li>
 </ul></div>
 

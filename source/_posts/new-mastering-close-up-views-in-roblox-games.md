@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Close-Up Views in Roblox Games\""
-date: 2024-11-23T03:06:25.104Z
-updated: 2024-11-25T19:54:17.073Z
+date: 2024-12-08T20:35:39.676Z
+updated: 2024-12-11T18:30:27.296Z
 tags: 
   - screen-recording
   - ai video
@@ -33,7 +33,7 @@ Step1To start playing, you must first sign into Roblox using your browser. Go to
 ![login to roblox site](https://images.wondershare.com/filmora/article-images/2022/07/login-to-roblox-site.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2Now, all you have to do to zoom in is hit the 'I' key on your keyboard, which is located between the 'U' and 'O' keys.
@@ -45,7 +45,7 @@ Step4Simply press the 'O' key on your keyboard (the letter between 'P' and 'I' o
 Step5To get the playing zoom level you desire, press "I" and "O" together. You must consequently mix the actions of these two keyboard keys in order to zoom in at the most pleasing scale.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 2\. Zoom In/Out in Roblox with Mouse Control
@@ -62,13 +62,13 @@ Step2Once your gaming session has begun, you may zoom by using the wheel while m
 
 ![zoom in with cursoe scroll](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-with-cursoe-scroll.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3When the game's map is in your field of vision and you reach the maximum zoom level, just scroll backward with your mouse to zoom out. It will be essential to do the opposite operation, namely scroll the other direction, to zoom out on your character, in order to zoom in.
 
 Step4In order to play at your selected zoom level, scroll backwards and forth. Because your character will be presented in such tiny type, it will be challenging to play comfortably and see it clearly. Therefore, maintaining balance is crucial in order to have the zoom adjusted to your preferred playing style.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 3\. Use Xbox Controller Thumbsticks to Zoom
 
@@ -84,11 +84,11 @@ Step2Zoom in by pressing forward on the right thumbstick that has been clicked d
 
 ![press forward right thumbstick](https://images.wondershare.com/filmora/article-images/2022/07/press-forward-right-thumbstick.jpg)
 
-Step3Pull rearward on the clicked-down right thumbstick to zoom out. The same joystick (right) must constantly be pulled rearward to zoom out.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step3Pull rearward on the clicked-down right thumbstick to zoom out. The same joystick (right) must constantly be pulled rearward to zoom out.
 
 ## Way 4\. Zoom in/out in Roblox on Tablet
 
@@ -111,7 +111,7 @@ Step4The camera angle and/or your character will only move if one of your finger
 ![zoom character on roblox](https://images.wondershare.com/filmora/article-images/2022/07/zoom-character-on-roblox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -150,17 +150,24 @@ You may wish to change your viewpoint when playing games on Roblox, the most cut
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-demystifying-the-world-of-youtube-shorts/"><u>[New] 2024 Approved Demystifying the World of YouTube Shorts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-revolutionizing-your-tiktok-content-collection-game/"><u>[New] Revolutionizing Your TikTok Content Collection Game</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-unveiling-vimeo-subscription-perks-for-every-user-type/"><u>[New] Unveiling Vimeo Subscription Perks for Every User Type</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-guide-to-saving-tv-broadcasts-online/"><u>[Updated] Essential Guide to Saving TV Broadcasts Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-preventing-shake-in-photographic-imagery/"><u>[Updated] Preventing Shake in Photographic Imagery</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-for-seamless-sending-of-large-videos-from-iphones/"><u>[Updated] Step by Step Guide for Seamless Sending of Large Videos From iPhones</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-achieving-professional-audio-in-home-recording-studios/"><u>2024 Approved Achieving Professional Audio in Home Recording Studios</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-your-gameplay-in-depth-tips-and-tricks-for-freefirers/"><u>2024 Approved Maximize Your Gameplay In-Depth Tips & Tricks for FreeFirers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-zoom-techniques-for-tiktok-engagement/"><u>In 2024, Perfecting Zoom Techniques for TikTok Engagement</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-public-domain-game-music-downloads/"><u>In 2024, Public Domain Game Music Downloads</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-tickling-titles-top-10-comedy-centric-youtube-short-ideas/"><u>In 2024, Tickling Titles Top 10 Comedy-Centric YouTube Short Ideas</u></a></li>
-<li><a href="https://win-best.techidaily.com/sneakgaende-videkonvertering-online-gratis-med-movavi-fra-mpg-til-mp4/"><u>Sneakgående Vidékonvertering Online Gratis Med Movavi - Fra MPG Til MP4</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-microphone-data-review-tips/"><u>[New] 2024 Approved Microphone Data Review Tips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ilmmaking-made-simple-a-smartphone-guide-to-youtube-thumbnails-for-2024/"><u>[New] Filmmaking Made Simple A Smartphone Guide to YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-import-in-windows-10-photo-space/"><u>[New] Mastering the Art of Import in Windows 10 Photo Space</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-smartphones-ultimate-guide-to-image-editing-and-annotation-for-2024/"><u>[New] Smartphones' Ultimate Guide to Image Editing & Annotation for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-uncovering-illegal-gain-from-false-subscriber-sales/"><u>[Updated] In 2024, Uncovering Illegal Gain From False Subscriber Sales</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-lgs-lg-360-camera-update-unveiled-and-analyzed/"><u>[Updated] LG's LG 360 Camera Update Unveiled & Analyzed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-melody-matters-10-must-hear-sources-for-podcast-beginnings/"><u>[Updated] Melody Matters 10 Must-Hear Sources for Podcast Beginnings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-scripting-quantum-leap-cinematography/"><u>[Updated] Scripting Quantum Leap Cinematography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-integration-gopro-hacks-for-360-degree-cinematography/"><u>2024 Approved Seamless Integration GoPro Hacks for 360-Degree Cinematography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-selecting-peak-performance-lipo-cells-for-drones/"><u>2024 Approved Selecting Peak Performance LiPo Cells for Drones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-lava-yuva-3-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/explore-our-12-tycoon-classics-for-engrossing-experiences-for-2024/"><u>Explore Our #12 Tycoon Classics for Engrossing Experiences for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-infinix-hot-40i-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Infinix Hot 40i Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-7-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the Apple iPhone 7 Without Previous Owner?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-novices-guide-to-photo-enhancements-with-photoshop/"><u>In 2024, Novice's Guide to Photo Enhancements with Photoshop</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-artistry-selecting-from-6-best-nft-makers-for-2024/"><u>Navigating Artistry Selecting From 6 Best NFT Makers for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-downloaders-your-guide-to-superior-4k-content-for-2024/"><u>Optimal Downloaders Your Guide to Superior 4K Content for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-future-awaits-equipping-yourself-for-metaverse-life-top-7-for-2024/"><u>The Future Awaits Equipping Yourself for Metaverse Life (Top 7) for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-showdown-determining-the-best-between-alexa-and-google-assistant-for-you/"><u>The Ultimate Showdown: Determining the Best Between Alexa and Google Assistant for You</u></a></li>
 </ul></div>
 

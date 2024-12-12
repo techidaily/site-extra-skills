@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Spearheading Groundbre Folks In VR Space"
-date: 2024-07-31T10:03:31.827Z
-updated: 2024-08-01T10:03:31.827Z
+date: 2024-12-10T18:16:36.167Z
+updated: 2024-12-11T16:22:00.258Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
 # VR Content Company With.in
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -47,9 +44,9 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Art Work of With.in
 
  The VR content made by With.in is proven with excellence at all times. The stories made through virtual reality provide the best informative and innovative approach that makes the viewer’s satisfied. The artworks not only entertain people but capture the satisfaction in them.
@@ -102,6 +99,10 @@ Follow @Liza Brown
 
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Art Work of With.in
 
  The VR content made by With.in is proven with excellence at all times. The stories made through virtual reality provide the best informative and innovative approach that makes the viewer’s satisfied. The artworks not only entertain people but capture the satisfaction in them.
@@ -114,9 +115,6 @@ Follow @Liza Brown
 * **The Clouds Over Sidra**  The short film is about twelve-year-old who is living in a refugee camp in Jordan. The film shows the living condition of the life of a refugee in Jordan as well as the hard life of a refugee. The film was made by the UN in connection with the advocacy program it has.
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## About Chris Milk
 
  Chris Milk a famous director who has gained more acclaim with the VR short film, Clouds Over Syria. He is the founder and CEO of With.in. He also is the co-founder and the creative director of the sister company of With.in, which is the Here Be Dragons. He constantly develops ways in making innovations in the VR content industry. The ideas he has about the concept of the VR development makes it a great point in creating an innovative way to making the best efforts in making VR a great experience for all the viewers.
@@ -128,10 +126,11 @@ Follow @Liza Brown
 
  The creation of the VR contents takes the best ways and the creative means as possible. Chris makes the most amazing ways in setting the right kind of approach as possible. The result of this is a terrific output that will go far beyond VR creator’s expectations.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -145,9 +144,6 @@ Follow @Liza Brown
 
  The world of Virtual Reality has been more entertaining throughout the development of technology. The VR content is the latest and most entertaining concept in line with virtual reality. The wide scale innovative technology is set to make the big difference in creating videos and documentations. A high quality and interactive approach on VR content are given by the birth of the VR content company known as With.in. The company was founded by the award-winning director Chris Milk and the famous technologist Aaron Koblin. The goal of the two is discovered more the immersive potential of storytelling. A new line of creative ways is made in order to expand the possibilities of the storytelling concept using VR content.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Does [With.in]( https://with.in/ ) Do?
 
  The best thing about With.in is that they does a great deal of creative ways such as making VR content for interesting stories in order to make them more captivating and creative. The company makes the large effort in making a story come to life by creating a VR content that will an attraction to people. The company uses the support of major headsets such as Oculus, Rift, Samsung Gear VR, Sony PlayStation VR and Google Cardboard in order to arrive at the amazing result of a successful VR experience.
@@ -164,13 +160,9 @@ Follow @Liza Brown
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Art Work of With.in
 
  The VR content made by With.in is proven with excellence at all times. The stories made through virtual reality provide the best informative and innovative approach that makes the viewer’s satisfied. The artworks not only entertain people but capture the satisfaction in them.
@@ -183,14 +175,6 @@ Follow @Liza Brown
 * **The Clouds Over Sidra**  The short film is about twelve-year-old who is living in a refugee camp in Jordan. The film shows the living condition of the life of a refugee in Jordan as well as the hard life of a refugee. The film was made by the UN in connection with the advocacy program it has.
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## About Chris Milk
 
  Chris Milk a famous director who has gained more acclaim with the VR short film, Clouds Over Syria. He is the founder and CEO of With.in. He also is the co-founder and the creative director of the sister company of With.in, which is the Here Be Dragons. He constantly develops ways in making innovations in the VR content industry. The ideas he has about the concept of the VR development makes it a great point in creating an innovative way to making the best efforts in making VR a great experience for all the viewers.
@@ -216,9 +200,6 @@ Follow @Liza Brown
 
  The world of Virtual Reality has been more entertaining throughout the development of technology. The VR content is the latest and most entertaining concept in line with virtual reality. The wide scale innovative technology is set to make the big difference in creating videos and documentations. A high quality and interactive approach on VR content are given by the birth of the VR content company known as With.in. The company was founded by the award-winning director Chris Milk and the famous technologist Aaron Koblin. The goal of the two is discovered more the immersive potential of storytelling. A new line of creative ways is made in order to expand the possibilities of the storytelling concept using VR content.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Does [With.in]( https://with.in/ ) Do?
 
  The best thing about With.in is that they does a great deal of creative ways such as making VR content for interesting stories in order to make them more captivating and creative. The company makes the large effort in making a story come to life by creating a VR content that will an attraction to people. The company uses the support of major headsets such as Oculus, Rift, Samsung Gear VR, Sony PlayStation VR and Google Cardboard in order to arrive at the amazing result of a successful VR experience.
@@ -233,6 +214,10 @@ Follow @Liza Brown
 #### Partners
 
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Art Work of With.in
 
@@ -258,6 +243,10 @@ Follow @Liza Brown
  The creation of the VR contents takes the best ways and the creative means as possible. Chris makes the most amazing ways in setting the right kind of approach as possible. The result of this is a terrific output that will go far beyond VR creator’s expectations.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -287,5 +276,24 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-pixelated-punchlines-design-with-kapwing/"><u>[New] Pixelated Punchlines Design with Kapwing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-key-sites-for-enhancing-youtube-video-popularity/"><u>[Updated] Key Sites for Enhancing YouTube Video Popularity</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-professional-video-tweaks-via-youtube-studio-editor-for-2024/"><u>[Updated] Professional Video Tweaks via YouTube Studio Editor for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-compendium-classification-of-camera-types-for-videos/"><u>2024 Approved Compendium Classification of Camera Types for Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-collection-of-animated-texts/"><u>2024 Approved Premium Collection of Animated Texts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-stepwise-unveiling-effect/"><u>2024 Approved Stepwise Unveiling Effect</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-breaking-out-of-the-perpetual-boot-errors-on-your-windows-10-computer/"><u>Effective Solutions for Breaking Out of the Perpetual Boot Errors on Your Windows 10 Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s to others devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-5-ios-podcast-apps-selection/"><u>In 2024, Leading 5 iOS Podcast Apps Selection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-low-cost-gopro-cameras-where-to-find-them/"><u>In 2024, Low-Cost GoPro Cameras Where to Find Them</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-srt-to-sub-how-to-convert-srt-to-sub-with-3-actionable-ways/"><u>In 2024, SRT to SUB How to Convert SRT to SUB with 3 Actionable Ways</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-your-edits-with-top-15-affordable-web-based-editors-2023-for-2024/"><u>Master Your Edits with Top 15 Affordable Web-Based Editors, 2023 for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-issues-how-to-fix-oculus-graphics-driver-errors/"><u>Resolving Issues: How to Fix Oculus Graphics Driver Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-overcoming-audio-glitches-in-pcs-zoom-video-conferences/"><u>Step-by-Step Fixes: Overcoming Audio Glitches in PC's Zoom Video Conferences</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1163986-9781101601525-the-power-of-meditation/"><u>The Power of Meditation | Free Book</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/visualizing-google-meet-introduction-to-effects-and-filtering/"><u>Visualizing Google Meet Introduction to Effects & Filtering</u></a></li>
+</ul></div>
 

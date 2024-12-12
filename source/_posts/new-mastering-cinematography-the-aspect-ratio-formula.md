@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Cinematography  The Aspect Ratio Formula\""
-date: 2024-11-19T20:57:47.560Z
-updated: 2024-11-25T17:57:02.774Z
+date: 2024-12-04T18:19:40.203Z
+updated: 2024-12-11T16:22:59.107Z
 tags: 
   - screen-recording
   - ai video
@@ -24,33 +24,21 @@ If you want to learn more about video aspect ratios, how to apply them to differ
 
 With that said, let's dive right into it!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. What is a video aspect ratio?
 
 Aspect ratio is a digital image projection attribute describing the distance between the width and the height of an image. The dimensions are also defined as shapes such as a square which is 4:3\. A rectangle represents the 16:9 standard high definition aspect ratio, and inverted what you see on phones, that will be 9:16\. 9 refers to the width and 16 to the height.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Commonly used aspect ratios
 
 There is no same aspect ratio that is used across all social media platforms. Depending on which social media platform you are planning to upload, you have to make sure you have the correct aspect ratio for your target audience. The optimal viewing experience is what matters.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 16:9 Widescreen
 
 This aspect ratio is recognized as the worldwide reference format for film, mobile devides, DSLR cameras, streaming platforms, social media platforms, and many more. It is known as landscape viewing which include 720p, 1080p HD and 4K resolution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4:3 Standard
 
@@ -63,6 +51,10 @@ The 9:16 aspect ratio has become the mainstream resolution for smartphones for e
 ### 21:9 Cinematic Widescreen
 
 The 21:9 resolution is designed for filming ultra-wide screen movies that gives the viewer a theater-like feeling. It's mostly used to display films and movies in anamorphic formats. Just like on ultra-wide monitors, it allows the video to be shown across the entire screen, giving you a cinema-like experience. This resolution contributes to a broader viewing experience in any shape or form.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Which aspect ratio should I choose?
 
@@ -80,6 +72,10 @@ Facebook is one of the most used website across the world on both computer and t
 
 9:16 for Facebook stories
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### YouTube
 
 To this day, it's safe to say that YouTube is the leading platform in the video industry. Not only because of how long they have been around, but also about how much content is uploaded every minute and how many users it has each month. To give the viewers the best experience, here are the top aspect ratios we recommend when posting content onto your YouTube channel.
@@ -91,6 +87,10 @@ To this day, it's safe to say that YouTube is the leading platform in the video 
 16:9 for regular HD videos
 
 21:9 for cinematic videos/shortfilms
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Instagram
 
@@ -133,7 +133,7 @@ When editing your video, adding black bars is not changing the aspect ratio as y
 Cropping your video will allow you to remove a section from your video, which works perfect for unwanted objects or people. While cropping the video, you are forced to pick the essential part of your video and disregard the rest of the video and to remove distraction from the frame.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -172,20 +172,19 @@ Having your video tested on multiple devices will allow you to see a preview of 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-pro-tips-to-amplify-your-canva-designs/"><u>[New] Pro Tips to Amplify Your Canva Designs</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-add-meaningful-context-a-guide-to-video-captions-on-tiktok/"><u>[Updated] Add Meaningful Context A Guide to Video Captions on TikTok</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-ringtune-guide-downloading-and-cutting-tamil-melodies/"><u>[Updated] RingTune Guide Downloading and Cutting Tamil Melodies</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-synching-iphone-vids-with-ease-and-precision/"><u>[Updated] Synching iPhone Vids with Ease and Precision</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-photo-artistry-mastering-shadows-and-highlights/"><u>2024 Approved IPhone Photo Artistry Mastering Shadows & Highlights</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-movavi-pro-video-review-the-new-standard/"><u>2024 Approved Movavi Pro Video Review – The New Standard</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/critical-assessment-of-the-pricey-and-problematic-microsoft-surface-duo-experience/"><u>Critical Assessment of the Pricey and Problematic Microsoft Surface Duo Experience</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-zte-blade-a73-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your ZTE Blade A73 5G</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigate-through-windows-11s-best-practices-for-imports/"><u>In 2024, Navigate Through Windows 11'S Best Practices for Imports</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-reclaiming-one-headphone-harmony/"><u>In 2024, Reclaiming One-Headphone Harmony</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-a23-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy A23 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/instagram-tips-sharing-your-podcast-content-for-2024/"><u>Instagram Tips Sharing Your Podcast Content for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/maximize-musical-bliss-with-karaoke-usa-at-unbeatable-prices-sing-away-for-less-than-150/"><u>Maximize Musical Bliss with Karaoke USA at Unbeatable Prices - Sing Away for Less Than $150!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/seamless-upconversion-from-standard-definition-to-dynamic-range-extraordinaire-for-2024/"><u>Seamless Upconversion From Standard Definition to Dynamic Range Extraordinaire for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722990725459-why-isnt-my-discord-camera-working-expert-fixes/"><u>Why Isn't My Discord Camera Working? Expert Fixes!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-cutting-edge-techniques-for-fb-streaming-records/"><u>[New] 2024 Approved Cutting-Edge Techniques for FB Streaming Records</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-instagrams-video-reversal-quirk/"><u>[New] Navigating Instagram's Video Reversal Quirk</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-for-gaining-access-to-the-best-clip-art/"><u>[New] Step by Step for Gaining Access to the Best Clip Art</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-game-changing-displays-the-creme-de-la-creme-of-4k-monitors/"><u>[Updated] 2024 Approved Game-Changing Displays The Crème De La Crème of 4K Monitors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-ultimate-journey-into-youtube-seo-and-keywords/"><u>[Updated] In 2024, The Ultimate Journey Into YouTube SEO and Keywords</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-portraying-paradoxes-with-teleportation-cgi/"><u>[Updated] Portraying Paradoxes with Teleportation CGI</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lowering-volume-steps-in-logic-pro-audio-editing/"><u>2024 Approved Lowering Volume Steps in Logic Pro Audio Editing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-satirists-web-workshop/"><u>2024 Approved Satirist's Web Workshop</u></a></li>
+<li><a href="https://fox-access.techidaily.com/crafting-a-compelling-movie-mini-epic/"><u>Crafting a Compelling Movie Mini-Epic</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-win10-screen-grabbing-top-quality-captures/"><u>In 2024, Win10 Screen Grabbing - Top Quality Captures</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ize-engagement-top-8-youtube-ranking-applications-for-2024/"><u>Maximize Engagement - Top 8 YouTube Ranking Applications for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/replace-old-audio-drivers-for-w7-support/"><u>Replace Old Audio Drivers for W7 Support</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-rides-mercedes-benz-infuses-cars-with-chatgpt/"><u>Revolutionizing Rides: Mercedes-Benz Infuses Cars with ChatGPT</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-setup-of-intels-ac-31n60-wi-fi-adapter-latest-driver-update-tutorial/"><u>Seamless Setup of Intel's AC 31N60 Wi-Fi Adapter - Latest Driver Update Tutorial</u></a></li>
 </ul></div>
 

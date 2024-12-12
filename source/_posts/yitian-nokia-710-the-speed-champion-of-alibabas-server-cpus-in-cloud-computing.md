@@ -1,7 +1,7 @@
 ---
 title: "Yitian Nokia 710: The Speed Champion of Alibaba's Server CPUs in Cloud Computing"
-date: 2024-11-28T20:45:48.032Z
-updated: 2024-12-05T18:51:43.056Z
+date: 2024-12-04T20:45:00.531Z
+updated: 2024-12-11T21:33:19.543Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,24 +60,14 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-a-ultimate-guide-to-podcast-names/"><u>[New] A Ultimate Guide to Podcast Names</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-live-stream-on-youtube-without-1000-subscribers-on-a-mobile/"><u>[New] Live Stream on YouTube without 1000 Subscribers on a Mobile</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-media-lens-adjustment-software/"><u>[New] Media Lens Adjustment Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-start-your-quest-for-quick-snapstreaming-today/"><u>[Updated] Start Your Quest for Quick Snapstreaming Today</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-listing-of-superior-free-lut-downloads/"><u>2024 Approved Premier Listing of Superior Free LUT Downloads</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-listing-top-5-free-vector-graphics-online-hubs/"><u>2024 Approved Premier Listing Top 5 FREE Vector Graphics Online Hubs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-v29-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo V29 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-enhancing-vs-complicating-creative-endeavors/"><u>ChatGPT: Enhancing vs Complicating Creative Endeavors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/excels-advanced-operational-skills-eclipsing-chatgpts-potential/"><u>Excel's Advanced Operational Skills Eclipsing ChatGPT's Potential</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/guide-dinstallation-de-loutil-de-sauvegarde-aomei-avec-le-kit-aik-windows/"><u>Guide D'installation De L'outil De Sauvegarde AOMEI Avec Le Kit AIK Windows</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-boosting-youtube-descriptions-with-expert-templates/"><u>In 2024, Boosting YouTube Descriptions with Expert Templates</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-xiaomi-redmi-note-13-pro-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Xiaomi Redmi Note 13 Pro 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-nuances-of-video-sound-design/"><u>In 2024, Mastering the Nuances of Video Sound Design</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-asus-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Asus? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/insights-into-procuring-freeness-in-frame-vids-for-2024/"><u>Insights Into Procuring Freeness in Frame Vids for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-potential-with-chatgpt-insights-from-a-writers-perspective/"><u>Maximizing Potential with ChatGPT: Insights From a Writer's Perspective</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-srt-extensions-on-operating-systems-for-2024/"><u>Navigating SRT Extensions on Operating Systems for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlock-adobe-premieres-full-potential-top-15-plugins-free-download/"><u>Unlock Adobe Premieres Full Potential Top 15 Plugins (Free Download)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-maximize-engagement-with-integrated-youtube-playlist-features/"><u>[New] Maximize Engagement with Integrated YouTube Playlist Features</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mint-memes-of-merriment/"><u>[New] Mint Memes of Merriment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-progopro-sessions-four-meets-five/"><u>[New] ProGoPro Sessions Four Meets Five</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sculpting-success-in-visual-communications/"><u>[New] Sculpting Success in Visual Communications</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/youtube-to-gif-makers-you-should-use-online-and-desktop/"><u>Best YouTube To GIF Makers You Should Use (Online & Desktop)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-adopting-hdri-for-superior-visual-storytelling-in-video-arts/"><u>In 2024, Adopting HDRI for Superior Visual Storytelling in Video Arts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-transition-turning-mac-videos-into-discs/"><u>In 2024, Seamless Transition Turning Mac Videos Into Discs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restarting-audio-a-guide-to-bring-back-the-battle-cry-on-your-pc-in-valheim/"><u>Restarting Audio: A Guide to Bring Back the Battle Cry on Your PC in Valheim</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/restore-functionality-effective-solutions-for-when-chatgpt-stops-working-on-an-iphone/"><u>Restore Functionality: Effective Solutions for When ChatGPT Stops Working on an iPhone</u></a></li>
 </ul></div>
 

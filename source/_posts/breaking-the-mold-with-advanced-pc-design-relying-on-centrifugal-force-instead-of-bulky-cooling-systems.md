@@ -1,7 +1,7 @@
 ---
 title: "Breaking the Mold with Advanced PC Design: Relying on Centrifugal Force Instead of Bulky Cooling Systems"
-date: 2024-11-28T19:49:41.361Z
-updated: 2024-12-05T20:13:25.498Z
+date: 2024-12-10T16:15:44.315Z
+updated: 2024-12-11T18:14:35.974Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,22 +64,24 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mirthful-mobile-memories-iphone/"><u>[New] Mirthful Mobile Memories (iPhone)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-samsung-ue590-4k-freesync-gaming-monitor-review/"><u>[New] Samsung UE590 4K FreeSync Gaming Monitor Review</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-unmatched-quality-the-premier-4k-mirrorless-choices/"><u>[New] Unmatched Quality The Premier 4K Mirrorless Choices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-culinary-connoisseurs-must-watch-food-content/"><u>[Updated] In 2024, Culinary Connoisseurs Must-Watch Food Content</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-opening-markets-masterful-strategy-plots/"><u>[Updated] Opening Markets Masterful Strategy Plots</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-proven-techniques-in-the-art-of-srt-file-making/"><u>[Updated] Proven Techniques in the Art of SRT File Making</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-listensmart-beyond-dacast-choices/"><u>2024 Approved ListenSmart Beyond DaCast Choices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-push-notifications-with-reddit-wisdom/"><u>2024 Approved Mastering the Art of Push Notifications with Reddit Wisdom</u></a></li>
-<li><a href="https://fox-search.techidaily.com/best-10-free-and-premium-replacements-for-teracopy-on-windows-a-comprehensive-guide/"><u>Best 10 Free & Premium Replacements for Teracopy on Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-updated-free-hp-deskjet-ink-advantage-printer-driver-for-your-pc/"><u>Download the Updated, Free HP Deskjet Ink Advantage 지오널 Printer Driver for Your PC</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/from-scraps-to-stunning-a-photomontage-journey/"><u>From Scraps to Stunning A Photomontage Journey</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-resolve-windows-10-troubleshooting-for-realtek-alc887-sound-card-drivers/"><u>How to Resolve Windows 10 Troubleshooting for Realtek ALC887 Sound Card Drivers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-find-n3-flip-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Find N3 Flip to Outlook | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionize-selfies-with-top-android-and-ios-face-modifiers/"><u>In 2024, Revolutionize Selfies with Top Android & iOS Face Modifiers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-tecno-pova-6-pro-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Tecno Pova 6 Pro 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sdr-vs-hdr-choosing-the-best-for-professional-outputs-for-2024/"><u>SDR vs HDR Choosing the Best for Professional Outputs for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-picks-ultimate-guide-to-the-best-17-inch-laptop-models/"><u>Top Picks: Ultimate Guide to the Best 17-Inch Laptop Models</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-expert-pick-prime-drone-gimbals/"><u>[New] 2024 Approved Expert Pick Prime Drone Gimbals</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-culminating-sound-merging-music-with-vimeo-media-assets/"><u>[New] Culminating Sound Merging Music with Vimeo Media Assets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mac-techniques-for-instagram-short-form-videos/"><u>[New] In 2024, Mac Techniques for Instagram Short-Form Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-minuscule-web-pixels/"><u>[New] Mastering the Art of Minuscule Web Pixels</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-top-30-unique-pfps-for-a-stellar-tiktok-presence/"><u>[New] Top 30 Unique PFPs for a Stellar TikTok Presence</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-gears3-no-start-on-pc-dx12-hurdle/"><u>[RESOLVED] Gears3 No Start on PC - DX12 Hurdle</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-transformative-file-conversion-your-quick-srt-to-text-txt-guide/"><u>[Updated] 2024 Approved Transformative File Conversion Your Quick SRT to Text (TXT) Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-beat-stress-away-the-ultimate-gaming-list/"><u>[Updated] In 2024, Beat Stress Away The Ultimate Gaming List</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-integrating-photos-and-videos-a-guide-to-using-storyremix-in-windows-11/"><u>[Updated] Integrating Photos & Videos A Guide to Using StoryRemix in Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-movements-intova-xs-video-excellence/"><u>[Updated] Mastering Movements Intova X's Video Excellence</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-blueprint-for-impressive-photographic-mosaics/"><u>2024 Approved Step-by-Step Blueprint for Impressive Photographic Mosaics</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-infinix-gt-10-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Infinix GT 10 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-podcast-ideas-into-proficient-scriptwriting-techniques-samples/"><u>In 2024, Transform Your Podcast Ideas Into Proficient Scriptwriting (Techniques, Samples)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/intensive-assessment-the-ultimate-guide-to-bublcam-360-for-2024/"><u>Intensive Assessment The Ultimate Guide to Bublcam 360 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/make-every-listen-count-with-these-15-powerful-activities-for-2024/"><u>Make Every Listen Count with These 15 Powerful Activities for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-meme-magic-for-laughter-for-2024/"><u>Mastering Meme Magic for Laughter for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pioneers-shaping-the-future-of-vr-experiences-for-2024/"><u>Pioneers Shaping The Future Of VR Experiences for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/reasons-to-pause-and-plan-for-video-games/"><u>Reasons to Pause and Plan for Video Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/steps-to-convert-video-tweets-to-mp3-soundtracks-for-2024/"><u>Steps to Convert Video Tweets to MP3 Soundtracks for 2024</u></a></li>
 </ul></div>
 

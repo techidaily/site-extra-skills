@@ -1,7 +1,7 @@
 ---
 title: "Beelink GTi14: The New Meteor Lake Mini-PC Featuring an External Expansion Port for GPU Connectivity"
-date: 2024-11-28T19:24:21.666Z
-updated: 2024-12-05T21:30:04.906Z
+date: 2024-12-10T16:50:52.325Z
+updated: 2024-12-11T17:14:17.709Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,24 +78,19 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-essential-12-pc-clicker-games-to-elevate-gameplay-for-2024/"><u>[New] Essential 12 PC Clicker Games to Elevate Gameplay for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-open-source-tranquil-harmony/"><u>[New] Open Source Tranquil Harmony</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-photoquilt-supreme-eightfold-creation-engine/"><u>[New] PhotoQuilt Supreme Eightfold Creation Engine</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-standout-storytelling-in-multifaceted-cinemascape/"><u>[New] Standout Storytelling in Multifaceted Cinemascape</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-whats-in-it-for-a-million-youtube-viewers/"><u>[New] What’s in It for a Million YouTube Viewers?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-economical-dslrmirrorless-systems/"><u>[Updated] 2024 Approved Economical DSLR/Mirrorless Systems</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dismantle-bots-elevate-youtube-watch-time/"><u>[Updated] In 2024, Dismantle Bots, Elevate YouTube Watch Time</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-immortalize-your-gaming-adventures-on-pc-6-ways/"><u>[Updated] In 2024, Immortalize Your Gaming Adventures on PC [6 Ways]</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-spots-for-digital-3d-glamour-text-artistry/"><u>2024 Approved Leading Spots for Digital 3D Glamour Text Artistry</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-microscopic-views-in-teams/"><u>2024 Approved Mastering the Microscopic Views in Teams</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-a23-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy A23 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-artificial-intelligence-black-boxes-exploring-how-they-operate/"><u>Demystifying Artificial Intelligence Black Boxes – Exploring How They Operate</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-how-lenovo-ideapad-delivers-essential-features-within-a-robust-design/"><u>Discover How Lenovo Ideapad Delivers Essential Features Within a Robust Design</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-infinix-note-30-vip-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Infinix Note 30 VIP Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-live-photos-iphone-usage-tips/"><u>In 2024, Mastering Live Photos IPhone Usage Tips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-portable-battery-packs-to-keep-recording-longer/"><u>In 2024, Portable Battery Packs to Keep Recording Longer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-intricacies-of-previewing-off-facebook-activities-for-2024/"><u>Navigating the Intricacies of Previewing Off-Facebook Activities for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/soundscapes-enhancing-photography-online-for-2024/"><u>Soundscapes Enhancing Photography Online for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-and-resolving-driver-problems-on-your-lg-monitor-for-windows-users-versions-10-7-81/"><u>Troubleshooting and Resolving Driver Problems on Your LG Monitor for Windows Users (Versions 10, 7, 8.1)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-deciphering-hdr-mastery-through-luminance-testing/"><u>[New] In 2024, Deciphering HDR Mastery Through Luminance Testing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-leading-8-screenshot-solutions-without-hesitation/"><u>[New] Leading 8 Screenshot Solutions Without Hesitation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-proven-techniques-for-captivating-online-audiences-via-zoom-and-youtube-live/"><u>[New] Proven Techniques for Captivating Online Audiences via Zoom & YouTube Live</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-avoid-common-pitfalls-in-ppt-recording/"><u>[Updated] 2024 Approved Avoid Common Pitfalls in PPT Recording</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-embrace-the-future-of-tv-engage-with-fb-live-via-roku-for-2024/"><u>[Updated] Embrace the Future of TV Engage with FB Live via Roku for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-lower-volume-level-by-level-with-fl/"><u>[Updated] In 2024, Lower Volume Level by Level with FL</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revel-in-every-box-with-these-strategies/"><u>2024 Approved Revel in Every Box with These Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/how-to-create-text-memes-with-meme-text-generator-in-2024/"><u>How to Create Text Memes with Meme Text Generator, In 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-a38-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo A38 Phones with/without a PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-the-digital-space-with-impactful-fb-giveaway-posts/"><u>Navigating the Digital Space with Impactful FB Giveaway Posts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-live-video-distributors-suite-for-2024/"><u>Optimal Live Video Distributors' Suite for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfect-windows-photos-implementing-sound-and-visual-filters-guide-for-2024/"><u>Perfect Windows Photos Implementing Sound & Visual Filters Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smart-strategies-achieving-advertising-excellence-for-2024/"><u>Smart Strategies Achieving Advertising Excellence for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-video-cameras-previewed-for-2024/"><u>Superior Video Cameras Previewed for 2024</u></a></li>
 </ul></div>
 
