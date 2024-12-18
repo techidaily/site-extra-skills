@@ -1,7 +1,7 @@
 ---
 title: "[New] Smoothly Lowering Sound Levels Using Garageband"
-date: 2024-07-31T09:55:24.311Z
-updated: 2024-08-01T09:55:24.311Z
+date: 2024-12-14T22:32:30.898Z
+updated: 2024-12-17T18:25:13.071Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ In the music production industry, an element that is often used in a song is fad
 
 In the article, we will educate you on various topics related to GarageBand; if you are new in the field of music production, then this article will benefit you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. How to Fade Audio with Garageband on Mac?
 
 We all know that Garageband is a program that allows its users to produce music and podcasts on iOS, macO, and ipadOS devices. It has many in-built audio effects that can enhance your music. Fade-out and fade-in are two of the most used products in Garageband. Many beginners face trouble on **how to fade out in Garageband** as it is not a popular feature that everyone practices.
@@ -34,22 +38,24 @@ Step1 Turn on the application and open the song from the home screen.
 
 ![open songs in garageband](https://images.wondershare.com/filmora/article-images/2022/07/open-songs-in-garageband.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Press the track> show the master track from the icon menu, and then the master track will come below the last track.
 
 Step3 Choose the mix> produce volume fade out on the main output option.
 
 Step4 Press the volume button from the menu in the track header, and use the volume point to adjust the fade-out length.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![start fade out length garageband](https://images.wondershare.com/filmora/article-images/2022/07/start-fade-out-length-garageband.jpg)
 
 Using the GarageBand application on your iPad, you can opt for the automatic fade-out option. You need to open the song set and activate the active fade-out option.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2\. How to Fade Audio with Garageband on iPhone?
 
 Fading out of music is very popular when going through your favorite track. As soon as the song comes closer to the end, you will get to hear it fade slowly-slowly. You can use this effect even if you produce your music in Garageband. Fading out a song is not a widespread practice, but you can go through the article to gather information about how to **fade in Garageband**.
@@ -68,6 +74,10 @@ Step4 Hit the done icon.
 
 The fade-out option doesn't offer you much set of control. It usually works as a master track and includes the fade-out effect over all the track channels. You won't be able to edit the fade-out; in simple words, it will automatically select a point where the feature will start working, and it will also control the speed and intensity of the volume drop. It is one of the best features for fading short tracks as it won't lose much audio.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. Garageband Alternative to Fade Audio on Mac
 
 One of the worst jobs is searching for an excellent MP3 editor, as most offer paid services. It can save time searching for a suitable alternative to Garageband to fade out audio. According to a survey, people usually interact with the MP3 editor that offers an excellent interface. Moreover, one of the essential requirements is multi-track editing, and you can't use multiple tabs for editing complex tracks. Apart from **fade-in on Garageband**, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is one of the best alternatives.
@@ -80,6 +90,10 @@ Suppose you are searching for a great MP3 editor that offers various file format
 
 ![use filmora editor](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This application also offers many features that make the users curious about the application. This application can easily add background music to any video file. You can also change the media file with benefits like split audio, volume adjustment, and adjusting audio. This application also offers audio denoise and equalizer features. You can gather more information by exploring the application.
 
 When attaching a song to a video, you may have a rough start that can burst your ears. To get rid of this, you can utilize the audio fade feature to adjust the volume, enhancing the audio's smoothness. If facing the same issue, you can add the fade-in effect in just a few clicks. With the help of [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), almost all the audio clips in this program can be faded quickly without an effort.
@@ -94,23 +108,12 @@ After the installation procedure, select the import icon from the menu. Choose t
 
 After the drag and drop procedure, double click on the file and direct yourself to the audio column; there, you will get numerous settings that include volume, fade-out, fade-in, and pitch. Adjust as per your need until and unless you get the desired clip.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![add audio fade in to clip](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 ##### Step3 Save the video
 
 Choose the create option to save the new file if you are done with the adjusting part. You can save your file in several formats such as MP3, MKV, WMV, AVI, etc. you can play the track on various devices like iPad, iPod, iPhone, Zune, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![save the video](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 ## Conclusion
@@ -119,9 +122,6 @@ According to the survey, one of the most searched topics is **how to fade music 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![use filmora editor](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 This application also offers many features that make the users curious about the application. This application can easily add background music to any video file. You can also change the media file with benefits like split audio, volume adjustment, and adjusting audio. This application also offers audio denoise and equalizer features. You can gather more information by exploring the application.
@@ -144,14 +144,8 @@ After the drag and drop procedure, double click on the file and direct yourself 
 
 Choose the create option to save the new file if you are done with the adjusting part. You can save your file in several formats such as MP3, MKV, WMV, AVI, etc. you can play the track on various devices like iPad, iPod, iPhone, Zune, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![save the video](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 According to the survey, one of the most searched topics is **how to fade music in Garageband**. If you are also facing the same issue, this article will offer you a simple guide on the topic related to fade-in and fade-out features. You can also browse the internet to search for other benefits, and you can explore the application to learn more about its uses.
@@ -178,5 +172,22 @@ According to the survey, one of the most searched topics is **how to fade music 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-10-speed-up-apps-for-mobile-music-and-podcasts/"><u>[New] 10 Speed-Up Apps for Mobile Music and Podcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-funny-image-memes/"><u>[New] The Ultimate Guide to Funny Image Memes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-steps-to-develop-a-charismatic-vlog-script/"><u>[Updated] Steps to Develop a Charismatic Vlog Script</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-podcast-visibility-via-instagram-channels/"><u>2024 Approved Optimizing Podcast Visibility via Instagram Channels</u></a></li>
+<li><a href="https://win-dash.techidaily.com/brother-hl-2270dw-driver-download-and-update-in-windows/"><u>Brother HL-2270DW Driver Download & Update in Windows</u></a></li>
+<li><a href="https://fox-http.techidaily.com/from-obscurity-to-prominence-how-to-thrive-in-youtube-streaming-for-2024/"><u>From Obscurity to Prominence How to Thrive in Youtube Streaming for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-x-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone X With or Without Password</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-mastering-color-grading-techniques-in-gopro-studio/"><u>In 2024, Mastering Color Grading Techniques in GoPro Studio</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximizing-drone-efficiency-with-premium-lipo-units/"><u>In 2024, Maximizing Drone Efficiency with Premium LiPo Units</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-skyrocket-your-shots-with-ps-color-tweaks/"><u>In 2024, Skyrocket Your Shots with PS Color Tweaks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-6-apps-to-transform-photos-by-eliminating-backgrounds-for-2024/"><u>Leading 6 Apps to Transform Photos by Eliminating Backgrounds for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/luminous-layers-the-graders-path-to-perfection-for-2024/"><u>Luminous Layers The Grader's Path to Perfection for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/securing-privacy-for-group-posters-without-identifiers/"><u>Securing Privacy for Group Posters without Identifiers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/snappy-segments-10-snippets-to-enhance-your-edits-for-2024/"><u>Snappy Segments 10 Snippets to Enhance Your Edits for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/trasforma-i-tuoi-video-ogv-in-formato-mp4-senza-costi-utilizzando-il-servizio-di-movavi-online/"><u>Trasforma I Tuoi Video OGV in Formato MP4 Senza Costi Utilizzando Il Servizio Di Movavi Online</u></a></li>
+</ul></div>
 

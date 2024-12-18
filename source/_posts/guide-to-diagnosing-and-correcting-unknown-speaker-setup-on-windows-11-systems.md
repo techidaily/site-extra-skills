@@ -1,7 +1,7 @@
 ---
 title: Guide to Diagnosing and Correcting 'Unknown' Speaker Setup on Windows 11 Systems
-date: 2024-12-04T21:24:41.430Z
-updated: 2024-12-11T18:17:06.672Z
+date: 2024-12-13T20:55:17.638Z
+updated: 2024-12-18T01:12:25.976Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ Read on and follow the easy-doing images below!
 2. [**Option 2: Change Sound Enhancement Settings**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Option 3: Change Speaker Settings**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1: Try the generic audio driver
 
  Sound keeps cutting out on Windows 10 could relate to problematic audio driver. To see if this is the case, you can try the generic sound driver provided by Windows and see if it works. To do so:
@@ -41,21 +37,30 @@ Read on and follow the easy-doing images below!
 3. Choose**Browse my computer for driver software** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the generic audio driver doesn’t work to fix the sound cutting out issue, it’s possible that you have a corrupted or outdated sound card driver, so you should update the driver to see if it helps. If you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -67,14 +72,14 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -87,10 +92,6 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
@@ -110,15 +111,15 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
@@ -126,7 +127,7 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
@@ -152,22 +153,20 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-a-step-by-step-strategy-to-design-engaging-youtube-teasers/"><u>[New] 2024 Approved A Step-by-Step Strategy to Design Engaging YouTube Teasers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-key-gear-for-broadcast-engineers-and-directors/"><u>[Updated] Key Gear for Broadcast Engineers and Directors</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-macaw-mambo-march/"><u>[Updated] Macaw Mambo March</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-perfect-pair-of-5k-monitors-ranked-1-8/"><u>[Updated] Perfect Pair of 5K Monitors, Ranked #1-8</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pro-level-text-templates-for-adobe-ae/"><u>[Updated] Pro-Level Text Templates for Adobe AE</u></a></li>
-<li><a href="https://techtrends.techidaily.com/7-innovieve-methoden-om-hoe-transparent-te-zichtbaar-te-wekken-lees-de-oplossingen-met-movavi/"><u>7 Innovieve Methoden Om Hoe Transparent Te Zichtbaar Te Wekken - Lees De Oplossingen Met Movavi</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevating-tiktok-bio-by-merging-it-with-linktree/"><u>Elevating TikTok Bio by Merging It With Linktree</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-how-to-resolve-the-silent-gameplay-issue-in-forza-horizon-4/"><u>Fixed: How to Resolve the Silent Gameplay Issue in Forza Horizon 4</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-magic-v2-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor Magic V2</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-reno-8t-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo Reno 8T FRP</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-quick-insights-5-easy-techniques-for-effective-audio-capture-on-windows-11/"><u>In 2024, Quick Insights 5 Easy Techniques for Effective Audio Capture on Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-snickerspace-build-memes-that-make-people-smile/"><u>In 2024, SnickerSpace Build Memes That Make People Smile</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sony-a6400-video-not-showing-troubleshooting-guide/"><u>In 2024, Sony A6400 Video Not Showing Troubleshooting Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-to-adobe-cloud-success-and-non-adobe-options/"><u>In 2024, Step-by-Step to Adobe Cloud Success & Non-Adobe Options</u></a></li>
-<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/kinemaster-elevating-your-game-play-experience-on-android-devices-for-2024/"><u>KineMaster Elevating Your Game Play Experience on Android Devices for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-se-2020-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone SE (2020) i Do? Get Answers here</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-tips-for-finding-trending-videos-on-facebook-for-2024/"><u>[New] Tips for Finding Trending Videos on Facebook for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-infinite-space-top-10-external-hard-drives-for-ps5/"><u>[Updated] 2024 Approved Infinite Space Top 10 External Hard Drives for PS5</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-stock-pictures-tales-and-internet-fame/"><u>[Updated] Leading Stock Pictures' Tales and Internet Fame</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-aquatic-cinematography-with-these-7-essential-strategies/"><u>[Updated] Mastering Aquatic Cinematography with These 7 Essential Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-virtual-seminar-title-craftsman/"><u>2024 Approved Premier Virtual Seminar TITLE CRAFTSMAN</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-skybound-innovations-with-djis-latest-pro-drone-review/"><u>2024 Approved Skybound Innovations with DJI's Latest Pro Drone Review</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-end-the-frontier-game-crash-cycle-on-your-computer-issue-fixed/"><u>Expert Advice: End the Frontier Game Crash Cycle on Your Computer - Issue Fixed!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-and-quick-guide-how-to-safely-print-your-pdfs-without-hacking-risks/"><u>Free and Quick Guide: How to Safely Print Your PDFs Without Hacking Risks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-best-meme-photo-editor/"><u>In 2024, Best Meme Photo Editor</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-chromebook-zoom-usage-techniques/"><u>In 2024, Pro Chromebook Zoom Usage Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-guide-iphone-picture-perfection/"><u>In 2024, Step-by-Step Guide IPhone Picture Perfection</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-6s-plus-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/why-isnt-my-network-card-recognized-expert-insights-from-yl-computing/"><u>Why Isn't My Network Card Recognized? Expert Insights From YL Computing</u></a></li>
 </ul></div>
 

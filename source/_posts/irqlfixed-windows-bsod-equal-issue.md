@@ -1,7 +1,7 @@
 ---
 title: "[IRQL_FIXED] Windows BSOD - Equal Issue"
-date: 2024-12-10T18:51:27.076Z
-updated: 2024-12-11T18:14:32.743Z
+date: 2024-12-17T02:16:16.698Z
+updated: 2024-12-17T21:09:55.462Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 4. **[Reset or reinstall Windows](https://tinyland.pxf.io/org4ra)**
 
 **IMPORTANT** : You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, [restart it in Safe Mode,](https://tools.techidaily.com/drivereasy/download/) then try these solutions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Solution 1: Update the drivers to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
 
@@ -70,11 +66,19 @@ Following steps are for your reference on how to uninstall a driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13fe52a4642.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) If prompted to confirm  the uninstall, check the box next to “Delete the driver software for this device.” then click the **OK**  button. If you don’t see this box, just click**OK** to uninstall the driver.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13feb35a43d.png)
 
  5) Restart your PC and check to see if the blue screen is gone  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3 **: Perform a System Restore to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
 
@@ -88,19 +92,15 @@ Following steps are for your reference on how to uninstall a driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13ffd6b0139.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click Next then you may see the following screen. Select a restore point created before the error occurred. You can tell from the created**Date and Time** . Click **Next** to continue and follow the on-screen instructions to finish the restore.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a14004645d52.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Reboot your PC and check to see if the blue screen is gone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Solution** 4: Reset or reinstall Windows
 
@@ -114,14 +114,14 @@ Following steps are for your reference on how to uninstall a driver:
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -151,19 +151,20 @@ Following steps are for your reference on how to uninstall a driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-seamless-transfer-of-high-definition-fb-media/"><u>[New] 2024 Approved Seamless Transfer of High Definition FB Media</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discover-the-top-3-alternative-video-portals/"><u>[New] In 2024, Discover the Top 3 Alternative Video Portals</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-dual-performance-the-tiktok-duet-trend/"><u>[Updated] In 2024, Dual Performance The TikTok Duet Trend</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-precision-and-efficiency-incorporating-luts-in-after-effects/"><u>[Updated] Precision and Efficiency Incorporating LUTs in After Effects</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamless-easy-to-use-web-tools-for-gif-to-video-transformation/"><u>[Updated] Seamless, Easy-to-Use Web Tools for GIF to Video Transformation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-simplifying-typeface-addition-for-enhanced-creativity-in-ae/"><u>[Updated] Simplifying Typeface Addition for Enhanced Creativity in AE</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-insider-tips-on-finding-and-designing-standout-instagram-ringtone-alerts/"><u>2024 Approved Insider Tips on Finding & Designing Standout Instagram Ringtone Alerts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-ls-pros-and-cons-firmware-versus-devices/"><u>2024 Approved LS Pros & Cons Firmware Versus Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-f14-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy F14 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sony-xperia-xz-bridging-the-gap-to-ultra-hd-phones/"><u>In 2024, Sony Xperia XZ - Bridging the Gap to Ultra HD Phones</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-blueprint-for-success-livestreaming-ultra-wide-video-content-on-youtube/"><u>In 2024, The Blueprint for Success Livestreaming Ultra-Wide Video Content on YouTube</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlocking-full-potential-watching-facebook-videos-on-your-apple-devices/"><u>In 2024, Unlocking Full Potential Watching Facebook Videos on Your Apple Devices</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/select-vhs-magic-transforming-video-editing-today-for-2024/"><u>Select VHS Magic Transforming Video Editing Today for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-dragons-dogma-2-performance-issues-solutions-for-frame-rate-drops-and-hitches/"><u>Troubleshooting Dragon's Dogma 2 Performance Issues: Solutions for Frame Rate Drops & Hitches</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-soundstage-excellence-critical-interface-tips-for-podcasters/"><u>[New] In 2024, Soundstage Excellence Critical Interface Tips for Podcasters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastery-in-making-advanced-tiktok-editing-techniques/"><u>[New] Mastery in Making Advanced TikTok Editing Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-selective-slideshow-software-for-xrxsx-models/"><u>[New] Selective Slideshow Software for Xr/XS/X Models</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-complete-stardew-compendium-focus-on-ginger-isle/"><u>[Updated] 2024 Approved The Complete Stardew Compendium Focus on Ginger Isle</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-decoding-inverse-image-retrieval-for-social-networks-focusing-on-fb/"><u>[Updated] In 2024, Decoding Inverse Image Retrieval for Social Networks, Focusing on FB</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-overwatch-gameplay-captured-step-by-step-guide-for-2024/"><u>[Updated] Overwatch Gameplay Captured - Step by Step Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-rise-above-the-crowd-in-instagram-world-with-these-9-must-try-strategies/"><u>[Updated] Rise Above the Crowd in Instagram World with These 9 Must-Try Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-max-char-count-and-workarounds/"><u>ChatGPT: Max Char Count & Workarounds?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-tips-for-conquering-photo-and-video-importers-on-windows-10/"><u>In 2024, Pro-Tips for Conquering Photo & Video Importers on Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/introducing-the-next-gen-of-ipads-by-apple-inc/"><u>Introducing the Next Gen of iPads by Apple Inc</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/nix-the-sneaky-youtube-quick-playback-feature-for-2024/"><u>Nix the Sneaky YouTube Quick Playback Feature for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecti-top-photo-and-video-display-programming-for-2024/"><u>Perfecti Top Photo & Video Display Programming for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-list-7-high-quality-vids-on-mac-for-2024/"><u>Prime List 7 High-Quality Vids on Mac for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-laptops-how-to-revive-your-built-in-speakers-easily/"><u>Troubleshooting Silent Laptops: How To Revive Your Built-In Speakers Easily</u></a></li>
 </ul></div>
 

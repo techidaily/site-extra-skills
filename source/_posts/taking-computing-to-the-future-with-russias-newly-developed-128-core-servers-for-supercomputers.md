@@ -1,7 +1,7 @@
 ---
 title: Taking Computing to the Future with Russia's Newly Developed 128-Core Servers for Supercomputers
-date: 2024-12-04T19:19:11.763Z
-updated: 2024-12-11T17:06:02.406Z
+date: 2024-12-11T16:24:37.182Z
+updated: 2024-12-17T23:50:30.362Z
 tags:
   - desktop
 categories:
@@ -46,24 +46,24 @@ Pick up a powerful new gaming or productivity desktop from Lenovo with a tasty d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-champions-of-3d-spatial-displays/"><u>[New] Champions of 3D Spatial Displays</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-kinemaster-guide-to-seamless-green-screen-implementation/"><u>[New] Kinemaster Guide to Seamless Green Screen Implementation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-polaroid-camplus-cube-analysis-when-life-is-on-screen/"><u>[New] Polaroid Cam+ Cube Analysis When Life Is on Screen</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-facebooks-ultimate-guide-selective-downloader-addons-and-extensions-for-firefox/"><u>[Updated] 2024 Approved Facebook's Ultimate Guide Selective Downloader Addons & Extensions for Firefox</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-command-center-conundrums-deciphering-best-cloud-solutions/"><u>[Updated] Command Center Conundrums Deciphering Best Cloud Solutions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-leading-suggestions-best-iphone-audio-innovators/"><u>[Updated] Leading Suggestions Best iPhone Audio Innovators</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-stream-like-a-pro-on-youtube-best-webcams-reviewed/"><u>[Updated] Stream Like a Pro on YouTube Best Webcams Reviewed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-start-smart-free-video-intro-templates/"><u>2024 Approved Start Smart Free Video Intro Templates</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-starting-with-the-basics-of-av1-codec/"><u>2024 Approved Starting with the Basics of AV1 Codec</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-apple-imacs-style-and-strength-an-in-depth-review-of-the-215-4k-monitor/"><u>Exploring the Apple iMac's Style & Strength: An In-Depth Review of the 21.5 4K Monitor</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sculpting-brilliance-a-deep-dive-into-hdr-in-lightroom/"><u>In 2024, Sculpting Brilliance A Deep Dive Into HDR in Lightroom</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-manipulation-of-iphone-magnification/"><u>In 2024, Seamless Manipulation of iPhone Magnification</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-perfect-companion-for-remote-professionals-a-review-of-the-most-portable-laptops-tested/"><u>The Perfect Companion for Remote Professionals: A Review of the Most Portable Laptops Tested</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/unveiling-virtual-background-magic-a-streamers-guide-to-chroma-key-for-2024/"><u>Unveiling Virtual Background Magic A Streamer's Guide to Chroma Key for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210655587-9781454940463-year-of-the-ox/"><u>Year of the Ox | Free Book</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigate-to-these-10-online-havens-showcasing-striking-3d-texts/"><u>[New] Navigate to These 10 Online Havens Showcasing Striking 3D Texts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-secrets-of-bulk-downloads-maximizing-your-tiktok-video-collection/"><u>[New] Secrets of Bulk Downloads Maximizing Your TikTok Video Collection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sketching-success-a-guide-to-industrys-best-10-vector-apps/"><u>[Updated] Sketching Success A Guide to Industry's Best 10 Vector Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-tips-for-recovering-and-restoring-broken-system-files-in-windows-1110/"><u>Essential Tips for Recovering and Restoring Broken System Files in Windows 11/10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-cinematography-how-to-create-visually-stunning-videos-for-2024/"><u>FCPX Cinematography How to Create Visually Stunning Videos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-y100-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo Y100 Quickly | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/grabar-audios-con-windows-11-and-mac-de-forma-gratuita/"><u>Grabar Audios Con Windows 11 & Mac De Forma Gratuita</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-apple-iphone-13-pro-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the Apple iPhone 13 Pro Without Previous Owner?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-asus-rog-phone-8-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Asus ROG Phone 8 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-passport-photo-creation-made-easy-10-images-at-no-cost/"><u>In 2024, Passport Photo Creation Made Easy 10 Images at No Cost</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-srt-to-sub-mastery-unveiling-3-key-strategies/"><u>In 2024, SRT-to-SUB Mastery Unveiling 3 Key Strategies</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-y100-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo Y100</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leap-into-adventure-mastering-the-realm-of-virtual-reality-for-2024/"><u>Leap Into Adventure Mastering the Realm of Virtual Reality for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-year-new-lg-bp550-the-2023-review-for-2024/"><u>New Year, New LG BP550 The 2023 Review for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210385627-9781667409634-seja-resiliente-contra-o-estresse-e-se-acalme/"><u>Seja resiliente contra o estresse e se acalme! | Free Book</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

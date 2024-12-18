@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Smartphone Security  IPhone X’s Face ID Versus Galaxy Recognition\""
-date: 2024-10-26T18:11:29.435Z
-updated: 2024-10-31T16:03:47.851Z
+date: 2024-12-16T04:25:53.683Z
+updated: 2024-12-17T18:41:12.054Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: The Common Inconvenience
 
  When it comes to practicality, we would state that both the phone don’t stand well for it. This is because if you use Apple’s latest invention i.e. iPhone X, you are required to first hold your device in your hand followed by looking at the screen. Then you need to swipe it up for unlocking the device.
@@ -64,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
  Both the devices need to be lifted to keep the face’s angle point accurately and it can look awkward when you need to use your device in a crowded place. Hence, both ways are kind of inconvenient to use especially when you wish to use your device secretly.
 
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Safety Issue
 
@@ -82,16 +79,13 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
 ![face ID issue](https://images.wondershare.com/filmora/article-images/face-id-issue.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the other hand, Samsung also doesn’t lag behind when it comes to safety and security with face recognition feature. Samsung is the first Android device company to introduce face recognition technology that brought iris scanning technology with its Galaxy Note 7\. The technology does it job by detecting the iris’ pattern of your eyes. As far as security is concerned, the technology gets 10 on 10 since each person possesses unique iris pattern and it becomes difficult to replicate. The devices by Samsung having face recognition technology are designed with infrared diode which is capable
 
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -138,6 +132,10 @@ Follow @Ollie Mattison
 
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: The Common Inconvenience
 
  When it comes to practicality, we would state that both the phone don’t stand well for it. This is because if you use Apple’s latest invention i.e. iPhone X, you are required to first hold your device in your hand followed by looking at the screen. Then you need to swipe it up for unlocking the device.
@@ -147,6 +145,14 @@ Follow @Ollie Mattison
  Both the devices need to be lifted to keep the face’s angle point accurately and it can look awkward when you need to use your device in a crowded place. Hence, both ways are kind of inconvenient to use especially when you wish to use your device secretly.
 
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Safety Issue
 
@@ -163,10 +169,7 @@ Follow @Ollie Mattison
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -176,10 +179,7 @@ Follow @Ollie Mattison
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -215,18 +215,15 @@ Follow @Ollie Mattison
 
 ![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Which one is more Accuracy?
 
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
 
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: The Common Inconvenience
 
@@ -237,19 +234,6 @@ Follow @Ollie Mattison
  Both the devices need to be lifted to keep the face’s angle point accurately and it can look awkward when you need to use your device in a crowded place. Hence, both ways are kind of inconvenient to use especially when you wish to use your device secretly.
 
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Safety Issue
 
@@ -271,13 +255,6 @@ Follow @Ollie Mattison
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -296,10 +273,7 @@ Follow @Ollie Mattison
 * [Part 4: Safety Issue](#part4)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How does it work?
@@ -323,6 +297,10 @@ Follow @Ollie Mattison
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
 
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: The Common Inconvenience
 
@@ -384,20 +362,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-leading-mp4-companies-to-watch/"><u>[New] Leading MP4 Companies to Watch</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-movavis-enhanced-toolset-examining-plus-edition-2024/"><u>[New] Movavi's Enhanced Toolset Examining Plus Edition 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-exploring-apowersofts-pc-screen-snap-recorder/"><u>[Updated] Exploring Apowersoft's PC Screen Snap Recorder</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-instagram-orchestra-capturing-harmony-on-social-media/"><u>[Updated] Instagram Orchestra Capturing Harmony on Social Media</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-is-max-360-superior-to-hero-11-in-video-quality/"><u>2024 Approved Is Max 360 Superior to Hero 11 in Video Quality?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-social-streaming-downloading-videos-and-turning-them-to-audio/"><u>2024 Approved Social Streaming Downloading Videos & Turning Them to Audio</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-samsung-cf591-gaming-screen-assessment/"><u>Comprehensive Samsung CF591 Gaming Screen Assessment</u></a></li>
-<li><a href="https://games-able.techidaily.com/experience-next-level-games-with-nvidias-fresh-application/"><u>Experience Next-Level Games with Nvidia’s Fresh Application</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-note-30-vip-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Note 30 VIP? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-depth-survey-the-apex-of-screen-recording-technology/"><u>In-Depth Survey The Apex of Screen Recording Technology</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/instant-collage-creation-tips-for-social-media-posts-for-2024/"><u>Instant Collage Creation Tips for Social Media Posts for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/secure-your-internet-footprint-using-the-tor-browser-for-privacy-in-windows-11/"><u>Secure Your Internet Footprint: Using the Tor Browser for Privacy in Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sharpen-focus-expert-tips-on-the-psx-eraser-tool-for-2024/"><u>Sharpen Focus Expert Tips on the PSX Eraser Tool for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/smooth-transition-from-iphones-jpegpng-files-to-pdf-format-for-2024/"><u>Smooth Transition From iPhone's JPEG/PNG Files to PDF Format for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unify-your-epic-games-tips-for-merging-fortnite-accounts-seamlessly/"><u>Unify Your Epic Games: Tips for Merging Fortnite Accounts Seamlessly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-rev-voice-recorder-download-and-review/"><u>[New] Rev Voice Recorder Download and Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-to-dimming-audio-with-logic-pro/"><u>[New] Step-by-Step Guide to Dimming Audio with Logic Pro</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-newcomers-playbook-for-youtube-success-setup-and-revenue-generation-for-2024/"><u>[New] The Newcomer's Playbook for Youtube Success Setup & Revenue Generation for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-snappytweet-get-your-digital-snapshots-on-iphone/"><u>[Updated] 2024 Approved SnappyTweet Get Your Digital Snapshots on iPhone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-club-chronicles-expertly-picked-dj-videos-for-2024/"><u>[Updated] Club Chronicles Expertly Picked DJ Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pinnacle-tools-for-audio-infused-photography/"><u>[Updated] Pinnacle Tools for Audio Infused Photography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smart-strategies-for-buying-economical-gopros/"><u>[Updated] Smart Strategies for Buying Economical GoPros</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-transform-instagram-videos-into-mp4-with-top-free-online-tools-windowsosx-for-2024/"><u>[Updated] Transform Instagram Videos Into MP4 with Top Free Online Tools [Windows/OSX] for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-making-text-dance-2-creative-animation-strategies/"><u>2024 Approved Making Text Dance 2 Creative Animation Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-picart-a-guide-to-clear-backgrounds/"><u>2024 Approved Mastering PicArt A Guide to Clear Backgrounds</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/"><u>In 2024, 4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-photo-artistry-mastering-shadows-and-highlights/"><u>In 2024, IPhone Photo Artistry Mastering Shadows & Highlights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-nextgen-videotron-app-evaluation/"><u>In 2024, NextGen Videotron App Evaluation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-satirical-hits-the-funniest-song-rewrites/"><u>In 2024, Satirical Hits The Funniest Song Rewrites</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-13-pro-max-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 13 Pro Max in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/lokale-losungen-zur-wiederherstellung-der-usb-partitionsstruktur-mit-myrecover-schritt-fur-schritt/"><u>Lokale Lösungen Zur Wiederherstellung Der USB-Partitionsstruktur Mit MyRecover - Schritt Für Schritt</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-mac-software-for-optimal-dvd-burning-for-2024/"><u>Navigating Mac Software for Optimal DVD Burning for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-your-ringtone-choices-on-an-iphone-for-2024/"><u>Perfecting Your Ringtone Choices on an iPhone for 2024</u></a></li>
 </ul></div>
 

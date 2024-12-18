@@ -1,7 +1,7 @@
 ---
 title: "Innovative PC Design: Harnessing Centrifugal Force Over Traditional Air Cooling"
-date: 2024-12-04T19:22:46.759Z
-updated: 2024-12-11T20:44:31.704Z
+date: 2024-12-10T21:58:43.410Z
+updated: 2024-12-18T02:12:18.899Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,24 +68,22 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/fixed-how-to-fix-multiversus-not-launching-on-pc/"><u>[FIXED] How to Fix MultiVersus Not Launching on PC</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-echoing-elegance-find-pristine-ringtone-archives-online/"><u>[New] In 2024, Echoing Elegance Find Pristine Ringtone Archives Online</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-selecting-the-best-sketchpad-and-design-tools-for-windows/"><u>[New] In 2024, Selecting the Best Sketchpad and Design Tools for Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-into-the-blueprint-cutting-edge-techniques-for-drones/"><u>[New] Into the Blueprint Cutting-Edge Techniques for Drones</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-iphone-nightscape-techniques-unlocked/"><u>[New] IPhone Nightscape Techniques Unlocked</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-lightning-fast-windowed-photo-reader-for-win11/"><u>[New] Lightning-Fast Windowed Photo Reader for Win11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-unleash-speed-prime-biking-games-list-for-2024/"><u>[New] Unleash Speed Prime Biking Games List for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-chronicles-unveiled-the-best-narrative-channels-on-youtube-this-year/"><u>[Updated] Chronicles Unveiled The Best Narrative Channels on YouTube This Year</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-interactive-vs-passive-entertainment-twitch-vs-youtube/"><u>[Updated] Interactive vs Passive Entertainment Twitch vs YouTube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mellow-playtime-10-top-rated-stress-erasers-for-2024/"><u>[Updated] Mellow Playtime 10 Top-Rated Stress Erasers for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-rekindling-the-classics-top-80s-video-effects-for-cutting-edge-films/"><u>[Updated] Rekindling the Classics Top 80S Video Effects for Cutting-Edge Films</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-is-picku-the-ultimate-answer-to-enhancing-your-android-photos/"><u>2024 Approved Is PickU the Ultimate Answer to Enhancing Your Android Photos?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-silent-swings-managing-volume-effortlessly-in-garageband/"><u>2024 Approved Silent Swings Managing Volume Effortlessly in Garageband</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-a-comprehensible-guide-to-saving-hulu-programs-on-multiple-devices/"><u>In 2024, A Comprehensible Guide to Saving Hulu Programs on Multiple Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-excellent-church-streaming-services/"><u>In 2024, Navigating the Excellent Church Streaming Services</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/magnify-marvel-the-ultimate-10-camera-lens-guide-for-2024/"><u>Magnify Marvel The Ultimate 10 Camera Lens Guide for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-battle-of-the-streaming-devices-which-is-superior-chromecast-or-roku/"><u>The Battle of the Streaming Devices: Which Is Superior, Chromecast or Roku?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Gadget Analysis</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/video-scheduler-internal-error-on-windows-10-solved/"><u>Video Scheduler Internal Error on Windows 10 [Solved]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-live-methods-for-quieter-track-output/"><u>[New] Live Methods for Quieter Track Output</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-powerdirector-full-review-and-instructions/"><u>[New] Mastering PowerDirector - Full Review & Instructions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-one-source-livestream-perfection-a-streamers-blueprint/"><u>[New] One-Source Livestream Perfection A Streamer's Blueprint</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-shades-of-genius-3-proven-tricks-for-color-correction-success/"><u>[New] Shades of Genius 3 Proven Tricks for Color Correction Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-steps-to-ensure-quality-film-with-your-iphone/"><u>[New] Steps to Ensure Quality Film with Your iPhone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-3dr-alone-unpackaging-a-single-user-review/"><u>[Updated] 2024 Approved '3DR' Alone Unpackaging a Single User Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-from-concept-to-completion-crafting-youtube-shorts-templates-masterfully/"><u>[Updated] 2024 Approved From Concept to Completion Crafting YouTube Shorts Templates Masterfully</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-rank-the-best-fb-video-downloaders-heres-how/"><u>2024 Approved Rank the Best FB Video Downloaders - Here's How</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-selecting-your-streaming-choice-podcast-or-video-platform/"><u>2024 Approved Selecting Your Streaming Choice Podcast or Video Platform</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-comprehensible-guide-downloading-safe-free-vlc-on-macos/"><u>2024 Approved The Comprehensible Guide Downloading Safe, Free VLC on macOS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-zte-axon-40-lite-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On ZTE Axon 40 Lite?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-professional-level-interview-and-journey-podcasts-on-apple-devices/"><u>In 2024, Professional-Level Interview & Journey Podcasts on Apple Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/making-a-splash-how-to-improve-your-videos-with-instagram-edits/"><u>Making a Splash How to Improve Your Videos with Instagram Edits</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722718020411-relive-the-retro-era-with-the-nintendo-game-and-watch-a-deep-dive-into-super-mario-bros/"><u>Relive the Retro Era with the Nintendo Game & Watch: A Deep Dive Into Super Mario Bros.</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/social-media-excellence-a-practical-approach-for-2024/"><u>Social Media Excellence A Practical Approach for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471422241-solve-your-broken-iphone-volume-buttons-issue-in-just-7-steps/"><u>Solve Your Broken iPhone Volume Buttons Issue in Just 7 Steps</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-sound-detectives-handbook-extracting-silence-from-video-files-in-iosos-x-systems/"><u>Updated 2024 Approved The Sound Detectives Handbook Extracting Silence From Video Files in iOS/OS X Systems</u></a></li>
 </ul></div>
 

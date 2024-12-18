@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide to Perfecting TikTok Broadcast on Zoom\""
-date: 2024-12-09T17:41:38.298Z
-updated: 2024-12-11T22:14:55.899Z
+date: 2024-12-11T03:44:14.041Z
+updated: 2024-12-17T21:41:41.756Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ In recent times, TikTok has become a major social media platform and along with 
 
 And one of the main functions of any video editing application is that the user should be able to zoom into videos to showcase specific areas of the video or to make a unique transition. In this article, we are going to learn about face zoom TikTok and how one user can use the Zoom function and make videos with it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Zoom on TikTok while creating a new video
 
 With its growing popularity, TikTok has been adding many features to its video editing front. And one of such major functions of TikTok is to zoom the video as per your preference. There are two ways in which a user can zoom the video on TikTok.
@@ -36,13 +32,17 @@ The first one involves zooming in while recording the video and the second one i
 
 ![create a new video tiktok](https://images.wondershare.com/filmora/article-images/2022/07/create-a-new-video-tiktok.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * When you tap on the "+" icon, the recording interface will open up. Now, select the duration of the video by tapping the "clock" icon on the left-hand side of the screen. After selecting a set duration, you will find a red shutter button which you will need to hold to start the recording.
 * Now, to zoom in on the recording, you can use any of two methods of zooming in. The first method involves you moving your finger up towards the top of your phone from the shutter icon. This will show you a red circle getting bigger.
 * Alternatively, you can use one finger to pinch into the screen while holding the shutter icon with another finger and this will ultimately help you achieve a zoom effect on your video.
 * For zooming out, you can move your finger towards the shutter button or pinch out and then save the video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Zoom an existing TikTok video
@@ -55,7 +55,7 @@ TikTok is known to provide a vast number of filters as well as editing tools tha
 ![tap visual effects tiktok](https://images.wondershare.com/filmora/article-images/2022/07/tap-visual-effects-tiktok.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Here you will need to find an effect namely the "zoom effect" and tapping on it will apply the effect to your video.
@@ -78,7 +78,7 @@ And if you are new to this platform, you can follow these steps to use this face
 ![zoom tiktok filter](https://images.wondershare.com/filmora/article-images/2022/07/zoom-tiktok-filter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * The filter icon background is of turquoise color. You will need to tap on that and your face zoom effect will be activated.
@@ -86,7 +86,7 @@ And if you are new to this platform, you can follow these steps to use this face
 ![activitate face zoom effect](https://images.wondershare.com/filmora/article-images/2022/07/activitate-face-zoom-effect.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Alternatively, you can also go to the effects page and the search bar and then type "Face Zoom" on the text box, followed by a search click to find the TikTok facezoom filter more easily.
@@ -127,22 +127,16 @@ TikTok has become more than just a social media platform and these days almost e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-quick-video-recorder-download-and-record-video/"><u>[New] 2024 Approved Quick Video Recorder Download and Record Video</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-precision-in-visuals-learning-to-soften-specific-areas/"><u>[New] Precision in Visuals Learning to Soften Specific Areas</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-exclusive-free-mcb-banner-designs-for-2024/"><u>[Updated] Exclusive Free MCB Banner Designs for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-visionary-graphs-on-upcoming-23-trends/"><u>[Updated] Visionary Graphs on Upcoming '23 Trends</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-black-hero-4-or-ghost-s-choosing-the-best-motorsport-camera/"><u>2024 Approved Black Hero 4 or Ghost-S Choosing the Best Motorsport Camera</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-clock-selections-for-your-big-day-on-mobile/"><u>2024 Approved Premium Clock Selections for Your Big Day on Mobile</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-boring-watch-these-15-hilarious-youtube-bites-for-2024/"><u>Cut the Boring, Watch These 15 Hilarious YouTube Bites for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-nokia-g42-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Nokia G42 5G</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-moment-best-drone-footage-editing-tools-ranked/"><u>In 2024, Mastering the Moment Best Drone Footage Editing Tools Ranked</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premier-mobile-and-desktop-mkv-software/"><u>In 2024, Premier Mobile & Desktop MKV Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-secrets-for-successful-live-streams-on-youtube-with-a-tiny-fanbase/"><u>In 2024, Secrets for Successful Live Streams on YouTube with a Tiny Fanbase</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-communication-on-leading-channels-fb-tw-insta-and-video-site/"><u>Mastering Communication on Leading Channels: FB, TW, INSTA & VIDEO SITE</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-multitasking-with-picture-in-picture-for-2024/"><u>Mastering the Art of Multitasking with Picture In Picture for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mirrorless-4k-cameras-top-10-list-unveiled-for-2024/"><u>Mirrorless 4K Cameras Top 10 List Unveiled for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/mp4-format-explained-comprehensive-guide-to-understanding-and-working-with-mp4-files/"><u>MP4 Format Explained: Comprehensive Guide to Understanding and Working with .mp4 Files</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premier-videography-instruments-for-2024/"><u>Premier Videography Instruments for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/terminal-talk-command-line-tools-to-engage-chatgpt/"><u>Terminal Talk: Command Line Tools to Engage ChatGPT</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-anonymous-access-to-instagrams-hidden-narratives-device-guide/"><u>[New] Anonymous Access to Instagram's Hidden Narratives Device Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-jaunt-vr-a-gateway-to-virtual-worlds/"><u>[Updated] Jaunt VR A Gateway to Virtual Worlds</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-se-2020-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone SE (2020) without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conquer-the-digital-world-of-pokemon-unite-everything-you-need-for-a-great-gaming-experience-on-pc/"><u>Conquer the Digital World of Pokémon Unite – Everything You Need for a Great Gaming Experience on PC</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-global-giga-viewers-worlds-favorite-youtube-stars/"><u>In 2024, Global Giga-Viewers World's Favorite YouTube Stars</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-novice-friendly-approach-to-crafting-nfts-today/"><u>In 2024, Novice-Friendly Approach to Crafting NFTs Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-macos-to-optimize-mixer-streams-for-2024/"><u>Navigating MacOS to Optimize Mixer Streams for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seamless-sharing-of-oversized-content-from-iphone-to-macos-for-2024/"><u>Seamless Sharing of Oversized Content From iPhone to macOS for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/441231-9781775568629-the-breath-of-life/"><u>The Breath of Life | Free Book</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-14-plus-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 14 Plus without Passcode</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-the-definitive-list-of-11-strategies-for-the-credential-manager/"><u>Unlocking Windows: The Definitive List of 11 Strategies for the Credential Manager</u></a></li>
 </ul></div>
 

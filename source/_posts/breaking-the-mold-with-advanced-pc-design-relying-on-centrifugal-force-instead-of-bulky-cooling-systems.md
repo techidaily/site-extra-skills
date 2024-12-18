@@ -1,7 +1,7 @@
 ---
 title: "Breaking the Mold with Advanced PC Design: Relying on Centrifugal Force Instead of Bulky Cooling Systems"
-date: 2024-12-10T16:15:44.315Z
-updated: 2024-12-11T18:14:35.974Z
+date: 2024-12-12T22:25:37.394Z
+updated: 2024-12-17T23:36:32.901Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -64,24 +64,19 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-expert-pick-prime-drone-gimbals/"><u>[New] 2024 Approved Expert Pick Prime Drone Gimbals</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-culminating-sound-merging-music-with-vimeo-media-assets/"><u>[New] Culminating Sound Merging Music with Vimeo Media Assets</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mac-techniques-for-instagram-short-form-videos/"><u>[New] In 2024, Mac Techniques for Instagram Short-Form Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-minuscule-web-pixels/"><u>[New] Mastering the Art of Minuscule Web Pixels</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-top-30-unique-pfps-for-a-stellar-tiktok-presence/"><u>[New] Top 30 Unique PFPs for a Stellar TikTok Presence</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-gears3-no-start-on-pc-dx12-hurdle/"><u>[RESOLVED] Gears3 No Start on PC - DX12 Hurdle</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-transformative-file-conversion-your-quick-srt-to-text-txt-guide/"><u>[Updated] 2024 Approved Transformative File Conversion Your Quick SRT to Text (TXT) Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-beat-stress-away-the-ultimate-gaming-list/"><u>[Updated] In 2024, Beat Stress Away The Ultimate Gaming List</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-integrating-photos-and-videos-a-guide-to-using-storyremix-in-windows-11/"><u>[Updated] Integrating Photos & Videos A Guide to Using StoryRemix in Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-movements-intova-xs-video-excellence/"><u>[Updated] Mastering Movements Intova X's Video Excellence</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-blueprint-for-impressive-photographic-mosaics/"><u>2024 Approved Step-by-Step Blueprint for Impressive Photographic Mosaics</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-infinix-gt-10-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Infinix GT 10 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-podcast-ideas-into-proficient-scriptwriting-techniques-samples/"><u>In 2024, Transform Your Podcast Ideas Into Proficient Scriptwriting (Techniques, Samples)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/intensive-assessment-the-ultimate-guide-to-bublcam-360-for-2024/"><u>Intensive Assessment The Ultimate Guide to Bublcam 360 for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/make-every-listen-count-with-these-15-powerful-activities-for-2024/"><u>Make Every Listen Count with These 15 Powerful Activities for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-meme-magic-for-laughter-for-2024/"><u>Mastering Meme Magic for Laughter for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pioneers-shaping-the-future-of-vr-experiences-for-2024/"><u>Pioneers Shaping The Future Of VR Experiences for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/reasons-to-pause-and-plan-for-video-games/"><u>Reasons to Pause and Plan for Video Games</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/steps-to-convert-video-tweets-to-mp3-soundtracks-for-2024/"><u>Steps to Convert Video Tweets to MP3 Soundtracks for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-how-to-record-skype-meeting-on-windows-and-mac-skype-for-business/"><u>[New] In 2024, How to Record Skype Meeting on Windows and Mac | Skype for Business</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-youtube-to-mp4-the-ultimate-guide-for-2024/"><u>[New] Mastering YouTube to MP4 The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-from-fringe-to-mainstream-highlighting-top-10-gender-balanced-youtubers/"><u>[Updated] In 2024, From Fringe to Mainstream Highlighting Top 10 Gender-Balanced YouTubers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quadcopter-showdown-dji-pro-and-hero-4-black/"><u>[Updated] Quadcopter Showdown DJI Pro and Hero 4 Black</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-your-impact-with-periscope-live/"><u>2024 Approved Maximizing Your Impact with Periscope Live</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pioneering-pixels-select-the-leading-video-editors-for-big-sur/"><u>2024 Approved Pioneering Pixels Select the Leading Video Editors for Big Sur</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-steps-to-acquire-fcp-for-zero-dollars/"><u>2024 Approved Steps to Acquire FCP for Zero Dollars</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-tailoring-your-video-for-optimal-instagram-impact/"><u>2024 Approved Tailoring Your Video for Optimal Instagram Impact</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-celebrating-the-hottest-instagram-after-effects-plugins/"><u>In 2024, Celebrating the Hottest Instagram After Effects Plugins</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-7-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 7 without Password?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-kinemaster-mastery-sculpting-close-up-cinematic-brilliance/"><u>In 2024, Kinemaster Mastery Sculpting Close-Up Cinematic Brilliance</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-scripting-solutions-in-ae/"><u>In 2024, Optimal Scripting Solutions in AE</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/invest-in-quality-the-finest-camera-tripods-reviewed/"><u>Invest in Quality The Finest Camera Tripods Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stay-protected-online-5-key-tips-every-newbie-should-know/"><u>Stay Protected Online: 5 Key Tips Every Newbie Should Know</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "'Bloodhunt' PC Woes: Comprehensive Guide to Fix Glitchy Execution"
-date: 2024-12-05T22:00:09.740Z
-updated: 2024-12-11T17:03:48.907Z
+date: 2024-12-15T02:07:01.806Z
+updated: 2024-12-18T00:56:23.634Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ If you are a football lover, you might have waited for FIFA 21 for long. The gam
 8. **[Play in offline mode](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Ensure your PC meets the minimum requirements to play FIFA 21
@@ -71,12 +71,16 @@ Recommended system requirements of FIFA 21
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After confirming your PC can handle games like FIFA 21, you can move on to more fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Roll back the graphics driver
 
@@ -95,7 +99,7 @@ Recommended system requirements of FIFA 21
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Select the**Driver** tab, and click**Roll Back Driver** .
@@ -104,20 +108,20 @@ Recommended system requirements of FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Choose one of the reasons according to your own situations and click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the process completes, you can restart your computer for the changes to take effect. Then, launch FIFA 21 and see if the crashing issue reoccurs. If yes, please continue to the next method.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Update your device drivers
@@ -139,6 +143,10 @@ Recommended system requirements of FIFA 21
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -175,21 +183,17 @@ Recommended system requirements of FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**FIFA 21** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After the process finishes, go back to your pitch and test if this method works. If not, please continue to the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Change the DirectX settings
 
@@ -227,7 +231,7 @@ C:\Users\<username>\Documents\FIFA 21
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_17-32-34.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Set the settings as below:
@@ -239,10 +243,6 @@ C:\Users\<username>\Documents\FIFA 21
  So how FIFA 21 works with the new settings? If it still crashes, please check out the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7 – Disable overlay
 
@@ -261,6 +261,10 @@ C:\Users\<username>\Documents\FIFA 21
 **3)** Untick the box next to**Enable the Steam Overlay while in-game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-20-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Play FIFA 21 and check if the crashes reappear. If yes, you can proceed to **[Fix 8](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -281,10 +285,6 @@ C:\Users\<username>\Documents\FIFA 21
  Relaunch FIFA 21 to see if the crashing problem persists. If yes, go for the last fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8 – Play the offline mode
 
@@ -316,21 +316,19 @@ C:\Users\<username>\Documents\FIFA 21
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-disseminate-your-tiktok-on-twitter-effectively/"><u>[New] In 2024, Disseminate Your TikTok on Twitter Effectively</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-invisible-snapcapture-mastering-the-art-of-stealthy-picture-recording/"><u>[Updated] In 2024, Invisible SnapCapture Mastering the Art of Stealthy Picture Recording</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-quickly-master-time-lapse-techniques-for-samsung-phones/"><u>[Updated] Quickly Master Time Lapse Techniques for Samsung Phones</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-laughing-lineup-step-by-step-guide-to-funny-memes/"><u>2024 Approved Laughing Lineup Step-by-Step Guide to Funny Memes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-spinning-and-stitching-an-android-videographers-handbook/"><u>2024 Approved Seamless Spinning & Stitching An Android Videographer's Handbook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-basics-of-ray-tracing-technology/"><u>Exploring the Basics of Ray Tracing Technology</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/guida-passo-passo-per-creare-un-backup-di-ripristino-in-doppio-registro-con-windows-10/"><u>Guida Passo-Passo per Creare Un Backup Di Ripristino in Doppio Registro Con Windows 10</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-optimize-your-play-streaming-in-obs-studio/"><u>In 2024, Optimize Your Play Streaming in OBS Studio</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-stay-ahead-in-the-metaverse-with-this-list-of-must-haves/"><u>In 2024, Stay Ahead in the Metaverse with This List of Must-Haves</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mastering-skills-with-elite-linkedin-learning-sessions-of-2024/"><u>Mastering Skills with Elite LinkedIn Learning Sessions of 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mobile-tools-optimize-and-enhance-audio-faster-for-2024/"><u>Mobile Tools Optimize and Enhance Audio Faster for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-best-lipo-cells-for-quality-flight-time-for-2024/"><u>Navigating the Best LiPo Cells for Quality Flight Time for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722204046365-protecting-your-mac-ignore-chatgpt-apps/"><u>Protecting Your Mac? Ignore ChatGPT Apps!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sci-fis-new-realms-exploring-the-best-metaverse-adventures-on-screen-for-2024/"><u>Sci-Fi's New Realms Exploring the Best Metaverse Adventures on Screen for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ultimate-guide-to-best-video-chatting-solutions-pcphone-for-2024/"><u>Ultimate Guide to Best Video Chatting Solutions (PC/Phone) for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-step-by-step-guide-recording-on-itunes/"><u>[New] In 2024, Step-by-Step Guide Recording on iTunes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-story-remix-windows-10-photos-for-video-editing/"><u>[New] Mastering Story Remix Windows 10 Photos for Video Editing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-liminal-film-narrative-plan/"><u>[Updated] Liminal Film Narrative Plan</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-guide-adding-videos/"><u>[Updated] Twitter's Guide Adding Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-innovative-inverted-u-shaped-mini-pc-from-china-boasting-an-external-pcie-interface-for-enhanced-performance/"><u>Discover the Innovative Inverted U-Shaped Mini PC From China, Boasting an External PCIe Interface for Enhanced Performance</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-why-you-shouldnt-overlook-the-oneplus-nord-n1-5g-smartphone/"><u>Discover Why You Shouldn't Overlook the OnePlus Nord N1# 5G Smartphone!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-xiaomi-redmi-k70-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Xiaomi Redmi K70 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-whatsapps-call-conversation-strategy-for-2024/"><u>Mastering WhatsApp's Call Conversation Strategy for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-best-free-srt-translation-options-a-comprehensive-guide-for-2024/"><u>Navigating the Best Free SRT Translation Options A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premiere-20-unlicensed-pubg-picture-collections-for-2024/"><u>Premiere 20 Unlicensed PUBG Picture Collections for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-your-imessage-delivery-problems-discover-causes-and-fixes-on-zdnet/"><u>Solving Your iMessage Delivery Problems: Discover Causes and Fixes on ZDNet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-implementing-chromes-pip-multiscreen-functionality-for-2024/"><u>Step-by-Step Implementing Chrome’s PIP Multiscreen Functionality for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unleash-your-creativity-with-astrolaunch-ui-a-complimentary-guide-to-mastering-beautiful-astro-template-designs/"><u>Unleash Your Creativity with AstroLaunch UI: A Complimentary Guide to Mastering Beautiful Astro Template Designs!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Screenless Laptop Aesthetics Meet Elite Performance: The AtomMan G7 Ti with I9 CPU, RTX Graphics & Massive RAM Capacity"
-date: 2024-12-08T23:16:47.823Z
-updated: 2024-12-11T16:58:13.629Z
+date: 2024-12-13T19:08:13.790Z
+updated: 2024-12-17T21:13:57.177Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -50,7 +50,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -62,7 +62,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -88,17 +88,19 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-social-simulacrum-sketches-designing-distorted-digital-selves/"><u>[New] 2024 Approved Social Simulacrum Sketches Designing Distorted Digital Selves</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-masterful-podcast-descriptions-strategies-and-case-studies/"><u>[New] Masterful Podcast Descriptions Strategies and Case Studies</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-combining-chords-and-clips-the-ultimate-fb-video-soundtrack/"><u>[Updated] In 2024, Combining Chords and Clips The Ultimate FB Video Soundtrack</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-volume-curves-in-ableton-live/"><u>[Updated] Mastering Volume Curves in Ableton Live</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-digital-audio-wizardry-turning-fb-videos-into-mp3/"><u>2024 Approved Digital Audio Wizardry Turning FB Videos Into MP3</u></a></li>
-<li><a href="https://tools.techidaily.com/anandtech/products/"><u>Anandtech's Products</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-podcast-apps-android-editions-top-picks/"><u>Essential Podcast Apps Android Edition's Top Picks</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-ultimate-guide-to-2024s-leading-mesh-wi-fi-solutions/"><u>Exploring the Ultimate Guide to 2024'S Leading Mesh Wi-Fi Solutions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/how-to-perfectly-log-off-video-conferencing-on-devices-for-2024/"><u>How to Perfectly Log-Off Video Conferencing on Devices for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-professional-mobile-photography-strategies/"><u>In 2024, Professional Mobile Photography Strategies</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-world-of-spotify-marketing-for-2024/"><u>Navigating the World of Spotify Marketing for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/333019-9780955859007-the-six-initiations/"><u>The Six Initiations | Free Book</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-learning-the-ropes-of-lunapics-user-interface/"><u>[New] Learning the Ropes of LunaPic's User Interface</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-android-screen-capture-kings-the-ultimate-8-free-guide/"><u>[Updated] 2024 Approved Android Screen Capture Kings The Ultimate 8-Free Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-enhancing-your-social-presence-tweeting-to-facebook-for-2024/"><u>[Updated] Enhancing Your Social Presence Tweeting to Facebook for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inside-the-world-of-vita-video-editor-comprehensive-analysis-2024/"><u>[Updated] Inside the World of Vita Video Editor - Comprehensive Analysis, 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-bulk-video-import-on-tiktok/"><u>2024 Approved Mastering the Art of Bulk Video Import on TikTok</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-resolve-mir4-errors-on-your-windows-computer/"><u>Fixing the Issue: How to Resolve Mir4 Errors on Your Windows Computer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722965559654-get-your-thinkpad-t420s-running-on-windows-10-free-driver-downloads-here/"><u>Get Your ThinkPad T420s Running on Windows 10 - Free Driver Downloads Here</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/learn-how-to-create-distortion-effects-in-photoshop-for-2024/"><u>Learn How to Create Distortion Effects in Photoshop for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-speedrunning-in-subway-surfers-with-these-pro-tips-7-16/"><u>Mastering Speedrunning in 'Subway Surfers' With These Pro Tips #7-#16</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/melodies-with-a-twist-funny-tone-websites-listed-for-2024/"><u>Melodies with a Twist Funny Tone Websites Listed for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-your-windows-10-update-hiccups-with-these-simple-solutions/"><u>Overcome Your Windows 10 Update Hiccups with These Simple Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-playwriting-for-podcasts-and-radios-for-2024/"><u>Premier Playwriting for Podcasts & Radios for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210970416-9781088250990-recuerdos-que-el-viento-trae/"><u>Recuerdos que el Viento Trae | Free Book</u></a></li>
 </ul></div>
 

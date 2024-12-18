@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Cinematography  The Aspect Ratio Formula\""
-date: 2024-12-04T18:19:40.203Z
-updated: 2024-12-11T16:22:59.107Z
+date: 2024-12-14T03:57:51.023Z
+updated: 2024-12-18T04:10:09.809Z
 tags: 
   - screen-recording
   - ai video
@@ -28,10 +28,6 @@ With that said, let's dive right into it!
 
 Aspect ratio is a digital image projection attribute describing the distance between the width and the height of an image. The dimensions are also defined as shapes such as a square which is 4:3\. A rectangle represents the 16:9 standard high definition aspect ratio, and inverted what you see on phones, that will be 9:16\. 9 refers to the width and 16 to the height.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Commonly used aspect ratios
 
 There is no same aspect ratio that is used across all social media platforms. Depending on which social media platform you are planning to upload, you have to make sure you have the correct aspect ratio for your target audience. The optimal viewing experience is what matters.
@@ -52,13 +48,13 @@ The 9:16 aspect ratio has become the mainstream resolution for smartphones for e
 
 The 21:9 resolution is designed for filming ultra-wide screen movies that gives the viewer a theater-like feeling. It's mostly used to display films and movies in anamorphic formats. Just like on ultra-wide monitors, it allows the video to be shown across the entire screen, giving you a cinema-like experience. This resolution contributes to a broader viewing experience in any shape or form.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Which aspect ratio should I choose?
 
 Depending on your project, broadcast location and filming options, here you can find an overview of which platforms are using which resolutions and how you can use that to improve your filming and viewer experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Facebook
 
@@ -72,10 +68,6 @@ Facebook is one of the most used website across the world on both computer and t
 
 9:16 for Facebook stories
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### YouTube
 
 To this day, it's safe to say that YouTube is the leading platform in the video industry. Not only because of how long they have been around, but also about how much content is uploaded every minute and how many users it has each month. To give the viewers the best experience, here are the top aspect ratios we recommend when posting content onto your YouTube channel.
@@ -87,10 +79,6 @@ To this day, it's safe to say that YouTube is the leading platform in the video 
 16:9 for regular HD videos
 
 21:9 for cinematic videos/shortfilms
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Instagram
 
@@ -110,6 +98,10 @@ When talking about Instagram, which is very similar to Facebook, use these aspec
 
 9:16 for IGTV
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### TikTok
 
 Before Musical.ly users were migrated to a new platform called TikTok in 2018, it has been the leader on the board for a long time, and here are the recommended resolutions we think give the best results. Tik Tok allows you to share short videos, and is used by young people as an outlet to show their talents whether it's dancing, singing, cooking, comedy or any other form of entertainment they can express and use on the platform. There's also a feature to work together and collaborate with other Tik Tok creators across the globe.
@@ -124,16 +116,24 @@ Before Musical.ly users were migrated to a new platform called TikTok in 2018, i
 
 A very important point we'd like to mention is that we don't recommend changing the aspect ratio after filming, because it could harm the video quality and we think it's best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Black bars
 
 When editing your video, adding black bars is not changing the aspect ratio as you are just adding black bars to the screen. What we do recommend is cropping the video until you get the desired result. Adding black bars won't automatically make the platform adjust the video and it will affect the viewer experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cropping
 
 Cropping your video will allow you to remove a section from your video, which works perfect for unwanted objects or people. While cropping the video, you are forced to pick the essential part of your video and disregard the rest of the video and to remove distraction from the frame.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -172,19 +172,18 @@ Having your video tested on multiple devices will allow you to see a preview of 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-cutting-edge-techniques-for-fb-streaming-records/"><u>[New] 2024 Approved Cutting-Edge Techniques for FB Streaming Records</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-instagrams-video-reversal-quirk/"><u>[New] Navigating Instagram's Video Reversal Quirk</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-for-gaining-access-to-the-best-clip-art/"><u>[New] Step by Step for Gaining Access to the Best Clip Art</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-game-changing-displays-the-creme-de-la-creme-of-4k-monitors/"><u>[Updated] 2024 Approved Game-Changing Displays The Crème De La Crème of 4K Monitors</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-ultimate-journey-into-youtube-seo-and-keywords/"><u>[Updated] In 2024, The Ultimate Journey Into YouTube SEO and Keywords</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-portraying-paradoxes-with-teleportation-cgi/"><u>[Updated] Portraying Paradoxes with Teleportation CGI</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-lowering-volume-steps-in-logic-pro-audio-editing/"><u>2024 Approved Lowering Volume Steps in Logic Pro Audio Editing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-satirists-web-workshop/"><u>2024 Approved Satirist's Web Workshop</u></a></li>
-<li><a href="https://fox-access.techidaily.com/crafting-a-compelling-movie-mini-epic/"><u>Crafting a Compelling Movie Mini-Epic</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-win10-screen-grabbing-top-quality-captures/"><u>In 2024, Win10 Screen Grabbing - Top Quality Captures</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ize-engagement-top-8-youtube-ranking-applications-for-2024/"><u>Maximize Engagement - Top 8 YouTube Ranking Applications for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/replace-old-audio-drivers-for-w7-support/"><u>Replace Old Audio Drivers for W7 Support</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-rides-mercedes-benz-infuses-cars-with-chatgpt/"><u>Revolutionizing Rides: Mercedes-Benz Infuses Cars with ChatGPT</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-setup-of-intels-ac-31n60-wi-fi-adapter-latest-driver-update-tutorial/"><u>Seamless Setup of Intel's AC 31N60 Wi-Fi Adapter - Latest Driver Update Tutorial</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-rich-archive-of-cost-effective-superior-vector-graphics-websites/"><u>[New] Rich Archive of Cost-Effective, Superior Vector Graphics Websites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-endless-viewing-with-iphone-writes-of-video-for-2024/"><u>[Updated] Endless Viewing with iPhone' Writes of Video for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-game-series-parallels-not-gta-v-edition/"><u>[Updated] In 2024, Ultimate Game Series Parallels - Not GTA V Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-insiders-guide-maximizing-windows-11-efficiency/"><u>2024 Approved Insider's Guide Maximizing Windows 11 Efficiency</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-apples-digital-content-submission/"><u>2024 Approved Mastering the Art of Apple's Digital Content Submission</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-optimizing-testimonial-creation/"><u>2024 Approved Mastering the Art Optimizing Testimonial Creation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-image-safekeepers-online/"><u>2024 Approved Prime Image Safekeepers Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compact-cameras-for-mobile-cinematography/"><u>Compact Cameras for Mobile Cinematography</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-text-showcase-in-windows-11-resourceerror/"><u>Correcting Text Showcase in Windows 11 ResourceError</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cyberpunk-2077-initialization-problems-a-complete-guide-to-fixes/"><u>Cyberpunk #2077 Initialization Problems: A Complete Guide to Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016417544-turtle-beach-recon-70-headset-mic-issue-heres-how-to-repair-it/"><u>Turtle Beach Recon 70 Headset Mic Issue? Here's How to Repair It!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring Performance & Value in the Corsair One I500 Tiny Gaming Rig
-date: 2024-12-06T20:26:13.285Z
-updated: 2024-12-11T20:37:53.395Z
+date: 2024-12-15T02:38:26.541Z
+updated: 2024-12-17T17:48:14.738Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,22 +89,24 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-reveling-in-the-highs-of-nature-with-garmins-ultra-30/"><u>[New] Reveling in the Highs of Nature with Garmin's Ultra 30</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-space-saver-strategies-pioneering-the-best-cloud-platforms/"><u>[New] Space-Saver Strategies Pioneering the Best Cloud Platforms</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-time-efficient-ways-to-wipe-out-ssgnature-backdrops/"><u>[New] Time-Efficient Ways to Wipe Out Ssgnature Backdrops</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-make-instagram-videos-with-music/"><u>[Updated] Make Instagram Videos With Music</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-navigating-the-insider-features-of-zoom-software-for-windows-11/"><u>[Updated] Navigating the Insider Features of Zoom Software for Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-photography-fundamentals-tips-and-apps-for-android/"><u>[Updated] Photography Fundamentals Tips & Apps for Android</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-polar-pinnacles-beijing-2022-olympic-spotlight/"><u>[Updated] Polar Pinnacles Beijing 2022 Olympic Spotlight</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premier-photo-toolkit-inserting-text-effortlessly/"><u>[Updated] Premier Photo Toolkit Inserting Text Effortlessly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-video-capacity-in-64128gb-drives/"><u>2024 Approved Maximizing Video Capacity in 64/128GB Drives</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-image-superimposition-for-desktop/"><u>2024 Approved Seamless Image Superimposition for Desktop</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-photoshop-facebackground-anonymity-guide/"><u>In 2024, Photoshop Face/Background Anonymity Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-collection-20-free-adobe-premiere-title-and-intro-templates-for-2024/"><u>New The Ultimate Collection 20 Free Adobe Premiere Title and Intro Templates for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-bypassing-itunes-sync-to-transplant-music-files-into-your-ipad/"><u>Step-by-Step Guide: Bypassing iTunes Sync to Transplant Music Files Into Your iPad</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/thank-you-for-installing-movavi-presentation-designer-finished-downloading/"><u>Thank You for Installing Movavi Presentation Designer - Finished Downloading!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-busiest-families-guide-to-7-must-have-calendar-sharing-solutions/"><u>The Busiest Families' Guide to 7 Must-Have Calendar Sharing Solutions</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210023092-9781734758023-the-nature-of-god-the-revelation/"><u>The Nature of God: The Revelation | Free Book</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-how-to-use-luts-in-after-effect/"><u>[New] In 2024, How to Use LUTs in After Effect</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-premium-photographic-archives-for-2024/"><u>[Updated] Premium Photographic Archives for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-start-screen-special-free-editing-tools/"><u>[Updated] Start Screen Special Free Editing Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/st-see-vr-videos-on-youtube-for-deep-immersion/"><u>10 Must-See VR Videos on YouTube for Deep Immersion</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-charting-the-course-for-your-niche-in-the-youtube-world/"><u>2024 Approved Charting the Course for Your Niche in the YouTube World</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-iphones-most-popular-watermarking-software-solutions/"><u>2024 Approved Navigating iPhone's Most Popular Watermarking Software Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pinpointing-premium-hdr-camera-brands/"><u>2024 Approved Pinpointing Premium HDR Camera Brands</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-playwrights-tactics-creating-compelling-dialogues/"><u>2024 Approved Playwrights' Tactics Creating Compelling Dialogues</u></a></li>
+<li><a href="https://win-dash.techidaily.com/brother-hl-series-2280dw-driver-software-download-for-windows-operating-systems/"><u>Brother HL Series 2280DW Driver Software Download for Windows Operating Systems</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/diskpart-clean-command-successfully-resolved-error-fix-tips/"><u>DiskPart Clean Command Successfully Resolved: Error Fix Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722958261613-download-the-hp-universal-printer-driver-for-windows-get-set-up-today/"><u>Download the HP Universal Printer Driver for Windows - Get Set Up Today!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/faster-phonetic-playback-choose-from-these-10/"><u>Faster Phonetic Playback Choose From These 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-6-solutions-for-multilingual-videos/"><u>In 2024, Premium 6 Solutions for Multilingual Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-motorola-edgeplus-does-it-measure-up/"><u>In Depth Look at Motorola Edge+ - Does It Measure Up?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-srt-integration-in-mp4s-a-complete-blueprint-for-2024/"><u>Mastering SRT Integration in MP4s A Complete Blueprint for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-chromes-pip-feature-across-devices-for-2024/"><u>Navigating Chrome's PIP Feature Across Devices for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/orbitmaster-high-definition-full-touch-desktops-for-2024/"><u>OrbitMaster High Definition Full Touch Desktops for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/spectacular-4k-tvs-nine-picks-for-exceptional-color-fidelity-for-2024/"><u>Spectacular 4K TVs Nine Picks for Exceptional Color Fidelity for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/thriving-on-instagram-vids-blueprint-for-effective-content-strategies/"><u>Thriving on Instagram Vids Blueprint for Effective Content Strategies</u></a></li>
 </ul></div>
 

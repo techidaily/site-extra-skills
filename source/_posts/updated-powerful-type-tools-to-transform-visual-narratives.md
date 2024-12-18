@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Powerful Type Tools to Transform Visual Narratives"
-date: 2024-12-06T21:02:23.700Z
-updated: 2024-12-11T20:05:48.591Z
+date: 2024-12-14T03:07:47.963Z
+updated: 2024-12-18T01:22:51.874Z
 tags: 
   - screen-recording
   - ai video
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 Adobe After Effects remains one of the most powerful ways to edit videos. One of the main reasons users find it so useful is the ability to customize the video editing process by adding different kinds of plugins to the program. If you are looking to add unique and fancy text to the video you are working on, then these text plugins for After Effects will come in handy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## TextDelay
@@ -32,6 +32,10 @@ TextDelay is a native plugin, meaning that you will find it already installed on
 
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## TextExploder
 
 Link: <https://aescripts.com/textexploder/>
@@ -41,7 +45,7 @@ TextExploder is an After Effects plugin that is developed by MamoWorld and it al
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iExpressions 2
@@ -51,6 +55,10 @@ Link: <https://aescripts.com/iexpressions/>
 If you want to effectively use the After Effects expressions even if you are not familiar with coding, iExpressions 2 is the text plugin to consider. It comes with 22 ready-to-use iExpressions that you can easily customize to fit into your project and it is so easy to use.
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TextBox
 
@@ -68,10 +76,6 @@ Font Manager is an After Effects text plugin that is useful when creating and wo
 
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Cartoon Moblur
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
@@ -79,10 +83,6 @@ Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
 This is the most ideal plugin to choose when you want to add motion trail to the graphics in your video, but you want them to appear very cartoony. If you have used the motion blur effect in After Effects, Cartoon Moblur will behave in a similar function, but it is more suited to 2D, flat or minimal graphics. Some of the factors that you can customize include the length of the blur (shutter angle), color, and opacity.
 
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Shadow Studio
 
@@ -99,7 +99,7 @@ This is a bundle of more than 80 different templates to add text effects to any 
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Artificial Intelligence Titles
@@ -111,7 +111,7 @@ The Artificial Intelligence Titles is an After Effects text plugin that is desig
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Text Library
@@ -123,7 +123,7 @@ This is another great text animation bundle with different options for just abou
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -160,21 +160,22 @@ On its own After Effects comes with so many post-production effects and features
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-jumpstart-your-video-playback-snapchat-speed-optimization/"><u>[New] Jumpstart Your Video Playback Snapchat Speed Optimization</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-maximize-page-reach-on-facebook/"><u>[New] Maximize Page Reach on Facebook</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premium-commercial-sky-data-haven/"><u>[New] Premium Commercial Sky Data Haven</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-smooth-video-viewing-experience-enabledisable-pip-for-iphone-youtube/"><u>[New] Smooth Video Viewing Experience Enable/Disable PIP for iPhone YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-artistry-at-heart-best-10-free-easy-mac-drawers/"><u>[Updated] Artistry at Heart Best 10 Free, Easy Mac Drawers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-gauging-glory-an-essential-handbook-for-evaluating-youtube-engagement-and-earnings-for-2024/"><u>[Updated] Gauging Glory An Essential Handbook for Evaluating YouTube Engagement & Earnings for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-free-ae-design-blueprints/"><u>2024 Approved Premium Free AE Design Blueprints</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/5-must-use-instagram-hashtags-to-skyrocket-your-reach/"><u>5 Must-Use Instagram Hashtags to Skyrocket Your Reach</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/android-automotive-system-enhanced-with-latest-quality-of-life-upgrade-featuring-bluetooth-headphone-compatibility-zdnet-news/"><u>Android Automotive System Enhanced with Latest Quality of Life Upgrade Featuring Bluetooth Headphone Compatibility - ZDNet News</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/eficiente-transformacion-de-archivos-como-convertir-imagenes-webp-en-formato-png-con-herramientas-faciles-de-uso/"><u>Eficiente Transformación De Archivos: Cómo Convertir Imágenes WebP en Formato PNG Con Herramientas Fáciles De Uso</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-your-gameplay-updating-dell-g3-graphics-drivers/"><u>Enhance Your Gameplay: Updating Dell G3 Graphics Drivers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-itel-a70-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Itel A70 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-instagrams-pathway-to-picture-posting/"><u>In 2024, Navigating Instagram's Pathway to Picture Posting</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-opening-lines-breaking-the-ice-in-video-comments/"><u>In 2024, Opening Lines Breaking the Ice in Video Comments</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/smileslice-studio-memomaestrospace-for-2024/"><u>SmileSlice Studio MemoMaestroSpace for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unlocking-the-secrets-of-profitability-on-vimeo-platform/"><u>[New] 2024 Approved Unlocking the Secrets of Profitability on Vimeo Platform</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-instagram-snapshot-of-an-enlightening-episode/"><u>[New] Instagram Snapshot of an Enlightening Episode</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-record-your-mac-view-in-minutes-in-2024/"><u>[New] Record Your Mac View in Minutes, In 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inside-look-how-dell-p2715q-delivers-on-4k-quality/"><u>[Updated] Inside Look How Dell P2715Q Delivers on 4K Quality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-radiant-reality-tiles-photographic-collages-that-sparkle/"><u>[Updated] Radiant Reality Tiles Photographic Collages That Sparkle</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-download-and-personalize-whatsapp-ringtones-on-mobile/"><u>[Updated] Step-by-Step Download & Personalize WhatsApp Ringtones on Mobile</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-playback-errors-on-firefox-optimizing-your-viewing-experience/"><u>Bypassing Playback Errors on Firefox: Optimizing Your Viewing Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/filmoras-route-to-convert-avi-to-eye-catching-gifs-for-2024/"><u>Filmora’s Route to Convert AVI to Eye-Catching GIFs for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 Pro without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastery-in-radio-theatre-craftsm-written/"><u>In 2024, Mastery in Radio-Theatre Craftsm Written</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-split-screen-simplicity-mastering-picture-in-picture-videos-on-apple-devices/"><u>In 2024, Split-Screen Simplicity Mastering Picture in Picture Videos on Apple Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-thankful-views-complete-outro-template-library/"><u>In 2024, Thankful Views Complete Outro Template Library</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-top-apps-and-software-for-making-videos-from-photos/"><u>In 2024, Top Apps and Software for Making Videos From Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/phantom-camera-pause-tips-for-2024/"><u>Phantom Camera Pause Tips for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-a15-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy A15 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reach-out-to-macxdvd-support-services/"><u>Reach Out to MacXDVD Support Services</u></a></li>
 </ul></div>
 

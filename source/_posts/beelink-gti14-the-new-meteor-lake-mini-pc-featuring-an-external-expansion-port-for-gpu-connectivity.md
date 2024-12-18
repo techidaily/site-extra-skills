@@ -1,7 +1,7 @@
 ---
 title: "Beelink GTi14: The New Meteor Lake Mini-PC Featuring an External Expansion Port for GPU Connectivity"
-date: 2024-12-10T16:50:52.325Z
-updated: 2024-12-11T17:14:17.709Z
+date: 2024-12-16T20:06:02.707Z
+updated: 2024-12-17T16:07:06.921Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,19 +78,18 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-deciphering-hdr-mastery-through-luminance-testing/"><u>[New] In 2024, Deciphering HDR Mastery Through Luminance Testing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-leading-8-screenshot-solutions-without-hesitation/"><u>[New] Leading 8 Screenshot Solutions Without Hesitation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-proven-techniques-for-captivating-online-audiences-via-zoom-and-youtube-live/"><u>[New] Proven Techniques for Captivating Online Audiences via Zoom & YouTube Live</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-avoid-common-pitfalls-in-ppt-recording/"><u>[Updated] 2024 Approved Avoid Common Pitfalls in PPT Recording</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-embrace-the-future-of-tv-engage-with-fb-live-via-roku-for-2024/"><u>[Updated] Embrace the Future of TV Engage with FB Live via Roku for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-lower-volume-level-by-level-with-fl/"><u>[Updated] In 2024, Lower Volume Level by Level with FL</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revel-in-every-box-with-these-strategies/"><u>2024 Approved Revel in Every Box with These Strategies</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/how-to-create-text-memes-with-meme-text-generator-in-2024/"><u>How to Create Text Memes with Meme Text Generator, In 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-a38-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo A38 Phones with/without a PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-the-digital-space-with-impactful-fb-giveaway-posts/"><u>Navigating the Digital Space with Impactful FB Giveaway Posts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimal-live-video-distributors-suite-for-2024/"><u>Optimal Live Video Distributors' Suite for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfect-windows-photos-implementing-sound-and-visual-filters-guide-for-2024/"><u>Perfect Windows Photos Implementing Sound & Visual Filters Guide for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/smart-strategies-achieving-advertising-excellence-for-2024/"><u>Smart Strategies Achieving Advertising Excellence for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superior-video-cameras-previewed-for-2024/"><u>Superior Video Cameras Previewed for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pairing-youtube-sounds-with-visual-narratives/"><u>[New] Pairing YouTube Sounds with Visual Narratives</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-speedy-audio-on-phone-ultimate-list-of-tools/"><u>[New] Speedy Audio on Phone Ultimate List of Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-premiere-pro-template-guide-no-cost/"><u>[New] Ultimate Premiere Pro Template Guide - No Cost</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-high-performance-drones-sold-here/"><u>[Updated] 2024 Approved High-Performance Drones Sold Here</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-ogle-player-powerful-pixel-perfect-media/"><u>[Updated] Ogle Player Powerful, Pixel-Perfect Media</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-hidden-history-in-your-browser-how-to-tackle/"><u>[Updated] The Hidden History in Your Browser How to Tackle?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-stitch-ppt-tiles-into-video-mosaic/"><u>2024 Approved Stitch PPT Tiles Into Video Mosaic</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/compact-computing-unleashed-the-new-mac-mini-with-impressive-m4-performance/"><u>Compact Computing Unleashed: The New Mac Mini with Impressive M4 Performance!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-latest-intel-hd-graphics-655-drivers-for-windows-11-computers/"><u>Get Latest Intel HD Graphics 655 Drivers for Windows 11 Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/immersive-puzzle-gaming-experiences-like-the-room-and-myst-available-on-ios-devices/"><u>Immersive Puzzle Gaming Experiences Like 'The Room' & 'Myst' Available on iOS Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-photographys-selections-the-creme-de-la-4k-dslrs-for-2024/"><u>Pro Photography's Selections The Crème De La 4K DSLRs for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-crypto-success-leverage-these-5-chatgpt-hacks-for-trading-triumphs/"><u>Unlocking Crypto Success: Leverage These 5 ChatGPT Hacks for Trading Triumphs</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-x-fold-2-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo X Fold 2? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

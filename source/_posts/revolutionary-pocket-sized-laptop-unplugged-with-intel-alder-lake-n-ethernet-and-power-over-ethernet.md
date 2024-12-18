@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Pocket-Sized Laptop: Unplugged with Intel Alder Lake-N, Ethernet & Power over Ethernet"
-date: 2024-12-07T21:09:54.704Z
-updated: 2024-12-11T17:16:52.045Z
+date: 2024-12-14T04:41:54.588Z
+updated: 2024-12-18T02:35:48.694Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
  The case itself looks like a conventional carrying case. The outer shell appears to be hard plastic, with metal supporting rails filling the lips of the case. The case features two latching mechanisms and a mechanism to attach a lock for[security](https://www.tomshardware.com/tag/security) . You can transport the travel case by rolling it on its two wheels or with another handle that allows you to carry it like a briefcase.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -58,19 +58,20 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-9-tips-you-must-know-when-shooting-a-360-degree-video/"><u>[New] 9 Tips You Must Know when Shooting a 360 Degree Video</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-snapchat-like-stories-adding-movement-to-instagram-texts/"><u>[New] Snapchat-Like Stories Adding Movement to Instagram Texts</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-list-6-free-online-platforms-for-youtube-short-downloads/"><u>[Updated] In 2024, Essential List 6 Free Online Platforms for YouTube Short Downloads</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-pixelflame-recorders-for-firefox/"><u>[Updated] In 2024, PixelFlame Recorders for Firefox</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unleash-potential-with-instagram-vids-formulating-an-effective-marketing-plan/"><u>[Updated] In 2024, Unleash Potential with Instagram Vids Formulating an Effective Marketing Plan</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/crafting-serenity-a-spiritual-journey-through-6-intellectually-designed-minecraft-modern-houses-for-2024/"><u>Crafting Serenity A Spiritual Journey Through 6 Intellectually Designed Minecraft Modern Houses for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/deceptive-deals-alert-how-fire-tv-can-convince-you-to-shell-out-cash-for-allegedly-gratis-programs/"><u>Deceptive Deals Alert: How Fire TV Can Convince You to Shell Out Cash for Allegedly Gratis Programs</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/direct-tweeting-to-your-facebook-followers-for-2024/"><u>Direct Tweeting to Your Facebook Followers for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/fullframe-alliance-how-to-choose-your-mcn-strategically/"><u>FullFrame Alliance How to Choose Your MCN Strategically</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/in-2024-easy-tutorial-how-to-make-a-talking-cartoon-video-step-by-step/"><u>In 2024, Easy Tutorial How To Make a Talking Cartoon Video Step-by-Step</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premier-podcasts-on-googles-platform/"><u>In 2024, Premier Podcasts on Google's Platform</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-professional-photo-tweaking-picarts-tactical-background-stripping/"><u>In 2024, Professional Photo Tweaking PicArt's Tactical Background Stripping</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-reviewing-magix-music-production-for-budding-musicians/"><u>In 2024, Reviewing Magix Music Production for Budding Musicians</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/aging-branding-skills-skyrocketing-your-youtube-subscriber-base/"><u>Leveraging Branding Skills Skyrocketing Your YouTube Subscriber Base</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-proactive-measures-to-save-and-secure-your-classroom-talks-on-macos/"><u>[New] In 2024, Proactive Measures to Save and Secure Your Classroom Talks on MacOS</u></a></li>
+<li><a href="https://article-posts.techidaily.com/10-free-resources-for-perfect-presentation-slides/"><u>10 Free Resources for Perfect Presentation Slides</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-laugh-ledger-curating-the-best-meme-text-tools/"><u>2024 Approved Laugh Ledger Curating the Best Meme Text Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-honor-magic-5-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Honor Magic 5 Phone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-key-top-5-ultra-light-action-recording-models/"><u>In 2024, Key Top 5 Ultra-Light Action Recording Models</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-sites-boosting-youtube-viewership/"><u>In 2024, Leading Sites Boosting YouTube Viewership</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-media-subtitles-transformation/"><u>In 2024, Mastering Media Subtitles Transformation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mobility-boosted-video-stability-device/"><u>In 2024, Mobility Boosted Video Stability Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/m1-or-m2-ipad-pro-showdown-detailed-analysis-to-help-you-decide-which-tablet-fits-your-needs-techreview-by-zdnet/"><u>M1 or M2 iPad Pro Showdown: Detailed Analysis to Help You Decide Which Tablet Fits Your Needs | TechReview by ZDNet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/overcoming-biometric-blockades-in-iphone-x-fixing-face-id-for-2024/"><u>Overcoming Biometric Blockades in iPhone X - Fixing Face ID for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-content-dilemma-deciding-on-the-best-platform-igtv-or-youtube-for-2024/"><u>The Content Dilemma Deciding on the Best Platform - IGTV or YouTube for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-future-in-your-hands-screenflows-role-in-macos-innovation/"><u>The Future in Your Hands ScreenFlow's Role in MacOS Innovation</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-totan-banerjee-method-for-stellar-file-recovery/"><u>The Totan Banerjee Method for Stellar File Recovery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-ultimate-sales-magsafe-compatible-wallet-exclusive-apple-and-anker-alternative-tested-on-zdnet/"><u>Unveiling the Ultimate Sales MagSafe Compatible Wallet: Exclusive Apple & Anker Alternative Tested on ZDNet</u></a></li>
 </ul></div>
 

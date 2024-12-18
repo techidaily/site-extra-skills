@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender"
-date: 2024-12-08T20:40:16.414Z
-updated: 2024-12-11T20:20:27.672Z
+date: 2024-12-14T01:32:32.461Z
+updated: 2024-12-17T23:07:56.214Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender"
@@ -13,12 +13,16 @@ thumbnail: https://thmb.techidaily.com/255a2b0d86b70a9b8b182a32b7f077670444b2206
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Netgear Nighthawk RAX120 12-Stream AX6000 Wi-Fi 6 Router
 
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/kFg5xi-56ujXYZRJ5JqhJueaSnw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_HeroSquare-61fda9713bb44c89bf3c2f1f74386bee.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
@@ -48,7 +52,7 @@ Lifewire / Erika Rawes
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/_gP-SgRbIGXPYdlmqqhNJSxhmSs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_HeroSquare-61fda9713bb44c89bf3c2f1f74386bee.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
@@ -105,6 +109,10 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Network performance: Stellar**
 
  The Nighthawk RAX120 indicates top speeds of 1,200 Mbps on the 2.4Ghz band and 4,800 Mbps on the 5Ghz band. My Internet speed maxes out at 500 Mbps. I have about 50 connected devices, more than half of which are smart home devices like smart light switches, smart appliances, security cameras, and smart speakers and displays. The RAX120 had no problem managing my numerous smart devices, nor did I experience any lag or connectivity issues on streaming and gaming devices. I simultaneously ran a gaming computer, two playstations, and two FireTVs without the connection missing a beat.
@@ -118,7 +126,7 @@ Lifewire / Erika Rawes
  The RAX120 is backward compatible with 802.11a/b/g/n/ac as well, so it’ll work with virtually all of your devices, Wi-Fi 6 or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Key Features: Quality hardware, lacks antivirus**
@@ -141,17 +149,9 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Expensive**
 
  The Netgear Nighthawk RAX120 12-Stream AX6000 Wi-Fi 6 Router will cost you a pretty penny—it sells for $400, which is $100 lower than its original retail price of $500\. But it’s still on the higher end of the price spectrum, especially considering it doesn’t include any sort of mesh points, and you only get the router, power supply, and an Ethernet cable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Netgear Nighthawk RAX120 vs. TP-Link Archer AX6000**
 
@@ -164,7 +164,7 @@ Lifewire / Erika Rawes
  The Nighthawk RAX120 performs impressively, but it‘s costly and lacks some user-friendly features like strong parental controls and easy-to-manage antivirus, so it’ll be more desirable for those with heavier networking demands than the average user.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -205,16 +205,20 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-pinnacle-edition-tweets-transformed-into-timeless-gifs/"><u>[New] In 2024, Pinnacle Edition - Tweets Transformed Into Timeless GIFs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-optimal-templates-for-introducing-panzoids/"><u>[New] Optimal Templates for Introducing Panzoids</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-colors-of-wings-in-bebops-parrot-edition/"><u>[Updated] Exploring the Colors of Wings in Bebop's Parrot Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-nocturnal-images-on-iphones/"><u>[Updated] Navigating Nocturnal Images on iPhones</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-iphones-a-compreenas-guide-to-storing-and-sharing-gifs/"><u>2024 Approved IPhones A Compreenas Guide to Storing & Sharing GIFs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-metaverse-gateway-top-8-vr-headsets-unveiled/"><u>2024 Approved Metaverse Gateway Top 8 VR Headsets Unveiled</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-yuzu-game-performance-in-windows/"><u>Boosting Yuzu Game Performance in Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-14-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone 14 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-speech-to-text-conversion-with-ms-word-for-2024/"><u>Mastering Speech-to-Text Conversion with MS Word for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/speed-sensors-windows-based-methods-for-examining-network-rate/"><u>Speed Sensors: Windows-Based Methods for Examining Network Rate</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-stop-motion-animation-on-instagram-a-beginners-guide-to-creating-viral-videos-for-2024/"><u>Updated Stop Motion Animation on Instagram A Beginners Guide to Creating Viral Videos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-your-first-step-on-twitter-creating-an-account/"><u>[New] 2024 Approved Your First Step on Twitter Creating an Account</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-manual-on-gesture-controls/"><u>[New] Comprehensive Manual on Gesture Controls</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/oice-modification-gear-top-picks-for-creators/"><u>[New] Voice Modification Gear Top Picks for Creators</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-lenovo-laptop-black-screen-issues/"><u>[SOLVED] Lenovo Laptop Black Screen Issues</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-ai-for-stunning-photo-creation/"><u>[Updated] Premier AI for Stunning Photo Creation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-secure-hassle-free-passport-images-top-10-choices/"><u>2024 Approved Secure, Hassle-Free Passport Images - Top 10 Choices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-camon-20-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Tecno Camon 20 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-current-and-future-of-drone-use/"><u>In 2024, Navigating Current and Future of Drone Use</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-your-makeup-mastery/"><u>In 2024, Perfecting Your Makeup Mastery</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-celerity-gigabit-nic-driver-pack-boosting-transfer-speeds-and-stability/"><u>Install Celerity Gigabit NIC Driver Pack - Boosting Transfer Speeds and Stability</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-psd-free-3d-text-treasure-hunt-for-2024/"><u>Premium PSD Free 3D Text Treasure Hunt for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-shooters-guide-the-best-4k-camcorders-ranked-for-2024/"><u>Pro Shooters' Guide The Best 4K Camcorders Ranked for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sleek-design-and-stunning-video-quality-in-sony-xperia-xz-for-2024/"><u>Sleek Design and Stunning Video Quality in Sony Xperia XZ for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-puzzle-insights-into-assassins-creed-valhallas-delayed-debut/"><u>Solving the Puzzle - Insights Into Assassin's Creed Valhalla's Delayed Debut</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-ringtone-bazaar-navigating-online-sound-archives/"><u>Ultimate Ringtone Bazaar Navigating Online Sound Archives</u></a></li>
 </ul></div>
 

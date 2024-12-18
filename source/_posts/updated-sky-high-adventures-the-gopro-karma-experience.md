@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sky-High Adventures  The GoPro Karma Experience\""
-date: 2024-12-05T23:10:04.297Z
-updated: 2024-12-11T18:53:54.815Z
+date: 2024-12-14T03:54:36.863Z
+updated: 2024-12-17T18:46:54.787Z
 tags: 
   - screen-recording
   - ai video
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
  Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pros and cons of GoPro Karma
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Detailed review for GoPro Karma
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -108,7 +108,7 @@ Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -126,24 +126,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-strategies-to-skyrocket-your-fb-video-ad-impact/"><u>[Updated] In 2024, Strategies to Skyrocket Your FB Video Ad Impact</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-master-your-rhythm-top-free-beat-detectors-ready-to-test/"><u>[Updated] Master Your Rhythm – Top Free Beat Detectors Ready to Test</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-persuasion-in-marketing/"><u>[Updated] Mastering the Art of Persuasion in Marketing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-titles-pro-elevate-your-youtube-game/"><u>[Updated] Prime Titles Pro Elevate Your YouTube Game</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-reimagining-time-flow-a-thorough-2024-app-review/"><u>[Updated] Reimagining Time Flow A Thorough 2024 App Review</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-smartphone-skills-producing-engaging-youtube-thumbnails-for-2024/"><u>[Updated] Smartphone Skills Producing Engaging YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-monthly-revenue-streams-for-video-content-creators/"><u>2024 Approved Monthly Revenue Streams for Video Content Creators</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728488172611-top3/"><u>最新のガイド：パソコン用ゲームセーブデータバックアップ手順TOP3選び！</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-mac-compatible-video-editors-the-ultimate-top-10-list/"><u>Best Mac-Compatible Video Editors: The Ultimate Top 10 List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-job-search-techniques-through-chatgpt/"><u>Enhancing Job Search Techniques Through ChatGPT</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-through-top-film-makers-landscape/"><u>In 2024, Navigating Through Top Film Makers' Landscape</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-story-video-playback-rate-on-instagram-app/"><u>In 2024, Optimizing Story Video Playback Rate on Instagram App</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/key-practices-for-amassing-picture-resources-for-2024/"><u>Key Practices for Amassing Picture Resources for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-high-dynamic-range-effects-in-adobes-realm-for-2024/"><u>Mastering High Dynamic Range Effects in Adobe's Realm for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prime-selection-8-best-free-mobile-mp3-downloaders-for-2024/"><u>Prime Selection - 8 Best Free Mobile MP3 Downloaders for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resource-scarcity-usable-deficit/"><u>Resource Scarcity: Usable Deficit</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211351023-9780061753497-sacred-circles/"><u>Sacred Circles | Free Book</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/savvy-obs-arrangement-for-economical-pcs-for-2024/"><u>Savvy OBS Arrangement for Economical PCs for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/yl-computings-comprehensive-tutorial-on-setting-up-and-configuring-a-new-audio-interface/"><u>YL Computing's Comprehensive Tutorial on Setting Up and Configuring a New Audio Interface</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unveiling-digital-storytellings-key-concepts/"><u>[New] 2024 Approved Unveiling Digital Storytelling's Key Concepts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fixing-non-appearing-thumbnails-in-youtube-shorts-for-2024/"><u>[Updated] Fixing Non-Appearing Thumbnails in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-visual-flow-with-kinemaster/"><u>[Updated] Mastering the Art of Visual Flow with Kinemaster</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-organization-with-mematics-toolkit/"><u>2024 Approved Master Organization with Mematic's Toolkit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simplified-rss-feed-creation-methods-for-podcasters/"><u>2024 Approved Simplified RSS Feed Creation Methods for Podcasters</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhancing-mobile-signal-quality-the-top-tools-reviewed/"><u>Enhancing Mobile Signal Quality : The Top Tools Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-best-1440p-gaming-screens-for-all-prices/"><u>Explore the Best 1440P Gaming Screens for All Prices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-smartwatches-what-they-are-and-how-they-enhance-your-life/"><u>Exploring Smartwatches – What They Are and How They Enhance Your Life</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-play-40c-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor Play 40C Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-no-more-glue-techniques-to-free-tiktok-video-from-stickers/"><u>In 2024, No More Glue Techniques to Free TikTok Video From Stickers</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/resolving-convert2mp3-issues-a-comprehensive-guide/"><u>Resolving Convert2MP3 Issues - A Comprehensive Guide</u></a></li>
 </ul></div>
 
