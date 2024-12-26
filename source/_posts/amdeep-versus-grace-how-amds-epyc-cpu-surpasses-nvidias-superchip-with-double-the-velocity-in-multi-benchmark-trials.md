@@ -1,7 +1,7 @@
 ---
 title: "AMDEEP Versus GRACE: How AMD’s EPYC CPU Surpasses Nvidia’s Superchip with Double the Velocity in Multi-Benchmark Trials"
-date: 2024-12-12T18:56:52.085Z
-updated: 2024-12-17T20:09:13.201Z
+date: 2024-12-24T17:28:34.357Z
+updated: 2024-12-26T17:09:46.006Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,16 +78,21 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-proven-steps-to-conquer-hdr-images-in-ps/"><u>[New] Proven Steps to Conquer HDR Images in PS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-selective-alert-tunes-prime-audio-spots/"><u>[New] Selective Alert Tunes Prime Audio Spots</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-efficient-ways-to-clean-your-youtube-watch-later-playlist/"><u>[Updated] 2024 Approved Efficient Ways to Clean Your YouTube Watch Later Playlist</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-zero-cost-text-animation-guide-for-videos/"><u>[Updated] In 2024, Zero-Cost Text Animation Guide for Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-melodic-sharing-on-instagram-legalities/"><u>[Updated] Melodic Sharing on Instagram Legalities</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-flipping-currencies-through-cosmetics-content/"><u>2024 Approved Flipping Currencies Through Cosmetics Content</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unveiling-the-secrets-to-snap-success/"><u>2024 Approved Unveiling the Secrets to Snap Success</u></a></li>
-<li><a href="https://win-superb.techidaily.com/best-video-grabber-for-gogotraining-sessions-effortless-downloads/"><u>Best Video Grabber for GogoTraining Sessions - Effortless Downloads!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-no-audio-issue-with-usb-headphones-on-windows-7/"><u>Fixing the No Audio Issue with USB Headphones on Windows 7</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/practical-photoshop-fixes-for-facial-pixelation-purposes-for-2024/"><u>Practical Photoshop Fixes for Facial Pixelation Purposes for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-bring-past-videos-into-the-present-on-social-media-platforms-for-2024/"><u>[New] How to Bring Past Videos Into the Present on Social Media Platforms for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-1-choice-transcribe-youtube-videos-in-a-flash/"><u>[New] In 2024, 1 Choice Transcribe YouTube Videos in a Flash</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-stepwise-guide-for-powerpoints-speech-to-text-functionality/"><u>[New] Stepwise Guide for PowerPoint's Speech-to-Text Functionality</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-reviewing-the-high-quality-video-on-galaxy-s8/"><u>[Updated] 2024 Approved Reviewing the High-Quality Video on Galaxy S8</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-skys-best-the-ultimate-hd-collection-websites/"><u>[Updated] 2024 Approved Sky's Best - The Ultimate HD Collection Websites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-edge-slow-motion-camera-technology-mobile-devices/"><u>2024 Approved Leading Edge Slow Motion Camera Technology, Mobile Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-multitasking-media-expertise-in-using-picture-in-picture/"><u>2024 Approved Navigating Multitasking Media Expertise in Using Picture-in-Picture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-overlooked-wonders-latest-free-macspeech-software/"><u>2024 Approved Overlooked Wonders Latest Free macSpeech Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-web-browsing-on-edge-with-picture-in-picture-mode/"><u>2024 Approved Seamless Web Browsing on Edge with Picture-in-Picture Mode</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-launch-strategies-for-fb-generosity-campaigns/"><u>In 2024, Launch Strategies for FB Generosity Campaigns</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-cloud-capacity-options-reviewed-for-2024/"><u>Leading Cloud Capacity Options Reviewed for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pursuit-for-perfection-exploring-4k-with-hps-z32x-for-2024/"><u>Pursuit for Perfection Exploring 4K with HP's Z32X for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-10-bluetooth-disappearance-problem-with-simple-steps/"><u>Resolve Your Windows 10 Bluetooth Disappearance Problem with Simple Steps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/top-10-hilarious-and-heartfelt-instagram-memes-hubs/"><u>Top 10 Hilarious & Heartfelt Instagram Memes Hubs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/bes-finest-unveiling-the-best-reaction-tricks/"><u>YouTube's Finest Unveiling the Best Reaction Tricks</u></a></li>
 </ul></div>
 

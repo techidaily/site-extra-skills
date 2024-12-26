@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Samsung Gear 360 Replacements  Latest Innovations in Camera Tech\""
-date: 2024-07-31T09:50:38.680Z
-updated: 2024-08-01T09:50:38.680Z
+date: 2024-12-24T16:48:59.569Z
+updated: 2024-12-26T19:53:32.660Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
 # Top 5 Samsung Gear 360 Camera Alternatives
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -37,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
  If the Gear 360 isn’t the right choice for your 360-degree camera needs, just what is? Luckily, there are lots of other models out there. Let’s look at five of the best.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Top 5 Samsung Gear 360 Camera Alternatives
 
 ### 1\. 360fly
@@ -48,20 +42,25 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
  Check this video to watch the 360fly 4k unboxing review:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Nikon Key Mission 360
 
  Due to be released in the fall, Nikon’s Key Mission 360 will be a contender at a similar price point to the 360fly; it’s expected to retail for $499\. This pocket sized device is meant to be rugged. It’s dustproof, shockproof, and waterproof to 100 ft. This camera will have two lenses to supply the 360-degree image and be used through a related app with a simple interface. Expectations are high for this offering, and it just might be worth waiting for if you need a camera that can take whatever you throw at it.
 
  See more details about Nikon Key Mission 360 camera from this video:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Bublcam
 
  The [Bublcam](https://tools.techidaily.com/wondershare/filmora/download/) uses 4 lenses to ensure a 360-degree view in every direction, with no blind spots. Retailing around $800, it’s one of the more expensive consumer grade VR cameras, but makes up for it by offering 1080p video and high quality photos. The spherical camera has some motion-activated stabilization, meant to keep shaky camera work from ruining your perfect shots. It has a microSD card slot, allowing you to add storage. Unfortunately, the microphone quality is not great, but if you’re relatively close to the camera, it should be pretty clear. Unlike the 360fly, the Bublcam is pretty small, fitting comfortably into the palm of your hand, or a jacket pocket. The camera also ships with a small tripod, which is extremely handy for taking good shots.
 
  Bublcam's unboxing review:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Ricoh Theta S
 
@@ -77,14 +76,19 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
  Check a detailed review about LG360 Cam from this video
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  While the Samsung Gear 360 is a nice camera, it, like all of its 360-degree camera brethren, has its shortcomings. For many people, the most problematic is that it’s only compatible with Samsung phones. Fortunately, the above options are largely compatible with any phone, and offer a variety of prices, image quality, and functionality. Since professional grade 360-degree cameras still cost to the tune of $60000, I think I’ll be sticking to one of these inexpensive models, regardless of some of their flaws.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -100,12 +104,13 @@ Follow @Benjamin Arango
 
  The Samsung Gear 360 is a newer entry into the world of 360-degree cameras, but how does it stack up against other cameras available? The short answer is pretty well: the accompanying app and software are intuitive and powerful, the video quality is good, and the overall user experience is great. But, for many people, this little device isn’t the best option, or even an option. For one thing, the round shape is a little awkward, and doesn’t fit conveniently in a pocket to carry it around. More importantly, the Gear 360 is only supported on Samsung phones. Yes, that’s right, unless you have a pretty recent Samsung phone, you’re out of luck on this one. Other concerns from users include the poor microphone quality, and the visible stitch lines in the picture.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Samsung Gear 360 ](https://images.wondershare.com/filmora/article-images/samsung-gear-360-camera.jpg)
 
  If the Gear 360 isn’t the right choice for your 360-degree camera needs, just what is? Luckily, there are lots of other models out there. Let’s look at five of the best.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Top 5 Samsung Gear 360 Camera Alternatives
 
@@ -115,91 +120,6 @@ Follow @Benjamin Arango
 
  Check this video to watch the 360fly 4k unboxing review:
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
-### 2\. Nikon Key Mission 360
-
- Due to be released in the fall, Nikon’s Key Mission 360 will be a contender at a similar price point to the 360fly; it’s expected to retail for $499\. This pocket sized device is meant to be rugged. It’s dustproof, shockproof, and waterproof to 100 ft. This camera will have two lenses to supply the 360-degree image and be used through a related app with a simple interface. Expectations are high for this offering, and it just might be worth waiting for if you need a camera that can take whatever you throw at it.
-
- See more details about Nikon Key Mission 360 camera from this video:
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### 3\. Bublcam
-
- The [Bublcam](https://tools.techidaily.com/wondershare/filmora/download/) uses 4 lenses to ensure a 360-degree view in every direction, with no blind spots. Retailing around $800, it’s one of the more expensive consumer grade VR cameras, but makes up for it by offering 1080p video and high quality photos. The spherical camera has some motion-activated stabilization, meant to keep shaky camera work from ruining your perfect shots. It has a microSD card slot, allowing you to add storage. Unfortunately, the microphone quality is not great, but if you’re relatively close to the camera, it should be pretty clear. Unlike the 360fly, the Bublcam is pretty small, fitting comfortably into the palm of your hand, or a jacket pocket. The camera also ships with a small tripod, which is extremely handy for taking good shots.
-
- Bublcam's unboxing review:
-
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
-### 4\. Ricoh Theta S
-
- If that’s a little outside of your price range, and you want something more pocket-sized, consider the [Ricoh Theta S](https://tools.techidaily.com/wondershare/filmora/download/). Retailing at just $350, it’s one of the less expensive camera in our line-up. It has exactly one button for starting and stopping video or image capture, and two bubble eye lenses on opposite sides of the camera. It allows live streaming via mini-HDMI, and has an phone app that can be used to control the camera. The video quality is only average, but this is an excellent choice for the casual 360-degree camera user.
-
- Wanna know where to Ricoh Theta S, check this video below:
-
-### 5\. LG360 cam
-
- The [LG360 cam](https://tools.techidaily.com/wondershare/filmora/download/) is a new offering in the bargain 360-degree cameras. Retailing at only $180, it is comparable in cost to a reasonably good digital camera. This camera is very compact, and connects to your phone with an app, available for both Android and iOS, that allows you to preview/review your shots and control the camera. It also allows you to shoot with only one lens at a time, for a 180-degree image.
-
- All of that said, there are some downsides to this little bargain. The first is that you’ll have to buy a microSD card for storage. The camera requires one, and does not have one included. Another problem is viewing your photos. The camera must transfer files to your phone before they can be viewed, which can take a while, and does not support editing. While you can transfer files to the computer and edit them, this makes the stitching more obvious and you’ll likely have to use some stitching software to clean it up after. Since the LG cam is designed to be a Shoot and Share type camera, it’s better not to try to edit. The image quality is not great, which isn’t unexpected for the price, but it’s a great entry point for new 360-degree camera users, especially ones who just want to experience the technology, without breaking the bank.
-
- Check a detailed review about LG360 Cam from this video
-
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Conclusion
-
- While the Samsung Gear 360 is a nice camera, it, like all of its 360-degree camera brethren, has its shortcomings. For many people, the most problematic is that it’s only compatible with Samsung phones. Fortunately, the above options are largely compatible with any phone, and offer a variety of prices, image quality, and functionality. Since professional grade 360-degree cameras still cost to the tune of $60000, I think I’ll be sticking to one of these inexpensive models, regardless of some of their flaws.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## About Samsung Gear 360 Camera
-
- The Samsung Gear 360 is a newer entry into the world of 360-degree cameras, but how does it stack up against other cameras available? The short answer is pretty well: the accompanying app and software are intuitive and powerful, the video quality is good, and the overall user experience is great. But, for many people, this little device isn’t the best option, or even an option. For one thing, the round shape is a little awkward, and doesn’t fit conveniently in a pocket to carry it around. More importantly, the Gear 360 is only supported on Samsung phones. Yes, that’s right, unless you have a pretty recent Samsung phone, you’re out of luck on this one. Other concerns from users include the poor microphone quality, and the visible stitch lines in the picture.
-
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![Samsung Gear 360 ](https://images.wondershare.com/filmora/article-images/samsung-gear-360-camera.jpg)
-
- If the Gear 360 isn’t the right choice for your 360-degree camera needs, just what is? Luckily, there are lots of other models out there. Let’s look at five of the best.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## Top 5 Samsung Gear 360 Camera Alternatives
-
-### 1\. 360fly
-
- Let’s start with the 360fly. This model is tough, being waterproof, dustproof, and shock proof. This makes it a great choice for use outdoors, and when travelling. It can be controlled using an iOS app, or with the included Bluetooth remote. It is also able to live stream footage, so that you can see it as you shoot. However, the video quality is not the best, and there can be some aberrations in color at the edges of the shot. Another issue that some users complain about is the that it offers only 32 GB of internal storage, with no way to extend it. It retails around $500, and is solid, but not outstanding, camera.
-
- Check this video to watch the 360fly 4k unboxing review:
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### 2\. Nikon Key Mission 360
 
  Due to be released in the fall, Nikon’s Key Mission 360 will be a contender at a similar price point to the 360fly; it’s expected to retail for $499\. This pocket sized device is meant to be rugged. It’s dustproof, shockproof, and waterproof to 100 ft. This camera will have two lenses to supply the 360-degree image and be used through a related app with a simple interface. Expectations are high for this offering, and it just might be worth waiting for if you need a camera that can take whatever you throw at it.
@@ -226,9 +146,6 @@ Follow @Benjamin Arango
 
  Check a detailed review about LG360 Cam from this video
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  While the Samsung Gear 360 is a nice camera, it, like all of its 360-degree camera brethren, has its shortcomings. For many people, the most problematic is that it’s only compatible with Samsung phones. Fortunately, the above options are largely compatible with any phone, and offer a variety of prices, image quality, and functionality. Since professional grade 360-degree cameras still cost to the tune of $60000, I think I’ll be sticking to one of these inexpensive models, regardless of some of their flaws.
@@ -246,25 +163,23 @@ Follow @Benjamin Arango
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## About Samsung Gear 360 Camera
 
  The Samsung Gear 360 is a newer entry into the world of 360-degree cameras, but how does it stack up against other cameras available? The short answer is pretty well: the accompanying app and software are intuitive and powerful, the video quality is good, and the overall user experience is great. But, for many people, this little device isn’t the best option, or even an option. For one thing, the round shape is a little awkward, and doesn’t fit conveniently in a pocket to carry it around. More importantly, the Gear 360 is only supported on Samsung phones. Yes, that’s right, unless you have a pretty recent Samsung phone, you’re out of luck on this one. Other concerns from users include the poor microphone quality, and the visible stitch lines in the picture.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Samsung Gear 360 ](https://images.wondershare.com/filmora/article-images/samsung-gear-360-camera.jpg)
 
  If the Gear 360 isn’t the right choice for your 360-degree camera needs, just what is? Luckily, there are lots of other models out there. Let’s look at five of the best.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top 5 Samsung Gear 360 Camera Alternatives
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### 1\. 360fly
 
  Let’s start with the 360fly. This model is tough, being waterproof, dustproof, and shock proof. This makes it a great choice for use outdoors, and when travelling. It can be controlled using an iOS app, or with the included Bluetooth remote. It is also able to live stream footage, so that you can see it as you shoot. However, the video quality is not the best, and there can be some aberrations in color at the edges of the shot. Another issue that some users complain about is the that it offers only 32 GB of internal storage, with no way to extend it. It retails around $500, and is solid, but not outstanding, camera.
@@ -277,14 +192,81 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  See more details about Nikon Key Mission 360 camera from this video:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Bublcam
 
  The [Bublcam](https://tools.techidaily.com/wondershare/filmora/download/) uses 4 lenses to ensure a 360-degree view in every direction, with no blind spots. Retailing around $800, it’s one of the more expensive consumer grade VR cameras, but makes up for it by offering 1080p video and high quality photos. The spherical camera has some motion-activated stabilization, meant to keep shaky camera work from ruining your perfect shots. It has a microSD card slot, allowing you to add storage. Unfortunately, the microphone quality is not great, but if you’re relatively close to the camera, it should be pretty clear. Unlike the 360fly, the Bublcam is pretty small, fitting comfortably into the palm of your hand, or a jacket pocket. The camera also ships with a small tripod, which is extremely handy for taking good shots.
 
  Bublcam's unboxing review:
+
+### 4\. Ricoh Theta S
+
+ If that’s a little outside of your price range, and you want something more pocket-sized, consider the [Ricoh Theta S](https://tools.techidaily.com/wondershare/filmora/download/). Retailing at just $350, it’s one of the less expensive camera in our line-up. It has exactly one button for starting and stopping video or image capture, and two bubble eye lenses on opposite sides of the camera. It allows live streaming via mini-HDMI, and has an phone app that can be used to control the camera. The video quality is only average, but this is an excellent choice for the casual 360-degree camera user.
+
+ Wanna know where to Ricoh Theta S, check this video below:
+
+### 5\. LG360 cam
+
+ The [LG360 cam](https://tools.techidaily.com/wondershare/filmora/download/) is a new offering in the bargain 360-degree cameras. Retailing at only $180, it is comparable in cost to a reasonably good digital camera. This camera is very compact, and connects to your phone with an app, available for both Android and iOS, that allows you to preview/review your shots and control the camera. It also allows you to shoot with only one lens at a time, for a 180-degree image.
+
+ All of that said, there are some downsides to this little bargain. The first is that you’ll have to buy a microSD card for storage. The camera requires one, and does not have one included. Another problem is viewing your photos. The camera must transfer files to your phone before they can be viewed, which can take a while, and does not support editing. While you can transfer files to the computer and edit them, this makes the stitching more obvious and you’ll likely have to use some stitching software to clean it up after. Since the LG cam is designed to be a Shoot and Share type camera, it’s better not to try to edit. The image quality is not great, which isn’t unexpected for the price, but it’s a great entry point for new 360-degree camera users, especially ones who just want to experience the technology, without breaking the bank.
+
+ Check a detailed review about LG360 Cam from this video
+
+## Conclusion
+
+ While the Samsung Gear 360 is a nice camera, it, like all of its 360-degree camera brethren, has its shortcomings. For many people, the most problematic is that it’s only compatible with Samsung phones. Fortunately, the above options are largely compatible with any phone, and offer a variety of prices, image quality, and functionality. Since professional grade 360-degree cameras still cost to the tune of $60000, I think I’ll be sticking to one of these inexpensive models, regardless of some of their flaws.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## About Samsung Gear 360 Camera
+
+ The Samsung Gear 360 is a newer entry into the world of 360-degree cameras, but how does it stack up against other cameras available? The short answer is pretty well: the accompanying app and software are intuitive and powerful, the video quality is good, and the overall user experience is great. But, for many people, this little device isn’t the best option, or even an option. For one thing, the round shape is a little awkward, and doesn’t fit conveniently in a pocket to carry it around. More importantly, the Gear 360 is only supported on Samsung phones. Yes, that’s right, unless you have a pretty recent Samsung phone, you’re out of luck on this one. Other concerns from users include the poor microphone quality, and the visible stitch lines in the picture.
+
+![Samsung Gear 360 ](https://images.wondershare.com/filmora/article-images/samsung-gear-360-camera.jpg)
+
+ If the Gear 360 isn’t the right choice for your 360-degree camera needs, just what is? Luckily, there are lots of other models out there. Let’s look at five of the best.
+
+## Top 5 Samsung Gear 360 Camera Alternatives
+
+### 1\. 360fly
+
+ Let’s start with the 360fly. This model is tough, being waterproof, dustproof, and shock proof. This makes it a great choice for use outdoors, and when travelling. It can be controlled using an iOS app, or with the included Bluetooth remote. It is also able to live stream footage, so that you can see it as you shoot. However, the video quality is not the best, and there can be some aberrations in color at the edges of the shot. Another issue that some users complain about is the that it offers only 32 GB of internal storage, with no way to extend it. It retails around $500, and is solid, but not outstanding, camera.
+
+ Check this video to watch the 360fly 4k unboxing review:
+
+### 2\. Nikon Key Mission 360
+
+ Due to be released in the fall, Nikon’s Key Mission 360 will be a contender at a similar price point to the 360fly; it’s expected to retail for $499\. This pocket sized device is meant to be rugged. It’s dustproof, shockproof, and waterproof to 100 ft. This camera will have two lenses to supply the 360-degree image and be used through a related app with a simple interface. Expectations are high for this offering, and it just might be worth waiting for if you need a camera that can take whatever you throw at it.
+
+ See more details about Nikon Key Mission 360 camera from this video:
+
+### 3\. Bublcam
+
+ The [Bublcam](https://tools.techidaily.com/wondershare/filmora/download/) uses 4 lenses to ensure a 360-degree view in every direction, with no blind spots. Retailing around $800, it’s one of the more expensive consumer grade VR cameras, but makes up for it by offering 1080p video and high quality photos. The spherical camera has some motion-activated stabilization, meant to keep shaky camera work from ruining your perfect shots. It has a microSD card slot, allowing you to add storage. Unfortunately, the microphone quality is not great, but if you’re relatively close to the camera, it should be pretty clear. Unlike the 360fly, the Bublcam is pretty small, fitting comfortably into the palm of your hand, or a jacket pocket. The camera also ships with a small tripod, which is extremely handy for taking good shots.
+
+ Bublcam's unboxing review:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Ricoh Theta S
 
@@ -334,5 +316,20 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-funniest-memes-to-download-iphone/"><u>[New] In 2024, Funniest Memes to Download (iPhone)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-enhancing-visual-effects-with-movie-maker-for-animation-projects-for-2024/"><u>[Updated] Enhancing Visual Effects with Movie Maker for Animation Projects for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-media-showdown-podcasts-vs-youtube-in-the-modern-world/"><u>[Updated] Media Showdown Podcasts Vs. YouTube in the Modern World</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-unveiling-the-best-music-production-software-how-does-magix-samplitude-stack-up/"><u>2024 Approved Unveiling the Best Music Production Software How Does MAGIX Samplitude Stack Up?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726028176441-dvdand/"><u>韓流DVD視聴&修正テクニック：日本国内におけるプレイブック</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversion-sin-coste-entre-archivos-gif-y-png-con-herramienta-online-gratuita/"><u>Conversión Sin Coste Entre Archivos GIF Y PNG Con Herramienta Online Gratuita</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-c210-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia C210 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-learn-quick-image-text-alteration-online-resources/"><u>In 2024, Learn Quick Image Text Alteration Online Resources</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-efficient-editing-embrace-inshot-software/"><u>In 2024, Pioneering Efficient Editing Embrace Inshot Software</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-smarter-video-sharing-with-igtv-a-guide-to-flipping-videos-right/"><u>In 2024, Smarter Video Sharing with IGTV A Guide to Flipping Videos Right</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sonys-shutterbug-fixing-the-no-video-fiasco/"><u>In 2024, Sony's Shutterbug Fixing the No-Video Fiasco</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209860860-9780999636510-the-origin-comes-alive/"><u>The Origin Comes Alive | Free Book</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-audio-fade-ins-and-outs-made-easy-2-fcp-techniques/"><u>Updated Audio Fade Ins and Outs Made Easy 2 FCP Techniques</u></a></li>
+</ul></div>
 

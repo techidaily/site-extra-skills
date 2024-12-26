@@ -1,7 +1,7 @@
 ---
 title: Yitian 710 by Alibaba Shatters Records as the Most Rapid Server Processor Powering Cloud Infrastructures
-date: 2024-12-13T22:42:53.745Z
-updated: 2024-12-18T01:07:43.805Z
+date: 2024-12-25T18:40:32.859Z
+updated: 2024-12-26T18:19:34.161Z
 tags:
   - desktop
 categories:
@@ -16,7 +16,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
@@ -41,7 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -67,24 +67,24 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-facebooks-2023-video-strategy-emphasizing-conciseness-and-engagement/"><u>[New] Facebook's 2023 Video Strategy Emphasizing Conciseness and Engagement</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-narrative-noble-order-honors-hexagon/"><u>[New] Narrative Noble Order - Honor's Hexagon</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-snapslowly-the-art-of-time-lapse-via-samsung/"><u>[New] SnapSlowly The Art of Time-Lapse via Samsung</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-balancing-ambient-sound-on-windowsos-x-machines/"><u>2024 Approved Balancing Ambient Sound on Windows/OS X Machines</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-radiance-in-android-video-editing/"><u>2024 Approved Radiance in Android Video Editing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-srt-to-advanced-subtitle-formats-a-compendium/"><u>2024 Approved Seamless SRT to Advanced Subtitle Formats A Compendium</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-skys-the-limit-revel-in-20-top-free-cloud-service-plans-up-to-1tb/"><u>2024 Approved Sky's the Limit Revel in 20 Top Free Cloud Service Plans (Up To 1TB)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-guide-to-creating-a-video-channel-reviewing-tech-accessories/"><u>2024 Approved Step-by-Step Guide to Creating a Video Channel Reviewing Tech Accessories</u></a></li>
-<li><a href="https://fox-links.techidaily.com/dawn-evaluation-non-conformist-thoughts/"><u>Dawn Evaluation Non-Conformist Thoughts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/decoding-chipset-selection-for-peak-performance/"><u>Decoding Chipset Selection for Peak Performance</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/golden-5-premier-macsierra-dvd-makers-for-2024/"><u>Golden 5 Premier MacSierra Dvd Makers for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/kinemaster-tutorial-for-epic-memes-for-2024/"><u>KineMaster Tutorial for Epic Memes for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/picturing-laughter-building-memes-with-text-tool/"><u>Picturing Laughter Building Memes with Text Tool</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pinnacle-of-3d-entertainment-premium-blu-ray-decks-for-2024/"><u>Pinnacle of 3D Entertainment Premium Blu-Ray Decks for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/shaking-it-off-analyzing-the-efficacy-of-photostability-for-2024/"><u>Shaking It Off Analyzing the Efficacy of PhotoStability for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/top-handheld-tech-to-eliminate-shaky-screenshot-videos-for-2024/"><u>Top Handheld Tech to Eliminate Shaky Screenshot Videos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-airborne-awe-the-ultimate-list-of-staying-power-drones/"><u>[New] Airborne Awe The Ultimate List of Staying Power Drones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-estimated-video-monetization-totals/"><u>[New] In 2024, Estimated Video Monetization Totals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-notable-examples-of-book-trailers/"><u>[New] Notable Examples of Book Trailers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-green-thumbs-united-top-10-agrigames-for-friends-and-family/"><u>[Updated] 2024 Approved Green Thumbs United Top 10 AgriGames for Friends and Family</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-thriving-despite-cyberbullying-and-scathing-feedback/"><u>[Updated] 2024 Approved Thriving Despite Cyberbullying and Scathing Feedback</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-zoomy-zappers-fastest-flash-fueled-apps-for-phones-and-pcs/"><u>[Updated] In 2024, Zoomy Zappers Fastest Flash-Fueled Apps for Phones & PCs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-9-fixes-for-youtube-buffering-woes/"><u>[Updated] Master 9 Fixes for YouTube Buffering Woes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-top-snapchat-content-strategies-to-stand-out-for-2024/"><u>[Updated] Top Snapchat Content Strategies to Stand Out for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-precision-in-podcast-promotion-timelines/"><u>2024 Approved Precision in Podcast Promotion Timelines</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/30plus-metaverse-quotes-to-inspire-you-ar-and-vr-included-for-2024/"><u>30+ Metaverse Quotes to Inspire You [AR & VR Included] for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-conjoin-windows-serial-numbers-and-microsoft-accounting/"><u>How to Conjoin Windows Serial Numbers & MICROSOFT ACCOUNTING</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-art-of-video-crafting-integrating-storyremix-with-windows-11-photos/"><u>In 2024, Master the Art of Video Crafting Integrating StoryRemix with Windows 11 Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-spectaculous-14-animated-text-illustration-samples/"><u>In 2024, Spectaculous 14 Animated Text Illustration Samples</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unlock-high-view-counts-using-savvy-hashtag-use/"><u>In 2024, Unlock High View Counts Using Savvy #Hashtag Use</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/laughlens-lab-jestjokester-co-for-2024/"><u>LaughLens Lab JestJokester Co for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/laughter-in-every-note-essential-ringtones-for-2024/"><u>Laughter in Every Note Essential Ringtones for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/magnify-memories-unaltered-resolution-for-2024/"><u>Magnify Memories Unaltered Resolution for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oneplus-ace-2-pro-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your OnePlus Ace 2 Pro Device</u></a></li>
 </ul></div>
 

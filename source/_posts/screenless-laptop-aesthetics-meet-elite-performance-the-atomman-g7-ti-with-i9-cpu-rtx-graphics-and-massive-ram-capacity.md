@@ -1,7 +1,7 @@
 ---
 title: "Screenless Laptop Aesthetics Meet Elite Performance: The AtomMan G7 Ti with I9 CPU, RTX Graphics & Massive RAM Capacity"
-date: 2024-12-13T19:08:13.790Z
-updated: 2024-12-17T21:13:57.177Z
+date: 2024-12-19T18:05:19.787Z
+updated: 2024-12-26T19:17:55.821Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -50,7 +50,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -62,7 +62,7 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -88,19 +88,24 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-learning-the-ropes-of-lunapics-user-interface/"><u>[New] Learning the Ropes of LunaPic's User Interface</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-android-screen-capture-kings-the-ultimate-8-free-guide/"><u>[Updated] 2024 Approved Android Screen Capture Kings The Ultimate 8-Free Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-enhancing-your-social-presence-tweeting-to-facebook-for-2024/"><u>[Updated] Enhancing Your Social Presence Tweeting to Facebook for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-inside-the-world-of-vita-video-editor-comprehensive-analysis-2024/"><u>[Updated] Inside the World of Vita Video Editor - Comprehensive Analysis, 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-bulk-video-import-on-tiktok/"><u>2024 Approved Mastering the Art of Bulk Video Import on TikTok</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-resolve-mir4-errors-on-your-windows-computer/"><u>Fixing the Issue: How to Resolve Mir4 Errors on Your Windows Computer</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722965559654-get-your-thinkpad-t420s-running-on-windows-10-free-driver-downloads-here/"><u>Get Your ThinkPad T420s Running on Windows 10 - Free Driver Downloads Here</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/learn-how-to-create-distortion-effects-in-photoshop-for-2024/"><u>Learn How to Create Distortion Effects in Photoshop for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-speedrunning-in-subway-surfers-with-these-pro-tips-7-16/"><u>Mastering Speedrunning in 'Subway Surfers' With These Pro Tips #7-#16</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/melodies-with-a-twist-funny-tone-websites-listed-for-2024/"><u>Melodies with a Twist Funny Tone Websites Listed for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-your-windows-10-update-hiccups-with-these-simple-solutions/"><u>Overcome Your Windows 10 Update Hiccups with These Simple Solutions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premier-playwriting-for-podcasts-and-radios-for-2024/"><u>Premier Playwriting for Podcasts & Radios for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210970416-9781088250990-recuerdos-que-el-viento-trae/"><u>Recuerdos que el Viento Trae | Free Book</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-easy-image-submission-tips-for-youtubers-for-2024/"><u>[New] Easy Image Submission Tips for YouTubers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-quora-experts-live-snapchat-session/"><u>[New] In 2024, Quora Experts Live Snapchat Session</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-unpacking-the-performance-a-complete-guide-to-lg-bp350-monitors/"><u>[New] In 2024, Unpacking the Performance A Complete Guide to LG BP350 Monitors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-journey-through-audio-production-initiating-with-auditions-fade-in/"><u>[New] Journey Through Audio Production Initiating with Audition’s Fade In</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-journey-through-podcast-land-iphoneipad-edition/"><u>[New] Journey Through Podcast Land IPhone/iPad Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pros-list-17-leading-apps-for-easy-image-transformation/"><u>[New] Pro's List 17 Leading Apps for Easy Image Transformation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-secure-and-spacious-our-compilation-of-best-20-free-cloud-services/"><u>[New] Secure & Spacious Our Compilation of Best 20 Free Cloud Services</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-secret-language-of-success-top-20-market-phrases/"><u>[New] The Secret Language of Success - Top 20 Market Phrases</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-discovering-the-prime-stardew-modifications-for-perfection/"><u>[Updated] 2024 Approved Discovering the Prime Stardew Modifications for Perfection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leveraging-windows-11-for-professional-grade-video-crafting/"><u>[Updated] Leveraging Windows 11 for Professional-Grade Video Crafting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-peek-into-hidden-social-interaction-on-platforms-like-youtube/"><u>[Updated] Peek Into Hidden Social Interaction on Platforms Like YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-unlimited-live-sporting-events-without-spending-a-penny/"><u>Enjoy Unlimited Live Sporting Events Without Spending a Penny</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xltm-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xltm Online with DigiSigner</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-budget-friendly-webinar-strategies-for-youtube/"><u>In 2024, Budget-Friendly Webinar Strategies for YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-journey-into-the-art-of-long-exposure-a-comprehensive-guide-to-gopro-timelapses/"><u>In 2024, Journey Into the Art of Long-Exposure A Comprehensive Guide to GoPro Timelapses</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-m4a-file-editor-top-5-free-tools/"><u>In 2024, M4A File Editor Top 5 Free Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-polishing-pixels-8-pro-photo-frames-for-images-online/"><u>In 2024, Polishing Pixels 8 Pro Photo Frames for Images Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-secrets-to-successfully-obtain-windows-movie-maker-6/"><u>In 2024, Secrets to Successfully Obtain Windows Movie Maker 6</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pioneering-insights-on-electronics-with-toms-comprehensive-reviews/"><u>Pioneering Insights on Electronics with Tom's Comprehensive Reviews</u></a></li>
 </ul></div>
 

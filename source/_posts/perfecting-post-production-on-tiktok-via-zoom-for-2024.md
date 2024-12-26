@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting Post-Production on TikTok via Zoom for 2024\""
-date: 2024-12-15T04:16:20.194Z
-updated: 2024-12-17T23:24:40.371Z
+date: 2024-12-21T16:37:30.489Z
+updated: 2024-12-26T20:07:42.333Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ In recent times, TikTok has become a major social media platform and along with 
 And one of the main functions of any video editing application is that the user should be able to zoom into videos to showcase specific areas of the video or to make a unique transition. In this article, we are going to learn about face zoom TikTok and how one user can use the Zoom function and make videos with it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. Zoom on TikTok while creating a new video
@@ -37,7 +37,7 @@ The first one involves zooming in while recording the video and the second one i
 ![create a new video tiktok](https://images.wondershare.com/filmora/article-images/2022/07/create-a-new-video-tiktok.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * When you tap on the "+" icon, the recording interface will open up. Now, select the duration of the video by tapping the "clock" icon on the left-hand side of the screen. After selecting a set duration, you will find a red shutter button which you will need to hold to start the recording.
@@ -59,14 +59,14 @@ TikTok is known to provide a vast number of filters as well as editing tools tha
 ![choose zoom effect tiktok](https://images.wondershare.com/filmora/article-images/2022/07/choose-zoom-effect-tiktok.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * You can drag the marker of the timeline to set the beginning of the effect on your video. Then press the zoom effect and release it where you want the zoom effect to end.
 * Then save the video and the effect will be applied successfully.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. How to face zoom TikTok
@@ -82,7 +82,7 @@ And if you are new to this platform, you can follow these steps to use this face
 ![zoom tiktok filter](https://images.wondershare.com/filmora/article-images/2022/07/zoom-tiktok-filter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * The filter icon background is of turquoise color. You will need to tap on that and your face zoom effect will be activated.
@@ -127,24 +127,24 @@ TikTok has become more than just a social media platform and these days almost e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-unlocking-higher-view-counts-through-sustained-compliance-with-youtube-cc/"><u>[New] 2024 Approved Unlocking Higher View Counts Through Sustained Compliance with YouTube CC</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-the-viral-internet-landscape/"><u>[New] Navigating the Viral Internet Landscape</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-next-gen-camera-showcase-2024-edition/"><u>[New] Next-Gen Camera Showcase - 2024 Edition</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-captivating-imagery-assemblies-your-lifelong-collection/"><u>[Updated] 2024 Approved Captivating Imagery Assemblies Your Lifelong Collection</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-reduce-buffering-and-lag-turn-on-av1-in-youtube-settings/"><u>[Updated] In 2024, Reduce Buffering & Lag - Turn On AV1 in YouTube Settings</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-learning-the-art-of-softly-amplifying-audio-tracks/"><u>[Updated] Learning the Art of Softly Amplifying Audio Tracks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-portfolio-exceptional-webcam-supports/"><u>[Updated] Prime Portfolio Exceptional Webcam Supports</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-youtube-shorts-vs-tiktok-which-one-is-better-for-short-videos-for-2024/"><u>[Updated] YouTube Shorts Vs. TikTok Which One Is Better for Short Videos for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-insightful-recap-updated-sony-bdp-s3700-features/"><u>2024 Approved Insightful Recap Updated Sony BDP-S3700 Features</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-video-enhancers-for-social-media-platforms/"><u>2024 Approved Pro Video Enhancers for Social Media Platforms</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-simplifying-vfx-with-magix-video-pro-x/"><u>2024 Approved Simplifying VFX with Magix Video Pro X</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/guida-passo-passo-per-leliminazione-e-il-ripristino-automatico-dei-vecchi-backup-di-windows-7/"><u>Guida Passo-Passo per L'Eliminazione E Il Ripristino Automatico Dei Vecchi Backup Di Windows 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-sound-card-glitches-in-dell-pcs-running-windows-n7-os/"><u>How to Fix Sound Card Glitches in Dell PCs Running Windows N7 OS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-live-broadcast-platforms-simplified/"><u>In 2024, Navigating Live Broadcast Platforms Simplified</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-seo-excellence-transforming-podcast-discoverability/"><u>In 2024, SEO Excellence Transforming Podcast Discoverability</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-simplify-aquatic-footage-7-key-shooting-strategies/"><u>In 2024, Simplify Aquatic Footage 7 Key Shooting Strategies</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-learning-how-to-slow-down-a-video-on-iphone-properly/"><u>New 2024 Approved Learning How to Slow Down a Video on iPhone Properly</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-dji-mavic-air-2s-unveiled-a-game-changing-drone-experience/"><u>Ultimate Guide: DJI Mavic Air 2S Unveiled - A Game-Changing Drone Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unity-unveils-exclusive-alpha-testing-for-innovative-apple-vision-pro-embrace-augmented-and-virtual-reality-gaming-adventure-with-open-arms/"><u>Unity Unveils Exclusive Alpha Testing for Innovative Apple Vision Pro: Embrace Augmented & Virtual Reality Gaming Adventure with Open Arms!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-secrets-of-success-in-capturing-breathtaking-gopro-time-lapse/"><u>[New] Secrets of Success in Capturing Breathtaking GoPro Time-Lapse</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-convenient-alias-adjustment-in-google-meet-devices/"><u>[Updated] 2024 Approved Convenient Alias Adjustment in Google Meet Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-a-closer-look-at-the-monetization-mechanism-for-video-clips/"><u>[Updated] In 2024, A Closer Look at the Monetization Mechanism for Video Clips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-market-opening-innovations/"><u>[Updated] Market-Opening Innovations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-no-sweat-strategies-for-skipping-edgenuity-video-content/"><u>[Updated] No-Sweat Strategies for Skipping Edgenuity Video Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-professional-touch-applying-filters-to-pcmobile-videos/"><u>[Updated] Professional Touch Applying Filters to PC/Mobile Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sdr-to-hdri-pioneers-expert-tips-and-techniques/"><u>[Updated] SDR to HDRI Pioneers Expert Tips and Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-simplified-nft-artistry-for-first-timers/"><u>[Updated] Simplified NFT Artistry for First-Timers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-minuscule-web-pixels/"><u>2024 Approved Mastering the Art of Minuscule Web Pixels</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-your-hp-stream-drives-with-one-click/"><u>Download & Update Your HP Stream Drives with One Click!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-tutorial-on-installing-newest-logitech-m31er-mouse-software/"><u>Easy Tutorial on Installing Newest Logitech M31er Mouse Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-blueprint-for-blending-video-content-into-curricula/"><u>In 2024, Blueprint for Blending Video Content Into Curricula</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revenue-rundown-the-profit-of-youtube-star-pewdopeep/"><u>In 2024, Revenue Rundown The Profit of YouTube Star PewDoPeep</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reel-radiance-the-ultimate-5-tools-to-brighten-media-for-2024/"><u>Reel Radiance The Ultimate 5 Tools to Brighten Media for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/restoring-functionality-replacing-broken-keys-in-notebook-computers/"><u>Restoring Functionality: Replacing Broken Keys in Notebook Computers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionizing-image-post-processing-advanced-use-of-3d-luts-in-ps-for-2024/"><u>Revolutionizing Image Post-Processing Advanced Use of 3D LUTs in PS for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-redmi-a2plus-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Redmi A2+.</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-your-computers-control-center/"><u>Unlocking Your Computer's Control Center</u></a></li>
 </ul></div>
 

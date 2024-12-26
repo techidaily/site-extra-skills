@@ -1,7 +1,7 @@
 ---
 title: "Cryptocurrency Crusaders' Guide: Top 5 AI Trading Tips"
-date: 2024-12-10T22:58:49.298Z
-updated: 2024-12-18T03:10:05.000Z
+date: 2024-12-19T19:49:34.675Z
+updated: 2024-12-26T20:44:50.638Z
 tags:
   - chatgpt
   - open-ai
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. openai-pc-pro.online
@@ -43,21 +43,17 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. pay.chatgptftw.com
 
@@ -65,9 +61,17 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. AI Photo
 
@@ -78,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
@@ -124,16 +124,21 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-excellent-live-broadcast-services-featuring-local-channels-2024/"><u>[New] Excellent Live Broadcast Services Featuring Local Channels 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-leveraging-youtube-top-5-digital-strategies-for-brand-success/"><u>[Updated] 2024 Approved Leveraging YouTube Top 5 Digital Strategies for Brand Success</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-selection-enjoy-elite-british-tv-shows-only-on-netflix-now/"><u>Exclusive Selection: Enjoy Elite British TV Shows Only on Netflix Now</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-overcoming-airdrop-obstacles-fast-track-fixes-for-iosmacos-devices/"><u>In 2024, Overcoming AirDrop Obstacles Fast-Track Fixes for iOS/macOS Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sharing-laughter-iphone-memes/"><u>In 2024, Sharing Laughter IPhone Memes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-best-free-srt-translator-tools-expert-insight-for-2024/"><u>Navigating the Best Free SRT Translator Tools – Expert Insight for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premier-mic-choices-for-4k-cameras-and-clear-audio-capture-for-2024/"><u>Premier Mic Choices for 4K Cameras & Clear Audio Capture for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/streamlining-zoom-a-chromebook-guide-for-2024/"><u>Streamlining Zoom A Chromebook Guide for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uncover-the-power-of-stealthy-navigational-tools-in-windows-explorer-activation-and-usage-guide/"><u>Uncover the Power of Stealthy Navigational Tools in Windows Explorer: Activation and Usage Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-tecno-camon-20-premier-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Tecno Camon 20 Premier 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-dynamic-book-trailers-illustration/"><u>[Updated] In 2024, Dynamic Book Trailers Illustration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mirthmaker-join-and-start-your-humor-storytelling/"><u>[Updated] MirthMaker Join & Start Your Humor Storytelling</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-drone-enthusiasts-compendium-of-must-haves/"><u>[Updated] The Drone Enthusiast's Compendium of Must-Haves</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-free-graphic-websites-for-quality-vectors/"><u>2024 Approved Leading Free Graphic Websites for Quality Vectors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-sharpened-internet-video-views/"><u>2024 Approved Mastering the Art of Sharpened Internet Video Views</u></a></li>
+<li><a href="https://article-tips.techidaily.com/best-4k-pads-for-ultimate-gameplay-for-2024/"><u>Best 4K Pads for Ultimate Gameplay for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/boost-your-windows-efficiency-quickly-with-essential-strategies-from-yl-software-experts/"><u>Boost Your Windows Efficiency Quickly with Essential Strategies From YL Software Experts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-screencapture-101-with-springs-latest-release/"><u>In 2024, ScreenCapture 101 with Spring's Latest Release</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-selecting-the-perfect-screen-ultrawide-or-uhd-4k/"><u>In 2024, Selecting the Perfect Screen UltraWide or UHD 4K?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-snapseed-simplified-the-photographers-first-toolkit/"><u>In 2024, Snapseed Simplified The Photographer's First Toolkit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-stop-personalized-recommendations-for-podcasts-on-spotify/"><u>In 2024, Stop Personalized Recommendations for Podcasts on Spotify</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-metaverse-your-guide-to-these-7-essential-gadgets-for-2024/"><u>Mastering the Metaverse Your Guide to These 7 Essential Gadgets for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-wireless-keyboard-on-windows/"><u>Troubleshooting Guide: Fixing a Nonfunctional Wireless Keyboard on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-meizu-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Meizu Device</u></a></li>
+<li><a href="https://facebook.techidaily.com/unpacking-the-decision-meta-deals-with-e2e-encryption-implementation-date/"><u>Unpacking the Decision: Meta Deals with E2E Encryption Implementation Date</u></a></li>
 </ul></div>
 
