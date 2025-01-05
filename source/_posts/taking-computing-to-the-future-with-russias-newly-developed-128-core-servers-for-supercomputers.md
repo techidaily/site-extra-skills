@@ -1,7 +1,7 @@
 ---
 title: Taking Computing to the Future with Russia's Newly Developed 128-Core Servers for Supercomputers
-date: 2024-12-25T17:30:21.394Z
-updated: 2024-12-26T17:37:02.184Z
+date: 2025-01-03T05:26:28.159Z
+updated: 2025-01-04T20:18:03.794Z
 tags:
   - desktop
 categories:
@@ -46,24 +46,28 @@ Pick up a powerful new gaming or productivity desktop from Lenovo with a tasty d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-how-to-create-a-3d-text-art-effect-in-adobe-illustrator-for-2024/"><u>[New] How to Create a 3D Text Art Effect in Adobe Illustrator for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-enhancing-user-experience-combining-instagram-and-facebook/"><u>[New] In 2024, Enhancing User Experience Combining Instagram & Facebook</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-live-sound-excellence-unveiled-our-top-picks-for-streaming-quality/"><u>[New] Live Sound Excellence Unveiled Our Top Picks for Streaming Quality</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-fcp-freedom/"><u>[New] Mastering the Art of FCP Freedom</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-optimizing-stream-rates-on-netflix/"><u>[New] Optimizing Stream Rates on Netflix</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-radiant-realms-creating-exceptional-hdr-with-photoshop/"><u>[New] Radiant Realms Creating Exceptional HDR with Photoshop</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-quick-adjustment-invert-playback-on-vlc-interface-for-2024/"><u>[Updated] Quick Adjustment Invert Playback on VLC Interface for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-skyward-file-fortresses-identifying-top-cloud-titans/"><u>[Updated] Skyward File Fortresses Identifying Top Cloud Titans</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigate-motion-sickness-in-virtual-reality-with-ease/"><u>2024 Approved Navigate Motion Sickness in Virtual Reality with Ease</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-level-iphone-photo-techniques-identifying-ideal-perspectives/"><u>2024 Approved Pro-Level iPhone Photo Techniques Identifying Ideal Perspectives</u></a></li>
-<li><a href="https://article-files.techidaily.com/digital-sound-capturing-101-your-path-to-proficiency-for-2024/"><u>Digital Sound Capturing 101 Your Path to Proficiency for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-novice-to-pro-navigating-mondly-proficiently/"><u>From Novice to Pro: Navigating Mondly Proficiently</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfecting-subtitles-in-media-ultimate-list-of-on-line-aid-sources-for-2024/"><u>Perfecting Subtitles in Media Ultimate List of On-Line Aid Sources for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pioneering-podcast-production-writing-and-examples-guide-for-2024/"><u>Pioneering Podcast Production Writing & Examples Guide for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-tecno-camon-30-pro-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Tecno Camon 30 Pro 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastery-guide-downloading-windows-movie-maker-6-for-2024/"><u>[New] Mastery Guide Downloading Windows Movie Maker 6 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-outperforming-the-gear-360-best-cameras-of-the-year-reviewed/"><u>[New] Outperforming the Gear 360 Best Cameras of the Year Reviewed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-guide-to-androids-best-multiparty-calls-for-2024/"><u>[New] The Ultimate Guide to Android's Best Multiparty Calls for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-dxgkrnlsys-blue-screen-of-death-on-windows/"><u>[Solved] dxgkrnl.sys Blue Screen of Death on Windows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-perfect-your-video-calls-essential-10-free-recording-solutions-for-slack/"><u>[Updated] In 2024, Perfect Your Video Calls Essential 10 Free Recording Solutions for Slack</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-make-your-own-meme/"><u>[Updated] Make Your Own Meme</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximize-creativity-with-top-10-cost-free-photo-editors-online/"><u>[Updated] Maximize Creativity with Top 10 Cost-Free Photo Editors Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pilots-toolkit-top-drones-must-have-gear-and-replacements/"><u>[Updated] Pilot's Toolkit Top Drones Must-Have Gear and Replacements</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-no-pay-no-problem-get-your-free-passport-photo-creator-now-online-and-on-desktop/"><u>2024 Approved No Pay, No Problem Get Your Free Passport Photo Creator Now Online & On Desktop</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-image-changing-solutions-clipsmorph-elite/"><u>2024 Approved Premier Image Changing Solutions ClipsMorph Elite</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieve-peak-meeting-performance-a-detailed-zoom-guide/"><u>Achieve Peak Meeting Performance A Detailed Zoom Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-photos-from-moving-frames-on-windows-11/"><u>Capturing Photos From Moving Frames on Windows 11</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/guide-ultime-copier-en-toute-securite-votre-ssd-vers-une-autre-version-sur-windows-lken-uniz-leit-sans-aucune-perte-dinformations/"><u>Guide Ultime : Copier en Toute Sécurité Votre SSD Vers Une Autre Version Sur Windows ˈlɪkʷen ٪Uːniz Leit - Sans Aucune Perte D'informations</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-6s-plus-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 6s Plus without Apple ID?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-hdr-capturing-dynamic-range-in-your-images/"><u>In 2024, IPhone HDR Capturing Dynamic Range in Your Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-top-10-lightroom-alternatives-free-and-paid-filmora/"><u>In 2024, Top 10 Lightroom Alternatives [Free & Paid] | Filmora</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximize-visual-impact-the-perfect-blend-of-windows-11-photos-and-storyremix-for-2024/"><u>Maximize Visual Impact The Perfect Blend of Windows 11, Photos and StoryRemix for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simplifying-the-complexity-of-artificial-intelligence-for-everyone/"><u>Simplifying the Complexity of Artificial Intelligence for Everyone</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-rectify-error-code-0x00000709/"><u>Tips to Rectify Error Code 0X00000709</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

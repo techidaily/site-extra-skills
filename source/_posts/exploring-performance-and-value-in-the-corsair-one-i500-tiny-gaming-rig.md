@@ -1,7 +1,7 @@
 ---
 title: Exploring Performance & Value in the Corsair One I500 Tiny Gaming Rig
-date: 2024-12-20T19:06:42.478Z
-updated: 2024-12-26T17:45:12.867Z
+date: 2025-01-02T01:16:36.692Z
+updated: 2025-01-04T22:26:07.361Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,15 +89,22 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unleash-clarity-in-depth-tutorial-on-video-enhancer-22/"><u>[New] 2024 Approved Unleash Clarity In-Depth Tutorial on Video Enhancer 2.2</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-a-leap-forward-in-exposure-management-and-composition/"><u>[New] A Leap Forward in Exposure Management and Composition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-sierras-icloud-full-desktop-and-document-liberation/"><u>[New] Sierra’s iCloud Full Desktop and Document Liberation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-newcomer-to-pro-a-step-by-step-creator-hub-guidebook/"><u>[Updated] From Newcomer to Pro A Step-by-Step Creator Hub Guidebook</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pioneering-websites-for-modern-letterforms/"><u>2024 Approved Pioneering Websites for Modern Letterforms</u></a></li>
-<li><a href="https://solve-info.techidaily.com/abbyy-launches-innovative-intelligent-automation-engineering-hub-in-lithuania/"><u>ABBYY Launches Innovative Intelligent Automation Engineering Hub in Lithuania</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-a15-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy A15 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-shining-spotlight-on-luminous-hdr-techniques/"><u>In 2024, Shining Spotlight on Luminous HDR Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-strategies-for-splendid-colors-in-gopro-videos/"><u>In 2024, Step-by-Step Strategies for Splendid Colors in GoPro Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamlining-entertainment-choices-with-chatgpts-recommendations/"><u>Streamlining Entertainment Choices with ChatGPT's Recommendations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-build-your-mark-affordable-logo-creation-with-tailored-templates/"><u>[New] Build Your Mark Affordable Logo Creation with Tailored Templates</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-introducing-effortless-age-correction-in-profiles/"><u>[New] Introducing Effortless Age Correction in Profiles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-ps5xbox-series-x-game-screens-the-ultimate-guide/"><u>[New] PS5/Xbox Series X Game Screens The Ultimate Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-screen-recording-made-simple-5-essential-strategies-for-minecraft-mac-for-2024/"><u>[New] Screen Recording Made Simple 5 Essential Strategies for Minecraft (Mac) for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-assembling-impactful-insta-colleagues/"><u>[New] Step-by-Step Assembling Impactful Insta Colleagues</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tep-by-step-emojis-in-youtube-comments-for-2024/"><u>[New] Step-by-Step Emojis in YouTube Comments for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leap-into-efficiency-with-quick-srt-to-txt-2023-guide/"><u>[Updated] Leap Into Efficiency with Quick SRT to TXT 2023 Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-best-0-image-editing-tools-on-smartphones-today/"><u>2024 Approved Explore the Best $0 Image Editing Tools on Smartphones Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-list-high-end-ios-tune-creators/"><u>2024 Approved Premium List High-End iOS Tune Creators</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-review-the-ultimate-guide-to-twelve-souths-bookbook-v2-case-for-your-macbook/"><u>Expert Review: The Ultimate Guide to Twelve South's BookBook V2 Case for Your MacBook</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-gt-5-240w-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme GT 5 (240W)? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-itel-p55-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Itel P55 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from iPhone SE (2022)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-characters-made-simple-easy-avatar-crafting-tips/"><u>In 2024, Metaverse Characters Made Simple Easy Avatar Crafting Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-display-youtubes-zoom-mastery/"><u>In 2024, Optimizing Display YouTube's Zoom Mastery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-method-integrating-links-into-tiktok-bios-for-2024/"><u>Optimal Method Integrating Links Into TikTok Bios for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcome-skype-woes-expert-tips-for-uninterrupted-video-chats/"><u>Overcome Skype Woes: Expert Tips for Uninterrupted Video Chats</u></a></li>
 </ul></div>
 

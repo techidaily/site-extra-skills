@@ -1,7 +1,7 @@
 ---
 title: Guide to Diagnosing and Correcting 'Unknown' Speaker Setup on Windows 11 Systems
-date: 2024-12-22T19:00:10.603Z
-updated: 2024-12-26T16:51:23.543Z
+date: 2025-01-01T03:49:17.153Z
+updated: 2025-01-05T04:26:21.902Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Read on and follow the easy-doing images below!
 2. [**Option 2: Change Sound Enhancement Settings**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Option 3: Change Speaker Settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Try the generic audio driver
 
  Sound keeps cutting out on Windows 10 could relate to problematic audio driver. To see if this is the case, you can try the generic sound driver provided by Windows and see if it works. To do so:
@@ -41,19 +45,15 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the generic audio driver doesn’t work to fix the sound cutting out issue, it’s possible that you have a corrupted or outdated sound card driver, so you should update the driver to see if it helps. If you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -69,10 +69,6 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If your computer sound still keeps cutting out, please move on to the next option.
@@ -86,18 +82,30 @@ Read on and follow the easy-doing images below!
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Try your computer sound again to see if it still cuts out. If so, please move on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 3: Change Speaker Settings
 
@@ -110,25 +118,17 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -153,24 +153,22 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-10-memetic-engineering-techniques-for-2024/"><u>[New] 10 Memetic Engineering Techniques for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mechanized-sky-dwellers-classes/"><u>[New] Mechanized Sky-Dwellers' Classes</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-memorable-book-trailers-explored/"><u>[New] Memorable Book Trailers Explored</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-recording-victory-techniques-to-transform-live-games-into-video-gold-for-2024/"><u>[New] Recording Victory Techniques to Transform Live Games Into Video Gold for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-stop-the-sway-achieve-solidity-in-your-handhraned-gopro-video/"><u>[New] Stop The Sway Achieve Solidity in Your Handhraned GoPro Video</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-integrating-extra-footage-crafting-engaging-visual-narratives/"><u>[Updated] Integrating Extra Footage Crafting Engaging Visual Narratives</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-venues-for-vr-entertainment/"><u>[Updated] Prime Venues for VR Entertainment</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-journey-to-metaverse-leading-vr-headsets-reviewed/"><u>2024 Approved Journey to Metaverse Leading VR Headsets Reviewed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-laying-the-groundwork-for-av1-understanding/"><u>2024 Approved Laying The Groundwork for AV1 Understanding</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/boost-your-instagram-presence-optimal-tracking-tools-revealed/"><u>Boost Your Instagram Presence Optimal Tracking Tools Revealed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discovering-if-theyve-seen-it-the-guide-to-knowing-when-your-messages-are-read/"><u>Discovering If They've Seen It: The Guide to Knowing When Your Messages Are Read</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/how-to-make-an-adorable-video-for-your-babys-first-year/"><u>How to Make an Adorable Video for Your Babys First Year</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-reno-10-pro-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo Reno 10 Pro 5G Device</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-old-tech-new-memories-portraits-from-iphone-x/"><u>In 2024, Old Tech, New Memories Portraits From iPhone X</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pinterest-content-powered-free-high-speed-download-apps-reviewed/"><u>In 2024, Pinterest Content Powered Free, High-Speed Download Apps Reviewed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-simple-win-steps-for-fishy-sounds-alteration/"><u>In 2024, Simple Win Steps for Fishy Sounds Alteration</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-step-by-step-methodology-assembling-youtube-playlists/"><u>In 2024, Step-by-Step Methodology Assembling YouTube Playlists</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/region-unlocking-dvds-on-windows-1187-free-conversion-methods-explored/"><u>Region Unlocking DVDs on Windows 11/8/7: Free Conversion Methods Explored</u></a></li>
-<li><a href="https://video-capture.techidaily.com/superior-screen-reporter-optimal-chromebook-choice/"><u>Superior Screen Reporter Optimal Chromebook Choice</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-demystifying-the-purpose-what-is-a-blue-image-on-facebook/"><u>[New] In 2024, Demystifying the Purpose What Is a Blue Image on Facebook?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-key-principles-for-powerful-video-testimonial-production/"><u>2024 Approved Key Principles for Powerful Video Testimonial Production</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lumafusion-tips-for-subtle-sound-reduction/"><u>2024 Approved Lumafusion Tips for Subtle Sound Reduction</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-multi-lens-modifiers-for-creative-video-effects/"><u>2024 Approved Multi-Lens Modifiers for Creative Video Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-syncing-images-android-iphone-file-transfer-guide/"><u>2024 Approved Syncing Images Android-iPhone File Transfer Guide</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/video-repair/"><u>Aiseesoft Video Repair</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/can-you-rely-on-windows-defender-for-effective-malware-and-cybersecurity-protection-insights-from-yl-computing-yl-software/"><u>Can You Rely on Windows Defender for Effective Malware and Cybersecurity Protection? Insights From YL Computing | YL Software</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-preview-off-facebook-activities-and-should-i-leave-it-on-check-it-out-here/"><u>In 2024, How to Preview Off-Facebook Activities and Should I Leave It On? Check It Out Here</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-monitor-mastery-a-complete-rundown-of-acquiring-an-eye-catching-4k-screen/"><u>In 2024, Monitor Mastery A Complete Rundown of Acquiring an Eye-Catching 4K Screen</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-audiospeed-editors-mobile-and-desktop-edition/"><u>In 2024, Premier Audiospeed Editors Mobile & Desktop Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-locations-for-youtube-content-exposure/"><u>In 2024, Prime Locations for YouTube Content Exposure</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-8-plus-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 8 Plus Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-and-value-in-a-nutshell-affordable-gaming-mothers/"><u>Quality and Value in a Nutshell: Affordable Gaming Mothers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sharpen-your-footage-the-essentials-of-video-enhance-22-for-2024/"><u>Sharpen Your Footage The Essentials of Video Enhance 2.2 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/speak-with-elegance-on-chrome-top-picks-for-web-based-voice-transformers-for-2024/"><u>Speak with Elegance on Chrome Top Picks for Web-Based Voice Transformers for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ming-wars-understanding-vimeo-and-youtubes-distinctions/"><u>Streaming Wars Understanding Vimeo and YouTube's Distinctions</u></a></li>
 </ul></div>
 

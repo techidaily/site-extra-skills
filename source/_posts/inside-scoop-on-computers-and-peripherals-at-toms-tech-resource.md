@@ -1,7 +1,7 @@
 ---
 title: Inside Scoop on Computers and Peripherals at Tom's Tech Resource
-date: 2024-12-20T20:04:58.288Z
-updated: 2024-12-26T20:41:36.154Z
+date: 2025-01-02T18:59:22.120Z
+updated: 2025-01-04T20:14:10.590Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,22 +68,16 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitterscape-archive-the-ultimate-compiler-and-preserver-of-tweets-in-frames/"><u>[New] 2024 Approved Twitterscape Archive The Ultimate Compiler & Preserver of Tweets in Frames</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-elevate-your-online-presence-mastering-youtube-edits-in-premiere/"><u>[New] In 2024, Elevate Your Online Presence Mastering YouTube Edits in Premiere</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-gopro-essentials-of-time-lapse-photography/"><u>[New] Mastering GoPro Essentials of Time-Lapse Photography</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/1716070237377-updated-2024-approved-capture-and-store-screen-content-free/"><u>[Updated] 2024 Approved Capture and Store Screen Content, FREE!</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-behind-the-scenes-the-genesis-of-a-mukbang-video/"><u>[Updated] In 2024, Behind the Scenes The Genesis of a Mukbang Video</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-nostalgic-narratives-capturing-moments-with-xiphone/"><u>[Updated] Nostalgic Narratives Capturing Moments with XiPhone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pixel-perfection-in-image-integration/"><u>[Updated] Pixel Perfection in Image Integration</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-stepwise-guide-to-leveraging-pip-feature-on-microsoft-edge/"><u>[Updated] Stepwise Guide to Leveraging PIP Feature on Microsoft Edge</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-initial-steps-to-professional-motion-graphics/"><u>2024 Approved Initial Steps to Professional Motion Graphics</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-10-proplus-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 10 Pro+ 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor Magic 5? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-masterpiece-collaborations-a-list-of-top-photo-and-video-making-maestros-with-music/"><u>In 2024, Masterpiece Collaborations A List of Top Photo & Video Making Maestros with Music</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone XS Max</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-rgb-vs-srgb-color-representations-compared/"><u>In 2024, RGB vs Srgb Color Representations Compared</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-safaris-picture-in-picture-feature-usage-guide/"><u>In 2024, Safari's Picture-in-Picture Feature Usage Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-seo-enhanced-title-builder-for-peak-video-visibility/"><u>In 2024, SEO-Enhanced Title Builder for Peak Video Visibility</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-crashes-in-samurai-warriors-5-on-pc-optimizing-performance-and-fixes/"><u>No More Crashes in Samurai Warriors 5 on PC - Optimizing Performance and Fixes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-pro-tips-for-productive-dialogues-on-google-meet/"><u>[New] Pro Tips for Productive Dialogues on Google Meet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-reach-and-recognition-viewership-metrics-for-insta-photos-for-2024/"><u>[Updated] Reach and Recognition Viewership Metrics for Insta Photos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-quick-conversions-best-free-tools-transforming-gif/"><u>2024 Approved Seamless, Quick Conversions Best Free Tools Transforming GIF</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-motorola-moto-g13-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Motorola Moto G13 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pinnacle-headlines-engineer/"><u>In 2024, Pinnacle Headlines Engineer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/megasecond-analysis-understanding-20mb-video-time-for-2024/"><u>MegaSecond Analysis Understanding 20Mb Video Time for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/panzoid-leaders-choice-best-newcomer-lists-for-2024/"><u>Panzoid Leaders' Choice Best Newcomer Lists for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-mastering-the-art-of-adding-image-watermarks-to-videos/"><u>Quick Guide: Mastering the Art of Adding Image Watermarks to Videos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-effortless-video-editing-a-step-by-step-guide-to-gopro-quik-on-macbook/"><u>Updated In 2024, Effortless Video Editing A Step-by-Step Guide to GoPro Quik on MacBook</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-you-need-caution-with-ai-the-6-critical-risks/"><u>Why You Need Caution with AI: The 6 Critical Risks</u></a></li>
 </ul></div>
 

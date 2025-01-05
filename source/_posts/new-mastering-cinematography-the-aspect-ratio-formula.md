@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Cinematography  The Aspect Ratio Formula\""
-date: 2024-12-14T03:57:51.023Z
-updated: 2024-12-18T04:10:09.809Z
+date: 2025-01-03T16:30:31.075Z
+updated: 2025-01-05T04:22:40.755Z
 tags: 
   - screen-recording
   - ai video
@@ -24,17 +24,33 @@ If you want to learn more about video aspect ratios, how to apply them to differ
 
 With that said, let's dive right into it!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. What is a video aspect ratio?
 
 Aspect ratio is a digital image projection attribute describing the distance between the width and the height of an image. The dimensions are also defined as shapes such as a square which is 4:3\. A rectangle represents the 16:9 standard high definition aspect ratio, and inverted what you see on phones, that will be 9:16\. 9 refers to the width and 16 to the height.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Commonly used aspect ratios
 
 There is no same aspect ratio that is used across all social media platforms. Depending on which social media platform you are planning to upload, you have to make sure you have the correct aspect ratio for your target audience. The optimal viewing experience is what matters.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 16:9 Widescreen
 
 This aspect ratio is recognized as the worldwide reference format for film, mobile devides, DSLR cameras, streaming platforms, social media platforms, and many more. It is known as landscape viewing which include 720p, 1080p HD and 4K resolution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4:3 Standard
 
@@ -44,6 +60,10 @@ This resolution is originally used in older television screens, which transforme
 
 The 9:16 aspect ratio has become the mainstream resolution for smartphones for easier viewing of videos. This resolution allows for the vertical display of videos on tablets and phones, meaning that it allows videos to play while the device is being held in its upright position. This works ideally for Facebook, Instagram, Snapchat, YouTube Shorts, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 21:9 Cinematic Widescreen
 
 The 21:9 resolution is designed for filming ultra-wide screen movies that gives the viewer a theater-like feeling. It's mostly used to display films and movies in anamorphic formats. Just like on ultra-wide monitors, it allows the video to be shown across the entire screen, giving you a cinema-like experience. This resolution contributes to a broader viewing experience in any shape or form.
@@ -51,10 +71,6 @@ The 21:9 resolution is designed for filming ultra-wide screen movies that gives 
 ## 3\. Which aspect ratio should I choose?
 
 Depending on your project, broadcast location and filming options, here you can find an overview of which platforms are using which resolutions and how you can use that to improve your filming and viewer experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Facebook
 
@@ -98,10 +114,6 @@ When talking about Instagram, which is very similar to Facebook, use these aspec
 
 9:16 for IGTV
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### TikTok
 
 Before Musical.ly users were migrated to a new platform called TikTok in 2018, it has been the leader on the board for a long time, and here are the recommended resolutions we think give the best results. Tik Tok allows you to share short videos, and is used by young people as an outlet to show their talents whether it's dancing, singing, cooking, comedy or any other form of entertainment they can express and use on the platform. There's also a feature to work together and collaborate with other Tik Tok creators across the globe.
@@ -116,25 +128,13 @@ Before Musical.ly users were migrated to a new platform called TikTok in 2018, i
 
 A very important point we'd like to mention is that we don't recommend changing the aspect ratio after filming, because it could harm the video quality and we think it's best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Black bars
 
 When editing your video, adding black bars is not changing the aspect ratio as you are just adding black bars to the screen. What we do recommend is cropping the video until you get the desired result. Adding black bars won't automatically make the platform adjust the video and it will affect the viewer experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Cropping
 
 Cropping your video will allow you to remove a section from your video, which works perfect for unwanted objects or people. While cropping the video, you are forced to pick the essential part of your video and disregard the rest of the video and to remove distraction from the frame.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -172,18 +172,22 @@ Having your video tested on multiple devices will allow you to see a preview of 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-rich-archive-of-cost-effective-superior-vector-graphics-websites/"><u>[New] Rich Archive of Cost-Effective, Superior Vector Graphics Websites</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-endless-viewing-with-iphone-writes-of-video-for-2024/"><u>[Updated] Endless Viewing with iPhone' Writes of Video for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-game-series-parallels-not-gta-v-edition/"><u>[Updated] In 2024, Ultimate Game Series Parallels - Not GTA V Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-insiders-guide-maximizing-windows-11-efficiency/"><u>2024 Approved Insider's Guide Maximizing Windows 11 Efficiency</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-apples-digital-content-submission/"><u>2024 Approved Mastering the Art of Apple's Digital Content Submission</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-optimizing-testimonial-creation/"><u>2024 Approved Mastering the Art Optimizing Testimonial Creation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-image-safekeepers-online/"><u>2024 Approved Prime Image Safekeepers Online</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/compact-cameras-for-mobile-cinematography/"><u>Compact Cameras for Mobile Cinematography</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-text-showcase-in-windows-11-resourceerror/"><u>Correcting Text Showcase in Windows 11 ResourceError</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/cyberpunk-2077-initialization-problems-a-complete-guide-to-fixes/"><u>Cyberpunk #2077 Initialization Problems: A Complete Guide to Fixes</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016417544-turtle-beach-recon-70-headset-mic-issue-heres-how-to-repair-it/"><u>Turtle Beach Recon 70 Headset Mic Issue? Here's How to Repair It!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-demystifying-av1-encoding-basics/"><u>[New] 2024 Approved Demystifying AV1 Encoding Basics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pinnacle-story-planning-website/"><u>[New] Pinnacle Story Planning Website</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlock-insta-reels-potential-with-proven-tiktok-methods-for-2024/"><u>[New] Unlock Insta Reels' Potential with Proven TikTok Methods for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-instagram-image-enhancement-tips/"><u>[Updated] In 2024, Instagram Image Enhancement Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-saying-thanks-access-to-otu-creations-freepaid/"><u>[Updated] Saying Thanks Access to OTU Creations (Free/Paid)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-toggle-picture-in-picture-feature-for-youtube-app/"><u>[Updated] Toggle Picture-in-Picture Feature for Youtube App</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-y27s-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo Y27s</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-prompt-engineering-techniques-and-their-career-resilience/"><u>Exploring Prompt Engineering Techniques and Their Career Resilience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-honor-80-pro-straight-screen-edition-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Honor 80 Pro Straight Screen Edition Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-lyrical-launchpads-discover-10-top-music-for-podcasts/"><u>In 2024, Lyrical Launchpads Discover 10 Top Music for Podcasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-zoomed-details-for-team-collaboration-on-ms-teams/"><u>In 2024, Navigating Zoomed Details for Team Collaboration on MS Teams</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-high-quality-image-browser/"><u>In 2024, Optimal High-Quality Image Browser</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/innovative-design-unveiled-echo-dot-4th-generation-analysis/"><u>Innovative Design Unveiled: Echo Dot 4Th Generation Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/jumpstart-your-meme-odyssey-humor-in-the-virtual-cosmos-for-2024/"><u>Jumpstart Your Meme Odyssey - Humor in the Virtual Cosmos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/make-quick-cash-on-reddit-with-these-no-experience-techniques-for-2024/"><u>Make Quick Cash on Reddit with These No Experience Techniques for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-desktop-systems-for-quality-use-for-2024/"><u>Prime Desktop Systems for Quality Use for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-for-troubleshooting-failed-device-creations-in-directx/"><u>Solution Guide for Troubleshooting Failed Device Creations in DirectX</u></a></li>
 </ul></div>
 

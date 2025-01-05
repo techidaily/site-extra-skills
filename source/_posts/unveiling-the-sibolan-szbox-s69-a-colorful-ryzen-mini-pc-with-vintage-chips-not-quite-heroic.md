@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Sibolan SZBox S69: A Colorful Ryzen Mini PC with Vintage Chips, Not Quite Heroic"
-date: 2024-12-19T17:09:42.198Z
-updated: 2024-12-26T17:16:59.032Z
+date: 2024-12-28T23:01:11.850Z
+updated: 2025-01-04T23:12:37.641Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
  The case itself looks like a conventional carrying case. The outer shell appears to be hard plastic, with metal supporting rails filling the lips of the case. The case features two latching mechanisms and a mechanism to attach a lock for[security](https://www.tomshardware.com/tag/security) . You can transport the travel case by rolling it on its two wheels or with another handle that allows you to carry it like a briefcase.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -58,22 +58,19 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-balancing-acts-reducing-shakiness-for-better-gopro-vids/"><u>[New] Balancing Acts Reducing Shakiness for Better GoPro Vids</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-blur-the-video-background-in-a-microsoft-teams-meeting/"><u>[New] How to Blur the Video Background in a Microsoft Teams Meeting?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-remove-unsolicited-podcast-episodes-on-spotify-app/"><u>[Updated] In 2024, Remove Unsolicited Podcast Episodes on Spotify App</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-metaverse-muse-a-reflective-collection-of-thoughts-arvr/"><u>[Updated] Metaverse Muse A Reflective Collection of Thoughts [AR/VR]</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-snapchats-new-spotlight-functionality/"><u>[Updated] Navigating Snapchat's New Spotlight Functionality</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-outstanding-20-anime-opening-melodies/"><u>[Updated] Outstanding 20 Anime Opening Melodies</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-smile-inducing-shots-on-iphones/"><u>[Updated] Smile-Inducing Shots on IPhones</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-ultimate-guide-to-podcast-names-plus-50plus-podcast-name-ideas/"><u>[Updated] Ultimate Guide to Podcast Names (Plus 50+ Podcast Name Ideas)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-top-10-impressive-srt-converters-for-mac-and-windows/"><u>2024 Approved Top 10 Impressive SRT Converters for Mac and Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-online-resources-for-finding-an-apartment/"><u>Discover the Best Online Resources for Finding an Apartment</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-merging-and-editing-footage-on-iphone/"><u>In 2024, Merging and Editing Footage on iPhone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-12-pro-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone 12 Pro? 5 Tips You Must Know</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-poco-x5-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Poco X5 Pro Device</u></a></li>
-<li><a href="https://network-issues.techidaily.com/installation-success-story-no-hurdles-for-nvidia/"><u>Installation Success Story: No Hurdles for NVIDIA</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/maximum-capacity-choices-ultimate-cloud-service-list-for-2024/"><u>Maximum Capacity Choices Ultimate Cloud Service List for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/nextv-networks-worldwide-streaming-with-your-locals-for-2024/"><u>NexTV Networks Worldwide Streaming With Your Locals for 2024</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/the-ultimate-guide-to-free-mov-file-editors-maximizing-your-editing-potential/"><u>The Ultimate Guide to FREE MOV File Editors : Maximizing Your Editing Potential</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-top-8-drawing-apps-for-ipados/"><u>[New] 2024 Approved Top 8 Drawing Apps for iPadOS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-fast-track-fun-turning-animated-art-into-sticky-messages-quickly/"><u>[New] In 2024, Fast Track Fun Turning Animated Art Into Sticky Messages Quickly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-recording-titans-collide/"><u>[New] In 2024, Recording Titans Collide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-use-of-look-up-tables-in-photoshop-cc/"><u>[New] Navigating the Use of Look-Up Tables in Photoshop CC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-harnessing-adobe-curves-to-shape-your-images/"><u>2024 Approved Harnessing Adobe Curves to Shape Your Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-minimal-effort-maximum-recovery-for-deleted-posts/"><u>2024 Approved Minimal Effort, Maximum Recovery for Deleted Posts</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-engrossing-terminal-challenges-to-try-today/"><u>7 Engrossing Terminal Challenges to Try Today</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-users-guide-to-picture-softening-four-ways/"><u>In 2024, IPhone Users' Guide to Picture Softening (Four Ways)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-art-of-video-editing-with-top-10-fcp-tools/"><u>In 2024, Master the Art of Video Editing with Top 10 FCP Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-huawei-p60-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Huawei P60 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/precise-color-correction-mastery-in-gopro-studio-for-2024/"><u>Precise Color Correction Mastery in GoPro Studio for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-improving-visibility-of-windows-1011s-search-results/"><u>Strategies for Improving Visibility of Windows 10/11'S Search Results</u></a></li>
 </ul></div>
 

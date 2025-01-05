@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Seamless Integration  Combining B-Roll and Main Scenes\""
-date: 2024-12-13T16:47:12.631Z
-updated: 2024-12-17T22:10:38.046Z
+date: 2024-12-29T00:14:46.055Z
+updated: 2025-01-05T01:13:09.265Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 Now that we know that, let's dive in!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. B roll In TV And Movies
@@ -45,7 +45,7 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. What types of b roll are there?
@@ -56,6 +56,10 @@ We'll examine the top 5 uses for B rolls across a variety of video genres and di
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
@@ -63,10 +67,6 @@ Including archival material in your video allows your audience to experience a p
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Undirected b roll footage
 
@@ -79,7 +79,7 @@ When you are sharing a narrative that has been told in the past or that has hist
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Pick-up shots
@@ -88,13 +88,13 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -130,22 +130,22 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-instant-insight-into-once-lost-reddit-topics/"><u>[New] Instant Insight Into Once Lost Reddit Topics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-stills-extraction-in-windows-11-photos/"><u>[New] Mastering Stills Extraction in Windows 11 Photos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-quicken-or-slow-down-netflix-content/"><u>[New] Quicken or Slow Down Netflix Content</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-art-of-crafting-content-for-snapchat-professionals/"><u>[New] The Art of Crafting Content for Snapchat Professionals</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-elite-eight-polishing-pictures-through-premium-grid-makers/"><u>[Updated] Elite Eight Polishing Pictures Through Premium Grid Makers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-kinemasters-expert-strategies-for-video-transitions/"><u>2024 Approved Kinemaster's Expert Strategies for Video Transitions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-market-mastery-in-3-easy-steps-with-key-vocabulary/"><u>2024 Approved Market Mastery in 3 Easy Steps with Key Vocabulary</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-review-how-toolwiz-stacks-up-in-photo-app-landscape/"><u>2024 Approved Review How Toolwiz Stacks Up in Photo App Landscape</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/decoding-dogecoin-an-essential-overview-of-this-popular-cryptocurrency/"><u>Decoding Dogecoin: An Essential Overview of This Popular Cryptocurrency</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-restart-steam-3-different-ways/"><u>How to Restart Steam: 3 Different Ways</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-import-music-to-inshot-app/"><u>In 2024, How to Import Music to Inshot App?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mirthful-stream-retriever-review/"><u>In 2024, Mirthful Stream Retriever Review</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-subtitle-extraction-from-zip-archives-the-srt-solution/"><u>In 2024, Subtitle Extraction From ZIP Archives – The Srt Solution</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-7-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 7</u></a></li>
-<li><a href="https://games-able.techidaily.com/interactive-controls-the-role-of-buttons-in-mobile-gaming/"><u>Interactive Controls: The Role of Buttons in Mobile Gaming</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quieting-down-the-sound-a-step-by-step-logic-pro-method-for-2024/"><u>Quieting Down the Sound A Step-by-Step Logic Pro Method for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-infinix-gt-10-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Infinix GT 10 Pro Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-upside-down-and-sideways-iphone-photo-rotation/"><u>[New] Master Upside-Down and Sideways iPhone Photo Rotation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-mobile-tools-for-dji-footage-enhancement/"><u>[New] Premier Mobile Tools for DJi Footage Enhancement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-tips-embedding-moving-images-in-written-content-for-2024/"><u>[Updated] Free Tips Embedding Moving Images in Written Content for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximize-profits-the-top-13-no-experience-reddit-hacks/"><u>[Updated] Maximize Profits The Top 13 No-Experience Reddit Hacks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expertise-in-the-field-a-complete-guide-to-srt-files/"><u>Expertise in the Field A Complete Guide to SRT Files</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-update-intel-hd-graphics-5500-driver/"><u>How to Download & Update Intel HD Graphics 5500 Driver</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-zte-axon-40-lite-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead ZTE Axon 40 Lite Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-iphone-cams-with-these-hacks/"><u>In 2024, Master iPhone Cams with These Hacks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photo-mosaics-unveiled-a-journey-to-brighter-spaces/"><u>In 2024, Photo Mosaics Unveiled A Journey to Brighter Spaces</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pinpointing-best-launch-dates-for-podcasts/"><u>In 2024, Pinpointing Best Launch Dates for Podcasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/les-meilleurs-lecteurs-de-videos-wmv-pour-votre-appareil-comparaison-entre-macos-windows-10-android-and-ios/"><u>Les Meilleurs Lecteurs De Vidéos WMV Pour Votre Appareil : Comparaison Entre macOS, Windows 10, Android & iOS</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mastering-zoom-for-fb-live-broadcasts-for-2024/"><u>Mastering Zoom for FB Live Broadcasts for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reviewing-the-newest-2023-samsung-bd-j5900-model-for-2024/"><u>Reviewing the Newest 2023 Samsung BD-J5900 Model for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-sharing-photos-on-youtube-for-2024/"><u>Step-by-Step Sharing Photos on YouTube for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-15-plus-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 15 Plus Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-excel-superiority-tasks-it-executes-better-than-chatgpt/"><u>Unlocking Excel Superiority: Tasks It Executes Better Than ChatGPT</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-y100-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo Y100 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
 

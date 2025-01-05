@@ -1,7 +1,7 @@
 ---
 title: "[IRQL_FIXED] Windows BSOD - Equal Issue"
-date: 2024-12-20T17:07:37.384Z
-updated: 2024-12-26T16:32:50.247Z
+date: 2024-12-29T18:39:57.695Z
+updated: 2025-01-04T20:45:12.293Z
 tags:
   - win11
   - win10
@@ -42,21 +42,25 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13ff597e883.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to one device to automatically download and install the correct version of their driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13ff597e883.png)
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 2: Uninstall problem drivers to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
 
  The problem can be caused by faulty drivers. To fix the problem, go to**Device Manager** and find the faulty drivers, then uninstall the drivers. If a driver is having problems, you’ll see a yellow mark next to its device (see the screenshot shown below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad8287f6daa6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Following steps are for your reference on how to uninstall a driver:
 
@@ -70,17 +74,9 @@ Following steps are for your reference on how to uninstall a driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13fe52a4642.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If prompted to confirm  the uninstall, check the box next to “Delete the driver software for this device.” then click the **OK**  button. If you don’t see this box, just click**OK** to uninstall the driver.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13feb35a43d.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Restart your PC and check to see if the blue screen is gone  .  
 
@@ -96,11 +92,19 @@ Following steps are for your reference on how to uninstall a driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13ffd6b0139.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click Next then you may see the following screen. Select a restore point created before the error occurred. You can tell from the created**Date and Time** . Click **Next** to continue and follow the on-screen instructions to finish the restore.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a14004645d52.png)
 
 4) Reboot your PC and check to see if the blue screen is gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution** 4: Reset or reinstall Windows
 
@@ -113,17 +117,13 @@ Following steps are for your reference on how to uninstall a driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -151,18 +151,16 @@ Following steps are for your reference on how to uninstall a driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-enhancing-media-speed-on-messenger-and-fb/"><u>[New] Enhancing Media Speed on Messenger & FB</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-creating-revenue-in-gamer-channels/"><u>[Updated] In 2024, Creating Revenue in Gamer Channels</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-launching-effective-charity-challenges-and-contests-online/"><u>[Updated] Launching Effective Charity Challenges and Contests Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimal-data-buffering-for-sony-a7s-ii/"><u>[Updated] Optimal Data Buffering for Sony A7S II</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1-apple-suspends-online-sales-of-apple-watch-series-9-and-ultra-service-disruptions-impacting-older-models-detailed-analysis-by-zdnet/"><u>1. Apple Suspends Online Sales of Apple Watch Series 9 & Ultra; Service Disruptions Impacting Older Models – Detailed Analysis by ZDNet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-world-of-srt-extensions-for-audible-enjoyment/"><u>2024 Approved Navigating the World of SRT Extensions for Audible Enjoyment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amds-ryzen-9-9950x-shatters-benchmarking-records-on-cinebench-r23-at-65ghz-a-new-era-of-processor-performance/"><u>AMD's Ryzen 9 9950X Shatters Benchmarking Records on Cinebench R23 at 6.5GHz: A New Era of Processor Performance</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209788226-9780593084212-cosmic-botany/"><u>Cosmic Botany | Free Book</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/guida-rapida-come-convertire-video-h2e64-a-h265-senza-compromettere-la-qualita-e-ridurre-le-dimensioni-dei-file/"><u>Guida Rapida: Come Convertire Video H.2e64 a H.265 Senza Compromettere La Qualità E Ridurre Le Dimensioni Dei File</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Oppo K11x? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-movement-advanced-transition-techniques-with-kinemaster/"><u>In 2024, Mastering Movement Advanced Transition Techniques with Kinemaster</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-moving-up-achieving-windows-11-success/"><u>In 2024, Moving Up Achieving Windows 11 Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastery-in-motion-an-in-depth-look-at-polarrs-toolset/"><u>[New] Mastery in Motion An In-Depth Look at Polarr’s Toolset</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-passport-self-portrait-maker-free-access-to-top-quality-images/"><u>[New] Passport Self-Portrait Maker – Free Access to Top Quality Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-year-in-review-how-vivacut-is-shaping-the-future-of-video-editing/"><u>[Updated] A Year In Review How VivaCut Is Shaping the Future of Video Editing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-an-in-depth-look-at-time-lapse-photography-using-ipad/"><u>2024 Approved An In-Depth Look at Time-Lapse Photography Using iPad</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-video-vibes-for-top-tier-unpacked-videos/"><u>2024 Approved Mastering Video Vibes for Top-Tier Unpacked Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prepping-for-progress-a-technological-lifesaver/"><u>2024 Approved Prepping for Progress A Technological Lifesaver</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-scope-of-chatgpts-directives/"><u>Exploring the Scope of ChatGPT's Directives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-whats-the-best-green-screen-app-for-mac-weve-got-the-answer-for-2024/"><u>New Whats the Best Green Screen App for Mac? Weve Got the Answer for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/peak-performance-sd-card-for-sony-a7s-series/"><u>Peak Performance SD Card for Sony A7S Series</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-locations-boosting-your-youtube-content-visibility-for-2024/"><u>Prime Locations Boosting Your YouTube Content Visibility for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-and-download-insignias-compatible-windows-driver-for-wireless-connections/"><u>Update and Download Insignia's Compatible Windows Driver for Wireless Connections</u></a></li>
 </ul></div>
 

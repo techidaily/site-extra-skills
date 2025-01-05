@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Solving Crash Problems in StarCraft II on Desktop Computers"
-date: 2024-12-19T21:07:52.093Z
-updated: 2024-12-26T16:36:33.184Z
+date: 2024-12-29T00:42:30.616Z
+updated: 2025-01-05T04:13:36.010Z
 tags:
   - win11
   - win10
@@ -60,17 +60,9 @@ thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b329730
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are CPU, memory, and network-hogging. Take Chrome here, for example, right-click it then click**End task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
 If this doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -84,13 +76,25 @@ If this doesn’t solve your problem, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If your game still crashes after you updated the graphics driver, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify your game files
 
@@ -124,6 +128,10 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -143,7 +151,7 @@ If this doesn’t solve your problem, try the next fix.
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
@@ -167,13 +175,21 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 4. Calculate and fill in the**Initial size and Maximum size** , click**Set** then click**OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If your game still crashes, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Keep your system up-to-date
 
@@ -184,10 +200,6 @@ If your game still crashes, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
@@ -195,10 +207,6 @@ If your game still crashes, try the next fix.
 4. Restart your PC to let it take effect.
 
 If this doesn’t solve your problem, try the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
 
@@ -213,11 +221,15 @@ If this doesn’t solve your problem, try the last fix.
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
@@ -225,10 +237,6 @@ If this doesn’t solve your problem, try the last fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If Naraka: Bladepoint doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
@@ -252,16 +260,8 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
@@ -294,18 +294,22 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/hanneling-musical-charm-crafting-custom-playlists-on-youtube-for-2024/"><u>[New] Channeling Musical Charm Crafting Custom Playlists on Youtube for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-industry-standards-selecting-prime-gear-for-ultimate-4k-results/"><u>[New] Industry Standards Selecting Prime Gear for Ultimate 4K Results</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mobile-panorama-tips-for-skyward-shots/"><u>[New] Mobile Panorama Tips for Skyward Shots</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-affordable-mcb-theme-images-for-channels-for-2024/"><u>[Updated] Affordable MCB Theme Images for Channels for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-insider-insights-unpacking-the-dji-phantom-3-pro-features/"><u>[Updated] Insider Insights Unpacking the DJI Phantom 3 Pro Features</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-macs-leading-5-mkv-playbackers/"><u>2024 Approved Mac's Leading 5 MKV Playbackers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-guide-to-add-personalized-soundfilters-on-windows-photos/"><u>2024 Approved Step-by-Step Guide to Add Personalized Sound/Filters on Windows Photos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/all-weather-action-cameras-ranking-top-7-summary-for-2024/"><u>All-Weather Action Cameras Ranking, Top 7 Summary for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-itel-s23plus-by-drfone-android/"><u>How to Bypass FRP from Itel S23+?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-sony-xperia-1-v-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Sony Xperia 1 V? </u></a></li>
-<li><a href="https://facebook.techidaily.com/privacy-in-focus-delete-facebook-tags-quickly/"><u>Privacy in Focus: Delete Facebook Tags Quickly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revamp-photos-essential-color-correction-steps-for-2024/"><u>Revamp Photos Essential Color Correction Steps for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-fashioning-small-homes-with-eastern-aesthetics/"><u>[New] 2024 Approved Fashioning Small Homes with Eastern Aesthetics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-intelligent-volume-modulation-strategies/"><u>[New] Intelligent Volume Modulation Strategies</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-winning-at-windows-11-image-tweaking-tricks/"><u>[New] Winning at Window's 11 Image Tweaking Tricks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bridging-the-gap-transitioning-youtube-to-televisions-smoothly/"><u>[Updated] 2024 Approved Bridging the Gap Transitioning YouTube to Televisions Smoothly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inside-the-arsenal-the-complete-review-of-sj-cam-s6/"><u>[Updated] Inside the Arsenal The Complete Review of SJ-CAM S6</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-overcoming-common-airdrop-failures-on-ios-and-macos-systems/"><u>[Updated] Overcoming Common Airdrop Failures on iOS and macOS Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-speed-up-srt-to-text-conversion-with-this-essential-guide/"><u>[Updated] Speed Up SRT to Text Conversion with This Essential Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-productivity-with-auditory-storytelling/"><u>2024 Approved Maximizing Productivity with Auditory Storytelling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-narrative-voice-with-windows-11-tools/"><u>Crafting Narrative Voice with Windows 11 Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/cut-down-your-computers-warmup-time-in-win11/"><u>Cut Down Your Computer's Warmup Time in Win11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-inversion-workshop/"><u>In 2024, Inversion Workshop</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photoshop-starter-kit-10-crucial-tips-to-know/"><u>In 2024, Photoshop Starter Kit 10 Crucial Tips to Know</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/max-360-vs-hero-11-discovering-the-gopro-video-champion-for-2024/"><u>Max 360 Vs. Hero 11 - Discovering the GoPro Video Champion for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/off-facebook-activity-analysis-and-secure-browsing-practices-for-2024/"><u>Off-Facebook Activity Analysis & Secure Browsing Practices for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unmatched-quality-the-premier-4k-mirrorless-choices-for-2024/"><u>Unmatched Quality The Premier 4K Mirrorless Choices for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/wake-on-lan-setup-guide-enabling-on-windows-10-and-11-systems/"><u>Wake-on-LAN Setup Guide: Enabling on Windows 10 & 11 Systems</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-razr-40-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Razr 40 Ultra Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

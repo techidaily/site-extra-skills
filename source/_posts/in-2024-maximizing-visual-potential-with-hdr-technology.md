@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Maximizing Visual Potential with HDR Technology"
-date: 2024-07-31T09:42:59.685Z
-updated: 2024-08-01T09:42:59.685Z
+date: 2024-12-30T03:44:34.887Z
+updated: 2025-01-04T19:07:45.365Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ In the early days of photo and video display, there weren't many choices beyond 
 
 Continue reading to learn more about the **difference between SDR and HDR,** if you are seriously considering upgrading to it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![sdr-vs-hdr](https://images.wondershare.com/filmora/article-images/2022/08/sdr-vs-hdr-1.jpg)
 
 ## What are the High-Dynamic Range (HDR) and Standard-Dynamic Range (SDR)?
@@ -35,10 +32,6 @@ SDR, to start, stands for Standard Dynamic Range and is the basic camera and vid
 
 On the other hand, HDR or High Dynamic Range is an advanced feature level for photography. While **SDR TV meaning** is common to see, HDR is available for TVs, smartphones, monitors, and different digital equipment types for better visual clarity. While capturing images in HDR mode, you would notice a higher quality blending and contrast of highlights and shadows in scenes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## SDR vs. HDR: Why is SDR fading in popularity?
 
 In comparing HDR vs. SDR, it is simple to put that the former is a heightened version of the latter in terms of color clarity, balance, and light effect. Before discussing their differences in detail and showing why HDR is a better successor to **SDR display,** here are the overall findings in tabular form.
@@ -52,9 +45,6 @@ In comparing HDR vs. SDR, it is simple to put that the former is a heightened ve
 | **Size Availability**        | It works with bigger-sized files and offers more exposure/color detailing for realistic quality images.                                                                                    | It does not require a huge storage size since it does not process very complex data.                                                                              |
 | **Internet Speed Support**   | It requires very fast connectivity to work properly.                                                                                                                                       | Works with slow-medium internet speed well.                                                                                                                       |
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sdr-vs-hdr](https://images.wondershare.com/filmora/article-images/2022/08/sdr-vs-hdr-2.jpg)
 
 While these are notable points of difference, let us discuss the **difference between HDR and SDR** in terms of color resolution and quality for further detailing.
@@ -81,6 +71,14 @@ Naturally, if you want an impactful image/video quality, HDR is a superior choic
 
 ![sdr-vs-hdr](https://images.wondershare.com/filmora/article-images/2022/08/sdr-vs-hdr-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Compatibility
 
 It is important to consider which types of devices or setups work with these dynamic range variations, especially for HDR and **SDR gaming.**
@@ -89,20 +87,22 @@ Check if the graphics card you are using supports HDR. Typically, HDR works with
 
 Display compatibility is also important to consider for understanding which monitors can display HDR content. While there are **1080p SDR displays,** this resolution is a relatively lower support choice for HDR-compatible displays. For better results, choose 4K-supported monitors, especially those that can display HDR10 content.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Encoded formats
 
 In terms of photography-based differences for SDR vs. HDR, you must also understand the differences in encoded format support. The SDR formats must relate to Rec.709/sRGBgamut mainly. On the other hand, HDR works with Rec.2020 version for WCG (wide color gamut).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![sdr-vs-hdr](https://images.wondershare.com/filmora/article-images/2022/08/sdr-vs-hdr-4.jpg)
 
 Additionally, consider the stops that the SDR or HDR camera shoots in for calculating dynamic range variation. This affects the gamma/bit depth of images. HDR assures higher levels of dynamic range, handling 17.6 stops, while most SDR displays do 6 stops in terms of dynamic range.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is photo and camera phone HDR as same as TV HDR?
 
 When evaluating the **difference between HDR and SDR**, it is important to consider what it relates to phone-based photography or television. The type of HDR you consider for either type is not mutually exclusive.
@@ -118,9 +118,6 @@ Therefore, the purpose of TV HDRs is to display realistic scenes with optimizing
 
 So, with the Photo HDR setting, you can change the image quality, but TV HDR only focuses on improving the display quality.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Edit and Deliver your HDR videos to YouTube with Wondershare Filmora?
 
 Speaking of Photo HDR, you can optimize your captured videos with HDR effect and post them on social media. If you want to do that, you can use the top-grade video editor app, i.e., [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -133,20 +130,18 @@ Step1Install and launch the Filmora software.
 
 Step2Click on New Project.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![sdr-vs-hdr](https://images.wondershare.com/filmora/article-images/2022/08/sdr-vs-hdr-6.jpg)
 
 Step3When the editing screen opens, click on the “Click here to import media” option. Add the HDR-quality video stored from your iPhone or other mobile phones in the PC library.
 
 ![sdr-vs-hdr](https://images.wondershare.com/filmora/article-images/2022/08/sdr-vs-hdr-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4Drag and drop it into the editing timeline at the bottom of the screen. Add more video clips if you are merging them.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sdr-vs-hdr](https://images.wondershare.com/filmora/article-images/2022/08/sdr-vs-hdr-8.jpg)
 
 Step5Make further edits like Color Correction, Motion Tracking, Audio Effects, Animations, and Keyframing as you want.
@@ -171,9 +166,6 @@ SDR quality is available in most televisions, monitors, and photography platform
 
 While these are notable points of difference, let us discuss the **difference between HDR and SDR** in terms of color resolution and quality for further detailing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Color and Contrast
 
 Televisions and monitors with a wide color gamut support display various colors. Therefore, compared to standard-level ones, these devices support more saturation, which is more compatible with **HDR/SDR**. Therefore, when it comes to visual impact, HDR is a better contender.
@@ -196,6 +188,10 @@ Naturally, if you want an impactful image/video quality, HDR is a superior choic
 
 ![sdr-vs-hdr](https://images.wondershare.com/filmora/article-images/2022/08/sdr-vs-hdr-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Compatibility
 
 It is important to consider which types of devices or setups work with these dynamic range variations, especially for HDR and **SDR gaming.**
@@ -204,28 +200,18 @@ Check if the graphics card you are using supports HDR. Typically, HDR works with
 
 Display compatibility is also important to consider for understanding which monitors can display HDR content. While there are **1080p SDR displays,** this resolution is a relatively lower support choice for HDR-compatible displays. For better results, choose 4K-supported monitors, especially those that can display HDR10 content.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Encoded formats
 
 In terms of photography-based differences for SDR vs. HDR, you must also understand the differences in encoded format support. The SDR formats must relate to Rec.709/sRGBgamut mainly. On the other hand, HDR works with Rec.2020 version for WCG (wide color gamut).
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![sdr-vs-hdr](https://images.wondershare.com/filmora/article-images/2022/08/sdr-vs-hdr-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Additionally, consider the stops that the SDR or HDR camera shoots in for calculating dynamic range variation. This affects the gamma/bit depth of images. HDR assures higher levels of dynamic range, handling 17.6 stops, while most SDR displays do 6 stops in terms of dynamic range.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Is photo and camera phone HDR as same as TV HDR?
 
 When evaluating the **difference between HDR and SDR**, it is important to consider what it relates to phone-based photography or television. The type of HDR you consider for either type is not mutually exclusive.
@@ -241,6 +227,10 @@ Therefore, the purpose of TV HDRs is to display realistic scenes with optimizing
 
 So, with the Photo HDR setting, you can change the image quality, but TV HDR only focuses on improving the display quality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Edit and Deliver your HDR videos to YouTube with Wondershare Filmora?
 
 Speaking of Photo HDR, you can optimize your captured videos with HDR effect and post them on social media. If you want to do that, you can use the top-grade video editor app, i.e., [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -253,21 +243,18 @@ Step1Install and launch the Filmora software.
 
 Step2Click on New Project.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sdr-vs-hdr](https://images.wondershare.com/filmora/article-images/2022/08/sdr-vs-hdr-6.jpg)
 
 Step3When the editing screen opens, click on the “Click here to import media” option. Add the HDR-quality video stored from your iPhone or other mobile phones in the PC library.
 
 ![sdr-vs-hdr](https://images.wondershare.com/filmora/article-images/2022/08/sdr-vs-hdr-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4Drag and drop it into the editing timeline at the bottom of the screen. Add more video clips if you are merging them.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![sdr-vs-hdr](https://images.wondershare.com/filmora/article-images/2022/08/sdr-vs-hdr-8.jpg)
 
 Step5Make further edits like Color Correction, Motion Tracking, Audio Effects, Animations, and Keyframing as you want.
@@ -279,6 +266,10 @@ Step7Press YouTube tab to log in.
 Step8Change file settings, add the video title, choose a category, and click on the Export button to post HDR video to YouTube.
 
 ![sdr-vs-hdr](https://images.wondershare.com/filmora/article-images/2022/08/sdr-vs-hdr-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -310,5 +301,26 @@ SDR quality is available in most televisions, monitors, and photography platform
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-real-time-broadcasting-a-beginners-guide/"><u>[New] Mastering Real-Time Broadcasting A Beginner's Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-no-pay-all-praise-tailor-made-outro-videos-here/"><u>[New] No Pay, All Praise Tailor-Made Outro Videos Here</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-rgb-basics-and-their-evolution-into-srgb-format/"><u>[New] Rgb Basics and Their Evolution Into Srgb Format</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-discovering-androids-finest-multiplayer-battles/"><u>[Updated] 2024 Approved Discovering Android's Finest Multiplayer Battles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-digital-cache-unlicensed-licensed-game-tunes/"><u>[Updated] In 2024, Digital Cache Unlicensed, Licensed Game Tunes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premiere-sneak-peeks-cinema-edition/"><u>[Updated] Premiere Sneak Peeks - Cinema Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-roundup-post-vlc-media-players/"><u>[Updated] The Ultimate Roundup Post-VLC Media Players</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-adobe-tips-resurrect-the-color-of-faded-iphone-hdr-in-video-editing/"><u>2024 Approved [Professional Adobe Tips] Resurrect the Color of Faded iPhone HDR in Video Editing</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/aomei-securdata-pro-advanced-protection-and-recovery-solutions-at-no-cost/"><u>AOMEI SecurData Pro - Advanced Protection & Recovery Solutions at No Cost</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-y78t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Y78t</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-14-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 14 Pro without Password?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-snickerscreen-composer/"><u>In 2024, SnickerScreen Composer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-guide-building-high-quality-windows-11-videos/"><u>In 2024, Step-by-Step Guide Building High-Quality Windows 11 Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-haul-video-shopping-showcasing-and-editing-for-2024/"><u>Mastering the Art of Haul Video Shopping, Showcasing & Editing for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photographic-fusion-at-full-speeds-google-collage-techniques-for-2024/"><u>Photographic Fusion at Full Speeds Google Collage Techniques for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-definitive-guide-to-adding-texts-and-boosting-engagement-on-tiktok-for-2024/"><u>The Definitive Guide to Adding Texts and Boosting Engagement on TikTok for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1460727-9781612833224-the-toltec-secret-to-happiness/"><u>The Toltec Secret to Happiness | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-fixing-dev-error-6634-in-cod-warzone-a-comprehensive-2022-guide/"><u>Troubleshooting Tips: Fixing Dev Error 6634 in COD Warzone - A Comprehensive 2022 Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723807952444-windows-10-equalizer-best-way-to-improve-audio/"><u>Windows 10 Equalizer - Best Way to Improve Audio</u></a></li>
+</ul></div>
 

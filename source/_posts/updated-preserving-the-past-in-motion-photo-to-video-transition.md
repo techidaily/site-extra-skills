@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Preserving the Past in Motion  Photo to Video Transition\""
-date: 2024-12-19T17:55:28.195Z
-updated: 2024-12-26T16:29:17.992Z
+date: 2024-12-31T02:05:28.746Z
+updated: 2025-01-04T18:48:51.059Z
 tags: 
   - screen-recording
   - ai video
@@ -86,15 +86,15 @@ To start with, you can just launch Filmora on your system and import your photos
 
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 2\. Create a timeline for your photos
 
 Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
 
 ![create timeline for photos](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3\. Edit the video
 
@@ -110,6 +110,10 @@ As stated above, you can find a wide range of video editing options to explore i
 
 ![Add Effects to Digitized Photos](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
 ![Add Title to Digitized Photos](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
@@ -118,6 +122,10 @@ Besides that, you can also add a track to the video by visiting the “Audio” 
 
 ![Add Audio to Digitized Photos](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 5\. Export your video
 
 That’s it! After making all the changes, you can preview your video on the right side. If you are satisfied with the results, then click on the “Export” button from the top. This will open a dedicated window, letting you select a preferred format to export your file. You can also select a resolution for your video to adjust its size as well.
@@ -125,14 +133,10 @@ That’s it! After making all the changes, you can preview your video on the rig
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Find more fancy ways to make the best photo and video slideshow with Filmora!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Editing Tips for Creating Memorable Videos
 
@@ -163,16 +167,12 @@ Most importantly, pick a user-friendly and effective video editor like Filmora. 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -189,19 +189,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-revamp-your-channels-image-amplify-your-subscription-count/"><u>[New] 2024 Approved Revamp Your Channel's Image, Amplify Your Subscription Count</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-crafting-the-ultimate-mc-community-dwellings-for-2024/"><u>[New] Crafting the Ultimate MC Community Dwellings for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-game-masters-youtube-money-hacks/"><u>[New] Game Masters YouTube Money Hacks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-optimizing-playback-rate-of-presentation-videos/"><u>[New] Optimizing Playback Rate of Presentation Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/op-5-online-youtube-mp3-converters-free-and-easy-in-2024/"><u>[New] Top 5 Online YouTube-MP3 Converters, Free and Easy, In 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-efficiently-balancing-professional-commitments-and-creativity/"><u>[Updated] 2024 Approved Efficiently Balancing Professional Commitments & Creativity</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-metaverse-insight-discovering-6-realistic-examples/"><u>[Updated] Metaverse Insight Discovering 6 Realistic Examples</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-maximize-your-mobile-podcast-experience-on-iphone/"><u>2024 Approved Maximize Your Mobile Podcast Experience on iPhone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-ranking-apples-most-valuable-gif-tools/"><u>2024 Approved Ranking Apple's Most Valuable GIF Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dispelling-fears-no-decline-in-chatgpt-smarts/"><u>Dispelling Fears: No Decline in ChatGPT Smarts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-first-steps-in-the-digital-dollar-youtube-earning-hacks/"><u>In 2024, First Steps in the Digital Dollar - YouTube Earning Hacks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/pcs-best-vr-top-10-immersive-360-video-players/"><u>PC's Best VR Top 10 Immersive 360 Video Players</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prime-focus-systems-ultimate-4k-dslr-rig-guide-for-2024/"><u>Prime Focus Systems Ultimate 4K DSLR Rig Guide for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-sculpting-the-silence-an-in-depth-look-at-modifying-audio-keyframes-for-immersive-experiences-in-final-cut-pro-x-for-2024/"><u>Updated Sculpting the Silence An In-Depth Look at Modifying Audio Keyframes for Immersive Experiences in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-luts-on-the-house-your-dji-devices-get-a-perk-up/"><u>[New] LUTs on the House - Your DJI Devices Get a Perk Up</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mirrorless-mastery-10-best-stabilizing-choices/"><u>[New] Mirrorless Mastery 10 Best Stabilizing Choices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-stitching-pictures-and-chords-into-compelling-narratives/"><u>[New] Stitching Pictures & Chords Into Compelling Narratives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-8-pitfalls-for-novice-youtube-creators/"><u>[New] Top 8 Pitfalls for Novice YouTube Creators</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-optimizing-your-browsing-mastering-firefoxs-pip/"><u>[Updated] Optimizing Your Browsing Mastering Firefox's PIP</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-ddr5-master-cards-ranked/"><u>2024'S DDR5 Master Cards Ranked</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-silent-windows-10-simple-steps-to-restore-audio/"><u>Fix Silent Windows 10: Simple Steps to Restore Audio</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/guide-to-fb-video-repositories-windows-and-macos-for-2024/"><u>Guide to FB Video Repositories Windows & macOS for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-insights-into-procuring-freeness-in-frame-vids/"><u>In 2024, Insights Into Procuring Freeness in Frame Vids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-streaming-tools-for-online-video-games/"><u>In 2024, Leading Streaming Tools for Online Video Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-video-performance-the-best-3-smartphones-ranked/"><u>In 2024, Pro Video Performance The Best 3 Smartphones Ranked</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-split-screen-simplicity-mastering-picture-in-picture-videos-on-apple-devices/"><u>In 2024, Split-Screen Simplicity Mastering Picture in Picture Videos on Apple Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-11-pro-max-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 11 Pro Max You Should Try Out</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/microsofts-vision-of-tomorrow-with-hololens-exploration-for-2024/"><u>Microsoft’s Vision of Tomorrow With HoloLens Exploration for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-windows-and-wsl-harmony-in-post-update-phase/"><u>Navigating Through The Windows & WSL Harmony in Post-Update Phase</u></a></li>
 </ul></div>
 

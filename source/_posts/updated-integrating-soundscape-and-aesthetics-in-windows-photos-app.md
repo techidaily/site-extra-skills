@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Integrating Soundscape and Aesthetics in Windows Photos App"
-date: 2024-12-21T16:51:39.746Z
-updated: 2024-12-26T17:30:59.071Z
+date: 2024-12-30T01:33:50.484Z
+updated: 2025-01-04T19:24:04.034Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -46,7 +50,7 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
@@ -55,14 +59,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -77,13 +77,13 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
 
@@ -94,7 +94,7 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -112,24 +112,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-cinematic-evolution-the-best-youtube-guides-for-new-filmmakers/"><u>[New] In 2024, Cinematic Evolution The Best YouTube Guides for New Filmmakers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-4k-videography-with-prime-optics/"><u>[Updated] Mastering the Art of 4K Videography with Prime Optics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pushing-boundaries-adobes-recommended-lut-list-for-creative-professionals/"><u>[Updated] Pushing Boundaries Adobe's Recommended LUT List for Creative Professionals</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-step-by-step-editing-and-uploading-360-videos-on-youtube/"><u>[Updated] Step-by-Step Editing & Uploading 360 Videos on YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-stepping-into-the-unseen-mastering-windows-11-through-less-known-tips/"><u>[Updated] Stepping Into the Unseen Mastering Windows 11 Through Less-Known Tips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-youtube-and-brands-united-strategic-collaborative-titles-for-2024/"><u>[Updated] YouTube & Brands United Strategic Collaborative Titles for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-podcast-choices-for-gpodc-users/"><u>2024 Approved Premier Podcast Choices for GPodC Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-unboxing-game-crafting-winning-strategies/"><u>2024 Approved The Unboxing Game Crafting Winning Strategies</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Poco C55? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-y78plus-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo Y78+ Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-motorola-moto-g23-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Motorola Moto G23 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pixel-power-the-top-10-cameras-for-clear-images/"><u>In 2024, Pixel Power The Top 10 Cameras for Clear Images</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-principles-of-paradoxical-intervention/"><u>In 2024, Principles of Paradoxical Intervention</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/learn-to-tweak-the-speed-of-your-stories-videos-for-2024/"><u>Learn to Tweak the Speed of Your Stories' Videos for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/optimal-illumination-for-livestream-success-insights-from-zdnets-experts/"><u>Optimal Illumination for Livestream Success: Insights From ZDNet's Experts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/screen-success-brand-endorsement-strategies-for-2024/"><u>Screen Success Brand Endorsement Strategies for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/scrutinizing-wirecast-plus-similar-tools-for-2024/"><u>Scrutinizing WireCast + Similar Tools for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-x-flip-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo X Flip</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-subtitle-converters-speed-up-your-video-production-from-sub-to-quickly-released-srtr-format-for-2024/"><u>Top 8 Subtitle Converters Speed Up Your Video Production - From SUB to Quickly-Released SRTR Format for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revamping-graphic-design-with-non-acid-pro-options/"><u>[New] Revamping Graphic Design with Non-ACID Pro Options</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-kids-and-newbies-rejoice-our-10-easiest-to-fly-drones/"><u>[Updated] Kids & Newbies Rejoice! Our 10 Easiest-to-Fly Drones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-next-morning-analysis-fresh-insights/"><u>[Updated] Next Morning Analysis Fresh Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-slug-line-creation-techniques-for-online-copy/"><u>[Updated] Slug Line Creation Techniques for Online Copy</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-highlight-hubs-choosing-the-right-online-aids/"><u>2024 Approved Highlight Hubs Choosing the Right Online Aids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-your-android-game-adventure-with-kinemaster-review/"><u>2024 Approved Maximizing Your Android Game Adventure with KineMaster Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-audacity-for-top-notch-audio-recording/"><u>2024 Approved Navigating Audacity for Top-Notch Audio Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-storage-sizing-film-duration-in-gb/"><u>2024 Approved Storage Sizing Film Duration in GB</u></a></li>
+<li><a href="https://discover-data.techidaily.com/captivating-metropolitan-backdrops-premium-photo-library-and-backgrounds-curated-by-yl-software-yl-computing/"><u>Captivating Metropolitan Backdrops: Premium Photo Library and Backgrounds Curated by YL Software | YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/excel-vs-chatgpt-top-3-unmatched-functions-only-excel-offers/"><u>Excel Vs. ChatGPT: Top 3 Unmatched Functions Only Excel Offers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-no-payment-necessary-download-farewell-soundtracks/"><u>In 2024, No Payment Necessary Download Farewell Soundtracks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-zoom-meetings-quickly-for-2024/"><u>Mastering Zoom Meetings Quickly for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mimicking-your-penmanship-adapting-chatgpt-for-authentic-self-expressive-writing/"><u>Mimicking Your Penmanship: Adapting ChatGPT for Authentic Self-Expressive Writing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/reviewing-the-asus-chromebook-flip-c302ca-exceptional-value-for-money-in-a-portable-convertible-device/"><u>Reviewing the Asus Chromebook Flip C302CA – Exceptional Value for Money in a Portable Convertible Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sam-altman-resigns-as-head-of-openai-a-turning-point-or-a-pivot-for-chatgpt-evolution/"><u>Sam Altman Resigns as Head of OpenAI - A Turning Point or a Pivot for ChatGPT Evolution?</u></a></li>
+<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi 14 | Dr.fone</u></a></li>
 </ul></div>
 

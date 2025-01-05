@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastery of Color Grading  Premiere Pro's LUT Capabilities\""
-date: 2024-12-22T17:08:18.078Z
-updated: 2024-12-26T18:53:15.699Z
+date: 2024-12-30T19:51:27.071Z
+updated: 2025-01-04T20:47:06.676Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ Whether you're working on a personal project or a business campaign, the procedu
 
 you grab the camera, follow your idea, and acquire your pictures, then transfer the movie to your computer and start editing. In this protracted creative process, color grading is typically the final and possibly at least one of the most crucial processes. We all hoped there's a way to speed up this procedure, and fortunately there is! Let's start!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to install LUTs in Premiere Pro
 
 LUTs can be applied in Premiere Pro in two different ways. Utilizing LUTs through the Creative tab of the Lumetri Color Panel is the simplest method. However, it does not make the LUTs a permanent part of the collection.
@@ -33,7 +37,7 @@ Step2Locate the Lumetri LUTs folder in your Premiere Pro installation directory 
 Step3Paste all of your fresh LUTs in this folder at this time. Your new LUTs will now show up in the Lumetri Color Panel when you launch Premiere Pro (or restart the software if it was already open). Innovative >> Looks
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to add LUTs to your footage
@@ -47,7 +51,7 @@ Step3The first Basic Correction option in the right-hand panel of Lumetri Color 
 Step4Double-click the LUT you wish to use once you've located it, and it will be applied immediately.A tiny tip I like to use occasionally is to find the Effect Controls panel on the left side, then click the drop-down arrow next to Opacity, and make adjustments if you input your LUT and feel that it's too intense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Why use LUTs in your project?
@@ -61,7 +65,7 @@ Because of this, some designers employ look-up tables (LUTs) that they have crea
 When it comes to working on a project for a customer that has a stringent deadline to fulfill, poor color grading could result in a negative impression of your work. This is the case even if everything from the sound effects to the video effects is done to a high standard and is done well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Can you adjust the strength of the LUT?
@@ -71,10 +75,6 @@ There are no such modifications that can be made in a certain LUT or Look, and t
 The entire color panel in Premiere Pro is packed with all of the color grading tools that are required to adjust your film in the appropriate way. Investigating them can provide you with some understanding of how they function. You can get a sense of how these LUTs function by using the pre-installed LUTs that are accessible in Premiere Pro, which you can use at first to get a feel for the LUTs before moving on to using paid or free Color Grading profiles.
 
 The end outcome does not vary by a substantial amount, but how it looks can change depending on the LUT you use. In the event that something seems to be lacking, you can always modify the color grading.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Export LUTs
 
@@ -89,7 +89,7 @@ Step2Export ".cube" This function exports lookup tables in the.cube format so th
 Step3Store Preset: You can personalize the settings for each color effect, then save the resulting combinations as presets. Within the Save Preset dialog box, give your preset the name you want it to have. If desired, enter a description. Please visit the article on how to create and store an effect preset for further details.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Where can you find LUTs?
@@ -141,18 +141,19 @@ Sometimes, some of them are out there to steal your money rather than provide th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-free-video-player-face-off-vlc-against-mpc/"><u>[New] In 2024, Free Video Player Face-Off VLC Against MPC</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-instantaneous-darkness-creation/"><u>[New] Instantaneous Darkness Creation</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-prime-steps-to-modify-playback-rate-of-songs-in-spotify-for-2024/"><u>[New] Prime Steps to Modify Playback Rate of Songs in Spotify for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-spectaculous-visual-story-builder-suite/"><u>[New] Spectaculous Visual Story Builder Suite</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-efficient-tricks-to-scramble-youtube-playlists-pcphonetv/"><u>[Updated] 2024 Approved Efficient Tricks to Scramble YouTube Playlists (PC/Phone/TV)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-danger-of-censorship/"><u>[Updated] 2024 Approved The Danger of Censorship</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-face-editing-showdown-polaroid-cube-vs-gopro-hero-series/"><u>[Updated] In 2024, Face-Editing Showdown Polaroid Cube Vs. GoPro Hero Series</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-smart-strategies-for-iphone-podcast-acquisition/"><u>[Updated] Smart Strategies for iPhone Podcast Acquisition</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/effective-techniques-to-fix-driver-problems-guided-by-yl-computing-experts/"><u>Effective Techniques to Fix Driver Problems, Guided by YL Computing Experts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-skip-the-hassle-find-4-ringtone-sources-here/"><u>In 2024, Skip the Hassle Find 4 Ringtone Sources Here</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-15-pro-max-disappoints-during-in-depth-ifixit-anatomy-analysis/"><u>IPhone 15 Pro Max Disappoints During In-Depth iFixit Anatomy Analysis</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/podcast-dominance-through-powerful-seo-tactics-for-2024/"><u>Podcast Dominance Through Powerful SEO Tactics for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/smartphones-and-beyond-the-leading-vr-headsets-for-2024/"><u>Smartphones and Beyond The Leading VR Headsets for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revolutionizing-classic-images-a-guide-to-enhancing-vhs-photos-on-pcs/"><u>[New] Revolutionizing Classic Images A Guide to Enhancing VHS Photos on PCs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-darkened-details-expert-techniques-for-night-photography-success/"><u>[Updated] 2024 Approved Darkened Details Expert Techniques for Night Photography Success</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-demystifying-social-engagement-instagram-stories-surveys/"><u>[Updated] 2024 Approved Demystifying Social Engagement Instagram Stories Surveys</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smart-selections-the-premier-list-of-costless-streamers-apps-and-software/"><u>[Updated] Smart Selections The Premier List of Costless Streamers Apps & Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-to-masterful-technology-enhancements/"><u>[Updated] Step-by-Step Guide to Masterful Technology Enhancements</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-screencast-software-on-the-market-bandicam-vs-camtasia/"><u>[Updated] Top Screencast Software on the Market Bandicam Vs. Camtasia</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-rotation-rush-guide-mastering-instagrams-art-of-turned-around-content/"><u>2024 Approved The Rotation Rush Guide Mastering Instagram's Art of Turned-Around Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-turn-off-chatter-secrets-for-muting-users-on-gomeet/"><u>2024 Approved Turn Off Chatter Secrets for Muting Users on GoMeet</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-s23-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy S23 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/liberate-your-listening-experience-with-pazera-the-2024-review/"><u>Liberate Your Listening Experience with Pazera The 2024 Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pinnacle-of-meme-artistry-program-for-2024/"><u>Pinnacle of Meme Artistry Program for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/portable-recording-stands-and-lenses-for-2024/"><u>Portable Recording Stands and Lenses for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-data-insights-with-chatgpt-a-guide-for-analysts/"><u>Transforming Data Insights with ChatGPT: A Guide for Analysts</u></a></li>
 </ul></div>
 
