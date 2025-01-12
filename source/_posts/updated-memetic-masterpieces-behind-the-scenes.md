@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Memetic Masterpieces  Behind the Scenes\""
-date: 2025-01-02T05:12:14.791Z
-updated: 2025-01-04T23:48:51.321Z
+date: 2025-01-05T19:11:43.755Z
+updated: 2025-01-11T22:05:07.437Z
 tags: 
   - screen-recording
   - ai video
@@ -26,10 +26,6 @@ So, what are the most popular stock photo memes, and how did they reach this sta
 
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Since 2011, Hide the Pain Harold continues to rank as one of the world's most popular stock photo memes. Here are some numbers to show you how popular the meme is.
 
 * It also features on stock image sites such as Imgur, where user “someshitbag” has a gallery post titled Hide-the-pain-Harold. In addition, the page received over 880 thousand views during the first three weeks. Furthermore, it won Imgur's meme of the decade title in 2020 by receiving 10,954 votes (about 20%) of the 54,768 votes cast by Imgurians.
@@ -46,20 +42,20 @@ According to Andras, Hide the Pain Harold results from his vacation in Turkey. A
 ![do stock image modeling](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
 
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
@@ -78,15 +74,19 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part3: I Bet He's Thinking About Other Women
 
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
 
@@ -114,6 +114,10 @@ Twitter user @chocos posts the image with Spanish captions, with the woman sure 
 
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
 
 Since then, internet users have continued to use the Bonjour Bear meme to reference their reactions to different scenarios. Typically, you will find the stock photo meme representing some surprise attacks. Below are some of the most popular versions of the meme:
@@ -129,14 +133,10 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part5: FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Can you use stock photos for memes?
@@ -150,7 +150,7 @@ This is because not all stock photo providers offer their images with a creative
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Can you use watermarked stock photos to create memes?
@@ -189,22 +189,24 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-no-one-watching-to-huge-engagement-10-proven-ways-to-increase-video-popularity-for-2024/"><u>[New] From No One Watching to Huge Engagement 10 Proven Ways to Increase Video Popularity for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unlock-your-creative-potential-with-inshot-for-pcs-and-laptops/"><u>[New] In 2024, Unlock Your Creative Potential with Inshot for PCs & Laptops</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-poco-f5-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Poco F5 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-lens-tricks-editing-secrets-to-photo-wonders/"><u>In 2024, Lens Tricks Editing Secrets to Photo Wonders</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-14-pro-5-ways-to-get-into-a-locked-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 14 Pro? 5 Ways to get into a Locked iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mobile-gear-enhancing-video-creation/"><u>In 2024, Mobile Gear Enhancing Video Creation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-secrets-to-superior-soundscape-top-tunes-for-unboxing-vids/"><u>In 2024, Secrets to Superior Soundscape Top Tunes for Unboxing Vids</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-snappy-segments-10-snippets-to-enhance-your-edits/"><u>In 2024, Snappy Segments 10 Snippets to Enhance Your Edits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-game-screens-for-ps5-and-xbox-series-x-revealed/"><u>In 2024, Top Game Screens for PS5 and Xbox Series X Revealed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/luminous-filmmaking-transform-your-videos-with-pro-tips-for-2024/"><u>Luminous Filmmaking Transform Your Videos with Pro Tips for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/maximize-savings-with-movavi-kortingscode-exclusive-deals-inside/"><u>Maximize Savings with Movavi-Kortingscode – Exclusive Deals Inside!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/meme-milestones-crafting-jokes-for-lifes-turning-points-for-2024/"><u>Meme Milestones Crafting Jokes for Life's Turning Points for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/metavision-journey-essential-gear-for-metaverse-visitors-for-2024/"><u>Metavision Journey Essential Gear for Metaverse Visitors for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigate-the-sea-of-stunning-pexels-imagery-with-ease/"><u>Navigate the Sea of Stunning Pexels Imagery with Ease</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/optimized-with-advanced-data-consent-tech-the-power-of-cookiebot/"><u>Optimized with Advanced Data Consent Tech: The Power of Cookiebot</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premier-pro-blueprints-exclusive-free-2023-collection-for-2024/"><u>Premier Pro Blueprints - Exclusive FREE 2023 Collection for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ultimate-gaming-adventure-list-ghost-of-tsushimas-allies/"><u>Ultimate Gaming Adventure List – Ghost of Tsushima's Allies</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-add-flair-with-gifs-on-snapchat-a-comprehensive-walkthrough/"><u>[New] 2024 Approved Add Flair with GIFs on Snapchat – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-enhancing-vimeo-playback-velocity/"><u>[New] In 2024, Enhancing Vimeo Playback Velocity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-laugh-ledger-the-premier-free-meme-repository/"><u>[New] Laugh Ledger The Premier FREE Meme Repository</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterful-art-in-a-flash-quick-draw-on-windows-10-images/"><u>[New] Masterful Art in a Flash Quick Draw on Windows 10 Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-shoot-with-clarity-capture-immersive-experiences-9-essentials/"><u>[New] Shoot with Clarity, Capture Immersive Experiences (9 Essentials)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pioneering-post-production-excellence-with-these-11-top-tutorials/"><u>[Updated] Pioneering Post-Production Excellence with These 11 Top Tutorials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-your-iphone-videographyphoto-expertise-with-add-ons/"><u>2024 Approved Perfect Your iPhone Videography/Photo Expertise With Add-Ons</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-13-ultra-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chucklechief-easy-meme-design-tool/"><u>ChuckleChief Easy Meme Design Tool</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-to-create-and-convert-flipbooks-into-a-compact-disc-in-one-go-with-flipbuilder-easy-guide/"><u>How to Create and Convert FlipBooks Into a Compact Disc in One Go with FlipBuilder - Easy Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-13-mini-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 13 mini In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-driver-updates-for-brother-mfc-j480dw-compatible-with-windows-systems/"><u>Latest Driver Updates for Brother MFC-J480DW - Compatible with Windows Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leaders-designing-ultra-realistic-virtual-worlds-for-2024/"><u>Leaders Designing Ultra-Realistic Virtual Worlds for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-airdate-for-podcasts-timing-matters-most-for-2024/"><u>Optimal Airdate for Podcasts Timing Matters Most for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-fade-out-techniques-in-audacity-for-2024/"><u>Perfecting Fade-Out Techniques in Audacity for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/picking-your-perfect-pair-dji-drones-face-off-with-gopro-and-insta360-cameras-for-2024/"><u>Picking Your Perfect Pair DJi Drones Face-Off With GoPro and Insta360 Cameras for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-power-of-hashtags-social-media-promotion-on-a-budget-for-2024/"><u>The Power of Hashtags Social Media Promotion on a Budget for 2024</u></a></li>
 </ul></div>
 

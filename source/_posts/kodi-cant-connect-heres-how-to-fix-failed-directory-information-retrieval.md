@@ -1,7 +1,7 @@
 ---
 title: Kodi Can't Connect? Here's How to Fix Failed Directory Information Retrieval
-date: 2025-01-03T01:40:53.523Z
-updated: 2025-01-05T04:03:02.980Z
+date: 2025-01-10T18:00:53.146Z
+updated: 2025-01-11T20:00:47.853Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Amazon Prime provides thousands of great series and movies which you can enjoy a
 * [Reboot the browser](https://tools.techidaily.com/drivereasy/download/)
 * [Check your internet connection](https://tools.techidaily.com/drivereasy/download/)
 * [Disable your VPN and third-party apps](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Reboot the browser
 
@@ -67,11 +71,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-714.png)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-715.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -87,30 +95,30 @@ OR
 
 **IMPORTANT** : Be extra careful in using the Internet after uninstalling/disabling your antivirus software.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for Amazon prime video not working on Smart TV
 
 * [Reboot your devices/apps](https://tools.techidaily.com/drivereasy/download/)
 * [Resign-in to the app](https://tools.techidaily.com/drivereasy/download/)
 * [Check your HDMI cable](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reboot your devices/apps
 
  Make sure your Amazon Prime video account is paid and active. You can go to[your account page](https://www.amazon.com/ap/signin?%5Fencoding=UTF8&accountStatusPolicy=P1&clientContext=135-4224850-9503066&openid.assoc%5Fhandle=usflex&openid.claimed%5Fid=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.mode=checkid%5Fsetup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max%5Fauth%5Fage=0&openid.return%5Fto=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fsettings%2Fref%3Ddv%5Fweb%5Fauth%5Fno%5Fre%5Fsig%3Fie%3DUTF8%26tag%3Dbisafetynet2-20) to check. Check your app version, update it to the latest version.  
  Then close the Prime video app and restart it, if it doesn’t work, reboot your smart TV. Rebooting is always the first and effective method to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Resign-in to the app
 
  Sign out and sign back into the app sounds stupid, but it works for many people. You can select Settings on your TV and sign out.
 
 Close the app, reopen, then enter your credentials to sign back in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure you have the right HDMI cable
 
@@ -119,10 +127,6 @@ Close the app, reopen, then enter your credentials to sign back in.
 If the cable is the culprit, you may need to purchase a new cable.
 
 [](https://images.drivereasy.com/wp-content/uploads/2020/08/61SDW7VbneL._AC_SL1500_-1200x950.jpg) ](https://www.amazon.com/AmazonBasics-High-Speed-HDMI-Cable-2-Pack/dp/B014I8SX4Y/ref=sr%5F1%5F4?dchild=1&keywords=hdmi&qid=1597731890&sr=8-4&tag=drivereasycom-20)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for Amazon prime video not working on smartphone
 
@@ -134,10 +138,6 @@ If the cable is the culprit, you may need to purchase a new cable.
 
  Make sure your Amazon Prime video account is paid and active. You can go to[your account page](https://www.amazon.com/ap/signin?%5Fencoding=UTF8&accountStatusPolicy=P1&clientContext=135-4224850-9503066&openid.assoc%5Fhandle=usflex&openid.claimed%5Fid=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.mode=checkid%5Fsetup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max%5Fauth%5Fage=0&openid.return%5Fto=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fsettings%2Fref%3Ddv%5Fweb%5Fauth%5Fno%5Fre%5Fsig%3Fie%3DUTF8%26tag%3Dbisafetynet2-20) to check. Check your app version, update it to the latest version.  
  Then close the Prime video app and restart it. Rebooting is always the first and effective method to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check your internet connection
 
@@ -168,17 +168,15 @@ If the cable is the culprit, you may need to purchase a new cable.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-speech-to-text-conversion-on-powerpoint-platform/"><u>2024 Approved Mastering the Art of Speech-to-Text Conversion on PowerPoint Platform</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-melody-match-maker-audio-ambience-for-videos/"><u>2024 Approved Melody Match-Maker Audio Ambience For Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-podcastpivot-avoiding-dacasts-pitfalls/"><u>2024 Approved PodcastPivot Avoiding DaCast's Pitfalls</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-reasons-why-chatgpt-wont-take-your-writing-job/"><u>5 Reasons Why ChatGPT Won’t Take Your Writing Job</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/core-elements-in-storytelling-skills/"><u>Core Elements in Storytelling Skills</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-asus-laptop-black-screen-easily/"><u>How To Fix Asus Laptop Black Screen Easily</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-lava-blaze-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Lava Blaze Pro 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/is-av1-the-clear-winner-against-vp9-in-2024/"><u>Is AV1 The Clear Winner Against VP9, In 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/learn-to-conquer-the-clutter-efficient-editing-of-tiktok-drafts-for-2024/"><u>Learn to Conquer the Clutter Efficient Editing of TikTok Drafts for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-ballad-barren-builder-create-personal-accompaniment-music/"><u>New In 2024, Ballad Barren Builder Create Personal Accompaniment Music</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/quick-assembly-of-stunning-google-collages-for-2024/"><u>Quick Assembly of Stunning Google Collages for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-reddit-submissions-practical-steps-unveiled/"><u>[New] Navigating Reddit Submissions Practical Steps Unveiled</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-syncopated-patterns-in-youtube-music-collections/"><u>[Updated] 2024 Approved Syncopated Patterns in YouTube Music Collections</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-cutting-edge-strategies-for-fb-live-broadcasts-and-recordings/"><u>[Updated] Cutting-Edge Strategies for FB Live Broadcasts and Recordings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expertise-in-image-colors-pro-techniques-revealed/"><u>[Updated] Expertise in Image Colors Pro Techniques Revealed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-one-device-live-broadcast-mastery-easy-steps-to-success/"><u>2024 Approved One-Device LIVE Broadcast Mastery Easy Steps to Success</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/dive-into-hardware-with-toms-expert-reviews-and-guides/"><u>Dive Into Hardware with Tom’s Expert Reviews and Guides</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inside-mlb-the-show-19-a-gorgeous-sports-simmered-up-with-a-dose-of-surprising-rpg-features/"><u>Inside MLB The Show 19: A Gorgeous Sports Simmered Up With a Dose of Surprising RPG Features</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-conclusion-to-vr-journeys-for-2024/"><u>Optimal Conclusion to VR Journeys for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/precision-zoom-mastery-in-microsoft-teams-sessions-for-2024/"><u>Precision Zoom Mastery in Microsoft Teams Sessions for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/printer-setup-problems-a-step-by-step-guide-to-resolving-common-issues-yl-computings-expert-solutions/"><u>Printer Setup Problems: A Step-by-Step Guide to Resolving Common Issues - YL Computing's Expert Solutions</u></a></li>
 </ul></div>
 

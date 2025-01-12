@@ -1,7 +1,7 @@
 ---
 title: Solve Your Logitech G933's Sound Issues with These Simple Fixes
-date: 2025-01-02T02:34:10.363Z
-updated: 2025-01-04T23:20:41.681Z
+date: 2025-01-06T19:38:33.252Z
+updated: 2025-01-11T20:56:29.848Z
 tags:
   - win11
   - win10
@@ -44,22 +44,18 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/setting-Privacy.jpg)
 2. Select**Microphone** on the left panel, then click the**Change** button to see if the toggle is**On** in the pop-up menu. If it isn’t, change the toggle to On.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
 3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
 
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2 – Check the audio settings
 
@@ -68,6 +64,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 1. Right-click the**volume icon** on the task bar and then select**Sounds** from the mune that appears.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/volume-icon-sounds.jpg)
 2. Under the**Recording** tab, check to see if your headset microphone is set to disabled. If it is, right-click on it and select**Enable** . (If your mic is not the default device, click**Set Default** to set it as default)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
 3. Right-click the headset microphone again and select **Properties.**  
@@ -94,6 +94,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-5.7.2-SCAN.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download and install the correct version of that driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-audio-card-driver.jpg)
 4. After updating your audio driver, restart your PC for the trick to take effect.
@@ -101,10 +105,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
  The**Pro version** of Driver Easy comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at <support@drivereasy.com> .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4 – Reinstall the Corsair headset and iCUE software
 
@@ -115,26 +115,22 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 5. Select**iCUE** and then click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 6. Click**Yes** in the confirmation box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Restart your PC and replug your Corsair headset into your computer.
 8. Relaunch the iCUE software. You can click **[here](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Ficue&mktsrc=drivereasyen%5F166866)**  to download the latest version of iCUE.
@@ -142,6 +138,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
  If this method doesn’t work, then try the one below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5 – Use a USB audio card
 
@@ -176,7 +176,7 @@ Top Pick
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6 – Seek technical support or after-sales service
@@ -202,20 +202,18 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-converting-facebook-videos-to-mp3-audios-quickly-for-2024/"><u>[New] Converting Facebook Videos to MP3 Audios Quickly for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-three-key-strategies-for-acquiring-youtube-srt-files/"><u>[Updated] Three Key Strategies for Acquiring YouTube SRT Files</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-sound-and-filter-integration-in-windows-10-photos-app/"><u>2024 Approved Mastering Sound & Filter Integration in Windows 10 Photos App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-strategies-to-repair-common-problems-in-windows-11-and-windows-10-systems/"><u>Comprehensive Strategies to Repair Common Problems in Windows 11 and Windows 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/epic-resolution-fortnite-now-works-perfectly/"><u>Epic Resolution: Fortnite Now Works Perfectly</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/o-rotate-youtube-videos-by-any-angle/"><u>How to Rotate YouTube Videos by Any Angle</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-s17e-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo S17e Phone that is Locked?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-techniques-for-full-sphere-videography/"><u>In 2024, IPhone Techniques for Full-Sphere Videography</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-novel-windows-11-strategies-for-peak-performance/"><u>In 2024, Novel Windows 11 Strategies for Peak Performance</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pc-transfer-protocols-effective-five-ways-to-send-your-files/"><u>In 2024, PC Transfer Protocols Effective Five Ways to Send Your Files</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-your-preview-fullscreen-mastery-with-premiere-pro/"><u>In 2024, Perfect Your Preview Fullscreen Mastery with Premiere Pro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-video-creation-with-magix-video-pro-x/"><u>In 2024, Revolutionizing Video Creation with Magix Video Pro X</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-the-complete-guide-to-motion-without-touch-sensors/"><u>In 2024, The Complete Guide to Motion Without Touch Sensors</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/kiddo-cars-miniature-mayhem-matches/"><u>Kiddo Cars Miniature Mayhem Matches</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211322981-9798869325648-yugioh-astrology-astrological-guide-to-decks-duels-and-more/"><u>Yugioh Astrology: Astrological Guide to Decks, Duels, and More | Free Book</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-legal-tunes-collection-top-10-free-music-for-mindfulness/"><u>[New] Legal Tunes Collection – Top 10 Free Music for Mindfulness</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-review-and-insight-into-movavi-editor-plus-now-available/"><u>[New] Review & Insight Into Movavi Editor Plus, Now Available</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-5-best-video-effect-sites-that-never-charges-you/"><u>[Updated] 5 Best Video Effect Sites That Never Charges You</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-hues-from-textbooks-to-canvas/"><u>[Updated] Exploring Hues From Textbooks to Canvas</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-step-by-step-to-stellar-video-youtube-studio-edition/"><u>[Updated] Step-by-Step to Stellar Video YouTube Studio Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-strategic-approaches-accumulating-top-notch-backdrop-imagery/"><u>2024 Approved Strategic Approaches Accumulating Top-Notch Backdrop Imagery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-new-era-awakens-with-ai-redefining-progress-in-a-digital-world/"><u>A New Era Awakens with AI: Redefining Progress in a Digital World</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-videography-8-tips-of-recording-pro-videos/"><u>In 2024, IPhone Videography 8 Tips of Recording Pro Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-typographic-animations-compiled/"><u>In 2024, Optimal Typographic Animations Compiled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-price-scale-for-shooting-tunes-in-visual-narratives/"><u>In 2024, Price Scale for Shooting Tunes in Visual Narratives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-early-career-overwhelm-tips-to-dodge-burnout-for-recent-university-alumni-advice-from-zdnet/"><u>Navigating Early Career Overwhelm: Tips to Dodge Burnout for Recent University Alumni - Advice From ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-microsoft-copilot-feature-enhances-video-creation/"><u>New Microsoft Copilot Feature Enhances Video Creation</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcome-windows-11-wont-run-problems-on-your-pc-with-easy-fixes-by-revouninstaller/"><u>Overcome 'Windows 11 Wont Run' Problems on Your PC with Easy Fixes by RevoUninstaller</u></a></li>
 </ul></div>
 

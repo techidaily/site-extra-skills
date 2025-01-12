@@ -1,7 +1,7 @@
 ---
 title: "\"IPhone Tips  Achieving Extended Exposure Images for 2024\""
-date: 2025-01-02T21:36:16.232Z
-updated: 2025-01-05T04:37:35.436Z
+date: 2025-01-06T18:02:52.997Z
+updated: 2025-01-11T21:14:17.968Z
 tags: 
   - screen-recording
   - ai video
@@ -37,6 +37,124 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 
  When you take long exposure shots using a digital SLR, the physical shutter which captures the image stays open for longer. You can also fiddle with the aperture size, to make it easier to capture these images in different light levels. This process is meticulously replicated by the iPhone's newest Photos app, so if you're already on iOS 11, here's how to use it:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Users on iOS 11
+
+ First of all, make sure Live Photos is switched on. Within the camera app, simply tap the circular button in the middle of the top menu bar to turn it on. Once activated, the button will turn yellow and the 'live' notification will be shown on screen.
+
+![take-live-photo-on-iphone](https://images.wondershare.com/filmora/article-images/take-live-photo-on-iphone.jpg)
+
+ Image resource: imore
+
+ Next, take a live photo. This is a moving image, a bit like recording with your video camera, but much shorter. Try to keep the iPhone steady as you take your shot, and choose to shoot something that is continually moving, but with a relatively stable background. Something like cars going down a street is a great place to start.
+
+![long-exposure-effect-iphone](https://images.wondershare.com/filmora/article-images/long-exposure-effect-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Image resource: iPhoneMod
+
+ Now bring up your live photo within the Photos app and bring up the effects selector. You can see this either by tapping 'details' or by simply swiping up whilst viewing the photo. There are lots of effects you can apply to your live photo, but the one we're looking for here is 'long exposure'. Simply tap this and your clever iPhone will make all the adjustments necessary to produce an awesome pro-looking photograph using long exposure.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Not a user of iOS 11?
+
+ If you don't have iOS 11 yet (or can't get it for your model), there is a way around this. Some developers have produced apps which mimic the extended shutter speed of Live Photos. This is achieved by combining multiple exposures of the same photograph, and then stitching them together with an overlain effect to create a simulated long exposure image.
+
+ There are a number of these apps available on the app store, each with its own set of pros and cons. Take a look at [Slow Shutter Cam](https://itunes.apple.com/app/slow-shutter-cam/id357404131?mt=8), [Ultra Slow Shutter Cam PRO](https://itunes.apple.com/us/app/ultra-slow-shutter-cam-pro-professional-long-exposure/id741508910?mt=8), [Slow Shutter Insta](https://itunes.apple.com/ca/app/slow-shutter-insta-free-long-exposure-photo-cam-for/id730352755?mt=8) and [LongExpo](https://itunes.apple.com/us/app/longexpo-slow-shutter-and-long-exposure-camera/id594078421?mt=8) to discover some of the most popular apps of this type. Try them out, and see what works best for you.
+
+**You may also like:** [iPhone Night Photography Tips: Take Night Photos with iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Long Exposure Photography Tips
+
+ Getting amazing long exposure shots has been made as simple as possible, thanks to the geniuses at Apple, but you're still going to need to plan for these shots carefully if you want to make them incredible. Here are some top tips for shooting better long exposure photos on iPhone:
+
+* **Use a tripod:** A simple tripod will avoid the inevitable shake, which can really spoil a good shot. Basic models don't break the bank, and will step your shots up a level with ease.
+* **Get a good phone attachment:** The last thing you want is for your iPhone to hit the deck while you're trying to attach it to the tripod, so choose an attachment system that is secure and easy to use.
+* **Use your ear buds:** Using your white Apple earbuds with 'volume shutter' turned on allows you to activate the shutter without touching the phone. This further reduces the risk of a wobble and subsequently ruined shot.
+* **Photograph moving objects:** Your Live Photo will translate better into a long exposure shot if you have something obviously moving in the image. Having a moving object against stationery surrounds works really well.
+
+ This feature is one of the most exciting and interesting uses of Live Photos to date, and is well worth checking out if you haven't done so already.
+
+### What should you capture with your long exposure iPhone shots?
+
+ Long exposure shots are magical, giving a dreamy, almost ethereal quality to everyday situations. No doubt you'll find your own amazing things to shoot, but to get you started, why not try a long exposure iPhone shot of:
+
+* **Flowing water:** Live near a river or, even better, by the ocean? Perfect, because moving water can become truly enchanting when shot on long exposure. Play around with the time of day, light available and exposure length to capture some really gorgeous scenes.
+
+![flowing-water-long-exposure](https://images.wondershare.com/filmora/article-images/flowing-water-long-exposure.jpg)
+
+ Image resource: Photography Mad
+
+* **Light trails:** Light is everywhere, and if you take your iPhone camera long exposure trick out of the house at night, you'll find some amazing opportunities to shoot. Cars on the highway, Ferris wheels at the fair and even the stars in the sky can become something amazing with a longer exposure.
+
+![long-trails-exposure](https://images.wondershare.com/filmora/article-images/long-trails-exposure.jpg)
+
+ Image resource: WallDevil
+
+* **Motion blur:** To give the sense of something really moving fast, a motion blur can be a captivating effect. From vehicles on the city street to a galloping horse, allowing the moving object to blur whilst everything else around it stays in focus can add a dose of drama to your shots.
+
+![motion-blur-long-exposure](https://images.wondershare.com/filmora/article-images/motion-blur-long-exposure.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Image resource: Digital Photo Secrets
+
+* **Low light photography:** With a longer exposure, things which were previously un-snappable are suddenly within your grasp. Beautiful fountains at night, bridges, buildings… anything which would previously have been little more than a shadow can now become part of your collection, simply by extending the exposure length.
+
+![low-light-long-exposure](https://images.wondershare.com/filmora/article-images/low-light-long-exposure.jpg)
+
+ Image resource: Nikonites
+
+ Play around, try different things and get to know how variations in settings can change the outcome of your shots. Tinkering with exposure length is great fun, and will almost certainly result in some totally Facebook-worthy additions to your gallery.
+
+## To conclude
+
+ Using a digital SLR is looking less and less appealing these days, as Apple push the boundaries of what a phone can do ever further. If you're not using a device that supports Live Photos, try a workaround using a specifically developed app so that you can join in the fun too.
+
+ With the iPhone camera long exposure shots could really up your game on social media. Whether you're a budding travel photographer, a wannabe stock photo entrepreneur or simply an Instagram lover who wants to impress their friends, have a play with the technology available to you and see what you can create. Long exposure shots are massively popular right now, so grab your iPhone and get snapping!
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ Long exposure photography is a wonderful way to add the professional touch to your images. Using a much slower shutter speed, photographs are taken over a longer time period, creating effects that are nothing short of enchanting.
+
+ Previously the preserve of those who could afford to invest in a top of the range SLR, this type of photography is now within reach of many more of us, thanks to improvement in iPhone camera's technology. Want to know how? Read on.
+
+## How to Take Long Exposure Shots on iPhone
+
+* [Section 1: Users on iOS 11](#part1)
+* [Section 2: Not a user of iOS 11?](#part2)
+
+ When you take long exposure shots using a digital SLR, the physical shutter which captures the image stays open for longer. You can also fiddle with the aperture size, to make it easier to capture these images in different light levels. This process is meticulously replicated by the iPhone's newest Photos app, so if you're already on iOS 11, here's how to use it:
+
 ### Users on iOS 11
 
  First of all, make sure Live Photos is switched on. Within the camera app, simply tap the circular button in the middle of the top menu bar to turn it on. Once activated, the button will turn yellow and the 'live' notification will be shown on screen.
@@ -53,9 +171,107 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 
  Now bring up your live photo within the Photos app and bring up the effects selector. You can see this either by tapping 'details' or by simply swiping up whilst viewing the photo. There are lots of effects you can apply to your live photo, but the one we're looking for here is 'long exposure'. Simply tap this and your clever iPhone will make all the adjustments necessary to produce an awesome pro-looking photograph using long exposure.
 
+### Not a user of iOS 11?
+
+ If you don't have iOS 11 yet (or can't get it for your model), there is a way around this. Some developers have produced apps which mimic the extended shutter speed of Live Photos. This is achieved by combining multiple exposures of the same photograph, and then stitching them together with an overlain effect to create a simulated long exposure image.
+
+ There are a number of these apps available on the app store, each with its own set of pros and cons. Take a look at [Slow Shutter Cam](https://itunes.apple.com/app/slow-shutter-cam/id357404131?mt=8), [Ultra Slow Shutter Cam PRO](https://itunes.apple.com/us/app/ultra-slow-shutter-cam-pro-professional-long-exposure/id741508910?mt=8), [Slow Shutter Insta](https://itunes.apple.com/ca/app/slow-shutter-insta-free-long-exposure-photo-cam-for/id730352755?mt=8) and [LongExpo](https://itunes.apple.com/us/app/longexpo-slow-shutter-and-long-exposure-camera/id594078421?mt=8) to discover some of the most popular apps of this type. Try them out, and see what works best for you.
+
+**You may also like:** [iPhone Night Photography Tips: Take Night Photos with iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+### Long Exposure Photography Tips
+
+ Getting amazing long exposure shots has been made as simple as possible, thanks to the geniuses at Apple, but you're still going to need to plan for these shots carefully if you want to make them incredible. Here are some top tips for shooting better long exposure photos on iPhone:
+
+* **Use a tripod:** A simple tripod will avoid the inevitable shake, which can really spoil a good shot. Basic models don't break the bank, and will step your shots up a level with ease.
+* **Get a good phone attachment:** The last thing you want is for your iPhone to hit the deck while you're trying to attach it to the tripod, so choose an attachment system that is secure and easy to use.
+* **Use your ear buds:** Using your white Apple earbuds with 'volume shutter' turned on allows you to activate the shutter without touching the phone. This further reduces the risk of a wobble and subsequently ruined shot.
+* **Photograph moving objects:** Your Live Photo will translate better into a long exposure shot if you have something obviously moving in the image. Having a moving object against stationery surrounds works really well.
+
+ This feature is one of the most exciting and interesting uses of Live Photos to date, and is well worth checking out if you haven't done so already.
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### What should you capture with your long exposure iPhone shots?
+
+ Long exposure shots are magical, giving a dreamy, almost ethereal quality to everyday situations. No doubt you'll find your own amazing things to shoot, but to get you started, why not try a long exposure iPhone shot of:
+
+* **Flowing water:** Live near a river or, even better, by the ocean? Perfect, because moving water can become truly enchanting when shot on long exposure. Play around with the time of day, light available and exposure length to capture some really gorgeous scenes.
+
+![flowing-water-long-exposure](https://images.wondershare.com/filmora/article-images/flowing-water-long-exposure.jpg)
+
+ Image resource: Photography Mad
+
+* **Light trails:** Light is everywhere, and if you take your iPhone camera long exposure trick out of the house at night, you'll find some amazing opportunities to shoot. Cars on the highway, Ferris wheels at the fair and even the stars in the sky can become something amazing with a longer exposure.
+
+![long-trails-exposure](https://images.wondershare.com/filmora/article-images/long-trails-exposure.jpg)
+
+ Image resource: WallDevil
+
+* **Motion blur:** To give the sense of something really moving fast, a motion blur can be a captivating effect. From vehicles on the city street to a galloping horse, allowing the moving object to blur whilst everything else around it stays in focus can add a dose of drama to your shots.
+
+![motion-blur-long-exposure](https://images.wondershare.com/filmora/article-images/motion-blur-long-exposure.jpg)
+
+ Image resource: Digital Photo Secrets
+
+* **Low light photography:** With a longer exposure, things which were previously un-snappable are suddenly within your grasp. Beautiful fountains at night, bridges, buildings… anything which would previously have been little more than a shadow can now become part of your collection, simply by extending the exposure length.
+
+![low-light-long-exposure](https://images.wondershare.com/filmora/article-images/low-light-long-exposure.jpg)
+
+ Image resource: Nikonites
+
+ Play around, try different things and get to know how variations in settings can change the outcome of your shots. Tinkering with exposure length is great fun, and will almost certainly result in some totally Facebook-worthy additions to your gallery.
+
+## To conclude
+
+ Using a digital SLR is looking less and less appealing these days, as Apple push the boundaries of what a phone can do ever further. If you're not using a device that supports Live Photos, try a workaround using a specifically developed app so that you can join in the fun too.
+
+ With the iPhone camera long exposure shots could really up your game on social media. Whether you're a budding travel photographer, a wannabe stock photo entrepreneur or simply an Instagram lover who wants to impress their friends, have a play with the technology available to you and see what you can create. Long exposure shots are massively popular right now, so grab your iPhone and get snapping!
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ Long exposure photography is a wonderful way to add the professional touch to your images. Using a much slower shutter speed, photographs are taken over a longer time period, creating effects that are nothing short of enchanting.
+
+ Previously the preserve of those who could afford to invest in a top of the range SLR, this type of photography is now within reach of many more of us, thanks to improvement in iPhone camera's technology. Want to know how? Read on.
+
+## How to Take Long Exposure Shots on iPhone
+
+* [Section 1: Users on iOS 11](#part1)
+* [Section 2: Not a user of iOS 11?](#part2)
+
+ When you take long exposure shots using a digital SLR, the physical shutter which captures the image stays open for longer. You can also fiddle with the aperture size, to make it easier to capture these images in different light levels. This process is meticulously replicated by the iPhone's newest Photos app, so if you're already on iOS 11, here's how to use it:
+
+### Users on iOS 11
+
+ First of all, make sure Live Photos is switched on. Within the camera app, simply tap the circular button in the middle of the top menu bar to turn it on. Once activated, the button will turn yellow and the 'live' notification will be shown on screen.
+
+![take-live-photo-on-iphone](https://images.wondershare.com/filmora/article-images/take-live-photo-on-iphone.jpg)
+
+ Image resource: imore
+
+ Next, take a live photo. This is a moving image, a bit like recording with your video camera, but much shorter. Try to keep the iPhone steady as you take your shot, and choose to shoot something that is continually moving, but with a relatively stable background. Something like cars going down a street is a great place to start.
+
+![long-exposure-effect-iphone](https://images.wondershare.com/filmora/article-images/long-exposure-effect-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Image resource: iPhoneMod
+
+ Now bring up your live photo within the Photos app and bring up the effects selector. You can see this either by tapping 'details' or by simply swiping up whilst viewing the photo. There are lots of effects you can apply to your live photo, but the one we're looking for here is 'long exposure'. Simply tap this and your clever iPhone will make all the adjustments necessary to produce an awesome pro-looking photograph using long exposure.
 
 ### Not a user of iOS 11?
 
@@ -89,6 +305,10 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 * **Light trails:** Light is everywhere, and if you take your iPhone camera long exposure trick out of the house at night, you'll find some amazing opportunities to shoot. Cars on the highway, Ferris wheels at the fair and even the stars in the sky can become something amazing with a longer exposure.
 
 ![long-trails-exposure](https://images.wondershare.com/filmora/article-images/long-trails-exposure.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: WallDevil
 
@@ -171,110 +391,8 @@ Follow @Ollie Mattison
  This feature is one of the most exciting and interesting uses of Live Photos to date, and is well worth checking out if you haven't done so already.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-### What should you capture with your long exposure iPhone shots?
-
- Long exposure shots are magical, giving a dreamy, almost ethereal quality to everyday situations. No doubt you'll find your own amazing things to shoot, but to get you started, why not try a long exposure iPhone shot of:
-
-* **Flowing water:** Live near a river or, even better, by the ocean? Perfect, because moving water can become truly enchanting when shot on long exposure. Play around with the time of day, light available and exposure length to capture some really gorgeous scenes.
-
-![flowing-water-long-exposure](https://images.wondershare.com/filmora/article-images/flowing-water-long-exposure.jpg)
-
- Image resource: Photography Mad
-
-* **Light trails:** Light is everywhere, and if you take your iPhone camera long exposure trick out of the house at night, you'll find some amazing opportunities to shoot. Cars on the highway, Ferris wheels at the fair and even the stars in the sky can become something amazing with a longer exposure.
-
-![long-trails-exposure](https://images.wondershare.com/filmora/article-images/long-trails-exposure.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
- Image resource: WallDevil
-
-* **Motion blur:** To give the sense of something really moving fast, a motion blur can be a captivating effect. From vehicles on the city street to a galloping horse, allowing the moving object to blur whilst everything else around it stays in focus can add a dose of drama to your shots.
-
-![motion-blur-long-exposure](https://images.wondershare.com/filmora/article-images/motion-blur-long-exposure.jpg)
-
- Image resource: Digital Photo Secrets
-
-* **Low light photography:** With a longer exposure, things which were previously un-snappable are suddenly within your grasp. Beautiful fountains at night, bridges, buildings… anything which would previously have been little more than a shadow can now become part of your collection, simply by extending the exposure length.
-
-![low-light-long-exposure](https://images.wondershare.com/filmora/article-images/low-light-long-exposure.jpg)
-
- Image resource: Nikonites
-
- Play around, try different things and get to know how variations in settings can change the outcome of your shots. Tinkering with exposure length is great fun, and will almost certainly result in some totally Facebook-worthy additions to your gallery.
-
-## To conclude
-
- Using a digital SLR is looking less and less appealing these days, as Apple push the boundaries of what a phone can do ever further. If you're not using a device that supports Live Photos, try a workaround using a specifically developed app so that you can join in the fun too.
-
- With the iPhone camera long exposure shots could really up your game on social media. Whether you're a budding travel photographer, a wannabe stock photo entrepreneur or simply an Instagram lover who wants to impress their friends, have a play with the technology available to you and see what you can create. Long exposure shots are massively popular right now, so grab your iPhone and get snapping!
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- Long exposure photography is a wonderful way to add the professional touch to your images. Using a much slower shutter speed, photographs are taken over a longer time period, creating effects that are nothing short of enchanting.
-
- Previously the preserve of those who could afford to invest in a top of the range SLR, this type of photography is now within reach of many more of us, thanks to improvement in iPhone camera's technology. Want to know how? Read on.
-
-## How to Take Long Exposure Shots on iPhone
-
-* [Section 1: Users on iOS 11](#part1)
-* [Section 2: Not a user of iOS 11?](#part2)
-
- When you take long exposure shots using a digital SLR, the physical shutter which captures the image stays open for longer. You can also fiddle with the aperture size, to make it easier to capture these images in different light levels. This process is meticulously replicated by the iPhone's newest Photos app, so if you're already on iOS 11, here's how to use it:
-
-### Users on iOS 11
-
- First of all, make sure Live Photos is switched on. Within the camera app, simply tap the circular button in the middle of the top menu bar to turn it on. Once activated, the button will turn yellow and the 'live' notification will be shown on screen.
-
-![take-live-photo-on-iphone](https://images.wondershare.com/filmora/article-images/take-live-photo-on-iphone.jpg)
-
- Image resource: imore
-
- Next, take a live photo. This is a moving image, a bit like recording with your video camera, but much shorter. Try to keep the iPhone steady as you take your shot, and choose to shoot something that is continually moving, but with a relatively stable background. Something like cars going down a street is a great place to start.
-
-![long-exposure-effect-iphone](https://images.wondershare.com/filmora/article-images/long-exposure-effect-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
- Image resource: iPhoneMod
-
- Now bring up your live photo within the Photos app and bring up the effects selector. You can see this either by tapping 'details' or by simply swiping up whilst viewing the photo. There are lots of effects you can apply to your live photo, but the one we're looking for here is 'long exposure'. Simply tap this and your clever iPhone will make all the adjustments necessary to produce an awesome pro-looking photograph using long exposure.
-
-### Not a user of iOS 11?
-
- If you don't have iOS 11 yet (or can't get it for your model), there is a way around this. Some developers have produced apps which mimic the extended shutter speed of Live Photos. This is achieved by combining multiple exposures of the same photograph, and then stitching them together with an overlain effect to create a simulated long exposure image.
-
- There are a number of these apps available on the app store, each with its own set of pros and cons. Take a look at [Slow Shutter Cam](https://itunes.apple.com/app/slow-shutter-cam/id357404131?mt=8), [Ultra Slow Shutter Cam PRO](https://itunes.apple.com/us/app/ultra-slow-shutter-cam-pro-professional-long-exposure/id741508910?mt=8), [Slow Shutter Insta](https://itunes.apple.com/ca/app/slow-shutter-insta-free-long-exposure-photo-cam-for/id730352755?mt=8) and [LongExpo](https://itunes.apple.com/us/app/longexpo-slow-shutter-and-long-exposure-camera/id594078421?mt=8) to discover some of the most popular apps of this type. Try them out, and see what works best for you.
-
-**You may also like:** [iPhone Night Photography Tips: Take Night Photos with iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-### Long Exposure Photography Tips
-
- Getting amazing long exposure shots has been made as simple as possible, thanks to the geniuses at Apple, but you're still going to need to plan for these shots carefully if you want to make them incredible. Here are some top tips for shooting better long exposure photos on iPhone:
-
-* **Use a tripod:** A simple tripod will avoid the inevitable shake, which can really spoil a good shot. Basic models don't break the bank, and will step your shots up a level with ease.
-* **Get a good phone attachment:** The last thing you want is for your iPhone to hit the deck while you're trying to attach it to the tripod, so choose an attachment system that is secure and easy to use.
-* **Use your ear buds:** Using your white Apple earbuds with 'volume shutter' turned on allows you to activate the shutter without touching the phone. This further reduces the risk of a wobble and subsequently ruined shot.
-* **Photograph moving objects:** Your Live Photo will translate better into a long exposure shot if you have something obviously moving in the image. Having a moving object against stationery surrounds works really well.
-
- This feature is one of the most exciting and interesting uses of Live Photos to date, and is well worth checking out if you haven't done so already.
 
 ### What should you capture with your long exposure iPhone shots?
 
@@ -305,124 +423,6 @@ Follow @Ollie Mattison
  Image resource: Nikonites
 
  Play around, try different things and get to know how variations in settings can change the outcome of your shots. Tinkering with exposure length is great fun, and will almost certainly result in some totally Facebook-worthy additions to your gallery.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## To conclude
-
- Using a digital SLR is looking less and less appealing these days, as Apple push the boundaries of what a phone can do ever further. If you're not using a device that supports Live Photos, try a workaround using a specifically developed app so that you can join in the fun too.
-
- With the iPhone camera long exposure shots could really up your game on social media. Whether you're a budding travel photographer, a wannabe stock photo entrepreneur or simply an Instagram lover who wants to impress their friends, have a play with the technology available to you and see what you can create. Long exposure shots are massively popular right now, so grab your iPhone and get snapping!
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- Long exposure photography is a wonderful way to add the professional touch to your images. Using a much slower shutter speed, photographs are taken over a longer time period, creating effects that are nothing short of enchanting.
-
- Previously the preserve of those who could afford to invest in a top of the range SLR, this type of photography is now within reach of many more of us, thanks to improvement in iPhone camera's technology. Want to know how? Read on.
-
-## How to Take Long Exposure Shots on iPhone
-
-* [Section 1: Users on iOS 11](#part1)
-* [Section 2: Not a user of iOS 11?](#part2)
-
- When you take long exposure shots using a digital SLR, the physical shutter which captures the image stays open for longer. You can also fiddle with the aperture size, to make it easier to capture these images in different light levels. This process is meticulously replicated by the iPhone's newest Photos app, so if you're already on iOS 11, here's how to use it:
-
-### Users on iOS 11
-
- First of all, make sure Live Photos is switched on. Within the camera app, simply tap the circular button in the middle of the top menu bar to turn it on. Once activated, the button will turn yellow and the 'live' notification will be shown on screen.
-
-![take-live-photo-on-iphone](https://images.wondershare.com/filmora/article-images/take-live-photo-on-iphone.jpg)
-
- Image resource: imore
-
- Next, take a live photo. This is a moving image, a bit like recording with your video camera, but much shorter. Try to keep the iPhone steady as you take your shot, and choose to shoot something that is continually moving, but with a relatively stable background. Something like cars going down a street is a great place to start.
-
-![long-exposure-effect-iphone](https://images.wondershare.com/filmora/article-images/long-exposure-effect-iphone.jpg)
-
- Image resource: iPhoneMod
-
- Now bring up your live photo within the Photos app and bring up the effects selector. You can see this either by tapping 'details' or by simply swiping up whilst viewing the photo. There are lots of effects you can apply to your live photo, but the one we're looking for here is 'long exposure'. Simply tap this and your clever iPhone will make all the adjustments necessary to produce an awesome pro-looking photograph using long exposure.
-
-### Not a user of iOS 11?
-
- If you don't have iOS 11 yet (or can't get it for your model), there is a way around this. Some developers have produced apps which mimic the extended shutter speed of Live Photos. This is achieved by combining multiple exposures of the same photograph, and then stitching them together with an overlain effect to create a simulated long exposure image.
-
- There are a number of these apps available on the app store, each with its own set of pros and cons. Take a look at [Slow Shutter Cam](https://itunes.apple.com/app/slow-shutter-cam/id357404131?mt=8), [Ultra Slow Shutter Cam PRO](https://itunes.apple.com/us/app/ultra-slow-shutter-cam-pro-professional-long-exposure/id741508910?mt=8), [Slow Shutter Insta](https://itunes.apple.com/ca/app/slow-shutter-insta-free-long-exposure-photo-cam-for/id730352755?mt=8) and [LongExpo](https://itunes.apple.com/us/app/longexpo-slow-shutter-and-long-exposure-camera/id594078421?mt=8) to discover some of the most popular apps of this type. Try them out, and see what works best for you.
-
-**You may also like:** [iPhone Night Photography Tips: Take Night Photos with iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Long Exposure Photography Tips
-
- Getting amazing long exposure shots has been made as simple as possible, thanks to the geniuses at Apple, but you're still going to need to plan for these shots carefully if you want to make them incredible. Here are some top tips for shooting better long exposure photos on iPhone:
-
-* **Use a tripod:** A simple tripod will avoid the inevitable shake, which can really spoil a good shot. Basic models don't break the bank, and will step your shots up a level with ease.
-* **Get a good phone attachment:** The last thing you want is for your iPhone to hit the deck while you're trying to attach it to the tripod, so choose an attachment system that is secure and easy to use.
-* **Use your ear buds:** Using your white Apple earbuds with 'volume shutter' turned on allows you to activate the shutter without touching the phone. This further reduces the risk of a wobble and subsequently ruined shot.
-* **Photograph moving objects:** Your Live Photo will translate better into a long exposure shot if you have something obviously moving in the image. Having a moving object against stationery surrounds works really well.
-
- This feature is one of the most exciting and interesting uses of Live Photos to date, and is well worth checking out if you haven't done so already.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### What should you capture with your long exposure iPhone shots?
-
- Long exposure shots are magical, giving a dreamy, almost ethereal quality to everyday situations. No doubt you'll find your own amazing things to shoot, but to get you started, why not try a long exposure iPhone shot of:
-
-* **Flowing water:** Live near a river or, even better, by the ocean? Perfect, because moving water can become truly enchanting when shot on long exposure. Play around with the time of day, light available and exposure length to capture some really gorgeous scenes.
-
-![flowing-water-long-exposure](https://images.wondershare.com/filmora/article-images/flowing-water-long-exposure.jpg)
-
- Image resource: Photography Mad
-
-* **Light trails:** Light is everywhere, and if you take your iPhone camera long exposure trick out of the house at night, you'll find some amazing opportunities to shoot. Cars on the highway, Ferris wheels at the fair and even the stars in the sky can become something amazing with a longer exposure.
-
-![long-trails-exposure](https://images.wondershare.com/filmora/article-images/long-trails-exposure.jpg)
-
- Image resource: WallDevil
-
-* **Motion blur:** To give the sense of something really moving fast, a motion blur can be a captivating effect. From vehicles on the city street to a galloping horse, allowing the moving object to blur whilst everything else around it stays in focus can add a dose of drama to your shots.
-
-![motion-blur-long-exposure](https://images.wondershare.com/filmora/article-images/motion-blur-long-exposure.jpg)
-
- Image resource: Digital Photo Secrets
-
-* **Low light photography:** With a longer exposure, things which were previously un-snappable are suddenly within your grasp. Beautiful fountains at night, bridges, buildings… anything which would previously have been little more than a shadow can now become part of your collection, simply by extending the exposure length.
-
-![low-light-long-exposure](https://images.wondershare.com/filmora/article-images/low-light-long-exposure.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
- Image resource: Nikonites
-
- Play around, try different things and get to know how variations in settings can change the outcome of your shots. Tinkering with exposure length is great fun, and will almost certainly result in some totally Facebook-worthy additions to your gallery.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## To conclude
 
@@ -462,20 +462,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-pro-level-insights-into-the-world-of-windows-11/"><u>[New] Pro-Level Insights Into the World of Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-simplified-steps-for-photo-motion-blur-in-photoshop/"><u>[New] Simplified Steps for Photo Motion Blur in Photoshop</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-snappy-segments-10-snippets-to-enhance-your-edits/"><u>[New] Snappy Segments 10 Snippets to Enhance Your Edits</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-submerged-splendor-top-underwater-video-techniques-with-gopro-for-2024/"><u>[New] Submerged Splendor Top Underwater Video Techniques with GoPro for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-discover-the-power-of-kinemaster-and-learn-about-its-10-online-rivals/"><u>[Updated] Discover the Power of KineMaster & Learn About Its 10 Online Rivals</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-joke-jingles-guide-best-ringtones-online/"><u>[Updated] Joke Jingles Guide Best Ringtones Online</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-insights-on-the-best-gopro-housings-1-10/"><u>Essential Insights on the Best GoPro Housings #1-10</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-vivo-x90s-frp-by-drfone-android/"><u>Full Guide to Bypass Vivo X90S FRP</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-oppo-reno-8t-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Oppo Reno 8T 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-y36i-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo Y36i Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-infinix-hot-40-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Infinix Hot 40 Pro Phone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/is-there-money-behind-the-curtain-of-vlog-critiques-in-2024/"><u>Is There Money Behind the Curtain of Vlog Critiques, In 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-ai-apples-progress-and-areas-needing-improvement-insights/"><u>Revolutionizing AI: Apple's Progress and Areas Needing Improvement - Insights</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/secure-and-effective-methods-for-facetime-audio-preservation-for-2024/"><u>Secure and Effective Methods for FaceTime Audio Preservation for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/spearheading-immersive-worlds-top-vr-minds-for-2024/"><u>Spearheading Immersive Worlds Top VR Minds for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-the-charge-in-macwin-srt-modifications/"><u>[New] Leading the Charge in Mac/Win SRT Modifications</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-precision-in-color-expert-guides-on-adjustment-and-grading/"><u>[New] Precision in Color Expert Guides on Adjustment & Grading</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pricing-framework-music-video-filming-costs/"><u>[New] Pricing Framework Music Video Filming Costs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-one-earbud-woes-restoration-tips/"><u>[Updated] One Earbud Woes Restoration Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/adjusting-youtube-video-scale-effectively-for-2024/"><u>Adjusting YouTube Video Scale Effectively for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-windows-security-patches/"><u>Demystifying Windows Security Patches</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-audio-alerts-excellent-sites-compilation/"><u>In 2024, Premium Audio Alerts Excellent Sites Compilation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-flying-tech-available-right-now/"><u>In 2024, Premium Flying Tech Available Right Now</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-recalibrating-youtube-rearranging-with-ease-and-speed/"><u>In 2024, Recalibrating YouTube Rearranging with Ease and Speed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-reimagine-the-way-you-take-notes-with-mematic/"><u>In 2024, Reimagine the Way You Take Notes with Mematic</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-lg-stylo-6s-attractive-design-meets-efficient-stylus-use/"><u>In-Depth Review: LG Stylo 6'S Attractive Design Meets Efficient Stylus Use</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/ironborn-chimes-expertly-selected-spots-for-tts-downloads-for-2024/"><u>Ironborn Chimes Expertly Selected Spots for TTS Downloads for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/joyful-journeys-in-cinema-summers-top-10-for-families-for-2024/"><u>Joyful Journeys in Cinema Summer's Top 10 for Families for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-get-creative-with-these-top-vignette-apps-for-mobile-phones/"><u>New Get Creative with These Top Vignette Apps for Mobile Phones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-common-tablet-touch-problems-with-these-8-expert-tips/"><u>Solve Common Tablet Touch Problems with These 8 Expert Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sonys-impressive-w800-camera-performance-and-cost-effectiveness-evaluation/"><u>Sony's Impressive W800 Camera - Performance & Cost-Effectiveness Evaluation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/spyros-rebirth-triumph-assessing-worth-and-enchantment-in-the-new-classics/"><u>Spyro's Rebirth Triumph: Assessing Worth and Enchantment in the New Classics</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/transform-your-speech-mondlys-revolutionary-ar-language-programs/"><u>Transform Your Speech: Mondly’s Revolutionary AR Language Programs</u></a></li>
+<li><a href="https://discover-best.techidaily.com/upgrade-your-livestreams-with-manycam-top-virtual-camcorder-app-for-seamless-online-broadcasting/"><u>Upgrade Your Livestreams with ManyCam: Top Virtual Camcorder App for Seamless Online Broadcasting</u></a></li>
 </ul></div>
 

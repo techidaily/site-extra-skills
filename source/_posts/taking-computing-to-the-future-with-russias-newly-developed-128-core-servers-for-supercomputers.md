@@ -1,7 +1,7 @@
 ---
 title: Taking Computing to the Future with Russia's Newly Developed 128-Core Servers for Supercomputers
-date: 2025-01-03T05:26:28.159Z
-updated: 2025-01-04T20:18:03.794Z
+date: 2025-01-10T19:33:44.591Z
+updated: 2025-01-11T21:03:51.304Z
 tags:
   - desktop
 categories:
@@ -46,28 +46,22 @@ Pick up a powerful new gaming or productivity desktop from Lenovo with a tasty d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-mastery-guide-downloading-windows-movie-maker-6-for-2024/"><u>[New] Mastery Guide Downloading Windows Movie Maker 6 for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-outperforming-the-gear-360-best-cameras-of-the-year-reviewed/"><u>[New] Outperforming the Gear 360 Best Cameras of the Year Reviewed</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-guide-to-androids-best-multiparty-calls-for-2024/"><u>[New] The Ultimate Guide to Android's Best Multiparty Calls for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-dxgkrnlsys-blue-screen-of-death-on-windows/"><u>[Solved] dxgkrnl.sys Blue Screen of Death on Windows</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-perfect-your-video-calls-essential-10-free-recording-solutions-for-slack/"><u>[Updated] In 2024, Perfect Your Video Calls Essential 10 Free Recording Solutions for Slack</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-make-your-own-meme/"><u>[Updated] Make Your Own Meme</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-maximize-creativity-with-top-10-cost-free-photo-editors-online/"><u>[Updated] Maximize Creativity with Top 10 Cost-Free Photo Editors Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pilots-toolkit-top-drones-must-have-gear-and-replacements/"><u>[Updated] Pilot's Toolkit Top Drones Must-Have Gear and Replacements</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-no-pay-no-problem-get-your-free-passport-photo-creator-now-online-and-on-desktop/"><u>2024 Approved No Pay, No Problem Get Your Free Passport Photo Creator Now Online & On Desktop</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-image-changing-solutions-clipsmorph-elite/"><u>2024 Approved Premier Image Changing Solutions ClipsMorph Elite</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/achieve-peak-meeting-performance-a-detailed-zoom-guide/"><u>Achieve Peak Meeting Performance A Detailed Zoom Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capturing-photos-from-moving-frames-on-windows-11/"><u>Capturing Photos From Moving Frames on Windows 11</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/guide-ultime-copier-en-toute-securite-votre-ssd-vers-une-autre-version-sur-windows-lken-uniz-leit-sans-aucune-perte-dinformations/"><u>Guide Ultime : Copier en Toute Sécurité Votre SSD Vers Une Autre Version Sur Windows ˈlɪkʷen ٪Uːniz Leit - Sans Aucune Perte D'informations</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-6s-plus-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 6s Plus without Apple ID?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-hdr-capturing-dynamic-range-in-your-images/"><u>In 2024, IPhone HDR Capturing Dynamic Range in Your Images</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-top-10-lightroom-alternatives-free-and-paid-filmora/"><u>In 2024, Top 10 Lightroom Alternatives [Free & Paid] | Filmora</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/maximize-visual-impact-the-perfect-blend-of-windows-11-photos-and-storyremix-for-2024/"><u>Maximize Visual Impact The Perfect Blend of Windows 11, Photos and StoryRemix for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simplifying-the-complexity-of-artificial-intelligence-for-everyone/"><u>Simplifying the Complexity of Artificial Intelligence for Everyone</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-rectify-error-code-0x00000709/"><u>Tips to Rectify Error Code 0X00000709</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-high-quality-screen-recording-with-tunefab/"><u>[New] High-Quality Screen Recording with Tunefab</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-select-high-quality-drones-for-sale/"><u>[New] Select High-Quality Drones For Sale</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigate-the-world-of-digital-humor-with-our-gif-guide/"><u>[Updated] Navigate the World of Digital Humor with Our GIF Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-tips-for-overcoming-adobe-premieres-srt-export-issues/"><u>2024 Approved Quick Tips for Overcoming Adobe Premiere's SRT Export Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-your-external-hdd-to-xbox-one-a-comprehensive-guide/"><u>Connecting Your External HDD to Xbox One: A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/download-and-install-kmplayer-kmp-windows-and-mobile-free-software-guide/"><u>Download and Install KMPlayer (KMP) [Windows & Mobile]: Free Software Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-12-pro-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 12 Pro 5G Fingerprint Lock</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-name-game-for-top-podcast-titles/"><u>In 2024, Mastering the Name Game for Top Podcast Titles</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leaders-in-next-gen-sensory-devices/"><u>Leaders in Next-Gen Sensory Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-social-media-harnessing-the-power-of-facebook-twitter-instagram-and-youtube/"><u>Master Social Media: Harnessing the Power of Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-airdate-selection-podcast-release-tactics-for-2024/"><u>Mastering Airdate Selection Podcast Release Tactics for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-new-era-of-advertising-embracing-the-metaverse-for-2024/"><u>The New Era of Advertising Embracing the Metaverse for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unlock-the-power-of-dvd-authoring-secure-your-entire-macxdvd-suite-at-no-extra-cost/"><u>Unlock the Power of DVD Authoring: Secure Your Entire MacXDVD Suite at No Extra Cost!</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

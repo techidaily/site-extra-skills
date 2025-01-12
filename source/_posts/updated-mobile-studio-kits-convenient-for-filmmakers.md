@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mobile Studio Kits  Convenient for Filmmakers\""
-date: 2024-12-31T17:05:45.989Z
-updated: 2025-01-04T22:14:39.120Z
+date: 2025-01-06T16:00:20.980Z
+updated: 2025-01-11T16:05:25.248Z
 tags: 
   - screen-recording
   - ai video
@@ -31,7 +31,7 @@ A smartphone with a great camera is all you need to record great videos, but you
 The best smartphone accessories are lightweight and require as little setup as possible. One of the best things about making videos on your phone is that it allows you to be spontaneous and record life as it happens. A great smartphone accessory will not make it any more complicated to record on the go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Smartphone Accessories for Making Videos
@@ -43,7 +43,7 @@ Here are four of the best accessories for shooting videos on your smartphone:
 ![tips on lenses](https://images.wondershare.com/filmora/article-images/accessories-clip-on-lenses.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When you use a DSLR you generally have a lot more control over your images than when you record using other kinds of cameras. Part of this is due to the variety of lenses that are available for DSLRs. Most cameras only have the one built-in lens, but DSLRs have detachable lenses you can change to create different effects. Using Clip-On Lenses you can adjust the built-in lens of your smartphone camera to create these same kinds of effects.
@@ -54,6 +54,10 @@ Clip-On Lenses are tiny, which makes them convenient for carrying around. Using 
 
 ![pistol grip](https://images.wondershare.com/filmora/article-images/accessories-pistol-grip.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It will not matter how clear and sharp your videos are if they are shaky. To avoid the stereotypically shaky ‘cellphone vid’ look you will need to stabilize your phone while you record, and there are a lot of ways you can do that. Mounting your phone on a Pistol Grip is one of them.
 
 Smartphones mounted on Pistol Grips will record more stable footage while you walk around with them, and the many Pistol Grips will also attach to a tripod or monopod. If you already have a tripod for a different camera a pistol grip will allow you to use it for your smartphone as well without purchasing a second tripod mount. Pistol Grips for mobile phones cost around $15.
@@ -63,7 +67,7 @@ Smartphones mounted on Pistol Grips will record more stable footage while you wa
 ![selfiestick](https://images.wondershare.com/filmora/article-images/accessories-selfiestick.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Selfie Sticks are great for more than just taking selfies; using a selfie stick also helps you record more stable videos. Besides holding a selfie stick the way you normally do, with your hand on the grip, you can use your selfie stick a lot like you would a monopod. Simply place the handle on the floor, extend your selfie stick to the height you want to record at, and hold it still while you film. Your footage will be from one stable height.
@@ -84,10 +88,6 @@ LAV Mics, also called lavalier or lapel mics, are a popular choice because they 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -103,18 +103,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-effortless-keyword-harvesting-explore-the-best-7-no-fee-tag-extractors/"><u>[New] In 2024, Effortless Keyword Harvesting Explore the Best 7 No-Fee Tag Extractors</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-maximize-your-tiktok-pro-editors-playbook/"><u>[New] Maximize Your TikTok Pro Editor's Playbook</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigate-the-future-of-meetings-a-win11-and-zoom-guide/"><u>[New] Navigate the Future of Meetings A Win11 and Zoom Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-showcasing-your-voice-podcast-features-on-insta/"><u>[New] Showcasing Your Voice Podcast Features on Insta</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamers-signature-look-essential-template-tips-for-channels/"><u>[Updated] In 2024, Gamers' Signature Look Essential Template Tips for Channels</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-optimizing-igtv-videos-editing-strategies/"><u>[Updated] In 2024, Optimizing IGTV Videos Editing Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/anthem-mute-malfunction-fix-your-games-sound-on-windows-1nk-11/"><u>Anthem Mute Malfunction? Fix Your Game's Sound on Windows 1Nk 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/dive-into-digital-literature-with-our-expert-take-on-the-newest-kindle-paperwhite/"><u>Dive Into Digital Literature with Our Expert Take on the Newest Kindle Paperwhite</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-xr-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone XR with iTunes | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-choosing-androids-favorite-freepaid-video-tile-tools-8-ranked/"><u>In 2024, Choosing Android's Favorite Free/Paid Video Tile Tools #8 Ranked</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-flight-indispensable-drone-extras-unveiled/"><u>In 2024, Revolutionizing Flight Indispensable Drone Extras Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sky-eyes-on-the-action-dji-phantom-pro-vs-gopro-fusion/"><u>In 2024, Sky Eyes on the Action DJi Phantom Pro VS GoPro Fusion</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-basics-of-online-videos-the-easiest-10-ideas-for-beginners-on-youtube/"><u>[New] In 2024, Basics of Online Videos The Easiest 10 Ideas for Beginners on YouTube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-future-of-video-capturing-embracing-vimeo-record/"><u>[Updated] 2024 Approved The Future of Video Capturing Embracing Vimeo Record</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-zero-to-hero-mastering-wax-free-video-editor-for-2024/"><u>From Zero to Hero Mastering Wax Free Video Editor for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17t-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo S17t Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-key-industry-figures-transforming-vr-gaming/"><u>In 2024, Key Industry Figures Transforming VR Gaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-learn-to-negate-video-ordering-in-android/"><u>In 2024, Learn To Negate Video Ordering in Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-world-of-laughter-how-to-create-memes-on-9gag-for-2024/"><u>Navigating the World of Laughter How to Create Memes on 9GAG for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/potential-pitfalls-in-virtual-realms-for-2024/"><u>Potential Pitfalls in Virtual Realms for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-want-to-edit-your-nikon-video-files-here-a-powerful-yet-easy-to-use-nikon-video-editor-is-introduced-for-you-to-easily-achieve-that/"><u>Updated Want to Edit Your Nikon Video Files? Here, a Powerful yet Easy-to-Use Nikon Video Editor Is Introduced for You to Easily Achieve That</u></a></li>
 </ul></div>
 

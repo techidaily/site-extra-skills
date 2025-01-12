@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Close-Up Views in Roblox Games\""
-date: 2025-01-02T16:17:29.735Z
-updated: 2025-01-04T22:49:06.328Z
+date: 2025-01-08T23:10:38.443Z
+updated: 2025-01-11T20:41:47.665Z
 tags: 
   - screen-recording
   - ai video
@@ -51,20 +51,20 @@ Step1Go to the Roblox website in your favourite web browser by opening it. Start
 ![start testing game session roblox](https://images.wondershare.com/filmora/article-images/2022/07/start-testing-game-session-roblox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2Once your gaming session has begun, you may zoom by using the wheel while moving ahead. Once again, if you scroll all the way down, this action will put you in first person perspective. Now all you have to do is use your cursor to scroll ahead to zoom in.
 
 ![zoom in with cursoe scroll](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-with-cursoe-scroll.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3When the game's map is in your field of vision and you reach the maximum zoom level, just scroll backward with your mouse to zoom out. It will be essential to do the opposite operation, namely scroll the other direction, to zoom out on your character, in order to zoom in.
 
 Step4In order to play at your selected zoom level, scroll backwards and forth. Because your character will be presented in such tiny type, it will be challenging to play comfortably and see it clearly. Therefore, maintaining balance is crucial in order to have the zoom adjusted to your preferred playing style.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 3\. Use Xbox Controller Thumbsticks to Zoom
 
@@ -76,13 +76,13 @@ Step1There is a simple and convenient technique to manage the zoom while playing
 
 ![push r3 button ontroller](https://images.wondershare.com/filmora/article-images/2022/07/push-r3-button-controller.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2Zoom in by pressing forward on the right thumbstick that has been clicked down.
 
 ![press forward right thumbstick](https://images.wondershare.com/filmora/article-images/2022/07/press-forward-right-thumbstick.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3Pull rearward on the clicked-down right thumbstick to zoom out. The same joystick (right) must constantly be pulled rearward to zoom out.
 
@@ -96,13 +96,13 @@ Step1Open the Roblox app, sign in, and then start a test gaming session. The fir
 
 ![zoom in roblox teblet](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-roblox-teblet.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2To zoom, just use two fingers and slide them apart (for zooming in) or together (for zooming out) like you would to do so on a smartphone (zoom out).
 
 ![zoom roblox with fingers](https://images.wondershare.com/filmora/article-images/2022/07/zoom-roblox-with-fingers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3You will be given the best method using the touchpad: while holding down the right side, move the screen to view your character from the front and from behind!
 
@@ -111,7 +111,7 @@ Step4The camera angle and/or your character will only move if one of your finger
 ![zoom character on roblox](https://images.wondershare.com/filmora/article-images/2022/07/zoom-character-on-roblox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -150,20 +150,18 @@ You may wish to change your viewpoint when playing games on Roblox, the most cut
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-ios-snapshot-spectrum-your-quick-reference-for-2024/"><u>[New] IO's Snapshot Spectrum Your Quick Reference for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-the-world-with-words-15-task-filled-podcast-sessions/"><u>[New] Navigating the World with Words 15 Task-Filled Podcast Sessions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-sleep-aid-asmr-techniques-unveiled/"><u>[New] Sleep Aid ASMR Techniques Unveiled</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-finding-your-fanbase-obs-or-twitch-studio/"><u>[Updated] 2024 Approved Finding Your Fanbase OBS or Twitch Studio</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-how-to-take-landscape-photos-on-iphone-killer-tips/"><u>[Updated] How to Take Landscape Photos on iPhone [Killer Tips]</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-laugh-labyrits-undead-sarcasm-spawners/"><u>2024 Approved Laugh Labyrits Undead Sarcasm Spawners</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-key-scenes-in-video-production/"><u>2024 Approved Mastering Key Scenes in Video Production</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-tweeting-trouble-laughter-league/"><u>2024 Approved Tweeting Trouble Laughter League</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/crafting-a-digital-identity-with-inspiring-instagram-captions-for-2024/"><u>Crafting a Digital Identity with Inspiring Instagram Captions for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-windows-graphics-simplified-way/"><u>Elevate Windows Graphics, Simplified Way</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-study-androids-lightroom-app-functionality-for-2024/"><u>In-Depth Study Android's Lightroom App Functionality for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/initiating-earnings-journey-on-periscope-platform-for-2024/"><u>Initiating Earnings Journey on Periscope Platform for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/leading-choices-for-outdoor-projectors-the-definitive-guide-picks/"><u>Leading Choices for Outdoor Projectors: The Definitive Guide Picks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/magix-beatstrip-harmonizing-your-beats-easily-for-2024/"><u>Magix Beatstrip Harmonizing Your Beats Easily for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/seconds-needed-for-playback-20mb-video-example-for-2024/"><u>Seconds Needed for Playback - 20Mb Video Example for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-zoom-webinar-mastery-a-novices-step-by-step-tutorial/"><u>[New] 2024 Approved Zoom Webinar Mastery A Novice's Step-by-Step Tutorial</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-optimizing-audio-and-visuals-in-mobile-broadcasting-via-obs/"><u>[New] Optimizing Audio & Visuals in Mobile Broadcasting via OBS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-incorporating-audio-into-ppts/"><u>[New] Step-by-Step Incorporating Audio Into PPTs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-novices-compendium-understanding-pixel-perfection/"><u>[Updated] Novice's Compendium Understanding Pixel Perfection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instant-archive-access-revived-deleted-reddit-entries/"><u>2024 Approved Instant Archive Access Revived Deleted Reddit Entries</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-70-lite-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor 70 Lite 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oppo-a78-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo A78 Lock Screen Password</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-lava-agni-2-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Lava Agni 2 5G Without PUK Codes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persistent-issues-in-pathfinders-latest-title-wrath-of-the-righteous-keeps-crashing-down/"><u>Persistent Issues in Pathfinder's Latest Title - Wrath of the Righteous Keeps Crashing Down</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-fixes-todays-rapidly-watched-videos-for-2024/"><u>Quick Fixes Today's Rapidly Watched Videos for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-garmins-vivomove-hr-combining-style-and-functionality-for-daily-sports-enthusiasts/"><u>Review of Garmin's Vivomove HR: Combining Style & Functionality for Daily Sports Enthusiasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sketch-humorous-images-with-adobe-for-2024/"><u>Sketch Humorous Images with Adobe for 2024</u></a></li>
 </ul></div>
 

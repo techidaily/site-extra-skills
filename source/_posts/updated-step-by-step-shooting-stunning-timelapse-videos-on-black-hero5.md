@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step by Step  Shooting Stunning Timelapse Videos on Black Hero5\""
-date: 2024-07-31T09:42:47.276Z
-updated: 2024-08-01T09:42:47.276Z
+date: 2025-01-07T17:19:26.244Z
+updated: 2025-01-11T18:18:54.509Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 
 # How to Shoot a Time-lapse Video with GoPro Hero5 Black
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -37,6 +34,107 @@ Are you an amateur travel photographer who has recently bought a GoPro cam and w
 
 * [Part 1:Shooting a time lapse video with GoPro Hero5](#part1)
 * [Part 2: Making time lapse videos with Wondershare Filmora](#part2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Part 1: Shooting a time lapse video with GoPro Hero5
+
+#### **1. The best time lapse settings in GoPro:**
+
+Selecting the right setting is the most difficult part about shooting a GoPro time lapse. Here is what you need to do:
+
+* At first, you need to set the right interval of shooting
+* Next, you need to choose the optimal resolution
+* Then, you have to select the exact playback rate
+* Lastly, you need to decide on the length of your video.
+
+Below parameters are the best time-lapse intervals for the GoPro Hero5 Black:
+
+* 0.5s for up-close shooting birds, insects and other small moving things;
+* 1.0s for filming in urban areas like flowing traffic, people, buses etc;
+* 2.0s for shooting clouds as well as touristy areas;
+* 5.0s for filming sunset, sunrise and normal moving clouds;
+* 10s for shooting moving clouds and construction videos
+* 30s for taking shots of shadows, drying puddles, thunderstorms etc.;
+* 60s for blooming flowers, growing plants or any other long term process.
+
+Choose 12 MP as the resolution and use 30 frames per second for your videos, which is the ideal settings for getting the most fluid-looking and realistic time-lapses. Now you need to decide on how long you want to shoot. While shooting at an interval of 60 seconds, you would have to place your camera on the location for quite some time, so as to get a time-lapse of considerable duration. If you shoot for 10 minutes with 1s interval, then you will be getting about 20 seconds of time lapse footage which is surely enough for creating a quick montage.
+
+#### **2. Tips before your shoot**
+
+First, you need to look for the right location. Make the most out of the rule of thirds and always ensure that you have a focal point of your time lapse footage. While shooting a crowded street try to position your camera at a vantage point from where you can capture the movement of the people and even that of the clouds.
+
+Make use of good tripod, a fast and spacious SD card, a suction mount and always keep an extra battery. Gorilla Pod with its 3 in 1 mount is probably the best tripod for action cams. A longer cord can be of great help in situations where you have a power source. This would allow you to shoot hours and hours of footage on your GoPro.
+
+#### **3. Steps for making your time lapse video**
+
+1. Switch on your GoPro Hero5
+2. Tap the shooting mode icon at the bottom of the left
+3. Tap the time lapse icon located on the right of the screen and choose time lapse video
+4. Select your settings by going to Res, FOV and Interval
+5. Tap on the screen to make the settings disappear
+6. Press the record button to shoot
+7. Now download your recorded video by connecting your camera or by using an SD card reader.
+
+[Learn complete review of GoPro Hero5 Black](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
+
+## Making time lapse videos with Wondershare Filmora
+
+[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful and easy to use software with which you can edit your time lapse videos. The Filmora action cam version is going to make your job a lot more easy. It comes with 2 new tools-
+
+The Action Cam Tool- this has the capacity of correcting lens distortion and can also perform other important tasks like video stabilization, color correction, speed control, audio de-noise and much more.
+
+The Instant cutter tool on the other hand can be used for trimming and merging videos quickly and easily without damaging its quality. It supports many video formats like  encoded MP4, MTS and mov video which have been shot on phones, HD cameras and Action cams.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+* First, launch the Filmora app and then choose the ‘action cam tool’
+* Next, you need to click the ‘Import’ button or the ‘ Import an Action cam video’ button, so as to import your recorded video to Wondershare Filmora.
+
+![1-action-cam-tool-fix-entrance](https://images.wondershare.com/filmora/article-images/filmora-splash-screen-0321.jpg)
+
+* Now go to the Speed tab and bring the Playhead to the exact position where the speed effect is to be applied.
+* Click the Add Marker button. Click the speed marker and drag it onto either side of your timeline so as to choose a number of clips on your timeline.
+
+![speed-effect-speed-add-marke](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
+
+* The speed settings can be adjusted by clicking on the checkbox marked Speed. The speed slider can be moved forward to make it faster up to 20x for the time lapse effect.
+* Export your time lapse video to Full Features Mode to edit further, such as adding various filters, overlay and effects. Currently, there are more than 300 Effects, and there is an [ACTION CAM WINTER SET](https://www.filmstocks.com/effects-store-upgrade.html)available now. [Check More](https://www.filmstocks.com/effects-store-upgrade.html)
+
+[Learn more detailed information about how to make a time lapse video in Filmora Full Feature Mode](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+These days more and more travel photographers are resorting to time lapse videos instead of the regular ones. No matter if you want to shoot nature, urban life, beaches, clouds or sunrise, compacting a couple of hours of footage into a few minutes can be rather powerful visual narrative.
+
+A time lapse video is basically a sequence of photos which have been shot at an interval and then player with a much faster speed. The time interval in which the photos have been shot could vary from a few seconds to a few minutes depending on the duration of the video you want to create. This is substantially different from a regular video where the photos are recorded in quick succession by the camera and then stringed together in real time. Time lapses can be a very handy tool for recording scenes which occur over a considerable period of time (for eg. Sunset, sunrise, eclipses, budding of flowers, clouds etc).
+
+Are you an amateur travel photographer who has recently bought a GoPro cam and wondering which the best setting for time lapse photography is? Are you still not certain about which editing software to use for editing your GoPro time lapses? In this post we will discuss how to shoot a time lapse video with GoPro Hero 5 and how to edit the video with Filmora.
+
+* [Part 1:Shooting a time lapse video with GoPro Hero5](#part1)
+* [Part 2: Making time lapse videos with Wondershare Filmora](#part2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Shooting a time lapse video with GoPro Hero5
 
@@ -94,17 +192,15 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 * First, launch the Filmora app and then choose the ‘action cam tool’
 * Next, you need to click the ‘Import’ button or the ‘ Import an Action cam video’ button, so as to import your recorded video to Wondershare Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![1-action-cam-tool-fix-entrance](https://images.wondershare.com/filmora/article-images/filmora-splash-screen-0321.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Now go to the Speed tab and bring the Playhead to the exact position where the speed effect is to be applied.
 * Click the Add Marker button. Click the speed marker and drag it onto either side of your timeline so as to choose a number of clips on your timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![speed-effect-speed-add-marke](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
 
 * The speed settings can be adjusted by clicking on the checkbox marked Speed. The speed slider can be moved forward to make it faster up to 20x for the time lapse effect.
@@ -113,6 +209,103 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 [Learn more detailed information about how to make a time lapse video in Filmora Full Feature Mode](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+These days more and more travel photographers are resorting to time lapse videos instead of the regular ones. No matter if you want to shoot nature, urban life, beaches, clouds or sunrise, compacting a couple of hours of footage into a few minutes can be rather powerful visual narrative.
+
+A time lapse video is basically a sequence of photos which have been shot at an interval and then player with a much faster speed. The time interval in which the photos have been shot could vary from a few seconds to a few minutes depending on the duration of the video you want to create. This is substantially different from a regular video where the photos are recorded in quick succession by the camera and then stringed together in real time. Time lapses can be a very handy tool for recording scenes which occur over a considerable period of time (for eg. Sunset, sunrise, eclipses, budding of flowers, clouds etc).
+
+Are you an amateur travel photographer who has recently bought a GoPro cam and wondering which the best setting for time lapse photography is? Are you still not certain about which editing software to use for editing your GoPro time lapses? In this post we will discuss how to shoot a time lapse video with GoPro Hero 5 and how to edit the video with Filmora.
+
+* [Part 1:Shooting a time lapse video with GoPro Hero5](#part1)
+* [Part 2: Making time lapse videos with Wondershare Filmora](#part2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Part 1: Shooting a time lapse video with GoPro Hero5
+
+#### **1. The best time lapse settings in GoPro:**
+
+Selecting the right setting is the most difficult part about shooting a GoPro time lapse. Here is what you need to do:
+
+* At first, you need to set the right interval of shooting
+* Next, you need to choose the optimal resolution
+* Then, you have to select the exact playback rate
+* Lastly, you need to decide on the length of your video.
+
+Below parameters are the best time-lapse intervals for the GoPro Hero5 Black:
+
+* 0.5s for up-close shooting birds, insects and other small moving things;
+* 1.0s for filming in urban areas like flowing traffic, people, buses etc;
+* 2.0s for shooting clouds as well as touristy areas;
+* 5.0s for filming sunset, sunrise and normal moving clouds;
+* 10s for shooting moving clouds and construction videos
+* 30s for taking shots of shadows, drying puddles, thunderstorms etc.;
+* 60s for blooming flowers, growing plants or any other long term process.
+
+Choose 12 MP as the resolution and use 30 frames per second for your videos, which is the ideal settings for getting the most fluid-looking and realistic time-lapses. Now you need to decide on how long you want to shoot. While shooting at an interval of 60 seconds, you would have to place your camera on the location for quite some time, so as to get a time-lapse of considerable duration. If you shoot for 10 minutes with 1s interval, then you will be getting about 20 seconds of time lapse footage which is surely enough for creating a quick montage.
+
+#### **2. Tips before your shoot**
+
+First, you need to look for the right location. Make the most out of the rule of thirds and always ensure that you have a focal point of your time lapse footage. While shooting a crowded street try to position your camera at a vantage point from where you can capture the movement of the people and even that of the clouds.
+
+Make use of good tripod, a fast and spacious SD card, a suction mount and always keep an extra battery. Gorilla Pod with its 3 in 1 mount is probably the best tripod for action cams. A longer cord can be of great help in situations where you have a power source. This would allow you to shoot hours and hours of footage on your GoPro.
+
+#### **3. Steps for making your time lapse video**
+
+1. Switch on your GoPro Hero5
+2. Tap the shooting mode icon at the bottom of the left
+3. Tap the time lapse icon located on the right of the screen and choose time lapse video
+4. Select your settings by going to Res, FOV and Interval
+5. Tap on the screen to make the settings disappear
+6. Press the record button to shoot
+7. Now download your recorded video by connecting your camera or by using an SD card reader.
+
+[Learn complete review of GoPro Hero5 Black](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
+
+## Making time lapse videos with Wondershare Filmora
+
+[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful and easy to use software with which you can edit your time lapse videos. The Filmora action cam version is going to make your job a lot more easy. It comes with 2 new tools-
+
+The Action Cam Tool- this has the capacity of correcting lens distortion and can also perform other important tasks like video stabilization, color correction, speed control, audio de-noise and much more.
+
+The Instant cutter tool on the other hand can be used for trimming and merging videos quickly and easily without damaging its quality. It supports many video formats like  encoded MP4, MTS and mov video which have been shot on phones, HD cameras and Action cams.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+* First, launch the Filmora app and then choose the ‘action cam tool’
+* Next, you need to click the ‘Import’ button or the ‘ Import an Action cam video’ button, so as to import your recorded video to Wondershare Filmora.
+
+![1-action-cam-tool-fix-entrance](https://images.wondershare.com/filmora/article-images/filmora-splash-screen-0321.jpg)
+
+* Now go to the Speed tab and bring the Playhead to the exact position where the speed effect is to be applied.
+* Click the Add Marker button. Click the speed marker and drag it onto either side of your timeline so as to choose a number of clips on your timeline.
+
+![speed-effect-speed-add-marke](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
+
+* The speed settings can be adjusted by clicking on the checkbox marked Speed. The speed slider can be moved forward to make it faster up to 20x for the time lapse effect.
+* Export your time lapse video to Full Features Mode to edit further, such as adding various filters, overlay and effects. Currently, there are more than 300 Effects, and there is an [ACTION CAM WINTER SET](https://www.filmstocks.com/effects-store-upgrade.html)available now. [Check More](https://www.filmstocks.com/effects-store-upgrade.html)
+
+[Learn more detailed information about how to make a time lapse video in Filmora Full Feature Mode](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -176,9 +369,6 @@ Make use of good tripod, a fast and spacious SD card, a suction mount and always
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Making time lapse videos with Wondershare Filmora
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful and easy to use software with which you can edit your time lapse videos. The Filmora action cam version is going to make your job a lot more easy. It comes with 2 new tools-
@@ -199,103 +389,9 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 
 ![speed-effect-speed-add-marke](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
 
-* The speed settings can be adjusted by clicking on the checkbox marked Speed. The speed slider can be moved forward to make it faster up to 20x for the time lapse effect.
-* Export your time lapse video to Full Features Mode to edit further, such as adding various filters, overlay and effects. Currently, there are more than 300 Effects, and there is an [ACTION CAM WINTER SET](https://www.filmstocks.com/effects-store-upgrade.html)available now. [Check More](https://www.filmstocks.com/effects-store-upgrade.html)
-
-[Learn more detailed information about how to make a time lapse video in Filmora Full Feature Mode](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-These days more and more travel photographers are resorting to time lapse videos instead of the regular ones. No matter if you want to shoot nature, urban life, beaches, clouds or sunrise, compacting a couple of hours of footage into a few minutes can be rather powerful visual narrative.
-
-A time lapse video is basically a sequence of photos which have been shot at an interval and then player with a much faster speed. The time interval in which the photos have been shot could vary from a few seconds to a few minutes depending on the duration of the video you want to create. This is substantially different from a regular video where the photos are recorded in quick succession by the camera and then stringed together in real time. Time lapses can be a very handy tool for recording scenes which occur over a considerable period of time (for eg. Sunset, sunrise, eclipses, budding of flowers, clouds etc).
-
-Are you an amateur travel photographer who has recently bought a GoPro cam and wondering which the best setting for time lapse photography is? Are you still not certain about which editing software to use for editing your GoPro time lapses? In this post we will discuss how to shoot a time lapse video with GoPro Hero 5 and how to edit the video with Filmora.
-
-* [Part 1:Shooting a time lapse video with GoPro Hero5](#part1)
-* [Part 2: Making time lapse videos with Wondershare Filmora](#part2)
-
-## Part 1: Shooting a time lapse video with GoPro Hero5
-
-#### **1. The best time lapse settings in GoPro:**
-
-Selecting the right setting is the most difficult part about shooting a GoPro time lapse. Here is what you need to do:
-
-* At first, you need to set the right interval of shooting
-* Next, you need to choose the optimal resolution
-* Then, you have to select the exact playback rate
-* Lastly, you need to decide on the length of your video.
-
-Below parameters are the best time-lapse intervals for the GoPro Hero5 Black:
-
-* 0.5s for up-close shooting birds, insects and other small moving things;
-* 1.0s for filming in urban areas like flowing traffic, people, buses etc;
-* 2.0s for shooting clouds as well as touristy areas;
-* 5.0s for filming sunset, sunrise and normal moving clouds;
-* 10s for shooting moving clouds and construction videos
-* 30s for taking shots of shadows, drying puddles, thunderstorms etc.;
-* 60s for blooming flowers, growing plants or any other long term process.
-
-Choose 12 MP as the resolution and use 30 frames per second for your videos, which is the ideal settings for getting the most fluid-looking and realistic time-lapses. Now you need to decide on how long you want to shoot. While shooting at an interval of 60 seconds, you would have to place your camera on the location for quite some time, so as to get a time-lapse of considerable duration. If you shoot for 10 minutes with 1s interval, then you will be getting about 20 seconds of time lapse footage which is surely enough for creating a quick montage.
-
-#### **2. Tips before your shoot**
-
-First, you need to look for the right location. Make the most out of the rule of thirds and always ensure that you have a focal point of your time lapse footage. While shooting a crowded street try to position your camera at a vantage point from where you can capture the movement of the people and even that of the clouds.
-
-Make use of good tripod, a fast and spacious SD card, a suction mount and always keep an extra battery. Gorilla Pod with its 3 in 1 mount is probably the best tripod for action cams. A longer cord can be of great help in situations where you have a power source. This would allow you to shoot hours and hours of footage on your GoPro.
-
-#### **3. Steps for making your time lapse video**
-
-1. Switch on your GoPro Hero5
-2. Tap the shooting mode icon at the bottom of the left
-3. Tap the time lapse icon located on the right of the screen and choose time lapse video
-4. Select your settings by going to Res, FOV and Interval
-5. Tap on the screen to make the settings disappear
-6. Press the record button to shoot
-7. Now download your recorded video by connecting your camera or by using an SD card reader.
-
-[Learn complete review of GoPro Hero5 Black](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
-
-## Making time lapse videos with Wondershare Filmora
-
-[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful and easy to use software with which you can edit your time lapse videos. The Filmora action cam version is going to make your job a lot more easy. It comes with 2 new tools-
-
-The Action Cam Tool- this has the capacity of correcting lens distortion and can also perform other important tasks like video stabilization, color correction, speed control, audio de-noise and much more.
-
-The Instant cutter tool on the other hand can be used for trimming and merging videos quickly and easily without damaging its quality. It supports many video formats like  encoded MP4, MTS and mov video which have been shot on phones, HD cameras and Action cams.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-* First, launch the Filmora app and then choose the ‘action cam tool’
-* Next, you need to click the ‘Import’ button or the ‘ Import an Action cam video’ button, so as to import your recorded video to Wondershare Filmora.
-
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![1-action-cam-tool-fix-entrance](https://images.wondershare.com/filmora/article-images/filmora-splash-screen-0321.jpg)
-
-* Now go to the Speed tab and bring the Playhead to the exact position where the speed effect is to be applied.
-* Click the Add Marker button. Click the speed marker and drag it onto either side of your timeline so as to choose a number of clips on your timeline.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![speed-effect-speed-add-marke](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
 
 * The speed settings can be adjusted by clicking on the checkbox marked Speed. The speed slider can be moved forward to make it faster up to 20x for the time lapse effect.
 * Export your time lapse video to Full Features Mode to edit further, such as adding various filters, overlay and effects. Currently, there are more than 300 Effects, and there is an [ACTION CAM WINTER SET](https://www.filmstocks.com/effects-store-upgrade.html)available now. [Check More](https://www.filmstocks.com/effects-store-upgrade.html)
@@ -304,110 +400,9 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-These days more and more travel photographers are resorting to time lapse videos instead of the regular ones. No matter if you want to shoot nature, urban life, beaches, clouds or sunrise, compacting a couple of hours of footage into a few minutes can be rather powerful visual narrative.
-
-A time lapse video is basically a sequence of photos which have been shot at an interval and then player with a much faster speed. The time interval in which the photos have been shot could vary from a few seconds to a few minutes depending on the duration of the video you want to create. This is substantially different from a regular video where the photos are recorded in quick succession by the camera and then stringed together in real time. Time lapses can be a very handy tool for recording scenes which occur over a considerable period of time (for eg. Sunset, sunrise, eclipses, budding of flowers, clouds etc).
-
-Are you an amateur travel photographer who has recently bought a GoPro cam and wondering which the best setting for time lapse photography is? Are you still not certain about which editing software to use for editing your GoPro time lapses? In this post we will discuss how to shoot a time lapse video with GoPro Hero 5 and how to edit the video with Filmora.
-
-* [Part 1:Shooting a time lapse video with GoPro Hero5](#part1)
-* [Part 2: Making time lapse videos with Wondershare Filmora](#part2)
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## Part 1: Shooting a time lapse video with GoPro Hero5
-
-#### **1. The best time lapse settings in GoPro:**
-
-Selecting the right setting is the most difficult part about shooting a GoPro time lapse. Here is what you need to do:
-
-* At first, you need to set the right interval of shooting
-* Next, you need to choose the optimal resolution
-* Then, you have to select the exact playback rate
-* Lastly, you need to decide on the length of your video.
-
-Below parameters are the best time-lapse intervals for the GoPro Hero5 Black:
-
-* 0.5s for up-close shooting birds, insects and other small moving things;
-* 1.0s for filming in urban areas like flowing traffic, people, buses etc;
-* 2.0s for shooting clouds as well as touristy areas;
-* 5.0s for filming sunset, sunrise and normal moving clouds;
-* 10s for shooting moving clouds and construction videos
-* 30s for taking shots of shadows, drying puddles, thunderstorms etc.;
-* 60s for blooming flowers, growing plants or any other long term process.
-
-Choose 12 MP as the resolution and use 30 frames per second for your videos, which is the ideal settings for getting the most fluid-looking and realistic time-lapses. Now you need to decide on how long you want to shoot. While shooting at an interval of 60 seconds, you would have to place your camera on the location for quite some time, so as to get a time-lapse of considerable duration. If you shoot for 10 minutes with 1s interval, then you will be getting about 20 seconds of time lapse footage which is surely enough for creating a quick montage.
-
-#### **2. Tips before your shoot**
-
-First, you need to look for the right location. Make the most out of the rule of thirds and always ensure that you have a focal point of your time lapse footage. While shooting a crowded street try to position your camera at a vantage point from where you can capture the movement of the people and even that of the clouds.
-
-Make use of good tripod, a fast and spacious SD card, a suction mount and always keep an extra battery. Gorilla Pod with its 3 in 1 mount is probably the best tripod for action cams. A longer cord can be of great help in situations where you have a power source. This would allow you to shoot hours and hours of footage on your GoPro.
-
-#### **3. Steps for making your time lapse video**
-
-1. Switch on your GoPro Hero5
-2. Tap the shooting mode icon at the bottom of the left
-3. Tap the time lapse icon located on the right of the screen and choose time lapse video
-4. Select your settings by going to Res, FOV and Interval
-5. Tap on the screen to make the settings disappear
-6. Press the record button to shoot
-7. Now download your recorded video by connecting your camera or by using an SD card reader.
-
-[Learn complete review of GoPro Hero5 Black](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Making time lapse videos with Wondershare Filmora
-
-[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful and easy to use software with which you can edit your time lapse videos. The Filmora action cam version is going to make your job a lot more easy. It comes with 2 new tools-
-
-The Action Cam Tool- this has the capacity of correcting lens distortion and can also perform other important tasks like video stabilization, color correction, speed control, audio de-noise and much more.
-
-The Instant cutter tool on the other hand can be used for trimming and merging videos quickly and easily without damaging its quality. It supports many video formats like  encoded MP4, MTS and mov video which have been shot on phones, HD cameras and Action cams.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-* First, launch the Filmora app and then choose the ‘action cam tool’
-* Next, you need to click the ‘Import’ button or the ‘ Import an Action cam video’ button, so as to import your recorded video to Wondershare Filmora.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-![1-action-cam-tool-fix-entrance](https://images.wondershare.com/filmora/article-images/filmora-splash-screen-0321.jpg)
-
-* Now go to the Speed tab and bring the Playhead to the exact position where the speed effect is to be applied.
-* Click the Add Marker button. Click the speed marker and drag it onto either side of your timeline so as to choose a number of clips on your timeline.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
-![speed-effect-speed-add-marke](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
-
-* The speed settings can be adjusted by clicking on the checkbox marked Speed. The speed slider can be moved forward to make it faster up to 20x for the time lapse effect.
-* Export your time lapse video to Full Features Mode to edit further, such as adding various filters, overlay and effects. Currently, there are more than 300 Effects, and there is an [ACTION CAM WINTER SET](https://www.filmstocks.com/effects-store-upgrade.html)available now. [Check More](https://www.filmstocks.com/effects-store-upgrade.html)
-
-[Learn more detailed information about how to make a time lapse video in Filmora Full Feature Mode](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
 
@@ -437,5 +432,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-secure-quick-and-simple-screenshot-techniques-for-w8-users/"><u>[New] In 2024, Secure, Quick & Simple Screenshot Techniques for W8 Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inspiring-14-animated-text-concepts/"><u>[New] Inspiring 14 Animated Text Concepts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-solve-windows-10-photos-app-crashes-effectively/"><u>[Updated] How to Solve Windows 10 Photos App Crashes Effectively</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-can-i-browse-through-all-my-contacts-shared-videos-and-photos/"><u>[Updated] In 2024, Can I Browse Through All My Contact's Shared Videos & Photos?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-youtube-pros-tubebuddys-edge/"><u>[Updated] Unveiling YouTube Pros TubeBuddy's Edge</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-metaverse-how-to-build-memes-that-pop-online/"><u>2024 Approved Inside Metaverse How to Build Memes That Pop Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-physical-presence-vs-virtual-validation/"><u>2024 Approved Physical Presence vs Virtual Validation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-secure-shots-easy-methods-for-masking-facial-details/"><u>2024 Approved Secure Shots Easy Methods for Masking Facial Details</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-shift-photo-realism-to-a-more-distinctive-outer-glow-psx/"><u>2024 Approved Shift Photo Realism to a More Distinctive Outer Glow PSX</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connect-with-ease-best-free-video-calls-apps-available-for-windows-users/"><u>Connect with Ease: Best Free Video Calls Apps Available for Windows Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-5-lite-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 5 Lite to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-honor-x50iplus-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Honor X50i+ Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-your-craft-best-drawing-tools-on-the-chromebook-spectrum/"><u>In 2024, Master Your Craft Best Drawing Tools on the Chromebook Spectrum</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/most-reliable-image-archiving-sites-for-2024/"><u>Most Reliable Image Archiving Sites for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/polarr-photo-magic-your-complete-image-processing-manual-for-2024/"><u>Polarr Photo Magic Your Complete Image Processing Manual for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unexpected-turn-for-apple-as-they-back-california-right-to-repair-act-analysis-on-zdnet/"><u>Unexpected Turn for Apple as They Back California Right-To-Repair Act | Analysis on ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlock-better-engagement-on-instagram-with-video-loops-for-2024/"><u>Unlock Better Engagement on Instagram With Video Loops for 2024</u></a></li>
+</ul></div>
 

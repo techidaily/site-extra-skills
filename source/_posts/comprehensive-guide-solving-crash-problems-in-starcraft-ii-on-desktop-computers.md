@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Solving Crash Problems in StarCraft II on Desktop Computers"
-date: 2024-12-29T00:42:30.616Z
-updated: 2025-01-05T04:13:36.010Z
+date: 2025-01-08T22:22:10.919Z
+updated: 2025-01-11T22:36:05.200Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b329730
 
  Before we dive into anything advanced, make sure you’ve tried to restart the game and your PC to see if it’s just a one-time random error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## System requirements
 
 | **Minimum**          | **Recommended**                                                                                                |                                                                                                                |
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b329730
 | **Storage**          | 20 GB available space                                                                                          | 20 GB available space                                                                                          |
 | **Additional Notes** | a) Can run at 720p/60fps; b) It’s recommended to install the game on an SSD for a more streamlined experience. | a) Can run at 1080p/60fps; b) It’s recommended to install the game on an SSD for a more streamlined experience |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Close background programs
 
  Naraka: Bladepoint is likely to crash when too many programs are running in the background and taking up all the resources. You can shut down the background programs via Task Manager:
@@ -61,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b329730
 2. Under the**Processes** tab, look for the processes that are CPU, memory, and network-hogging. Take Chrome here, for example, right-click it then click**End task** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the next fix.
 
@@ -76,25 +88,13 @@ If this doesn’t solve your problem, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If your game still crashes after you updated the graphics driver, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Verify your game files
 
@@ -117,6 +117,10 @@ If this doesn’t solve your problem, try the next fix.
 
  If verifying your game files doesn’t fix the crashing issue, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Repair system files
 
  In addition to game files, corrupted system files could also cause Naraka: Bladepoint to crash. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues. This tool can be handy, but most of the time manual repair is required.
@@ -128,13 +132,13 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Increase the virtual memory on your PC
 
@@ -149,10 +153,6 @@ If this doesn’t solve your problem, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
@@ -175,20 +175,16 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 4. Calculate and fill in the**Initial size and Maximum size** , click**Set** then click**OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If your game still crashes, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Keep your system up-to-date
@@ -208,6 +204,10 @@ If your game still crashes, try the next fix.
 
 If this doesn’t solve your problem, try the last fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 7: Perform a clean boot
 
  A clean boot will start your PC with the minimum sets of drivers and services that Windows requires to run.
@@ -220,16 +220,8 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
@@ -237,6 +229,10 @@ If this doesn’t solve your problem, try the last fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If Naraka: Bladepoint doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
@@ -271,6 +267,10 @@ If this doesn’t solve your problem, try the last fix.
  Known compatibility issues from Sonic studio virtual mixer driver have been found, per the developer, and the current workaround is to disable this device. If you want to check if you have this device or want to disable it, go to**Sound Settings >> Manage sound devices** . If you have Sonic studio virtual mixer, you’ll be able to see it there and disable it if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-09-03_11-07-51.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  Hopefully this article is helpful! Please feel free to leave a comment down below if you have any questions or suggestions.
@@ -294,22 +294,22 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-fashioning-small-homes-with-eastern-aesthetics/"><u>[New] 2024 Approved Fashioning Small Homes with Eastern Aesthetics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-intelligent-volume-modulation-strategies/"><u>[New] Intelligent Volume Modulation Strategies</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-winning-at-windows-11-image-tweaking-tricks/"><u>[New] Winning at Window's 11 Image Tweaking Tricks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bridging-the-gap-transitioning-youtube-to-televisions-smoothly/"><u>[Updated] 2024 Approved Bridging the Gap Transitioning YouTube to Televisions Smoothly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-inside-the-arsenal-the-complete-review-of-sj-cam-s6/"><u>[Updated] Inside the Arsenal The Complete Review of SJ-CAM S6</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-overcoming-common-airdrop-failures-on-ios-and-macos-systems/"><u>[Updated] Overcoming Common Airdrop Failures on iOS and macOS Systems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-speed-up-srt-to-text-conversion-with-this-essential-guide/"><u>[Updated] Speed Up SRT to Text Conversion with This Essential Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-productivity-with-auditory-storytelling/"><u>2024 Approved Maximizing Productivity with Auditory Storytelling</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-narrative-voice-with-windows-11-tools/"><u>Crafting Narrative Voice with Windows 11 Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/cut-down-your-computers-warmup-time-in-win11/"><u>Cut Down Your Computer's Warmup Time in Win11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-inversion-workshop/"><u>In 2024, Inversion Workshop</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-photoshop-starter-kit-10-crucial-tips-to-know/"><u>In 2024, Photoshop Starter Kit 10 Crucial Tips to Know</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/max-360-vs-hero-11-discovering-the-gopro-video-champion-for-2024/"><u>Max 360 Vs. Hero 11 - Discovering the GoPro Video Champion for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/off-facebook-activity-analysis-and-secure-browsing-practices-for-2024/"><u>Off-Facebook Activity Analysis & Secure Browsing Practices for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unmatched-quality-the-premier-4k-mirrorless-choices-for-2024/"><u>Unmatched Quality The Premier 4K Mirrorless Choices for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/wake-on-lan-setup-guide-enabling-on-windows-10-and-11-systems/"><u>Wake-on-LAN Setup Guide: Enabling on Windows 10 & 11 Systems</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-razr-40-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Razr 40 Ultra Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-cream-of-the-crop-best-5-sharp-edged-displays/"><u>[New] 2024 Approved The Cream of the Crop Best 5 Sharp-Edged Displays</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-enhancing-customer-engagement-with-personalized-marketing-strategies/"><u>[New] Enhancing Customer Engagement with Personalized Marketing Strategies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-tactics-for-android-video-capture/"><u>[New] Essential Tactics for Android Video Capture</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-exploring-the-undiscovered-facets-of-story-viewing/"><u>[New] In 2024, Exploring the Undiscovered Facets of Story Viewing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quick-tips-for-transcribing-audio-to-text-using-microsoft-word/"><u>[New] Quick Tips for Transcribing Audio to Text Using Microsoft Word</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-premier-manual-leveraging-mobizens-full-potential-for-mobile-capture/"><u>[Updated] In 2024, Premier Manual Leveraging Mobizen's Full Potential for Mobile Capture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photo-prospectus-top-10-professional-lens-choices/"><u>[Updated] Photo Prospectus Top 10 Professional Lens Choices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-amplify-your-brands-voice-the-power-of-shaped-videos/"><u>2024 Approved Amplify Your Brand’s Voice The Power of Shaped Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-background-removal-in-images-using-canva/"><u>2024 Approved Mastering Background Removal in Images Using Canva</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-quality-and-cost-savings-unite-in-best-asmr-mics/"><u>2024 Approved Quality and Cost Savings Unite in Best ASMR Mics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-rev-up-your-reps-exercise-tunes-from-the-top-20/"><u>2024 Approved Rev Up Your Reps Exercise Tunes From the Top 20</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/contrasting-sonys-playstation-5-models-the-new-ps5-slim-against-classic-ps5/"><u>Contrasting Sony's PlayStation 5 Models: The New PS5 Slim Against Classic PS5</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-on-finding-optimal-free-srt-translator-services-for-2024/"><u>Expert Tips on Finding Optimal Free SRT Translator Services for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revel-in-these-14-enthralling-text-based-movements/"><u>In 2024, Revel in These 14 Enthralling Text-Based Movements</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximize-your-window-usage-top-30-unknown-tips-and-tricks-for-windows-11-for-2024/"><u>Maximize Your Window Usage Top 30 Unknown Tips and Tricks for Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/professional-panoramic-vision-leading-360-cameras-of-2023-for-2024/"><u>Professional Panoramic Vision Leading 360° Cameras of 2023 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-method-to-verify-and-update-your-tiktok-age-for-2024/"><u>Step-by-Step Method to Verify and Update Your TikTok Age for 2024</u></a></li>
 </ul></div>
 

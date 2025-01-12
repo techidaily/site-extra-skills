@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Cinematography  The Aspect Ratio Formula\""
-date: 2025-01-03T16:30:31.075Z
-updated: 2025-01-05T04:22:40.755Z
+date: 2025-01-10T21:13:19.185Z
+updated: 2025-01-11T17:47:44.282Z
 tags: 
   - screen-recording
   - ai video
@@ -24,16 +24,12 @@ If you want to learn more about video aspect ratios, how to apply them to differ
 
 With that said, let's dive right into it!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. What is a video aspect ratio?
 
 Aspect ratio is a digital image projection attribute describing the distance between the width and the height of an image. The dimensions are also defined as shapes such as a square which is 4:3\. A rectangle represents the 16:9 standard high definition aspect ratio, and inverted what you see on phones, that will be 9:16\. 9 refers to the width and 16 to the height.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Commonly used aspect ratios
@@ -41,16 +37,12 @@ Aspect ratio is a digital image projection attribute describing the distance bet
 There is no same aspect ratio that is used across all social media platforms. Depending on which social media platform you are planning to upload, you have to make sure you have the correct aspect ratio for your target audience. The optimal viewing experience is what matters.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 16:9 Widescreen
 
 This aspect ratio is recognized as the worldwide reference format for film, mobile devides, DSLR cameras, streaming platforms, social media platforms, and many more. It is known as landscape viewing which include 720p, 1080p HD and 4K resolution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4:3 Standard
 
@@ -61,7 +53,7 @@ This resolution is originally used in older television screens, which transforme
 The 9:16 aspect ratio has become the mainstream resolution for smartphones for easier viewing of videos. This resolution allows for the vertical display of videos on tablets and phones, meaning that it allows videos to play while the device is being held in its upright position. This works ideally for Facebook, Instagram, Snapchat, YouTube Shorts, and more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 21:9 Cinematic Widescreen
@@ -128,9 +120,17 @@ Before Musical.ly users were migrated to a new platform called TikTok in 2018, i
 
 A very important point we'd like to mention is that we don't recommend changing the aspect ratio after filming, because it could harm the video quality and we think it's best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Black bars
 
 When editing your video, adding black bars is not changing the aspect ratio as you are just adding black bars to the screen. What we do recommend is cropping the video until you get the desired result. Adding black bars won't automatically make the platform adjust the video and it will affect the viewer experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cropping
 
@@ -172,22 +172,18 @@ Having your video tested on multiple devices will allow you to see a preview of 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-demystifying-av1-encoding-basics/"><u>[New] 2024 Approved Demystifying AV1 Encoding Basics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pinnacle-story-planning-website/"><u>[New] Pinnacle Story Planning Website</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unlock-insta-reels-potential-with-proven-tiktok-methods-for-2024/"><u>[New] Unlock Insta Reels' Potential with Proven TikTok Methods for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-instagram-image-enhancement-tips/"><u>[Updated] In 2024, Instagram Image Enhancement Tips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-saying-thanks-access-to-otu-creations-freepaid/"><u>[Updated] Saying Thanks Access to OTU Creations (Free/Paid)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-toggle-picture-in-picture-feature-for-youtube-app/"><u>[Updated] Toggle Picture-in-Picture Feature for Youtube App</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-y27s-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo Y27s</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-prompt-engineering-techniques-and-their-career-resilience/"><u>Exploring Prompt Engineering Techniques and Their Career Resilience</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-honor-80-pro-straight-screen-edition-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Honor 80 Pro Straight Screen Edition Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-lyrical-launchpads-discover-10-top-music-for-podcasts/"><u>In 2024, Lyrical Launchpads Discover 10 Top Music for Podcasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-zoomed-details-for-team-collaboration-on-ms-teams/"><u>In 2024, Navigating Zoomed Details for Team Collaboration on MS Teams</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-high-quality-image-browser/"><u>In 2024, Optimal High-Quality Image Browser</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/innovative-design-unveiled-echo-dot-4th-generation-analysis/"><u>Innovative Design Unveiled: Echo Dot 4Th Generation Analysis</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/jumpstart-your-meme-odyssey-humor-in-the-virtual-cosmos-for-2024/"><u>Jumpstart Your Meme Odyssey - Humor in the Virtual Cosmos for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/make-quick-cash-on-reddit-with-these-no-experience-techniques-for-2024/"><u>Make Quick Cash on Reddit with These No Experience Techniques for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prime-desktop-systems-for-quality-use-for-2024/"><u>Prime Desktop Systems for Quality Use for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-for-troubleshooting-failed-device-creations-in-directx/"><u>Solution Guide for Troubleshooting Failed Device Creations in DirectX</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-easy-to-follow-plan-for-5-effective-windows-11-audio-techniques/"><u>[New] 2024 Approved Easy-to-Follow Plan for 5 Effective Windows 11 Audio Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-hands-free-strategies-for-logging-online-meetings/"><u>[New] Hands-Free Strategies for Logging Online Meetings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-no1-video-recorders-headset-display-enhanced/"><u>[New] No.1 Video Recorders Headset Display Enhanced</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-action-camera-mics-top-tier-selection-unveiled/"><u>[Updated] In 2024, Action Camera Mics Top-Tier Selection Unveiled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-sd-card-selections-for-optimal-gopro-hero-78-performance/"><u>[Updated] Prime SD Card Selections for Optimal GoPro Hero 7/8 Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-prompt-crafting-its-role-and-job-market-viability/"><u>AI Prompt Crafting: Its Role & Job Market Viability</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-out-the-wait-fasten-upstart-in-your-windows-11-pc/"><u>Cut Out the Wait: Fasten Upstart in Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-scrolling-problems-with-your-pcs-touchpad-on-windows-10/"><u>How to Repair Scrolling Problems with Your PC's Touchpad on Windows 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-netflixs-split-screen-functionality/"><u>In 2024, Mastering Netflix's Split Screen Functionality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-proven-strategies-for-unveiling-pure-photospace-using-photopea/"><u>In 2024, Proven Strategies for Unveiling Pure Photospace Using Photopea</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/macos-1015-top-pdf-tools-and-replacements-for-adobe-acrobat/"><u>MacOS 10.15: Top PDF Tools & Replacements for Adobe Acrobat</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/powerhouse-modifications-top-10-os-xwin-srt-systems-unveiled-for-2024/"><u>Powerhouse Modifications Top 10 OS X/Win SRT Systems Unveiled for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-camera-face-off-who-wins-in-pixel-amoji-9-pro-xl-against-iphone-15-pro-surprising-outcomes-inside/"><u>The Ultimate Camera Face-Off: Who Wins in Pixel Amoji 9 Pro XL Against Iphone 15 Pro? Surprising Outcomes Inside!</u></a></li>
 </ul></div>
 

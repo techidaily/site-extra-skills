@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting GPU Activation for Cyberpunk 2077 Players on the Latest Windows 11 System
-date: 2024-12-29T00:03:04.044Z
-updated: 2025-01-05T03:20:37.367Z
+date: 2025-01-07T18:57:08.833Z
+updated: 2025-01-11T16:13:30.824Z
 tags:
   - win11
   - win10
@@ -38,7 +38,7 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-437.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) If you also want to know the screen resolution of your monitor, right-click a blank area of your desktop to open the context menu. Then click **Display settings** .
@@ -49,13 +49,13 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-412.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Don’t rush to close the **Settings** window. Click **Storage**  in the left pane and then you’ll find out the **storage** of your PC easily.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-413.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After checking your PC specs, take a look at the minimum and recommended system requirements for FIFA 20:
 
@@ -128,7 +128,7 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -137,19 +137,11 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  If you still have random crashes with FIFA 20, you should give the next fix a try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 2: Roll back your graphics card driver**
 
@@ -167,15 +159,15 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
 
  4) Choose one of the reasons based on your own situation and click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Restart your computer for the changes to take effect.
 
@@ -196,7 +188,7 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-947.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait for the system to search for available updates online. If there’s indeed a pending update, then Windows will automatically download the update and install it. Once the process completes, restart your computer for the changes to be fully implemented.
@@ -204,10 +196,6 @@ In case you don’t know how, here’s the guidance:
  Now launch FIFA 20 again and see whether it keeps crashing. If it does, then move on to the Fix 4 below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Change DirectX settings
 
@@ -226,7 +214,7 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
@@ -238,6 +226,10 @@ In case you don’t know how, here’s the guidance:
  Run FIFA 20 and check whether it continues to crash. If it does, try out the next fix then.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Adjust settings in NVIDIA Control Panel
 
@@ -286,6 +278,10 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
 
  If, after running sfc you still experience the crashing issue, try running dism.exe as described below.
@@ -308,9 +304,17 @@ dism.exe /online /cleanup-image /restorehealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Close unnecessary programs
 
@@ -321,10 +325,6 @@ dism.exe /online /cleanup-image /restorehealth
  If, after restoring the game files mistakenly deleted by your antivirus the game is still crashing, you should try to download and install it once again. However, make sure you turn off the antivirus temporarily during the reinstall process of FIFA 20.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Wait for more game updates
 
@@ -352,24 +352,19 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-old-tweet-discovery-mining-twitters-history/"><u>[New] 2024 Approved Old Tweet Discovery Mining Twitter's History</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-hilarityhatcher-create-comedy-with-a-click/"><u>[New] In 2024, HilarityHatcher Create Comedy with a Click</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-melodies-of-matrimony-romantic-hits-for-the-big-moment/"><u>[New] Melodies of Matrimony Romantic Hits for the Big Moment</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-portable-cinematic-vibration-reliever-kit/"><u>[New] Portable Cinematic Vibration Reliever Kit</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-prime-5-filters-elevating-submerged-cinematography/"><u>[New] Prime 5 Filters Elevating Submerged Cinematography</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-harvesting-hundreds-of-tiktok-videos/"><u>[New] Step-by-Step Harvesting Hundreds of TikTok Videos</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/1-top-5-fixes-fur-keine-bootfestplatte-gefunden-beim-starten-von-windows-10/"><u>1. Top 5 Fixes Für 'Keine Bootfestplatte Gefunden' Beim Starten Von Windows 10</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-live-gaming-zenith-revealed-9-edition/"><u>2024 Approved Live Gaming Zenith Revealed, #9 Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pioneering-virtual-play-samsungs-most-popular-titles/"><u>2024 Approved Pioneering Virtual Play Samsung's Most Popular Titles</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-realme-11-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-windows-11-weather-software-compared/"><u>Best Windows 11 Weather Software Compared</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/guia-paso-a-paso-como-transformar-archivos-hevc-en-formato-mp4-sin-perder-calidad-grafica/"><u>Guía Paso a Paso: Cómo Transformar Archivos HEVC en Formato MP4 Sin Perder Calidad Gráfica</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/historic-international-operation-joint-crackdown-by-hong-kong-customs-and-australian-authorities-uncovers-240kg-of-suspected-meth-netting-sgd29-million-hk1759/"><u>Historic International Operation: Joint Crackdown by Hong Kong Customs & Australian Authorities Uncovers 240Kg of Suspected Meth, Netting SGD29 Million (HK$170M) Worth</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-saving-pictures-from-videos-in-windows-10-photos/"><u>In 2024, Saving Pictures From Videos in Windows 10 Photos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sierra-users-meet-the-future-of-video-editing-tools/"><u>In 2024, Sierra Users, Meet the Future of Video Editing Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unbiased-review-of-vn-video-editor-apk-worth-your-time/"><u>New In 2024, Unbiased Review of VN Video Editor APK Worth Your Time?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revive-your-photos-two-methods-to-restore-photo-viewing-in-win10-for-2024/"><u>Revive Your Photos Two Methods to Restore Photo Viewing in Win10 for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-iphone-se-2022-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on iPhone SE (2022) iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://facebook.techidaily.com/user-journey-mapping-facebook-explores-news-feed-dynamics/"><u>User Journey Mapping: Facebook Explores News Feed Dynamics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-reimagined-realities-augmented-wisdom-for-todays-world/"><u>[New] Reimagined Realities Augmented Wisdom for Today's World</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-selection-of-moving-typefaces/"><u>[Updated] Premier Selection of Moving Typefaces</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-financial-race-between-dailymovement-and-youtube-channels-for-2024/"><u>[Updated] The Financial Race Between DailyMovement and YouTube Channels for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digital-alteration-hacks-tweaking-tiktok-numbers/"><u>Digital Alteration Hacks Tweaking TikTok Numbers</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/distinguishing-features-of-crypto-exchanges-vs-brokers-insights-by-yl-computing/"><u>Distinguishing Features of Crypto Exchanges Vs. Brokers - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/exploring-hand-tracking-an-in-depth-look-for-2024/"><u>Exploring Hand Tracking An In-Depth Look for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-ace-your-films-with-these-top-15-gopro-video-luts/"><u>In 2024, Ace Your Films with These Top 15 GoPro Video LUTs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-price-benchmarking-top-value-in-cloud-services/"><u>In 2024, Price Benchmarking Top Value in Cloud Services</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-smart-techniques-for-large-video-movement-between-iphones-and-macs/"><u>In 2024, Smart Techniques for Large Video Movement Between iPhones & Macs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-start-saving-memories-using-lunapic-for-beginners/"><u>In 2024, Start Saving Memories Using LunaPic for Beginners</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/karaoke-cloud-pro-update-available-seamless-compatibility-with-karaoki-downloads/"><u>Karaoke Cloud Pro Update Available - Seamless Compatibility with KaraOKI Downloads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lolkit-rapid-meme-and-image-creation-app-for-2024/"><u>LolKit Rapid Meme and Image Creation App for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/solving-driver-issues-on-windows-expert-guidance-from-yl-computing-and-yl-software/"><u>Solving Driver Issues on Windows: Expert Guidance From YL Computing & YL Software</u></a></li>
 </ul></div>
 

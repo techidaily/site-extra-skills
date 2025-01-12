@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Prevent 'New World' From Frequent PC Disruptions
-date: 2025-01-03T16:05:49.537Z
-updated: 2025-01-04T17:11:39.157Z
+date: 2025-01-04T19:40:35.106Z
+updated: 2025-01-11T18:02:27.804Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
  If your**Discord overlay** is not working while you’re playing games, you’re not alone! Many players are reporting this issue. But don’t worry! The good news is you can fix it easily using the fixes we listed below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Fixes to try:**
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -37,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check if you enabled in-game overlay in Discord
 
  Before trying other fixes, open**Discord** to check if you enabled in-game overlay. Here is how to do it:
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
 ### Fix 2: Run Discord as administrator
@@ -59,19 +63,23 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
  4) Run your game again.
 
 See if this issue reappears. If not, you have fixed this issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
@@ -85,6 +93,10 @@ See if this issue reappears. If not, you have fixed this issue.
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable hardware acceleration in Discord
 
  Hardware acceleration is a feature in**Discord** that uses your GPU to make**Discord** smoother. However, many users have reported that sometimes, this feature may cause the**Discord overlay** to not work.
@@ -96,16 +108,12 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
@@ -119,21 +127,17 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -144,10 +148,6 @@ iv. Restart your PC.
  4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
 
 See if this issue reappears. If not, you have fixed this issue!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
 
@@ -193,17 +193,16 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-master-the-art-of-video-sending-from-youtube-to-dailymotion/"><u>[New] Master the Art of Video Sending From YouTube to Dailymotion</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-playlist-wizard-youtube-music-edition/"><u>[New] The Playlist Wizard YouTube Music Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfecting-iphone-capture-and-record-at-once/"><u>[Updated] Perfecting iPhone Capture & Record at Once</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-proven-strategies-to-amplify-zoomed-participants-in-google-meet/"><u>[Updated] Proven Strategies to Amplify Zoomed Participants in Google Meet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-nine-techniques-for-reversing-livestream-engagement/"><u>2024 Approved Nine Techniques for Reversing Livestream Engagement</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-revolutionize-your-play-with-top-tips-for-ps4-gameplay-recording/"><u>2024 Approved Revolutionize Your Play with Top Tips for PS4 Gameplay Recording</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-realme-gt-5-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Realme GT 5? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-asus-rog-phone-8-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Asus ROG Phone 8 is off? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-laugh-line-by-line-building-a-meme-friendly-video-portfolio/"><u>In 2024, Laugh Line by Line Building a Meme-Friendly Video Portfolio</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sdr-to-super-hd-a-practical-guide-for-quality-improvement/"><u>In 2024, SDR to Super HD A Practical Guide for Quality Improvement</u></a></li>
-<li><a href="https://win-bits.techidaily.com/1728494477259-windows-10/"><u>ネットワークドライブへのデータバックアップ手順: Windows 10で実行する方法</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-designing-custom-youtube-music-sequences/"><u>[New] Designing Custom YouTube Music Sequences</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-movavi-video-editor-plus-2024-review/"><u>[New] Movavi Video Editor Plus 2024 Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-picture-in-picture-mode-with-ease-in-microsoft-edge/"><u>[Updated] Navigating Picture-In-Picture Mode with Ease in Microsoft Edge</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-periscope-unveiled-free-access-benefits-and-signing-up-guide/"><u>[Updated] Periscope Unveiled Free Access, Benefits & Signing Up Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sketch-funny-graphics-to-share-giphy-wide/"><u>[Updated] Sketch Funny Graphics to Share Giphy-Wide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-gratis-commerce-driven-presentation-templates-ideas/"><u>2024 Approved Gratis Commerce-Driven Presentation Templates Ideas</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/boosting-audio-fidelity-on-the-road/"><u>Boosting Audio Fidelity on the Road</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-polarr-photo-editor-features-in-detail-for-2024/"><u>Explore Polarr Photo Editor Features in Detail for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-nocturnal-images-on-iphones/"><u>In 2024, Navigating Nocturnal Images on iPhones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-selecting-superior-hdr-cameras-a-buyers-guide/"><u>In 2024, Selecting Superior HDR Cameras A Buyer's Guide</u></a></li>
 </ul></div>
 
