@@ -1,7 +1,7 @@
 ---
 title: Trouble Looms as Diablo II Reborn Struggles with Initial Launch Setbacks
-date: 2025-01-08T18:58:32.757Z
-updated: 2025-01-11T17:04:10.019Z
+date: 2025-01-16T00:58:19.746Z
+updated: 2025-01-17T13:00:05.446Z
 tags:
   - win11
   - win10
@@ -21,7 +21,7 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 * [Diablo 4 crashing fixes for PS5/Xbox](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Diablo 4 crashing on a PC
@@ -35,10 +35,6 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 5. [Close or uninstall conflicts apps](https://tools.techidaily.com/drivereasy/download/)
 6. [Update operating system](https://tools.techidaily.com/drivereasy/download/)
 7. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1 – Upgrade your drivers
 
@@ -61,10 +57,6 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -80,10 +72,6 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 2) Download the Microsoft Accessories app on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/ms-accessories.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Run the app, it automatically detected the Microsoft controller which was connected to your PC.
 
@@ -101,6 +89,10 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-menu-options.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the**Graphics** tab, in the**Performance** section, make sure NVIDIA DLSS is NOT set to DLAA (anything but DLAA). And disable the**NVIDIA Reflex Low Latency** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/reflex-1.jpg)
@@ -108,10 +100,6 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
  3) In the**Quality** section, Set**Shadow Quality** and**SSAO Quality** to Mid.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/quality.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Move to the**Social** tab. Simply uncheck**Cross-Network Play** .
 
@@ -132,7 +120,7 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
  If you can’t find the option, find the Advanced tab, go to Performance and look for CPU overclocking. Then disable it and save changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Close or uninstall conflicts apps
@@ -146,7 +134,7 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 ![open task manager from the taskbar](https://images.drivereasy.com/wp-content/uploads/2020/10/task-manager-from-the-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Check which apps consume a big amount of CPU/Memory.
@@ -154,6 +142,10 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 3) Right-click on the suspicious app and select End task.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/end-task-windows-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Update operating system
 
@@ -166,6 +158,14 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/check-for-updates.jpg)
 4. Windows will download and install the new updates automatically. When the process is finished, reboot your PC and relaunch the game to check if the problem has been solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7 – Repair system files
 
@@ -183,7 +183,7 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 5. Restart your PC and check whether the Diablo 4 crashing is solved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Diablo 4 crashing fixes for PS5/Xbox
@@ -197,7 +197,7 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
  You can delete or remove data to other storage spaces, but it’s better to leave more than half storage in the[extended storage drive](https://www.playstation.com/en-us/support/hardware/ps5-manage-storage-space/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Disable crossplay
@@ -229,22 +229,24 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-10-emulator-selections-for-mobile-gba-players/"><u>[New] In 2024, Top 10 Emulator Selections for Mobile GBA Players</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-inshot-unveiled-assessing-its-edge-over-other-editors/"><u>[New] InShot Unveiled Assessing Its Edge Over Other Editors</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-navigating-windows-11-movie-maker-your-ultimate-instruction-manual/"><u>[New] Navigating Windows 11 Movie Maker Your Ultimate Instruction Manual</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-crafting-visual-narratives-adding-memorable-story-emoji-images/"><u>[Updated] 2024 Approved Crafting Visual Narratives Adding Memorable Story Emoji Images</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-inexpensive-capture-apps-reviewed-for-budget-pcs/"><u>[Updated] 2024 Approved Inexpensive Capture Apps Reviewed For Budget PCs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-next-day-evaluation-beyond-tradition/"><u>[Updated] Next Day Evaluation Beyond Tradition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-insiders-selection-prime-vr-device-picks/"><u>2024 Approved Insider's Selection Prime VR Device Picks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-use-of-zoom-on-chrome-os-devices/"><u>2024 Approved Optimal Use of Zoom on Chrome OS Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-14-plus-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone 14 Plus without Face ID</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-the-vr-world-essential-gear-ranked/"><u>In 2024, Pioneering the VR World Essential Gear Ranked</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/joymakerbox-sign-up-share-smiles-create-for-2024/"><u>JoyMakerBox Sign Up, Share Smiles, Create for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/jump-start-your-journey-to-quality-video-edits-in-windows-10-for-2024/"><u>Jump-Start Your Journey to Quality Video Edits in Windows 10 for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-google-pixel-fold-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Google Pixel Fold Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/metaverse-journeys-top-10-films-that-bring-alien-worlds-to-life-for-2024/"><u>Metaverse Journeys Top 10 Films That Bring Alien Worlds to Life for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphoneipad-update-problems-6-effective-solutions-to-resume-and-finish-downloads/"><u>Overcome iPhone/iPad Update Problems: 6 Effective Solutions to Resume and Finish Downloads</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/ranking-the-top-10-stealth-story-fans-for-2024/"><u>Ranking the Top 10 Stealth Story Fans for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/01-skyrocket-your-youtube-traffic/"><u>SEO 101 Skyrocket Your YouTube Traffic</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-whats-not-advertised-ten-facts-about-instagram-reels/"><u>[New] 2024 Approved What's Not Advertised Ten Facts About Instagram Reels</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-supercharge-your-social-media-best-apps-for-post-and-followers/"><u>[New] In 2024, Supercharge Your Social Media Best Apps for Post & Followers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-invest-in-quality-best-4k-mirrorless-under-1000/"><u>[New] Invest in Quality Best 4K Mirrorless Under $1,000</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-the-art-complete-vsco-editor-breakdown/"><u>[New] Master the Art Complete VSCO Editor Breakdown</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-rise-above-the-noise-nine-strategies-for-instagram-prominence/"><u>[New] Rise Above the Noise Nine Strategies for Instagram Prominence</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-elevate-your-instagram-shots-with-strategic-borders/"><u>[Updated] 2024 Approved Elevate Your Instagram Shots With Strategic Borders</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-echoes-in-the-stream-full-year-tweet-video-analysis-for-2024/"><u>[Updated] Echoes in the Stream - Full Year Tweet Video Analysis for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-how-to-add-the-date-to-photo/"><u>[Updated] In 2024, How to Add the Date to Photo</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-snapseed-simplified-photo-edits-for-beginners/"><u>[Updated] Snapseed Simplified Photo Edits for Beginners</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-attracting-audiences-hook-up-hacks-for-hosts/"><u>2024 Approved Attracting Audiences Hook-Up Hacks for Hosts</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/boost-your-websites-visual-appeal-with-these-optimization-techniques-at-flipbuildercom/"><u>Boost Your Website's Visual Appeal with These Optimization Techniques at FlipBuilder.com</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/easy-tutorial-on-sending-and-receiving-files-with-apples-airdrop-between-ios-devices-and-windows-pcs/"><u>Easy Tutorial on Sending and Receiving Files with Apple's AirDrop Between iOS Devices & Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-paste-errors-in-windows-11-software/"><u>Eliminating Paste Errors in Windows 11 Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/examining-ffmpeg-written-by-user/"><u>Examining FFmpeg' Written by User</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-soft-edges-on-digital-images-mobilepc/"><u>In 2024, Master Soft Edges on Digital Images, Mobile/PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterful-method-smart-watch-to-access-mac/"><u>In 2024, Masterful Method Smart Watch to Access Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximizing-your-visuals-the-ultrawide-vs-uhd-4k-debate/"><u>In 2024, Maximizing Your Visuals The UltraWide vs UHD 4K Debate</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-soundscapes-in-action-capturing-music-videos-iphone-style/"><u>In 2024, Soundscapes in Action Capturing Music Videos iPhone Style</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-image-saga-assembly-package-for-2024/"><u>Premier Image Saga Assembly Package for 2024</u></a></li>
 </ul></div>
 

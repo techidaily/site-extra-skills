@@ -1,7 +1,7 @@
 ---
 title: "Yitian Nokia 710: The Speed Champion of Alibaba's Server CPUs in Cloud Computing"
-date: 2025-01-06T16:48:56.734Z
-updated: 2025-01-11T22:35:32.961Z
+date: 2025-01-10T17:49:09.405Z
+updated: 2025-01-17T08:51:06.350Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,15 +60,19 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-launch-xp-movie-editor-for-seamless-editing/"><u>2024 Approved Launch XP Movie Editor for Seamless Editing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-slow-motions-camera-edition/"><u>2024 Approved Leading Slow-Motions Camera Edition</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/expert-hacks-for-improved-tiktok-visuals/"><u>Expert Hacks for Improved TikTok Visuals</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/gear-up-with-smart-techniques-elevating-your-ps4-gameplay-capture-abilities/"><u>Gear Up with Smart Techniques Elevating Your PS4 Gameplay Capture Abilities</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-6sipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone 6s/iPad Without Computer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-strategic-lighting-for-best-iphone-photography/"><u>In 2024, Strategic Lighting for Best iPhone Photography</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/luminaries-in-augmented-sight-technology-for-2024/"><u>Luminaries in Augmented Sight Technology for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-full-potential-of-windows-photos-app-with-sound-and-filter-upgrades-for-2024/"><u>Unlock Full Potential of Windows Photos App with Sound & Filter Upgrades for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-hugging-face-a-comprehensive-guide-to-its-purpose-and-applications/"><u>Unveiling Hugging Face: A Comprehensive Guide to Its Purpose & Applications</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-dissecting-the-efficacy-of-vidma-as-a-recorder/"><u>[New] Dissecting the Efficacy of Vidma as a Recorder</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-gamers-delight-selecting-the-top-10-hddsssds/"><u>[New] In 2024, Gamer's Delight Selecting the Top 10 HDDs/SSDs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-bend-the-light-homegrown-animated-innovations-for-2024/"><u>[Updated] Bend the Light Homegrown Animated Innovations for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-list-of-affordable-websites-boosting-vector-graphics-skills/"><u>[Updated] Master List of Affordable Websites Boosting Vector Graphics Skills</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pixelplayground-comprehensive-review-and-educational-guide-2024/"><u>[Updated] PixelPlayground Comprehensive Review & Educational Guide 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-simplify-broadcasting-merge-obs-and-streamlabs-mac/"><u>[Updated] Simplify Broadcasting Merge OBS and Streamlabs (Mac)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-underwater-cinematography-avoiding-blur-and-grain-with-a-gopro/"><u>2024 Approved Underwater Cinematography Avoiding Blur and Grain with a GoPro</u></a></li>
+<li><a href="https://common-error.techidaily.com/crack-the-code-on-fixing-0x80705b4-issue-in-windows-11-updates-expert-tips-and-tricks/"><u>Crack the Code on Fixing 0X80#705b4 Issue in Windows 11 Updates: Expert Tips and Tricks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-y78-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo Y78 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-from-novice-to-vlogger-the-top-10-editing-techniques/"><u>In 2024, From Novice to Vlogger The Top 10 Editing Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-introduction-editor-software-apps/"><u>In 2024, Optimal Introduction Editor Software (Apps)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-sabrents-groundbreaking-single-sided-rocket-nvme-gen5-4tb-and-8tb-the-latest-dram-free-ssd-innovation-for-laptops-gaming-pcs-and-next-gen-consol4/"><u>Introducing Sabrent's Groundbreaking Single-Sided Rocket NVMe Gen5 4TB & 8TB: The Latest DRAM-Free SSD Innovation for Laptops, Gaming PCs, and Next-Gen Consoles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/nocturnal-notions-for-iphone-photographers-for-2024/"><u>Nocturnal Notions for iPhone Photographers for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-anywhere-everytime-meet-mondlyar/"><u>Speak Anywhere, Everytime - Meet MondlyAR!</u></a></li>
 </ul></div>
 

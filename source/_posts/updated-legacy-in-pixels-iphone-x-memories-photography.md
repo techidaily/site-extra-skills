@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Legacy in Pixels  IPhone X Memories Photography\""
-date: 2025-01-09T22:52:30.718Z
-updated: 2025-01-11T17:08:57.819Z
+date: 2025-01-11T10:24:21.001Z
+updated: 2025-01-16T17:39:07.275Z
 tags: 
   - screen-recording
   - ai video
@@ -45,6 +45,10 @@ However, the Portrait Mode is only featured on iOS 10.1 or some more recent vers
 
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image resource: 9to5mac
 
 Portrait mode enables you to set the timer, turn off the flash or apply photo filters, but it doesn't allow its users to create live photos. When using this mode you only have to apply basic photography rules, like don't point your camera in the direction from which the light is coming from and do your best to get within a reasonable distance from the subject of your photos. If you decide to take photos in this mode indoors, you may get slightly underwhelming results because it still doesn't perform great in low-light conditions.
@@ -56,7 +60,7 @@ The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera
 ![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image resource: imore
@@ -66,7 +70,7 @@ Launch the Camera app, and swipe to the Portrait option, and then tap on the Cam
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For iPhone 8, 7 or older iPhones users
@@ -89,10 +93,6 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
 #### [Bokeh Lens](https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8)
@@ -102,10 +102,6 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 **Compatible with:** iOS 8.0 or later
 
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
@@ -118,12 +114,16 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -140,20 +140,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-unleash-creativity-with-these-8-free-youtube-thumbnail-builders/"><u>[New] 2024 Approved Unleash Creativity with These 8 Free YouTube Thumbnail Builders</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-ultimate-guide-to-youtube-income-compliance/"><u>[New] The Ultimate Guide to YouTube Income Compliance</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-techniques-for-smooth-screen-casting-for-2024/"><u>[Updated] Expert Techniques for Smooth Screen Casting for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-lighten-the-digital-landscape-kapwings-meme-builder/"><u>[Updated] Lighten the Digital Landscape Kapwing's Meme Builder</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-mirrorless-vs-dslr-in-the-realm-of-video-filmmaking/"><u>[Updated] Mirrorless vs DSLR in the Realm of Video Filmmaking</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-screenplay-sage-answers-for-beginners/"><u>[Updated] Screenplay Sage Answers for Beginners</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-selecting-holy-songs-for-ringtone-amplification/"><u>[Updated] Selecting Holy Songs for Ringtone Amplification</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-apex-fusion-hubs-all-in-one-4k-multi-touch-desktops/"><u>2024 Approved Apex Fusion Hubs All-in-One 4K Multi-Touch Desktops</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-top-vr-peripherals-and-gadgets-review/"><u>2024 Approved Top VR Peripherals and Gadgets Review</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726028201074-dvdwindows-10/"><u>DVD再生に失敗するWindows 10コンピュータを修正する方法</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-how-to-remove-images-background-in-canva/"><u>In 2024, How to Remove Image's Background In Canva</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-physical-presence-vs-virtual-validation/"><u>In 2024, Physical Presence vs Virtual Validation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prime-digital-devices-turn-images-into-videos/"><u>In 2024, Prime Digital Devices Turn Images Into Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-lut-application-in-adobe-premiere-for-2024/"><u>Navigating LUT Application in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-future-of-gaming-at-your-fingertips-top-10-vr-headsets-for-pc/"><u>The Future of Gaming at Your Fingertips Top 10 VR Headsets for PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-phones-best-gopro-videos-editing-tools/"><u>[New] Leading Phones' Best GoPro Videos Editing Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-podcast-writing-tips-and-free-template-samples/"><u>[New] Mastering Podcast Writing Tips & Free Template Samples</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-navigating-the-marketing-landscape-essential-strategies-for-newbies-for-2024/"><u>[New] Navigating the Marketing Landscape Essential Strategies for Newbies for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-professional-strategies-for-drone-imagery-editing/"><u>[New] Professional Strategies for Drone Imagery Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-essential-checklist-archiving-internet-music-with-ease/"><u>[New] The Essential Checklist Archiving Internet Music with Ease</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pros-choice-high-quality-4k-dslr-mounting-systems/"><u>2024 Approved Pro's Choice High-Quality 4K DSLR Mounting Systems</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/craft-visionary-videos-from-start-to-finish-using-youtube-studio-editor-for-2024/"><u>Craft Visionary Videos From Start to Finish Using YouTube Studio Editor for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-immediately-fix-no-signal-port-issue/"><u>How to Immediately Fix No Signal Port Issue</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-professional-windows-11-screen-capture-tool/"><u>In 2024, Professional Windows 11 Screen Capture Tool</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/opening-orchestra-the-ultimate-list-of-harmonious-hubs-for-auditory-appetizers-for-2024/"><u>Opening Orchestra The Ultimate List of Harmonious Hubs for Auditory Appetizers for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reaping-health-rewards-from-asmrs-embrace-for-2024/"><u>Reaping Health Rewards From ASMR's Embrace for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95521141-9781633410428-the-key-of-solomon-the-king/"><u>The Key of Solomon the King | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/what-to-watch-after-kissanimes-shutdown-top-notch-free-anime-websites-as-replacements-or-mirrors/"><u>What to Watch After KissAnime's Shutdown? Top-Notch Free Anime Websites as Replacements or Mirrors</u></a></li>
 </ul></div>
 

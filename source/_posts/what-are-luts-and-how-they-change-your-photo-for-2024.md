@@ -1,7 +1,7 @@
 ---
 title: "What Are LUTs and How They Change Your Photo for 2024"
-date: 2025-01-06T19:22:43.498Z
-updated: 2025-01-11T16:25:25.803Z
+date: 2025-01-15T13:19:04.311Z
+updated: 2025-01-16T19:27:29.700Z
 tags: 
   - screen-recording
   - ai video
@@ -59,7 +59,7 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Choose Adjustment Layer
@@ -70,6 +70,10 @@ Choose Adjustment Layer
 
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 load 3d lut
 
 1. When you select one, you'll see how the color and tone of the image change.
@@ -77,6 +81,10 @@ load 3d lut
 3. You can change the Layer Blending mode at any time.
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Here's the first method
 
@@ -86,7 +94,7 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here's the second one
@@ -105,24 +113,16 @@ Grow Together
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
 
 The use of LUTs, like most elements of photography and photo editing, necessitates some healthy experimentation. You'll develop an instinct for accurate color grading and an eye for a good LUT over time, and you'll be able to tell which photographs would benefit from a certain LUT with ease. We're sure you're eager to try out LUTs while editing photographs and movies now that you've learned about them. Remember that doing anything new may not appear to be simple. However, with some practice, you'll improve day by day. The same is true for LUTs! The more you practice with the tool, the better you will become. So, why are you still waiting? Get started now![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -155,19 +155,18 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-essential-steps-for-iptv-video-recording-for-2024/"><u>[New] Essential Steps for IPTV Video Recording for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-video-production-atlas-xstudio-analysis-edition/"><u>[New] Video Production Atlas XStudio Analysis Edition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-twitchs-stage-to-youtube-writers-guide-to-cross-platform-content/"><u>[Updated] In 2024, From Twitch's Stage to YouTube’ Writers Guide to Cross-Platform Content</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-seamless-file-access-top-windows-and-mac-strategies-for-downloading-igtv-for-2024/"><u>[Updated] Seamless File Access Top Windows & Mac Strategies for Downloading IGTV for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-macs-premier-mkv-player-picks/"><u>2024 Approved Mac's Premier MKV Player Picks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigate-angular-video-transitions-on-android-devices/"><u>2024 Approved Navigate Angular Video Transitions on Android Devices</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-perfected-approaches-to-capturing-remote-training-sessions/"><u>2024 Approved Perfected Approaches to Capturing Remote Training Sessions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-instructions-on-chromes-pip-across-all-platforms/"><u>2024 Approved Step-by-Step Instructions on Chrome’s PIP Across All Platforms</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-t2-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo T2 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-background-extraction-in-figma-designs-easily-for-2024/"><u>Navigating Background Extraction in Figma Designs Easily for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/next-gen-ai-picture-perfection-software-for-2024/"><u>Next-Gen AI Picture Perfection Software for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-relay-youtube-playlists-to-the-public-for-2024/"><u>Rapid Relay Youtube Playlists to the Public for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/your-ultimate-guide-to-affordable-vector-design-websites/"><u>Your Ultimate Guide to Affordable Vector Design Websites</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-charting-success-top-online-video-channels/"><u>[Updated] Charting Success Top Online Video Channels</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-nuances-of-spotify-advertising/"><u>2024 Approved Navigating the Nuances of Spotify Advertising</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-achieving-clip-perfection-with-blending-techniques/"><u>In 2024, Achieving Clip Perfection with Blending Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-enhancing-iphone-image-clarity-and-focus/"><u>In 2024, Enhancing iPhone Image Clarity and Focus</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-preventing-htc-vive-disorientation-and-nausea/"><u>In 2024, Preventing HTC Vive Disorientation and Nausea</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-virtual-marketplaces-ringtone-selections/"><u>In 2024, Prime Virtual Marketplaces Ringtone Selections</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/magix-video-pro-x-review-for-2024/"><u>Magix Video Pro X Review for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-gpu-selection-for-4k-titles-for-2024/"><u>Optimal GPU Selection for 4K Titles for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/orchestrating-peak-canon-temporal-scenes-for-2024/"><u>Orchestrating Peak Canon Temporal Scenes for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revitalize-older-printer-drivers-for-modern-windows-10/"><u>Revitalize Older Printer Drivers for Modern Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722124400599-tired-of-awaiting-chatgpt-desktop-embrace-this-robust-open-source-substitute-now/"><u>Tired of Awaiting ChatGPT Desktop? Embrace This Robust Open-Source Substitute Now</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/transform-with-the-10-most-exceptional-yoga-video-platforms-for-2024/"><u>Transform with the 10 Most Exceptional Yoga Video Platforms for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/your-ultimate-guide-to-acquiring-and-installing-stellar-repair-for-photo-8-windows/"><u>Your Ultimate Guide to Acquiring and Installing Stellar Repair for Photo 8 (Windows)</u></a></li>
 </ul></div>
 

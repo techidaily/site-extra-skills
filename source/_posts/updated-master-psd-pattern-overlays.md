@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master PSD Pattern Overlays"
-date: 2024-07-31T09:37:18.473Z
-updated: 2024-08-01T09:37:18.473Z
+date: 2025-01-12T13:44:10.783Z
+updated: 2025-01-17T13:50:18.604Z
 tags: 
   - screen-recording
   - ai video
@@ -26,9 +26,6 @@ In this guide, free Photoshop text effects are available for instant download, w
 
 **Link to Download: [Neon Effect](https://free-psd-templates.com/download/57/)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![neon lighting text work](https://images.wondershare.com/filmora/article-images/2022/07/neon-lighting-text-work.jpg)
 
 Why not learn how to make neon text effects yourself as they are constantly in style? Here, you'll find a step-by-step video lesson along with all the materials you'll need to follow it. Along the process, you'll discover a fantastic text effect and make a great neon sign.
@@ -36,15 +33,13 @@ Why not learn how to make neon text effects yourself as they are constantly in s
 Of course, you won't be going through the laborious instructional motion by motion. Instead, you'll be led deep within the nightlife environment so you can experience the vibe and find inspiration before becoming involved in the creative process. If you can master it, you may apply it in a variety of tasks and give your design work a whole new level of depth.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. The End Old Movie
 
 **Link to Download: [The End Old Effect](https://free-psd-templates.com/download/44/)**
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the end old effect](https://images.wondershare.com/filmora/article-images/2022/07/the-end-old-effect.jpg)
 
 The opening and closing titles of these films will likely come to mind if you like vintage cinema. Nearly all of them had large headlines in black and white with varying degrees of noise. With this template, you may quickly and easily change the look of your favorite text to that of films from the 1940s and 1950s.
@@ -56,6 +51,10 @@ Effect with a movie title feel that is very precise and may be used to posters, 
 **Link to Download: [Winter Ice Effect](https://free-psd-templates.com/download/47/)**
 
 ![winter ice effect](https://images.wondershare.com/filmora/article-images/2022/07/winter-ice-effect.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Posters, flyers, or cover art may be created with this ice text effect. Additionally, you may alter it to suit your requirements, for example, by adding embellishments to the design. For your creations, the Photoshop ice snow text effect is a fantastic winter holiday theme. A realistic PSD ice and snow text style that may be used on shapes is available.
 
@@ -71,52 +70,56 @@ Want to instantly change any text or object into the stunning Wool Text Effect? 
 
 Simply load this action from the Actions window, choose the appropriate style, then press play to start it. It's that easy! The WOOL TEXT Photoshop font actions are neatly laid out in layers and are extremely simple to change. Apply this effect on shapes and other vector stuff as well; it's not just for text! You just need to insert them into the smart object to finish!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Playful Letters Text Effect
 
 **Link to Download: [Playful Letters Effect](https://psfiles.com/downloading/?d=eyJkb3dubG9hZF9pZCI6MjA0NjF9)**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![playful letters text effect](https://images.wondershare.com/filmora/article-images/2022/07/playful-letters-text-effect.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Try out this fantastic suite. It has a lot of current effects drawn from cosmic, aquatic, and vintage inspirations. For stunning, personalized results, modify the lighting and shadow effects.
 
 With the help of this Photoshop text effect collection, create amazing antique text effects. It has a customizable design with smart object layers and 9 distinct text styles. For Playful Letters like product labels and signs, these effects are perfect.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Cartoon Text Effect
 
 **Link to Download: [Cartoon Text Effect](https://free-psd-templates.com/download/65/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![cartoon text effect](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-text-effect.jpg)
 
 You may use this vector collection of cartoon letters to create an eye-catching 3D text effect. You may easily combine them to create your own version. Our society is heavily influenced by cartoons, so if you're creating a project that calls for animation-inspired visuals, give Cartoon Text Effects a go. This item, which comes with 10 different styles, makes it simple for you to enhance your campaigns by giving all of your designs more character and depth.
 
 Several vibrant and imaginative text effects are included in this collection that you can use to develop titles for video games, other gaming-related media, YouTube channels, and more. The inventive designs of the text effects in this collection made it impossible not to include it. The design of this free Photoshop text effect has a highly cinematic feel to it. Additionally, it allows you to create a variety of free posters and flyers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Lava Light Logo Mockup
 
 **Link to Download: [Lava Light Logo Effect](https://1.envato.market/WDgNEn)**
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![lava light logo effect](https://images.wondershare.com/filmora/article-images/2022/07/lava-light-logo-effect.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lava Light Logo Mockup Text Effect is one of the better visual alternatives for branding campaigns. This straightforward product is excellent for neat and expert advertising and design tasks even if it doesn't have many bells and whistles. This choice, which stands out among the others as one of the louder declarations, will enable you to effectively convey your message.
 
 Any designer looking to capitalize on the passion and fire that the color conveys will find the Lava Light Logo Mockup to be a compelling option. Numerous creatives may accomplish a lot with this discovery since it is appropriate for a broad variety of undertakings. It is a terrific Photoshop tool for creatives looking to bolster their design efforts. It is shiny, thick, and has rounded corners. Though adaptable to many designs, this one seems to shine the most in campaigns with a lava theme.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Color Distortion Text Effect
 
 **Link to Download: [Color Distortion Effect](https://pixelbuddha.net/effects/free-color-distortion-text-effect?utm%5Fsource=thedesignest&utm%5Fmedium=article&utm%5Fcampaign=pb-20200928&utm%5Fcontent=button&utm%5Fterm=freebie-item-effects)**
@@ -127,9 +130,6 @@ One of the most surreal aesthetic options on the list is the Color Distortion Te
 
 The Color Distortion Text Effect could be useful if you're as easily dazzled by these changes as we are. Your text may display with sparkles that are amazingly realistic thanks to the intricate textures and added effects in this selection! A bundle this diversified is perfect for agency owners and working creatives since it can be used for many different tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Retro Text Effects
 
 **Link to Download: [Retro Text Effect](https://free-psd-templates.com/download/56/)**
@@ -144,9 +144,6 @@ Your text or logo will instantly get a high-quality, 3D minimal text style effec
 
 **Link to Download: [Page Flip Effect](https://pixelbuddha.net/effects/page-flip-text-effect-free-download?utm%5Fsource=thedesignest&utm%5Fmedium=article&utm%5Fcampaign=pb-20211201&utm%5Fcontent=button&utm%5Fterm=freebie-item-effects)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![page flip text effect](https://images.wondershare.com/filmora/article-images/2022/07/page-flip-text-effect.jpg)
 
 Want to give your text a genuine 3D flip appearance? Then this text effect collection is ideal for you. You may utilize the many text effects in the Page Flip Text Effect Pack, which has a variety of design styles, to create titles and headers. Each text effect is provided as a PSD file with smart objects that is fully layered.
@@ -185,5 +182,24 @@ These PSD Text effect files are available for free download, and they're also a 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-from-zero-to-hero-in-instagram-world-top-9-pathways-unveiled-for-2024/"><u>[New] From Zero to Hero in Instagram World Top 9 Pathways Unveiled for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphone-night-photography-tips-take-night-photos-with-iphone/"><u>[New] IPhone Night Photography Tips Take Night Photos with iPhone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-most-engaging-sandbox-gaming-titles/"><u>[New] The Most Engaging Sandbox Gaming Titles</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-foremost-10-recording-apps-for-social-media-vids/"><u>[Updated] Foremost 10 Recording Apps for Social Media Vids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-online-slot-scanner-summary/"><u>[Updated] ONLINE SLOT SCANNER SUMMARY</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-reversing-os-update-on-macs-back-to-el-capitan/"><u>[Updated] Reversing OS Update on Macs Back to El Capitan</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-reaping-health-rewards-from-asmrs-embrace/"><u>2024 Approved Reaping Health Rewards From ASMR's Embrace</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-start-making-movies-8-best-film-cameras-under-300/"><u>2024 Approved Start Making Movies 8 Best Film Cameras Under $300</u></a></li>
+<li><a href="https://win11.techidaily.com/achieve-peak-valorant-playthrough-with-optimized-pc-settings/"><u>Achieve Peak Valorant Playthrough with Optimized PC Settings</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/enhance-videos-with-music-inshots-simple-methods-for-2024/"><u>Enhance Videos with Music InShot's Simple Methods for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-5-in-minecraft-comprehensive-solutions-for-a-smooth-gaming-experience/"><u>Error Code 5 in Minecraft: Comprehensive Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-rtl81-cu-wireless-driver-support-for-win-10win-7-computers/"><u>Find and Install RTL81# CU Wireless Driver Support for Win 10/Win 7 Computers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unlocking-your-most-watched-fb-movies/"><u>In 2024, Unlocking Your Most-Watched Fb Movies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximize-gameplay-efficiency-with-top-monitor-extensions-for-2024/"><u>Maximize Gameplay Efficiency With Top Monitor Extensions for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photonpinnacle-z7-optimize-picture-scaling-for-2024/"><u>PhotonPinnacle Z7 Optimize Picture Scaling for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prophotomaster-the-ai-enhanced-editing-edge-for-2024/"><u>ProPhotoMaster The AI-Enhanced Editing Edge for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-file-retrieval-how-to-recover-missing-game-files-effectively-solved/"><u>Steam File Retrieval: How to Recover Missing Game Files Effectively - SOLVED</u></a></li>
+</ul></div>
 

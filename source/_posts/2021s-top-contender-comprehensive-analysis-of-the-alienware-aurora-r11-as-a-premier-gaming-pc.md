@@ -1,7 +1,7 @@
 ---
 title: "2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC"
-date: 2025-01-04T19:36:44.955Z
-updated: 2025-01-11T17:43:04.559Z
+date: 2025-01-16T09:22:12.918Z
+updated: 2025-01-17T09:25:02.163Z
 categories:
   - BestProducts
 description: "This Article Describes 2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC"
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 ## Amazon Halo
 
 ![Amazon Halo](https://www.lifewire.com/thmb/KDrlBicwDSsm8oahXwLC9cx5FSs=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_HeroSquare-2e5c3941b8fe49afbd7464f382164976.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -74,7 +70,7 @@ Lifewire / Yoona Wagener
 ![Amazon Halo](https://www.lifewire.com/thmb/W0-czfRzA-7ixa5VS8Cb4sBcaqM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_02-b2292f1ee1b54f4e9990c92e582c5a4b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
@@ -90,7 +86,7 @@ Lifewire / Yoona Wagener
 Lifewire / Yoona Wagener
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Comfort: Streamlined but not immune to typical fit issues
@@ -110,6 +106,10 @@ Lifewire / Yoona Wagener
  Instead, the Halo presents all activity data through a convenient point-tracking system. The weekly goal is 150, which converts to 150 minutes of cardiovascular activity, as recommended by the American Heart Association. Periods of movement and exercise count toward this point goal, while periods of non-movement subtract from points earned. It’s a digestible system that offers a new twist on the steps or movement alert functions you’ll find in fitness trackers and[smartwatches](https://www.lifewire.com/an-introduction-to-smart-watches-3441381) from Samsung, Garmin, Fitbit, and others. This system was an encouraging reset from those reminders that sometimes feel more annoying than motivating.
 
 ![Amazon Halo](https://www.lifewire.com/thmb/FjdFyV6Y4mTXNsqccZ4aEBJNpV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_05-e671ee9f77cc4cee8e2580a2dba449d5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener.
 
@@ -131,6 +131,10 @@ Lifewire / Yoona Wagener
 
  The app makes everything from the initial setup to body scanning and voice tracking straightforward.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Battery: Enough juice to last nearly a week
 
  Amazon says that with tone tracking enabled, the band should last up to seven days on a single charge. There are two options for tracking tone: one for more accuracy and one to optimize battery life. I chose the latter and found that the band lasted for six days, which comes close to the manufacturer’s claims. I also noticed that by manually muting the mic, the battery drained far less quickly than when I left it on to listen at all times.
@@ -139,15 +143,15 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/fBsShcBruhAWkg-kTKPWkYUaImo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_04-ee532fbe8d2f4e8195e63ed9dd45611a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
 ## Price: A reasonable price for the feature set
 
  Retailing for just about $100, the Amazon Halo band certainly won’t break the bank for budget-minded shoppers. While the lack of display could be a deterrent, the solid mobile app provides convenient access to the detailed sleep, automatic activity tracking, and specialized tone of voice and body fat analysis the Halo provides.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Amazon Halo vs. WHOOP Strap 3
 
@@ -161,10 +165,6 @@ Lifewire / Yoona Wagener
 
  The Amazon Halo isn’t for everyone with its lack of display and additional layers of data tracking to capture tone of voice and body fat percentage. But for the user that wants a little less hardware but more forward-thinking fitness/health tracking, this unique wearable offers a different approach to increasing activity and wellness awareness on a daily basis.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Apple Watch Series 5](https://www.lifewire.com/apple-watch-series-6-review-5087552)
@@ -172,7 +172,7 @@ Lifewire / Yoona Wagener
 * [Ticwatch Pro](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -206,22 +206,20 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-advanced-techniques-for-implementing-luts-in-creative-suite-for-2024/"><u>[New] Advanced Techniques for Implementing LUTs in Creative Suite for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-videographers-choice-high-quality-camera-lenses-reviewed/"><u>[New] In 2024, Videographers’ Choice High-Quality Camera Lenses Reviewed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mobile-photography-and-filmmaking-quick-3dlut-edits/"><u>[New] Mobile Photography & Filmmaking Quick 3DLUT Edits</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-wired-versus-broadcasted-analyzing-wirecast-and-obs/"><u>[New] Wired versus Broadcasted Analyzing Wirecast and OBS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-ultimate-gecata-analyzer-report/"><u>[Updated] 2024 Approved Ultimate GECATA Analyzer Report</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-master-your-images-with-the-best-overlay-apps-for-ios-and-android/"><u>[Updated] Master Your Images with the Best Overlay Apps for iOS & Android</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-virtual-realms-efficiently-using-kinemaster-plus-best-replacements/"><u>[Updated] Navigating Virtual Realms Efficiently Using KineMaster, Plus Best Replacements</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-seeking-freebies-learn-instagrams-secret-for-additional-filters-for-2024/"><u>[Updated] Seeking Freebies? Learn Instagram’s Secret for Additional Filters for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-on-building-perfect-srt-files/"><u>[Updated] Step-by-Step on Building Perfect SRT Files</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-syncing-social-statuses-seamless-insertion-of-linktree-into-tiktok-profiles/"><u>[Updated] Syncing Social Statuses Seamless Insertion of Linktree Into TikTok Profiles</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-essential-ios-video-editor-apps-top-10-best-to-know/"><u>2024 Approved Essential iOS Video Editor Apps Top 10 Best to Know</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-instagrams-video-quirks-and-how-to-cope/"><u>2024 Approved Instagram's Video Quirks and How to Cope</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-to-master-your-amazon-firestick-and-its-remote-control/"><u>Easy Steps to Master Your Amazon Firestick and Its Remote Control</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-12-mini-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 12 mini Activation Lock</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/instant-impressions-fast-forwarding-ppt-slide-showtimes-for-2024/"><u>Instant Impressions Fast-Forwarding PPT Slide Showtimes for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-the-basics-essential-photo-edits-for-starters-for-2024/"><u>Master the Basics Essential Photo Edits for Starters for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prime-additions-for-newbie-gopro-photographers-for-2024/"><u>Prime Additions for Newbie GoPro Photographers for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-introducing-motion-blur-magic-in-your-iphone-photos/"><u>[New] Introducing Motion-Blur Magic in Your iPhone Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mix-memes-with-a-smile/"><u>[New] Mix Memes with a Smile</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-propel-your-vlogs-forward-top-seo-tech-unveiled/"><u>[New] Propel Your Vlogs Forward – Top SEO Tech Unveiled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-samsung-image-maker-insights-and-overview-2023/"><u>[New] Samsung Image Maker Insights & Overview 2023</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-sleep-aid-asmr-techniques-unveiled-for-2024/"><u>[New] Sleep Aid ASMR Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-audio-playwright-craftsmanship/"><u>[Updated] Premium Audio Playwright Craftsmanship</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-timer-solutions-for-your-special-day-on-androidios/"><u>2024 Approved Ideal Timer Solutions for Your Special Day on Android/iOS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagrams-best-grids-built-by-the-top-tools-compiled-here/"><u>2024 Approved Instagram's Best Grids Built by the Top Tools Compiled Here</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-integrate-sound-and-filter-magic-into-your-windows-10-photos-app/"><u>2024 Approved Integrate Sound & Filter Magic Into Your Windows 10 Photos App</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/building-a-better-movie-utilizing-windows-11s-movie-maker/"><u>Building a Better Movie Utilizing Windows 11'S Movie Maker</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-7-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 7 Plus in the Best Ways</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-stock-image-memes-real-life-narratives/"><u>In 2024, Top 10 Stock Image Memes Real Life Narratives</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-pixels-selecting-cameras-for-quality-slow-videos-for-2024/"><u>Prime Pixels Selecting Cameras for Quality Slow Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/spectacular-screens-7-premium-photo-editing-tools-for-2024/"><u>Spectacular Screens 7 Premium Photo Editing Tools for 2024</u></a></li>
 </ul></div>
 

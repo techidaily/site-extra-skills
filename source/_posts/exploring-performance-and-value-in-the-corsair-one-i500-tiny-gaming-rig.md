@@ -1,7 +1,7 @@
 ---
 title: Exploring Performance & Value in the Corsair One I500 Tiny Gaming Rig
-date: 2025-01-09T17:29:04.572Z
-updated: 2025-01-11T21:25:56.227Z
+date: 2025-01-13T05:24:25.291Z
+updated: 2025-01-17T10:27:35.687Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,18 +89,21 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unveiling-the-top-10-mobile-battle-strategies/"><u>[New] 2024 Approved Unveiling the Top 10 Mobile Battle Strategies</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-secrets-to-prolonging-gopros-energy-capacity/"><u>[New] Secrets to Prolonging GoPro's Energy Capacity</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-to-effortless-telegram-web-use/"><u>[New] Step-by-Step Guide to Effortless Telegram Web Use</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-skyrocket-engagement-20-video-tricks-for-maximum-impact/"><u>[Updated] In 2024, Skyrocket Engagement 20 Video Tricks for Maximum Impact</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-recording-live-videos-on-periscope-with-maximum-quality/"><u>2024 Approved Recording Live Videos on Periscope with Maximum Quality</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-thrifty-shopping-for-cameras-the-most-economical-lists-under-100/"><u>2024 Approved Thrifty Shopping for Cameras The Most Economical Lists Under $100</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1726029137513-m4amp3/"><u>最新手順：M4Aフォーマットから高品質のMP3への変換方法</u></a></li>
-<li><a href="https://win-answers.techidaily.com/definitive-solutions-for-when-your-msi-mystic-light-fails-to-operate-on-windows-systems/"><u>Definitive Solutions for When Your MSI Mystic Light Fails to Operate on Windows Systems</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-comparing-the-best-gopro-max-360-vs-hero-11/"><u>In 2024, Comparing the Best GoPro Max 360 VS Hero 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-12-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone 12 Pro Max and iPad</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-zoom-for-fb-live-broadcasts/"><u>In 2024, Mastering Zoom for FB Live Broadcasts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-simplified-steps-for-capturing-google-voice-calls/"><u>In 2024, Simplified Steps for Capturing Google Voice Calls</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transform-your-home-entertainment-setup-seamlessly-join-zoom-conferences-via-the-innovative-apple-tv-application/"><u>Transform Your Home Entertainment Setup - Seamlessly Join Zoom Conferences via the Innovative Apple TV Application</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-import-in-windows-10-photo-space/"><u>[New] Mastering the Art of Import in Windows 10 Photo Space</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-metavision-uncovered-analyzing-6-compelling-metaverse-cases/"><u>[New] Metavision Uncovered Analyzing 6 Compelling Metaverse Cases</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-podcast-vs-youtube-the-ideal-medium-explored/"><u>[New] Podcast vs YouTube The Ideal Medium Explored</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-expert-analysis-zdsoft-for-screen-recording-for-2024/"><u>[Updated] Expert Analysis ZDSoft for Screen Recording for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-visual-storytelling-the-top-cinematic-secrets/"><u>[Updated] Mastering Visual Storytelling The Top Cinematic Secrets</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-melody-matters-10-must-hear-sources-for-podcast-beginnings/"><u>[Updated] Melody Matters 10 Must-Hear Sources for Podcast Beginnings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-steps-to-form-a-fruitful-product-sponsor-linkup-on-youtube-for-2024/"><u>[Updated] Steps to Form a Fruitful Product-Sponsor Linkup on Youtube for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-digital-dimensions-online/"><u>2024 Approved Mastering Digital Dimensions Online</u></a></li>
+<li><a href="https://article-files.techidaily.com/curating-playlists-in-inshot-bringing-down-beats-for-2024/"><u>Curating Playlists in InShot Bringing Down Beats for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-lava-yuva-3-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Lava Yuva 3</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-logo-genius-10-tips-for-memorable-podcast-imagery/"><u>In 2024, Logo Genius 10 Tips for Memorable Podcast Imagery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-tips-and-tricks-to-help-you-change-color-like-a-pro/"><u>In 2024, Tips and Tricks to Help You Change Color Like A Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lenovo-bt-driver-glitch-w11-solved-guide/"><u>Lenovo BT Driver Glitch, W11 Solved Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-video-translator-wondershare-virbo/"><u>New In 2024, Video Translator | Wondershare Virbo</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-windows-10-users-guide-to-microphones/"><u>The Windows 10 User's Guide to Microphones</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone 15 Pro | Dr.fone</u></a></li>
 </ul></div>
 

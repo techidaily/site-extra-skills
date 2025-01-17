@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shadowy Time-Lapse Recording Methods\""
-date: 2025-01-07T22:55:07.662Z
-updated: 2025-01-11T20:14:17.873Z
+date: 2025-01-15T22:25:59.381Z
+updated: 2025-01-16T18:39:35.880Z
 tags: 
   - screen-recording
   - ai video
@@ -48,7 +48,7 @@ The camera will then capture the movement in slow motion, allowing you to see th
 ![shoot video with phantom camera](https://images.wondershare.com/filmora/article-images/2022/11/shoot-video-with-phantom-camera.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why do we need a phantom slow-motion camera?
@@ -58,10 +58,6 @@ There are many reasons why someone might want or need to use a phantom slow-moti
 Phantom cameras are the newest type of camera on the market that can capture slow-motion footage at an incredibly high speed. These cameras can record up to 2.5 million frames per second, which is significantly higher than any other type of camera. No matter what the reason, phantom slow-motion cameras are an essential tool for anyone who needs to capture fast-moving objects.
 
 One of the most popular ways to use a phantom slow-motion camera is to capture beautiful slow-motion footage of nature. This can be done by setting up the camera in a location where there is a lot of natural movement. The camera will then capture the movement in slow motion, allowing you to see the beauty of the movement that would otherwise be missed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to create a time-lapse video on a phantom slow-motion camera
 
@@ -75,6 +71,10 @@ A phantom slow-motion camera is a special type of camera that can be used to cre
 Once you have all of the necessary equipment, you will need to set up your camera on the tripod and position it in the desired location. Then, you will need to set the camera to record in slow motion. Once the camera is recording, you will need to use the remote shutter release to take a picture every few seconds.
 
 Depending on the length of the video you want to create, you may need to take thousands of pictures. Once you have all of the pictures, you will need to use a time-lapse video editing software to put them all together.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to edit time-lapse video on a computer
 
@@ -112,11 +112,19 @@ After creating a new project, there is an option to add media you can your the v
 
 ![add media to library on filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-media-to-library-on-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Drop the media to timeline
 
 Drag and drop your videos on the timeline to start the editing. Once you placed your videos on timelines put the video header at the front.
 
 ![drag media into timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/drag-media-into-timeline-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step4 Add titles, effects, and transitions to your video
 
@@ -131,7 +139,7 @@ When you want to save your video or share it on social media just click on the e
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -162,14 +170,6 @@ The camera will then capture the movement in slow motion, allowing you to see th
 
 ![shoot video with phantom camera](https://images.wondershare.com/filmora/article-images/2022/11/shoot-video-with-phantom-camera.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Why do we need a phantom slow-motion camera?
 
 There are many reasons why someone might want or need to use a phantom slow-motion camera. For example, law enforcement officials can use them to capture footage of high-speed car chases or accidents. Scientists can use them to study fast-moving objects or phenomena. And sports enthusiasts can use them to study the movements of athletes and improve their performance.
@@ -221,15 +221,15 @@ You can easily install Filmora for free, after installing click on it three opti
 
 ![open filmora and create a new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step2 Add some media to edit
 
 After creating a new project, there is an option to add media you can your the video which you want to edit.
 
 ![add media to library on filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-media-to-library-on-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3 Drop the media to timeline
 
@@ -250,7 +250,7 @@ When you want to save your video or share it on social media just click on the e
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -287,24 +287,22 @@ As filmmakers and video lovers, we have come up with some solid examples of time
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-achieve-sharpness-camera-tips-without-a-tripod/"><u>[New] Achieve Sharpness Camera Tips Without a Tripod</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-in-depth-analysis-the-essence-of-the-google-podcast-application/"><u>[New] In 2024, In-Depth Analysis The Essence of the Google Podcast Application</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-inside-the-world-of-facetune-a-comprehensive-photography-tool/"><u>[New] Inside the World of Facetune A Comprehensive Photography Tool</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-leading-waterproof-cams-7-compilation-review/"><u>[New] Leading Waterproof Cams #7 Compilation Review</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-precision-photography-without-shake/"><u>[New] Precision Photography without Shake</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-complete-minecraft-gameplay-capture-protocol/"><u>[Updated] In 2024, Complete Minecraft Gameplay Capture Protocol</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-live-action-revealed-an-in-depth-review-of-polaroids-new-camera/"><u>[Updated] Live-Action Revealed An In-Depth Review of Polaroid's New Camera</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-vrs-current-creative-conundrum-latest-insights-for-2024/"><u>[Updated] VR's Current Creative Conundrum - Latest Insights for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-3-best-ways-to-get-pinterest-video-to-mp3-downloaded/"><u>2024 Approved 3 Best Ways to Get Pinterest Video to MP3 Downloaded</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-how-to-get-the-most-out-of-your-streamlabs-obs-setup/"><u>2024 Approved How to Get the Most Out of Your Streamlabs OBS Setup</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-loop-creator-pro/"><u>2024 Approved Loop Creator Pro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-metaverse-insight-discovering-6-realistic-examples/"><u>2024 Approved Metaverse Insight Discovering 6 Realistic Examples</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726030390156-3g2mp3/"><u>高速かつ高品質で3G2とMP3ファイルを同期する最適手法</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-longevity-before-new-gadgets/"><u>Evaluating Longevity Before New Gadgets</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-nurturing-natural-light-within-domestic-spaces/"><u>In 2024, Nurturing Natural Light Within Domestic Spaces</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premium-picks-the-ultimate-gopro-upgrades-for-2024/"><u>Premium Picks The Ultimate Gopro Upgrades for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolve-elgato-hd60-driver-problems-fast-a-simple-guide/"><u>Resolve Elgato HD60 Driver Problems Fast: A Simple Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/slowing-down-reality-crafting-slow-motion-videos-from-still-images-online-for-2024/"><u>Slowing Down Reality Crafting Slow Motion Videos From Still Images Online for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/tmnt-turtles-stunning-backgrounds-and-wallpaper-collection-by-yl-computings-innovative-software-solutions/"><u>TMNT Turtles - Stunning Backgrounds & Wallpaper Collection by YL Computing's Innovative Software Solutions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-decoding-digital-dialogue-essential-vr-lingo/"><u>[New] 2024 Approved Decoding Digital Dialogue Essential VR Lingo</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-securing-your-scene-minimize-camera-jostle/"><u>[New] 2024 Approved Securing Your Scene Minimize Camera Jostle</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-ultimate-guide-choosing-powerful-notebooks-for-filmmakers/"><u>[New] In 2024, Ultimate Guide Choosing Powerful Notebooks for Filmmakers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-laugh-out-loud-a-step-by-step-meme-building/"><u>[New] Laugh Out Loud A Step-by-Step Meme Building</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfecting-your-personal-palette-a-guide-to-whatsapp-alerts-on-phones/"><u>[New] Perfecting Your Personal Palette A Guide to WhatsApp Alerts on Phones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revolutionizing-reality-best-vr-gadgets-today/"><u>[New] Revolutionizing Reality Best VR Gadgets Today</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-craft-the-perfect-thumbnail-top-9-budget-friendly-tools/"><u>[Updated] In 2024, Craft the Perfect Thumbnail Top 9 Budget-Friendly Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-masterful-marketing-tactics-11-ways-to-amplify-your-facebook-videography/"><u>[Updated] In 2024, Masterful Marketing Tactics 11 Ways to Amplify Your Facebook Videography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-integrating-advanced-zoom-features-on-tiktok/"><u>2024 Approved Integrating Advanced Zoom Features on TikTok</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-nighttime-exposures-for-your-iphone-lens/"><u>2024 Approved Nighttime Exposures for Your iPhone Lens</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-lenovo-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Lenovo</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-financial-ally-8-authentic-sources-of-income-fact-or-fiction/"><u>ChatGPT as Your Financial Ally: 8 Authentic Sources of Income - Fact or Fiction?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How can I get more stardust in pokemon go On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-tight-scenes-minecraft-edition/"><u>In 2024, Navigating Tight Scenes Minecraft Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-guide-jpegpng-to-pdf-conversion-techniques-for-2024/"><u>IPhone Guide JPEG/PNG to PDF Conversion Techniques for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pinnacle-promotion-reels-for-2024/"><u>Pinnacle Promotion Reels for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-overcoming-delay-in-logitech-mice-expert-tips-and-tricks/"><u>Troubleshooting and Overcoming Delay in Logitech Mice – Expert Tips & Tricks</u></a></li>
 </ul></div>
 

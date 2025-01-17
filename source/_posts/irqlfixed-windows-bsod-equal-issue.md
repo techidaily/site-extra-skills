@@ -1,7 +1,7 @@
 ---
 title: "[IRQL_FIXED] Windows BSOD - Equal Issue"
-date: 2025-01-04T21:43:37.078Z
-updated: 2025-01-11T23:32:45.884Z
+date: 2025-01-12T15:16:01.058Z
+updated: 2025-01-16T21:40:10.822Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 
 **IMPORTANT** : You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, [restart it in Safe Mode,](https://tools.techidaily.com/drivereasy/download/) then try these solutions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Solution 1: Update the drivers to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
 
  The problem can be caused by missing or corrupted drivers. To fix the problem, update the drivers.  If you don’t have the time, patience or computer skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -46,25 +42,25 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13ff597e883.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to one device to automatically download and install the correct version of their driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13ff597e883.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 2: Uninstall problem drivers to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
 
  The problem can be caused by faulty drivers. To fix the problem, go to**Device Manager** and find the faulty drivers, then uninstall the drivers. If a driver is having problems, you’ll see a yellow mark next to its device (see the screenshot shown below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad8287f6daa6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Following steps are for your reference on how to uninstall a driver:
 
@@ -73,10 +69,6 @@ Following steps are for your reference on how to uninstall a driver:
  2) Type **devmgmt.msc**  and click **OK** . Then Device Manager window will open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13fde1d72b1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In Device Manager, locate the faulty driver. If the driver is having problems, you’ll see a yellow mark next to the device name. Then right-click on the device name (For example, uninstall graphics card driver.) and select**Uninstall** .
 
@@ -87,6 +79,10 @@ Following steps are for your reference on how to uninstall a driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13feb35a43d.png)
 
  5) Restart your PC and check to see if the blue screen is gone  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3 **: Perform a System Restore to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
 
@@ -99,10 +95,6 @@ Following steps are for your reference on how to uninstall a driver:
  2) Type **rstrui.exe** and click**OK** . The System Restore Window will open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13ffd6b0139.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click Next then you may see the following screen. Select a restore point created before the error occurred. You can tell from the created**Date and Time** . Click **Next** to continue and follow the on-screen instructions to finish the restore.
 
@@ -121,8 +113,16 @@ Following steps are for your reference on how to uninstall a driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -151,17 +151,24 @@ Following steps are for your reference on how to uninstall a driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-excellent-6-apps-for-video-interpretation-for-2024/"><u>[New] Excellent 6 Apps for Video Interpretation for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-temporal-annotation-perfecting-photo-date-insertion/"><u>[New] Seamless Temporal Annotation Perfecting Photo Date Insertion</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-straightforward-stories-essence/"><u>[New] Straightforward Stories' Essence</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-going-against-gravity-reversing-your-vids/"><u>[Updated] Going Against Gravity Reversing Your Vids</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-snap-up-on-details-with-videoleaps-advanced-zooming/"><u>[Updated] Snap Up on Details with VideoLeap's Advanced Zooming</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-aspect-ratios-your-pathway-to-youtube-excellence/"><u>2024 Approved Unveiling Aspect Ratios Your Pathway to YouTube Excellence</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/facebooks-premier-new-innovations-exposed-for-2024/"><u>Facebook's Premier New Innovations Exposed for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/harmonizing-messages-whatsapps-audio-update/"><u>Harmonizing Messages WhatsApp's Audio Update</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-picsart-edge-perfecting-face-movements-with-blur-techniques/"><u>In 2024, Picsart Edge Perfecting Face Movements with Blur Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/remove-default-podcast-listings-from-spotify-playlists-for-2024/"><u>Remove Default Podcast Listings From Spotify Playlists for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-easy-path-to-engaging-animation-in-your-videos/"><u>The Easy Path to Engaging Animation in Your Videos</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-pathway-from-podcast-to-mp3-three-effective-steps-for-successful-transfer/"><u>The Pathway From Podcast to MP3 Three Effective Steps for Successful Transfer</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-dissecting-ffmpegs-ability-to-retain-audio-formats/"><u>[New] Dissecting FFmpeg’s Ability to Retain Audio Formats</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-hearth-warming-hear-from-happy-customers/"><u>[New] Hearth-Warming Hear From Happy Customers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-first-timers-map-to-earning-wealth-with-periscope/"><u>[Updated] First-Timer's Map to Earning Wealth with Periscope</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-digital-distortion-in-minutes/"><u>[Updated] Mastering the Art of Digital Distortion in Minutes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pro-tips-on-podcast-titling-and-a-collection-of-over-50-engaging-names/"><u>[Updated] Pro Tips on Podcast Titling & A Collection of Over 50 Engaging Names</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pro-video-cinematography-choosing-the-right-lenses/"><u>[Updated] Pro Video Cinematography Choosing the Right Lenses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-snaps-with-smart-zoom-usage-in-snapchat/"><u>[Updated] Transform Your Snaps with Smart Zoom Usage in Snapchat</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-easy-guide-to-start-product-review-channel/"><u>2024 Approved Easy Guide to Start Product Review Channel</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-the-videography-realm-xstudio-study/"><u>2024 Approved Inside the Videography Realm XStudio Study</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-precision-in-proportion-finding-aspect-ratio-perfection/"><u>2024 Approved Precision in Proportion Finding Aspect Ratio Perfection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamlesssoundcast-the-essential-steps-for-a-smooth-live-podcast-broadcast/"><u>2024 Approved SeamlessSoundCast The Essential Steps for a Smooth Live Podcast Broadcast</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-beginners-blueprint-for-mobile-youtube-videos/"><u>2024 Approved The Beginner's Blueprint for Mobile YouTube Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-infographic-yearbook-of-2017s-youtube-insights-and-trends/"><u>2024 Approved The Infographic Yearbook of 2017'S Youtube Insights & Trends</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-find-x7-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Find X7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/launching-a-video-channel-dedicated-to-new-and-used-product-reviews-for-2024/"><u>Launching a Video Channel Dedicated to New and Used Product Reviews for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-infinix-note-30-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Infinix Note 30 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-class-on-vsco-camera-and-lens-for-creative-use-for-2024/"><u>Master Class on VSCO Camera & Lens for Creative Use for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-ai-powered-solutions-for-paperclip-maximization-quandary/"><u>Unraveling AI-Powered Solutions for Paperclip Maximization Quandary</u></a></li>
 </ul></div>
 
