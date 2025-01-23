@@ -1,7 +1,7 @@
 ---
 title: "[IRQL_FIXED] Windows BSOD - Equal Issue"
-date: 2025-01-12T15:16:01.058Z
-updated: 2025-01-16T21:40:10.822Z
+date: 2025-01-20T16:53:56.183Z
+updated: 2025-01-23T17:29:12.209Z
 tags:
   - win11
   - win10
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Solution 2: Uninstall problem drivers to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
 
  The problem can be caused by faulty drivers. To fix the problem, go to**Device Manager** and find the faulty drivers, then uninstall the drivers. If a driver is having problems, you’ll see a yellow mark next to its device (see the screenshot shown below).
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad8287f6daa6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Following steps are for your reference on how to uninstall a driver:
@@ -74,15 +70,19 @@ Following steps are for your reference on how to uninstall a driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13fe52a4642.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) If prompted to confirm  the uninstall, check the box next to “Delete the driver software for this device.” then click the **OK**  button. If you don’t see this box, just click**OK** to uninstall the driver.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13feb35a43d.png)
 
- 5) Restart your PC and check to see if the blue screen is gone  .  
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 5) Restart your PC and check to see if the blue screen is gone  .  
 
 ## Solution 3 **: Perform a System Restore to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
 
@@ -96,11 +96,19 @@ Following steps are for your reference on how to uninstall a driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13ffd6b0139.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click Next then you may see the following screen. Select a restore point created before the error occurred. You can tell from the created**Date and Time** . Click **Next** to continue and follow the on-screen instructions to finish the restore.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a14004645d52.png)
 
 4) Reboot your PC and check to see if the blue screen is gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution** 4: Reset or reinstall Windows
 
@@ -113,16 +121,8 @@ Following steps are for your reference on how to uninstall a driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -151,24 +151,20 @@ Following steps are for your reference on how to uninstall a driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-dissecting-ffmpegs-ability-to-retain-audio-formats/"><u>[New] Dissecting FFmpeg’s Ability to Retain Audio Formats</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-hearth-warming-hear-from-happy-customers/"><u>[New] Hearth-Warming Hear From Happy Customers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-first-timers-map-to-earning-wealth-with-periscope/"><u>[Updated] First-Timer's Map to Earning Wealth with Periscope</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-digital-distortion-in-minutes/"><u>[Updated] Mastering the Art of Digital Distortion in Minutes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pro-tips-on-podcast-titling-and-a-collection-of-over-50-engaging-names/"><u>[Updated] Pro Tips on Podcast Titling & A Collection of Over 50 Engaging Names</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pro-video-cinematography-choosing-the-right-lenses/"><u>[Updated] Pro Video Cinematography Choosing the Right Lenses</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-your-snaps-with-smart-zoom-usage-in-snapchat/"><u>[Updated] Transform Your Snaps with Smart Zoom Usage in Snapchat</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-easy-guide-to-start-product-review-channel/"><u>2024 Approved Easy Guide to Start Product Review Channel</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-the-videography-realm-xstudio-study/"><u>2024 Approved Inside the Videography Realm XStudio Study</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-precision-in-proportion-finding-aspect-ratio-perfection/"><u>2024 Approved Precision in Proportion Finding Aspect Ratio Perfection</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-seamlesssoundcast-the-essential-steps-for-a-smooth-live-podcast-broadcast/"><u>2024 Approved SeamlessSoundCast The Essential Steps for a Smooth Live Podcast Broadcast</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-beginners-blueprint-for-mobile-youtube-videos/"><u>2024 Approved The Beginner's Blueprint for Mobile YouTube Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-infographic-yearbook-of-2017s-youtube-insights-and-trends/"><u>2024 Approved The Infographic Yearbook of 2017'S Youtube Insights & Trends</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-find-x7-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Find X7</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/launching-a-video-channel-dedicated-to-new-and-used-product-reviews-for-2024/"><u>Launching a Video Channel Dedicated to New and Used Product Reviews for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-infinix-note-30-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Infinix Note 30 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-class-on-vsco-camera-and-lens-for-creative-use-for-2024/"><u>Master Class on VSCO Camera & Lens for Creative Use for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unraveling-ai-powered-solutions-for-paperclip-maximization-quandary/"><u>Unraveling AI-Powered Solutions for Paperclip Maximization Quandary</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-digital-documentation-mobile-and-desktop-meeting-recordings/"><u>[New] 2024 Approved Digital Documentation Mobile & Desktop Meeting Recordings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-ultimate-reddit-trophy-case-top-ten-threads/"><u>[New] The Ultimate Reddit Trophy Case - Top Ten Threads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-secure-techniques-to-boost-speed-in-spotify-listening/"><u>[Updated] Secure Techniques to Boost Speed in Spotify Listening</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-to-stunning-timelapses-a-comprehensive-guide-using-gopro/"><u>[Updated] Step-By-Step to Stunning Timelapses A Comprehensive Guide Using GoPro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sculpting-cinematographic-excellence-in-gopro-editing/"><u>2024 Approved Sculpting Cinematographic Excellence in GoPro Editing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-softening-system-sounds-a-comprehensive-guide/"><u>2024 Approved Softening System Sounds A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-repair-techniques-for-handling-blue-screen-error-0x0000005c/"><u>DIY Repair Techniques for Handling Blue Screen Error 0X0000005C</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-realme-c55-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Realme C55 Face Lock?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-phone-match-up-for-samsungs-virtual-reality-dreams-update-2023/"><u>In 2024, Perfect Phone Match-Up for Samsung's Virtual Reality Dreams - Update 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-picture-puns-smilesketchers/"><u>In 2024, Picture Puns SmileSketchers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-ai-driven-picture-editing-suite/"><u>In 2024, Premier AI-Driven Picture Editing Suite</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-joy-of-journeys-end-innovative-box-revelations/"><u>In 2024, The Joy of Journey's End Innovative Box Revelations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-game-captures-with-shadowplay-overcoming-windows-recording-hurdles/"><u>Mastering Game Captures with ShadowPlay: Overcoming Windows Recording Hurdles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-loses-its-grip-on-gpt/"><u>OpenAI Loses Its Grip on GPT</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989540663-the-ultimate-fix-for-rainbow-six-siege-not-opening-dilemma-now-working/"><u>The Ultimate Fix for 'Rainbow Six Siege Not Opening' Dilemma - Now Working!</u></a></li>
 </ul></div>
 

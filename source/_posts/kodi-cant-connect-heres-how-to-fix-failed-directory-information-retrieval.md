@@ -1,7 +1,7 @@
 ---
 title: Kodi Can't Connect? Here's How to Fix Failed Directory Information Retrieval
-date: 2025-01-12T03:13:00.819Z
-updated: 2025-01-17T00:21:39.572Z
+date: 2025-01-17T18:03:08.459Z
+updated: 2025-01-23T16:46:19.767Z
 tags:
   - win11
   - win10
@@ -22,7 +22,7 @@ Amazon Prime provides thousands of great series and movies which you can enjoy a
 * [For phone](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for Amazon prime video not working on PC
@@ -30,10 +30,6 @@ Amazon Prime provides thousands of great series and movies which you can enjoy a
 * [Reboot the browser](https://tools.techidaily.com/drivereasy/download/)
 * [Check your internet connection](https://tools.techidaily.com/drivereasy/download/)
 * [Disable your VPN and third-party apps](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reboot the browser
 
@@ -76,14 +72,22 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-715.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable your VPN and third-party apps
 
@@ -106,10 +110,6 @@ OR
  Make sure your Amazon Prime video account is paid and active. You can go to[your account page](https://www.amazon.com/ap/signin?%5Fencoding=UTF8&accountStatusPolicy=P1&clientContext=135-4224850-9503066&openid.assoc%5Fhandle=usflex&openid.claimed%5Fid=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.mode=checkid%5Fsetup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max%5Fauth%5Fage=0&openid.return%5Fto=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fsettings%2Fref%3Ddv%5Fweb%5Fauth%5Fno%5Fre%5Fsig%3Fie%3DUTF8%26tag%3Dbisafetynet2-20) to check. Check your app version, update it to the latest version.  
  Then close the Prime video app and restart it, if it doesn’t work, reboot your smart TV. Rebooting is always the first and effective method to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Resign-in to the app
 
  Sign out and sign back into the app sounds stupid, but it works for many people. You can select Settings on your TV and sign out.
@@ -123,10 +123,6 @@ Close the app, reopen, then enter your credentials to sign back in.
 If the cable is the culprit, you may need to purchase a new cable.
 
 [](https://images.drivereasy.com/wp-content/uploads/2020/08/61SDW7VbneL._AC_SL1500_-1200x950.jpg) ](https://www.amazon.com/AmazonBasics-High-Speed-HDMI-Cable-2-Pack/dp/B014I8SX4Y/ref=sr%5F1%5F4?dchild=1&keywords=hdmi&qid=1597731890&sr=8-4&tag=drivereasycom-20)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for Amazon prime video not working on smartphone
 
@@ -144,6 +140,10 @@ If the cable is the culprit, you may need to purchase a new cable.
  Check your internet connection. Make sure you’re linked to the WiFi or using the cellular data.
 
  If your Wi-Fi is not working, you can press the power button on the back of the router to perform a soft reset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall the app
 
@@ -168,24 +168,17 @@ If the cable is the culprit, you may need to purchase a new cable.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/hannel-success-strategies-a-comprehensive-guide-to-spotlighting-for-2024/"><u>[New] Channel Success Strategies A Comprehensive Guide to Spotlighting for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-inshot-editors-guide-to-fluid-cut-techniques/"><u>[New] Inshot Editor's Guide to Fluid Cut Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-srt-and-mp4-fusion-the-ultimate-guide/"><u>[New] Seamless SRT & MP4 Fusion – The Ultimate Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-art-of-patience-mastering-the-craft-of-producing-captivating-slow-motion-videos-and-photos-for-instagram-for-2024/"><u>[New] The Art of Patience Mastering the Craft of Producing Captivating Slow Motion Videos and Photos for Instagram for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-video-speed-boosting-for-smooth-playbacks-mobiledesktop/"><u>[Updated] 2024 Approved Instagram Video Speed Boosting for Smooth Playbacks (Mobile/Desktop)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-inside-the-studio-magix-vpx-leading-media-production/"><u>[Updated] Inside the Studio Magix VPX Leading Media Production</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-quickest-photo-scanner-in-windows-land/"><u>[Updated] Quickest Photo Scanner in Windows Land</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-achieving-smooth-volume-decreases-using-lumafusion/"><u>2024 Approved Achieving Smooth Volume Decreases Using Lumafusion</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-lava-blaze-2-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Lava Blaze 2 Pro? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-identity-vs-online-alias-whats-the-difference/"><u>Facebook Identity Vs Online Alias: What's The Difference?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-expert-tips-finding-the-best-text-design-resources/"><u>In 2024, Expert Tips Finding the Best Text Design Resources</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-content-by-merging-apple-music-to-videos/"><u>In 2024, Maximize Content by Merging Apple Music to Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-ranking-the-best-sites-for-superior-vectors/"><u>In 2024, Ranking the Best Sites for Superior Vectors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-depth-analysis-of-the-marshall-motif-anc-features-insights-from-zdnet/"><u>In-Depth Analysis of the Marshall Motif ANC Features - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/latest-lg-360-camera-features-and-review-for-2024/"><u>Latest LG 360 Camera Features and Review for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/maximize-your-consoles-potential-top-monitors-explored-for-2024/"><u>Maximize Your Console's Potential - Top Monitors Explored for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/seamlessly-accessing-vids-the-top-5-free-online-video-extractors-for-2024/"><u>Seamlessly Accessing Vids The Top 5 Free Online Video Extractors for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-fixing-the-issue-prevents-maplestory-from-starting-up/"><u>Solved: Fixing the Issue Prevents MapleStory From Starting Up</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-missing-link-understanding-why-you-cant-find-facebook-marketplace-on-your-device/"><u>The Missing Link: Understanding Why You Can't Find Facebook Marketplace on Your Device</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-a-step-by-step-guide-to-mastering-business-on-snap/"><u>[New] 2024 Approved A Step-by-Step Guide to Mastering Business on Snap</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-live-action-top-9-gaming-portals/"><u>[New] In 2024, Live Action Top 9 Gaming Portals</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-converting-youtube-broadcasts-into-listenable-formats/"><u>[Updated] 2024 Approved Converting YouTube Broadcasts Into Listenable Formats</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quantum-hdr-explained-the-ultimate-resource/"><u>2024 Approved Quantum HDR Explained The Ultimate Resource</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-lively-user-onboarding-pathway/"><u>In 2024, Lively User Onboarding Pathway</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/personalizing-your-timepiece-tailoring-the-lock-screen-clock-on-android/"><u>Personalizing Your Timepiece: Tailoring the Lock Screen Clock on Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/realizing-dreamscapes-picks-of-the-best-tools-for-animation-artists-for-2024/"><u>Realizing Dreamscapes Picks of the Best Tools for Animation Artists for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revolutionizing-video-production-with-skillful-audio-crafting-for-2024/"><u>Revolutionizing Video Production with Skillful Audio Crafting for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/simplified-processes-generating-your-podcasts-rss-feed-for-2024/"><u>Simplified Processes Generating Your Podcast's RSS Feed for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-perfect-apple-airtag-wallet-expert-picks-cnet-news/"><u>Ultimate Guide to Choosing the Perfect Apple AirTag Wallet : Expert Picks | CNet News</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/unlock-free-vocal-manipulation-expertise-with-in-depth-guide-to-voice-editing-via-filmora-for-2024/"><u>Unlock Free Vocal Manipulation Expertise with In-Depth Guide to Voice Editing via Filmora for 2024</u></a></li>
 </ul></div>
 

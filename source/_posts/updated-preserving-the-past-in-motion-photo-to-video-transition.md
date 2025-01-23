@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Preserving the Past in Motion  Photo to Video Transition\""
-date: 2025-01-12T02:00:18.002Z
-updated: 2025-01-17T02:55:11.278Z
+date: 2025-01-18T20:13:46.120Z
+updated: 2025-01-23T19:32:08.680Z
 tags: 
   - screen-recording
   - ai video
@@ -64,6 +64,10 @@ Some popular photo scanners that you can consider using are Scanner Pro, PhotoSc
 
 In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Convert Old Photos into a Video Effortlessly?
 
 By now, you would be able to digitize photos and have a soft copy of your old photographs. Apart from that, a lot of people would also like to make a video collage of their favorite pictures as well. If you have old pictures of a loved one and a special occasion is coming, then a video collage of their photos would be one of the best gifts.
@@ -86,6 +90,10 @@ To start with, you can just launch Filmora on your system and import your photos
 
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\. Create a timeline for your photos
 
 Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
@@ -99,7 +107,7 @@ Just above the timeline, you can find all kinds of tools to edit your video. For
 ![Edit Digitized Photos](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
@@ -119,7 +127,7 @@ Besides that, you can also add a track to the video by visiting the “Audio” 
 ![Add Audio to Digitized Photos](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 5\. Export your video
@@ -129,10 +137,6 @@ That’s it! After making all the changes, you can preview your video on the rig
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
 
 Find more fancy ways to make the best photo and video slideshow with Filmora!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Editing Tips for Creating Memorable Videos
 
@@ -162,16 +166,12 @@ Most importantly, pick a user-friendly and effective video editor like Filmora. 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -189,21 +189,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-breaking-down-vimeo-streaming-giants-secrets-revealed/"><u>[New] Breaking Down Vimeo Streaming Giant's Secrets Revealed</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-ultimate-drone-buying-roadmap-pre-purchase-essentials-for-2024/"><u>[New] The Ultimate Drone Buying Roadmap Pre-Purchase Essentials for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-instagram-picture-perfect-a-quick-guide/"><u>[Updated] Instagram Picture Perfect A Quick Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-smart-image-sharing-on-instagram/"><u>[Updated] Smart Image Sharing on Instagram</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-perfecting-your-presence-share-screen-mastery-in-meet/"><u>2024 Approved Perfecting Your Presence Share Screen Mastery in Meet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-smartphones-with-superior-video-recording-features/"><u>2024 Approved Smartphones with Superior Video Recording Features</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pixelpun-factory/"><u>In 2024, PixelPun Factory</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-film-editing-advanced-kinemaster-methods/"><u>In 2024, Revolutionizing Film Editing Advanced Kinemaster Methods</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-this-video-will-get-you-100000-views-on-youtube/"><u>In 2024, This Video Will Get You 100000 Views on YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-the-art-of-attraction-secrets-to-viral-tiktok-unboxing-content-for-2024/"><u>Master the Art of Attraction Secrets to Viral TikTok Unboxing Content for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prime-selections-of-maximum-digital-safekeeping-for-2024/"><u>Prime Selections of Maximum Digital Safekeeping for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/reducing-jitter-in-visual-content-creation-for-2024/"><u>Reducing Jitter in Visual Content Creation for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/setting-up-multi-user-access-on-your-system-via-control-panel-a-guide-by-yl-computing/"><u>Setting Up Multi-User Access on Your System via Control Panel - A Guide by YL Computing</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/stunning-1080p-bmw-e39-m5-hd-screen-savers-and-backgrounds-exclusive-visual-content-from-yl-software-solutions/"><u>Stunning 1080P BMW E39 M5 HD Screen Savers & Backgrounds – Exclusive Visual Content From YL Software Solutions</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/unveiling-abbyys-advanced-ai-capabilities-for-efficient-document-handling-at-the-london-ai-conference/"><u>Unveiling ABBYY's Advanced AI Capabilities for Efficient Document Handling at the London AI Conference</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-panoramic-storytelling-simplified-top-9-tips-for-filmmakers/"><u>[New] Panoramic Storytelling Simplified Top 9 Tips for Filmmakers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-understanding-the-price-tag-on-youtube-promo/"><u>[Updated] In 2024, Understanding the Price Tag on Youtube Promo</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-top-picks-best-amazon-prime-content-2023-for-2024/"><u>[Updated] Twitter's Top Picks Best Amazon Prime Content 2023 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-smooth-photo-and-video-flow-pc-to-iphone-upload/"><u>2024 Approved Smooth Photo & Video Flow PC-to-iPhone Upload</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-v27-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210882843-9781088163634-break-free-daily-revival-prayers-november-towards-selfless-service/"><u>Break-free Daily Revival Prayers - November - Towards SELFLESS SERVICE | Free Book</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-realme-c51-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-outdoor-gadgets-for-making-road-trip-videos/"><u>In 2024, Outdoor Gadgets for Making Road-Trip Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-portable-cost-free-software-transforming-laptop-viewers/"><u>In 2024, Portable, Cost-Free Software Transforming Laptop Viewers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-methods-for-turning-youtube-videos-into-mpegs/"><u>In 2024, Prime Methods for Turning YouTube Videos Into MPEGs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-record-video-directly-from-webcam-using-vlc-media-player/"><u>In 2024, Record Video Directly From Webcam Using VLC Media Player</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-a2plus-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi A2+ Phone Hassle-Free</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revenue-rundown-the-profit-of-youtube-star-pewdopeep-for-2024/"><u>Revenue Rundown The Profit of YouTube Star PewDoPeep for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/seamless-conversion-techniques-upgrading-from-standard-definition-to-high-definition-without-compromising-on-video-quality/"><u>Seamless Conversion Techniques: Upgrading From Standard Definition to High Definition without Compromising on Video Quality</u></a></li>
 </ul></div>
 

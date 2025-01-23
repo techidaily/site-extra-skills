@@ -1,7 +1,7 @@
 ---
 title: "2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC"
-date: 2025-01-16T09:22:12.918Z
-updated: 2025-01-17T09:25:02.163Z
+date: 2025-01-17T18:54:37.502Z
+updated: 2025-01-23T16:57:52.416Z
 categories:
   - BestProducts
 description: "This Article Describes 2021'S Top Contender: Comprehensive Analysis of the Alienware Aurora R11 as a Premier Gaming PC"
@@ -43,6 +43,10 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/3Kfyp4XgBEtCuXPHAVw99RFqQs8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_HeroSquare-2e5c3941b8fe49afbd7464f382164976.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
 [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Famazon-halo-activity-and-sleep-tracker-medium-7-onyx%2F6445215.p)
@@ -69,10 +73,6 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/W0-czfRzA-7ixa5VS8Cb4sBcaqM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_02-b2292f1ee1b54f4e9990c92e582c5a4b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Yoona Wagener
 
 ## Design: An accessory that blends in
@@ -85,10 +85,6 @@ Lifewire / Yoona Wagener
 
 Lifewire / Yoona Wagener
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comfort: Streamlined but not immune to typical fit issues
 
  While the easy-adjusting Velcro strap is a welcome departure from the typical notch-and-clasp closure on most fitness trackers, adjusting the fit or removing the device wasn’t as smooth as I’d expected it to be. The end of the strap is finished with hardware that prevents the strap from coming completely undone from the loop. The band also includes a series of five strong Velcro strips/notches that serve as sizing adjusters. This construction helps prevent accidental drops when taking the band on/off, which is never a bad thing. On the other hand, though, the Velcro strips are so sturdy that they restricted quick adjustments and made removing the band less swift overall.
@@ -99,6 +95,10 @@ Lifewire / Yoona Wagener
 
  As for water resistance, I didn’t test the 50-meter swimproof rating of the Halo in a pool, but I did shower with the device for three days. Despite the band’s moisture-wicking band material, it remained damp far longer than was comfortable and compared to a fast-drying silicone band. If you’re an avid swimmer or prefer not to remove your wearable while showering, the sport band option will most likely be the more desirable option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Performance: Constantly monitoring movement, not performance
 
  While this streamlined device doesn’t log detailed workout metrics, the Halo has the upper hand when it comes to continuously monitoring movement—and sedentary stints throughout the day. Whether you’re sitting at a desk or venture out for an errand, the Halo will capture that and pretty accurately categorize it. It consistently registered walking and running activities, though the readout wasn’t very accurate for the latter. Truthfully, I don’t get the impression that that’s the point of the Halo.
@@ -106,10 +106,6 @@ Lifewire / Yoona Wagener
  Instead, the Halo presents all activity data through a convenient point-tracking system. The weekly goal is 150, which converts to 150 minutes of cardiovascular activity, as recommended by the American Heart Association. Periods of movement and exercise count toward this point goal, while periods of non-movement subtract from points earned. It’s a digestible system that offers a new twist on the steps or movement alert functions you’ll find in fitness trackers and[smartwatches](https://www.lifewire.com/an-introduction-to-smart-watches-3441381) from Samsung, Garmin, Fitbit, and others. This system was an encouraging reset from those reminders that sometimes feel more annoying than motivating.
 
 ![Amazon Halo](https://www.lifewire.com/thmb/FjdFyV6Y4mTXNsqccZ4aEBJNpV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_05-e671ee9f77cc4cee8e2580a2dba449d5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener.
 
@@ -121,6 +117,10 @@ Lifewire / Yoona Wagener
 
  The body fat scan is based on pictures uploaded to the app—and based on prompts from the app. While it felt invasive and isn’t a feature I’d seek out in a fitness tracker, it worked without issue. Amazon reports that this technology is twice as accurate as smart scales. For the right user who feels comfortable with this kind of data compilation, this feature also offers visualizations of how different body fat percentages would look on your frame and stores your scans for a look at trends over time. All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the[cloud](https://www.lifewire.com/what-is-cloud-computing-817770) , which Amazon assures is private and well secured.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Software: An essential and user-friendly mobile app
 
  Without a visual display to interact with, the accompanying Halo mobile app is absolutely essential to the user experience. It delivers helpful explanations and guidance that most users want. Compatible with[iOS](https://www.lifewire.com/what-is-ios-1994355) and[Android](https://www.lifewire.com/what-is-google-android-1616887) phones, the Halo app makes everything from the initial setup to body scanning and voice tracking straightforward. Sleep data is backed up by explanations as is the activity point tracking system. Automatically tracked workout data is also easily accessible and so is the option to manually upload workout activities (there are 38 to choose from, including an all-encompassing Other category).
@@ -131,10 +131,6 @@ Lifewire / Yoona Wagener
 
  The app makes everything from the initial setup to body scanning and voice tracking straightforward.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Battery: Enough juice to last nearly a week
 
  Amazon says that with tone tracking enabled, the band should last up to seven days on a single charge. There are two options for tracking tone: one for more accuracy and one to optimize battery life. I chose the latter and found that the band lasted for six days, which comes close to the manufacturer’s claims. I also noticed that by manually muting the mic, the battery drained far less quickly than when I left it on to listen at all times.
@@ -144,7 +140,7 @@ Lifewire / Yoona Wagener
 ![Amazon Halo](https://www.lifewire.com/thmb/fBsShcBruhAWkg-kTKPWkYUaImo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_04-ee532fbe8d2f4e8195e63ed9dd45611a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
@@ -165,6 +161,10 @@ Lifewire / Yoona Wagener
 
  The Amazon Halo isn’t for everyone with its lack of display and additional layers of data tracking to capture tone of voice and body fat percentage. But for the user that wants a little less hardware but more forward-thinking fitness/health tracking, this unique wearable offers a different approach to increasing activity and wellness awareness on a daily basis.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Apple Watch Series 5](https://www.lifewire.com/apple-watch-series-6-review-5087552)
@@ -172,7 +172,7 @@ Lifewire / Yoona Wagener
 * [Ticwatch Pro](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -206,20 +206,24 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-introducing-motion-blur-magic-in-your-iphone-photos/"><u>[New] Introducing Motion-Blur Magic in Your iPhone Photos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mix-memes-with-a-smile/"><u>[New] Mix Memes with a Smile</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-propel-your-vlogs-forward-top-seo-tech-unveiled/"><u>[New] Propel Your Vlogs Forward – Top SEO Tech Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-samsung-image-maker-insights-and-overview-2023/"><u>[New] Samsung Image Maker Insights & Overview 2023</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-sleep-aid-asmr-techniques-unveiled-for-2024/"><u>[New] Sleep Aid ASMR Techniques Unveiled for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premium-audio-playwright-craftsmanship/"><u>[Updated] Premium Audio Playwright Craftsmanship</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-timer-solutions-for-your-special-day-on-androidios/"><u>2024 Approved Ideal Timer Solutions for Your Special Day on Android/iOS</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagrams-best-grids-built-by-the-top-tools-compiled-here/"><u>2024 Approved Instagram's Best Grids Built by the Top Tools Compiled Here</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-integrate-sound-and-filter-magic-into-your-windows-10-photos-app/"><u>2024 Approved Integrate Sound & Filter Magic Into Your Windows 10 Photos App</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/building-a-better-movie-utilizing-windows-11s-movie-maker/"><u>Building a Better Movie Utilizing Windows 11'S Movie Maker</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-7-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 7 Plus in the Best Ways</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Plus without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-10-stock-image-memes-real-life-narratives/"><u>In 2024, Top 10 Stock Image Memes Real Life Narratives</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prime-pixels-selecting-cameras-for-quality-slow-videos-for-2024/"><u>Prime Pixels Selecting Cameras for Quality Slow Videos for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/spectacular-screens-7-premium-photo-editing-tools-for-2024/"><u>Spectacular Screens 7 Premium Photo Editing Tools for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-playwrighting-for-public-broadcast/"><u>[New] Premier Playwrighting for Public Broadcast</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-stealth-mode-a-guide-to-living-large-unlabeled/"><u>[New] Stealth Mode A Guide to Living Large, Unlabeled</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-your-youtube-potential-6-crucial-actions-for-visibility/"><u>[New] Unleash Your YouTube Potential 6 Crucial Actions for Visibility</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-note-to-call-how-to-convert-tamil-songs-into-ringtones/"><u>2024 Approved Note to Call How To Convert Tamil Songs Into Ringtones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-picture-perfection-on-a-penny-your-guide-to-free-tiktok-backdrops/"><u>2024 Approved Picture Perfection on a Penny Your Guide to Free TikTok Backdrops</u></a></li>
+<li><a href="https://extra-information.techidaily.com/androids-premier-gamers-app-an-in-depth-look-at-kinemaster-for-2024/"><u>Android's Premier Gamer's App An In-Depth Look at KineMaster for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/digitize-and-upload-seamlessly-copy-dvds-as-mp4-files-using-winx-dvd-ripper-for-mac/"><u>Digitize & Upload Seamlessly: Copy DVDs as MP4 Files Using WinX DVD Ripper for Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-setup-your-xbox-360-controllers-necessary-drivers-for-gaming/"><u>How To Obtain & Setup Your Xbox 360 Controller's Necessary Drivers For Gaming</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-maintaining-softness-fading-effects-in-fl-studio-mixes/"><u>In 2024, Maintaining Softness Fading Effects in FL Studio Mixes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sculpted-sentences-turning-text-into-3d-art/"><u>In 2024, Sculpted Sentences Turning Text Into 3D Art</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-simplify-image-editing-picart-background-shedding/"><u>In 2024, Simplify Image Editing PicArt Background Shedding</u></a></li>
+<li><a href="https://fox-access.techidaily.com/pixelpun-factory-for-2024/"><u>PixelPun Factory for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-15-groundbreaking-film-processors-for-gopro-cinematography-for-2024/"><u>Premium 15 Groundbreaking Film Processors for GoPro Cinematography for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-webcast-systems-and-applications-for-2024/"><u>Premium Webcast Systems & Applications for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/recovering-accidentally-erased-images-from-your-iphone-via-icloud-a-comprehensive-guide/"><u>Recovering Accidentally Erased Images From Your iPhone via iCloud: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reviewing-acid-pro-seeking-substitutes-for-2024/"><u>Reviewing ACID Pro Seeking Substitutes for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/simple-screen-recorder-for-windows-10/"><u>Simple Screen Recorder for Windows 10</u></a></li>
 </ul></div>
 

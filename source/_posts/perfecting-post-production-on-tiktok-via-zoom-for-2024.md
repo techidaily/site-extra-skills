@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting Post-Production on TikTok via Zoom for 2024\""
-date: 2025-01-15T09:15:16.434Z
-updated: 2025-01-17T02:33:20.691Z
+date: 2025-01-17T19:21:03.994Z
+updated: 2025-01-23T19:29:06.513Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ In recent times, TikTok has become a major social media platform and along with 
 
 And one of the main functions of any video editing application is that the user should be able to zoom into videos to showcase specific areas of the video or to make a unique transition. In this article, we are going to learn about face zoom TikTok and how one user can use the Zoom function and make videos with it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. Zoom on TikTok while creating a new video
 
 With its growing popularity, TikTok has been adding many features to its video editing front. And one of such major functions of TikTok is to zoom the video as per your preference. There are two ways in which a user can zoom the video on TikTok.
@@ -33,17 +37,13 @@ The first one involves zooming in while recording the video and the second one i
 ![create a new video tiktok](https://images.wondershare.com/filmora/article-images/2022/07/create-a-new-video-tiktok.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * When you tap on the "+" icon, the recording interface will open up. Now, select the duration of the video by tapping the "clock" icon on the left-hand side of the screen. After selecting a set duration, you will find a red shutter button which you will need to hold to start the recording.
 * Now, to zoom in on the recording, you can use any of two methods of zooming in. The first method involves you moving your finger up towards the top of your phone from the shutter icon. This will show you a red circle getting bigger.
 * Alternatively, you can use one finger to pinch into the screen while holding the shutter icon with another finger and this will ultimately help you achieve a zoom effect on your video.
 * For zooming out, you can move your finger towards the shutter button or pinch out and then save the video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. How to Zoom an existing TikTok video
 
@@ -54,20 +54,16 @@ TikTok is known to provide a vast number of filters as well as editing tools tha
 
 ![tap visual effects tiktok](https://images.wondershare.com/filmora/article-images/2022/07/tap-visual-effects-tiktok.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Here you will need to find an effect namely the "zoom effect" and tapping on it will apply the effect to your video.
 
 ![choose zoom effect tiktok](https://images.wondershare.com/filmora/article-images/2022/07/choose-zoom-effect-tiktok.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * You can drag the marker of the timeline to set the beginning of the effect on your video. Then press the zoom effect and release it where you want the zoom effect to end.
 * Then save the video and the effect will be applied successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. How to face zoom TikTok
 
@@ -82,7 +78,7 @@ And if you are new to this platform, you can follow these steps to use this face
 ![zoom tiktok filter](https://images.wondershare.com/filmora/article-images/2022/07/zoom-tiktok-filter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * The filter icon background is of turquoise color. You will need to tap on that and your face zoom effect will be activated.
@@ -90,6 +86,10 @@ And if you are new to this platform, you can follow these steps to use this face
 ![activitate face zoom effect](https://images.wondershare.com/filmora/article-images/2022/07/activitate-face-zoom-effect.jpg)
 
 * Alternatively, you can also go to the effects page and the search bar and then type "Face Zoom" on the text box, followed by a search click to find the TikTok facezoom filter more easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -127,24 +127,17 @@ TikTok has become more than just a social media platform and these days almost e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-virtual-space-insights-into-vr-cinema/"><u>[New] Mastering Virtual Space Insights Into VR Cinema</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamless-date-insertion-into-photo-editing/"><u>[Updated] Seamless Date Insertion Into Photo Editing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-vr-grips-top-8-essential-handsets/"><u>2024 Approved Leading VR Grips Top 8 Essential Handsets</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premiere-samsung-gear-vr-playlist/"><u>2024 Approved Premiere Samsung Gear VR Playlist</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-camera-addons-buyers-insider-guide/"><u>2024 Approved Pro-Camera Addons Buyer's Insider Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-and-easy-iphone-methods-to-download-podcasts-anywhere/"><u>2024 Approved Quick and Easy iPhone Methods to Download Podcasts Anywhere</u></a></li>
-<li><a href="https://article-files.techidaily.com/craft-crisp-visuals-with-picart-background-sweep/"><u>Craft Crisp Visuals with PicArt Background Sweep</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dispacciabile-ora-lhardware-e-il-software-per-codificare-video-in-formato-av1/"><u>Dispacciabile Ora: L'hardware E Il Software per Codificare Video in Formato AV1</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/elite-windows-melody-makers-for-2024/"><u>Elite Windows Melody Makers for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-s23-ultra-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy S23 Ultra Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/how-to-troubleshoot-malfunctioning-disks-tips-by-yl-software-experts/"><u>How to Troubleshoot Malfunctioning Disks - Tips by YL Software Experts</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-professional-tips-top-10-text-effects/"><u>In 2024, Professional Tips Top 10 Text Effects</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-iphone-photo-and-video-transfers-guide/"><u>In 2024, Seamless iPhone Photo & Video Transfers Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-xiaomi-mix-fold-3-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Xiaomi Mix Fold 3 FRP</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-strategies-for-optimal-ram-in-the-world-of-minecraft/"><u>In 2024, Strategies for Optimal RAM in the World of Minecraft</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-shift-turning-srt-into-subc-for-2024/"><u>Navigating the Shift Turning SRT Into SUBC for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revolutionizing-classic-images-a-guide-to-enhancing-vhs-photos-on-pcs-for-2024/"><u>Revolutionizing Classic Images A Guide to Enhancing VHS Photos on PCs for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-fifa-19-game-guide-dominating-the-digital-soccer-field/"><u>Ultimate FIFA 19 Game Guide: Dominating the Digital Soccer Field</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-supercharge-your-yi-4k-videos-with-pro-gear/"><u>[Updated] In 2024, Supercharge Your YI 4K Videos with Pro Gear</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-savvy-sentries-of-the-mind-top-quizzes/"><u>[Updated] Savvy Sentries of the Mind Top Quizzes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-flash-optimization-tips/"><u>2024 Approved IPhone Flash Optimization Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-nikon-d500-a-revolution-in-4k-uhd-photography/"><u>2024 Approved Nikon D500 A Revolution in 4K UHD Photography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alibaba-appoints-new-chief-technology-officer-current-ceo-takes-over-temporary-cloud-role-zdnet/"><u>Alibaba Appoints New Chief Technology Officer; Current CEO Takes Over Temporary Cloud Role - ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-s17-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo S17 Data? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-samsung-galaxy-a15-4g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Samsung Galaxy A15 4G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-beginners-guide-to-essential-photo-edits-in-ps/"><u>In 2024, Beginner's Guide to Essential Photo Edits in PS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-essential-recording-tools-top-5-webcam-capturers/"><u>In 2024, Essential Recording Tools - Top 5 Webcam Capturers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-the-charge-in-online-healthcare-promotions-and-ads/"><u>In 2024, Leading the Charge in Online Healthcare Promotions & Ads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/snap-up-the-new-9th-generation-ipad-at-only-250-following-apples-recent-launch-insights/"><u>Snap Up the New 9Th Generation iPad at Only $250 Following Apple’s Recent Launch – Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-everyone-should-know-about-gptbot-causes-for-its-recent-blacklist-by-sites/"><u>What Everyone Should Know About GPTBot: Causes for Its Recent Blacklist by Sites</u></a></li>
 </ul></div>
 

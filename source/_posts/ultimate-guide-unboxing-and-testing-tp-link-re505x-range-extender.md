@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender"
-date: 2025-01-15T16:32:20.698Z
-updated: 2025-01-17T10:57:47.319Z
+date: 2025-01-17T19:42:35.331Z
+updated: 2025-01-23T17:48:52.212Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Unboxing & Testing TP-Link RE505X Range Extender"
@@ -39,16 +39,12 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Netgear Nighthawk RAX120 12-Stream AX6000 Wi-Fi 6 Router
 
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/_gP-SgRbIGXPYdlmqqhNJSxhmSs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_HeroSquare-61fda9713bb44c89bf3c2f1f74386bee.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
@@ -77,6 +73,10 @@ Lifewire / Erika Rawes
 
  The[Netgear](https://www.lifewire.com/best-netgear-routers-4159862) Nighthawk RAX120 is supposed to provide lightning-fast speeds while serving as one of the[best long-range wireless routers](https://www.lifewire.com/best-long-range-routers-4122554) currently on the market. Fully loaded with[Wi-Fi 6 technology](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) , smart home connectivity, and a slew of other features, the AX12 should be an ideal router for small businesses, very large homes, or for homes with multiple devices. I tested the Netgear Nighthawk RAX120 to see how well it performs in the real world.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Batman’s router**
 
  The Netgear Nighthawk RAX120 has a futuristic design—angular, with clean lines. It looks like a cross between a spaceship and the Batmobile. It’s matte black and rectangular, but instead of the multiple antennas you’d typically see protruding from the top of a Nighthawk router, it has two wing-like extensions that come from each side.
@@ -85,11 +85,11 @@ Lifewire / Erika Rawes
 
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/fw0FJuD9bAOkQEHuAZ9OFq5toXk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_05-2a03227466354aad82fe55b884b76ac6-4d18f476974a44b081aafc943a8e56b1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup: Quick and easy**
 
@@ -107,11 +107,11 @@ Lifewire / Erika Rawes
 
 ![Netgear Nighthawk AX12](https://www.lifewire.com/thmb/y2V4Ncx3Z1ul8B-4lsc_IeiyCRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetGear_LongRangeRouters_Nighthawk_RAX120_04-9e452ddedd2b4a46893fddd147c06d4f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Network performance: Stellar**
 
@@ -124,6 +124,10 @@ Lifewire / Erika Rawes
  Final Verdict
 
  The RAX120 is backward compatible with 802.11a/b/g/n/ac as well, so it’ll work with virtually all of your devices, Wi-Fi 6 or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Key Features: Quality hardware, lacks antivirus**
 
@@ -145,13 +149,13 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Expensive**
 
  The Netgear Nighthawk RAX120 12-Stream AX6000 Wi-Fi 6 Router will cost you a pretty penny—it sells for $400, which is $100 lower than its original retail price of $500\. But it’s still on the higher end of the price spectrum, especially considering it doesn’t include any sort of mesh points, and you only get the router, power supply, and an Ethernet cable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Netgear Nighthawk RAX120 vs. TP-Link Archer AX6000**
 
@@ -162,10 +166,6 @@ Lifewire / Erika Rawes
  **A cool looking router that’s faster and more powerful than you probably need.**
 
  The Nighthawk RAX120 performs impressively, but it‘s costly and lacks some user-friendly features like strong parental controls and easy-to-manage antivirus, so it’ll be more desirable for those with heavier networking demands than the average user.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -205,20 +205,20 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-get-real-in-depth-recording-with-macbooks-cam/"><u>[New] 2024 Approved Get Real In-Depth Recording with MacBook's Cam</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-8-useful-tools-that-allow-you-to-pixelate-face-on-photos/"><u>[New] 8 Useful Tools That Allow You to Pixelate Face on Photos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-maximizing-video-quality-mastering-insta-to-mp4-conversion/"><u>[New] In 2024, Maximizing Video Quality Mastering Insta-to-MP4 Conversion</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-media-the-best-12-tools-to-translate-videos-into-text/"><u>[New] Mastering Media The Best 12 Tools to Translate Videos Into Text</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-humor-hub-essential-apps-for-meme-makers/"><u>[Updated] Humor Hub Essential Apps for Meme Makers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfect-proportions-for-professional-videos/"><u>[Updated] Perfect Proportions for Professional Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-spark-engagement-the-ultimate-list-of-video-text-effects/"><u>[Updated] Spark Engagement The Ultimate List of Video Text Effects</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-networked-video-streams-with-precision-using-vlc/"><u>2024 Approved Navigating Networked Video Streams with Precision Using VLC</u></a></li>
-<li><a href="https://discover-great.techidaily.com/descifra-el-bloqueo-de-region-dvd-guia-paso-a-paso-para-convertir-un-disco-a-region-independiente-en-windows-11-8-o-7/"><u>Descifra El Bloqueo De Región DVD: Guía Paso a Paso Para Convertir Un Disco a Región-Independiente en Windows 11, 8 O 7</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/estimating-youtube-advertising-costs/"><u>Estimating YouTube Advertising Costs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premier-annual-update-best-free-livestream-software-and-apps-review/"><u>In 2024, Premier Annual Update Best Free Livestream Software & Apps Review</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-unfollow-patterns-on-instagram-explored/"><u>In 2024, Unfollow Patterns on Instagram Explored</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsoft-surface-pro-8-huge-discounts-this-cyber-monday-save-600-post-black-friday-2022-tech-news/"><u>Microsoft Surface Pro 8 Huge Discounts This Cyber Monday - Save $600 Post-Black Friday 2022 | Tech News</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revolutionize-your-media-creation-hero5-black-mastery-skills-for-2024/"><u>Revolutionize Your Media Creation Hero5 Black Mastery Skills for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-tecno-phantom-v-flip-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Tecno Phantom V Flip Phones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-easy-steps-for-effective-ez-grabber-implementation/"><u>[New] Easy Steps for Effective EZ Grabber Implementation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-peeling-back-the-layers-of-magix-image-suite/"><u>[New] Peeling Back the Layers of MAGIX Image Suite</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/clonage-dssd-parfait-pour-windows-11-10-8-and-7-solutions-logicielles-optimales-de-crucial/"><u>Clonage D'SSD Parfait Pour Windows 11, 10, 8 & 7 : Solutions Logicielles Optimales De Crucial</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/finns-det-en-bast-metode-tittelen-pa-6-upplysningsarbetens-forbattrande-med-bildhantering/"><u>Finns Det en Bäst Metode? Tittelen På 6 - Upplysningsarbetens Förbättrande Med Bildhantering.</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-effective-team-videos-boosting-channelnode-growth-rate/"><u>In 2024, Effective Team Videos Boosting Channelnode Growth Rate</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-inshot-soundsmith-adding-audio-to-videos/"><u>In 2024, InShot Soundsmith Adding Audio to Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-iphone-images-in-dim-light/"><u>In 2024, Perfecting iPhone Images in Dim Light</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-guide-to-open-and-tweak-your-srt-on-mac/"><u>In 2024, Step-by-Step Guide to Open and Tweak Your SRT on Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/launch-xp-movie-editor-for-seamless-editing-for-2024/"><u>Launch XP Movie Editor for Seamless Editing for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/ranking-perfect-photo-and-video-shows-on-iphones-for-2024/"><u>Ranking Perfect Photo & Video Shows on iPhones for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seconds-spent-watching-a-20mb-video-for-2024/"><u>Seconds Spent Watching a 20MB Video for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-rogue-company-from-freezing-troubleshooting-steps-for-stable-gameplay/"><u>Stop Rogue Company From Freezing: Troubleshooting Steps for Stable Gameplay</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-galaxy-s24-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Galaxy S24</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-windows-11s-latest-enhancements-insight-into-update-kb4103429-and-kb4013418/"><u>Understanding Windows 11'S Latest Enhancements: Insight Into Update KB4103429 & KB4013418</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-11-driver-update-tutorial-keeping-your-hardware-compatible-and-efficient/"><u>Windows 11 Driver Update Tutorial: Keeping Your Hardware Compatible & Efficient</u></a></li>
 </ul></div>
 

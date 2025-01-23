@@ -1,7 +1,7 @@
 ---
 title: "Beelink GTi14: The New Meteor Lake Mini-PC Featuring an External Expansion Port for GPU Connectivity"
-date: 2025-01-12T09:58:19.579Z
-updated: 2025-01-17T08:16:24.014Z
+date: 2025-01-17T17:50:19.002Z
+updated: 2025-01-23T18:15:30.791Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,22 +78,21 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unmarked-eyes-facebook-story-viewer/"><u>[New] In 2024, Unmarked Eyes Facebook Story Viewer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-secure-and-store-linkedin-videos-with-these-6-high-quality-apps/"><u>[New] Secure and Store LinkedIn Videos with These 6 High-Quality Apps</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-cover-makeovers-the-most-trusted-design-tools-ranked-for-2024/"><u>[Updated] Facebook Cover Makeovers The Most Trusted Design Tools Ranked for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-snap-and-save-securely-downloading-vids-from-twitter/"><u>[Updated] In 2024, Snap & Save Securely Downloading Vids From Twitter</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-no-more-running-out-of-room-top-20-zero-cost-cloud-services-up-to-1tb/"><u>[Updated] No More Running Out of Room - Top 20 Zero-Cost Cloud Services (Up To 1TB)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-selection-of-tiktok-screenshots/"><u>[Updated] Step-by-Step Selection of TikTok Screenshots</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-base-to-brilliance-comparing-gopro-hero5-black-and-hero4-silver/"><u>2024 Approved From Base to Brilliance Comparing GoPro Hero5 Black and Hero4 Silver</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-tips-altering-video-pace-in-instagram-stories/"><u>2024 Approved Quick Tips Altering Video Pace in Instagram Stories</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-speedy-streams-start-here-snapchat-for-starters/"><u>2024 Approved Speedy Streams Start Here Snapchat for Starters</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-insiders-guide-to-the-best-6-harnesses-for-capturing-life-with-gopro/"><u>In 2024, Insider's Guide to the Best 6 Harnesses for Capturing Life with GOPRO</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optical-opus-the-elite-list-of-8k-cameras/"><u>In 2024, Optical Opus The Elite List of 8K Cameras</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-stream-success-starts-here-choosing-the-right-camera-for-twitch/"><u>In 2024, Stream Success Starts Here Choosing the Right Camera for Twitch</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-iphone-layout-artistry-for-2024/"><u>Mastering iPhone Layout Artistry for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/professional-photography-with-canons-complimentary-luts-for-2024/"><u>Professional Photography with Canon's Complimentary LUTs for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/resolve-cannot-find-msvcp110dll-top-5-strategies-for-windows-users/"><u>Resolve 'Cannot Find MSVCP110.dll': Top 5 Strategies for Windows Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/speech-to-text-efficient-conversion-techniques-for-microsoft-word-users-for-2024/"><u>Speech to Text Efficient Conversion Techniques for Microsoft Word Users for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-journey-beyond-top-10-global-explorer-channels-for-2024/"><u>[New] A Journey Beyond Top 10 Global Explorer Channels for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-screen-time-top-6-video-engagement-methods/"><u>[New] Mastering Screen Time Top 6 Video Engagement Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-principles-of-paradoxical-intervention/"><u>[New] Principles of Paradoxical Intervention</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ips-for-higher-youtube-traction-with-persistent-creative-commons-usage/"><u>[New] Tips for Higher YouTube Traction with Persistent Creative Commons Usage</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-manipulating-netflix-stream-velocity/"><u>2024 Approved Mastering the Art of Manipulating Netflix Stream Velocity</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-civi-3-disney-100th-anniversary-edition-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Civi 3 Disney 100th Anniversary Edition Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-12-channel-online-video-broadcast-system/"><u>In 2024, Premier 12-Channel Online Video Broadcast System</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-instant-window-photo-viewer/"><u>In 2024, Prime Instant Window Photo Viewer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-push-the-limits-a-review-of-lgs-27uhd68-freesync-display/"><u>In 2024, Push the Limits A Review of LG’s 27UHD68 FreeSync Display</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-savory-cinema-principles-of-culinary-cinematography/"><u>In 2024, Savory Cinema Principles of Culinary Cinematography</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-infinix-note-30-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Infinix Note 30 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-virtual-memory-expansion-in-windows-11-updates/"><u>Mastering Virtual Memory Expansion in Windows 11 Updates</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-quirks-making-manipulations-more-minimal-for-2024/"><u>Quick Quirks Making Manipulations More Minimal for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-latest-gratis-ai-upgrades-skyrocket-productivity-for-apple-programmers/"><u>Unveiling the Latest: Gratis AI Upgrades Skyrocket Productivity for Apple Programmers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-discover-the-top-free-android-video-editing-apps-plus-paid-options-for-2024/"><u>Updated Discover the Top Free Android Video Editing Apps Plus Paid Options for 2024</u></a></li>
 </ul></div>
 
