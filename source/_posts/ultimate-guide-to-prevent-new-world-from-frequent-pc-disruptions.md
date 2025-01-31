@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Prevent 'New World' From Frequent PC Disruptions
-date: 2025-01-21T19:26:13.116Z
-updated: 2025-01-23T18:24:56.726Z
+date: 2025-01-30T00:06:51.515Z
+updated: 2025-01-30T19:04:11.774Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check if you enabled in-game overlay in Discord
 
  Before trying other fixes, open**Discord** to check if you enabled in-game overlay. Here is how to do it:
@@ -41,19 +45,15 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
- Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
 ### Fix 2: Run Discord as administrator
 
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
  1) On your desktop,**right-click** the shortcut of **Discord** and then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
@@ -73,15 +77,15 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
 See if this issue reappears. If not, you have fixed this issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for software interruption
 
@@ -106,7 +110,7 @@ See if this issue reappears. If not, you have fixed this issue.
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
@@ -123,13 +127,13 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -160,16 +164,12 @@ See if this issue reappears. If not, you have fixed this issue!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
@@ -193,20 +193,19 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/peedy-sketching-techniques-for-fortnite-tiles-for-2024/"><u>[New] Speedy Sketching Techniques for Fortnite Tiles for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-twist-and-turn-tales-transforming-visual-content-on-instagram-platforms/"><u>[Updated] 2024 Approved Twist and Turn Tales Transforming Visual Content on Instagram Platforms</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-foremost-6-networks-fostering-profitable-partnerships/"><u>[Updated] Foremost 6 Networks Fostering Profitable Partnerships</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-jumpstart-your-meme-making-skills-with-9gag-techniques/"><u>[Updated] Jumpstart Your Meme-Making Skills with 9GAG Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastery-in-making-your-art-a-successful-nft-with-top-7-tools/"><u>2024 Approved Mastery in Making Your Art a Successful NFT with Top 7 Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-soft-shadows-on-smiles-introducing-motion-blur-to-faces-in-photos-with-picsart/"><u>2024 Approved Soft Shadows on Smiles Introducing Motion Blur to Faces in Photos with Picsart</u></a></li>
-<li><a href="https://techtrends.techidaily.com/come-masterizzare-un-dvd-in-4-semplici-fasi-con-windows-10windows/"><u>Come Masterizzare Un DVD in 4 Semplici Fasi Con Windows 10/Windows</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcp-editing-mastery-3-advanced-transition-techniques/"><u>FCP Editing Mastery 3 Advanced Transition Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-hd-video-the-best-android-players/"><u>In 2024, Mastering HD Video The Best Android Players</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-one-device-one-storage-transferring-files-smoothly/"><u>In 2024, One Device, One Storage Transferring Files Smoothly</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/masterful-viewing-for-artists-best-monitor-guide-for-2024/"><u>Masterful Viewing for Artists – Best Monitor Guide for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/refreshed-array-of-podcast-interviews-to-attract-listeners/"><u>Refreshed Array of Podcast Interviews to Attract Listeners</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/step-by-step-inverting-movies-with-iphone-for-2024/"><u>Step by Step Inverting Movies with iPhone for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-lava-yuva-3-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Lava Yuva 3 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-the-art-of-podcast-writing-with-expert-guidance/"><u>[New] Master the Art of Podcast Writing with Expert Guidance</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-10-best-vr-videos-on-youtube-to-have-immersive-experience/"><u>[Updated] 2024 Approved 10 Best VR Videos on YouTube to Have Immersive Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-tailoring-your-techniques-for-itunes-videos/"><u>[Updated] 2024 Approved Tailoring Your Techniques for iTunes Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-insider-insights-unpacking-the-dji-phantom-3-pro-features/"><u>[Updated] Insider Insights Unpacking the DJI Phantom 3 Pro Features</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-go-global-quickly-optimal-tags-to-escalate-your-youtube-snippets/"><u>2024 Approved Go Global Quickly Optimal Tags to Escalate Your YouTube Snippets</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-macs-leading-5-mkv-playbackers/"><u>2024 Approved Mac's Leading 5 MKV Playbackers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-14-pro-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 14 Pro Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-honor-magic-vs-2-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Honor Magic Vs 2?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-insight-on-effortless-photo-and-video-importers-in-windows-10/"><u>In 2024, In-Depth Insight on Effortless Photo & Video Importers in Windows 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-guide-to-professional-podcast-scriptwriting-techniques/"><u>In 2024, Step-by-Step Guide to Professional Podcast Scriptwriting Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-13-mini-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 13 mini</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revamp-photos-essential-color-correction-steps-for-2024/"><u>Revamp Photos Essential Color Correction Steps for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uniting-visuals-a-pc-and-web-overlay-method-for-2024/"><u>Uniting Visuals A PC & Web Overlay Method for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-brother-hl-2280dw-driver-for-seamless-printing-on-latest-and-legacy-windows-systems/"><u>Update Your Brother HL-2280DW Driver for Seamless Printing on Latest & Legacy Windows Systems</u></a></li>
 </ul></div>
 

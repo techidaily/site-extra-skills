@@ -1,7 +1,7 @@
 ---
 title: "[New] Key Strategies for Navigating Complex YouTube Discussions"
-date: 2024-07-31T09:23:56.316Z
-updated: 2024-08-01T09:23:56.316Z
+date: 2025-01-30T06:22:32.546Z
+updated: 2025-01-31T06:14:27.841Z
 tags: 
   - screen-recording
   - ai video
@@ -28,9 +28,6 @@ Unfortunately, when it comes to comment, YouTube can be a little clunky and time
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## What is YouTube Comment
 
 YouTube comments are an opportunity for the site's 1.7 million unique monthly visitors to share what they love, hate or simply must troll. It's like the internet own personal Thunderdome, but while it can be a place for negativity, YouTube comments can also be a powerful opportunity for positive community building and engagement.
@@ -38,6 +35,10 @@ YouTube comments are an opportunity for the site's 1.7 million unique monthly vi
 Not only does it show your fans followers that you care about what they have to say, engaging with comments has they have to say, engaging with comments has the added benefit of boosting you in the YouTube algorithm. Videos with lots of likes, replies and moderation tend to show up higher in search results.
 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Advantage of YouTube comments
 
@@ -47,9 +48,6 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -82,27 +80,30 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -110,6 +111,10 @@ Among the comments you see on a video, you might notice some that YouTube has la
 For example, you might click on a notification, and YouTube takes you to a particular video. Then, when somebody else views and leaves a comment on that video, YouTube will often add the “Highlighted Comment” label on the comment to make it easy for you to spot it when you next go back to that video.
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Deleting YouTube Comments?
 
@@ -129,14 +134,6 @@ Comments history also contains the link to the video where you've left the comme
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -171,5 +168,24 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-photo-editing-via-vsco-a-compreeved-guide/"><u>[New] In-Depth Photo Editing via VSCO A Compreeved Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-into-the-future-jaunt-vrs-potential-explored/"><u>[New] Into the Future Jaunt VR's Potential Explored</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snap-with-precision-essential-camera-angles-for-images/"><u>[New] Snap with Precision Essential Camera Angles for Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-elite-selection-of-10-websites-offering-free-photos/"><u>[New] The Elite Selection of 10 Websites Offering FREE Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-iphone-hdr-photography-for-professional-results/"><u>[Updated] Mastering iPhone HDR Photography for Professional Results</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-lunapic-ultimate-guide-for-professionals/"><u>[Updated] Mastering LunaPic Ultimate Guide for Professionals</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-slug-line-usage-in-copywriting-for-2024/"><u>[Updated] Mastering Slug Line Usage in Copywriting for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smarter-spending-on-cloud-data-services-insights-and-recommendations/"><u>[Updated] Smarter Spending on Cloud Data Services Insights & Recommendations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-ring-induced-voice-memo-iphone-24/"><u>2024 Approved Ring-Induced Voice Memo - iPhone '24</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-smartest-titles-at-your-fingertips/"><u>2024 Approved Smartest Titles at Your Fingertips</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-wisdom-a-compilation-of-inspiring-thoughts/"><u>In 2024, Metaverse Wisdom A Compilation of Inspiring Thoughts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-vectors-unveiled-a-novices-path-through-types-and-apps/"><u>In 2024, Vectors Unveiled A Novice’s Path Through Types and Apps</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/keep-up-to-date-with-youtube-community-guidelines/"><u>Keep Up-to-Date With YouTube Community Guidelines</u></a></li>
+<li><a href="https://fox-info.techidaily.com/pro-shooters-guide-the-best-4k-camcorders-ranked/"><u>Pro Shooters' Guide The Best 4K Camcorders Ranked</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ts-to-maximizing-youtube-traffic-with-optimized-metadata-for-2024/"><u>Secrets to Maximizing YouTube Traffic with Optimized Metadata for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/selecting-superior-hdr-cameras-a-buyers-guide-for-2024/"><u>Selecting Superior HDR Cameras A Buyer's Guide for 2024</u></a></li>
+</ul></div>
 

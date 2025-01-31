@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Cinematography  The Aspect Ratio Formula\""
-date: 2025-01-21T16:51:17.922Z
-updated: 2025-01-23T16:17:01.294Z
+date: 2025-01-28T07:55:08.103Z
+updated: 2025-01-31T03:58:13.148Z
 tags: 
   - screen-recording
   - ai video
@@ -24,10 +24,6 @@ If you want to learn more about video aspect ratios, how to apply them to differ
 
 With that said, let's dive right into it!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. What is a video aspect ratio?
 
 Aspect ratio is a digital image projection attribute describing the distance between the width and the height of an image. The dimensions are also defined as shapes such as a square which is 4:3\. A rectangle represents the 16:9 standard high definition aspect ratio, and inverted what you see on phones, that will be 9:16\. 9 refers to the width and 16 to the height.
@@ -37,7 +33,7 @@ Aspect ratio is a digital image projection attribute describing the distance bet
 There is no same aspect ratio that is used across all social media platforms. Depending on which social media platform you are planning to upload, you have to make sure you have the correct aspect ratio for your target audience. The optimal viewing experience is what matters.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 16:9 Widescreen
@@ -57,7 +53,7 @@ The 9:16 aspect ratio has become the mainstream resolution for smartphones for e
 The 21:9 resolution is designed for filming ultra-wide screen movies that gives the viewer a theater-like feeling. It's mostly used to display films and movies in anamorphic formats. Just like on ultra-wide monitors, it allows the video to be shown across the entire screen, giving you a cinema-like experience. This resolution contributes to a broader viewing experience in any shape or form.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Which aspect ratio should I choose?
@@ -75,6 +71,10 @@ Facebook is one of the most used website across the world on both computer and t
 9:16 for Facebook live videos
 
 9:16 for Facebook stories
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### YouTube
 
@@ -106,10 +106,6 @@ When talking about Instagram, which is very similar to Facebook, use these aspec
 
 9:16 for IGTV
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### TikTok
 
 Before Musical.ly users were migrated to a new platform called TikTok in 2018, it has been the leader on the board for a long time, and here are the recommended resolutions we think give the best results. Tik Tok allows you to share short videos, and is used by young people as an outlet to show their talents whether it's dancing, singing, cooking, comedy or any other form of entertainment they can express and use on the platform. There's also a feature to work together and collaborate with other Tik Tok creators across the globe.
@@ -120,6 +116,10 @@ Before Musical.ly users were migrated to a new platform called TikTok in 2018, i
 
 1:1; 16:9 or 9:16 for TikTok advertisements
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. How to adjust the aspect ratio of a video?
 
 A very important point we'd like to mention is that we don't recommend changing the aspect ratio after filming, because it could harm the video quality and we think it's best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.
@@ -128,13 +128,13 @@ A very important point we'd like to mention is that we don't recommend changing 
 
 When editing your video, adding black bars is not changing the aspect ratio as you are just adding black bars to the screen. What we do recommend is cropping the video until you get the desired result. Adding black bars won't automatically make the platform adjust the video and it will affect the viewer experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Cropping
 
 Cropping your video will allow you to remove a section from your video, which works perfect for unwanted objects or people. While cropping the video, you are forced to pick the essential part of your video and disregard the rest of the video and to remove distraction from the frame.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -172,20 +172,22 @@ Having your video tested on multiple devices will allow you to see a preview of 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-iphone-photo-artistry-mastering-shadows-and-highlights/"><u>[New] IPhone Photo Artistry Mastering Shadows & Highlights</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-update-complete-shorts-visibility-restored/"><u>[New] Update Complete Shorts Visibility Restored</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-timing-aids-the-best-clock-apps-for-your-big-day/"><u>[Updated] Ideal Timing Aids The Best Clock Apps For Your Big Day</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-lightroom-lut-guide-discovering-the-best-10-tools-for-color-grading/"><u>[Updated] Lightroom LUT Guide Discovering the Best 10 Tools for Color Grading</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-projector-or-tv-optimal-choice-for-excellent-4k-display-experience/"><u>[Updated] Projector or TV Optimal Choice for Excellent 4K Display Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-snippet-storyboarding-procedure/"><u>[Updated] Snippet Storyboarding Procedure</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-standout-6-sites-connecting-corporate-leaders/"><u>[Updated] Standout 6 Sites Connecting Corporate Leaders</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/become-a-communication-connoisseur-with-google-meet-for-2024/"><u>Become a Communication Connoisseur with Google Meet for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/bring-tiktok-to-life-easy-ways-to-view-shorts-on-a-larger-screen/"><u>Bring TikTok to Life - Easy Ways to View Shorts on a Larger Screen</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-realme-narzo-60x-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Realme Narzo 60x 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-sea-of-thieves-game-crash-difficulties-a-step-by-step-fix/"><u>Overcome Sea of Thieves Game Crash Difficulties: A Step-by-Step Fix</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sharpen-your-skills-with-these-essential-pixlr-tips-for-2024/"><u>Sharpen Your Skills with These Essential Pixlr Tips for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/srt-soundfile-compatibility-pc-and-mac-for-2024/"><u>SRT Soundfile Compatibility PC & Mac for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unparalleled-business-tablet-beyond-microsoft-and-lenovo-an-expert-review-revealed/"><u>Unparalleled Business Tablet Beyond Microsoft and Lenovo: An Expert Review Revealed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-5-virtual-film-maker-gadgets/"><u>[New] 2024 Approved Essential 5 Virtual Film Maker Gadgets</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leveraging-innovative-features-a-guide-to-implementing-speech-inputs-in-powerpoint/"><u>[New] Leveraging Innovative Features A Guide to Implementing Speech Inputs in PowerPoint</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfect-your-morphvox-skills-a-complete-manual/"><u>[New] Perfect Your MorphVOX Skills A Complete Manual</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamlessly-post-pictures-your-youtube-visual-guide/"><u>[New] Seamlessly Post Pictures Your YouTube Visual Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-smart-shopping-for-action-cameras-optimal-under-100-lists/"><u>[New] Smart Shopping for ACTION Cameras Optimal Under $100 Lists</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-enhancing-youtube-visibility-with-tubebuddy/"><u>[Updated] Enhancing YouTube Visibility with TubeBuddy</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-macos-slideshow-creator-unite-images-and-videos/"><u>[Updated] MacOS SlideShow Creator Unite Images & Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-reviving-rare-memories-turning-photos-into-engaging-videos/"><u>[Updated] Reviving Rare Memories Turning Photos Into Engaging Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-webcams-enhancing-audio-experience/"><u>2024 Approved Optimal Webcams Enhancing Audio Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-infinix-gt-10-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Infinix GT 10 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://discover-data.techidaily.com/guia-paso-a-paso-tratar-el-error-del-respaldo-de-windows-con-3-metodos-diferentes/"><u>Guía Paso a Paso: Tratar El Error Del Respaldo De Windows Con 3 Métodos Diferentes</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-seamlessly-sync-songs-with-your-iphone-by-bypassing-itunes/"><u>How to Seamlessly Sync Songs with Your iPhone by Bypassing iTunes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-zero-30-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Zero 30 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/immediate-solutions-fix-hp-print-problems-in-win11/"><u>Immediate Solutions: Fix HP Print Problems in Win11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/keep-your-mac-awake-tips-and-tricks-to-avoid-automatic-sleep/"><u>Keep Your Mac Awake: Tips & Tricks to Avoid Automatic Sleep</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfect-images-with-frames-best-sites-and-tools-of-2023-reviewed-for-2024/"><u>Perfect Images with Frames Best Sites and Tools of 2023 Reviewed for 2024</u></a></li>
 </ul></div>
 

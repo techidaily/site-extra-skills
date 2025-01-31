@@ -1,7 +1,7 @@
 ---
 title: Exploring Performance & Value in the Corsair One I500 Tiny Gaming Rig
-date: 2025-01-21T19:35:59.488Z
-updated: 2025-01-23T17:26:44.605Z
+date: 2025-01-30T04:10:04.491Z
+updated: 2025-01-31T03:24:41.574Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,15 +89,17 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/onvert-with-ease-the-top-10-best-tools-for-flv-to-youtubes-for-2024/"><u>[New] Convert With Ease The Top 10 Best Tools for Flv to YouTubes for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-content-capture-5-must-have-social-apps/"><u>[New] Mastering Content Capture 5 Must-Have Social Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-slomo-visual-delight-thorough-assessment-release/"><u>[New] SloMo Visual Delight Thorough Assessment Release</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-brightening-filmmaking-ranking-the-17-best-lights-for-2024/"><u>[Updated] Brightening Filmmaking Ranking the 17 Best Lights for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-master-the-art-of-choosing-best-rated-church-streams/"><u>[Updated] Master the Art of Choosing Best-Rated Church Streams</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-digital-compositing-a-complete-kinemaster-green-screen-tutorial/"><u>[Updated] Mastering Digital Compositing A Complete Kinemaster Green Screen Tutorial</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-web-compendium-alarm-rhythms-guidebook/"><u>[Updated] Ultimate Web Compendium Alarm Rhythms Guidebook</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>From Zero to Cool Video Star Your Mac Youtube Journey Starts Here</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/storing-films-videographers-guide-to-64gb-and-128gb-drives-for-2024/"><u>Storing Films Videographers' Guide to 64GB and 128GB Drives for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-oppo-reno-8t-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo Reno 8T 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-in-depth-insights-perfecting-the-craft-of-screen-recording-on-macbooks/"><u>[New] In 2024, In-Depth Insights Perfecting the Craft of Screen Recording on MacBooks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-professional-post-processing-how-to-erase-image-borders-easily/"><u>[Updated] Professional Post-Processing How to Erase Image Borders Easily</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-discovering-your-youtube-unique-slot/"><u>2024 Approved Discovering Your YouTube Unique Slot</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-ensure-video-success-on-twitter-understand-the-aspect-ratio/"><u>2024 Approved Ensure Video Success on Twitter Understand the Aspect Ratio</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-exclusive-savings-secure-a-high-quality-156-hp-touchscreen-notebook-for-just-230-deals-curated-by-zdnet/"><u>Discover Exclusive Savings: Secure a High-Quality 15.6 HP Touchscreen Notebook for Just $230 - Deals Curated by ZDNet!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722892836402-hottest-apple-watch-promotions-for-this-week/"><u>Hottest Apple Watch Promotions for This Week</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-x-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone X Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-how-to-remove-background-in-figma/"><u>In 2024, How to Remove Background In Figma</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mini-2-and-air-2s-luts-free-trial-then-paid-upgrade/"><u>In 2024, Mini 2 & Air 2S LUTS - Free Trial, Then Paid Upgrade</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/installieren-sie-windows-11-in-kurze-ohne-ein-microsoft-account-zu-benotigen-tipps-und-tricks/"><u>Installieren Sie Windows 11 in Kürze, Ohne Ein Microsoft-Account Zu Benötigen - Tipps Und Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-close-angles-in-movie-filming-for-2024/"><u>Perfecting Close Angles in Movie Filming for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/writing-engaging-documentary-stories/"><u>Writing Engaging Documentary Stories</u></a></li>
 </ul></div>
 

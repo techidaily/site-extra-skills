@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Powerful Type Tools to Transform Visual Narratives"
-date: 2025-01-17T16:22:30.258Z
-updated: 2025-01-23T17:41:45.198Z
+date: 2025-01-30T05:27:24.101Z
+updated: 2025-01-31T02:48:42.852Z
 tags: 
   - screen-recording
   - ai video
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 Adobe After Effects remains one of the most powerful ways to edit videos. One of the main reasons users find it so useful is the ability to customize the video editing process by adding different kinds of plugins to the program. If you are looking to add unique and fancy text to the video you are working on, then these text plugins for After Effects will come in handy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## TextDelay
@@ -32,10 +32,6 @@ TextDelay is a native plugin, meaning that you will find it already installed on
 
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## TextExploder
 
 Link: <https://aescripts.com/textexploder/>
@@ -43,14 +39,6 @@ Link: <https://aescripts.com/textexploder/>
 TextExploder is an After Effects plugin that is developed by MamoWorld and it allows you to split the text layers in After Effects into words, lines, characters, and more. These splits are so powerful that you can very easily isolate a single word or even a single letter.
 
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iExpressions 2
 
@@ -60,6 +48,10 @@ If you want to effectively use the After Effects expressions even if you are not
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
@@ -67,6 +59,10 @@ Link: <https://aescripts.com/textbox/>
 If you want to create the perfect shape behind your text, then TextBox is a good text plugin to consider. This is a native After Effects plugin, meaning that you will not need to install it and the shapes it creates can be very easily customized. It updates the shapes you create automatically and adds them to the text layer, making it the most ideal solution to create closed captions, lower thirds, and subtitles.
 
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Font Manager
 
@@ -76,10 +72,6 @@ Font Manager is an After Effects text plugin that is useful when creating and wo
 
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Cartoon Moblur
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
@@ -87,6 +79,14 @@ Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
 This is the most ideal plugin to choose when you want to add motion trail to the graphics in your video, but you want them to appear very cartoony. If you have used the motion blur effect in After Effects, Cartoon Moblur will behave in a similar function, but it is more suited to 2D, flat or minimal graphics. Some of the factors that you can customize include the length of the blur (shutter angle), color, and opacity.
 
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shadow Studio
 
@@ -102,10 +102,6 @@ This is a bundle of more than 80 different templates to add text effects to any 
 
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Artificial Intelligence Titles
 
 Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%5Frank=1>
@@ -114,10 +110,6 @@ The Artificial Intelligence Titles is an After Effects text plugin that is desig
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
@@ -125,6 +117,14 @@ Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
 This is another great text animation bundle with different options for just about any kind of project. But unlike other plugin bundles that only have a few effects to choose from, Text Library has thousands of templates to choose from. Once you have selected the template that you would like to use, you also get the option to customize the template to suit your project. You can customize the text, size, duration of the animation, and color. It is easy to use and is constantly updated to introduce even more templates with each update.
 
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -160,18 +160,20 @@ On its own After Effects comes with so many post-production effects and features
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/approved-a-closer-look-at-the-monetization-mechanism-for-video-clips/"><u>2024 Approved A Closer Look at the Monetization Mechanism for Video Clips</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-dissecting-xvideohubs-capabilities-in-a-full-breakdown-review/"><u>2024 Approved Dissecting XVideoHub's Capabilities in a Full Breakdown Review</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-x-vs-galaxy-comparing-facial-authentication-systems/"><u>2024 Approved IPhone X Vs. Galaxy Comparing Facial Authentication Systems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-on-the-go-motion-dampener-for-videography/"><u>2024 Approved On-the-Go Motion Dampener for Videography</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-palette-excellence-editor/"><u>2024 Approved Palette Excellence Editor</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/converzione-gratuitamente-trasforma-i-tuoi-file-mp4-in-formato-mkv-con-semplicita-usando-il-servizio-di-converti-mpg/"><u>Converzione Gratuitamente: Trasforma I Tuoi File MP4 in Formato MKV Con Semplicità, Usando Il Servizio Di Converti MPG!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-15-plusipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on Apple iPhone 15 Plus/iPad/iPod</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-chucklechroma-jokejunction/"><u>In 2024, ChuckleChroma JokeJunction</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-se-2020-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone SE (2020)? Heres the Best Fixes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-insiders-take-on-androids-creme-de-la-creme-podcast-apps/"><u>In 2024, Insider’s Take on Android’s Crème De La Crème Podcast Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premium-action-recording-in-faceview-option/"><u>In 2024, Premium Action Recording In-Faceview Option</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-simple-trick-on-how-to-instagram-collage/"><u>In 2024, Simple Trick on How to Instagram Collage</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/top-no-cost-backup-solutions-compatible-with-all-versions-of-windows/"><u>Top No-Cost Backup Solutions Compatible with All Versions of Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-uncovering-8-honestly-backed-promotion-services/"><u>[New] In 2024, Uncovering 8 Honestly Backed Promotion Services</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-websites-for-digital-3d-text-with-a-golden-accent/"><u>[New] Leading Websites for Digital 3D Text with a Golden Accent</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-lut-applications-in-premiere-pro/"><u>[New] Mastering LUT Applications in Premiere Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-photoshop-for-beginners-essential-snapseed-techniques/"><u>[New] Photoshop for Beginners Essential Snapseed Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-real-time-reality-rally-does-digital-dethrone-device-dominance/"><u>[Updated] Real-Time Reality Rally Does Digital Dethrone Device Dominance?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/basic-guide-to-windows-voice-modification-clowns-for-2024/"><u>Basic Guide to Windows Voice Modification - Clowns for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enshrouded-game-fixed-now-running-smoothly-on-your-computer/"><u>Enshrouded Game Fixed: Now Running Smoothly on Your Computer</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-elevate-your-content-top-rated-cameras-for-youtubers/"><u>In 2024, Elevate Your Content Top-Rated Cameras for YouTubers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-storyboard-suite-for-windows/"><u>In 2024, Storyboard Suite for Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-installation-of-enhanced-ai-features-in-chatgpt/"><u>Mastering the Installation of Enhanced AI Features in ChatGPT</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/overcome-dimness-with-easy-iphone-editing-for-2024/"><u>Overcome Dimness with Easy iPhone Editing for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-and-easy-guide-to-lossless-dvd-backup-within-5-minutes/"><u>Quick and Easy Guide to Lossless DVD Backup Within 5 Minutes</u></a></li>
+<li><a href="https://facebook.techidaily.com/rift-investment-a-solution-for-hacked-user-credentials/"><u>Rift Investment: A Solution for Hacked User Credentials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/select-4-websites-easy-skype-tone-downloads-for-2024/"><u>Select 4 Websites Easy Skype Tone Downloads for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo X Flip | Dr.fone</u></a></li>
 </ul></div>
 

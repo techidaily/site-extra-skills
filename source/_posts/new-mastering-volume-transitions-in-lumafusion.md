@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Volume Transitions in Lumafusion"
-date: 2025-01-21T16:53:25.496Z
-updated: 2025-01-23T17:07:52.508Z
+date: 2025-01-23T21:55:02.668Z
+updated: 2025-01-30T16:05:00.154Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ Step1 LumaFusion's default structure is comparable to that of many desktops edit
 
 ![lumafusion timeline](https://images.wondershare.com/filmora/article-images/2022/07/lumafusion-timeline.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 LumaFusion allows for the automated synchronization of up to 12 camera sources and several audio tracks. When a clip is loaded into LumaFusion, touch on it to open it in the viewer and then adjust the start and finish points.
 
 ![edit sources luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/edit-sources-luma-fusion.jpg)
@@ -41,7 +45,7 @@ Step3 From the choices, choose the Cross Dissolve (Fade) transition. The transit
 Beyond simple editing, LumaFusion excels in enhancing projects with a wide variety of built-in effects, transitions, titles, and color correction. It also has a limited (but excellent) collection of royalty-free music. Finally, LumaFusion Project Packages are a terrific solution to regularly backup a project for security or to complete altering it. After choosing Export, choose the Project Package from the list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. LumaFusion Alternative Way to Fade Audio in Video
@@ -67,7 +71,7 @@ Drag and drop your sound recordings from the media library to the timeline at th
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step3 Apply Fade Effects
@@ -77,7 +81,7 @@ The fade-in audio button inside your audio file may be seen when you just hover 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step4 Share and export
@@ -86,19 +90,11 @@ After finishing the method for editing audio in Filmora, click the Export button
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Related FAQs about LumaFusion
 
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. How do you do transitions in LumaFusion?
 
@@ -122,6 +118,10 @@ Drag and drop your sound recordings from the media library to the timeline at th
 
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
@@ -134,11 +134,11 @@ After finishing the method for editing audio in Filmora, click the Export button
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Related FAQs about LumaFusion
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. How do you fade in a title LumaFusion?
 
@@ -176,17 +176,22 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/chieving-auditory-perfection-top-tips-for-quality-audio-for-2024/"><u>[New] Achieving Auditory Perfection Top Tips for Quality Audio for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-elevate-your-mobile-shoot-ranking-the-best-9-camgear-innovations/"><u>[New] Elevate Your Mobile Shoot - Ranking the Best 9 CamGear Innovations</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-the-marketing-landscape-essential-strategies-for-newbies/"><u>[New] Navigating the Marketing Landscape Essential Strategies for Newbies</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pro-photography-insiders-top-picks-for-6-premium-4k-dslrs/"><u>[New] Pro Photography Insiders Top Picks for 6 Premium 4K DSLRs</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-ascend-video-rankings-top-seo-gadgets-revealed/"><u>[Updated] 2024 Approved Ascend Video Rankings – Top SEO Gadgets Revealed</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-in-depth-insight-into-final-cut-pro-editing/"><u>[Updated] 2024 Approved In-Depth Insight Into Final Cut Pro Editing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-best-free-premiere-pro-templates-2023/"><u>[Updated] Best Free Premiere Pro Templates 2023</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-step-by-step-guide-to-youtube-gamers-broadcasting/"><u>[Updated] The Step-by-Step Guide to YouTube Gamers' Broadcasting</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mirthful-mastery-no-pay-all-smiles/"><u>2024 Approved Mirthful Mastery No Pay, All Smiles</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/burst-into-action-the-art-of-engaging-instagram-boomers-for-2024/"><u>Burst Into Action The Art of Engaging Instagram Boomers for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-itel-a60-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Itel A60 for Parents | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-exploring-asmrs-role-in-better-sleep-cycles/"><u>[New] 2024 Approved Exploring ASMR's Role in Better Sleep Cycles</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-dive-into-deep-sleep-with-expert-recommended-aspers-tactics/"><u>[New] In 2024, Dive Into Deep Sleep with Expert-Recommended Asper's Tactics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterclass-in-high-speed-recording/"><u>[New] Masterclass in High-Speed Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pro-level-techniques-for-avi-to-gif-transition-via-filmora-tools-windowsmacos/"><u>[New] Pro-Level Techniques for AVI to GIF Transition via Filmora Tools (Windows/macOS)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/professional-adobe-tips-resurrect-the-color-of-faded-iphone-hdr-in-video-editing/"><u>[Professional Adobe Tips] Resurrect the Color of Faded iPhone HDR in Video Editing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-innovative-approaches-to-vector-graphics-using-the-best-software/"><u>[Updated] 2024 Approved Innovative Approaches to Vector Graphics Using the Best Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-advanced-settings-a-beginners-guide-to-google-photos/"><u>[Updated] Navigating Advanced Settings A Beginner's Guide to Google Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-soaring-visions-with-dji-mavic-pro-insight/"><u>[Updated] Soaring Visions with DJI Mavic Pro Insight</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-name-game-for-top-podcast-titles/"><u>2024 Approved Mastering the Name Game for Top Podcast Titles</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-mastering-zooms-video-enhancements-filter-techniques/"><u>2024 Approved Mastering Zoom's Video Enhancements Filter Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pioneering-pixels-a-detailed-analysis-of-8k-tvs/"><u>2024 Approved Pioneering Pixels A Detailed Analysis of 8K TVs</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-windows-n-versions-usage-insights/"><u>Exploring Windows N Versions: Usage Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-and-guide-resolving-file-explorer-freezing-issues-on-windows-11/"><u>Fix & Guide: Resolving File Explorer Freezing Issues on Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-melodies-of-matrimony-romantic-hits-for-the-big-moment/"><u>In 2024, Melodies of Matrimony Romantic Hits for the Big Moment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sharpen-the-right-way-selective-blurring-insights/"><u>In 2024, Sharpen the Right Way Selective Blurring Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-technology-the-toms-hardware-guide-to-pc-excellence/"><u>Navigating Through Technology: The Tom's Hardware Guide to PC Excellence</u></a></li>
+<li><a href="https://win11.techidaily.com/worldwide-unity-windows-encompasses-iphoneipad-macpc-communities/"><u>Worldwide Unity: Windows Encompasses iPhone/iPad, Mac/PC Communities</u></a></li>
 </ul></div>
 

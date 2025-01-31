@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Legacy in Pixels  IPhone X Memories Photography\""
-date: 2025-01-17T18:48:01.682Z
-updated: 2025-01-23T16:32:46.930Z
+date: 2025-01-27T07:35:54.487Z
+updated: 2025-01-31T07:53:42.477Z
 tags: 
   - screen-recording
   - ai video
@@ -30,18 +30,10 @@ Until recently, iPhone cameras didn't have lenses that enabled its users to prod
 
 In this article, we are going to show you how to take photos in Portrait Mode, on iPhone X, 8 Plus, and 7 Plus, but we are also going to take a look at a few apps for older versions of iPhone that also enable you to create amazing portraits.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tips for iPhone portrait photos
 
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For iPhone 7 Plus/8 Plus/X users
 
@@ -80,7 +72,7 @@ If there is not enough light or if you are too far away from the camera, the app
 ![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
@@ -93,6 +85,10 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
 #### [Bokeh Lens](https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8)
@@ -102,6 +98,10 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 **Compatible with:** iOS 8.0 or later
 
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
@@ -114,7 +114,7 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
@@ -122,7 +122,7 @@ The plethora of blur options provided by the Defocus camera app is impressive. D
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -140,22 +140,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-the-nuances-of-inshot-video-segments/"><u>[New] Navigating the Nuances of Inshot Video Segments</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-globe-spin-cameras-versus-three-dimensional-photography/"><u>[Updated] Globe-Spin Cameras versus Three-Dimensional Photography</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-iphone-photography-techniques-for-clear-mirror-captures/"><u>[Updated] IPhone Photography Techniques for Clear Mirror Captures</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-journey-to-mastery-discovering-the-quintessential-5-online-title-makers/"><u>[Updated] Journey to Mastery Discovering the Quintessential 5 Online Title Makers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfect-scripts-crafting-captivating-video-blogs/"><u>[Updated] Perfect Scripts Crafting Captivating Video Blogs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfect-virtual-presentations-using-video-filters-on-zoom/"><u>[Updated] Perfect Virtual Presentations Using Video Filters on Zoom</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-spectrum-sync-master/"><u>[Updated] Spectrum Sync Master</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-ways-to-access-gpt-4-for-free/"><u>5 Ways to Access GPT-4 for Free</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-game-audio-bliss-discover-the-top-ranking-150-discounted-speakers-on-amazon-exclusive-review/"><u>Experience Unmatched Game Audio Bliss: Discover the Top-Ranking, $150 Discounted Speakers on Amazon - Exclusive Review</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fresh-release-update-and-install-fingerprint-access-software-on-windows-pcs/"><u>Fresh Release: Update and Install Fingerprint Access Software on Windows PCs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-s18-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo S18 Phones? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p40plus-phone-without-pin-by-drfone-android/"><u>How to Unlock Itel P40+ Phone without PIN</u></a></li>
-<li><a href="https://some-tips.techidaily.com/iphone-15-insights-exceptional-performance-that-pros-and-enthusiasts-cant-ignore/"><u>IPhone 15 Insights: Exceptional Performance That Pros and Enthusiasts Can't Ignore</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-excel-mastery-three-key-methods/"><u>Leveraging ChatGPT for Excel Mastery – Three Key Methods</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/share-a-podcast-on-instagram-story-or-post-for-2024/"><u>Share a Podcast on Instagram Story or Post for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/spectra-adjustment-suite-for-2024/"><u>Spectra Adjustment Suite for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-tutorial-revitalize-your-dell-xps-15-the-complete-driver-update-process-for-windows-users/"><u>Ultimate Tutorial: Revitalize Your Dell XPS 15 - The Complete Driver Update Process for Windows Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-maximize-your-gaming-experience-fbx-edition/"><u>[New] 2024 Approved Maximize Your Gaming Experience FBX Edition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ourney-through-the-stars-with-these-innovative-science-youtubers-for-2024/"><u>[New] Journey Through the Stars with These Innovative Science YouTubers for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimize-mac-streams-with-these-industrys-favorite-5-apps/"><u>[New] Optimize Mac Streams with These Industry's Favorite 5 Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-to-applying-luts-for-vivid-imagery-in-obs-videos/"><u>[New] Step-by-Step Guide to Applying LUTs for Vivid Imagery in OBS Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sculpting-stories-with-specialty-fonts-in-after-effects/"><u>[Updated] Sculpting Stories with Specialty Fonts in After Effects</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-proven-steps-to-convert-webp-to-high-quality-jpeg/"><u>2024 Approved Proven Steps to Convert WebP to High-Quality JPEG</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/ace-your-vids-pace-with-these-snapchat-tips/"><u>Ace Your Vids' Pace with These Snapchat Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/assassins-creed-valhalla-pc-performance-optimized-no-more-stutters/"><u>Assassin's Creed Valhalla - PC Performance Optimized: No More Stutters!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/navigating-cloud-data-costs-comparison-and-best-price-paths/"><u>Navigating Cloud Data Costs Comparison & Best Price Paths</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/peaceful-playtimes-best-idle-gaming-choices-for-2024/"><u>Peaceful Playtimes Best Idle Gaming Choices for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/select-your-footage-editor-hero-or-cube-edition-in-2024/"><u>Select Your Footage Editor Hero or Cube Edition, In 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-microsd-cards-ranked-buyers-guide/"><u>Top MicroSD Cards Ranked : Buyer's Guide</u></a></li>
 </ul></div>
 

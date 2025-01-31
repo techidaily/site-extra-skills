@@ -1,7 +1,7 @@
 ---
 title: "Yitian Nokia 710: The Speed Champion of Alibaba's Server CPUs in Cloud Computing"
-date: 2025-01-16T18:24:19.963Z
-updated: 2025-01-23T18:45:33.354Z
+date: 2025-01-24T05:43:10.244Z
+updated: 2025-01-30T19:18:26.586Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,19 +60,24 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-ghostly-gag-gallery/"><u>[New] Ghostly Gag Gallery</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-how-to-make-tiktok-dance-on-mac-for-2024/"><u>[New] How to Make TikTok Dance on Mac for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-screen-scenarios-simplified-a-novices-guide-to-pixels/"><u>[New] Screen Scenarios Simplified A Novice's Guide to Pixels</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-speech-to-text-solutions-for-engaging-ppts/"><u>[New] Speech-to-Text Solutions for Engaging PPTs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-synthesizing-sound-and-slides-incorporating-melodies-in-ppt/"><u>[New] Synthesizing Sound and Slides Incorporating Melodies in PPT</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-content-cash-cow-how-much-does-the-meme-king-make/"><u>[Updated] 2024 Approved Content Cash Cow How Much Does the Meme King Make?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-lowering-sounds-strength-progressively-with-lumafusion/"><u>[Updated] Lowering Sounds' Strength Progressively with Lumafusion</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-av1-your-initial-journey/"><u>2024 Approved Navigating AV1 Your Initial Journey</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-downloads-compatible-drivers-for-your-brother-mfc-9130cw-printer/"><u>Free Downloads: Compatible Drivers for Your Brother MFC-9130CW Printer</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prime-7-multimedia-players-for-macos/"><u>In 2024, Prime 7 Multimedia Players for MacOS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-s23plus-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after S23+ has been deleted</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/samsung-ubd-k8500-refreshed-2023-overview-for-2024/"><u>Samsung UBD-K8500 Refreshed - 2023 Overview for 2024</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-2024-approved-the-best-translator-to-translate-videos-online/"><u>Updated 2024 Approved The Best Translator to Translate Videos Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-parrot-ar-drone-20-elite-overview/"><u>[New] Parrot AR Drone 2.0 Elite Overview</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expertly-curated-9-best-video-conferencing-software-for-smartphones-and-tablets/"><u>[Updated] In 2024, Expertly Curated 9 Best Video Conferencing Software for Smartphones & Tablets</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pubg-voice-transformation-hacks/"><u>[Updated] PUBG Voice Transformation Hacks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-tips-for-overcoming-adobe-premieres-srt-export-issues/"><u>[Updated] Quick Tips for Overcoming Adobe Premiere's SRT Export Issues</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smoothly-blending-scenes-with-premieres-transitions/"><u>[Updated] Smoothly Blending Scenes with Premiere's Transitions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unveiling-the-secrets-of-gopro-timelapse-photography/"><u>[Updated] Unveiling the Secrets of GoPro Timelapse Photography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pixels-perfection-process-the-ultimate-online-unblur-tool-guide/"><u>2024 Approved Pixels Perfection Process The Ultimate Online Unblur Tool Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/9-signs-your-social-media-accounts-have-been-hacked/"><u>9 Signs Your Social Media Accounts Have Been Hacked</u></a></li>
+<li><a href="https://fox-http.techidaily.com/boost-your-photo-game-on-android-smartphones/"><u>Boost Your Photo Game on Android Smartphones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-unveils-enhanced-gpt-4-model-for-superior-speaking-and-dialogue-performance/"><u>ChatGPT Unveils Enhanced GPT- 4 Model for Superior Speaking and Dialogue Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ai-face-off-notion-ai-vs-openais-chatgpt/"><u>Generative AI Face-Off: Notion AI Vs. OpenAI's ChatGPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterful-audio-mesh-for-voice-broadcasters/"><u>In 2024, Masterful Audio Mesh for Voice Broadcasters</u></a></li>
+<li><a href="https://media-tips.techidaily.com/must-know-tips-for-converting-wmv-videos-to-gif-format-avoid-missing-out/"><u>Must-Know Tips for Converting WMV Videos to GIF Format: Avoid Missing Out!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigate-lifes-challenges-with-these-15-engaging-activities-while-listening-to-podcasts-for-2024/"><u>Navigate Life's Challenges with These 15 Engaging Activities While Listening to Podcasts for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pros-list-17-leading-apps-for-easy-image-transformation-for-2024/"><u>Pro's List 17 Leading Apps for Easy Image Transformation for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/quick-fixes-the-hands-on-guide-to-generating-timely-captions-on-fb-media/"><u>Quick Fixes The Hands-On Guide to Generating Timely Captions on FB Media</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-devices-strengthening-passcodes-in-windows-11-and-11/"><u>Securing Devices, Strengthening Passcodes in Windows 11 and 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-mastery-of-artistic-collage-for-2024/"><u>Step-by-Step Mastery of Artistic Collage for 2024</u></a></li>
 </ul></div>
 

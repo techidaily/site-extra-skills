@@ -1,7 +1,7 @@
 ---
 title: Guide to Diagnosing and Correcting 'Unknown' Speaker Setup on Windows 11 Systems
-date: 2025-01-16T16:46:58.558Z
-updated: 2025-01-23T17:16:56.080Z
+date: 2025-01-24T23:39:55.047Z
+updated: 2025-01-30T22:17:45.623Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Read on and follow the easy-doing images below!
 2. [**Option 2: Change Sound Enhancement Settings**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Option 3: Change Speaker Settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Try the generic audio driver
 
  Sound keeps cutting out on Windows 10 could relate to problematic audio driver. To see if this is the case, you can try the generic sound driver provided by Windows and see if it works. To do so:
@@ -36,15 +40,19 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
@@ -61,10 +69,6 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Reaktek-audio.jpg)
@@ -74,10 +78,6 @@ Read on and follow the easy-doing images below!
 
  If your computer sound still keeps cutting out, please move on to the next option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 2: Change Sound Enhancement Settings
 
  The audio enhancements feature could interfere with the sound output, and therefore cause problems like sound keeping cutting out. To see if this is your case:
@@ -86,25 +86,21 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
@@ -116,18 +112,22 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
@@ -154,17 +154,22 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-often-to-post-a-guide-to-youtube-video-upload-patterns-for-success-for-2024/"><u>[New] How Often to Post A Guide to YouTube Video Upload Patterns for Success for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-leading-narrative-construction-sphere/"><u>[New] Leading Narrative Construction Sphere</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-pros-guide-to-conquering-photovideo-importers-in-win11/"><u>[New] The Pro's Guide to Conquering Photo/Video Importers in Win11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-prove-youre-a-pro-lightning-fast-editing-in-windows-11-videos/"><u>[Updated] Prove You're a Pro Lightning-Fast Editing in Windows 11 Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-quick-guide-to-saving-screen-captures-in-windows-8-for-2024/"><u>[Updated] Quick Guide to Saving Screen Captures in Windows 8 for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-speak-up-enhancing-interactions-with-youtube-viewers/"><u>[Updated] Speak Up Enhancing Interactions with YouTube Viewers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertly-curated-animated-type-library/"><u>2024 Approved Expertly Curated Animated Type Library</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/essential-skype-call-recording-tactics-for-pcsmacs/"><u>Essential Skype Call Recording Tactics for PCs/Macs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-boundaries-with-innovative-vsco-techniques/"><u>In 2024, Pushing Boundaries with Innovative VSCO Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pivotal-ideas-behind-digital-tale-weaving-for-2024/"><u>Pivotal Ideas Behind Digital Tale Weaving for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premiere-music-collections-for-visual-media-for-2024/"><u>Premiere Music Collections for Visual Media for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-free-websites-for-downloading-high-quality-audio-effects-for-video-editing/"><u>Top Free Websites for Downloading High-Quality Audio Effects for Video Editing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-illuminating-insights-your-comprehensive-buying-guide-for-a-4k-display/"><u>[Updated] 2024 Approved Illuminating Insights Your Comprehensive Buying Guide for a 4K Display</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-luts-as-the-key-to-vivid-film-colors/"><u>[Updated] Luts as the Key to Vivid Film Colors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-next-gen-wraps-for-virtual-reality-enthusiasts/"><u>[Updated] Next-Gen Wraps for Virtual Reality Enthusiasts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-propel-your-vlogs-forward-top-seo-tech-unveiled-for-2024/"><u>[Updated] Propel Your Vlogs Forward – Top SEO Tech Unveiled for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-learning-the-ropes-of-lunapics-user-interface/"><u>2024 Approved Learning the Ropes of LunaPic's User Interface</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-periscope-basics-understanding-costs-benefits-and-account-creation/"><u>2024 Approved Periscope Basics Understanding Costs, Benefits & Account Creation</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/1716287834740-how-to-mass-download-tiktok-videos/"><u>How To Mass Download TikTok Videos</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-s17-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo S17 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-learn-how-to-obtain-fee-free-pictorial-entertainment/"><u>In 2024, Learn How To Obtain Fee-Free Pictorial Entertainment</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-fixes-for-palworlds-persistent-search-errors/"><u>Mastering Fixes for PalWorld's Persistent Search Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/minimizing-made-simple-using-hotkeys-for-taskbar-efficiency/"><u>Minimizing Made Simple: Using Hotkeys for Taskbar Efficiency</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/nine-remedies-for-firefox-video-glitches-on-social-media-for-2024/"><u>Nine Remedies for Firefox Video Glitches on Social Media for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photo-mosaics-unveiled-a-journey-to-brighter-spaces-for-2024/"><u>Photo Mosaics Unveiled A Journey to Brighter Spaces for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photographic-precision-the-ultimate-list-of-photo-framing-software-for-2024/"><u>Photographic Precision The Ultimate List of Photo Framing Software for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-free-video-converter-tools-for-windows-10-best-dvd-ripping-software/"><u>Top Free Video Converter Tools for Windows 10 - Best DVD Ripping Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-mod-en-mp3-gratuitement-sur-internet-guide-rapide-avec-movavi/"><u>Toutes Les Étapes Pour Transformer Un Fichier MOD en MP3 Gratuitement Sur Internet - Guide Rapide Avec Movavi</u></a></li>
 </ul></div>
 

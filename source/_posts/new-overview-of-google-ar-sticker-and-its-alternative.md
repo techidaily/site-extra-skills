@@ -1,7 +1,7 @@
 ---
 title: "[New] Overview of Google AR Sticker and Its Alternative"
-date: 2025-01-22T17:55:54.131Z
-updated: 2025-01-23T16:08:33.107Z
+date: 2025-01-26T23:13:34.304Z
+updated: 2025-01-31T00:38:00.786Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,10 @@ In this article, we will take a look at this feature. Also, we will show you a g
 
 ![google ar stickers and its alternative](https://images.wondershare.com/filmora/article-images/google-ar-stickers-its-alternative.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Google AR Sticker?
 
 Think of stickers that you can put on images or videos. However, these stickers are in 3D. Furthermore, they look like they are actually in the environment or they are a part of your body. However, you can only see them through a camera lens.
@@ -31,7 +35,7 @@ Think of stickers that you can put on images or videos. However, these stickers 
 You can look at Pokemon Go to understand it better. The game allows you to "place" your Pokemon in the real world and take photos of them. Google AR stickers are like that, except the stickers are not strictly only Pokemon. There are letters, food, Stranger Things characters, and more!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## History of Google AR Sticker
@@ -41,10 +45,6 @@ Back in 2017, virtual reality and augmented reality received an increase in inte
 The thing is that it did not last long. Ever since Google launched its Pixel 4a in 2020, they no longer provided AR stickers. The camera of the new devices is not compatible with AR stickers, Playground, and Playmoji. And that's the end of Google AR Stickers.
 
 Owners of older Pixel models should not worry since the devices' hardware isn't changed. Thus, they will continue to support Playground, the app needed to use Google AR Stickers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How To Use Google Playground AR Stickers on Pixel 4 and Earlier
 
@@ -68,10 +68,6 @@ Step6 Touch and hold, and drag the AR sticker where you want it to be on the pho
 
 Step7 Tap "Capture" to take a photo. If in video mode, touch and hold "Capture" instead.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Filmora AR Camera – Great Alternative to Google AR Stickers
 
 Suppose you own a Google Pixel 4a or a later model, and you want to try augmented reality photos and videos. Sadly, you can't use Google's own AR stickers. But don't worry. There's a great alternative! You can use Filmora AR Camera on [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for Mobile instead. It's an application that lets you add AR stickers to your photos and videos.
@@ -81,6 +77,10 @@ Suppose you own a Google Pixel 4a or a later model, and you want to try augmente
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 Are you an Android or iPhone user? Filmora AR Camera is also available on these platforms. So you can join in on the fun!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Filmora AR Camera Features
 
@@ -104,10 +104,6 @@ Step3 Tap the "Frame" icon at the top right to adjust the video ratio. It's also
 
 ![changing canvas size on filmora](https://images.wondershare.com/filmorago/article-image/frame-icon-on-filmorago-camera.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Select "Props" from the options at the bottom of the screen. Select the AR effect that you want to use.
 
 ![using an ar sticker on filmora](https://images.wondershare.com/filmorago/article-image/props-icon-on-filmorago-camera.jpg)
@@ -119,12 +115,16 @@ Step6 You'll see the video you recorded on the left side of the screen. Tap the 
 ![edit option on filmora ar camera](https://images.wondershare.com/filmorago/article-image/click-edit-when-you-created-your-animoji-video-on-filmorago.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step7 Preview your video, edit as needed, and export it.
 
 ![exporting recorded video on filmora iphone](https://images.wondershare.com/filmorago/article-image/trim-the-animoji-video-you-record-on-filmorago.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### To Edit an AR Selfie Video on iPhone
 
@@ -134,13 +134,13 @@ Step2 Tap "Canvas" to adjust the video ratio size so it would be perfect for Tik
 
 ![canvas button on filmora for iphone](https://images.wondershare.com/filmorago/article-image/canvas-setting-for-video-on-filmorago.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Tap "Filters" to add more magic to the video.
 
 ![adding filters on filmora for iphone](https://images.wondershare.com/filmorago/article-image/tap-filter-button-for-ar-video-on-filmorago.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Suppose there is more than one video clip, and you're combining them. Tap the junction between them to add transition effects so that the switch would not look too abrupt or to make the video cooler.
 
@@ -149,10 +149,6 @@ Step4 Suppose there is more than one video clip, and you're combining them. Tap 
 Step5 Preview the video. If you're already satisfied, tap "EXPORT" to save and share.
 
 ![previewing or exporting ar video](https://images.wondershare.com/filmorago/article-image/preview-ar-video-and-export-it.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## People Also Ask
 
@@ -178,6 +174,10 @@ AR Apps can be dangerous, but not all of them are. Keep in mind that AR apps can
 
 Vendors can also add malware or other things to the apps. So it's necessary that you always stay vigilant. As much as possible, download AR apps from vendors with a good reputation. That's how you ensure the app is not doing something nasty behind your back.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Google AR Stickers are great for enhancing your photos and videos. Too bad it's no longer available on newer Pixel devices. Luckily, other apps are available on the market, and they're available on more platforms. For example, Wondershare Filmora for Mobile has an AR Camera feature. It lets you add AR stickers to your photos and videos, then combine and edit them. The selection of AR effects is also wide. So, you can have loads of fun creating content using Filmora for Mobile.
@@ -193,16 +193,12 @@ Filmora for Mobile's AR Camera feature has many things to offer. It lets you tak
 The best thing about Filmora AR Camera is it lets you record multiple videos with different AR stickers. Filmora for Mobile will automatically combine and arrange them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Filmora AR Camera To Record a Video
 
 Here's a tutorial on how to record an AR video & how to edit an AR selfie video on iPhone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### To Record an AR Video
 
@@ -243,7 +239,7 @@ Step3 Tap "Filters" to add more magic to the video.
 ![adding filters on filmora for iphone](https://images.wondershare.com/filmorago/article-image/tap-filter-button-for-ar-video-on-filmorago.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 Suppose there is more than one video clip, and you're combining them. Tap the junction between them to add transition effects so that the switch would not look too abrupt or to make the video cooler.
@@ -253,6 +249,10 @@ Step4 Suppose there is more than one video clip, and you're combining them. Tap 
 Step5 Preview the video. If you're already satisfied, tap "EXPORT" to save and share.
 
 ![previewing or exporting ar video](https://images.wondershare.com/filmorago/article-image/preview-ar-video-and-export-it.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## People Also Ask
 
@@ -306,21 +306,18 @@ Google AR Stickers are great for enhancing your photos and videos. Too bad it's 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-revolutionize-your-earning-game-with-top-13-strategies-for-novices-on-reddit/"><u>[New] Revolutionize Your Earning Game with Top 13 Strategies for Novices on Reddit</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-select-top-6-slideshow-creation-software-for-x-models/"><u>[New] Select Top 6 Slideshow Creation Software for X Models</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-speech-recognition-made-accessible-transforming-audio-to-text-with-ease-in-microsoft-word/"><u>[New] Speech Recognition Made Accessible Transforming Audio to Text with Ease in Microsoft Word</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-cultivate-a-thriving-igtv-community-5-key-increase-strategies-for-2024/"><u>[Updated] Cultivate a Thriving IGTV Community 5 Key Increase Strategies for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-precision-videography-at-your-fingertips-phones-with-top-tier-image-stabilization/"><u>[Updated] Precision Videography at Your Fingertips Phones with Top-Tier Image Stabilization</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-virtual-backgrounds-with-kinemasters-stepwise-guide-to-green-screen/"><u>2024 Approved Mastering Virtual Backgrounds with Kinemaster's Stepwise Guide to Green Screen</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/efficiently-downsize-your-4k-footage-from-giant-bytes-to-megabytes-while-preserving-impeccable-quality/"><u>Efficiently Downsize Your 4K Footage From Giant Bytes to MegaBytes While Preserving Impeccable Quality</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/erase-youtubes-short-snippet-playback-option-for-2024/"><u>Erase YouTube's Short Snippet Playback Option for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-new-galaxy-z-flip-6-what-you-need-to-know-about-price-availability-and-specs/"><u>Exploring the New Galaxy Z Flip 6 - What You Need to Know About Price, Availability and Specs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-soaring-in-high-definition-an-in-depth-xiaomi-analysis/"><u>In 2024, Soaring in High Definition An In-Depth Xiaomi Analysis</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-inserting-dates-in-digital-pictures/"><u>In 2024, Step-by-Step Inserting Dates in Digital Pictures</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/live-streaming-elite-9-edition-for-2024/"><u>Live Streaming Elite #9 Edition for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-trick-how-to-freeze-unnecessary-android-app-operations-behind-the-scene/"><u>The Ultimate Trick: How to Freeze Unnecessary Android App Operations Behind the Scene</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unlock-partner-status-a-step-by-step-guide-to-discord-verification-for-2024/"><u>Unlock Partner Status A Step-by-Step Guide to Discord Verification for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-full-gameplay-in-elden-ring-despite-starting-with-a-dark-screen-dilemma/"><u>Unlocking Full Gameplay in Elden Ring Despite Starting with a Dark Screen Dilemma</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-essential-steps-for-crafting-video-based-gifs-on-mobiledesktop/"><u>[New] Essential Steps for Crafting Video-Based GIFs on Mobile/Desktop</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimize-visual-output-with-free-luts-in-your-obs-studio-setup/"><u>[New] Optimize Visual Output with Free LUTs in Your OBS Studio Setup</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-record-a-powerpoint-presentation-for-2024/"><u>[Updated] How to Record a PowerPoint Presentation for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-key-top-5-agile-camcorders-for-adventure-selections/"><u>2024 Approved Key Top 5 Agile Camcorders for Adventure Selections</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-video-conferencing-zooming-towards-youtube-streaming-excellence/"><u>2024 Approved Mastering Video Conferencing Zooming Towards YouTube Streaming Excellence</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-tips-15-expertly-chosen-tripods-for-gopro-cameras/"><u>2024 Approved Pro Tips 15 Expertly Chosen Tripods for GoPro Cameras</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-snapseed-advanced-usage-insights/"><u>2024 Approved Snapseed Advanced Usage Insights</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/exploring-the-benefits-of-using-yl-software-for-efficient-cryptocurrency-wallet-balance-verification-tools/"><u>Exploring the Benefits of Using YL Software for Efficient Cryptocurrency Wallet Balance Verification Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-xs-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone XS In Easy Steps | Stellar</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/nine-pinnacle-filmora-features-videographers-adore-for-2024/"><u>Nine Pinnacle Filmora Features Videographers Adore for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/techniques-pour-lenregistrement-automatique-des-fichiers-windows-sur-google-drive/"><u>Techniques Pour L'enregistrement Automatique Des Fichiers Windows Sur Google Drive</u></a></li>
 </ul></div>
 
