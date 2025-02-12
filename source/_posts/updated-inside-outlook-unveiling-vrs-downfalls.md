@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Inside Outlook  Unveiling VR's Downfalls\""
-date: 2024-07-31T09:19:39.839Z
-updated: 2024-08-01T09:19:39.839Z
+date: 2025-02-11T19:46:58.062Z
+updated: 2025-02-12T16:30:45.544Z
 tags: 
   - screen-recording
   - ai video
@@ -60,10 +60,11 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -82,15 +83,17 @@ _[Differences between VR, AR and MR](https://tools.techidaily.com/wondershare/fi
 _[Virtual Reality Technology: Current State and Future Challenges](https://tools.techidaily.com/wondershare/filmora/download/)_
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The equipment used for VR is very expensive
 
  Of course with any early stage technology, there are a host of issues to overcome among the first is cost for consumers to participate. Many systems run between $100 and $600 and we have not yet discussed the cost of purchasing experiences or games.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Low resoultion content, large file size
 
  The new goggles or headsets that are coming out offer best available high resolution displays. But gaming experience is coming on at low resolution, leaving you with a low resolution experience. Below is a greatly condensed technical discussion explaining why VR is still so profoundly mediocre.
@@ -111,71 +114,10 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
 
  There is an addictive quality of Virtual Reality environments that should not be ignored. Those who are regular users of these spaces, even in its developmental state find that it can be hard to stay away. Users find themselves in some cases, preferring the virtual world to the real one. If these anecdotal experiences are being reported by a very small sample size what will be the impact on entire cultures that embrace this technology? Considerations of Virtual Reality must extend into the world of human activity and definitions of normal behavior. And as a reminder most of us who love science fiction have a sense of what true Virtual Reality really is. It should be clear that we are a very long way from enjoying the holodeck.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
- When many of us think of [Virtual Reality](https://tools.techidaily.com/wondershare/filmora/download/) there is two thoughts, the first is the high heaven of VR which is the holodeck featured on the several TV versions of “Star Trek” and a crucial part of the show's flagship the starship Enterprise. The holodeck was what true Virtual Reality should be, full body tactile immersion both narrative immersion, which occurs “when the viewer becomes emotionally invested in the story” and the feeling of “really being there”, called spatial immersion.
-
- **_You may also like:_**
-_[Differences between VR, AR and MR](https://tools.techidaily.com/wondershare/filmora/download/)_
-_[Virtual Reality Technology: Current State and Future Challenges](https://tools.techidaily.com/wondershare/filmora/download/)_
-
-## The equipment used for VR is very expensive
-
- Of course with any early stage technology, there are a host of issues to overcome among the first is cost for consumers to participate. Many systems run between $100 and $600 and we have not yet discussed the cost of purchasing experiences or games.
-
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Low resoultion content, large file size
-
- The new goggles or headsets that are coming out offer best available high resolution displays. But gaming experience is coming on at low resolution, leaving you with a low resolution experience. Below is a greatly condensed technical discussion explaining why VR is still so profoundly mediocre.
-
-* **File size**
-
- Current VR platforms require a some kind of download to begin. Often the file sizes are over 1 GB and requisitely, slow.
-
-* **Video quality**
-
- The next issue is simply video quality. Most VR is in stereo format and the hardware is just not able to fully support it. The video comes through grainy and muffled like it was shot that way and of course it was not. Improved resolution is the fix. There is another obvious thought here. Why claim to have a market worthy product when one of the fundamental technologies, viewing, is still unstable?
-
-* **Resolution**
-
- What is the issue with fixing resolution. A couple of questions must be addressed to solve the problems. What is the display resolution? This is the screen resolution. The second question is, “Does all of the images that can come through, actually come through or is it cut off in some way?” This is field-of-view resolution. These questions have technical answers and industry engineers are working to provide a seamless solution, but we are brought back to the conclusion that VR technology while close to delivering true Phase I, which is reasonably easy to use technology is not quite there. Industry insiders use language like it is still in its experimental stage, of course that will not stop the industry from selling these units to early adopters.
-
-* **Social Consequences**
-
- There is an addictive quality of Virtual Reality environments that should not be ignored. Those who are regular users of these spaces, even in its developmental state find that it can be hard to stay away. Users find themselves in some cases, preferring the virtual world to the real one. If these anecdotal experiences are being reported by a very small sample size what will be the impact on entire cultures that embrace this technology? Considerations of Virtual Reality must extend into the world of human activity and definitions of normal behavior. And as a reminder most of us who love science fiction have a sense of what true Virtual Reality really is. It should be clear that we are a very long way from enjoying the holodeck.
-
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -220,15 +162,71 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
 
 ## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+ When many of us think of [Virtual Reality](https://tools.techidaily.com/wondershare/filmora/download/) there is two thoughts, the first is the high heaven of VR which is the holodeck featured on the several TV versions of “Star Trek” and a crucial part of the show's flagship the starship Enterprise. The holodeck was what true Virtual Reality should be, full body tactile immersion both narrative immersion, which occurs “when the viewer becomes emotionally invested in the story” and the feeling of “really being there”, called spatial immersion.
+
+ **_You may also like:_**
+_[Differences between VR, AR and MR](https://tools.techidaily.com/wondershare/filmora/download/)_
+_[Virtual Reality Technology: Current State and Future Challenges](https://tools.techidaily.com/wondershare/filmora/download/)_
+
+## The equipment used for VR is very expensive
+
+ Of course with any early stage technology, there are a host of issues to overcome among the first is cost for consumers to participate. Many systems run between $100 and $600 and we have not yet discussed the cost of purchasing experiences or games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Low resoultion content, large file size
+
+ The new goggles or headsets that are coming out offer best available high resolution displays. But gaming experience is coming on at low resolution, leaving you with a low resolution experience. Below is a greatly condensed technical discussion explaining why VR is still so profoundly mediocre.
+
+* **File size**
+
+ Current VR platforms require a some kind of download to begin. Often the file sizes are over 1 GB and requisitely, slow.
+
+* **Video quality**
+
+ The next issue is simply video quality. Most VR is in stereo format and the hardware is just not able to fully support it. The video comes through grainy and muffled like it was shot that way and of course it was not. Improved resolution is the fix. There is another obvious thought here. Why claim to have a market worthy product when one of the fundamental technologies, viewing, is still unstable?
+
+* **Resolution**
+
+ What is the issue with fixing resolution. A couple of questions must be addressed to solve the problems. What is the display resolution? This is the screen resolution. The second question is, “Does all of the images that can come through, actually come through or is it cut off in some way?” This is field-of-view resolution. These questions have technical answers and industry engineers are working to provide a seamless solution, but we are brought back to the conclusion that VR technology while close to delivering true Phase I, which is reasonably easy to use technology is not quite there. Industry insiders use language like it is still in its experimental stage, of course that will not stop the industry from selling these units to early adopters.
+
+* **Social Consequences**
+
+ There is an addictive quality of Virtual Reality environments that should not be ignored. Those who are regular users of these spaces, even in its developmental state find that it can be hard to stay away. Users find themselves in some cases, preferring the virtual world to the real one. If these anecdotal experiences are being reported by a very small sample size what will be the impact on entire cultures that embrace this technology? Considerations of Virtual Reality must extend into the world of human activity and definitions of normal behavior. And as a reminder most of us who love science fiction have a sense of what true Virtual Reality really is. It should be clear that we are a very long way from enjoying the holodeck.
+
+## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -258,5 +256,26 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-refined-lineup-of-conversation-starters-for-podcasting/"><u>[New] 2024 Approved Refined Lineup of Conversation Starters for Podcasting</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-voicing-freedom-how-to-modify-your-audio-on-instagram-posts/"><u>[New] 2024 Approved Voicing Freedom How to Modify Your Audio on Instagram Posts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-search-engine-optimization-for-podcasts/"><u>[New] Mastering the Art of Search Engine Optimization for Podcasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seo-excellence-transforming-podcast-discoverability/"><u>[New] SEO Excellence Transforming Podcast Discoverability</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplified-guide-designing-your-podcasts-rss-feed/"><u>[New] Simplified Guide Designing Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-remedying-pixelated-youtube-footage/"><u>[Updated] Remedying Pixelated YouTube Footage</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-4k-upgrade-youtube-to-hd-with-ease/"><u>[Updated] Seamless 4K Upgrade YouTube to HD with Ease</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-surging-social-media-accelerating-instagram-interactions/"><u>[Updated] Surging Social Media Accelerating Instagram Interactions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-excellent-10-tech-choices-for-livestream-monitoring/"><u>2024 Approved Excellent 10 Tech Choices for Livestream Monitoring</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-insights-on-the-recent-upgrades-of-sonys-s6500-player/"><u>2024 Approved Insights on the Recent Upgrades of Sony’s S6500 Player</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inverting-media-flow-apple-device-technique/"><u>2024 Approved Inverting Media Flow Apple Device Technique</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-6-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone 6 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-resource-protection-could-not-complete-task-on-pcs/"><u>How to Repair 'Resource Protection Could Not Complete Task' On PCs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-audio-recording-the-ultimate-audacity-course-for-2024/"><u>Pro Audio Recording The Ultimate Audacity Course for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quickstart-guide-making-videography-easier-with-pixiz-for-2024/"><u>Quickstart Guide Making Videography Easier with Pixiz for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsung-unpacked-2025-a-comprehensive-guide-to-anticipated-launches-rumors-and-news-highlights/"><u>Samsung Unpacked 2025: A Comprehensive Guide to Anticipated Launches, Rumors, and News Highlights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-guide-to-mastering-3d-luts-for-professional-photos-for-2024/"><u>Step-by-Step Guide to Mastering 3D LUTs for Professional Photos for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-setting-up-wake-on-lan-in-windows-10-and-11/"><u>Step-by-Step Tutorial: Setting Up Wake-on-LAN in Windows 10 and 11</u></a></li>
+</ul></div>
 

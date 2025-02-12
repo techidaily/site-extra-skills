@@ -1,7 +1,7 @@
 ---
 title: "\"Launching on Big Sur  Key System Specs Needed for 2024\""
-date: 2024-07-31T09:22:11.005Z
-updated: 2024-08-01T09:22:11.005Z
+date: 2025-02-09T19:50:08.851Z
+updated: 2025-02-12T16:56:54.719Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://www.lifewire.com/thmb/86F84KXmC5S52L9NAF6LQTtWmFE=/540x405/fi
 
 # macOS 11 Big Sur: System and Hardware Requirements
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -34,17 +31,9 @@ Finally, the most awaited moment of the **macOS 11Big Sur** release took place i
 Many Mac users have come across this confusion as Mac's system requirements have gone through a couple of updates regarding Catalina, High Sierra, and Mojave. So, with no delay, let's get into the **macOS Big Sur requirements** in detail.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: System Requirements for macOS 11 Big Sur
 
 First, let’s look at the **Big Sur system requirements** in this session.
@@ -57,9 +46,6 @@ First, let’s look at the **Big Sur system requirements** in this session.
 
 **Features:** Some features require an Apple ID or a compatible internet service provider.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Part 2: Hardware Requirements - Mac Models Compatible with macOS 11 Big Sur
 
 So, what are the **macOS Big Sur hardware requirements** that my Mac device should meet for the successful accomplishment of the upgrade? The Mac devices compatible with the **Big Sur minimum requirements** are as follows:
@@ -82,11 +68,6 @@ So, what are the **macOS Big Sur hardware requirements** that my Mac device shou
 
 Another option to check **macOS Big Sur hardware requirements** about your Mac model is to click the “Apple’s” icon on the top-left of the screen and choose the “About This Mac” option to check the **macOS Big Sur compatibility**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Part 3: Tips on Using macOS 11 Big Sur
 
 Got a clear-cut view regarding **Big Sur requirements**? Once updated, the chances might seem overwhelming at first glance and challenging to sort out things. Now, it's time to view some tips and tricks on using macOS Big Sur to experience a little better experience.
@@ -155,9 +136,6 @@ First, let’s look at the **Big Sur system requirements** in this session.
 
 **Features:** Some features require an Apple ID or a compatible internet service provider.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Hardware Requirements - Mac Models Compatible with macOS 11 Big Sur
 
 So, what are the **macOS Big Sur hardware requirements** that my Mac device should meet for the successful accomplishment of the upgrade? The Mac devices compatible with the **Big Sur minimum requirements** are as follows:
@@ -180,9 +158,6 @@ So, what are the **macOS Big Sur hardware requirements** that my Mac device shou
 
 Another option to check **macOS Big Sur hardware requirements** about your Mac model is to click the “Apple’s” icon on the top-left of the screen and choose the “About This Mac” option to check the **macOS Big Sur compatibility**.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: Tips on Using macOS 11 Big Sur
 
 Got a clear-cut view regarding **Big Sur requirements**? Once updated, the chances might seem overwhelming at first glance and challenging to sort out things. Now, it's time to view some tips and tricks on using macOS Big Sur to experience a little better experience.
@@ -208,9 +183,9 @@ Never want your screen or notification screen to be crowded by stacked by app no
 Once limited to the iMessaging app of iPhone and iPad, the messaging app in macOS 11 Big Sur is dramatically better. You can make use of Memojis and GIFs too at present. Yes, right from your Mac, you can send personalized Memojis to others.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus Tip: The Best Video Editor for macOS 11 Big Sur
 
 Once you upgrade to the all-new macOS 11 Big Sur following the above-discussed **macOS Big Sur minimum requirements**, the problem or complication arises when you need to find the compatible apps or software to be installed on the device. Especially if you are looking out for a beautiful video creator/editor application for your MacBook with OS 11 Big Sur, is it possible to find the best video editor as per **macOS Big Sur system requirements**? Yes, sure you can, where [**Wondershare Filmora**](https://tools.techidaily.com/wondershare/filmora/download/) comes to the remembrance.
@@ -243,9 +218,6 @@ Finally, the most awaited moment of the **macOS 11Big Sur** release took place i
 
 Many Mac users have come across this confusion as Mac's system requirements have gone through a couple of updates regarding Catalina, High Sierra, and Mojave. So, with no delay, let's get into the **macOS Big Sur requirements** in detail.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Part 1: System Requirements for macOS 11 Big Sur
 
 First, let’s look at the **Big Sur system requirements** in this session.
@@ -259,8 +231,9 @@ First, let’s look at the **Big Sur system requirements** in this session.
 **Features:** Some features require an Apple ID or a compatible internet service provider.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: Hardware Requirements - Mac Models Compatible with macOS 11 Big Sur
 
 So, what are the **macOS Big Sur hardware requirements** that my Mac device should meet for the successful accomplishment of the upgrade? The Mac devices compatible with the **Big Sur minimum requirements** are as follows:
@@ -320,16 +293,13 @@ Designed exclusively for the inspired, discover the real world of storytelling w
 * Create without limits, as you can try Wondershare Filmora for free to hit play on your imagination.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Now that we have discussed the **Big Sur Mac requirements** in terms of system and hardware put the tactics discussed above in this article for smooth handling of Big Sur. Besides, whatever Mac version upgrade, MacBook Pro models jump by a year or so. Without a doubt, Wondershare Filmora will continue to be the all-in-one [Mac video editor](https://tools.techidaily.com/wondershare/filmora/download/) of all time!
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -346,6 +316,10 @@ Finally, the most awaited moment of the **macOS 11Big Sur** release took place i
 
 Many Mac users have come across this confusion as Mac's system requirements have gone through a couple of updates regarding Catalina, High Sierra, and Mojave. So, with no delay, let's get into the **macOS Big Sur requirements** in detail.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: System Requirements for macOS 11 Big Sur
 
 First, let’s look at the **Big Sur system requirements** in this session.
@@ -357,6 +331,10 @@ First, let’s look at the **Big Sur system requirements** in this session.
 **Storage:** 35.5 GB available on macOS Sierra or later. If you upgrade from a previous release of macOS Sierra, the functional storage should be 44.5 GB.
 
 **Features:** Some features require an Apple ID or a compatible internet service provider.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Hardware Requirements - Mac Models Compatible with macOS 11 Big Sur
 
@@ -381,8 +359,9 @@ So, what are the **macOS Big Sur hardware requirements** that my Mac device shou
 Another option to check **macOS Big Sur hardware requirements** about your Mac model is to click the “Apple’s” icon on the top-left of the screen and choose the “About This Mac” option to check the **macOS Big Sur compatibility**.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Tips on Using macOS 11 Big Sur
 
 Got a clear-cut view regarding **Big Sur requirements**? Once updated, the chances might seem overwhelming at first glance and challenging to sort out things. Now, it's time to view some tips and tricks on using macOS Big Sur to experience a little better experience.
@@ -406,6 +385,10 @@ Never want your screen or notification screen to be crowded by stacked by app no
 **#5 Upgrade to Memojis from Mac**
 
 Once limited to the iMessaging app of iPhone and iPad, the messaging app in macOS 11 Big Sur is dramatically better. You can make use of Memojis and GIFs too at present. Yes, right from your Mac, you can send personalized Memojis to others.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip: The Best Video Editor for macOS 11 Big Sur
 
@@ -453,5 +436,21 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-captivate-with-time-lapse-artistry-on-samsung-phones/"><u>[New] Captivate with Time-Lapse Artistry on Samsung Phones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-essential-recording-gear-for-environmentalists-for-2024/"><u>[New] Essential Recording Gear for Environmentalists for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-8-free-instagram-to-mp4-converters-that-you-can-try-onlinewindowsmac/"><u>[New] In 2024, 8 Free Instagram to MP4 Converters That You Can Try [Online/Windows/Mac]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimal-focus-techniques-for-videoleap-users/"><u>[New] Optimal Focus Techniques for Videoleap Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revolutionize-your-unboxings-proven-tactics-to-impress-on-instagram/"><u>[New] Revolutionize Your Unboxings Proven Tactics to Impress on Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-the-charge-in-macwin-srt-modifications/"><u>[Updated] Leading the Charge in Mac/Win SRT Modifications</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cheapest-4k-dslrmirrorless-cameras-and-camcorders/"><u>2024 Approved Cheapest 4K DSLR/Mirrorless Cameras and Camcorders</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-oppo-a38-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Oppo A38 Without PUK Codes</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-crafting-a-masterpiece-with-collages/"><u>In 2024, Step-by-Step Crafting a Masterpiece with Collages</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/jovial-media-grabber-critique-for-2024/"><u>Jovial Media Grabber Critique for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-spotify-promotion-strategies-for-effective-ads-for-2024/"><u>Mastering Spotify Promotion Strategies for Effective Ads for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-your-vehicles-secrets-a-guide-to-discovering-the-right-car-radio-code/"><u>Unlocking Your Vehicle's Secrets: A Guide to Discovering the Right Car Radio Code</u></a></li>
+</ul></div>
 

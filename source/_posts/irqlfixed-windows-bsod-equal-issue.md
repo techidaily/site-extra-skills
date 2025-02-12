@@ -1,7 +1,7 @@
 ---
 title: "[IRQL_FIXED] Windows BSOD - Equal Issue"
-date: 2025-01-27T21:14:52.199Z
-updated: 2025-01-31T02:01:59.932Z
+date: 2025-02-08T19:32:41.732Z
+updated: 2025-02-12T16:37:59.591Z
 tags:
   - win11
   - win10
@@ -46,21 +46,17 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13ff597e883.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Solution 2: Uninstall problem drivers to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
 
  The problem can be caused by faulty drivers. To fix the problem, go to**Device Manager** and find the faulty drivers, then uninstall the drivers. If a driver is having problems, you’ll see a yellow mark next to its device (see the screenshot shown below).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad8287f6daa6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Following steps are for your reference on how to uninstall a driver:
 
@@ -69,6 +65,10 @@ Following steps are for your reference on how to uninstall a driver:
  2) Type **devmgmt.msc**  and click **OK** . Then Device Manager window will open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13fde1d72b1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In Device Manager, locate the faulty driver. If the driver is having problems, you’ll see a yellow mark next to the device name. Then right-click on the device name (For example, uninstall graphics card driver.) and select**Uninstall** .
 
@@ -79,13 +79,13 @@ Following steps are for your reference on how to uninstall a driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13feb35a43d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Restart your PC and check to see if the blue screen is gone  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3 **: Perform a System Restore to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
@@ -100,15 +100,15 @@ Following steps are for your reference on how to uninstall a driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13ffd6b0139.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click Next then you may see the following screen. Select a restore point created before the error occurred. You can tell from the created**Date and Time** . Click **Next** to continue and follow the on-screen instructions to finish the restore.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a14004645d52.png)
 
 4) Reboot your PC and check to see if the blue screen is gone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Solution** 4: Reset or reinstall Windows
 
@@ -151,21 +151,16 @@ Following steps are for your reference on how to uninstall a driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enhance-engagement-with-these-essential-freegame-hashtags-for-youtube-for-2024/"><u>[New] Enhance Engagement with These Essential FreeGame Hashtags for YouTube for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-watermark-free-tiktok-clips-on-your-iphone/"><u>[New] In 2024, Watermark-Free TikTok Clips on Your iPhone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-volume-reduction-for-apple-and-microsoft-systems/"><u>[New] Seamless Volume Reduction for Apple and Microsoft Systems</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-elevate-presentations-10-must-have-slide-show-designs-at-no-cost-for-2024/"><u>[Updated] Elevate Presentations 10 Must-Have Slide Show Designs at No Cost for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-leading-the-way-in-iphonecomputer-video-format-conversion/"><u>[Updated] Leading the Way in iPhone/Computer Video Format Conversion</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-melodies-and-movie-editing-imovie-edition/"><u>[Updated] Melodies & Movie Editing IMovie Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-photo-wordsmithing-ios-and-androids-leading-caption-tools/"><u>2024 Approved Photo Wordsmithing IOS and Android's Leading Caption Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quip-quarterly-event-oriented-joke-anthology/"><u>2024 Approved Quip Quarterly Event-Oriented Joke Anthology</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-iphone-photo-composition-methods/"><u>2024 Approved Step-by-Step iPhone Photo Composition Methods</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-images-the-art-of-applying-luts-in-pro/"><u>2024 Approved Transforming Images The Art of Applying LUTs in Pro</u></a></li>
-<li><a href="https://fox-http.techidaily.com/from-youtube-to-high-definition-prime-downloader-choices/"><u>From YouTube to High Definition Prime Downloader Choices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/google-pixel-watch-and-apple-watch-series-eight-showdown-a-detailed-review-to-help-you-decide-zdnet-insights/"><u>Google Pixel Watch and Apple Watch Series Eight Showdown: A Detailed Review to Help You Decide | ZDNET Insights</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-introduction-to-kinetic-graphic-principles/"><u>In 2024, Introduction to Kinetic Graphic Principles</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagram-influence-without-compromise-for-2024/"><u>Instagram Influence Without Compromise for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximize-your-listening-experience-ios-podcast-mastery/"><u>Maximize Your Listening Experience IOS Podcast Mastery</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/professional-opinions-best-9-digital-microphone-capture-gear/"><u>Professional Opinions Best 9 Digital Microphone Capture Gear</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-psd-mastery-journey-unlimited-complimentary-texts/"><u>[New] PSD Mastery Journey Unlimited Complimentary Texts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-new-short-form-fb-story-for-2024/"><u>[New] The New Short-Form FB Story for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simple-techniques-for-building-a-stunning-iphone-collage/"><u>2024 Approved Simple Techniques for Building a Stunning iPhone Collage</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-unlocking-success-youtubes-keyword-research-secrets-revealed/"><u>2024 Approved Unlocking Success YouTube's Keyword Research Secrets Revealed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-lightweight-voice-alteration-maximizing-your-gameplay-in-pubg/"><u>In 2024, Lightweight Voice Alteration Maximizing Your Gameplay in PUBG</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-secrets-unlocked-banishing-instagram-video-fails/"><u>In 2024, Secrets Unlocked Banishing Instagram Video Fails</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-4k-video-mics-top-picks-list-for-2024/"><u>Premium 4K Video Mics Top Picks List for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sculptors-of-immersive-digital-universes-for-2024/"><u>Sculptors of Immersive Digital Universes for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/streamline-your-presenting-skills-with-these-7-innovative-ai-tools-that-craft-impressive-slide-decks/"><u>Streamline Your Presenting Skills with These 7 Innovative AI Tools That Craft Impressive Slide Decks</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-motorola-edge-40-neo-by-fonelab-android-recover-data/"><u>The way to get back lost data from Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-dji-mavic-n-a-game-changer-in-drone-camera-review/"><u>Unveiling the Power of DJI Mavic N: A Game-Changer in Drone Camera Review</u></a></li>
 </ul></div>
 

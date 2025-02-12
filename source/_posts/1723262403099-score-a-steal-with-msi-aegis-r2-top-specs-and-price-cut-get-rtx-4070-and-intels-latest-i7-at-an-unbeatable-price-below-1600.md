@@ -1,7 +1,7 @@
 ---
 title: Score a Steal with MSI Aegis R2 - Top Specs and Price Cut! Get RTX 4070 & Intel's Latest I7 at an Unbeatable Price Below $1,600.
-date: 2025-01-28T01:12:38.747Z
-updated: 2025-01-31T01:33:49.280Z
+date: 2025-02-05T20:46:16.505Z
+updated: 2025-02-12T16:48:51.248Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ These are the specifications of the two Asus ROG NUC models:
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,22 +68,15 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-lg-unveils-new-dimensions-with-its-360-degree-vr-headgear/"><u>[New] LG Unveils New Dimensions with Its 360-Degree VR Headgear</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-money-saving-heavens-storage-service-big-file-batches/"><u>[New] Money-Saving Heavens Storage Service - Big File Batches</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-sound-selecting-4-websites-for-ringtones/"><u>[New] Seamless Sound Selecting 4 Websites for Ringtones</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-leading-6-social-spaces-for-enterprise-driven-collaboration/"><u>[Updated] Leading 6 Social Spaces for Enterprise-Driven Collaboration</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-master-the-art-of-activating-and-deactivating-pip-in-ios-browsers-for-2024/"><u>[Updated] Master the Art of Activating and Deactivating PIP in iOS Browsers for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-rapidly-assembling-a-facebook-image-puzzle/"><u>[Updated] Rapidly Assembling a Facebook Image Puzzle</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-spectacular-ultra-hd-screens-for-playing-games/"><u>[Updated] Spectacular Ultra HD Screens for Playing Games</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-install-or-upgrade-brother-mfc-l2n690d-wireless-printer-drivers-guide-and-resources/"><u>How to Install or Upgrade Brother MFC-L2n690d Wireless Printer Drivers - Guide and Resources</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/intro-to-using-snap-camera-effectively-in-meetings/"><u>Intro to Using Snap Camera Effectively in Meetings</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-class-on-smudge-techniques-in-images-for-2024/"><u>Master Class on Smudge Techniques in Images for 2024</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/meet-apowerrecs-new-release-innovative-and-game-changing-capabilities/"><u>Meet ApowerREC's New Release: Innovative and Game-Changing Capabilities</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mobile-market-update-samsung-dominates-phone-exports-against-apple-while-competitor-narrowly-trails-behind/"><u>Mobile Market Update: Samsung Dominates Phone Exports Against Apple, While Competitor Narrowly Trails Behind</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfect-your-hd-vids-on-android-with-these-10-players-for-2024/"><u>Perfect Your HD Vids on Android With These 10 Players for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pure-summer-magic-the-top-10-classic-kids-films-for-2024/"><u>Pure Summer Magic The Top 10 Classic Kid's Films for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-elite-compilation-9-online-mic-recorders-ranked-for-2024/"><u>The Elite Compilation 9 Online Mic Recorders Ranked for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/windows-11-update-fehlert-entdecken-sie-hier-4-effektive-losungen/"><u>Windows 11 Update Fehlert: Entdecken Sie Hier 4 Effektive Lösungen!</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/winx-multimedia-decouvrez-le-coup-de-pouce-ultime-avec-nos-outils-libres-convertisseur-video-ripper-dvd-and-telecharger-facilement/"><u>WinX Multimédia : Découvrez Le Coup De Pouce Ultime Avec Nos Outils Libres - Convertisseur Vidéo, Ripper DVD & Télécharger Facilement</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-laughlens-pictorial-humor-studio/"><u>[New] LaughLens Pictorial Humor Studio</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premiere-illustrator-adjustments/"><u>[New] Premiere Illustrator Adjustments</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leverage-smart-organization-in-mematic/"><u>In 2024, Leverage Smart Organization in Mematic</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-90-profrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor 90 ProFRP Lock</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-drama-drafting-method-for-2024/"><u>Quick Drama Drafting Method for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-facebook-paradox-why-do-people-reject-online-communities/"><u>The Facebook Paradox: Why Do People Reject Online Communities?</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-keyboard-malfunctions-and-reboots/"><u>Troubleshooting Tips: Fixing Keyboard Malfunctions and Reboots</u></a></li>
 </ul></div>
 

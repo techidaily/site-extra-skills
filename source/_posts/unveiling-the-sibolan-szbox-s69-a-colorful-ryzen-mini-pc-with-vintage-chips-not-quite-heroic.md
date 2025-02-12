@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Sibolan SZBox S69: A Colorful Ryzen Mini PC with Vintage Chips, Not Quite Heroic"
-date: 2025-01-30T03:40:31.593Z
-updated: 2025-01-30T20:47:26.542Z
+date: 2025-02-11T20:24:03.750Z
+updated: 2025-02-12T17:20:12.756Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
  The case itself looks like a conventional carrying case. The outer shell appears to be hard plastic, with metal supporting rails filling the lips of the case. The case features two latching mechanisms and a mechanism to attach a lock for[security](https://www.tomshardware.com/tag/security) . You can transport the travel case by rolling it on its two wheels or with another handle that allows you to carry it like a briefcase.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -58,18 +58,16 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-soundscapes-synopsis-a-guide-to-visual-tunes/"><u>[New] In 2024, Soundscapes Synopsis A Guide to Visual Tunes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-journey-through-audio-production-initiating-with-auditions-fade-in/"><u>[New] Journey Through Audio Production Initiating with Audition’s Fade In</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pros-list-17-leading-apps-for-easy-image-transformation/"><u>[New] Pro's List 17 Leading Apps for Easy Image Transformation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-secure-and-spacious-our-compilation-of-best-20-free-cloud-services/"><u>[New] Secure & Spacious Our Compilation of Best 20 Free Cloud Services</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unlock-creative-expressions-building-stories-from-photos-in-pixiz/"><u>[Updated] 2024 Approved Unlock Creative Expressions Building Stories From Photos in Pixiz</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-avoiding-lost-sequences-with-obs-fixes/"><u>2024 Approved Avoiding Lost Sequences with OBS Fixes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/from-video-to-song-instagrams-mp3-conversion-process/"><u>From Video to Song Instagram's Mp3 Conversion Process</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-does-system-restore-work-on-windows-10-a-comprehensive-guide/"><u>How Does System Restore Work on Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-avoid-blur-and-clarity-issues-zooming-techniques-with-videoleap/"><u>In 2024, Avoid Blur and Clarity Issues Zooming Techniques with Videoleap</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-journey-into-the-art-of-long-exposure-a-comprehensive-guide-to-gopro-timelapses/"><u>In 2024, Journey Into the Art of Long-Exposure A Comprehensive Guide to GoPro Timelapses</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-polishing-pixels-8-pro-photo-frames-for-images-online/"><u>In 2024, Polishing Pixels 8 Pro Photo Frames for Images Online</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Itel P55? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/pioneering-pedagogy-through-film-in-the-classroom/"><u>Pioneering Pedagogy Through Film in the Classroom</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-free-outro-scene-creation-made-simple/"><u>[New] 2024 Approved Free Outro Scene Creation Made Simple</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-get-every-moment-of-fb-lives-top-5-video-capture-apps/"><u>[New] Get Every Moment of Fb Lives Top 5 Video Capture Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-obs-and-wirecast-bout-which-broadcast-tool-is-king/"><u>[New] OBS and Wirecast Bout Which Broadcast Tool Is King?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-sow-seeds-of-smile-inducing-images/"><u>[New] Sow Seeds of Smile-Inducing Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funny-faces-and-posts-your-adobe-way/"><u>[Updated] Funny Faces and Posts Your Adobe Way</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-guide-to-crafting-iphone-image-art/"><u>2024 Approved Step-by-Step Guide to Crafting iPhone Image Art</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-photo-and-video-files-in-windows-10-like-a-pro/"><u>In 2024, Navigating Photo & Video Files in Windows 10 Like a Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-srt-manipulation-a-mac-users-ultimate-guidebook/"><u>In 2024, SRT Manipulation A Mac User's Ultimate Guidebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/magic-behind-melodies-an-analysis-of-magix-music-maker-for-2024/"><u>Magic Behind Melodies An Analysis of Magix Music Maker for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m34-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M34 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
 

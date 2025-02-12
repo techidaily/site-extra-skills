@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Old World Wonders – iPhone X Portraits"
-date: 2025-01-24T01:03:51.432Z
-updated: 2025-01-31T00:36:35.109Z
+date: 2025-02-11T16:17:47.586Z
+updated: 2025-02-12T19:38:03.666Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,7 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For iPhone 7 Plus/8 Plus/X users
@@ -50,7 +50,7 @@ However, the Portrait Mode is only featured on iOS 10.1 or some more recent vers
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image resource: 9to5mac
@@ -64,7 +64,7 @@ The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera
 ![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image resource: imore
@@ -72,10 +72,6 @@ Image resource: imore
 Launch the Camera app, and swipe to the Portrait option, and then tap on the Camera Swap feature to start using the front camera on your iPhone. Find the Portrait Lightning feature in the camera's Portrait mode, then select one of the options provided by the Portrait Lightning such as Studio Light or Natural light, and proceed to snap a selfie by tapping on the shutter button.
 
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For iPhone 8, 7 or older iPhones users
 
@@ -86,10 +82,6 @@ If there is not enough light or if you are too far away from the camera, the app
 **Compatible with:** iOS 8.0 or later
 
 ![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
 
@@ -111,6 +103,10 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
 #### [Defocus](https://itunes.apple.com/us/app/defocus/id1048310180?mt=8)
@@ -124,6 +120,10 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -140,22 +140,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-keep-your-spotify-experience-recommendation-free/"><u>[New] Keep Your Spotify Experience Recommendation-Free</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-low-volume-settings-in-os-xwindows/"><u>[New] Mastering Low-Volume Settings in OS X/Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-overcoming-deformed-video-playback-online/"><u>[New] Overcoming Deformed Video Playback Online</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-securely-capturing-and-storing-itunes-media-content/"><u>[Updated] 2024 Approved Securely Capturing and Storing iTunes Media Content</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-diminutive-directors-script-for-2024/"><u>[Updated] Diminutive Director's Script for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-beginner-to-champion-essential-drone-races-tips-and-best-models/"><u>[Updated] From Beginner to Champion Essential Drone Races Tips and Best Models</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-chrono-translocation-techniques/"><u>[Updated] Mastering Chrono-Translocation Techniques</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-demystifying-mukbang-a-comprehensive-production-guide/"><u>2024 Approved Demystifying Mukbang A Comprehensive Production Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-google-chromes-multi-screen-capabilities/"><u>2024 Approved Navigating Google Chrome's Multi-Screen Capabilities</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Oppo A2? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-simplifying-post-production-using-luts-in-after-effects/"><u>In 2024, Simplifying Post Production Using LUTs in After Effects</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-smooth-transition-from-iphones-jpegpng-files-to-pdf-format/"><u>In 2024, Smooth Transition From iPhone's JPEG/PNG Files to PDF Format</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastery-over-picture-in-picture-for-improved-productivity-for-2024/"><u>Mastery over Picture In Picture for Improved Productivity for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/photoframe-prospectus-essential-list-of-software-sites-and-tools/"><u>Photoframe Prospectus Essential List of Software Sites & Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ripple-effect-of-union-victory-how-the-ups-agreement-might-affect-amazon/"><u>The Ripple Effect of Union Victory: How the UPS Agreement Might Affect Amazon</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/transforming-twitter-video-links-to-audio-for-2024/"><u>Transforming Twitter Video Links to Audio for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterful-radial-blur-transformation-techniques-for-ps-users/"><u>[New] Masterful Radial Blur Transformation Techniques for PS Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-nine-superior-choices-for-live-streaming-now/"><u>[New] Nine Superior Choices for Live Streaming Now</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-all-you-need-to-know-about-google-docs-audio-to-text-functionality/"><u>[Updated] All You Need to Know About Google Docs Audio-to-Text Functionality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-creativity-on-the-go-androidios-montages-top-8/"><u>[Updated] Seamless Creativity on the Go Android/iOS Montages Top 8</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-web-browsing-on-edge-with-picture-in-picture-mode/"><u>[Updated] Seamless Web Browsing on Edge with Picture-in-Picture Mode</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-aerial-excellence-with-optimal-motor-selections/"><u>2024 Approved Maximizing Aerial Excellence with Optimal Motor Selections</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/data-rescue-tactics-top-4-strategies-to-restore-deleted-files-in-windows-10/"><u>Data Rescue Tactics: Top 4 Strategies to Restore Deleted Files in Windows 10</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-review-unveiling-the-power-of-netgears-nighthawk-c7000-wireless-modem-capabilities/"><u>Expert Review: Unveiling the Power of Netgear's Nighthawk C7000 Wireless Modem Capabilities</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/free-film-resource-highlights-where-to-start-your-search/"><u>Free Film Resource Highlights Where to Start Your Search</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-detailed-hdr-tutorial-uncomplicated-approach/"><u>In 2024, Detailed HDR Tutorial Uncomplicated Approach</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-srt-creation-a-comprehensive-manual-and-tricks/"><u>In 2024, Mastering SRT Creation A Comprehensive Manual & Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-web-video-for-crystal-clear-display/"><u>In 2024, Optimizing Web Video for Crystal Clear Display</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-secrets-for-hiring-top-notch-video-professionals/"><u>In 2024, Secrets for Hiring Top-Notch Video Professionals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essential-qanda-on-quantum-hdr-technology/"><u>The Essential Q&A on Quantum HDR Technology</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-cutting-edge-audio-solutions-top-online-sites-for-professional-grade-mp3-modification/"><u>Updated 2024 Approved Cutting Edge Audio Solutions Top Online Sites for Professional-Grade MP3 Modification</u></a></li>
 </ul></div>
 

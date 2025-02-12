@@ -1,7 +1,7 @@
 ---
 title: Exploring Performance & Value in the Corsair One I500 Tiny Gaming Rig
-date: 2025-01-30T04:10:04.491Z
-updated: 2025-01-31T03:24:41.574Z
+date: 2025-02-08T16:05:31.954Z
+updated: 2025-02-12T17:03:51.940Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,17 +89,18 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-in-depth-insights-perfecting-the-craft-of-screen-recording-on-macbooks/"><u>[New] In 2024, In-Depth Insights Perfecting the Craft of Screen Recording on MacBooks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-professional-post-processing-how-to-erase-image-borders-easily/"><u>[Updated] Professional Post-Processing How to Erase Image Borders Easily</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-discovering-your-youtube-unique-slot/"><u>2024 Approved Discovering Your YouTube Unique Slot</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-ensure-video-success-on-twitter-understand-the-aspect-ratio/"><u>2024 Approved Ensure Video Success on Twitter Understand the Aspect Ratio</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-exclusive-savings-secure-a-high-quality-156-hp-touchscreen-notebook-for-just-230-deals-curated-by-zdnet/"><u>Discover Exclusive Savings: Secure a High-Quality 15.6 HP Touchscreen Notebook for Just $230 - Deals Curated by ZDNet!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722892836402-hottest-apple-watch-promotions-for-this-week/"><u>Hottest Apple Watch Promotions for This Week</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-x-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone X Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-how-to-remove-background-in-figma/"><u>In 2024, How to Remove Background In Figma</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mini-2-and-air-2s-luts-free-trial-then-paid-upgrade/"><u>In 2024, Mini 2 & Air 2S LUTS - Free Trial, Then Paid Upgrade</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/installieren-sie-windows-11-in-kurze-ohne-ein-microsoft-account-zu-benotigen-tipps-und-tricks/"><u>Installieren Sie Windows 11 in Kürze, Ohne Ein Microsoft-Account Zu Benötigen - Tipps Und Tricks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfecting-close-angles-in-movie-filming-for-2024/"><u>Perfecting Close Angles in Movie Filming for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/writing-engaging-documentary-stories/"><u>Writing Engaging Documentary Stories</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-your-guide-to-affordable-cloud-collaboration-top-10-software-recommendations/"><u>[New] 2024 Approved Your Guide to Affordable Cloud Collaboration Top 10 Software Recommendations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-10-best-free-facetime-for-android-alternatives-for-2024/"><u>[Updated] Top 10 Best Free FaceTime for Android Alternatives for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-tips-securing-audio-for-unboxing-vids/"><u>2024 Approved Master Tips Securing Audio for Unboxing Vids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/adobe-photoshop-shake-reduction-is-it-really-useful-in-2024/"><u>Adobe Photoshop Shake Reduction | Is It Really Useful, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-gpt-4-without-paying-top-4-free-strategies/"><u>Discovering GPT-4 Without Paying: Top 4 Free Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/future-of-storage-top-picks-and-prices-in-clouds-for-2024/"><u>Future of Storage Top Picks and Prices in Clouds for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-samsung-galaxy-s24-ultra-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Samsung Galaxy S24 Ultra Phones? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/memorable-moments-from-the-2022-skatescape-for-2024/"><u>Memorable Moments From the 2022 Skatescape for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-handsets-acknowledged-by-video-enthusiasts-for-2024/"><u>Premier Handsets Acknowledged by Video Enthusiasts for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/proven-techniques-for-locating-luxe-pexel-pictures-for-2024/"><u>Proven Techniques for Locating Luxe Pexel Pictures for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reduce-window-size-on-win-10-pc/"><u>Reduce Window Size on WIN 10 PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/refine-iphone-image-capture-specialized-filming-tools/"><u>Refine iPhone Image Capture Specialized Filming Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformer-un-fichier-tiff-en-image-jpeg-gratuite-sur-internet-movavi/"><u>Transformer Un Fichier TIFF en Image JPEG Gratuite Sur Internet - Movavi</u></a></li>
 </ul></div>
 

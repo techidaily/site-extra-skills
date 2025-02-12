@@ -1,7 +1,7 @@
 ---
 title: "PC Troubleshooting: Fixing Constant Crashes in Alien: Fireteam Elite"
-date: 2025-01-29T03:40:06.679Z
-updated: 2025-01-31T06:59:34.841Z
+date: 2025-02-07T20:56:10.854Z
+updated: 2025-02-12T17:52:35.059Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 ## Epic Games Launcher Troubleshooting: Fix Not Opening Issues Fast
 
 **Epic Games Launcher won’t open?** Don’t worry… Although it’s very frustrating, you’re not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: End the Epic Games Launcher process in Task Manager
 
  Make sure the Epic Games launcher is not running in the background. If it is, when you double-click its shortcut on your desktop, it won’t launch. So you need to end the processes related to Epic Games Launcher in Task Manager first. Here’s how to do it:
@@ -40,16 +48,12 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/keyboard.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Run Epic Games Launcher to see if you’ve resolved this issue.
@@ -59,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Launch Epic Games Launcher from Start Menu
@@ -69,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
  On your keyboard, press**the Windows logo key** and type**Epic Games Launcher** . In the list of search results, click**Epic Games Launcher** to run it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1048.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if you can launch the program. If so, you should delete its shortcut on your desktop and create a new one. If it still won’t launch, don’t worry. Try the next fix, below.
 
@@ -86,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Run Epic Games Launcher again to see if this issue reappears.
 
  If not, congratulations! You’ve fixed this issue. If this issue persists, try the next fix to update your graphics driver.
@@ -97,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
@@ -125,10 +129,6 @@ _You can do it for free if you like, but it’s partly manual._
  The Pro version of Driver Easy comes with full technical support.  
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Change Epic Games Launcher Properties
 
  Some players reported that this issue can be fixed by changing the properties of Epic Games Launcher. Here’s how to do it:
@@ -136,6 +136,10 @@ _You can do it for free if you like, but it’s partly manual._
  1) On your desktop,**right-click** on**the shortcut of Epic Games Launcher** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
 
@@ -150,10 +154,6 @@ _You can do it for free if you like, but it’s partly manual._
  If it won’t open, try the next fix to disable your antivirus software temporarily.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
 
@@ -193,13 +193,13 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Restart your computer.
 
@@ -229,22 +229,24 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-dissecting-sharex-opinions-and-picks/"><u>[New] In 2024, Dissecting ShareX Opinions & Picks</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-livestream-leap-backwards-twenty-efficient-ways-for-twitch-enthusiasts-for-2024/"><u>[New] Livestream Leap Backwards Twenty Efficient Ways for Twitch Enthusiasts for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-streamline-conversion-selecting-the-top-10-free-tools-for-2024/"><u>[New] Streamline Conversion Selecting the Top 10 Free Tools for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-navigating-obs-setup-for-zoom-streaming-excellence/"><u>[Updated] In 2024, Navigating OBS Setup for Zoom Streaming Excellence</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-picperfect-pro-enhance-your-mobile-images-for-free/"><u>[Updated] PicPerfect Pro Enhance Your Mobile Images for Free</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-interactive-communication-enhancing-your-youtube-presence/"><u>2024 Approved Interactive Communication Enhancing Your YouTube Presence</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-profit-from-reddit-easy-style-top-13-beginner-strategies/"><u>2024 Approved Profit From Reddit Easy Style Top 13 Beginner Strategies</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-reel-it-in-top-5-action-cameras-for-anglers/"><u>2024 Approved Reel It In Top 5 Action Cameras for Anglers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/apex-6-lions-large-scale-nlp-prowess-recognized/"><u>Apex 6 Lions: Large-Scale NLP Prowess Recognized</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-making-classroom-content-video-editing-insights/"><u>In 2024, Making Classroom Content Video Editing Insights</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-buying-cutting-edge-360cams/"><u>In 2024, Mastering the Art of Buying Cutting-Edge 360Cams</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-essentials-for-successful-channel-creation/"><u>In 2024, Youtube Essentials for Successful Channel Creation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-for-clearing-vmware-freeze-issues-on-win11/"><u>Methods for Clearing VMware Freeze Issues on Win11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/perfectly-sync-your-devices-with-the-newest-m-audio-fast-track-driver-downloads-for-all-windows-editions/"><u>Perfectly Sync Your Devices with the Newest M-Audio Fast Track Driver Downloads for All Windows Editions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premium-free-ae-design-blueprints-for-2024/"><u>Premium Free AE Design Blueprints for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/startling-audience-with-compelling-intros-for-2024/"><u>Startling Audience with Compelling Intros for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-honor-magic-5-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Honor Magic 5 Pro to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-apexs-single-player-focus-how-to-optimize-your-game-experience/"><u>[New] Apex's Single Player Focus How to Optimize Your Game Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-upconversion-from-standard-definition-to-dynamic-range-extraordinaire/"><u>[New] Seamless Upconversion From Standard Definition to Dynamic Range Extraordinaire</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-videography-made-simple-efficient-recording-and-editing-in-adobe-connect/"><u>[New] Videography Made Simple Efficient Recording & Editing in Adobe Connect</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-expert-recommendations-the-finest-skype-recorders-of-2023/"><u>[Updated] Expert Recommendations The Finest Skype Recorders of 2023</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boosting-buzz-and-views-masterful-strategies-for-youtube-success/"><u>[Updated] In 2024, Boosting Buzz & Views Masterful Strategies for YouTube Success</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-combat-chronicles-in-the-ring-or-on-screen/"><u>[Updated] In 2024, Combat Chronicles In the Ring or on Screen?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-edits-navigating-photoshops-eraser-function/"><u>[Updated] Seamless Edits Navigating Photoshop’s Eraser Function</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-innovation-how-technology-shapes-industry-standards/"><u>2024 Approved SRT Innovation How Technology Shapes Industry Standards</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-powerdirector-a-compreran-review-and-tutorial/"><u>2024 Approved Unlocking PowerDirector A Compreran Review & Tutorial</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-y02t-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo Y02T</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphones-ultimate-strategy-for-seamless-podcast-downloading/"><u>In 2024, IPhone's Ultimate Strategy for Seamless Podcast Downloading</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-boundaries-in-video-photography-nikon-1j5/"><u>In 2024, Pushing Boundaries in Video Photography - Nikon 1J5</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-imagery-boundaries-mastering-ps-distortion-methods/"><u>In 2024, Pushing Imagery Boundaries Mastering PS Distortion Methods</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/investigating-magix-audio-mixer-mastery-for-2024/"><u>Investigating MAGIX Audio Mixer Mastery for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-webcam-solutions-for-audio-professionals-for-2024/"><u>Optimal Webcam Solutions for Audio Professionals for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/satirists-web-workshop-for-2024/"><u>Satirist's Web Workshop for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/silverleaf-studio-exploring-lightroom-substitutes-for-2024/"><u>Silverleaf Studio Exploring Lightroom Substitutes for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-sony-xperia-10-v-by-drfone-android/"><u>Three Ways to Sim Unlock Sony Xperia 10 V</u></a></li>
 </ul></div>
 

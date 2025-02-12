@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Reversal Strategies  Moving From Latest Sierra to El Capitan\""
-date: 2024-07-31T09:17:29.133Z
-updated: 2024-08-01T09:17:29.133Z
+date: 2025-02-06T20:35:07.540Z
+updated: 2025-02-12T18:04:49.384Z
 tags: 
   - screen-recording
   - ai video
@@ -79,103 +79,9 @@ Here I would like to mention something. Depending on the date of purchase of you
 So, we are only one step farther from the whole process to be completed. Here is the final step for you.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-### Restore your data from Time Machine
 
-Like it is always recommended to backup your present data through Time Machine, if you have your data saved, you can use that to reinstall in the present OS that is OS X EI Capitan by following these simple steps:
-
-1\. First of all connect your Mac with internet through Wi-Fi or Ethernet.
-
-2\. Click on the “Apple” icon shown on the desktop.
-
-3\. Click on the dropdown and select Restart from the list.
-
-4\. Hold on the Command+R as soon as you hear the startup tone and hold the key till the reboot.
-
-5\. Now go to the “Restore from Time Machine Backup” in the OS X Utilities selector.
-
-6\. Click “Continue” twice and read the important information about backup before proceeding.
-
-7\. Select the Backup source where the backup data will be stored.
-
-8\. Select most recent OS X EI Capitan backup and continue.
-
-Hah… You are done now. Your Mac will start restoring the data from Time Machine and will reboot. This may take a while depending on your system configuration. So, just sit and relax.
-
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Computer technology is going through an ever changing period over the last decade or so. We are experiencing back to back changes in operating system both from Microsoft and from the newly launched Apple’s Mac. The latest OS version from Mac, MacOS Sierra is out now. Everyone is so curious to install this OS in their Macbook. There are loads of new features available in the new OS. But, there are many people who may not want to try this latest version as full time so early.
-
-Though, this is the latest version but this doesn’t necessarily mean you will have the best experience with it all the time. So, if you have decided to downgrade to the older version that is OS X EI Capitan, we have the step by step solution for you. The steps are really simple to perform. So, here is how to downgrade from Mac OS Sierra to OS X EI Capitan.
-
-Ok, so before we start, I just want to tell you one thing that either open this article on a different device or take a print out if you are right now reading this article on the very machine that you want to downgrade.
-
-So, there are basically three steps of the whole process:
-
-* Erase MacOS Sierra
-* Re-install OS X EI Capitan
-* Restore your data through time machine
-
-We will cover each step one by one so that it becomes easy to understand to all of you. And one more thing, you need to have an internet connection for this. So, here is the first step for you.
-
-### Erase MacOS Sierra
-
-1\. First of all connect you Mac with a strong internet connection either through Wi-Fi or you can even use Ethernet connection. Make sure the connection is stable.
-
-2\. Now click on the “Apple” icon on your desktop.
-
-3\. You will see the dropdown menu there and you need to select “Restart” from the menu.
-
-4\. Now, do this step carefully. You need to hold down the Commanr+R together as soon as you hear the start up ding and keep holding till the time your computer reboots.
-
-5\. Now click on the “Disk Utility” button under the OS X Utilities section.
-
-6\. You will get the option to continue. Click on that.
-
-7\. Select your Startup Disk from the option.
-
-8\. At the top of the window you will see Earse tab. Click on that.
-
-9\. Now, enter the manes of the file you want to delete like MacOS Sierra.
-
-10\. Also select Mac OS Extended from the list and click Erase.
-
-Once the process is completed quit the Disk Utility section from the dropdown, shown on the upper left corner of your screen. And go back to the OS X EI Capitan segment.
-
-So, this is the end of the first step. Now we will move on to the next step that is reinstall OS X EI Capitan.
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
-### Reinstall Os X EI Capitan
-
-Now that you have erased the present version of the OS from your Mac, you would like to install an older version for sure.
-
-1.Go to the OS X Utilities selector and click on the “Reinstall OS X” from the dropdown.
-
-2\. Here you will see the EI Capitan installation window and click on “Continue”.
-
-Here I would like to mention something. Depending on the date of purchase of your Mac, you may download an older version of Mac OS. You can even install the one that your Mac was shipped with. But for this you have to complete the process with Internet Recovery Mode. You can install older versions like Mavericks or Yosemite. When the installation is done open the Mac App Store. And here you will see OS X EI Capitan in your purchased list, download that. The OS will install like the standard upgrade. You have to agree with licensing terms for this.
-
-So, we are only one step farther from the whole process to be completed. Here is the final step for you.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Restore your data from Time Machine
 
 Like it is always recommended to backup your present data through Time Machine, if you have your data saved, you can use that to reinstall in the present OS that is OS X EI Capitan by following these simple steps:
@@ -223,6 +129,10 @@ So, there are basically three steps of the whole process:
 * Restore your data through time machine
 
 We will cover each step one by one so that it becomes easy to understand to all of you. And one more thing, you need to have an internet connection for this. So, here is the first step for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Erase MacOS Sierra
 
@@ -284,9 +194,6 @@ Like it is always recommended to backup your present data through Time Machine, 
 
 Hah… You are done now. Your Mac will start restoring the data from Time Machine and will reboot. This may take a while depending on your system configuration. So, just sit and relax.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -313,9 +220,6 @@ So, there are basically three steps of the whole process:
 
 We will cover each step one by one so that it becomes easy to understand to all of you. And one more thing, you need to have an internet connection for this. So, here is the first step for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### Erase MacOS Sierra
 
 1\. First of all connect you Mac with a strong internet connection either through Wi-Fi or you can even use Ethernet connection. Make sure the connection is stable.
@@ -342,9 +246,6 @@ Once the process is completed quit the Disk Utility section from the dropdown, s
 
 So, this is the end of the first step. Now we will move on to the next step that is reinstall OS X EI Capitan.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Reinstall Os X EI Capitan
 
 Now that you have erased the present version of the OS from your Mac, you would like to install an older version for sure.
@@ -358,8 +259,9 @@ Here I would like to mention something. Depending on the date of purchase of you
 So, we are only one step farther from the whole process to be completed. Here is the final step for you.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Restore your data from Time Machine
 
 Like it is always recommended to backup your present data through Time Machine, if you have your data saved, you can use that to reinstall in the present OS that is OS X EI Capitan by following these simple steps:
@@ -383,6 +285,104 @@ Like it is always recommended to backup your present data through Time Machine, 
 Hah… You are done now. Your Mac will start restoring the data from Time Machine and will reboot. This may take a while depending on your system configuration. So, just sit and relax.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Computer technology is going through an ever changing period over the last decade or so. We are experiencing back to back changes in operating system both from Microsoft and from the newly launched Apple’s Mac. The latest OS version from Mac, MacOS Sierra is out now. Everyone is so curious to install this OS in their Macbook. There are loads of new features available in the new OS. But, there are many people who may not want to try this latest version as full time so early.
+
+Though, this is the latest version but this doesn’t necessarily mean you will have the best experience with it all the time. So, if you have decided to downgrade to the older version that is OS X EI Capitan, we have the step by step solution for you. The steps are really simple to perform. So, here is how to downgrade from Mac OS Sierra to OS X EI Capitan.
+
+Ok, so before we start, I just want to tell you one thing that either open this article on a different device or take a print out if you are right now reading this article on the very machine that you want to downgrade.
+
+So, there are basically three steps of the whole process:
+
+* Erase MacOS Sierra
+* Re-install OS X EI Capitan
+* Restore your data through time machine
+
+We will cover each step one by one so that it becomes easy to understand to all of you. And one more thing, you need to have an internet connection for this. So, here is the first step for you.
+
+### Erase MacOS Sierra
+
+1\. First of all connect you Mac with a strong internet connection either through Wi-Fi or you can even use Ethernet connection. Make sure the connection is stable.
+
+2\. Now click on the “Apple” icon on your desktop.
+
+3\. You will see the dropdown menu there and you need to select “Restart” from the menu.
+
+4\. Now, do this step carefully. You need to hold down the Commanr+R together as soon as you hear the start up ding and keep holding till the time your computer reboots.
+
+5\. Now click on the “Disk Utility” button under the OS X Utilities section.
+
+6\. You will get the option to continue. Click on that.
+
+7\. Select your Startup Disk from the option.
+
+8\. At the top of the window you will see Earse tab. Click on that.
+
+9\. Now, enter the manes of the file you want to delete like MacOS Sierra.
+
+10\. Also select Mac OS Extended from the list and click Erase.
+
+Once the process is completed quit the Disk Utility section from the dropdown, shown on the upper left corner of your screen. And go back to the OS X EI Capitan segment.
+
+So, this is the end of the first step. Now we will move on to the next step that is reinstall OS X EI Capitan.
+
+### Reinstall Os X EI Capitan
+
+Now that you have erased the present version of the OS from your Mac, you would like to install an older version for sure.
+
+1.Go to the OS X Utilities selector and click on the “Reinstall OS X” from the dropdown.
+
+2\. Here you will see the EI Capitan installation window and click on “Continue”.
+
+Here I would like to mention something. Depending on the date of purchase of your Mac, you may download an older version of Mac OS. You can even install the one that your Mac was shipped with. But for this you have to complete the process with Internet Recovery Mode. You can install older versions like Mavericks or Yosemite. When the installation is done open the Mac App Store. And here you will see OS X EI Capitan in your purchased list, download that. The OS will install like the standard upgrade. You have to agree with licensing terms for this.
+
+So, we are only one step farther from the whole process to be completed. Here is the final step for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Restore your data from Time Machine
+
+Like it is always recommended to backup your present data through Time Machine, if you have your data saved, you can use that to reinstall in the present OS that is OS X EI Capitan by following these simple steps:
+
+1\. First of all connect your Mac with internet through Wi-Fi or Ethernet.
+
+2\. Click on the “Apple” icon shown on the desktop.
+
+3\. Click on the dropdown and select Restart from the list.
+
+4\. Hold on the Command+R as soon as you hear the startup tone and hold the key till the reboot.
+
+5\. Now go to the “Restore from Time Machine Backup” in the OS X Utilities selector.
+
+6\. Click “Continue” twice and read the important information about backup before proceeding.
+
+7\. Select the Backup source where the backup data will be stored.
+
+8\. Select most recent OS X EI Capitan backup and continue.
+
+Hah… You are done now. Your Mac will start restoring the data from Time Machine and will reboot. This may take a while depending on your system configuration. So, just sit and relax.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -412,5 +412,22 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-optimal-methods-to-source-stock-photography-and-visuals/"><u>[New] Optimal Methods to Source Stock Photography and Visuals</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-jocular-juxtapositions-cutting-edge-humorous-edits-online-for-2024/"><u>[Updated] Jocular Juxtapositions Cutting-Edge, Humorous Edits Online for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-precision-and-savings-combined-top-asmr-microphones-within-reach/"><u>2024 Approved Precision & Savings Combined Top ASMR Microphones Within Reach</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-solutions-to-rectify-mscorwksdll-missing-on-your-computer/"><u>Comprehensive Solutions to Rectify mscorwks.dll Missing on Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/confronting-uptime-setbacks-dealing-with-error-code-0x80246007/"><u>Confronting Uptime Setbacks: Dealing with Error Code 0X80246007</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-your-logitech-g533-mic-expert-advice-for-clear-sound/"><u>Diagnosing & Repairing Your Logitech G533 Mic - Expert Advice for Clear Sound</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fashionable-fitness-on-your-wrist-an-amazfit-gts-analysis/"><u>Fashionable Fitness on Your Wrist: An Amazfit GTS Analysis</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-best-nokia-frp-bypass-guide-by-drfone-android/"><u>In 2024, Best Nokia FRP Bypass Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-key-digital-platforms-enhance-your-youtube-traffic/"><u>In 2024, Key Digital Platforms Enhance Your YouTube Traffic</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-make-a-living-with-reddit-even-for-novices-top-13-easy-strategies/"><u>In 2024, Make a Living with Reddit (Even for Novices!) Top 13 Easy Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-meme-framework-essentials/"><u>In 2024, Prime Meme Framework Essentials</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-fix-resolve-wwe-2k20s-pc-game-crash-issues-with-ease/"><u>Master the Fix: Resolve WWE 2K20's PC Game Crash Issues with Ease</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-pc-hd-video-viewing-and-editing-with-windows-hdr-support-for-2024/"><u>Mastering PC HD Video Viewing & Editing with Windows HDR Support for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/rewind-designers-toolkit-for-2024/"><u>Rewind Designer's Toolkit for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Pocket-Sized Laptop: Unplugged with Intel Alder Lake-N, Ethernet & Power over Ethernet"
-date: 2025-01-28T01:25:35.744Z
-updated: 2025-01-30T23:58:03.726Z
+date: 2025-02-11T17:48:19.156Z
+updated: 2025-02-12T18:26:52.788Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
  The case itself looks like a conventional carrying case. The outer shell appears to be hard plastic, with metal supporting rails filling the lips of the case. The case features two latching mechanisms and a mechanism to attach a lock for[security](https://www.tomshardware.com/tag/security) . You can transport the travel case by rolling it on its two wheels or with another handle that allows you to carry it like a briefcase.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -58,16 +58,16 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-peculiar-picasso-creating-quirky-quick-memes/"><u>[New] Peculiar Picasso Creating Quirky, Quick Memes</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-vimeo-vs-youtube-a-content-creators-guide/"><u>[Updated] 2024 Approved Vimeo Vs. YouTube A Content Creator's Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-max-360-and-hero-11-gopro-comparison-which-reigns-supreme/"><u>[Updated] Max 360 and Hero 11 GoPro Comparison - Which Reigns Supreme?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-masterclasses-in-applying-online-vhs-filters-and-graphics/"><u>2024 Approved Masterclasses in Applying Online VHS Filters and Graphics</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-12-pro-max-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone 12 Pro Max and Android without others knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-soundscout-beyond-dacast-horizons/"><u>In 2024, SoundScout Beyond DaCast Horizons</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/isolating-photographs-within-windows-10-movie-files-for-2024/"><u>Isolating Photographs Within Windows 10 Movie Files for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95643705-9781785354540-pagan-portals-merlin/"><u>Pagan Portals - Merlin | Free Book</u></a></li>
-<li><a href="https://extra-information.techidaily.com/stellar-overhauls-data-recovery-software-focusing-on-simplified-consumer-experience-latest-update-news/"><u>Stellar Overhauls Data Recovery Software, Focusing on Simplified Consumer Experience - Latest Update News</u></a></li>
-<li><a href="https://win-able.techidaily.com/tips-and-tricks-to-prevent-crusader-kings-iii-from-crashing-on-pc/"><u>Tips and Tricks to Prevent Crusader Kings III From Crashing on PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tips-to-spot-fake-bingpt-coins-and-stay-safe-in-crypto/"><u>Tips to Spot Fake BinGPT Coins and Stay Safe in Crypto</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplifying-onestream-techniques-for-effective-streaming/"><u>[New] Simplifying OneStream Techniques for Effective Streaming</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tep-by-step-creating-your-channels-simple-subscribe-button-for-2024/"><u>[New] Step by Step Creating Your Channel's Simple Subscribe Button for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-hacks-to-dodge-digital-lessons-at-home/"><u>[Updated] 2024 Approved Hacks to Dodge Digital Lessons at Home</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-content-uploading-numerous-photos-and-videos-to-instagram-for-2024/"><u>[Updated] Elevate Your Content Uploading Numerous Photos and Videos to Instagram for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-depth-tutorial-enhancing-meeting-experience-in-zoom-win10-for-2024/"><u>[Updated] In-Depth Tutorial Enhancing Meeting Experience in Zoom (Win10) for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-starting-with-hauls-a-step-by-step-editing-manual/"><u>[Updated] Starting with Hauls A Step-by-Step Editing Manual</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-tagging-tactics-how-to-leverage-instagrams-top-25-hashtags/"><u>[Updated] Tagging Tactics How to Leverage Instagram's Top 25 Hashtags</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quintuple-excellence-writing-for-eight-film-classifications/"><u>2024 Approved Quintuple Excellence Writing for Eight Film Classifications</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sky-high-speeds-key-moments-in-the-short-tracks-olympics/"><u>In 2024, Sky-High Speeds Key Moments in the Short Tracks, Olympics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-jokes-and-gag-collection-for-2024/"><u>IPhone Jokes & Gag Collection for 2024</u></a></li>
 </ul></div>
 
