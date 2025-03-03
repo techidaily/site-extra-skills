@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: How to Resolve 'Google Hangouts Mic' Issues"
-date: 2025-02-05T20:46:14.021Z
-updated: 2025-02-12T16:52:34.824Z
+date: 2025-02-28T16:41:41.879Z
+updated: 2025-03-03T16:37:40.179Z
 tags:
   - win11
   - win10
@@ -25,23 +25,11 @@ Before you try the solutions below, please check these several things as it can 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17b93b12398.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click on it to turn it to ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17b9647cefb.png) . If you make sure your microphone is connect properly to your computer and it’s turned on correctly, but your microphone still doesn’t work, try the following methods.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Restart your computer
 
 Sometimes, a simple restart can solve a lot computer woes. When you find your microphone stops working on Hangouts, you can also give the simple restart a shot. 1) Restart your computer from the Start menu. 2) Call the person on Hangouts again to see if he can hear you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Update your microphone and other related driver
 
@@ -51,17 +39,9 @@ Your microphone not working issue can be probably caused by an old, corrupted or
 
 4) Restart your computer and call the person on Hangouts again to see if he can hear you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3: Close other programs those might use your microphone
 
  If there are some other programs running on your computer when you’re on Google Hangouts, the other programs might be using your microphone, too. As a result, your microphone doesn’t function on Hangouts. So, please stop all the other programs that might use your microphone, then check to see if the person can hear you on Hangouts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How if you can’t hear other people speaking?
 
@@ -84,18 +64,19 @@ If you can’t hear the other person on Hangouts call, ask the person to trouble
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-no-credit-calls-unlocking-free-tools-for-iphone-photo-blurring/"><u>[New] No Credit Calls Unlocking Free Tools for iPhone Photo Blurring</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-unboxing-gurus-toolkit-amplifying-video-likes-on-tiktok-for-2024/"><u>[New] The Unboxing Guru's Toolkit Amplifying Video Likes on TikTok for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-luts-simplified-your-guide-to-better-photos/"><u>[Updated] LUTs Simplified Your Guide to Better Photos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-master-the-art-of-livestreaming-three-key-approaches-subscriber-less-style/"><u>2024 Approved Master the Art of Livestreaming Three Key Approaches, Subscriber-Less Style</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-photo-visionaries-guide-unveiling-the-best-6-high-res-cameras/"><u>2024 Approved Photo Visionaries Guide Unveiling the Best 6 High-Res Cameras</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/aiff-mov-movavi/"><u>網路上自助無成本 AIFF 到 MOV 格式轉換 - 使用 Movavi 工具</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/advanced-techniques-for-boosting-pc-performance-a-yl-software-guide/"><u>Advanced Techniques for Boosting PC Performance: A YL Software Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/breeze-through-repairing-that-incessant-stalled-windows-update-issue/"><u>Breeze Through: Repairing That Incessant Stalled 'Windows Update' Issue</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-tecno-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Tecno FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo Y27 4G? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pinterest-vid-lifting-the-top-free-online-tools-list/"><u>In 2024, Pinterest Vid Lifting The Top Free, Online Tools List</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/podcasting-power-play-selecting-the-best-audio-interfaces-for-2024/"><u>Podcasting Power Play Selecting the Best Audio Interfaces for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-6-compelling-advantages-of-choosing-a-chromebook-over-other-laptops-insights-from-zdnet/"><u>Top 6 Compelling Advantages of Choosing a Chromebook Over Other Laptops: Insights From ZDNet</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leveraging-chromes-picture-in-picture-for-multi-screen-browsing/"><u>[New] Leveraging Chrome's Picture-In-Picture for Multi-Screen Browsing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-8-youtube-imagery-techniques-for-higher-engagement/"><u>[New] Top 8 YouTube Imagery Techniques for Higher Engagement</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sonic-kickstarts-curated-playlist-powerhouses/"><u>[Updated] Sonic Kickstarts Curated Playlist Powerhouses</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-best-free-count-down-timers/"><u>2024 Approved Best Free Count Down Timers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-photo-frames-leading-software-reviews/"><u>2024 Approved Mastering Photo Frames Leading Software Reviews</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spark-creativity-get-to-know-windows-11s-movie-maker-app/"><u>2024 Approved Spark Creativity Get to Know Windows 11'S Movie Maker App</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unveiling-wintv-magic-compre-written-guide-to-capturing-live-on-windows-pc/"><u>2024 Approved Unveiling WinTV Magic Compre Written Guide to Capturing Live on Windows PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-la-banca-popolare-dellemilia-romagna-streamlines-processes-using-abbyy-finereader-software/"><u>How La Banca Popolare Dell'Emilia Romagna Streamlines Processes Using ABBYY FineReader Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-voice-chat-glitches-in-sea-of-thieves-on-desktop-computers/"><u>How to Fix Voice Chat Glitches in Sea of Thieves on Desktop Computers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instantaneous-windows-document-reviewing/"><u>In 2024, Instantaneous Windows Document Reviewing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-strategy-for-integrating-linktree-in-tiktok-profiles/"><u>In 2024, Optimal Strategy for Integrating Linktree in TikTok Profiles</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-green-screen-software-for-mobile-top-picks-for-android-and-ios/"><u>New 2024 Approved Free Green Screen Software for Mobile Top Picks for Android and iOS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/popsocket-mounts-for-optimal-video-shooting-for-2024/"><u>PopSocket Mounts for Optimal Video Shooting for 2024</u></a></li>
 </ul></div>
 

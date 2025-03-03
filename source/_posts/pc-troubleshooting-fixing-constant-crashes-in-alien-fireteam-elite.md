@@ -1,7 +1,7 @@
 ---
 title: "PC Troubleshooting: Fixing Constant Crashes in Alien: Fireteam Elite"
-date: 2025-02-07T20:56:10.854Z
-updated: 2025-02-12T17:52:35.059Z
+date: 2025-02-27T16:08:51.641Z
+updated: 2025-03-03T16:01:20.467Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 ## Epic Games Launcher Troubleshooting: Fix Not Opening Issues Fast
 
 **Epic Games Launcher won’t open?** Don’t worry… Although it’s very frustrating, you’re not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: End the Epic Games Launcher process in Task Manager
 
  Make sure the Epic Games launcher is not running in the background. If it is, when you double-click its shortcut on your desktop, it won’t launch. So you need to end the processes related to Epic Games Launcher in Task Manager first. Here’s how to do it:
@@ -52,19 +44,11 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Run Epic Games Launcher to see if you’ve resolved this issue.
 
  If Epic Games Launcher still won’t launcher, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Launch Epic Games Launcher from Start Menu
 
@@ -73,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
  On your keyboard, press**the Windows logo key** and type**Epic Games Launcher** . In the list of search results, click**Epic Games Launcher** to run it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1048.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  See if you can launch the program. If so, you should delete its shortcut on your desktop and create a new one. If it still won’t launch, don’t worry. Try the next fix, below.
 
@@ -99,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/f4ca93c2e74735632031e3a4405d77d7b0983d414
  If not, congratulations! You’ve fixed this issue. If this issue persists, try the next fix to update your graphics driver.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -136,10 +112,6 @@ _You can do it for free if you like, but it’s partly manual._
  1) On your desktop,**right-click** on**the shortcut of Epic Games Launcher** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
 
@@ -197,10 +169,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Restart your computer.
 
 4) Download the installation package from[https://www.epicgames.com/store/en-US/download](https://www.epicgames.com/store/en-US/download) and install it on your computer.
@@ -229,24 +197,14 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-apexs-single-player-focus-how-to-optimize-your-game-experience/"><u>[New] Apex's Single Player Focus How to Optimize Your Game Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-upconversion-from-standard-definition-to-dynamic-range-extraordinaire/"><u>[New] Seamless Upconversion From Standard Definition to Dynamic Range Extraordinaire</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-videography-made-simple-efficient-recording-and-editing-in-adobe-connect/"><u>[New] Videography Made Simple Efficient Recording & Editing in Adobe Connect</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-expert-recommendations-the-finest-skype-recorders-of-2023/"><u>[Updated] Expert Recommendations The Finest Skype Recorders of 2023</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boosting-buzz-and-views-masterful-strategies-for-youtube-success/"><u>[Updated] In 2024, Boosting Buzz & Views Masterful Strategies for YouTube Success</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-combat-chronicles-in-the-ring-or-on-screen/"><u>[Updated] In 2024, Combat Chronicles In the Ring or on Screen?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamless-edits-navigating-photoshops-eraser-function/"><u>[Updated] Seamless Edits Navigating Photoshop’s Eraser Function</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-innovation-how-technology-shapes-industry-standards/"><u>2024 Approved SRT Innovation How Technology Shapes Industry Standards</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-powerdirector-a-compreran-review-and-tutorial/"><u>2024 Approved Unlocking PowerDirector A Compreran Review & Tutorial</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-y02t-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo Y02T</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-iphones-ultimate-strategy-for-seamless-podcast-downloading/"><u>In 2024, IPhone's Ultimate Strategy for Seamless Podcast Downloading</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-boundaries-in-video-photography-nikon-1j5/"><u>In 2024, Pushing Boundaries in Video Photography - Nikon 1J5</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-imagery-boundaries-mastering-ps-distortion-methods/"><u>In 2024, Pushing Imagery Boundaries Mastering PS Distortion Methods</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/investigating-magix-audio-mixer-mastery-for-2024/"><u>Investigating MAGIX Audio Mixer Mastery for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimal-webcam-solutions-for-audio-professionals-for-2024/"><u>Optimal Webcam Solutions for Audio Professionals for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/satirists-web-workshop-for-2024/"><u>Satirist's Web Workshop for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/silverleaf-studio-exploring-lightroom-substitutes-for-2024/"><u>Silverleaf Studio Exploring Lightroom Substitutes for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-sony-xperia-10-v-by-drfone-android/"><u>Three Ways to Sim Unlock Sony Xperia 10 V</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-from-external-to-inshot-your-tunes-transformation-guide/"><u>[New] In 2024, From External to InShot Your Tunes Transformation Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-isolated-audio-interruption-fixed-guide/"><u>[New] Isolated Audio Interruption Fixed Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-web-picks-for-stylish-3d-sparkling-text/"><u>[Updated] Prime Web Picks for Stylish 3D Sparkling Text</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quantum-quadrants-cinematic-frontiers/"><u>[Updated] Quantum Quadrants Cinematic Frontiers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-open-source-tranquil-harmony/"><u>2024 Approved Open Source Tranquil Harmony</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-facebook-profiles-versus-usernames-in-digital-spaces/"><u>Decoding Facebook Profiles Versus Usernames in Digital Spaces</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-google-pixel-8-easily-by-drfone-android/"><u>How To Unlock a Google Pixel 8 Easily?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-apple-iphone-6-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From Apple iPhone 6 - 4 Easy Ways</u></a></li>
 </ul></div>
 

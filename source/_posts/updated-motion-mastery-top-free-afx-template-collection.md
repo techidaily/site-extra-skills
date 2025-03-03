@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Motion Mastery  Top Free AFX Template Collection\""
-date: 2025-02-05T18:51:01.777Z
-updated: 2025-02-12T18:28:47.208Z
+date: 2025-02-24T16:00:18.305Z
+updated: 2025-03-03T16:19:56.638Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,6 @@ This is a relatively simple, but very effective title template that can be used 
 
 ![arrive ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/arrive-ae-title-tempalte.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Laser After Effects Title Templates
 
 Laser Titles template is the most ideal solution for retro-themed content. It is also one of the most customizable title templates that we have found. On top of being able to change the text color, there are also several unique 3D animations and effects to choose from.
@@ -67,19 +63,11 @@ This is another minimalistic title template that can be useful for just any vide
 
 ![black white ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/black-white-ae-title-tempalte.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Cyber Brush Titles After Effects Template
 
 This title template is a combination of cyberpunk designs and brush effects to create some of the most unique video titles you will ever see. Because it is so colorful, this title may not be ideal for most projects, but each of the 10 different titles that you will find in this bundle is fully customizable and comes with its unique typography and animations. These titles are ideal for YouTube or Instagram clips whose main aim is to generate engagement.
 
 ![cyber brush ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/cyber-brush-ae-title-tempalte.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Minimal Titles After Effects Templates
 
@@ -123,10 +111,6 @@ Step1 Start by creating a new composition and then go to the crosshair icon unde
 
 ![line title animation ae](https://images.wondershare.com/filmora/article-images/2022/07/line-title-animation-ae.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Click on the Text Tool and type in your title. You can use the “Character Window” on the right to change the font, size, and formatting for the video.
 
 **_2\. Adding A Shape Around the Title_**
@@ -162,10 +146,6 @@ Step1 Select all the layers that you have created so far and then go to “Layer
 Step2 Move the playhead to about 3 seconds and then click on “Edit” and select “Split Layer.” Delete the top Split Layer.”
 
 ![delete the top split layer](https://images.wondershare.com/filmora/article-images/2022/07/delete-the-top-split-layer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 Select the comp that is remaining and click on “Edit” to select “Duplicate.”
 
@@ -213,19 +193,11 @@ This is a relatively simple, but very effective title template that can be used 
 
 ![arrive ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/arrive-ae-title-tempalte.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Laser After Effects Title Templates
 
 Laser Titles template is the most ideal solution for retro-themed content. It is also one of the most customizable title templates that we have found. On top of being able to change the text color, there are also several unique 3D animations and effects to choose from.
 
 ![laser ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/laser-ae-title-tempalte.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Black & White After Effects Title Template
 
@@ -250,14 +222,6 @@ If your goal is to get the message across and you don’t want any colors or eff
 The complete opposite of the previous title template, the Masonry Title Template is the most ideal choice when your goal is to grab as much attention as you can. The unique 3D typography effect will make your title look like it has been carved out of stone and your target audience will not be able to look away. It is an ideal title for dramatic projects like documentaries and various movie genres.
 
 ![masonry ae title tempalte](https://images.wondershare.com/filmora/article-images/2022/07/masonry-ae-title-tempalte.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Glitch Titles- After Effects Title Templates
 
@@ -328,10 +292,6 @@ Step2 Move the playhead to about 3 seconds and then click on “Edit” and sele
 Step3 Select the comp that is remaining and click on “Edit” to select “Duplicate.”
 
 ![edit duplicate ae](https://images.wondershare.com/filmora/article-images/2022/07/edit-duplicate-ae.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4 Right-click on the duplicated layer and choose “Time” to select “Time Reverse Layer.”
 
@@ -381,20 +341,18 @@ Step4 You can then use the “Effects Window” to change the color as desired.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-pioneering-6-networks-supporting-business-development-for-2024/"><u>[New] Pioneering 6 Networks Supporting Business Development for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pro-camera-drones-10-elevating-film-and-photography/"><u>[New] Pro Camera Drones #10 Elevating Film & Photography</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-secure-video-sharing-youtube-to-gmail-with-google-access/"><u>[New] Unlocking Secure Video Sharing YouTube to Gmail with Google Access</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-for-inverting-screen-display-android/"><u>[Updated] Step-By Step for Inverting Screen Display Android</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-8-plus-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 8 Plus Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastery-over-smudge-effects-private-images-ps/"><u>In 2024, Mastery Over Smudge Effects Private Images PS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-photography-made-easy-select-top-writing-apps/"><u>In 2024, Photography Made Easy Select Top Writing Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-podcast-versus-visual-media-which-suits-your-content-best/"><u>In 2024, Podcast versus Visual Media Which Suits Your Content Best?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-professionals-picks-selecting-the-best-software-for-live-streamsvmix-or-wirecast/"><u>In 2024, Professionals' Picks Selecting the Best Software for Live Streams—VMix or Wirecast?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/iphone-picture-perfection-mastering-resolution-shifts-for-2024/"><u>IPhone Picture Perfection Mastering Resolution Shifts for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unpacking-the-irony-of-automation-when-artificnial-intelligence-spurs-more-work-not-less-zdnet-insights/"><u>Unpacking the Irony of Automation: When Artificnial Intelligence Spurs More Work, Not Less | ZDNET Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-the-mystery-why-does-chatgpt-fail-to-spot-text-it-generates/"><u>Unraveling the Mystery: Why Does ChatGPT Fail to Spot Text It Generates?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-how-to-optimally-utilize-a-creative-commons-license/"><u>[New] In 2024, How to Optimally Utilize a Creative Commons License</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-windows-media-player-for-cd-extraction-and-recordings/"><u>[New] Mastering Windows Media Player for CD Extraction and Recordings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-metaverse-or-omniverse-unpacking-the-digital-spheres/"><u>[New] Metaverse or Omniverse? Unpacking the Digital Spheres</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pushing-boundaries-merging-hdr-photos-with-lightroom/"><u>[New] Pushing Boundaries Merging HDR Photos with Lightroom</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-best-ways-to-document-smartphone-use/"><u>[Updated] 2024 Approved Best Ways to Document Smartphone Use</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-excellence-on-screen-the-top-15-in-stop-motion-cinema/"><u>[Updated] Excellence on Screen The Top 15 in Stop Motion Cinema</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-fix-for-sudden-audio-gaps-in-obs-captures-for-2024/"><u>[Updated] Fix for Sudden Audio Gaps in OBS Captures for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sonic-storytelling-with-soundtracks-in-imovie/"><u>[Updated] Sonic Storytelling with Soundtracks in iMovie</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-new-wave-for-sonys-s6700-blu-ray-player/"><u>2024 Approved New Wave for Sony's S6700 Blu-Ray Player</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-remedying-low-resolution-problems-in-youtube-media/"><u>2024 Approved Remedying Low-Resolution Problems in YouTube Media</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/activating-gpt-4s-capabilities-in-chatgpt-how-to-do-it-right-this-moment/"><u>Activating GPT-4's Capabilities in ChatGPT: How to Do It Right This Moment</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quintessential-scriptwriting-throughout-the-film-landscape/"><u>Quintessential Scriptwriting Throughout the Film Landscape</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrading-your-graphics-experience-simple-methods-to-update-gtx-1660-drivers/"><u>Upgrading Your Graphics Experience: Simple Methods to Update GTX 1660 Drivers</u></a></li>
 </ul></div>
 

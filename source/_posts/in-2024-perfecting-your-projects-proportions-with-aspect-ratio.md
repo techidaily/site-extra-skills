@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Perfecting Your Project's Proportions with Aspect Ratio"
-date: 2024-07-31T09:15:48.008Z
-updated: 2024-08-01T09:15:48.008Z
+date: 2025-03-01T16:33:02.372Z
+updated: 2025-03-03T16:02:31.645Z
 tags: 
   - screen-recording
   - ai video
@@ -24,17 +24,10 @@ If you want to learn more about video aspect ratios, how to apply them to differ
 
 With that said, let's dive right into it!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. What is a video aspect ratio?
 
 Aspect ratio is a digital image projection attribute describing the distance between the width and the height of an image. The dimensions are also defined as shapes such as a square which is 4:3\. A rectangle represents the 16:9 standard high definition aspect ratio, and inverted what you see on phones, that will be 9:16\. 9 refers to the width and 16 to the height.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 2\. Commonly used aspect ratios
 
 There is no same aspect ratio that is used across all social media platforms. Depending on which social media platform you are planning to upload, you have to make sure you have the correct aspect ratio for your target audience. The optimal viewing experience is what matters.
@@ -51,16 +44,10 @@ This resolution is originally used in older television screens, which transforme
 
 The 9:16 aspect ratio has become the mainstream resolution for smartphones for easier viewing of videos. This resolution allows for the vertical display of videos on tablets and phones, meaning that it allows videos to play while the device is being held in its upright position. This works ideally for Facebook, Instagram, Snapchat, YouTube Shorts, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### 21:9 Cinematic Widescreen
 
 The 21:9 resolution is designed for filming ultra-wide screen movies that gives the viewer a theater-like feeling. It's mostly used to display films and movies in anamorphic formats. Just like on ultra-wide monitors, it allows the video to be shown across the entire screen, giving you a cinema-like experience. This resolution contributes to a broader viewing experience in any shape or form.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 3\. Which aspect ratio should I choose?
 
 Depending on your project, broadcast location and filming options, here you can find an overview of which platforms are using which resolutions and how you can use that to improve your filming and viewer experience.
@@ -107,9 +94,6 @@ When talking about Instagram, which is very similar to Facebook, use these aspec
 
 9:16 for IGTV
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### TikTok
 
 Before Musical.ly users were migrated to a new platform called TikTok in 2018, it has been the leader on the board for a long time, and here are the recommended resolutions we think give the best results. Tik Tok allows you to share short videos, and is used by young people as an outlet to show their talents whether it's dancing, singing, cooking, comedy or any other form of entertainment they can express and use on the platform. There's also a feature to work together and collaborate with other Tik Tok creators across the globe.
@@ -124,9 +108,6 @@ Before Musical.ly users were migrated to a new platform called TikTok in 2018, i
 
 A very important point we'd like to mention is that we don't recommend changing the aspect ratio after filming, because it could harm the video quality and we think it's best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Black bars
 
 When editing your video, adding black bars is not changing the aspect ratio as you are just adding black bars to the screen. What we do recommend is cropping the video until you get the desired result. Adding black bars won't automatically make the platform adjust the video and it will affect the viewer experience.
@@ -135,9 +116,6 @@ When editing your video, adding black bars is not changing the aspect ratio as y
 
 Cropping your video will allow you to remove a section from your video, which works perfect for unwanted objects or people. While cropping the video, you are forced to pick the essential part of your video and disregard the rest of the video and to remove distraction from the frame.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 Having your video tested on multiple devices will allow you to see a preview of what the viewer will see and make necessary changes if needed. When your video looks perfect, you can be sure that it will give a seamless experience across all platforms, without the fear of losing video quality.
@@ -172,5 +150,19 @@ Having your video tested on multiple devices will allow you to see a preview of 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-dissecting-facebook-short-videos-a-comprehensive-overview/"><u>[New] In 2024, Dissecting Facebook Short Videos A Comprehensive Overview</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-transform-your-tiktok-footage-with-enlarged-characters/"><u>[New] In 2024, Transform Your TikTok Footage with Enlarged Characters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-learn-how-to-rewind-video-ordering-on-android/"><u>[New] Learn How to Rewind Video Ordering on Android</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-harnessing-your-cameras-power-for-live-online-content-on-personal-computers/"><u>[Updated] Harnessing Your Camera's Power for Live Online Content on Personal Computers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mobile-photography-mastering-dynamic-look-ups/"><u>[Updated] Mobile Photography Mastering Dynamic Look-Ups</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-serenity-through-stories-a-review-of-parent-driven-narrative-vids/"><u>[Updated] Serenity Through Stories A Review of Parent-Driven Narrative Vids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pioneering-audio-enhancement-for-compelling-visual-stories/"><u>2024 Approved Pioneering Audio Enhancement for Compelling Visual Stories</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/discovering-the-roots-of-visual-content-through-reverse-scans-fb-for-2024/"><u>Discovering the Roots of Visual Content Through Reverse Scans (FB) for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-chatgpt-streamlines-the-journey-of-crafting-your-story/"><u>How ChatGPT Streamlines the Journey of Crafting Your Story</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-itel-a60-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Itel A60 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-websites-for-acoustic-phone-alerts-for-2024/"><u>Leading Websites for Acoustic Phone Alerts for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/premium-hd-wallpaper-collections-for-the-acura-rsx-enthusiast-elevate-your-screensaver-experience-with-yl-softwares-expertise/"><u>Premium HD Wallpaper Collections for the Acura RSX Enthusiast – Elevate Your Screensaver Experience with YL Software's Expertise</u></a></li>
+</ul></div>
 

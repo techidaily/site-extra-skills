@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pushing Boundaries  Exploring iPhone X's Unique Lens Tech\""
-date: 2024-07-31T09:14:00.225Z
-updated: 2024-08-01T09:14:00.225Z
+date: 2025-02-26T16:34:13.142Z
+updated: 2025-03-03T16:16:39.848Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Part 2: The importance of depth
 
  With previous versions of the iPhone Plus, the depth maps were only used to blur backgrounds and make subjects pop against them. However, the iPhone X takes the depth information from the two lenses as well as the efficiency of the A11 Bionic chip to offer outstanding new special effects.
@@ -63,9 +59,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * Swipe or tap the cube icons above your shutter button to change the lighting effects if needed.
 * To take your photo, press the shutter button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
 ## Part 4: Video improvement
@@ -76,9 +69,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  There are many great reasons for investing in the iPhone X if you are interested in carrying a high-end camera around in your pocket. The phone is the smallest yet to feature two 12MP rear-facing cameras, with the updated telephoto lens also being a big draw for many. The lens has been optically stabilised and had its aperture boosted to f/2.4 from f/2.8\. The phone is now able to offer vastly superior performance in low-light conditions, with the sensor having been completely rebuilt and a brand new image signal processor offering stunning colours and textures. In fact, the phone is able to perform convincingly in low-light conditions even when there are multiple light sources competing.
@@ -104,25 +94,10 @@ Follow @Ollie Mattison
 * [Part 3: How to use portrait mode](#part3)
 * [Part 4: Video improvement](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: TrueDepth Camera
 
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: The importance of depth
 
  With previous versions of the iPhone Plus, the depth maps were only used to blur backgrounds and make subjects pop against them. However, the iPhone X takes the depth information from the two lenses as well as the efficiency of the A11 Bionic chip to offer outstanding new special effects.
@@ -145,14 +120,8 @@ Follow @Ollie Mattison
 * Swipe or tap the cube icons above your shutter button to change the lighting effects if needed.
 * To take your photo, press the shutter button.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Video improvement
 
  The iPhone X is also noted for its first-class video shooting capabilities, including its 4K video feature. Though previous iterations of the iPhone were already rather adept at shooting in 4K, the new devices are even more impressive and have been favourably compared to the GH5 in terms of quality and clarity. The new device has been complimented for its vibrant colour profile and its ability to deliver 4K video that matches a wide range of leading DSLR and mirrorless cameras. It’s possible to capture video in 240fps slo-mo at 1080p and 4K at 60fps.
@@ -167,9 +136,6 @@ Follow @Ollie Mattison
 
  The phone has also been praised for its wide range between light and dark colours. The Face ID function has proved to be incredibly secure, unlike earlier facial recognition systems which could easily be tricked by with the use of photographs or videos. It’s now possible to be more creative than ever with your iPhone’s camera whilst benefiting from a wealth of robust security features.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -193,18 +159,12 @@ Follow @Ollie Mattison
 
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Part 2: The importance of depth
 
  With previous versions of the iPhone Plus, the depth maps were only used to blur backgrounds and make subjects pop against them. However, the iPhone X takes the depth information from the two lenses as well as the efficiency of the A11 Bionic chip to offer outstanding new special effects.
 
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Part 3: How to use portrait mode
 
  Portrait mode uses your iPhone X’s telephoto lens kit to create images with “bokeh”-esque backgrounds and foregrounds. Portrait Lighting also comes as part of the Portrait Mode with the iPhone X, utilising both machine learning and the depth map of Portrait mode to add exceptional lighting effects to your photos in real time. When you shoot in Portrait mode, the wide-angle measures the difference between what it and the telephoto can see to offer a multi-point depth map. The depth map itself creates artificial depth of field.
@@ -221,38 +181,22 @@ Follow @Ollie Mattison
 * Swipe or tap the cube icons above your shutter button to change the lighting effects if needed.
 * To take your photo, press the shutter button.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Video improvement
 
  The iPhone X is also noted for its first-class video shooting capabilities, including its 4K video feature. Though previous iterations of the iPhone were already rather adept at shooting in 4K, the new devices are even more impressive and have been favourably compared to the GH5 in terms of quality and clarity. The new device has been complimented for its vibrant colour profile and its ability to deliver 4K video that matches a wide range of leading DSLR and mirrorless cameras. It’s possible to capture video in 240fps slo-mo at 1080p and 4K at 60fps.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![video improvement](https://images.wondershare.com/filmora/article-images/video-improvement.JPG)
 
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  There are many great reasons for investing in the iPhone X if you are interested in carrying a high-end camera around in your pocket. The phone is the smallest yet to feature two 12MP rear-facing cameras, with the updated telephoto lens also being a big draw for many. The lens has been optically stabilised and had its aperture boosted to f/2.4 from f/2.8\. The phone is now able to offer vastly superior performance in low-light conditions, with the sensor having been completely rebuilt and a brand new image signal processor offering stunning colours and textures. In fact, the phone is able to perform convincingly in low-light conditions even when there are multiple light sources competing.
 
  The phone has also been praised for its wide range between light and dark colours. The Face ID function has proved to be incredibly secure, unlike earlier facial recognition systems which could easily be tricked by with the use of photographs or videos. It’s now possible to be more creative than ever with your iPhone’s camera whilst benefiting from a wealth of robust security features.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -276,9 +220,6 @@ Follow @Ollie Mattison
 
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: The importance of depth
 
  With previous versions of the iPhone Plus, the depth maps were only used to blur backgrounds and make subjects pop against them. However, the iPhone X takes the depth information from the two lenses as well as the efficiency of the A11 Bionic chip to offer outstanding new special effects.
@@ -303,14 +244,6 @@ Follow @Ollie Mattison
 
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Part 4: Video improvement
 
  The iPhone X is also noted for its first-class video shooting capabilities, including its 4K video feature. Though previous iterations of the iPhone were already rather adept at shooting in 4K, the new devices are even more impressive and have been favourably compared to the GH5 in terms of quality and clarity. The new device has been complimented for its vibrant colour profile and its ability to deliver 4K video that matches a wide range of leading DSLR and mirrorless cameras. It’s possible to capture video in 240fps slo-mo at 1080p and 4K at 60fps.
@@ -355,5 +288,24 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-capture-selfie-snap-shots-with-vintage-iphone-x/"><u>[New] In 2024, Capture Selfie Snap Shots with Vintage iPhone X</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-cutting-edge-tools-for-igtv-content-creation-and-editing/"><u>[Updated] 2024 Approved Cutting-Edge Tools for IGTV Content Creation and Editing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-reclaiming-brightness-in-youtube-videos/"><u>[Updated] 2024 Approved Reclaiming Brightness in YouTube Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-metaverse-memetic-mastery-tips-for-aspiring-content-creators/"><u>[Updated] Metaverse Memetic Mastery Tips for Aspiring Content Creators</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-methods-for-subtle-volume-reduction-in-fl-studio/"><u>[Updated] Methods for Subtle Volume Reduction in FL Studio</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-virtual-meetings-tips-for-effectively-using-zoom-in-emails/"><u>[Updated] Navigating Virtual Meetings Tips for Effectively Using Zoom in Emails</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quieting-beats-step-by-step/"><u>[Updated] Quieting Beats Step-by-Step</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-macos-sierra-tools-for-video-changeovers/"><u>2024 Approved Premier macOS Sierra Tools for Video Changeovers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simple-win-steps-for-fishy-sounds-alteration/"><u>2024 Approved Simple Win Steps for Fishy Sounds Alteration</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-of-the-web-free-online-video-editors-ranked-for-2024/"><u>Best of the Web Free Online Video Editors Ranked for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/genuine-testimonials-and-evaluations-of-malwarefox-anti-malware-suite-by-paid-users/"><u>Genuine Testimonials and Evaluations of MalwareFox Anti-Malware Suite by Paid Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-insight-into-excellence-a-detailed-guide-to-mastering-vivacut-editing/"><u>In 2024, Insight Into Excellence A Detailed Guide to Mastering VivaCut Editing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-techniques-converting-visual-content-on-pinterest-to-mp3s/"><u>In 2024, Prime Techniques Converting Visual Content on Pinterest To MP3s</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-techniques-for-seamless-image-to-pdf-conversion-for-2024/"><u>IPhone Techniques for Seamless Image-to-PDF Conversion for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sdr-evolution-into-hdri-the-ultimate-video-enhancers-handbook-for-2024/"><u>SDR Evolution Into HDRI The Ultimate Video Enhancer's Handbook for 2024</u></a></li>
+</ul></div>
 

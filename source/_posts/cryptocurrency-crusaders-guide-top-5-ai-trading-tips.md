@@ -1,7 +1,7 @@
 ---
 title: "Cryptocurrency Crusaders' Guide: Top 5 AI Trading Tips"
-date: 2025-02-05T20:20:20.904Z
-updated: 2025-02-12T16:20:41.996Z
+date: 2025-03-02T16:33:20.785Z
+updated: 2025-03-03T16:10:43.093Z
 tags:
   - chatgpt
   - open-ai
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  Here’s a list of malicious ChatGPT-themed domains and apps that you need to be aware of.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. chat-gpt-pc.online
 
  Security researchers at Cyble Research and Intelligence Labs (CRIL) uncovered cybercriminals using the domain "chat-gpt-pc.online" to attract unsuspecting users into downloading a supposed ChatGPT Windows desktop client. This client, however, contained the RedLine [info-stealing malware](https://www.makeuseof.com/what-is-an-infostealer/).
@@ -47,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
@@ -65,27 +57,15 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -124,20 +104,20 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-best-practices-for-vlc-video-capturing/"><u>[New] 2024 Approved Best Practices for VLC Video Capturing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-photographic-standouts-with-our-top-10-grid-picks-for-2024/"><u>[New] Photographic Standouts with Our Top 10 Grid Picks for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-rapid-renderings-the-win10-way-to-work-wonders-on-images-quickly/"><u>[New] Rapid Renderings The Win10 Way to Work Wonders on Images Quickly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-secure-image-privacy-with-blur-features/"><u>[New] Secure Image Privacy with Blur Features</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-boosting-engagement-editing-for-perfect-video-titles-and-descriptions-for-2024/"><u>[Updated] Boosting Engagement Editing for Perfect Video Titles & Descriptions for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-expert-free-fb-image-creator-no-fee-for-2024/"><u>[Updated] Expert Free FB Image Creator (No Fee) for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-light-up-dull-iphone-videos-in-seconds/"><u>[Updated] Light Up Dull Iphone Videos in Seconds</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-resolution-showdown-gopro-vs-polaroids-editing-experience/"><u>2024 Approved Resolution Showdown GoPro Vs. Polaroid's Editing Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-up-your-auditory-game-how-to-add-ringtones-and-sounds-that-stand-out-on-android/"><u>2024 Approved Step Up Your Auditory Game How to Add Ringtones & Sounds that Stand Out on Android</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-realme-v30-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme V30 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/hilarious-highlights-reddit-and-twitters-best-bits/"><u>Hilarious Highlights Reddit and Twitter's Best Bits</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-master-guide-for-selecting-tiktok-wallpapers/"><u>In 2024, Master Guide for Selecting TikTok Wallpapers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-switching-spotify-playlists-transferring-to-youtube-music-format/"><u>In 2024, Switching Spotify Playlists Transferring to YouTube Music Format</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/seamless-system-sharing-quick-and-effective-techniques-for-transferring-files-for-2024/"><u>Seamless System Sharing Quick and Effective Techniques for Transferring Files for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-windows-11-creators-update-and-missing-webcam-detected-by-logitech-brio-heres-help-156-chars/"><u>Troubleshooting Windows 11 Creators Update & Missing Webcam Detected by Logitech Brio? Here's Help! (156 Chars)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-secrets-to-prolonging-gopros-energy-capacity/"><u>[New] Secrets to Prolonging GoPro's Energy Capacity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-to-effortless-telegram-web-use/"><u>[New] Step-by-Step Guide to Effortless Telegram Web Use</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-video-editing-made-easy-how-to-proficiently-use-movie-maker-in-win11/"><u>[Updated] In 2024, Video Editing Made Easy How to Proficiently Use Movie Maker in Win11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-innovative-cloud-storage-solutions-mematic-app/"><u>[Updated] Innovative Cloud Storage Solutions Mematic App</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-key-industry-figures-transforming-vr-gaming/"><u>[Updated] Key Industry Figures Transforming VR Gaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-select-top-6-slideshow-creation-software-for-x-models/"><u>[Updated] Select Top 6 Slideshow Creation Software for X Models</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-recording-live-videos-on-periscope-with-maximum-quality/"><u>2024 Approved Recording Live Videos on Periscope with Maximum Quality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-speaking-directly-to-text-mastering-the-art-of-voice-to-text-ms-word/"><u>2024 Approved Speaking Directly to Text Mastering the Art of Voice-to-Text (MS Word)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-poco-x6-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-inbox-management-skills-a-guide-to-creating-smart-filters-and-handling-additional-contact-information-on-gmail/"><u>Elevate Your Inbox Management Skills: A Guide to Creating Smart Filters and Handling Additional Contact Information on Gmail</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/harmonizing-wireless-channels-the-ultimate-guide-to-linking-different-bluetooth-speakers-to-just-one-device/"><u>Harmonizing Wireless Channels: The Ultimate Guide to Linking Different Bluetooth Speakers to Just One Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-recurring-freezes-and-crashes-on-insurgency-sandstorm-after-patch/"><u>How to Resolve Recurring Freezes and Crashes on Insurgency: Sandstorm After Patch?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-a2-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi A2 by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-filmmakers-dilemma-in-filmora-for-2024/"><u>Navigating the Filmmaker's Dilemma in Filmora for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-slow-and-steady-wins-the-game-mastering-slow-motion-in-windows-live-movie-maker/"><u>Updated In 2024, Slow and Steady Wins the Game Mastering Slow Motion in Windows Live Movie Maker</u></a></li>
 </ul></div>
 

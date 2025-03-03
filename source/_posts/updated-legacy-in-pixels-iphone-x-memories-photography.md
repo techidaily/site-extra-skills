@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Legacy in Pixels  IPhone X Memories Photography\""
-date: 2025-02-09T19:12:35.337Z
-updated: 2025-02-12T20:44:41.820Z
+date: 2025-02-26T16:22:10.871Z
+updated: 2025-03-03T16:08:18.793Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,6 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### For iPhone 7 Plus/8 Plus/X users
 
  **Using the Portrait Mode on an iPhone**
@@ -49,10 +45,6 @@ However, the Portrait Mode is only featured on iOS 10.1 or some more recent vers
 
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Image resource: 9to5mac
 
 Portrait mode enables you to set the timer, turn off the flash or apply photo filters, but it doesn't allow its users to create live photos. When using this mode you only have to apply basic photography rules, like don't point your camera in the direction from which the light is coming from and do your best to get within a reasonable distance from the subject of your photos. If you decide to take photos in this mode indoors, you may get slightly underwhelming results because it still doesn't perform great in low-light conditions.
@@ -62,10 +54,6 @@ Portrait mode enables you to set the timer, turn off the flash or apply photo fi
 The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera system. Unlike the rear camera system, the front-facing camera doesn't have multiple physical camera lenses; instead, it uses sensors from the TrueDepth system to measure a precise depth map.
 
 ![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image resource: imore
 
@@ -93,10 +81,6 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
 #### [Bokeh Lens](https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8)
@@ -121,10 +105,6 @@ The plethora of blur options provided by the Defocus camera app is impressive. D
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -140,18 +120,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-how-to-facetime-on-android-easily/"><u>[Updated] 2024 Approved How To Facetime on Android Easily</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-record-ps4-with-obs/"><u>[Updated] How To Record PS4 with OBS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-precision-protests-unveiling-the-difference-between-hero5-black-and-session/"><u>[Updated] Precision Protests Unveiling the Difference Between Hero5 Black and Session</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-smart-picks-user-friendly-bd-software-for-pc-and-mac/"><u>[Updated] Smart Picks User-Friendly BD Software for PC and Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pursuing-passion-professionally-a-guide-for-aspiring-designers/"><u>2024 Approved Pursuing Passion Professionally A Guide for Aspiring Designers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ing-video-content-monetization-success/"><u>Auditing Video Content Monetization Success</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-insufficient-privileges-for-app-updates-on-windows-oses/"><u>Bypassing Insufficient Privileges for App Updates on Windows OSes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-maximizing-engagement-with-effective-endorsement-footage/"><u>In 2024, Maximizing Engagement with Effective Endorsement Footage</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-reviving-photo-viewer-on-win-11-methods-explained/"><u>In 2024, Reviving Photo Viewer on Win 11 - Methods Explained</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-step-by-step-guide-for-ios-users-jpgpng-to-pdf-transformation/"><u>In 2024, Step-by-Step Guide for iOS Users JPG/PNG to PDF Transformation</u></a></li>
-<li><a href="https://media-tips.techidaily.com/stuck-with-choices-in-your-streaming-library-discover-our-top-recommendations/"><u>Stuck with Choices in Your Streaming Library? Discover Our Top Recommendations!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-11-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 11 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-crafting-engaging-full-degree-footage-with-adobe-premieres-state-of-the-art-tools/"><u>[New] In 2024, Crafting Engaging Full Degree Footage with Adobe Premiere's State-of-the-Art Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-proart-pa-329q-a-review-of-asuss-leading-edge-4k-monitoring-technology/"><u>[Updated] ProArt PA 329Q A Review of Asus's Leading-Edge 4K Monitoring Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/download-the-best-no-cost-dvd-creator-for-windows-11-detailed-analysis-and-complete-user-manual-guide/"><u>Download the Best No-Cost DVD Creator for Windows 11 - Detailed Analysis and Complete User Manual Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-vivo-y200e-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Vivo Y200e 5G FRP</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-v27-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo V27 Pro Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-netflix-picture-in-picture-how-to-use-the-netflix-floating-window-feature/"><u>In 2024, Netflix Picture-in-Picture - How to Use the Netflix Floating Window Feature</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-simplifying-color-grading-a-comprehensive-look-at-luts/"><u>In 2024, Simplifying Color Grading A Comprehensive Look at LUTs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-backdrop-recommendations-for-2024/"><u>Premier Backdrop Recommendations for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-reno-8t-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Oppo Reno 8T Device</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unveiling-the-most-economical-cloud-stores/"><u>Unveiling the Most Economical Cloud Stores</u></a></li>
 </ul></div>
 

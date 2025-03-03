@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Smart Strategies for Utilizing B-Roll Footage Effectively\""
-date: 2024-07-31T09:16:09.241Z
-updated: 2024-08-01T09:16:09.241Z
+date: 2025-03-02T16:21:29.476Z
+updated: 2025-03-03T16:23:03.744Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 
 Now that we know that, let's dive in!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -35,9 +32,6 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -54,20 +48,10 @@ We'll examine the top 5 uses for B rolls across a variety of video genres and di
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
@@ -76,27 +60,12 @@ B roll footage can be used to tell a story that supports the narrative of your v
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
@@ -139,5 +108,19 @@ We sincerely hope that this post will be of use to you in making your films more
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-snapchat-selfie-aspect-ratios/"><u>[New] In 2024, Snapchat Selfie Aspect Ratios</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ways-to-deactivate-a-no-longer-required-linkedin-account-for-2024/"><u>[New] Ways to Deactivate a No Longer Required LinkedIn Account for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-screenplay-genius-weaving-compelling-narratives-and-dialogues/"><u>[Updated] In 2024, Screenplay Genius Weaving Compelling Narratives and Dialogues</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-insightful-analysis-of-magix-media-plug-ins/"><u>[Updated] Insightful Analysis of MAGIX Media Plug-Ins</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-slumber-series-evaluating-video-adaptations-of-literary-classics/"><u>[Updated] Slumber Series Evaluating Video Adaptations of Literary Classics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-to-pairing-your-camera-gimbal/"><u>[Updated] Step-by-Step Guide to Pairing Your Camera Gimbal</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-the-power-of-three-tiers-in-crafting-fb-ad-engaging-messages-for-2024/"><u>[Updated] Unveiling the Power of Three Tiers in Crafting FB Ad Engaging Messages for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/icrafts-new-b760m-motherboard-infused-with-pastel-hues-a-must-have-for-anime-fans/"><u>ICraft's New B760M Motherboard Infused with Pastel Hues: A Must-Have for Anime Fans</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-15-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone 15?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/instant-file-accessibility-syncing-from-pc-to-iphone-for-2024/"><u>Instant File Accessibility Syncing From PC to iPhone for 2024</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/solving-device-overheat-issues-expert-tips-from-yl-computings-tech-specialists/"><u>Solving Device Overheat Issues: Expert Tips From YL Computing's Tech Specialists</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-mfc71dll-errors-comprehensive-fixes-for-windows-users/"><u>Unraveling mfc71.dll Errors - Comprehensive Fixes for Windows Users</u></a></li>
+</ul></div>
 

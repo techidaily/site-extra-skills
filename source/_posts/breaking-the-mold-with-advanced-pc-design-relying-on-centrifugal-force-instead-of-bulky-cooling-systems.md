@@ -1,7 +1,7 @@
 ---
 title: "Breaking the Mold with Advanced PC Design: Relying on Centrifugal Force Instead of Bulky Cooling Systems"
-date: 2025-02-06T20:16:13.147Z
-updated: 2025-02-12T20:36:31.462Z
+date: 2025-02-24T16:40:39.951Z
+updated: 2025-03-03T16:33:09.573Z
 tags:
   - desktop
 categories:
@@ -30,10 +30,6 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  YouTuber RECNAS also has a minute-long YouTube video that highlights his Super Socket 7 motherboard and, subsequently, an AGP-to-PCI networking adapter. Since RECNAS wanted to repurpose this roughly late 90s-era Super Socket 7 motherboard as a[NAS](https://www.tomshardware.com/tag/nas) , he didn't want to be relegated to the slower, shared PCI bandwidth on the board.
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -64,22 +60,19 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-retracing-the-footsteps-in-facebooks-historical-content-stream/"><u>[New] 2024 Approved Retracing the Footsteps in Facebook’s Historical Content Stream</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-interactive-illusions-vr-storytelling/"><u>[Updated] Interactive Illusions VR Storytelling</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-proven-tips-and-tricks-to-nail-every-green-screen-scene/"><u>[Updated] Proven Tips and Tricks to Nail Every Green Screen Scene</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-subreddit-landscape-a-step-by-step-approach/"><u>2024 Approved Navigating the Subreddit Landscape A Step-by-Step Approach</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-standout-creators-elevating-vr-content-quality/"><u>2024 Approved Standout Creators Elevating VR Content Quality</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/impact-and-legacy-how-the-era-of-the-three-kingdoms-influenced-modern-chinese-history-insights-from-yl-computing/"><u>Impact and Legacy: How the Era of the Three Kingdoms Influenced Modern Chinese History - Insights From YL Computing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-2023s-finest-top-ps3-game-simulations-for-pc-users/"><u>In 2024, 2023'S Finest - Top PS3 Game Simulations for PC Users</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-bass-brilliance-recording-review/"><u>In 2024, Bass Brilliance Recording Review</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-elevating-impact-refined-techniques-in-ppt-presentation-speaking/"><u>In 2024, Elevating Impact Refined Techniques in PPT Presentation Speaking</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sci-fis-virtual-cosmos-the-most-innovative-movies-of-the-metaverse-era/"><u>In 2024, Sci-Fi's Virtual Cosmos The Most Innovative Movies of the Metaverse Era</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-snowball-rally-highlights-from-the-beijing-games-2022/"><u>In 2024, Snowball Rally Highlights From the Beijing Games, 2022</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-world-of-live-periscope-streaming-for-2024/"><u>Navigating the World of Live Periscope Streaming for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/outlining-operational-offshoots-for-2024/"><u>Outlining Operational Offshoots for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/re-aligning-windows-11-writable-interface-keyboard-and-touch-panel/"><u>Re-Aligning Windows 11' Writable Interface: Keyboard & Touch Panel</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sierras-icloud-drive-essentials-for-seamless-workflows-for-2024/"><u>Sierra’s iCloud Drive Essentials for Seamless Workflows for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-persistent-usb-connection-issues/"><u>Ultimate Guide: Solving Persistent USB Connection Issues</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-t6-dslr-budget-photography-powerhouse/"><u>Unveiling the T6 DSLR: Budget Photography Powerhouse</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplifying-audio-transcription-insights-into-azures-speech-recognition/"><u>[New] Simplifying Audio Transcription Insights Into Azure's Speech Recognition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-windows-11-simplified-video-cutting-tips-and-tricks/"><u>[New] Windows 11 Simplified Video Cutting Tips & Tricks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebook-live-streaming-techniques-on-mobile/"><u>2024 Approved Facebook Live Streaming Techniques on Mobile</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-offerings-best-devices-for-hd-video-processing/"><u>2024 Approved Optimal Offerings Best Devices for HD Video Processing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-periscope-recording-for-beginners-a-complete-walkthrough/"><u>2024 Approved Periscope Recording for Beginners A Complete Walkthrough</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-premium-12-video-capture-apps-no-time-limit/"><u>2024 Approved Premium 12 Video Capture Apps, No Time Limit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/embrace-mematic-your-personal-digital-diary/"><u>Embrace Mematic Your Personal Digital Diary</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/engineering-an-emotional-movie-segment-for-2024/"><u>Engineering an Emotional Movie Segment for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterclass-6-techniques-for-clear-unblemished-photo-edits/"><u>In 2024, Masterclass 6 Techniques for Clear, Unblemished Photo Edits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-pip-feature-in-microsoft-edge/"><u>In 2024, Mastering PIP Feature in Microsoft Edge</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pixelated-panoramas-the-top-10-sites-to-download-laps-wallpapers-online/"><u>In 2024, Pixelated Panoramas The Top 10 Sites to Download Laps Wallpapers Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-unexpected-sounds-and-audio-issues-on-windows-systems-with-ease/"><u>Resolving Unexpected Sounds & Audio Issues on Windows Systems with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unresponsive-discord-game-status-in-windows/"><u>Troubleshooting Unresponsive Discord Game Status in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-control-over-mouse-dynamics-in-windows/"><u>Unleashing Control Over Mouse Dynamics in Windows</u></a></li>
 </ul></div>
 

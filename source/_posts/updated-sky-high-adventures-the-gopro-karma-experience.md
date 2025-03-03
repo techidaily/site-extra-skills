@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sky-High Adventures  The GoPro Karma Experience\""
-date: 2025-02-08T17:50:22.231Z
-updated: 2025-02-12T16:00:36.971Z
+date: 2025-02-24T16:08:44.031Z
+updated: 2025-03-03T16:05:02.216Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 
  Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Pros and cons of GoPro Karma
 
 **Pros**
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 **Verdict**
 
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Detailed review for GoPro Karma
 
@@ -95,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
 
 #### Conclusion
@@ -106,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -126,19 +110,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-visibility-with-youtube-branding-techniques/"><u>[New] 2024 Approved Elevate Your Visibility with YouTube Branding Techniques</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-getting-it-just-right-the-art-of-social-media-video-dimensions/"><u>[New] 2024 Approved Getting It Just Right The Art of Social Media Video Dimensions</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-professional-iphone-cinematography-learn-and-apply-top-8-insights/"><u>[New] In 2024, Professional iPhone Cinematography Learn and Apply Top 8 Insights</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/astering-outro-techniques-for-videos-for-2024/"><u>[New] Mastering Outro Techniques for Videos for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pushing-boundaries-adobes-recommended-lut-list-for-creative-professionals/"><u>[New] Pushing Boundaries Adobe's Recommended LUT List for Creative Professionals</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unleash-your-brands-potential-on-igtv-with-these-top-10-tactics/"><u>[New] Unleash Your Brand’s Potential on IGTV with These Top 10 Tactics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pro-video-production-mastering-the-coordination-between-windows-photos-and-storyremix/"><u>[Updated] Pro Video Production Mastering the Coordination Between Windows, Photos, and StoryRemix</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionary-subtitle-software-choose-the-leading-10-web-apps/"><u>2024 Approved Revolutionary Subtitle Software - Choose the Leading 10 Web Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-spark-your-creativity-with-these-free-tools/"><u>2024 Approved Spark Your Creativity with These Free Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-year-ahead-exploring-instagrams-innovative-filters/"><u>2024 Approved The Year Ahead Exploring Instagram's Innovative Filters</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/discover-who-we-are-a-closer-look-at-our-team-and-mission/"><u>Discover Who We Are: A Closer Look at Our Team and Mission</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-subtitle-craft-with-the-best-online-resources-today-for-2024/"><u>Mastering Subtitle Craft with The Best Online Resources Today for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-ais-impact-on-authenticity-in-writing/"><u>Navigating AI's Impact on Authenticity in Writing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/refining-your-tiktok-profile-age-with-ease-for-2024/"><u>Refining Your TikTok Profile Age with Ease for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-vision-to-reality-benqs-masterpiece-the-bl2711u-monitor-review/"><u>[New] From Vision to Reality BenQ’s Masterpiece, the BL2711U Monitor Review</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-building-a-studio-quality-setup-at-home/"><u>[Updated] In 2024, Building a Studio-Quality Setup at Home</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-instantaneous-aspect-alteration-for-visual-content/"><u>[Updated] Instantaneous Aspect Alteration for Visual Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-access-to-xps-movie-making-tools/"><u>[Updated] Quick Access to XP's Movie Making Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-tools-for-efficiently-converting-xmlssattml-to-srt/"><u>Advanced Tools for Efficiently Converting XML/SSA/TTML to SRT</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-microscopic-views-in-microsoft-teams-chat/"><u>In 2024, Mastering the Microscopic Views in Microsoft Teams Chat</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premiere-pro-starter-pack-2023-edition-free/"><u>In 2024, Premiere Pro Starter Pack - 2023 Edition (Free)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solving-common-problems-with-the-realtek-universal-chipset-drivers/"><u>Solving Common Problems with the Realtek Universal Chipset Drivers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/speedy-photo-editing-tips-for-windows-11-users-for-2024/"><u>Speedy Photo Editing Tips for Windows 11 Users for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-swiftly-improving-synaptics-ps2-trackpad-performance-via-drivers/"><u>Step-by-Step Tutorial on Swiftly Improving Synaptics PS/2 Trackpad Performance via Drivers</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ultimate-ssd-maintenance-software-enhance-your-solid-state-drive-performance/"><u>Ultimate SSD Maintenance Software: Enhance Your Solid State Drive Performance</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-michael-kors-gen-5e-mkgo-a-symbiosis-of-elegance-and-wisdom-in-style/"><u>Unveiling the Michael Kors Gen 5E MKGO: A Symbiosis of Elegance & Wisdom in Style</u></a></li>
+<li><a href="https://techidaily.com/wireless-playstation-4-controllers-setup-made-simple/"><u>Wireless Playstation 4 Controllers Setup Made Simple</u></a></li>
 </ul></div>
 

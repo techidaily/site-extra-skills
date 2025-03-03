@@ -1,7 +1,7 @@
 ---
 title: "[New] Prime Cameras for Extreme Pursuits"
-date: 2025-02-08T17:19:40.167Z
-updated: 2025-02-12T20:51:28.833Z
+date: 2025-02-27T16:38:53.639Z
+updated: 2025-03-03T16:08:06.495Z
 tags: 
   - screen-recording
   - ai video
@@ -76,19 +76,11 @@ With 3 axis type optical stabilization, built in GPS, waterproof casing and live
 
 ![Elmo QBIC MS-1](https://images.wondershare.com/filmora/article-images/elmo-qbic-ms-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Here is a water resistant type wide angle camera unit that can be easily paired up with smart phones using Wi-Fi interface. It is a light weight device that offers 1080p video recording along with 5MP picture clarity and you can store huge data with its 64GB microSD card support. This camera offers wide angle view of 185 degrees and you can easily upload your footage to internet via live SD streaming feature.
 
 #### 4\. Drift Compass - $129.99
 
 ![Drift Compass](https://images.wondershare.com/filmora/article-images/Drift-Compass.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 With this camera you can captures stills at 8MP clarity and videos can be recorded with 1080p at 30fps whereas for 720p you can go ahead with 60fps. You can control complete functioning of camera via mobile device with the help of drift app. It battery can serve you for approximately two hours and it offers huge variety of mounting accessories.
 
@@ -118,10 +110,6 @@ Cube+ offers wide angle focus with 124 degree coverage lens and the magnetic bod
 
 ![Panasonic HX-A1](https://images.wondershare.com/filmora/article-images/bullet-shape-action-camera.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Its maximum weight is only about 1.6 ounce and size goes up to 3.3”. This versatile camera unit can capture videos at 1080p whereas waterproof and quad proof design allows divers to take this camera up to 5’ under water without any additional casing. You can easily mount Panasonic HX-A1 on board, bike and helmet while capturing everything in hands-free motion on the way.
 
 #### 9\. Narrative Clip - $199
@@ -133,10 +121,6 @@ The Clip 2 is one of the ultra compact and portable camera units with very light
 #### 10\. HTC RE Camera - $129
 
 ![HTC RE Camera](https://images.wondershare.com/filmora/article-images/htc-re.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 It offers 16MP capabilities for stills along with 1080p at 30fps for videos. You can mount this camera on tripod and its creative shot capturing abilities allows users to go beyond imagination. This device is waterproof with 3.3’ rating and for more advanced controls you can operate it from Bluetooth, WI-Fi connectivity on android and iOS. The mounting accessories are offered by HTC separately as per need of user, you can easily buy them when it is time to be more adventurous with your videos.
 
@@ -264,10 +248,6 @@ Follow @Max Wales
 
 If you are crazy enough to capture all exciting moments of your life but without using your hands for this task then you definitely need to buy a wearable action camera. It allows users to record everything in while keeping their hands free and the best part is that most of these are designed with outstanding qualities like water resistant, shockproof, freeze resistant and many more. Some of these can also be controlled via voice commands or remote applications hence they serve like best tool for athletes, professionals and beginner photographers. The wearable cameras can be clipped to almost all kind of surfaces; you can attach them to helmet, hat, harness, belt, T-shirt and even on your pets.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What to look for while buying a wearable action camera
 
 Now you must be well aware of the fact that a wearable camera can help you enjoy your lifestyle in unique way and it can record everything for you on the go. But if you are new to camera world and are confused while making decision after watching so many competitive brands then it is good to make a list about what you must look for while buying an action camera. Below are few important features that your camera must have:
@@ -362,17 +342,9 @@ The Clip 2 is one of the ultra compact and portable camera units with very light
 
 ![HTC RE Camera](https://images.wondershare.com/filmora/article-images/htc-re.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 It offers 16MP capabilities for stills along with 1080p at 30fps for videos. You can mount this camera on tripod and its creative shot capturing abilities allows users to go beyond imagination. This device is waterproof with 3.3’ rating and for more advanced controls you can operate it from Bluetooth, WI-Fi connectivity on android and iOS. The mounting accessories are offered by HTC separately as per need of user, you can easily buy them when it is time to be more adventurous with your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -385,10 +357,6 @@ Follow @Max Wales
  Mar 27, 2024• Proven solutions
 
 If you are crazy enough to capture all exciting moments of your life but without using your hands for this task then you definitely need to buy a wearable action camera. It allows users to record everything in while keeping their hands free and the best part is that most of these are designed with outstanding qualities like water resistant, shockproof, freeze resistant and many more. Some of these can also be controlled via voice commands or remote applications hence they serve like best tool for athletes, professionals and beginner photographers. The wearable cameras can be clipped to almost all kind of surfaces; you can attach them to helmet, hat, harness, belt, T-shirt and even on your pets.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What to look for while buying a wearable action camera
 
@@ -429,10 +397,6 @@ This small attractive camera unit can capture amazing videos and photos for you.
 #### 2\. Garmin Virb Ultra 30 - $399.99
 
 ![Garmin Virb Ultra 30](https://images.wondershare.com/filmora/article-images/garmin-virb-ultra-30-design.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01HP4PMG0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HP4PMG0&linkId=2d8e1fcac7b9bbfc3231133dd50646c8)
 
@@ -475,10 +439,6 @@ Cube+ offers wide angle focus with 124 degree coverage lens and the magnetic bod
 #### 8\. Panasonic HX-A1 - $199
 
 ![Panasonic HX-A1](https://images.wondershare.com/filmora/article-images/bullet-shape-action-camera.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Its maximum weight is only about 1.6 ounce and size goes up to 3.3”. This versatile camera unit can capture videos at 1080p whereas waterproof and quad proof design allows divers to take this camera up to 5’ under water without any additional casing. You can easily mount Panasonic HX-A1 on board, bike and helmet while capturing everything in hands-free motion on the way.
 
@@ -526,21 +486,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-crafting-visual-stories-in-minutes-using-windows-8-movie-maker/"><u>[New] Crafting Visual Stories in Minutes Using Window's 8 Movie Maker</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-instant-signature-background-erasure-techniques/"><u>[New] Instant Signature Background Erasure Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-prime-choices-of-affordable-cameras-with-full-hd/"><u>[New] Prime Choices of Affordable Cameras with Full HD</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-prime-unlimited-space-service-catalogue/"><u>[New] Prime Unlimited Space Service Catalogue</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-transform-your-fb-advertising-simplify-with-a-free-toolkit/"><u>[New] Transform Your FB Advertising Simplify with a Free Toolkit</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-which-is-the-top-screener-bandicam-or-camtasia/"><u>[Updated] In 2024, Which Is the Top Screener? - Bandicam Or Camtasia</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quickening-speed-of-slide-show-media-playback/"><u>2024 Approved Quickening Speed of Slide Show Media Playback</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-f34-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy F34 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-poco-c65-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Others devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastery-levels-explained-for-google-photos-users/"><u>In 2024, Mastery Levels Explained for Google Photos Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premier-windows-8-audio-shows/"><u>In 2024, Premier Windows 8 Audio Shows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-proven-strategies-for-premium-picture-acquisition-gratis/"><u>In 2024, Proven Strategies for Premium Picture Acquisition Gratis</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-scouting-the-best-cameras-for-aspiring-muso-videographers/"><u>In 2024, Scouting the Best Cameras for Aspiring Muso Videographers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-visual-effects-a-detailed-kinemaster-green-screen-tutorial-for-2024/"><u>Mastering Visual Effects A Detailed Kinemaster Green Screen Tutorial for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-tutorial-securely-saving-files-with-reliable-backup-methods-in-various-windows-operating-systems-111087/"><u>Step-by-Step Tutorial: Securely Saving Files with Reliable Backup Methods in Various Windows Operating Systems (11/10/8/7)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-2023s-best-intro-editor-app-for-all-your-devices/"><u>[New] 2023’S Best Intro Editor App for All Your Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-5-windows-11-gaming-capture-techniques/"><u>[New] 2024 Approved Top 5 Windows 11 Gaming Capture Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-mp4-companies-to-watch/"><u>[New] Leading MP4 Companies to Watch</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fb-video-marketing-made-simple-free-toolkit-unlocks-potential/"><u>[Updated] FB Video Marketing Made Simple Free Toolkit Unlocks Potential</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-instagram-orchestra-capturing-harmony-on-social-media/"><u>[Updated] Instagram Orchestra Capturing Harmony on Social Media</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mastering-the-art-of-watermarking-on-facebook/"><u>[Updated] Mastering the Art of Watermarking on Facebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mkv-mastery-top-mac-apps/"><u>2024 Approved MKV Mastery Top Mac Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-silent-sounds-elegant-dimming-in-garageband-projects/"><u>2024 Approved Silent Sounds Elegant Dimming in Garageband Projects</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-high-performance-systems-with-toms-gear-breakdowns/"><u>Delving Into High-Performance Systems with Tom's Gear Breakdowns</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-cutting-edge-technology-through-toms-hardware-critiques/"><u>Discover Cutting-Edge Technology Through Tom's Hardware Critiques</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-poco-c51-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Poco C51 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-linking-giants-a-step-by-step-guide-to-merging-instagram-and-tiktok/"><u>In 2024, Linking Giants A Step-by-Step Guide to Merging Instagram and TikTok</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210867928-9780811741101-monsters-of-pennsylvania/"><u>Monsters of Pennsylvania | Free Book</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sharpen-focus-expert-tips-on-the-psx-eraser-tool-for-2024/"><u>Sharpen Focus Expert Tips on the PSX Eraser Tool for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1727784218115-top-kid-friendly-mobile-devices-a-comprehensive-guide-zdnet/"><u>Top Kid-Friendly Mobile Devices: A Comprehensive Guide (ZDNet)</u></a></li>
 </ul></div>
 

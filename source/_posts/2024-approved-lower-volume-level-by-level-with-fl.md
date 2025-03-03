@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Lower Volume Level by Level with FL\""
-date: 2024-07-31T09:15:34.180Z
-updated: 2024-08-01T09:15:34.180Z
+date: 2025-02-24T16:21:32.568Z
+updated: 2025-03-03T16:18:55.103Z
 tags: 
   - screen-recording
   - ai video
@@ -30,9 +30,6 @@ It can create new sounds through drum machines as a result you can show your cre
 
 Step1 The first and foremost task to do is the successful installation of FL Studio. Getting the latest version of this will be useful for you as it has a lot of new features.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![open fl studio](https://images.wondershare.com/filmora/article-images/2022/07/open-fl-studio.jpg)
 
 Step2 Open your FL Studio window on your pc or mac. Then, choose the right volume parameter for the creation of automation in your FL studio. You can do it using the mixer channel method.
@@ -45,9 +42,6 @@ After selecting that, there will be an addition of a new automation clip to the 
 
 Step4 Due to the automation clip, you will be able to do a smooth transition in and out of that song or audio. Now, you can create a suitable volume for fading your sound. If you want to create another new automation, then click on the right. After that click on the left and drag it.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. FL Studio Alternative to Fade Audio
 
 If you have the latest version of FL i.e., FL Studio 20, then it will allow you for multiple recordings. For this, you just have to build a looped region and then tap on ‘Record’. Now it will create new tracks of its own when it reaches the end region of the loop.
@@ -60,9 +54,6 @@ However, if you are looking forward to the alternative option for FL Studio, [Fi
 
 Step1 The first thing you have to do is successfully install the Filmora software on your pc or mac. Before fading audio, you should have some basic knowledge about the keyframes. After creating the audio keyframes, you will see an audio panel like the below surface.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
@@ -79,9 +70,6 @@ No matter which audio editing software, what matters is the learning outcome. Le
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
@@ -94,9 +82,6 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 Step1 The first thing you have to do is successfully install the Filmora software on your pc or mac. Before fading audio, you should have some basic knowledge about the keyframes. After creating the audio keyframes, you will see an audio panel like the below surface.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
@@ -107,27 +92,12 @@ Step3 If you want your audio to fade out, again go to the audio setting. Then dr
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Related FAQs of FL Studio Audio Editing
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
@@ -158,5 +128,21 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-15-best-stop-motion-films-of-all-time/"><u>[New] 2024 Approved 15 Best Stop Motion Films of All Time</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-avoid-boredom-learn-to-shuffle-youtube-lists/"><u>[New] In 2024, Avoid Boredom Learn to Shuffle YouTube Lists</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-snapseed-basics-your-first-steps-in-enhancing-images/"><u>[New] Snapseed Basics Your First Steps in Enhancing Images</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unlocking-clarity-fix-black-screens-on-youtube/"><u>[Updated] In 2024, Unlocking Clarity Fix Black Screens on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leveraging-pip-for-multitasking-in-edge-browser/"><u>[Updated] Leveraging PIP for Multitasking in Edge Browser</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-choosing-and-crafting-whatsapp-alerts/"><u>2024 Approved Mastering the Art of Choosing & Crafting WhatsApp Alerts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pajama-plots-and-prose-critical-review-of-childrens-videos/"><u>2024 Approved Pajama Plots and Prose Critical Review of Children's Videos</u></a></li>
+<li><a href="https://media-tips.techidaily.com/federal-subsidies-expire-comcast-introduces-30-broadband-package/"><u>Federal Subsidies Expire: Comcast Introduces $30 Broadband Package</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inspirational-slide-shows-10-best-places-to-download-them-for-free-for-2024/"><u>Inspirational Slide Shows 10 Best Places to Download Them For Free for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-avi-media-player-for-all-platforms-for-2024/"><u>Premier AVi Media Player for All Platforms for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/ssd4k/"><u>SSD向け4Kディスクアライメント調整方法：簡単な解析入門</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-effective-methods-for-restricting-website-access-on-your-android-device/"><u>Step-by-Step Guide: Effective Methods for Restricting Website Access on Your Android Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-photographic-vision-with-iphone-burst-shooting-for-2024/"><u>Transform Your Photographic Vision with iPhone Burst Shooting for 2024</u></a></li>
+</ul></div>
 

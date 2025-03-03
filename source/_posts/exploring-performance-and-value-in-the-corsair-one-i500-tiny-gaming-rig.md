@@ -1,7 +1,7 @@
 ---
 title: Exploring Performance & Value in the Corsair One I500 Tiny Gaming Rig
-date: 2025-02-08T16:05:31.954Z
-updated: 2025-02-12T17:03:51.940Z
+date: 2025-02-24T16:19:07.782Z
+updated: 2025-03-03T16:32:24.284Z
 tags:
   - desktop
 categories:
@@ -40,10 +40,6 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -56,17 +52,9 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Miniproca)
 
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Miniproca)
 
@@ -89,18 +77,15 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-your-guide-to-affordable-cloud-collaboration-top-10-software-recommendations/"><u>[New] 2024 Approved Your Guide to Affordable Cloud Collaboration Top 10 Software Recommendations</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-top-10-best-free-facetime-for-android-alternatives-for-2024/"><u>[Updated] Top 10 Best Free FaceTime for Android Alternatives for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-master-tips-securing-audio-for-unboxing-vids/"><u>2024 Approved Master Tips Securing Audio for Unboxing Vids</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/adobe-photoshop-shake-reduction-is-it-really-useful-in-2024/"><u>Adobe Photoshop Shake Reduction | Is It Really Useful, In 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-gpt-4-without-paying-top-4-free-strategies/"><u>Discovering GPT-4 Without Paying: Top 4 Free Strategies</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/future-of-storage-top-picks-and-prices-in-clouds-for-2024/"><u>Future of Storage Top Picks and Prices in Clouds for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-samsung-galaxy-s24-ultra-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Samsung Galaxy S24 Ultra Phones? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/memorable-moments-from-the-2022-skatescape-for-2024/"><u>Memorable Moments From the 2022 Skatescape for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premier-handsets-acknowledged-by-video-enthusiasts-for-2024/"><u>Premier Handsets Acknowledged by Video Enthusiasts for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/proven-techniques-for-locating-luxe-pexel-pictures-for-2024/"><u>Proven Techniques for Locating Luxe Pexel Pictures for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reduce-window-size-on-win-10-pc/"><u>Reduce Window Size on WIN 10 PC</u></a></li>
-<li><a href="https://fox-access.techidaily.com/refine-iphone-image-capture-specialized-filming-tools/"><u>Refine iPhone Image Capture Specialized Filming Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transformer-un-fichier-tiff-en-image-jpeg-gratuite-sur-internet-movavi/"><u>Transformer Un Fichier TIFF en Image JPEG Gratuite Sur Internet - Movavi</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-troubleshooting-why-arent-your-recommended-fb-videos-displayed/"><u>[New] 2024 Approved Troubleshooting Why Aren't Your Recommended FB Videos Displayed?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inter-device-image-sharing-expertise/"><u>[New] Inter-Device Image Sharing Expertise</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-echoes-in-motion-mac-for-sound-artists/"><u>[Updated] 2024 Approved Echoes in Motion Mac for Sound Artists</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfect-pan-and-tilt-for-clearer-captures/"><u>[Updated] Perfect Pan & Tilt for Clearer Captures</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professionals-drone-guide-top-5-recommendations-inside/"><u>2024 Approved Professionals’ Drone Guide - Top 5 Recommendations Inside</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-connectivity-adding-url-content-for-2024/"><u>Instagram Connectivity Adding URL Content for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/start-with-snapseed-a-foundation-for-image-editing-for-2024/"><u>Start with Snapseed A Foundation for Image Editing for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/step-by-step-dell-desktop-screen-capture-tutorial/"><u>Step-by-Step Dell Desktop Screen Capture Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-showdown-of-slates-assessing-quality-and-capabilities-between-android-tablets-and-ipads/"><u>The Showdown of Slates: Assessing Quality and Capabilities Between Android Tablets and iPads</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-best-of-both-worlds-free-and-paid-vlog-video-editing-software-compared/"><u>Updated The Best of Both Worlds Free and Paid Vlog Video Editing Software Compared</u></a></li>
 </ul></div>
 

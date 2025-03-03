@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Old World Wonders – iPhone X Portraits"
-date: 2025-02-11T16:17:47.586Z
-updated: 2025-02-12T19:38:03.666Z
+date: 2025-02-26T16:14:13.882Z
+updated: 2025-03-03T16:29:16.536Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,6 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### For iPhone 7 Plus/8 Plus/X users
 
  **Using the Portrait Mode on an iPhone**
@@ -49,10 +45,6 @@ However, the Portrait Mode is only featured on iOS 10.1 or some more recent vers
 
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Image resource: 9to5mac
 
 Portrait mode enables you to set the timer, turn off the flash or apply photo filters, but it doesn't allow its users to create live photos. When using this mode you only have to apply basic photography rules, like don't point your camera in the direction from which the light is coming from and do your best to get within a reasonable distance from the subject of your photos. If you decide to take photos in this mode indoors, you may get slightly underwhelming results because it still doesn't perform great in low-light conditions.
@@ -62,10 +54,6 @@ Portrait mode enables you to set the timer, turn off the flash or apply photo fi
 The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera system. Unlike the rear camera system, the front-facing camera doesn't have multiple physical camera lenses; instead, it uses sensors from the TrueDepth system to measure a precise depth map.
 
 ![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image resource: imore
 
@@ -103,10 +91,6 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
 #### [Defocus](https://itunes.apple.com/us/app/defocus/id1048310180?mt=8)
@@ -120,10 +104,6 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -140,22 +120,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-masterful-radial-blur-transformation-techniques-for-ps-users/"><u>[New] Masterful Radial Blur Transformation Techniques for PS Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-nine-superior-choices-for-live-streaming-now/"><u>[New] Nine Superior Choices for Live Streaming Now</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-all-you-need-to-know-about-google-docs-audio-to-text-functionality/"><u>[Updated] All You Need to Know About Google Docs Audio-to-Text Functionality</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamless-creativity-on-the-go-androidios-montages-top-8/"><u>[Updated] Seamless Creativity on the Go Android/iOS Montages Top 8</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamless-web-browsing-on-edge-with-picture-in-picture-mode/"><u>[Updated] Seamless Web Browsing on Edge with Picture-in-Picture Mode</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-aerial-excellence-with-optimal-motor-selections/"><u>2024 Approved Maximizing Aerial Excellence with Optimal Motor Selections</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/data-rescue-tactics-top-4-strategies-to-restore-deleted-files-in-windows-10/"><u>Data Rescue Tactics: Top 4 Strategies to Restore Deleted Files in Windows 10</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-review-unveiling-the-power-of-netgears-nighthawk-c7000-wireless-modem-capabilities/"><u>Expert Review: Unveiling the Power of Netgear's Nighthawk C7000 Wireless Modem Capabilities</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/free-film-resource-highlights-where-to-start-your-search/"><u>Free Film Resource Highlights Where to Start Your Search</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-detailed-hdr-tutorial-uncomplicated-approach/"><u>In 2024, Detailed HDR Tutorial Uncomplicated Approach</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-srt-creation-a-comprehensive-manual-and-tricks/"><u>In 2024, Mastering SRT Creation A Comprehensive Manual & Tricks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-web-video-for-crystal-clear-display/"><u>In 2024, Optimizing Web Video for Crystal Clear Display</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone 14 Pro Max</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-secrets-for-hiring-top-notch-video-professionals/"><u>In 2024, Secrets for Hiring Top-Notch Video Professionals</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-essential-qanda-on-quantum-hdr-technology/"><u>The Essential Q&A on Quantum HDR Technology</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-cutting-edge-audio-solutions-top-online-sites-for-professional-grade-mp3-modification/"><u>Updated 2024 Approved Cutting Edge Audio Solutions Top Online Sites for Professional-Grade MP3 Modification</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-empowerment-in-film-a-selection-of-inspiring-titles-for-2024/"><u>[New] Empowerment in Film A Selection of Inspiring Titles for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-partner-filmmaking-for-channelnode-increase-strategies/"><u>[New] In 2024, Partner Filmmaking for Channelnode Increase Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfect-your-mobile-photos-the-best-no-cost-slo-mo-camera-apps-guide/"><u>[New] Perfect Your Mobile Photos The Best No-Cost Slo-Mo Camera Apps Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-5-best-live-streaming-software-for-mac-you-must-know/"><u>[Updated] 5 Best Live Streaming Software for Mac You Must Know</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-preserve-your-legacy-transforming-older-images-into-modern-videos/"><u>[Updated] Preserve Your Legacy Transforming Older Images Into Modern Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photoshop-wizardry-for-bending-photos/"><u>2024 Approved Photoshop Wizardry for Bending Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spotlight-on-top-8-sites-where-3d-meets-lustrous-text/"><u>2024 Approved Spotlight on Top 8 Sites Where 3D Meets Lustrous Text</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-youtube-archiving-a-guide-to-moving-to-dailymotion/"><u>2024 Approved YouTube Archiving A Guide to Moving to Dailymotion</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-s17e-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo S17e</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-tecno-pova-5-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Tecno Pova 5 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-study-motion-without-contact/"><u>In 2024, In-Depth Study Motion Without Contact</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-jokeframe-creations-punpicture-studio/"><u>In 2024, JokeFrame Creations PunPicture Studio</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/installation-masterclass-transitioning-to-macos-sierra-for-2024/"><u>Installation Masterclass Transitioning to macOS Sierra for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revel-in-richness-your-pcs-pathway-to-exceptional-video-quality-for-2024/"><u>Revel in Richness Your PC's Pathway to Exceptional Video Quality for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-s17e-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo S17e Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win-guides.techidaily.com/understanding-text-editing-why-special-character-escapes-only-work-in-quotes-using-emeditor/"><u>Understanding Text Editing: Why Special Character Escapes Only Work in Quotes - Using EmEditor</u></a></li>
 </ul></div>
 

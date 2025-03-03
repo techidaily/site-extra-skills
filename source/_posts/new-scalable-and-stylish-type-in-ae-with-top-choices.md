@@ -1,7 +1,7 @@
 ---
 title: "[New] Scalable and Stylish Type in AE with Top Choices"
-date: 2024-07-31T09:12:36.205Z
-updated: 2024-08-01T09:12:36.205Z
+date: 2025-02-27T16:30:27.896Z
+updated: 2025-03-03T16:15:04.778Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://www.lifewire.com/thmb/E7SxLoAdzClArIUU0WaG58EFnS4=/400x300/fi
 
 Adobe After Effects remains one of the most powerful ways to edit videos. One of the main reasons users find it so useful is the ability to customize the video editing process by adding different kinds of plugins to the program. If you are looking to add unique and fancy text to the video you are working on, then these text plugins for After Effects will come in handy.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## TextDelay
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
@@ -37,9 +34,6 @@ Link: <https://aescripts.com/textexploder/>
 
 TextExploder is an After Effects plugin that is developed by MamoWorld and it allows you to split the text layers in After Effects into words, lines, characters, and more. These splits are so powerful that you can very easily isolate a single word or even a single letter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
 ## iExpressions 2
@@ -50,18 +44,12 @@ If you want to effectively use the After Effects expressions even if you are not
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
 
 If you want to create the perfect shape behind your text, then TextBox is a good text plugin to consider. This is a native After Effects plugin, meaning that you will not need to install it and the shapes it creates can be very easily customized. It updates the shapes you create automatically and adds them to the text layer, making it the most ideal solution to create closed captions, lower thirds, and subtitles.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
 ## Font Manager
@@ -70,32 +58,20 @@ Link: <https://aescripts.com/font-manager/>
 
 Font Manager is an After Effects text plugin that is useful when creating and working with animated typefaces. You can use it to create the most complex animated text graphics in just a few simple clicks. You will also find it very familiar to use as the user interface is similar to the Character Panel in After Effects.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Cartoon Moblur
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
 
 This is the most ideal plugin to choose when you want to add motion trail to the graphics in your video, but you want them to appear very cartoony. If you have used the motion blur effect in After Effects, Cartoon Moblur will behave in a similar function, but it is more suited to 2D, flat or minimal graphics. Some of the factors that you can customize include the length of the blur (shutter angle), color, and opacity.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
 ## Shadow Studio
 
 If you are looking for shadow styles that will go very well with your project, Shadow Studio is a good plugin to get. It offers you a wide variety of shadow styles including radial, inner, soft, and long shadows. Most people find it an easier and more affordable way to add soft shadows as compared to traditional methods like raytracing. It is also quite easy to use, meaning that shadow effects that would take hours to complete can be done in a matter of minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
 ## Texts Animation Bundle
@@ -112,14 +88,8 @@ Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%
 
 The Artificial Intelligence Titles is an After Effects text plugin that is designed to be the ultimate typographical solution. Once you have it in After Effects, you can enter any text and the plugin will automatically adjust the entire layout of the text. You can choose to create awesome text boxes, change the color, add special effects and even change the duration, speed, size, and positioning of the text. It also allows users to customize the text animation’s direction without using a keyframe.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
@@ -160,5 +130,21 @@ On its own After Effects comes with so many post-production effects and features
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-new-photogs-cameras-the-top-entry-level-picks-of-24/"><u>[New] New Photog's Cameras The Top Entry-Level Picks of '24</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-precision-editing-unveiled-harnessing-the-potential-of-ps-background-erasure-feature/"><u>[New] Precision Editing Unveiled Harnessing the Potential of PS Background Erasure Feature</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-from-novice-to-specialist-a-step-by-step-journey-through-adobe-ps-background-removal-techniques/"><u>[Updated] From Novice to Specialist A Step-by-Step Journey Through Adobe PS Background Removal Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimal-storage-expansion-for-sony-a7c/"><u>[Updated] Optimal Storage Expansion for Sony A7C</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-satirists-handbook-video-creation-for-comedy-for-2024/"><u>[Updated] The Satirist's Handbook Video Creation for Comedy for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-your-subtitles-with-top-10-free-converter-websites/"><u>2024 Approved Master Your Subtitles with Top 10 Free Converter Websites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-solutions-to-mitigate-vibrational-jello-in-uav-recordings/"><u>2024 Approved Solutions to Mitigate Vibrational Jello in UAV Recordings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209115745-effortlessly-resolve-your-windows-10-continuous-rebooting-dilemma-today/"><u>Effortlessly Resolve Your Windows 10 Continuous Rebooting Dilemma Today!</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-magic-6-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor Magic 6 Pro Quickly | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-f14-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy F14 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pinnacle-performance-discover-the-top-8-webcams-today/"><u>In 2024, Pinnacle Performance Discover the Top 8 Webcams Today</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/swift-repair-for-xerox-error-alert-0x1/"><u>Swift Repair for Xerox Error Alert 0X1</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-steam-backup-errors/"><u>Troubleshooting Steam Backup Errors</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Motorola Moto G24 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[IRQL_FIXED] Windows BSOD - Equal Issue"
-date: 2025-02-08T19:32:41.732Z
-updated: 2025-02-12T16:37:59.591Z
+date: 2025-02-27T16:08:15.558Z
+updated: 2025-03-03T16:41:34.607Z
 tags:
   - win11
   - win10
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad8287f6daa6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Following steps are for your reference on how to uninstall a driver:
 
  1) Press  Win+R  (**Windows logo** key and**R** key) at the same time to invoke the run box.  
@@ -65,10 +61,6 @@ Following steps are for your reference on how to uninstall a driver:
  2) Type **devmgmt.msc**  and click **OK** . Then Device Manager window will open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13fde1d72b1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In Device Manager, locate the faulty driver. If the driver is having problems, you’ll see a yellow mark next to the device name. Then right-click on the device name (For example, uninstall graphics card driver.) and select**Uninstall** .
 
@@ -78,15 +70,7 @@ Following steps are for your reference on how to uninstall a driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13feb35a43d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Restart your PC and check to see if the blue screen is gone  .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 3 **: Perform a System Restore to fix IRQL\_NOT\_LESS\_OR\_EQUAL**
 
@@ -99,10 +83,6 @@ Following steps are for your reference on how to uninstall a driver:
  2) Type **rstrui.exe** and click**OK** . The System Restore Window will open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a13ffd6b0139.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click Next then you may see the following screen. Select a restore point created before the error occurred. You can tell from the created**Date and Time** . Click **Next** to continue and follow the on-screen instructions to finish the restore.
 
@@ -151,16 +131,16 @@ Following steps are for your reference on how to uninstall a driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-psd-mastery-journey-unlimited-complimentary-texts/"><u>[New] PSD Mastery Journey Unlimited Complimentary Texts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-the-new-short-form-fb-story-for-2024/"><u>[New] The New Short-Form FB Story for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-simple-techniques-for-building-a-stunning-iphone-collage/"><u>2024 Approved Simple Techniques for Building a Stunning iPhone Collage</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-unlocking-success-youtubes-keyword-research-secrets-revealed/"><u>2024 Approved Unlocking Success YouTube's Keyword Research Secrets Revealed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-lightweight-voice-alteration-maximizing-your-gameplay-in-pubg/"><u>In 2024, Lightweight Voice Alteration Maximizing Your Gameplay in PUBG</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-secrets-unlocked-banishing-instagram-video-fails/"><u>In 2024, Secrets Unlocked Banishing Instagram Video Fails</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premium-4k-video-mics-top-picks-list-for-2024/"><u>Premium 4K Video Mics Top Picks List for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sculptors-of-immersive-digital-universes-for-2024/"><u>Sculptors of Immersive Digital Universes for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/streamline-your-presenting-skills-with-these-7-innovative-ai-tools-that-craft-impressive-slide-decks/"><u>Streamline Your Presenting Skills with These 7 Innovative AI Tools That Craft Impressive Slide Decks</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-motorola-edge-40-neo-by-fonelab-android-recover-data/"><u>The way to get back lost data from Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-dji-mavic-n-a-game-changer-in-drone-camera-review/"><u>Unveiling the Power of DJI Mavic N: A Game-Changer in Drone Camera Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-nexus-core-systems-single-screen-high-definition-touch/"><u>[New] Nexus Core Systems Single Screen, High Definition Touch</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-power-up-with-these-20-top-songs-that-elevate-your-exercise-routine/"><u>[New] Power-Up with These 20 Top Songs that Elevate Your Exercise Routine</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-framefraction-review/"><u>[Updated] In 2024, FrameFraction Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-perpetual-media-capture-utility/"><u>[Updated] In 2024, Perpetual Media Capture Utility</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unleash-power-in-valorant-the-best-voice-modifier-without-payment/"><u>[Updated] In 2024, Unleash Power in Valorant The Best Voice Modifier Without Payment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigate-age-confirmation-swiftly-on-tiktok/"><u>[Updated] Navigate Age Confirmation Swiftly on TikTok</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-sign-up-saga-crafting-your-digital-persona-facebook/"><u>2024 Approved Sign Up Saga Crafting Your Digital Persona (Facebook)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-xiaomi-redmi-12-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Xiaomi Redmi 12</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-photoshop-alternatives-on-android/"><u>In 2024, Mastering Photoshop Alternatives on Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/snap-edit-share-your-initial-guide-to-lunapic-for-2024/"><u>Snap, Edit, Share Your Initial Guide to LunaPic for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-redmi-12-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi Redmi 12 5G Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

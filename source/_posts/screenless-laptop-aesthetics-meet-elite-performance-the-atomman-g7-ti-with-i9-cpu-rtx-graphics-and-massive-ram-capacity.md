@@ -1,7 +1,7 @@
 ---
 title: "Screenless Laptop Aesthetics Meet Elite Performance: The AtomMan G7 Ti with I9 CPU, RTX Graphics & Massive RAM Capacity"
-date: 2025-02-06T20:43:17.427Z
-updated: 2025-02-12T16:58:26.624Z
+date: 2025-02-24T16:04:22.527Z
+updated: 2025-03-03T16:07:37.786Z
 tags:
   - desktop
 categories:
@@ -31,10 +31,6 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
  The Turbo Mini X is loaded with ports, including a 10 Gbps USB-C port that can output 45 watts for charging, a 20 Gbps USB-C port and 5 USB Type-A ports. But what's most interesting is a proprietary port that connects to the Mini Maker StreamPlay X External Graphics Box, which is sold separately. The port uses USB-C, but according to Mini Maker, it enables a direct PCIe connection which is faster than what you get when using Thunderbolt 4 to connect a laptop to an after-market eGPU like the Razer Core X.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,10 +45,6 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 ![Mini Maker StreamPlay X Cable](https://cdn.mos.cms.futurecdn.net/7PWKa2qagFoGCQJ7GH9t5H-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  The StreamPlay X is a remarkably compact eGPU, but an attractive one. It allows you to see your card through a wrap-around plastic window and it has a case fan to help cool your graphics card. The device is available with different power supply capacities: 250, 350 or 400 watts.
@@ -60,10 +52,6 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
  At the upper end of this power envelope, you could probably run an RTX 4080\. You'd probably need an adapter as there are two 8-pin connectors, but no 16-pin. The top, which has some air holes, easily pops off to allow you to install your card.
 
 ![Mini Maker StreamPlay X](https://cdn.mos.cms.futurecdn.net/bofwgvfDKpeYqVAheTShC9-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -88,14 +76,18 @@ Mini PCs, the class of desktops that fit in really tiny cases, have a following 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-metaverse-characters-made-simple-easy-avatar-crafting-tips/"><u>[New] 2024 Approved Metaverse Characters Made Simple Easy Avatar Crafting Tips</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-mastering-instagram-increasingdecreasing-stories-frame-rate/"><u>[New] In 2024, Mastering Instagram Increasing/Decreasing Stories' Frame Rate</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-virtual-escapes-tour-techniques/"><u>[New] Navigating Virtual Escapes Tour Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-lightroom-guide-creating-and-merging-stunning-hdr-images/"><u>[Updated] Lightroom Guide Creating & Merging Stunning HDR Images</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-scalability-strategies-adapting-to-large-scale-meetings-with-zoom-in-windows-11/"><u>[Updated] Scalability Strategies Adapting to Large-Scale Meetings with Zoom in Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-review-on-amazon-fire-hd-10-for-kids-navigating-through-superb-safety-settings/"><u>Expert Review on Amazon Fire HD 10 for Kids: Navigating Through Superb Safety Settings</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-rectifying-corsair-icue-connectivity-problems-in-windows-11/"><u>Guide to Rectifying Corsair iCUE Connectivity Problems in Windows 11</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-video-downloader-seamless-mp4-conversion/"><u>In 2024, FB Video Downloader Seamless MP4 Conversion</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-key-20-free-pubg-thumbnail-collections/"><u>In 2024, Key 20 Free PUBG Thumbnail Collections</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-key-elements-of-viral-success-in-instagram-videos/"><u>[New] Key Elements of Viral Success in Instagram Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-masterclass-selection-top-7-precision-games-for-2024/"><u>[Updated] Masterclass Selection Top 7 Precision Games for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximizing-your-iphones-photographic-skills-in-ios-11/"><u>[Updated] Maximizing Your iPhone's Photographic Skills in iOS 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-presentation-with-personalized-typography-in-ae-projects/"><u>2024 Approved Perfect Presentation with Personalized Typography in AE Projects</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-shade-portraits-with-orbital-illumination-technique-cs/"><u>2024 Approved Shade Portraits with Orbital Illumination Technique CS</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-maxoaks-powerhouse-185wh50000mah-portable-charger-your-ultimate-energy-solution/"><u>Expert Analysis: MaxOak's Powerhouse 185Wh/50,000mAh Portable Charger – Your Ultimate Energy Solution</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722845516870-how-to-restore-audio-output-when-your-chromecast-is-mute-or-silent/"><u>How to Restore Audio Output When Your Chromecast Is Mute or Silent</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-honor-x50iplus-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Honor X50i+ to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-iphone-xs-biometrics-addressing-face-id-glitches/"><u>In 2024, Navigating iPhone X's Biometrics Addressing Face ID Glitches</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-list-best-royalty-free-laughter-soundtracks-for-your-videos/"><u>The Ultimate List Best Royalty-Free Laughter Soundtracks for Your Videos</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/troubleshooting-itunes-store-issues-tips-for-smooth-loading-and-access/"><u>Troubleshooting iTunes Store Issues: Tips for Smooth Loading and Access</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-why-stricter-policies-are-necessary-the-perspective-of-openais-chief-executor/"><u>Understanding Why Stricter Policies Are Necessary: The Perspective of OpenAI's Chief Executor</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-arp-cache-explained-clears-and-management/"><u>Windows ARP Cache Explained: Clears & Management</u></a></li>
 </ul></div>
 

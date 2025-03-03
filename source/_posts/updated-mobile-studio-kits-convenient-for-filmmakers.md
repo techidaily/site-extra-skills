@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mobile Studio Kits  Convenient for Filmmakers\""
-date: 2025-02-06T17:39:58.935Z
-updated: 2025-02-12T19:52:48.513Z
+date: 2025-02-25T16:12:15.373Z
+updated: 2025-03-03T16:16:00.578Z
 tags: 
   - screen-recording
   - ai video
@@ -38,10 +38,6 @@ Here are four of the best accessories for shooting videos on your smartphone:
 
 ![tips on lenses](https://images.wondershare.com/filmora/article-images/accessories-clip-on-lenses.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When you use a DSLR you generally have a lot more control over your images than when you record using other kinds of cameras. Part of this is due to the variety of lenses that are available for DSLRs. Most cameras only have the one built-in lens, but DSLRs have detachable lenses you can change to create different effects. Using Clip-On Lenses you can adjust the built-in lens of your smartphone camera to create these same kinds of effects.
 
 Clip-On Lenses are tiny, which makes them convenient for carrying around. Using them is as easy as clipping them right over your smartphone camera lens. Sets of Clip-On Lenses can be found for under $50.
@@ -49,10 +45,6 @@ Clip-On Lenses are tiny, which makes them convenient for carrying around. Using 
 #### 2\. Pistol Grip
 
 ![pistol grip](https://images.wondershare.com/filmora/article-images/accessories-pistol-grip.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 It will not matter how clear and sharp your videos are if they are shaky. To avoid the stereotypically shaky ‘cellphone vid’ look you will need to stabilize your phone while you record, and there are a lot of ways you can do that. Mounting your phone on a Pistol Grip is one of them.
 
@@ -62,10 +54,6 @@ Smartphones mounted on Pistol Grips will record more stable footage while you wa
 
 ![selfiestick](https://images.wondershare.com/filmora/article-images/accessories-selfiestick.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Selfie Sticks are great for more than just taking selfies; using a selfie stick also helps you record more stable videos. Besides holding a selfie stick the way you normally do, with your hand on the grip, you can use your selfie stick a lot like you would a monopod. Simply place the handle on the floor, extend your selfie stick to the height you want to record at, and hold it still while you film. Your footage will be from one stable height.
 
 Selfie Sticks make it possible for you to record from a wider variety of angles, especially high angles. No smartphone videographer should be without a Selfie Stick. They cost about $40.
@@ -74,19 +62,11 @@ Selfie Sticks make it possible for you to record from a wider variety of angles,
 
 ![lav mic](https://images.wondershare.com/filmora/article-images/accessories-lav-mic.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 One of the biggest obstacles when shooting smartphone videos is capturing adequate audio. Not all videos need audio – sometimes you just want to use music – but if there is any speaking in your video then your audio becomes just as important as your visual recording. As great as most smartphone cameras are, the microphones that come with them usually lack that same quality. You can improve the quality of your audio recordings using a free program called Audacity, or you can get an external microphone.
 
 LAV Mics, also called lavalier or lapel mics, are a popular choice because they are so portable. A LAV Mic will clip right on to your shirt for maximum flexibility while recording on the go. You can get a wired LAV Mic specifically for smartphones for $50.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -103,17 +83,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-optimal-aging-strategy-edit-and-confirm-on-tiktok/"><u>[New] In 2024, Optimal Aging Strategy Edit and Confirm On TikTok</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-lighten-your-livestreams-selecting-5-brightening-tech/"><u>[New] Lighten Your Livestreams Selecting 5 Brightening Tech</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-building-a-competitive-advantage-through-in-depth-industry-analysis/"><u>[Updated] Building a Competitive Advantage Through In-Depth Industry Analysis</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-free-minecraft-branding-tools-download-for-2024/"><u>[Updated] Free Minecraft Branding Tools Download for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-6-sites-transforming-how-companies-connect-socially/"><u>2024 Approved Leading 6 Sites Transforming How Companies Connect Socially</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-picture-perfection-ranking-of-photo-grid-tools/"><u>2024 Approved Picture Perfection Ranking of Photo Grid Tools</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-i-screen-mirroring-apple-iphone-11-pro-max-to-tvlaptop-drfone-by-drfone-ios/"><u>How Can I Screen Mirroring Apple iPhone 11 Pro Max to TV/Laptop? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-xiaomi-redmi-note-12-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Xiaomi Redmi Note 12 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-leading-online-repositories-for-text-effect-graphics/"><u>In 2024, Leading Online Repositories for Text Effect Graphics</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/navigating-the-world-of-digital-filters-for-optimal-video-quality-for-2024/"><u>Navigating the World of Digital Filters for Optimal Video Quality for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-latest-samsung-bd-j5900-updated-review-2023/"><u>[Updated] Latest Samsung BD-J5900 Updated Review 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-to-creating-breathtaking-tile-art/"><u>[Updated] Step-by-Step Guide to Creating Breathtaking Tile Art</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-shiny-journey-to-immaculate-playstation/"><u>A Shiny Journey to Immaculate PlayStation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/discover-the-best-9-mobile-video-conferencing-apps-androidiphone/"><u>Discover The Best 9 Mobile Video Conferencing Apps (Android/iPhone)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-lava-blaze-curve-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Lava Blaze Curve 5G?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-guide-engage-with-audio-content-seamlessly/"><u>In 2024, IPhone Guide Engage with Audio Content Seamlessly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-sound-of-success-audio-tips-to-elevate-your-youtube-experience/"><u>In 2024, The Sound of Success Audio Tips to Elevate Your YouTube Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725290058200-macdvd/"><u>MacでDVDのコピー・移行手順：ディスクユーティリティ使い方</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-through-beginners-guide-on-telegram-promotions-for-2024/"><u>Navigating Through Beginner’s Guide on Telegram Promotions for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-5-stop-motion-animation-tools-free-and-paid-options/"><u>New Top 5 Stop Motion Animation Tools Free and Paid Options</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/smooth-transition-from-iphones-jpegpng-files-to-pdf-format-for-2024/"><u>Smooth Transition From iPhone's JPEG/PNG Files to PDF Format for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-deal-alert-edit-photos-and-videos-like-a-pro-for-less-get-500-off-the-samsung-monitor-at-best-buy-today/"><u>Top Deal Alert: Edit Photos & Videos Like a Pro for Less – Get $500 Off the Samsung Monitor at Best Buy Today!</u></a></li>
 </ul></div>
 

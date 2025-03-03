@@ -1,7 +1,7 @@
 ---
 title: Guide to Diagnosing and Correcting 'Unknown' Speaker Setup on Windows 11 Systems
-date: 2025-02-11T20:57:44.931Z
-updated: 2025-02-12T19:06:02.273Z
+date: 2025-02-28T16:03:53.982Z
+updated: 2025-03-03T16:37:29.100Z
 tags:
   - win11
   - win10
@@ -33,19 +33,11 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a273f85c31.png)
 2. Double-click**Sound, video, and game controllers** . Then right-click the audio device driver that you have and choose**Update driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
@@ -64,10 +56,6 @@ Read on and follow the easy-doing images below!
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -94,10 +82,6 @@ Read on and follow the easy-doing images below!
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Try your computer sound again to see if it still cuts out. If so, please move on.
 
 ## Option 3: Change Speaker Settings
@@ -108,16 +92,8 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30155c6c0.png)
 4. Un-tick the box for**Front left and right** and then hit**Next** .  
@@ -126,10 +102,6 @@ Read on and follow the easy-doing images below!
 5. Click**Finish** to end the configuration.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -154,24 +126,22 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-behind-the-scenes-using-instagrams-virtual-backdrops-for-2024/"><u>[New] Behind-the-Scenes Using Instagram's Virtual Backdrops for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-podcast-rss-feed-development/"><u>[New] Mastering Podcast RSS Feed Development</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-most-popular-fb-videos-download-now-for-2024/"><u>[New] Most Popular FB Videos - Download Now for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-nextgen-codec-battle-is-av1-trumping-vp9-quality/"><u>[New] NextGen Codec Battle Is AV1 Trumping VP9 Quality?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-designing-eye-catching-instagram-post-previews/"><u>[Updated] In 2024, Designing Eye-Catching Instagram Post Previews</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-joining-the-zoom-community-with-ease-on-an-android-device/"><u>2024 Approved Joining the Zoom Community with Ease on an Android Device</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-world-of-9gag-memes-made-easy/"><u>2024 Approved Navigating the World of 9GAG Memes Made Easy</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-race-away-slow-motion-on-your-android-device/"><u>2024 Approved Race Away Slow Motion on Your Android Device</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/best-free-online-tools-for-creating-professional-youtube-intros-top-5-picks/"><u>Best Free Online Tools for Creating Professional YouTube Intros: Top 5 Picks</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/future-proofing-your-mp4s-srt-integration-hacks/"><u>Future-Proofing Your MP4s SRT Integration Hacks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Honor 90 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-dji-mavic-pro-vs-gopro-karma/"><u>In 2024, Dji Mavic Pro Vs GoPro Karma</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-s17-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-samsung-galaxy-a05-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Samsung Galaxy A05 Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionize-your-streaming-experience-top-18-webcam-tools-explored/"><u>In 2024, Revolutionize Your Streaming Experience Top 18 Webcam Tools Explored</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-modern-editors-handbook-cutting-and-mixing-in-avidemux-for-2024/"><u>New The Modern Editors Handbook Cutting and Mixing in Avidemux for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/one-frame-at-a-time-how-to-extract-images-from-windows-10-movie-files-for-2024/"><u>One Frame at a Time How To Extract Images From Windows 10 Movie Files for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfect-iphone-silhouette-captures-101-for-2024/"><u>Perfect iPhone Silhouette Captures 101 for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pro-hunters-choice-best-camcorders-unveiled-for-2024/"><u>Pro Hunters Choice Best Camcorders Unveiled for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphones-quickest-way-to-record-time-lapse-photos/"><u>[New] IPhone's Quickest Way to Record Time-Lapse Photos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-rise-above-1000-subs-youtubing-strategies-for-mobile-creators/"><u>[New] Rise Above 1000 Subs YouTubing Strategies for Mobile Creators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-speedy-iphone-timelapses-made-simple/"><u>[New] Speedy iPhone Timelapses Made Simple</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-perfecting-the-instagram-story-format-with-youtube-integration/"><u>[Updated] 2024 Approved Perfecting the Instagram Story Format with YouTube Integration</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-enhance-video-quality-by-cutting-out-background-sounds/"><u>[Updated] In 2024, Enhance Video Quality by Cutting Out Background Sounds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-metaverse-life-your-ultimate-device-list/"><u>[Updated] Mastering Metaverse Life Your Ultimate Device List</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-guide-to-filming-and-refining-videos-via-adobe-connect/"><u>2024 Approved Guide to Filming & Refining Videos via Adobe Connect</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-pause-autoplay-on-youtube-suggested-videos/"><u>2024 Approved Pause Autoplay on YouTube Suggested Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expertly-reviewed-the-most-reliable-apple-watch-screensaver-solutions-as-featured-on-zdnet/"><u>Expertly Reviewed: The Most Reliable Apple Watch Screensaver Solutions , as Featured on ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-honor-play-8t-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Honor Play 8T using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-photographers-choices-ranking-the-top-6-4k-dslrs/"><u>In 2024, Pro Photographers’ Choices Ranking the Top 6 4K DSLRs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-proven-pathways-to-promoting-in-vr-lands/"><u>In 2024, Proven Pathways to Promoting in VR Lands</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-short-sketch-storyline-setup/"><u>In 2024, Short Sketch Storyline Setup</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-realme-12-proplus-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Realme 12 Pro+ 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/puzzled-by-my-videos-rotating-appearance-on-instagram-for-2024/"><u>Puzzled by My Video’s Rotating Appearance on Instagram for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-your-guide-to-cutting-edge-computer-components/"><u>Tom's Tech Insights: Your Guide to Cutting-Edge Computer Components</u></a></li>
+<li><a href="https://extra-information.techidaily.com/yis-action-cam-breaking-barriers-with-4k-film/"><u>Yi's Action Cam Breaking Barriers with 4K Film</u></a></li>
 </ul></div>
 

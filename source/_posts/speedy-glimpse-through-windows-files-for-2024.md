@@ -1,7 +1,7 @@
 ---
 title: "Speedy Glimpse Through Windows Files for 2024"
-date: 2025-02-06T17:32:36.580Z
-updated: 2025-02-12T16:21:30.525Z
+date: 2025-02-25T16:10:53.836Z
+updated: 2025-03-03T16:31:43.645Z
 tags: 
   - screen-recording
   - ai video
@@ -32,10 +32,6 @@ Step1 Open Microsoft Store and search for QuickLook. Make sure you select the op
 
 ![search for quicklook for windows on Microsoft store](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Once you find QuickLook, click “Get it” to download and install the app in your Windows operating system. At around 60MB, installing this preview app should be quick and easy.
 
 Step3 After successfully installing QuickLook, head to File Explorer and select any file you want to preview. Press the “Space” bar on your keyboard to view the file.
@@ -43,10 +39,6 @@ Step3 After successfully installing QuickLook, head to File Explorer and select 
 ![preview video on quicklook for windows](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-2.jpg)
 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Get the App on GitHub
 
@@ -57,10 +49,6 @@ So, without wasting time, let’s go through the steps to download the QuickLook
 Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and then navigate to Releases. Click the latest version.
 
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
@@ -82,10 +70,6 @@ Meanwhile, it’s expected that QuickLook will come with a small preview screen.
 
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: Frequently Asked Questions
 
 #### 1\. Which digital file formats are compatible with QuickLook?
@@ -99,10 +83,6 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 #### 3\. Can QuickLook for Mac edit files?
 
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -138,24 +118,18 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-great.techidaily.com/no-encuentra-su-particion-efi-5-soluciones-efectivas-para-recuperarla/"><u>¿No Encuentra Su Partición EFI? 5 Soluciones Efectivas Para Recuperarla</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-curating-creator-rewards-on-video-platforms/"><u>[New] 2024 Approved Curating Creator Rewards on Video Platforms</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-elevate-snappy-moments-with-convenient-voice-customization-tips-for-2024/"><u>[New] Elevate Snappy Moments with Convenient Voice Customization Tips for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-precision-zoom-youtube-video-expansion/"><u>[New] Precision Zoom YouTube Video Expansion</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-prime-liking-article-headliner/"><u>[New] Prime Liking Article Headliner</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-rapid-windows-photo-examiner-for-enhanced-efficiency/"><u>[New] Rapid Windows Photo Examiner for Enhanced Efficiency</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-navigating-the-complexities-of-spotifys-ad-ecosystem/"><u>[Updated] 2024 Approved Navigating the Complexities of Spotify's Ad Ecosystem</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-innovative-approaches-to-video-voiceover-integration-for-2024/"><u>[Updated] Innovative Approaches to Video Voiceover Integration for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-memimagic-create-funny-images-on-the-go/"><u>[Updated] MemiMagic Create Funny Images On-the-Go</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-onscreen-excellence-flexible-talent-access/"><u>[Updated] Onscreen Excellence Flexible Talent Access</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-scan-the-market-identifying-the-top-9-free-mp3-grabbers-for-android/"><u>[Updated] Scan the Market Identifying the Top 9 Free MP3 Grabbers for Android</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-your-srt-file-dispatch-for-maximum-social-exposure/"><u>2024 Approved Perfecting Your SRT File Dispatch for Maximum Social Exposure</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-8-cam-enhancers-for-clear-broadcasting/"><u>2024 Approved Premium 8 Cam Enhancers for Clear Broadcasting</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-nokia-g310-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Nokia G310 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/journey-into-the-metaverse-top-8-vr-headgear-for-2024/"><u>Journey Into the Metaverse Top 8 VR Headgear for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-stop-0x0000005c-halinitializationfailed-error-on-your-computer/"><u>Overcoming STOP 0X0000005C (HAL_INITIALIZATION_FAILED) Error on Your Computer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pinnacle-tools-for-audio-infused-photography-for-2024/"><u>Pinnacle Tools for Audio Infused Photography for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/stage-talent-video-download-permission-form-for-2024/"><u>Stage Talent Video Download Permission Form for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-step-by-step-for-winning-anime-projects-via-movie-maker/"><u>[New] 2024 Approved Step-by-Step for Winning Anime Projects via Movie Maker</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-metaverse-gags-and-their-creators/"><u>[New] Innovative Metaverse Gags & Their Creators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mobile-editing-hacks-for-visual-storytelling/"><u>[New] Mobile Editing Hacks for Visual Storytelling</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-soloists-guide-making-your-podcast-stand-out/"><u>[Updated] The Soloist's Guide Making Your Podcast Stand Out</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-becoming-a-pro-the-ultimate-guide-to-microsofts-movie-maker-in-win11/"><u>2024 Approved Becoming a Pro The Ultimate Guide to Microsoft's Movie Maker in Win11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revealing-the-quintessential-5-titling-visionaries-online/"><u>2024 Approved Revealing the Quintessential 5 Titling Visionaries Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-uav-picks-to-elevate-gopro-cinematography/"><u>2024 Approved Superior UAV Picks to Elevate GoPro Cinematography</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-razr-40-ultra-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Motorola Razr 40 Ultra?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-realtek-ethernet-controller-missing-error/"><u>How to Resolve Realtek Ethernet Controller Missing Error</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/jaunt-vr-uncovered-a-comprehensive-look-for-2024/"><u>Jaunt VR Uncovered A Comprehensive Look for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/oculus-rift-vs-htc-vive-vs-playstation-vr-whats-the-best-for-gaming-for-2024/"><u>Oculus Rift vs HTC Vive vs PlayStation VR What’s the Best for Gaming for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/spectacular-scrutiny-and-different-directions/"><u>Spectacular Scrutiny & Different Directions</u></a></li>
 </ul></div>
 

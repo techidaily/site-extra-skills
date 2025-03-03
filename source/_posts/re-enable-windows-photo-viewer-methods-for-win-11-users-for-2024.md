@@ -1,7 +1,7 @@
 ---
 title: "\"Re-Enable Windows Photo Viewer - Methods for Win 11 Users for 2024\""
-date: 2024-07-31T09:13:36.653Z
-updated: 2024-08-01T09:13:36.653Z
+date: 2025-02-27T16:15:45.032Z
+updated: 2025-03-03T16:37:09.746Z
 tags: 
   - screen-recording
   - ai video
@@ -53,16 +53,10 @@ Here is why they want to restore Windows Photo Viewer –
 * There is a solid UI across the image which doesn’t cover it, but works as a nice border.
 * You can delete an image without any confirmation here.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1 to restore Windows Photo Viewer
 
 The first method speaks about, when you have upgraded from a Windows 7/8/8.1 computer to Windows 10\. You can easily swing back to your most loved Windows Photo Viewer within no time. Here is the detailed guide –
@@ -87,30 +81,18 @@ Here is the detailed guide –
 
 **Step 3** – Keep scrolling towards the bottom of the screen to find out ‘Windows Photo Viewer’. If ‘Windows Photo Viewer’ is visible, then it has been installed there and you can use it without any problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 From the above article, we found out that restoring Windows Photo Viewer on your system is not a tough task. But, without having the proper knowledge you shouldn’t play around with your Photos app. So, this article guides you through a reliable method for restoring Windows Photo Viewer and view your photos like you always loved to. We hope you liked our efforts of enlightening you about Windows Photo Viewer and got the necessary information. Plus, if none of these work, you can use [Windows 10 Photos app alternatives](https://tools.techidaily.com/wondershare/filmora/download/). Thanks for reading! Do comment us below to let us know your views.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -119,12 +101,31 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-graphic-geniuses-discover-the-best-10-free-sketch-for-mac/"><u>[New] 2024 Approved Graphic Geniuses Discover the Best 10 Free Sketch for Mac</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-invest-in-quality-top-5-handhoced-stabilizers-review/"><u>[New] 2024 Approved Invest in Quality Top 5 Handhoced Stabilizers Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-photo-mastery-top-8-web-based-creation-suite/"><u>[New] Photo Mastery Top 8 Web-Based Creation Suite</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-mix-picture-taking-plus-sounds-recorder-titles/"><u>[New] Premium Mix Picture Taking + Sounds Recorder Titles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-srt-revelation-transforming-computer-performance/"><u>[New] SRT Revelation Transforming Computer Performance</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pro-tips-the-fastest-5-diy-filmmaking-tricks-at-home/"><u>[Updated] Pro Tips The Fastest 5 DIY Filmmaking Tricks at Home</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-tips-eliminate-signature-bg-in-minutes/"><u>[Updated] Quick Tips Eliminate Signature Bg in Minutes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-simplified-guide-to-burning-audio-from-cds-using-wmp/"><u>[Updated] Simplified Guide to Burning Audio From Cds Using WMP</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/from-novice-to-pro-instagram-live-walkthrough/"><u>From Novice to Pro Instagram Live Walkthrough</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-6-best-podcast-apps-for-android/"><u>In 2024, 6 Best Podcast Apps for Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-safest-drone-selections-5-great-options-for-young-ones/"><u>In 2024, Safest Drone Selections 5 Great Options for Young Ones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/methods-to-reactivate-sleepy-hp-laser-printers/"><u>Methods to Reactivate Sleepy HP Laser Printers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/modular-android-phones-set-to-surpass-iphone-and-pixel-durability-the-hidden-challenge-revealed/"><u>Modular Android Phones Set to Surpass iPhone & Pixel Durability - The Hidden Challenge Revealed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/rhythm-in-reels-the-essentials-of-iphone-video-making-for-2024/"><u>Rhythm in Reels The Essentials of iPhone Video Making for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/ultimate-guide-to-choosing-the-perfect-free-pc-copying-software-for-various-windows-versions/"><u>Ultimate Guide to Choosing the Perfect Free PC Copying Software for Various Windows Versions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-take-your-gopro-videos-to-the-next-level-easy-editing-tips-and-tricks/"><u>Updated 2024 Approved Take Your GoPro Videos to the Next Level Easy Editing Tips and Tricks</u></a></li>
+</ul></div>
 

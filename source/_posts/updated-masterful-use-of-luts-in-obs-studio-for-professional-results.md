@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Masterful Use of LUTs in OBS Studio for Professional Results"
-date: 2024-07-31T09:17:07.709Z
-updated: 2024-08-01T09:17:07.709Z
+date: 2025-02-26T16:28:50.820Z
+updated: 2025-03-03T16:01:07.215Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/c68e5dfe066870e624209e946a88b5eb21db8406c
 
 We've all seen filters on social media that change the appearance or feel of your photos. They might even improve your appearance. You can use an identical impact on video, and these are known as LUTs. In OBS, you can add them to a video or your webcam, which will change your face cam's appearance or increase its quality.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why do we need to use LUTs in OBS Studio?
 
 Color grading presets called to look up tables can be used in video editing applications and OBS. They can be utilized to alter the tone of your photo or just add to its vibrancy. LUTs allow you to apply filters to your image in order to increase its quality or produce a dramatic effect. It may even save you money on a more expensive camera. Here are some reasons why you should use LUTs.
@@ -37,9 +34,6 @@ However, you still want to provide a good project; color grading might take a lo
 
 Lookup tables might save you time when editing, but for many creative filmmakers and editors, LUTs are a way of polishing the final appearance of a film. When color grading is poorly done, it can impair the aesthetic of a movie and distract the audience. The beautiful thing about LUTs is that most of them on the market are created by other videographers, so you know they'll work on your movies right out of the box; all you have to do is make little tweaks to match the vision you have in your brain. If you've never used LUTs before but want to take your short films to an extraordinary level, try cinematic LUTs, which will give you that blockbuster vibe on a budget.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. A command to adaptability
 
 They're highly adaptable. LUTs can be utilized to convert Log film back to the Rec709 standard, making the Log color profile more approachable to users who don't have years of color grading expertise. Professionals generally employ log color space to increase dynamic range and sustain shadows and highlights in contrasting scenes. Conversion LUTs now assist in getting over the arduous task of color grading Log footage.
@@ -64,9 +58,6 @@ For more easy-to-use effects and filters to make your video cinematic, have a tr
 
 [Apply Luts on Video](https://tools.techidaily.com/wondershare/filmora/download/) [Apply Luts on Video](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -75,9 +66,6 @@ For more easy-to-use effects and filters to make your video cinematic, have a tr
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora 3d lut](https://images.wondershare.com/filmora/features/3d-lut-banner.png)
 
 ## How to use LUTs in OBS Studio
@@ -88,18 +76,12 @@ To create your LUT, follow the instructions below.
 2. Then, either drag your LUT or unzip your LUT bundle into this folder. These LUTs will now be available for usage in OBS Studio.
 3. Then run OBS Studio. Select filters by right-clicking on your webcam source.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![obs Lut](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-1.png)
 
 How to use LUTs in Lumafuison
 
 1. Go to Effect Filters. Then click "+" located on the bottom left, click apply LUT, then give your LUT a name in the Filters panel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![how to use obs Lut](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-2.png)
 
 Add Luts to OBS
@@ -120,16 +102,10 @@ Gaming Careers has created a LUT package that includes 30 free webcam filters th
 
 Gaming careers
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. [OBS forums free LUTs](https://obsproject.com/forum/resources/free-lut-filter-pack.594/)
 
 This package contains 76 ready-to-use LUT filter files for OBS. Use these filters to create a film-like effect for your webcam stream or video clip. Blender's film color processing was used to generate the filters. Using Blender's picture compositor, the webcam presets were made by hand. These files can be used with OBS's LUT video filter.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![free obs luts - OBS Forums ](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-4.png)
 
 OBS forums
@@ -150,9 +126,6 @@ For your next video production, you can get 35 FREE LUTs. Add one of these retro
 
 Rocket stock
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Christian Mate Grab free LUT
 
 Then there's Christian Mate Grab's LUT. It's only a single LUT filter with an orange and teal grade to give it a more cinematic appearance. This one likewise requires you to join their email list. You may color grade your films in real-time using straight in OBS.
@@ -167,17 +140,10 @@ Color grading is a necessary yet time-consuming step in the post-production proc
 
 As a result, adding professionalism to your talents is now even easier and more trustworthy. With the help of our guide, you can now handle everything on your own, as we've compiled a list of the finest [free LUTs](https://tools.techidaily.com/wondershare/filmora/download/)for OBS. So, get started right now and polish your videos to perfection.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -206,23 +172,14 @@ Add Luts to OBS
 2. You can then modify the quantity slider to choose how powerful you want your LUT to be.
 3. You've just finished installing a LUT on your webcam. If you use the right LUT, you can radically transform the tone of your stream.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Free LUTs resource for OBS studio
 
 Many of the greatest free LUTs may now be found freely on the internet. So, we did some digging and came up with the top list of the top free LUTs that every filmmaker and colorist should have. You'll probably find what you're looking for here, whether it's strong, dramatic LUTs or stylish, vintage LUTs.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. [Gaming careers free LUTs](https://gamingcareers.com/guides/30-free-webcam-filters-obs/)
 
 Gaming Careers has created a LUT package that includes 30 free webcam filters that you may use on your webcam footage. It's a little bothersome that you have to join an email list to get the bundle, but it's well worth it. Each LUT is well-made and suitable for various situations and live feeds.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![free obs luts - Gaming careers ](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-3.png)
 
 Gaming careers
@@ -231,21 +188,10 @@ Gaming careers
 
 This package contains 76 ready-to-use LUT filter files for OBS. Use these filters to create a film-like effect for your webcam stream or video clip. Blender's film color processing was used to generate the filters. Using Blender's picture compositor, the webcam presets were made by hand. These files can be used with OBS's LUT video filter.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![free obs luts - OBS Forums ](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-4.png)
 
 OBS forums
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### 3\. [Video Mark free LUTs](https://videomark.net/obs-studio-cinematic-lut-pack-free-download/)
 
 You'll get 18 cinematic LUTs with this Video Mark package. This filter set focuses more on a film effect. We suggest watching the accompanying demo film, which walks you through some of the LUTs included in this package and how to use them. Because this is an older video, it will use an older version of OBS, but the method should be the same.
@@ -258,23 +204,14 @@ Video Mark
 
 For your next video production, you can get 35 FREE LUTs. Add one of these retro or cinematic effects to your footage or adjust them to suit your needs. The 35 Free LUTs from RocketStock are 3D.CUBE files may be used in a variety of NLEs and color grading tools.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![free obs luts - Rocket stock ](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-6.png)
 
 Rocket stock
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Christian Mate Grab free LUT
 
 Then there's Christian Mate Grab's LUT. It's only a single LUT filter with an orange and teal grade to give it a more cinematic appearance. This one likewise requires you to join their email list. You may color grade your films in real-time using straight in OBS.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![free obs luts - Christian Mate Grab](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-7.png)
 
 Christian Mate Grab
@@ -307,5 +244,26 @@ As a result, adding professionalism to your talents is now even easier and more 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-beyond-reality-horizon-virtual-progress-and-upcoming-challenges/"><u>[New] 2024 Approved Beyond Reality Horizon Virtual Progress & Upcoming Challenges</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-explore-9-simple-and-economical-editing-solutions-for-your-projects/"><u>[New] 2024 Approved Explore 9 Simple & Economical Editing Solutions for Your Projects</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-resurrect-your-tiktok-fixes-for-chrome-and-other-platforms/"><u>[New] In 2024, Resurrect Your TikTok Fixes for Chrome and Other Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterclass-enhancing-live-streams-with-360-cameras/"><u>[New] Masterclass Enhancing Live Streams with 360° Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-advice-on-quick-and-clean-ppt-captures/"><u>[Updated] 2024 Approved Expert Advice on Quick and Clean PPT Captures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-visual-clarity-for-remote-communications-with-ease/"><u>[Updated] 2024 Approved Mastering Visual Clarity for Remote Communications with Ease</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-dreamy-minecraft-domiciles-decoded/"><u>[Updated] Dreamy Minecraft Domiciles Decoded</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-uniting-viewers-mastering-interactive-dialogue-online/"><u>[Updated] Uniting Viewers Mastering Interactive Dialogue Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-hdr-portraiture-comprehensive-photography-guide/"><u>2024 Approved Mastering HDR Portraiture Comprehensive Photography Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-level-insights-into-the-world-of-windows-11/"><u>2024 Approved Pro-Level Insights Into the World of Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-proven-methods-to-elevate-your-filmora-editing-skills/"><u>2024 Approved Proven Methods to Elevate Your Filmora Editing Skills</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pure-greenprints-accessible-templates-to-amplify-your-filmmaking-expertise/"><u>2024 Approved Pure Greenprints Accessible Templates to Amplify Your Filmmaking Expertise</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sculpted-smiles-and-eyes-introducing-facial-movement-with-motion-blur-in-picsart/"><u>2024 Approved Sculpted Smiles and Eyes Introducing Facial Movement with Motion Blur in Picsart</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-todays-topical-knowledge-new-york-times-discussion-tip-and-qanda-for-july-5-390/"><u>Discover Today's Topical Knowledge: New York Times Discussion Tip & Q&A for July 5 (#390)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-free-graphic-resource-hubs-to-elevate-your-artistry/"><u>In 2024, Leading Free Graphic Resource Hubs to Elevate Your Artistry</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-simplified-avi-to-gif-editing-with-filmora-on-windows-and-macos-platforms/"><u>In 2024, Simplified AVI to GIF Editing with Filmora on Windows & macOS Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/modulating-murmurs-for-free-fire-success-for-2024/"><u>Modulating Murmurs for Free Fire Success for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-transform-your-photos-into-engaging-mac-slideshows-with-ezvid/"><u>New In 2024, Transform Your Photos Into Engaging Mac Slideshows with Ezvid</u></a></li>
+</ul></div>
 

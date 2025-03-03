@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Prevent 'New World' From Frequent PC Disruptions
-date: 2025-02-05T19:49:30.746Z
-updated: 2025-02-12T17:08:27.147Z
+date: 2025-02-24T16:19:15.200Z
+updated: 2025-03-03T16:26:36.375Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-300x146.jpg)
 
  If your**Discord overlay** is not working while you’re playing games, you’re not alone! Many players are reporting this issue. But don’t worry! The good news is you can fix it easily using the fixes we listed below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Fixes to try:**
 
@@ -63,19 +59,11 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
  4) Run your game again.
 
 See if this issue reappears. If not, you have fixed this issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
@@ -89,10 +77,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable hardware acceleration in Discord
 
  Hardware acceleration is a feature in**Discord** that uses your GPU to make**Discord** smoother. However, many users have reported that sometimes, this feature may cause the**Discord overlay** to not work.
@@ -103,19 +87,11 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
 
@@ -167,10 +143,6 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
  Hopefully, one of the fixes above can help you resolve this issue. Please leave your comment below if you have any questions.
@@ -193,21 +165,24 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-chuckle-champs-twitters-humor-heap/"><u>[New] In 2024, Chuckle-Champs Twitter’s Humor Heap</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-techno-gamers-income-revolution/"><u>[New] In 2024, Techno Gamers' Income Revolution</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-leaderboard-best-following-drone-technology/"><u>[Updated] Leaderboard Best-Following Drone Technology</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-newbies-manual-to-vector-art-grasping-different-kinds-and-software/"><u>[Updated] Newbie’s Manual to Vector Art Grasping Different Kinds & Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-video-recorders-head-on-screen-viewing/"><u>2024 Approved Prime Video Recorders Head-On Screen Viewing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-script-extraordinary-showcase/"><u>2024 Approved Script Extraordinary Showcase</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-smiles-and-laughs-app-download/"><u>2024 Approved Smiles & Laughs App Download</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-dive-into-diy-the-beginners-guide-to-eye-catching-mac-videos/"><u>In 2024, Dive Into DIY The Beginner’s Guide to Eye-Catching Mac Videos</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-x50iplus-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor X50i+ to New Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-macs-finest-the-leading-free-art-programs/"><u>In 2024, Mac's Finest - The Leading Free Art Programs</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-list-of-web-based-vertical-video-editors/"><u>New 2024 Approved The Ultimate List of Web-Based Vertical Video Editors</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfect-shots-no-hassle-leading-smartphone-tripods-for-2024/"><u>Perfect Shots, No Hassle Leading Smartphone Tripods for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sidestep-personalized-podcast-suggestions-in-spotify-for-2024/"><u>Sidestep Personalized Podcast Suggestions in Spotify for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/step-by-step-blueprint-accessing-facebook-status-videos/"><u>Step-by-Step Blueprint Accessing Facebook Status Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ate-editing-software-listings-for-2024/"><u>Ultimate Editing Software Listings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guerrilla-mic-guide-top-chip-selection-on-a-shoestring/"><u>[New] 2024 Approved Guerrilla Mic Guide Top Chip Selection on a Shoestring</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inshot-unveiled-assessing-its-edge-over-other-editors/"><u>[New] InShot Unveiled Assessing Its Edge Over Other Editors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-launchpad-logic-the-complete-framework-for-founders-of-a-reviews-channel/"><u>[New] Launchpad Logic The Complete Framework for Founders of a Reviews Channel</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-online-subtitles-our-choice-of-free-services/"><u>[New] Mastering Online Subtitles Our Choice of Free Services</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-simplifying-media-share-fb-movies-for-whatsapp-users-for-2024/"><u>[New] Simplifying Media Share FB Movies for WhatsApp Users for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-amend-blurry-mobile-streaming-on-social-platforms/"><u>[Updated] In 2024, How to Amend Blurry Mobile Streaming on Social Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-radiant-contrast-synchronizer/"><u>[Updated] Radiant Contrast Synchronizer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-6-choices-for-cost-effective-4k-projection/"><u>2024 Approved Premium 6 Choices for Cost-Effective 4K Projection</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cross-continental-chatgpt-access-made-easy/"><u>Cross-Continental ChatGPT Access Made Easy</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-xiaomi-13t-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Xiaomi 13T Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/joymakerbox-sign-up-share-smiles-create-for-2024/"><u>JoyMakerBox Sign Up, Share Smiles, Create for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/jump-start-your-journey-to-quality-video-edits-in-windows-10-for-2024/"><u>Jump-Start Your Journey to Quality Video Edits in Windows 10 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-networks-configure-win11s-dns-client-service/"><u>Mastering Networks: Configure Win11's DNS Client Service</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/music-transfer-essentials-keeping-your-playlist-alive-for-2024/"><u>Music Transfer Essentials Keeping Your Playlist Alive for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-video-recorders-head-on-screen-viewing-for-2024/"><u>Prime Video Recorders Head-On Screen Viewing for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smooth-movies-clean-shots-the-10-best-for-superior-image-stabilization-for-2024/"><u>Smooth Movies, Clean Shots The 10 Best for Superior Image Stabilization for 2024</u></a></li>
 </ul></div>
 

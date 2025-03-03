@@ -1,7 +1,7 @@
 ---
 title: Kodi Can't Connect? Here's How to Fix Failed Directory Information Retrieval
-date: 2025-02-06T16:58:56.860Z
-updated: 2025-02-12T16:38:41.374Z
+date: 2025-02-28T16:06:32.921Z
+updated: 2025-03-03T16:20:23.989Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Amazon Prime provides thousands of great series and movies which you can enjoy a
 * [For smart TV](https://tools.techidaily.com/drivereasy/download/)
 * [For phone](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for Amazon prime video not working on PC
 
 * [Reboot the browser](https://tools.techidaily.com/drivereasy/download/)
@@ -37,10 +33,6 @@ Amazon Prime provides thousands of great series and movies which you can enjoy a
  Make sure you’re using the latest version of your browser.
 
  Then close the web browser and restart it. Or you can change another browser to open Amazon prime video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check your internet connection
 
@@ -74,10 +66,6 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-714.png)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-715.png)
@@ -120,19 +108,11 @@ If the cable is the culprit, you may need to purchase a new cable.
 
 [](https://images.drivereasy.com/wp-content/uploads/2020/08/61SDW7VbneL._AC_SL1500_-1200x950.jpg) ](https://www.amazon.com/AmazonBasics-High-Speed-HDMI-Cable-2-Pack/dp/B014I8SX4Y/ref=sr%5F1%5F4?dchild=1&keywords=hdmi&qid=1597731890&sr=8-4&tag=drivereasycom-20)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for Amazon prime video not working on smartphone
 
 * [Restart the Amazon Prime](https://tools.techidaily.com/drivereasy/download/)
 * [Check your internet connection](https://tools.techidaily.com/drivereasy/download/)
 * [Reinstall the app](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Restart the Amazon Prime
 
@@ -168,20 +148,22 @@ If the cable is the culprit, you may need to purchase a new cable.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-expert-choice-8-best-converters-from-sub-to-srt/"><u>[Updated] 2024 Approved Expert Choice 8 Best Converters From Sub to Srt</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-portrait-of-creativity-discover-the-bestiary-of-8-inspiring-ios-drawing-apps/"><u>[Updated] Portrait of Creativity Discover the Bestiary of 8 Inspiring iOS Drawing Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-key-sites-for-innovative-font-design/"><u>2024 Approved Key Sites for Innovative Font Design</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/escaping-boredom-with-a-chuckle-best-fb-incarceration-comical-stories-for-2024/"><u>Escaping Boredom with a Chuckle Best FB Incarceration Comical Stories for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-scrutinizing-and-eliminating-windows-11-chronicles/"><u>Guide to Scrutinizing & Eliminating Windows 11 Chronicles</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-oppo-reno-11-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Oppo Reno 11 Pro 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/how-to-use-vlc-as-converter-to-convert-mp4-and-other-formats-for-2024/"><u>How to Use VLC as Converter to Convert Mp4 and Other Formats for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-quip-quarterly-event-oriented-joke-anthology/"><u>In 2024, Quip Quarterly Event-Oriented Joke Anthology</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/inside-polarr-the-powerhouse-photo-toolkit-for-2024/"><u>Inside Polarr The Powerhouse Photo Toolkit for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/optimize-workflow-on-a-powerful-linux-platform-discover-the-advantages-of-ubuntu-2204-computingtoday/"><u>Optimize Workflow on a Powerful Linux Platform: Discover the Advantages of Ubuntu 22.04 | ComputingToday</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/picshot-uncomplicated-path-to-stunning-collages-for-2024/"><u>Picshot Uncomplicated Path to Stunning Collages for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/promotional-planning-perfection-for-2024/"><u>Promotional Planning Perfection for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/simplifying-age-verification-on-tiktok-accounts-for-2024/"><u>Simplifying Age Verification on TikTok Accounts for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-mac-vpn-services-thoroughly-tested-and-reviewed-by-professionals-zdnet/"><u>Top-Rated Mac VPN Services: Thoroughly Tested & Reviewed by Professionals | ZDNet</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/your-instant-offline-playlist-how-to-pull-youtube-videos-onto-idevices/"><u>Your Instant Offline Playlist How to Pull YouTube Videos Onto iDevices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-avoiding-pitfalls-tiktok-video-copyright-verification-guide/"><u>[New] 2024 Approved Avoiding Pitfalls TikTok Video Copyright Verification Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-incremental-sound-diminishment-guidebook/"><u>[New] 2024 Approved Incremental Sound Diminishment Guidebook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-androids-ultimate-guide-to-photo-editors-is-pickup-a-contender/"><u>[New] Android’s Ultimate Guide to Photo Editors Is PickUp a Contender?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-how-to-expertly-use-vscos-adjustment-brushes-for-2024/"><u>[New] How to Expertly Use VSCO's Adjustment Brushes for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-rhythm-and-film-imovie-for-music-videos/"><u>[New] Rhythm & Film IMovie for Music Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-simplified-guide-to-iphone-screen-adjustment/"><u>[New] Simplified Guide to iPhone Screen Adjustment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-investing-time-wisely-on-cover-art-creation/"><u>[Updated] Investing Time Wisely on Cover Art Creation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-online-concert-for-a-click-music-and-memories/"><u>[Updated] Online Concert for a Click Music and Memories</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-installation-of-the-chatgpt-application-on-windows-systems/"><u>Easy Installation of the ChatGPT Application on Windows Systems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-elite-5-step-time-lapse-recordings-guide/"><u>In 2024, Elite 5-Step Time-Lapse Recordings Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instant-charm-iphones-extended-shutter-showcase/"><u>In 2024, Instant Charm IPhone’s Extended Shutter Showcase</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-20-creative-anime-music-starts/"><u>In 2024, Leading 20 Creative Anime Music Starts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-snap-to-it-ios-and-android-writers-choice/"><u>In 2024, Snap to It – iOS & Android' Writers’ Choice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-for-unable-to-start-application-correctly-0xc000007b-expert-tips-and-tricks/"><u>Mastering the Fix for 'Unable to Start Application Correctly (0xC000007B)': Expert Tips & Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfectly-pitched-headlines-maker-for-2024/"><u>Perfectly Pitched Headlines Maker for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secrets-unveiled-successful-podcast-on-apple-store-for-2024/"><u>Secrets Unveiled Successful Podcast on Apple Store for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-enhanced-lg-bp550-review-2023-update-for-2024/"><u>The Enhanced LG BP550 Review - 2023 Update for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Palette Perfection  The Colorist's Manual for 2024\""
-date: 2024-07-31T09:12:40.465Z
-updated: 2024-08-01T09:12:40.465Z
+date: 2025-02-24T16:13:53.672Z
+updated: 2025-03-03T16:36:22.008Z
 tags: 
   - screen-recording
   - ai video
@@ -22,18 +22,12 @@ So, you've heard about color theory but don't know what it is or how to use it a
 
 If you are more selective with your colors in your videos or imagery the viewer will find this aesthetically pleasing and may be more engaged in your content. This includes anything from logo design all the way to props for your shot. When creating your videos within Filmora it is good practice to think about your composition in all aspects including color theory and with the guide hopefully you will have a better understanding of how you can influence your color palette.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is Color Theory
 
 Color theory consists of many elements that could fill a library on its own but for this guide we will focus on two key elements. The color wheel and color harmony. By understanding the color wheel and color harmony you can hand pick which colors to add or use in your pieces to create a well-balanced viewing experience which can help in viewer engagement and enjoyment.
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
@@ -42,9 +36,6 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
@@ -59,16 +50,10 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
@@ -79,9 +64,6 @@ As you can see from this example the base color for the scene is a dark blue/pur
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 By including this into your thought process when creating videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) you will achieve well balanced and harmonious content for your viewer to enjoy and create better engagement. It's not by chance these things happen though, it's through research and planning that the most iconic scenes and characters are created and this is just one small brick in the foundations of content creation. With practice this will become second nature to you and that is the main goal of this guide.
@@ -114,5 +96,26 @@ By including this into your thought process when creating videos with [Filmora](
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-scene-to-video-canons-pathway-to-timelapse-excellence/"><u>[New] From Scene to Video Canon's Pathway to Timelapse Excellence</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-speed-up-srt-to-text-conversion-with-this-essential-guide/"><u>[New] Speed Up SRT to Text Conversion with This Essential Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-essential-9-puzzle-and-adventure-titles-for-unplugged-android-gaming/"><u>[Updated] 2024 Approved Essential 9 Puzzle & Adventure Titles for Unplugged Android Gaming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-essential-guide-to-simple-iphone-screen-recording/"><u>[Updated] 2024 Approved The Essential Guide to Simple Iphone Screen Recording</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-digital-personas-made-simple-a-guide-for-the-curious-vr-explorer-for-2024/"><u>[Updated] Digital Personas Made Simple A Guide for the Curious VR Explorer for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-srt-audio-file-handling-for-oses/"><u>[Updated] SRT Audio File Handling for OSes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximize-productivity-with-firefoxs-pip-feature/"><u>2024 Approved Maximize Productivity with Firefox’s PIP Feature</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pioneering-metaverse-brand-presence/"><u>2024 Approved Pioneering Metaverse Brand Presence</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-rise-above-top-tactics-for-a-standout-youtube-live-without-million-followers/"><u>2024 Approved Rise Above Top Tactics for a Standout Youtube Live without Million Followers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-shopping-journey-to-visual-storytelling-hauling-edition/"><u>2024 Approved Shopping Journey to Visual Storytelling Hauling Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-motorola-edge-40-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Motorola Edge 40? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-copilotplus-laptop-picks-from-ifa-2er-2024-including-gaming-models-reviewed-by-tech-experts-zdnet/"><u>Discover the Best Copilot+ Laptop Picks From IFA 2Er 2024 Including Gaming Models Reviewed by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-peak-hours-for-podcasts-strategic-timing/"><u>In 2024, Peak Hours for Podcasts Strategic Timing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-edge-servers-for-maximum-efficiency-for-2024/"><u>Leading Edge Servers for Maximum Efficiency for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/metaverse-metaphors-discovering-6-detailed-instances-for-2024/"><u>Metaverse Metaphors Discovering 6 Detailed Instances for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-level-phone-and-camera-gimbal-tracking-systems-for-2024/"><u>Pro-Level Phone & Camera Gimbal Tracking Systems for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-download-get-now-compatible-realtek-alc-audio-driver-for-windows-11/"><u>Quick Download: [Get Now] Compatible Realtek ALC Audio Driver for Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oppo-a2-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Oppo A2 | Dr.fone</u></a></li>
+</ul></div>
 

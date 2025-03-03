@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Audio Diminishment in Lumafusion"
-date: 2025-02-09T16:44:18.674Z
-updated: 2025-02-12T20:55:42.012Z
+date: 2025-02-26T16:04:17.632Z
+updated: 2025-03-03T16:40:42.908Z
 tags: 
   - screen-recording
   - ai video
@@ -34,23 +34,11 @@ Step2 LumaFusion allows for the automated synchronization of up to 12 camera sou
 
 ![edit sources luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/edit-sources-luma-fusion.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 From the choices, choose the Cross Dissolve (Fade) transition. The transition should be placed at the very end of your music channel timeline. Tap on the Help & Settings menu to do this action. Look for Transition under the Settings menu and edit it to the appropriate duration. If you do this, your transition won't take effect until you add it again.
 
 ![fade audio in luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/fade-audio-in-luma-fusion.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Beyond simple editing, LumaFusion excels in enhancing projects with a wide variety of built-in effects, transitions, titles, and color correction. It also has a limited (but excellent) collection of royalty-free music. Finally, LumaFusion Project Packages are a terrific solution to regularly backup a project for security or to complete altering it. After choosing Export, choose the Project Package from the list.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. LumaFusion Alternative Way to Fade Audio in Video
 
@@ -86,10 +74,6 @@ After finishing the method for editing audio in Filmora, click the Export button
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Related FAQs about LumaFusion
 
 ### 1\. How do you fade in a title LumaFusion?
@@ -132,17 +116,9 @@ In that window, you can select the MP3 format in the format customization box to
 
 ## Part 3\. Related FAQs about LumaFusion
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. How do you do transitions in LumaFusion?
 
@@ -176,16 +152,16 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-tips-to-develop-engaging-lifestyle-enlightenment-vids/"><u>[New] 2024 Approved Tips to Develop Engaging Lifestyle Enlightenment Vids</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-branded-content-collaborations-on-streaming-services/"><u>[New] Branded Content Collaborations on Streaming Services</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-sleek-and-shiny-the-route-to-pristine-tiktok-content/"><u>[New] Sleek and Shiny The Route to Pristine TikTok Content</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-greatest-of-all-time-reddits-favorite-threads/"><u>[Updated] 2024 Approved Greatest of All Time Reddit's Favorite Threads</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-leveraging-youtube-luck-a-no-ad-earnings-blueprint-for-content-masters/"><u>[Updated] Leveraging YouTube Luck A No-Ad Earnings Blueprint for Content Masters</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mobile-laughs-and-memes/"><u>[Updated] Mobile Laughs & Memes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-iphone-x-animoji-your-comprehensive-users-manual/"><u>2024 Approved Mastering iPhone X Animoji Your Comprehensive User's Manual</u></a></li>
-<li><a href="https://win-community.techidaily.com/acer-erecover-bypassed-try-these-3-proven-strategies-for-a-smooth-restoration-process/"><u>Acer eRecover Bypassed? Try These 3 Proven Strategies for a Smooth Restoration Process</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-nikon-d500-a-revolution-in-4k-uhd-photography/"><u>In 2024, Nikon D500 A Revolution in 4K UHD Photography</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-high-dynamic-range-photography-with-ps-for-2024/"><u>Navigating High Dynamic Range Photography with PS for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-mobile-alter-picture-size-on-iphone-easefully/"><u>[New] Mastering Mobile Alter Picture Size on iPhone Easefully</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-revolutionizing-action-video-with-polaroid-xs-100i-for-2024/"><u>[New] Revolutionizing Action Video with Polaroid XS 100I for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-how-to-make-awesome-youtube-channel-art-ultimate-guide-for-2024/"><u>[Updated] How to Make Awesome YouTube Channel Art [Ultimate Guide ] for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-photography-flip-and-tilt-your-images-anywhere/"><u>[Updated] IPhone Photography Flip & Tilt Your Images Anywhere</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-journey-through-podcast-land-iphoneipad-edition/"><u>2024 Approved Journey Through Podcast Land IPhone/iPad Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-windows-10-the-hidden-paths-for-importation/"><u>2024 Approved Mastering Windows 10 The Hidden Paths for Importation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/auditory-evolution-at-your-fingertips-the-leading-5-chrome-extension-apps-for-2024/"><u>Auditory Evolution at Your Fingertips The Leading 5 Chrome Extension Apps for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-free-online-calling-applications-for-202/"><u>Discover the Ultimate List of Free Online Calling Applications for 202지</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-the-metaverse-humor-scene-with-our-top-meme-ideas-for-2024/"><u>Master the Metaverse Humor Scene with Our Top Meme Ideas for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/nox-player-stability-issues-solved-tips-to-prevent-frequent-pc-crashes/"><u>Nox Player Stability Issues Solved: Tips to Prevent Frequent PC Crashes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-users-rejoice-quick-and-easy-rndis-driver-downloads-and-upgrades-fixed/"><u>Windows Users Rejoice: Quick and Easy RNDIS Driver Downloads and Upgrades [FIXED]</u></a></li>
 </ul></div>
 

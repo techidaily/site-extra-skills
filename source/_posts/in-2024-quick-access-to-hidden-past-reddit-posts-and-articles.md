@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quick Access to Hidden, Past Reddit Posts and Articles"
-date: 2024-07-31T09:15:51.394Z
-updated: 2024-08-01T09:15:51.394Z
+date: 2025-02-26T16:26:26.995Z
+updated: 2025-03-03T16:17:34.466Z
 tags: 
   - screen-recording
   - ai video
@@ -42,9 +42,6 @@ Step1 First, go to [Unddit.com](https://www.unddit.com/).
 
 Step2 Click on the red "Unddit" button and drag it to your bookmark bar
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unddit button pointing to bookmark](https://images.wondershare.com/filmora/article-images/2023/01/red-unddit-button.png)
 
 Step3 Go to the deleted Reddit post
@@ -53,25 +50,10 @@ Step4 Click on the Unddit bookmark you just saved
 
 This will automatically lead you to a new page. There, Unddit analyses and displays all the deleted comments from that post.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![results page on unddit tool](https://images.wondershare.com/filmora/article-images/2023/01/unddit-results.png)
 
 On the downside, Reddit doesn't work well with most Reddit posts. It's more effective for revealing deleted comments. Additionally, it may show an error from time to time. Unfortunately, the reason isn't always displayed, and it's something we need to live with.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Reveddit
 
 Unlike Unddit, Reveddit will always help you find deleted Reddit posts. It's a powerful tool and much more stable compared to so many others out there.
@@ -88,9 +70,6 @@ Step2 Type in a specific username, subreddit name, or simply insert the link of 
 
 Step3 Click "Go" and it will display every deleted Reddit post within that search query
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![reveddit results page](https://images.wondershare.com/filmora/article-images/2023/01/reveddit-results.png)
 
 There's one thing you need to remember about Reveddit. While it quickly shows deleted posts on Reddit, this only applies to posts and comments that were deleted by moderators or bots. So, if a user deleted their post, Reveddit won't display that one in the results.
@@ -107,18 +86,12 @@ Step1 Go to Resavr.com
 
 Step2 Type in a keyword in the top-right corner search bar
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![resavr home page](https://images.wondershare.com/filmora/article-images/2023/01/resavr-search-bar.png)
 
 Step3 It will display a list of Google results with Reddit posts that have deleted comments
 
 The main disadvantage of Resavr is its search feature. There's no way to search for a specific Reddit post. Instead, you can only view recent posts with deleted comments. Or you can type in a specific word and go through all the posts that pop up to find what you're looking for.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. The Wayback Machine
 
 The Wayback Machine is a powerful tool that stores archives of other websites' caches. It's a non-profit site that lets you see deleted Reddit posts and comments that have been stored in the past.
@@ -129,16 +102,10 @@ Step1 Visit archive.org. (Wayback Machine's official website)
 
 Step2 Paste the link to the deleted post and hit "Enter"
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![wayback machine search bar](https://images.wondershare.com/filmora/article-images/2023/01/wayback-machine-search-bar.png)
 
 Step3 Wayback Machine will display the results in a calendar format. Click on a date to see all deleted posts on that day in history.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![result page on wayback machine website](https://images.wondershare.com/filmora/article-images/2023/01/wayback-machine-search-results.png)
 
 Wayback Machine is a little slower when loading the results than other tools. But it gives you a comprehensive list of all the deleted content highlighted when it loads.
@@ -159,9 +126,6 @@ Step2 When you find the result, click on the three dots next to the page's link
 
 Step3 Then, select "Cached" from the small new window that pops up
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![google search result cached feature](https://images.wondershare.com/filmora/article-images/2023/01/google-cached-button.png)
 
 This takes you to a previous version of the page when Google bots last visited it. Hopefully, this was when the post wasn't yet deleted. You can't know until you see the page and check it out.
@@ -214,9 +178,6 @@ Step1 Go to Reveddit.com
 
 Step2 Type in a specific username, subreddit name, or simply insert the link of the deleted post
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![search bar on reveddit tool](https://images.wondershare.com/filmora/article-images/2023/01/reveddit-search.png)
 
 Step3 Click "Go" and it will display every deleted Reddit post within that search query
@@ -237,9 +198,6 @@ Step1 Go to Resavr.com
 
 Step2 Type in a keyword in the top-right corner search bar
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![resavr home page](https://images.wondershare.com/filmora/article-images/2023/01/resavr-search-bar.png)
 
 Step3 It will display a list of Google results with Reddit posts that have deleted comments
@@ -266,9 +224,6 @@ Wayback Machine is a little slower when loading the results than other tools. Bu
 
 There is another downside. This tool doesn't archive everything instantly. So, there is a chance that some posts won't pop up if a Reddit moderator deleted the post before Wayback Machine could archive it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### 5\. Google Cache
 
 Last but not least, it's the Google Cache method. This isn't so much a tool as it is a way to reveal deleted Reddit posts. It won't go as far back in time as Wayback Machine to display deleted Reddit posts. It only shows recently deleted ones.
@@ -279,16 +234,10 @@ Step1 Search for the deleted Reddit post on Google
 
 Step2 When you find the result, click on the three dots next to the page's link
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google search result three dots](https://images.wondershare.com/filmora/article-images/2023/01/google-cache-method.png)
 
 Step3 Then, select "Cached" from the small new window that pops up
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google search result cached feature](https://images.wondershare.com/filmora/article-images/2023/01/google-cached-button.png)
 
 This takes you to a previous version of the page when Google bots last visited it. Hopefully, this was when the post wasn't yet deleted. You can't know until you see the page and check it out.
@@ -327,5 +276,26 @@ Just remember, these tools can often stop working. This is because they don't me
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-10-key-devices-for-effective-zoom-sessions/"><u>[New] 10 Key Devices for Effective Zoom Sessions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-streamline-your-obs-on-economical-devices/"><u>[New] 2024 Approved Streamline Your OBS on Economical Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-vr-grips-top-8-essential-handsets/"><u>[New] Leading VR Grips Top 8 Essential Handsets</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-video-impact-with-zoom-in-tiktok/"><u>[New] Maximizing Video Impact with Zoom in TikTok</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pioneering-business-through-virtual-realitiescape/"><u>[Updated] Pioneering Business Through Virtual Realitiescape</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-gopro-selection-a-comparative-review/"><u>2024 Approved Mastering Gopro Selection A Comparative Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-over-20-unique-collages-for-brightening-spaces/"><u>2024 Approved Over 20 Unique Collages for Brightening Spaces</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sierra-users-meet-the-future-of-video-editing-tools/"><u>2024 Approved Sierra Users, Meet the Future of Video Editing Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sky-high-savings-on-storages-an-insider-look-at-free-and-premium-cloud-services/"><u>2024 Approved Sky High Savings on Storages An Insider Look at Free & Premium Cloud Services</u></a></li>
+<li><a href="https://network-issues.techidaily.com/address-slow-response-roblox-windows-edition/"><u>Address Slow Response: Roblox Windows Edition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/complete-directors-guide-to-powerdirector-24-software/"><u>Complete Director's Guide to PowerDirector '24 Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-guide-to-8-premium-free-software-apps-windowsmac/"><u>Essential Guide to 8 Premium Free Software Apps (Windows/Mac)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-evaluation-of-urban-armor-gears-robust-macbook-pro-shield-case/"><u>Expert Evaluation of Urban Armor Gear’s Robust MacBook Pro Shield Case</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-inter-service-playlist-shuffling-with-ease/"><u>In 2024, Navigating Inter-Service Playlist Shuffling with Ease</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-best-of-breed-top-screen-capture-software-reviews/"><u>In 2024, The Best of Breed Top Screen Capture Software Reviews</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/low-cost-options-for-acquiring-gopro-cameras-for-2024/"><u>Low-Cost Options for Acquiring GoPro Cameras for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meta-unveils-open-source-quest-operating-system-for-compatible-wireless-headsets-from-brands-like-asus-and-lenovo/"><u>Meta Unveils Open-Source Quest Operating System for Compatible Wireless Headsets From Brands Like Asus & Lenovo</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/open-markets-close-plans-strategy-inception-for-2024/"><u>Open Markets, Close Plans Strategy Inception for 2024</u></a></li>
+</ul></div>
 
